@@ -1,0 +1,74 @@
+[color=brown][size=16pt][b]新的网精规则[/b][/size][/color]
+
+本节内容将提供网精能力的新规则和扩展定义。
+
+[spoiler]
+[size=16pt][b]NEW SPRITE RULES[/b][/size]
+This section provides new rules and expanded definitions of sprite abilities.
+[/spoiler]
+
+[b]网精和节点访问[/b]
+
+作为共鸣造物，网精可以随心所欲地往返于共鸣领域。这让他们找到了一种捷径，可以通过共鸣领域从一个节点到另一个节点，而不是通过矩阵。然而，这并没有给他们一个绕过防火墙和系统安全的自由通行许可。网精只能使用这个捷径访问注册它们的超链者所在的节点(即超链者将其呼唤到节点中)，或者访问它们拥有合法账户或后门访问的节点。否则，网精必须按照与其他黑客相同的规则入侵节点。
+
+与决策能力有限的代理不同，网精足够聪明，可以像泛人类黑客或超链者一样做出决策。然而，请记住，他们对现实世界或矩阵之外的任何事物的了解——包括泛人类的行为和逻辑——即使不是完全不存在，也是相当有限的。如果没有超链者的建议，网精可能无法正确评估泛人类的行为和预测他们的反应。
+
+因为超链者与他们的网精保持着联系，只要他们保持在线，他们就能够通过文本、文件甚至感觉来交流和交换信息。因此，网精可以用来创建用户帐户或安装后门，为黑客访问节点铺平道路(尽管这样做至少可以算作一个或多个远程服务)。
+
+[spoiler]
+[b]SPRITES AND NODE ACCESS[/b]
+As creatures of resonance, sprites may travel to and from
+the resonance realms as they please. This allows them a kind of shortcut, taking a path from one node to another via the resonance realms, rather than through the Matrix. This does not, however, give them a free pass to bypass firewalls and system security. A sprite may only use this shortcut to access a node in which the technomancer to whom they are registered is present (i.e., the technomancer calls them into the node), or in which they have legitimate account or backdoor access. Otherwise, the sprite must hack into the node, following the same rules as any other hacker (p. 221, SR4). 
+Unlike agents, whose decision-making capacity is limited, sprites are sapient enough to make decisions like any metahuman hacker or technomancer. Keep in mind, however, that their knowledge of the real world or anything beyond the Matrix—including metahuman behavior and logic—is quite limited, if not nonexistent. When not advised by a technomancer, sprites may fail to assess metahuman behavior and predict responses correctly. 
+Since technomancers maintain a link with their sprites, as long as they remain online, they are able to communicate and exchange information in terms of text, files, and even impressions. Thus, sprites can be used to generate user accounts or install backdoors to pave the way for hackers to access a node (though doing so counts as at least one remote service, and probably several).
+[/spoiler]
+
+[b]网精崩溃[/b]
+
+如果网精遭受到足够的矩阵伤害填充满它的伤害，它就会崩溃。一个崩溃的网精会关闭(或被引导到共鸣领域，如果你相信的话)，并且在16减去它的等级天内不能在矩阵上重新编制，至少需要经过32个小时。崩溃的网精仍然计入超链者的注册(和未注册)网精的数量限制，尽管超链者可以在网精崩溃时将其从剩余任务中释放出来。如果一个未注册网精的8小时服务在它崩溃时结束，它将永远不会返回。对于超链者来说，将一个崩溃的未注册网精从其数字囚禁中解救出来的唯一方法是进行共鸣域搜寻，以找到网精的源代码(见第174页)。
+
+[spoiler]
+[b]CRASHING SPRITES[/b]
+If a sprite suffers enough Matrix damage to fill its damage track, it crashes. A crashed sprite shuts down (or gets booted into the resonance realms, whatever you want to believe) and is not able to recompile on the Matrix for 16 days minus its rating, with a minimum time of 32 hours. Crashed sprites still count against the technomancer’s limit of registered (and unregistered) sprites, though a technomancer may release a sprite from its remaining tasks while it is crashed. Since an unregistered sprite’s 8 hours of service still elapses while it is crashed, it will never return. The only way for a technomancer to bring a crashed unregistered sprite back from its digital imprisonment before its time is to make a resonance realm search to find the source code of the sprite (see p. 174).
+[/spoiler]
+
+[b]链接(长期注册)[/b]
+
+正在编制网精的超链者可以通过支付与其等级相等数量的业力，半永久地将注册网精派遣到一个或一系列任务(所谓链接)。一旦通过业力建立链接，网精将不再计入超链者对已注册网精的限制，任何剩余的服务都将丢失。链接的网精将持续256天的最后任务，除非被注销或被裂解，在这种情况下它将在16减去其等级天后返回其职责。
+
+[spoiler]
+[b]LINKING(LONG-TERM REGISTERING)[/b]
+A compiling technomancer can semi-permanently script a registered sprite to a task or set of tasks (so called linking) by paying Karma equal to its rating. Once linked with Karma, the sprite no longer counts against the technomancer’s limit for registered sprites, and any remaining services are lost. The linked sprite will remain at its final service 256 days, unless decompiled or disrupted, in which case it will return to its duties after 16 days
+minus its rating (see Crashing Sprites, p. 154).
+[/spoiler]
+
+[b]网精与复合程式[/b]
+
+根据GM的判断，本文和SR4第236页中描述的所有网精的复合程式均可能配备了程序选项作为可选能力。代替每3等级选择可选的复合程式(p。236年,SR4)，超链者可以添加一个合适的程序选项到他试图编制的网精天生所带的复合程式上(或带有程序选项的复合程式, 只要网精的等级足够高来选择它)。
+
+[spoiler]
+[b]SPRITES AND COMPLEX FORMS[/b]
+With the gamemaster’s discretion, the complex forms of all sprites described herein and on p. 236, SR4 may be equipped with program options as optional powers. Instead of choosing optional complex forms for every 3 full rating points (p. 236, SR4), the technomancer may add a suitable program option to one of the innate complex forms of the type of sprite he attempts to compile (or optional forms, as long as the rating of the sprite is high enough to choose).
+[/spoiler]
+
+[quote]
+[b]可选规则：扩展复合程式[/b]
+
+因为《Unwired》引入了新程序和复合程式，而这是第236页SR4中描述的5种基本网精所没有的，既包括了复合程式，也包括了带有程序选项的复合程式，所以GM可以选择扩展每种网精所拥有的(带有程序选项的)复合程式的数量和类型。
+
+[spoiler]
+[b]OPTIONAL RULE: SPECTRUM OF COMPLEX FORMS[/b]
+Since Unwired introduces new programs and complex forms that the five basic sprites described on p. 236, SR4, do not have, neither as complex forms nor as optional CFs, gamemasters may choose to extend the number and type of (optional) complex forms that each sprite possesses as he deems fit.
+[/spoiler]
+[/quote]
+
+[quote]
+[b]网精的图标[/b]
+
+矩阵中每个图标的外观都是精心雕琢的结果，网精也不例外。每个网精的外观都是在编制的时候选择的，几乎任何外观都是可能的，从像齿轮这样的机械形式，到类似电子动物的形式到类人形式。任何形式一般都是可能的。但是除了创造者的意愿之外，还有一些因素也会影响它的外观。不仅网精的矩阵签名依赖于编制它的超链者，他的活体化身的象征也严重影响了他们的网精的外观。其次，超链者遵循的支流对雕琢有重要影响。支流不仅等同于超链者对矩阵的看法，它还定义了超链者与其网精之间的关系。对于网精的主人来说，一个纯粹的工具与一个值得信赖的近乎平等的对象看起来是完全不同的。最后，编制网精的意图确实会在其外观中留下线索。如果没有任何明显的线索，网精的种类会给出一些关于它被编制的动机的线索
+
+[spoiler]
+[b]SPRITE ICONOGRAPHY[/b]
+The appearance of every icon in the Matrix is the result of deliberate sculpting, and sprites are no exception. Every sprite’s appearance is chosen at the moment of its compilation, with just about any look possible, ranging from mechanical forms like gears, over electronic resemblances of animals to humanoid form. Any shape is generally possible. But there are certain things which affect its appearance besides the wish of its creator. Not only does its matrix signature depend on the compiling technomancer, the metaphor of his living persona also heavily influences their sprites’ look. Secondly the Stream a technomancer follows has a major affect on the sculpting. It is synonymous not only for his outlook on the matrix in general, it defines what kind of relationship the technomancer has to its sprites. A mere tool to its owner looks quite different than a trusted near-equal. Finally, the intention with which the sprite is compiled does leave clues in its appearance. If there aren’t any clues apparent, the kind of sprite gives some clue about its cause
+[/spoiler]
+[/quote]

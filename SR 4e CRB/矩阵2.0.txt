@@ -1,0 +1,236 @@
+[color=brown][size=16pt][b]矩阵 2.0[/b][/size][/color]
+
+在2029年，一种神秘的病毒摧毁了世界范围内所有的计算机网络，几乎使人类文明彻底瘫痪。取而代之被建设起来的是一个新的虚拟现实矩阵，为数据交易和依托于计算机的社交提供了一个数字化的领域。2064年，第二次全球级崩溃，被称为"崩溃2.0"，再次摧毁了矩阵。到2072年，旧的矩阵——从用户的数据插口和赛博碟板到有线计算机主机和无数的光纤电缆——已经成为历史。一个新的由增强感知和无线连接组成的矩阵世界已经出现，旧的有线基础设施仅仅是当前无处不在的网络的一小部分。
+
+在暗影狂奔中，几乎每个人都在有意无意之间成为了这个相互联系的电子世界的一部分。你的通讯链是一台手持终端或移动电话大小的电脑，它能让你随时随地在线并保持联系。增强现实(AR)由图像、数据叠加而成，并由矩阵提供给你的物理感官，就像一个个人抬头显示器; 在个人电子设备的帮助下，你甚至不用低头往下看，就可以实时看到地图、餐厅的菜单或收到的电子邮件信息。无线网络还允许计算机辅助你与你附近的任何人进行的社交，无论你是想阅读那个性感精灵的公开资料，多买两张《极速昏厥》的票，还是在《化身刺客》的死亡竞赛中与一个竞争者进行较量。
+
+虚拟现实(VR)让你沉浸在数字世界中。对于VR用户来说，真实世界将被矩阵呈现的全感官模拟所取代。它通常被矩阵专家、程序员和其他可能在工作中受益于VR环境的专业人士使用。它还被广泛用作游戏、拟感记录和其他体验的娱乐方式。
+
+当每个人都在使用矩阵时，某些暗影狂奔者操纵无线世界为他们所用。黑客专精于指挥程序和机器执行他们的命令，操纵数据，或者搜出锁在数字保险箱里的信息。机师是在矩阵中控制载具和无人机等设备的专家，他们使用先进的神经界面来"成为"他们所控制的设备。超链者——矩阵进化之子——则拥有仅仅凭借赤裸心灵的力量改变整个无线世界的的能力。
+
+这些定位的狂奔者在访问和利用无线(和有线)网络方面表现出色。他们在任何一个暗影团队中都扮演着重要的角色，不仅是因为他们有能力破坏安保系统并收集重要数据，还因为他们有能力控制无人机大军，并完全接入载具——这让他们拥有了即使是赛博街头武士也无法匹敌的优势。他们与队友并肩狂奔，无线地在任何环境下自由工作。
+
+[spoiler]
+[color=brown][size=16pt][b]THE MATRIX 2.0[/b][/size][/color]
+In 2029, a mysterious virus devastated the worldwide computer network, nearly bringing civilization to its knees. A new virtual reality Matrix was built in its stead, creating a digital realm for both data transactions and computer-aided socializing. In 2064, a second global Crash, called "Crash 2.0," brought down the Matrix once again. By 2072, the Matrix of old—from the datajacks and cyberdecks of its users to the wired computer hosts and mile upon mile of fiber-optic cable spaghetti—is now history. A new Matrix has arisen, a world of augmented perceptions and wireless connections, with the old wired infrastructure barely a fraction of the current ubiquitous network.
+
+In Shadowrun, nearly everyone is part of this interlinked electronic world, sometimes unintentionally. Your commlink is a computer the size of a PDA or mobile phone that allows you to be online wherever you go, 24-7-365, so that you are always in touch. Augmented reality (AR) overlays images, data, and Matrix feeds on your physical senses like a personal heads-up display; with the aid of personal electronics you can see a map, a restaurant’s menu, or an incoming email message in real time and without even having to look down. Wireless networking also allows computer-aided socializing with anyone in your immediate vicinity, whether you want to read that hot elf’s public profile, hock an extra pair of Speed Coma tickets, or take on a contender in an Avatar Assassin deathmatch.
+
+Virtual reality (VR) immerses you in a digital world. To the VR user, the real world is replaced with a full-sensory simulation that represents the Matrix. It is commonly used by Matrix specialists, programmers, and professionals who might benefit from VR environments in their work. It also sees widespread use as a form of entertainment for gaming, simulated sensory recordings, and other experiences.
+
+While everyone uses the Matrix, certain shadowrunners manipulate the wireless world to their advantage. Hackers specialize in commanding programs and machines to do their bidding, manipulating data, or ferreting out information locked away in digital vaults. Riggers are experts at controlling devices like vehicles and drones through the Matrix, using its advanced neural interface to "become" the devices they control. Technomancers—the evolved children of the Matrix— possess the ability to transform the wireless world with nothing but the power of their naked minds.
+
+Runners in these roles excel in accessing and exploiting wireless (and wired) networks. They fill a vital role in any shadowrunning team, not just for their ability to compromise security systems and gather vital data, but for their skills in controlling armies of drones and fully interfacing with vehicles—giving them an edge that even cybered street samurai cannot match. They run side by side with their teammates, free to work anywhere wirelessly.
+[/spoiler]
+
+---
+
+[size=16pt][b]一个全新的世界[/b][/size]
+
+矩阵2.0本身是一个宏观世界。任何与电子产品有关的东西，从通讯链到赛博殖装，从主机到家用电器，都内置了集成无线网络。事实上，几乎任何具有无线功能的产品都具有矩阵功能: 从提醒你更换刀片的剃须刀，到通知你弹药量和枪管温度的火器，再到可以储存音乐的衣物。
+
+从内部看到的矩阵是一种虚拟的景观，一种交感幻觉，另一个截然不同的世界，或三者均正确，这取决于你的观点。它是世界上所有支持矩阵的设备的数字表示。使用它，你可以看到和听到矩阵，并且通过使用适当的设备，甚至可以触摸，嗅闻，品尝其中的一切。这是图形用户界面的一个更直观的演变: 不再需要使用鼠标点击并拖动文件的小图标来复制它，你可以在虚拟空间中移动，拿起表示文件的盒子，然后将其拉开，将其变成文件的两个副本。这只是在矩阵种复制文件的一种可能方式; 它可以很容易地让你使用"魔法"，发出语音命令，或者表现的像100个带面具的仆人一样服从你的指令，取决于你如何配置你的系统来解释"复制这个文件"。
+
+每个设备都会在矩阵中创建一个节点，一个代表设备系统和存储空间的数字"地点"。这些节点是文件存储和用户工作及娱乐的地方。每个设备和节点都是连接在一起的——一个在物质世界中，另一个在矩阵中，是同一事物的两面。
+
+矩阵由图标填充，每个图标代表一个用户、程序、文件、连接、数据流、控件或其他任何你可以交互的东西。当你与矩阵以及其中的节点和图标交互时，你使用了一个化身，一个固件程序，它允许你与虚拟世界进行交互和操作。
+
+矩阵中节点或图标的外观和行为被称为"塑模"。大多数用户会购买通用的图标模板，并根据自己的喜好定制图标，但拥有合适技能的黑客会以塑模自己的图标为荣。塑模不能被即兴改变(如果可定制化的话)，并且是任何矩阵程序的必要组成部分。虽然图标的外观和声音(以及触感)没有潜在的限制，但通常认为图标在大小和外观上符合某些公认的标准是礼貌的，这样它就不会与它访问的节点发生冲突。在VR节点中，如果一条50英尺长的龙被塑模展示在一个紧凑的游览巴士的内部，这不会导致节点崩溃或削弱其他图标的能力，但会导致一些非常丑陋的图形故障，并被认为是粗鲁的行为。图标和节点的塑模包括它们的特性，例如节点中重力的方向和强弱，或化身移动时发出的声音。默认情况下，节点或图标的塑模会在较高的等级下变得更加详细和复杂(节点的系统等级)，但可以通过操纵图标参数或进行一些编码工作来提高或降低分辨率。
+
+[spoiler]
+[size=16pt][b]A WHOLE NEW WORLD[/b][/size]
+The Matrix 2.0 is a macrocosm unto itself. Everything with any sort of electronics, from commlinks to cyberware to mainframes to household appliances, includes integral wireless networking. In fact, almost anything that can be manufactured with wireless capability comes with Matrix capability: from razors that remind you to change the blades to firearms that inform you of ammunition level and barrel temperature to articles of clothing that offer storage for your music.
+
+The Matrix seen from within is a virtual landscape, a consensual hallucination, an alternate world—or all three at once, depending on your point of view. It is the digital representation of all of the Matrixcapable devices in the world. Using it, you can see and hear the Matrix, and with the proper equipment even touch, smell, and taste everything in it. It is a far more intuitive evolution of the graphical user interface: rather than using a mouse to click-and-drag a small picture of a file to copy it, you could move through a virtual space, pick up a box that represents the file, and pull it apart to form two copies of it. This is only one possible way the Matrix could represent copying a file; it could just as easily allow you to use "magic", give voice commands, or appear as a hundred masked lackeys doing your bidding, however you configure your system to interpret ‘copy this file’.
+
+Each device creates a node in the Matrix, a digital "place" that represents the device’s system and storage space. These nodes are where files are stored and users work and play. Each device and node are linked—one is in the physical world and the other in the Matrix, two sides of the same thing. 
+
+The Matrix is populated by icons, each a representation of a person, program, file, connection, data stream, control, or anything else with which you can interact. When you interact with the Matrix and the nodes and icons in it, you use a persona, a firmware program that allows you to interface with and manipulate the virtual world.
+
+The way a node or icon looks and behaves in the Matrix is called its sculpting. Most users buy generic icon templates and customize them to taste, but hackers with the right skills take pride in sculpting their own icons. Sculpting may not be changed on the fly and is an integral, if customizable, part of every Matrix program. While there are potentially no limits to what icons can look and sound (and feel) like, it is generally considered polite for an icon to comply with certain accepted standards in size and presentation so that it doesn’t conflict with the nodes it visits. For example, while a fifty-foot dragon in a VR node sculpted to resemble the inside of a compact tour bus might not crash the node or diminish the abilities of other icons, it would cause some very ugly graphical glitches and be considered crass. The sculpting of icons and nodes includes their behavior, for example the direction and force of gravity in a node or the way a persona sounds as it moves. By default, the sculpting of a node or an icon becomes more detailed and intricate at higher ratings (System rating for nodes), but it is possible to increase or decrease the resolution by manipulating icon parameters or with some coding work.
+[/spoiler]
+
+---
+
+[size=14pt][b]矩阵拓扑[/b][/size]
+
+网络拓扑是网络中连接的形状。从技术上讲，矩阵是一个无处不在的Ad-hoc无线网络。"无线网络"部分意味着每个设备都可以与其他设备进行链接。"Ad-hoc"的意思是链接即时完成。这是必要的，因为像载具和通讯链这样的设备经常在不断移动，所以矩阵的拓扑结构必须在任何给定的区域随时间推移而改变。这在任何有多个设备的区域创建了一个持续的无线通信"云"，因为每个设备都在传递连接信息、数据、消息，或者只是与相邻设备保持联系。矩阵仍然有一些有线连接的部分，虽然它们大部分是崩溃2.0之前的残余，但它们现在主要用作WANs(广域网)和RTGs(无线电报)的骨干。只要有足够多的无线设备就能让一个区域不成为死区，其中至少要有一个设备可以连接到矩阵的其他部分。
+
+当一个无线设备需要将信息传递给在彼此信号范围内的另一个设备时，它只需要简单地发送数据。如果目标设备不在这个范围内，例如，当你在加美国试图与里斯本的约翰逊先生通话时，信息就会在一个叫做路由的过程中从一台设备传输到另一台设备。当信息在设备之间路由时，它被无序地分割成许多块，并通过多个路径发送给接收方; 这使得拦截通信几乎不可能，除非是在发送方或接收方的信号范围内，因为这是信息可读的唯一位置(捕获无线信号，第229页)。与设备的其他功能不同，设备的路由功能是由单独的硬件组件来处理的。这使得路由过程对用户不可见，并且即使设备在隐藏模式下运行也允许设备的节点连接到矩阵。(第223页)
+
+[spoiler]
+[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+A network topology is the shape of the connections in a network. Technically speaking, the Matrix is a ubiquitous ad-hoc wireless mesh network. The "wireless mesh" part means that every device makes contact with every other device it can. "Ad-hoc" means that this is done on the fly. This is necessary because devices like vehicles and commlinks are often constantly moving, so the topology of the Matrix has to change over time in any given area. This creates a "cloud" of constant wireless traffic in any area with more than one device as each device passes connection information, data, messages, or just keeps track of neighboring devices. There are still wired parts of the Matrix, mostly leftovers from before the Crash 2.0, but these are mostly used as backbones for WANs and RTGs. All an area needs for it to stop being a dead zone is enough wireless devices, of which at least one can reach the rest of the Matrix.
+
+When a wireless device needs to pass information to another device in mutual Signal range, it simply sends the data. If the destination is not within this range, for example when you are in the UCAS and trying to speak to Mr. Johnson in Lisbon, the information travels from device to device in a process called routing. When information is routed between devices, it is non-sequentially sliced into a number of pieces and sent to the recipient via multiple paths; this makes it almost impossible to intercept the traffic except within Signal range of the sender or the receiver, the only places the information is in one readable piece (Capture Wireless Signal, p.229). The routing functions of a device are handled by a separate component of hardware than the other functions of the device. This makes the routing process invisible to the user, and allows the device’s node to connect to the Matrix even when it is operating in Hidden mode (p.223).
+[/spoiler]
+
+[quote]
+[size=14pt][b]存储内存[/b][/size]
+到2072年，存储内存和数据压缩技术允许将大量的信息存储在相对较小的空间中。在大多数情况下，GM和玩家可以假设角色在任何特定设备上都有足够的存储空间来满足他们的需求，所以不需要对文件大小和可用内存进行微管理。GM可以在某些情况下判定某个特定设备已满或没有存储新内容所需的容量，但这应该只适用于小型设备和/或大型文件集。然而，无线网络的便利性和可用性意味着，即使在这种情况下，角色也可以快速地将文件传输到任何数量的其他个人或远程存储设备上。
+
+[spoiler]
+[size=14pt][b]STORAGE MEMORY[/b][/size]
+Storage memory and data compression technologies by 2072 allow vast amounts of information to be stored in relatively minute spaces. For the most part, gamemasters and players can assume that characters have enough storage memory on any particular device to meet their needs, so there is no need to micromanage file sizes and available memory. The gamemaster can rule in some situations that a particular device is full or does not have the capacity needed to store something new, though this should be reserved for either small devices and/or massively large file collections. The ease and availability of wireless networking, however, means that even in cases like this, the character can quickly transfer the file to any number of other personal or remote storage devices.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]接入网络[/b][/size]
+
+要使用矩阵，你首先需要一个化身。化身程序是一个拟感用户界面，内置的固件程序，允许用户与矩阵互动，就像一个控制窗口或老式电子游戏界面。有几种方法可以获得一个人物化身，最简单的是在一个通讯链上。每个通讯链都有一个内置的化身，而通讯链几乎在任何文明地区都是无处不在的。
+
+一旦你有了通讯链，你需要连接到矩阵。你的通讯链必须能够连接到至少一个设备，该设备必须能够连接到至少一个其他设备，以此类推，遍及整个文明世界。"矩阵"就是所有这些节点，包括你的节点。
+
+许多人都有一个矩阵服务提供商(MSP)，他们将其用作矩阵的某种前端。一个MSP不是网上冲浪或黑客活动所必需的，但大多数普通用户(和许多暗影狂奔者)发现MSP提供的服务在他们的日常工作中很有用。
+
+尽管在核心规则中偶尔会涉及到，但关于MSP服务的使用和功能的进一步细节将在进阶矩阵规则手册Unwired中进行介绍。
+
+[spoiler]
+[size=14pt][b]GETTING ONLINE[/b][/size]
+To use the Matrix, you first need a persona. Persona programs are simsense user interfaces; built-in firmware that allow a user to interact with the Matrix, like a control window or a video game interface of old. There are a couple of ways to get a persona, the easiest being on a commlink. Every commlink has one built-in persona, and commlinks are almost ubiquitous in any civilized area. 
+
+Once you have your commlink, you need to connect to the Matrix. Your commlink must be able to connect to at least one device, which must be able to connect to at least one other device, and so on throughout the civilized world. "The Matrix" is all of these nodes, including yours.
+
+Many people have a Matrix service provider (MSP) that they use as a sort of front-end for the Matrix. An MSP is not necessary for surfing or hacking, but most casual users (and many shadowrunners) find the services offered by MSPs to be useful in their day-to-day routines. 
+
+Though incidental in these core rules, further details on the uses and functions of MSP services are featured in the advanced Matrix rulebook, Unwired.
+[/spoiler]
+
+[size=12pt][b]通讯链[/b][/size]
+
+通讯链是终极的个人网络工具，几乎每个人都在使用。它们是便携计算机、无线路由器、手机、PDA(掌上电脑)、GPS、芯片读取器、数码相机、钱包/信用卡和移动游戏设备的组合，所有这些功能都集成到一个可以放进口袋、皮带夹或手腕夹的便于携带的小盒子里。
+
+通讯链的形状、大小和颜色令人眼花缭乱，从风格化的耳机或人造珠宝到颅骨植入物和那些被编织进夹克织物的通讯链。通讯链是你个域网(PAN)的主要枢纽，PAN是你身上或身边的所有设备，包括赛博殖装、AR眼镜、基于服装的存储设备、武器或你携带的任何其他设备。PAN允许你通过通讯链访问和操作所有连接的电子设备。需要打个电话? 回顾你昨天拍的视频? 扫描你的赛博肢体上的诊断结果? 检查无人机的燃料? 设置你的闹钟? 联系一个朋友? 你可以通过你的通讯链做所有这些，甚至更多。
+
+[spoiler]
+[size=12pt][b]COMMLINKS[/b][/size]
+Commlinks are the ultimate personal networking tool, used by almost everyone. They are a combination portable computer, wireless router, cell phone, PDA, GPS unit, chip reader, digital camera, wallet/credstick, and mobile gaming device, all in one easy-to-carry package that fits inside a pocket, belt-clip, or wrist-clip.
+Commlinks come in a dizzying array of shapes, sizes, and colors, from stylized head-sets or faux jewelry to cranial implants and commlinks woven into the fabric of your jacket. Commlinks serve as the primary hub for your personal area network, or PAN, which is all of the devices you have on or near your person, which could include cyberware, AR shades, clothing-based storage, weapons, or any other devices you carry. A PAN allows you to access and manipulate all of your connected electronics through your commlink. Need to make a call? Review a video file you took yesterday? Scan the diagnostics on your cyberlimb? Check the fuel on your drone? Program your alarm clock? IM a friend? You can do all of this and more through your commlink.
+[/spoiler]
+
+[size=12pt][b]数据管理[/b][/size]
+
+通讯链还为你提供了与你周围的世界的即时无线连接。不仅可以通过矩阵发消息，打电话，传输文件或访问数据，你还可以访问你周围的无线设备和网络，从商店的销售目录到你朋友的PAN，从路灯上的旅游信息RFID标签到任何想到公园下棋的人的网络社交资料。
+
+通讯链通常携带了你所有的个人数据，取代旧的注册凭证。你的ID，SIN，执照，护照，医疗历史，保险数据，教育文凭，信用余额，和更多信息都可以安全地存储在你的通讯链里，并可以立即发送给任何你想要发送给的人。
+
+许多人通过PAN公开传播他们的部分个人数据，以供他人访问。这就是所谓的公开资料，当你在AR中选择他们的图标时由一个可扩展的AR标签或信息窗口进行展示。这种做法是为了便捷性和满足消费者需求而使用的，例如，你最喜欢的商店可以在你一走进商店时就访问你的购买历史和愿望清单，并为你量身定制特价商品。有些数据会在社交网络和游戏服务上广播，如果有和你有相同的爱好和兴趣的人与你在同一个酒吧，它会通知你，或者允许你在虚拟战斗或棋类游戏中与随机的对手交战。
+
+大多数用户都小心翼翼地控制他们所公开的信息数量，但法律通常要求某些数据必须在特定地区进行广播(SIN必须在加美国的联邦财产和许多企业领地上广播)，或者允许安保人员使用经授权的安保密码访问特定数据。在重度安保的社区和交通繁忙的商业区，警方无人机随机扫描街上人群的PAN是常见的做法; 那些隐瞒了某些信息的人通常被认为是不怀好意的。
+
+[spoiler]
+[size=12pt][b]DATA MANAGEMENT[/b][/size]
+Commlinks also provide you with instant wireless access to the world around you. Not only can you send messages, make calls, transfer files, or access data via the Matrix, but you can access the wireless devices and networks all around you, from the store’s sales catalog to your friend’s PAN to the lamppost tourist-info RFID tag to the social networking profile of anyone else looking to play a game of chess in the park.
+
+Commlinks typically carry all of your personal data, replacing the registered credsticks of old. Your ID, SIN, licenses, passport, medical history, insurance data, educational diplomas, credit balance, and far more can be securely stored on your commlink and instantly beamed to whomever you want to send them. 
+
+Many people openly broadcast certain portions of their personal data via their PAN for others to access. This is known as a public profile, represented by an expandable AR tab or an info window that opens when you select their icon in AR. This practice is used for convenience and for consumer purposes—for example, your favorite stores can access your purchasing history and wish lists as soon as you walk in, and offer specials tailored specifically to you. Some data is broadcast for social networking and gaming services, notifying you if someone single with your same hobbies and interests is in the same bar, or allowing you to engage random opponents in virtual battles or board games.
+
+Most users carefully control how much information they make publicly available, but the law often requires certain core data be broadcast in certain areas (SIN must be made available on UCAS federal property and many corporate enclaves), or for certain data to be accessible by security officers who attempt to access it with authorized security codes. In high-security neighborhoods and traffic-heavy business districts, it is common practice for police drones to scan the PANs of random people on the street; those with something to hide are usually assumed to be up to no good.
+[/spoiler]
+
+---
+
+[quote]
+[size=14pt][b]与AR世界互动[/b][/size]
+示例 #1
+亚历克斯心不在焉地把她的泰克森SP9音乐播放器塞到耳后，把她的法布里克·合一通讯链装到夹克口袋里，然后前往商场。这两个设备共用一副耳机，并且能够识别到彼此; 如果合一通讯链收到提醒，泰克森SP9会暂时切换至静音模式。她的通讯链是PAN的核心组件，可以让她访问基本的无线服务。亚历克斯还拥有一副便宜的坦迪智能眼镜，但她没有数据插口或电极贴片，所以她用她的通讯链上的滚轮来控制界面。当她进入商场时，亚历克斯访问它的公共节点，在她的视野中叠加了商场的地图。她快速浏览目录，将她想要访问的商店添加到她的热点列表中，并在地图上自动以蓝色高亮显示它们。当她进入每家商店时，她的通讯链会显示今天的特惠商品列表(根据她的私人购物资料定制)和一张详细的地图。当进入"时尚音乐"中时，她会立即连接到商店的音乐库，在购买几首歌之前先试听一下，之后下载到她的SP9播放器中。当她购买音乐时，系统会提醒她，她购买歌曲之一的音乐人英格丽·尼德斯特姆(Ingrid needstrom)下周将在市中心举行一场演出。她打电话给她的朋友瑞秋，让她知道音乐会。瑞秋打算去，所以亚历克斯在网上买了两张票(还在店里)，然后把其中一张发给了瑞秋。当她离开商场的时候她收到了几条匿名信息，全都是某个龌龊的家伙发来的，这个家伙看了她通讯链的社交资料后想要和她搭讪。亚历克斯设置了她的通讯链来屏蔽该用户未来发来的所有消息。
+
+示例 #2
+弗拉基米尔正在等待约翰逊先生到达炼狱俱乐部，并因他将要参加的无趣的会议而哀叹。他不想和那些经常光顾俱乐部的狂奔者打交道，所以他把PAN切换到隐藏模式。对于炼狱里的其他渣滓来说，他的网络不再"可见"，并且自动拒绝连接，除了那些来自他好友列表上的可信任的朋友——那正是他想要的。在他等待的时候，他收到了一条来自他的队友"树懒博士"的信息。博士自己待在酒吧另一边的一个隔间里，这样他就可以在约翰逊走进来的时候对他进行星界侦察，他发来的信息说约翰逊先生有一种不寻常的魔法光环。弗拉基米尔立刻触发了他的跳线反射，以防遇到麻烦。今晚也许会很有趣。
+
+示例 #3
+贝西走在街上，准备去某个较好的城区见她的破解软件商人。她的通讯链处于隐藏模式，因为她不想面对地平线在公共大道上散布的令人讨厌的病毒营销。她走路的时候陷入了沉思，所以她没有注意到头顶上的孤星无人机正在扫描她。无人机将聚光灯投射到她身上，并通过扬声器宣布她"隐藏"在公共场所——这在这个高度安保的区域是违法的。贝西立即开始寻找无人机的信号，这样她就可以骇入来对付那些蠢猪。当她锁定了无人机，并通过暴力破解通过了它的防火墙时，无人机试图读取她的访问ID，使用传感器对她的面部进行扫描并将其输入面部识别程序。贝西的访问ID是伪造的——正是为了应对这种情况——但在她摧毁了无人机的操作系统后，她决定迅速离开这个地区。不仅因为无人机很快就会自动重启，而且可能会迅速出现一辆警车，带着她的面部照片。无人机在她拿下它之前就已经将照片发回孤星的调度中心了。
+
+[spoiler]
+[size=14pt][b]INTERACTING WITH THE AUGMENTED WORLD[/b][/size]
+Example #1 
+Sketchy Alex heads to the mall with her TekSense SP9 music player tucked behind her ear and her Fabrique ALLIN1 commlink in her jacket pocket. The two devices share a pair of headphones and are aware of one another; if the ALLIN1 needs attention, the TekSense SP9 will temporarily mute itself. Her commlink is her PAN’s core component and gives her access to basic wireless services. Alex also has a cheap pair of Tandy smartglasses, but no datajack or trodes, so she controls the interface with the scroll wheel on her commlink. As she enters the mall, Alex accesses its public node, superimposing a map of the mall in her vision. She quickly browses the directory and adds the stores she wants to visit to her hotlist, auto-highlighting them in blue on the map.As she enters each store, her commlink displays a list of today’s specials (tailored to her personal purchasing profile) and a detailed map.In Trendz Music, she instantly connects to the store’s music library, sampling several songs before buying them and downloading them directly to her SP9. As she’s purchasing the music, the system lets her know that Ingrid Needstrom—one of the musicians she bought songs from—is playing a gig downtown next week. She calls her friend Rachel via her commlink to let her know about the concert. Rachel is interested in going, so Alex buys two tickets online (still inside the store) and zaps one of them over to Rachel. As she’s leaving the mall, Alex receives several anonymous text messages from some sleazy guy who read her commlink’s social profile and is trying to hit on her. She sets her commlink to block all future messages from that user.
+
+Example #2 
+Vladimir is waiting for Mr. Johnson to arrive at Club Inferno and lamenting the lack of fun he’s likely to have in the meeting. Vlad doesn’t want to have to deal with the runner wannabes that frequent the club, so he switches his PAN to hidden mode. To all the other scum in the Inferno, his network is no longer "visible" and automatically refuses connections except from trusted friends on Vlad’s buddy list—just the way he wants it. While he waits, he receives a message from Doc Sloth, one of his teammates. Doc has positioned himself on the other side of the bar in a booth so he can astrally scan Mr. Johnson as he enters, and his message says that the Johnson has an unusual magical aura. Vlad immediately triggers his wired reflexes, just in case there’s trouble. Maybe the night will be fun after all.
+
+Example #3 
+Bitsy is walking down the street on the way to meet her ’warez dealer in one of the nicer areas of town. She’s in hidden mode since she doesn’t want to have to deal with the obnoxious new viral marketing campaign Horizon has been spamming along the public thoroughfares. She’s lost in thought as she walks, so she fails to notice the Lone Star drone overhead that scans her. The drone drops a spotlight on her and announces via loudspeaker that she’s "hiding" in public—a violation in this high-security sector. Bitsy instantly sets to work finding the drone’s signal so she can hack in and deal with the pigs. As she homes in on it and brute-force hacks past its firewall, the drone attempts to get a read on her access ID and also runs a sensor scan on her face to feed to a facial recognition program. Bitsy’s access ID is forged—for exactly this sort of situation—but after she nukes the drone’s OS she decides to get out of the area fast. Not only will the drone reboot itself soon, but a squad car may show up quick with her mugshot in hand, transmitted by the drone back to Lone Star’s dispatch before she could take it out.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]增强现实与虚拟现实[/b][/size]
+
+有两种方式来体验矩阵：通过增强现实或是虚拟现实。两种方法各有利弊，但都允许你使用相同的权限来访问矩阵。除了少数例外(在本章中会提到)，你在VR中可以做的任何事情都可以在AR中完成，反之亦然。
+
+[spoiler]
+[size=14pt][b]AUGMENTED AND VIRTUAL REALITY[/b][/size]
+There are two ways to experience the Matrix: through augmented reality and virtual reality. Each method has its advantages and disadvantages, but both allow you to use the Matrix with equal access. With only a few exceptions (which are noted in this chapter), anything you can do in VR can be done in AR, and vice versa.
+[/spoiler]
+
+[size=12pt][b]增强现实[/b][/size]
+
+大多数矩阵用户大部分时间都在使用AR。有了增强现实技术，矩阵不再是一个你前往的地方，而是一个由数据和图像组成的平行世界，你可以通过技术设备体验到覆盖在你正常感知之上的感觉。你的通讯链访问矩阵数据，并通过任意数量的界面设备向你提供结果。AR感觉输入对每个用户都是特定和个性化的; 虽然你和你的好友都可以访问餐厅外"显示"的菜单图标，但它可能会被显示给她，并大声朗读给你，你们都不会看到或听到对方的AR输出。
+
+在其最基本的形式中，AR以可视化提示的形式被体验，也被称为增强现实对象图标，或AROs(发音为"arrows")。你可以用图像链(p.333)看到AROs，这是赛博眼的标准配置，它也可以安装在智能护目镜、眼镜甚至隐形眼镜上，这些都与你的通讯链相连。默认情况下，ARO数据在你的视野中显示为幽灵般的图像和文本，因此它不会完全遮挡你的视野。你可以自定义你的界面，以任何你喜欢的方式查看这些数据，或者过滤掉某些内容(如可视化的垃圾AROs)。例如，如果你接受一个视频来电，来电者的图像或图标就会出现在你的视野中，但它是透明的，因此你可以通过它看到真实世界。如果有人向你开枪，你可以让打电话的人等一下，然后关闭增强现实窗口，或者把它移到你的视野边缘，这样它就不会打扰你。
+
+你也可以使用听觉体验AR，通过一个音频链(p.333)传输和听到，比如赛博耳、耳塞式耳机、皮下骨传导扬声器，甚至是可以向你的耳朵发送紧束音频的护目镜或眼镜。你可以控制音量，而且不必担心被人偷听，因为一切都在你的头脑里。先进的AR系统可以通过传输触觉信息(被称为"可触性信息")，或者通过定制的反馈手套和衣服传输温度、压力和阻力。如果你想要完整的AR体验，你可以把AR输入转换成嗅觉和味觉的感觉数据，通常是通过模拟感官来感知，尽管也有专门的赛博殖装改造提供给一个小(并且奇怪的)市场。
+
+
+
+[spoiler]
+[size=12pt][b]AUGMENTED REALITY[/b][/size]
+The majority of Matrix users operate in AR most of the time. With augmented reality, the Matrix is not a place you go so much as a parallel world of data and imagery that you experience as an overlay onto your normal range of senses via technological devices. Your commlink accesses Matrix data and feeds you the results by any number of interface devices. AR sensory input is specific and personalized to each user; while you and your buddy can both access the menu icon “displayed” outside a restaurant, it might be displayed to her and read out loud to you, and neither of you would see or hear the other’s AR output. 
+
+In its most basic form, AR is experienced as visual sight cues, icons known as augmented reality objects, or AROs (pronounced “arrows”). You can see AROs with an image link (p.333), which comes standard in cybereyes and can be installed in smart goggles, glasses, or even contact lenses, which is linked to your commlink. By default, ARO data appear as ghostly images and text in your field of view, so it does not fully obstruct your vision. You can customize your interface to view this data any way you like, or to filter out certain content (like visual spam AROs). If you accept an incoming video call, for example, the caller’s image or icon appears in your field of vision, but transparent so the real world can be seen through it. If someone starts shooting at you, you can put the caller on hold and close the AR window or shift it to your peripheral vision so it doesn’t interfere. 
+
+You can also experience AR through audible cues, transferred and heard via an audio link (p.333) which can be in cyberears, earbud headphones, subdermal bone-vibrating speakers, or even goggles or glasses that send tight-beam audio to your ears. You can control the volume and you don’t have to worry about snoopers overhearing since it’s all in your head. Advanced AR systems can convey tactile information (called haptics) relayed through simsense or by feedback gloves and clothing customized to convey temperature, pressure, and resistance. If you want the full AR experience, you can translate AR input into smell and taste sensory data, usually through simsense although there are specialized cyberware mods for a small(and strange) market.
+
+The easiest way to get your AR fix is through simsense. You need a direct neural interface—either via installed implanted commlink, implanted sim module, a datajack, or a trode net—along with a sim module for your commlink to interpret the signals and feed you the data. Simsense feeds take AR a step further because they can also relay emotions, though services that relay full emotive sim are rare and sometimes illegal or downright disturbing: advertising spam is bad enough, but do you really want to feel it? 
+
+Control and manipulation of the AR interface can be accomplished with a variety of means. Input devices include vocal commands into a microphone, AR gloves, micro-laser eye trackers in glasses, or even mental commands through direct neural interface. When all else fails, the rudimentary controls on the commlink itself can be used.
+[/spoiler]
+
+[size=12pt][b]虚拟现实[/b][/size]
+
+[spoiler]
+[size=12pt][b]VIRTUAL REALITY[/b][/size]
+For those who want the full Matrix experience, you can go a step beyond AR and fully immerse your senses in the virtual reality of the Matrix. In VR, your physical perceptions are overridden by the Matrix’s sensory information. Rather than experiencing the real world around your meat body, you experience the electronic simulation of the Matrix as your persona’s icon.
+
+A simsense module and a direct neural interface are required to access full VR. Implanted sim-modules can also be bought as add-ons for simrigs and implanted commlinks. As a safety precaution, simsense overrides your motor functions while you are in VR so that you don’t unknowingly move in the real world and potentially harm yourself or your surroundings. This means that your physical body is limp while you’re online, as if you were sleeping. With great difficulty, you can still perceive through your meat senses or move your physical body while in VR. 
+
+Virtual reality is popular for several reasons. VR environments are fantastic for intense and realistic gaming experiences, and customizable simsense entertainment feeds are more popular than standard trideo. Since your icon can have any sculpting, VR is more anonymous than AR and is an excellent medium for conducting shady deals or simply socializing without having to overcome barriers raised by looks, metatype, social class, etc. Sometimes just moving through some of the Matrix’s specially sculpted VR landscapes is an interesting way to pass the time—like living in a video game. It is also extremely useful for a number of professional functions including virtual modeling, high-speed transactions, robotics control, security, remote cooperative ventures, etc.
+
+To technomancers, VR is “home”—most feel more comfortable here than navigating the meat world, even with augmented reality. Most importantly for hackers, however, VR is fast—you move at digital speeds, which can be the extra edge you need while pulling a hack job. You can be faster than a street samurai at a fraction of the cost. The virtual reality experience is drastically different from AR. Someone interfacing with augmented reality while he walks down the street often operates more slowly than someone surfing through VR landscapes with his mind alone. Although VR is faster, it normally keeps certain safeguards that protect a user’s brain from dangerous surges or tampering from the Matrix. This simsense interface, dubbed
+“cold sim” on the streets, is in turn slower than the illegally modified “hot sim” interface, which removes most of the protections, allowing users to risk their neural pathways in return for a little extra speed. 
+
+In VR, you become your persona icon. The persona firmware makes you feel like your senses and consciousness are embodied in the icon; in a very real sense it becomes your body in the Matrix. Persona icons are customizable and an immense range of possibilities are available; you can be literally everything. Want to be a purple ogre with eight arms? No problem. How about a cybernetic aphid with jet thrusters? That was last week’s top seller. Maybe you want to look and sound like novahot Goblin Rockstar Orxanne? Easy, but if you want her full vocal range and accompanying soundtrack you’ll have to splurge for the extra features.
+[/spoiler]
+
+[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+
+[spoiler]
+[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+
+[spoiler]
+[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+
+[spoiler]
+[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+
+[spoiler]
+[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+
+[/spoiler]

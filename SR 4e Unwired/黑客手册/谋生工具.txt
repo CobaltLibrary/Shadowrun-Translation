@@ -1,0 +1,360 @@
+[size=12pt][b]谋生工具[/b][/size]
+
+发帖人：Slamm-0!
+
+成为一名黑客并不仅仅是买一个更好的通讯链或升级你的软件——你想磨练你的技能来与你真正的同类竞争，你需要学习一些他们不会在当地酒吧的课后综合科学课上教的谋生工具。
+
+[spoiler]
+[b]TOOLS OF THE TRADE[/b]
+
+Posted By: Slamm-0! 
+
+Being a hacker isn’t all about buying a better commlink or upgrading your warez—you want to hone your skills to compete with the likes of yours truly, and you’ll need to learn a few of the tools of the trade that they don’t teach in the after-hour comp-sci classes at the local pub.
+[/spoiler]
+
+---
+
+[b]利用漏洞[/b]
+
+任何优秀的黑客都知道漏洞不会凭空出现;你必须让它发生。当你等待一个完美的漏洞出现在你面前时，你永远不会成为一个黑客。你必须走出去查看代码，看看哪里存在模糊定义，并保持开放和创造性的思维，思考如何调整你的程序，从而最大限度地利用现有的机会。
+
+当你深入研究它时，利用漏洞是黑客武器库中最基本的组成部分。每一个攻击程序，每一个绕过安全的策略或策略，每一个硬件或软件黑客都是基于这样或那样的利用。如果没有漏洞利用，用户将没有分配给他们的基本访问权限之外的人任何特权。没有漏洞，就没有黑客。
+
+> 然后暗处的军队将在矩阵表面上行军…
+
+> Glitch
+
+[spoiler]
+[b]EXPLOITS[/b]
+Any good hacker knows that an exploit doesn’t just happen; you have to make it happen. If you wait for the perfect flaw to cross your path, you’re never going to get anywhere as a hacker. You have to go out and look at the code, see where the ambiguity lies, and keep an open and creative mind for how to tweak your programs to take maximum advantage of the opportunities that exist. 
+When you get down to it, exploits are the most basic building block in a hacker’s arsenal. Every attack program, every strategy or tactic for bypassing security, every hardware or software hack is based around an exploit of one form or another. Without an exploit, no user would have privileges beyond those basic access rights assigned to them. Without exploits, there would be no hackers.
+
+> And the armies of darkness would march across the face of the Matrix…
+
+> Glitch
+[/spoiler]
+
+大多数的漏洞并不是由于程序员的错误或熟练和有远见的黑客故意在程序中设置的缺陷; 它们来自于翻译错误或不同代码之间的轻微不兼容，产生了一些模糊，熟练的用户可以利用这些模糊来做一些他们不应该做的事情，比如绕过系统安全或其他安全措施。矩阵有如此多的代码层，以至于几乎不可能阻止代码中的漏洞被利用，尽管程序员从未停止尝试编写完美的代码，或者蜘蛛在发现新的漏洞时从未停止修补。
+
+一个新的漏洞是有价值的，而且黑客倾向于囤积它们——一个漏洞使用得越少，被发现和修补的可能性就越小。另一方面，数据经纪人(甚至其他黑客)总是在寻找好的利用机会，并会为他们交换信用或好处。
+
+[spoiler]
+Most exploits aren’t due to programmer faults or deliberate flaws placed in the program by skilled and foresighted hackers; they come about from translation errors or slight incompatibilities between different code, creating ambiguities that a skilled user can take advantage of to do things they aren’t suppose to be able to do—such as bypass system security or other safeguards. The Matrix has so many layers of code that it is practically impossible to prevent exploits in code, not that programmers ever stop trying to make flawless code, or spiders stop patching up new exploits as they’re discovered. 
+A new exploit is worth its weight in gold radicals, and hackers tend to hoard them—the less often an exploit is used, the less likely it is to be discovered and patched. On the other hand, data brokers (and even other hackers) are always on the lookout for a good exploit and will trade in cred or favors for them.
+[/spoiler]
+
+---
+
+[b]黑矩阵服务提供商[/b]
+
+像我们这样的人需要访问矩阵，为此你需要矩阵服务提供商(MSP)。当然，如果没有SIN(或者不想给出SIN)，我们就需要一个愿意接受直接信用且不问任何问题的MSP: 一个黑MSP。其中一些服务接近合法，提供与普通MSP相同的服务，而不要求SIN，其他的则是黑客入侵了普通MSP的账户，或者是矩阵集团的完全非法的操作，它们往往提供特殊服务，如匿名、一次性密码、秘密邮箱和信用清洗服务。
+
+[spoiler]
+[b]BLACK MATRIX SERVICE PROVIDERS[/b]
+People like us need to access the Matrix, and for that you need a Matrix Service Provider (MSP). Of course, without a SIN (or not wanting to give out a SIN), we need an MSP that will accept straight cred and not ask any questions: a black MSP. Some of these services border on the legal, providing the same services as regular MSPs without asking for SINs, while others are hacked accounts on a normal MSP or strictly illegal operations set up by Matrix syndicates, which tend to offer special services like anonymizers, one-shot commcodes, dead-drop e-mail boxes, and credit laundering services.
+[/spoiler]
+
+[quote]
+[b]阿奈基[/b]
+
+阿奈基是众多可供暗影狂奔者和无SIN者使用的免费暗影MSP之一，它是一个简单的黑MSP，只提供最基本的服务——通讯码。但是没有广告，也不收费。我不会在你的邮箱里留下任何文件(永远)，它可能会被一些大学生黑客入侵…但是，嘿!免费的!
+
+[spoiler]
+[b]ANARKH[/b]
+One of the many free shadowy MSPs available to shadowrunners and the SINless, Anarkh is a no-frills black MSP that offers only the most basic service—a commcode. But there’s no ads and no charge. I wouldn’t leave any files in your mailbox (ever), and it can be hacked by a couple college students on brainbenders… but hey! Free!
+[/spoiler]
+[/quote]
+
+[quote]
+[b]匿名者和邮件转寄者[/b]
+
+虽然并不总是非法的，但矩阵中有很大一部分匿名者和邮件转寄者是由矩阵的犯罪团伙经营的，或者是由有进取心的蜘蛛和程序员在很少使用的企业节点中暗中建立的。匿名者的优势在于他们不需要和执法部门合作; 缺点是他们不如合法的矩阵安全部队可信。这两种服务的成本大致相同。
+
+[spoiler]
+[b]ANONYMIZERS AND RE-MAILERS[/b]
+While not always illegal, a good portion of the anonymizers and re-mailers available on the Matrix are run by Matrix gangs, or as under-the-table start-ups by enterprising spiders and programmers in little-used corporate nodes. The advantage of the shadowy anonymizers is they don’t have to work with law enforcement; the downside is that they’re less trustworthy than legitimate Matrix security corps. Both cost about the same for their level of service.
+[/spoiler]
+[/quote]
+
+[quote]
+[b]富积通信[/b]
+
+作为富积电子工业的残余，这家从富积电子工业分裂出来的公司在这场混乱中迷失了，因为两个大公司在争夺这家前AAA级大公司的剩余股份。由于仍有合同义务，新网必须允许富积电信为现有客户访问新的矩阵协议。当然，出于同样的义务，富积电信不能接受任何新客户，因此在现有账户中存在着活跃的私下交易。只要在每个月的月初支付，计费系统并不关心SIN。他们不给你代理，但他们提供匿名和转寄服务且只收取少量费用。
+
+[spoiler]
+[b]FUCHI TELECOMM[/b]
+A lingering remnant of Fuchi Industrial Electronics, this splinter corporation was lost in the shuffle as the megacorps squabbled over the remains of the former AAA megacorp. Because of lingering contractual obligations, NeoNET has to allow Fuchi Telecomm access to the new Matrix protocols for existing customers. Of course, by the same obligations, Fuchi Telecomm can’t accept any new customers, so there’s a brisk under-the-table trade in existing accounts. Billing doesn’t care to know the SIN as long as they’re paid at the beginning of every month. They don’t give you agents, but they do offer anonymizer and re-mailer services for a nominal fee.
+[/spoiler]
+[/quote]
+
+[quote]
+[b]一次性操作[/b]
+
+一个大型和更有组织的黑MSPs的服务是一次性通讯码，在一段固定的时间内(通常是激活后24小时，尽管这在不同的提供商之间有所不同)或一个连续的矩阵会话的持续时间(直到最大时间)，然后所有的通讯码的痕迹都被擦除。暗影狂奔者通常在需要有限的Matrix访问权限或者不想担心操作过于草率时使用一次性操作。
+
+[spoiler]
+[b]ONE-SHOTS[/b]
+A service exclusive to the larger and more organized black
+MSPs are one-shot commcodes, good for a set period of time (usually 24 hours after activation, though this varies from provider to provider) or the duration of a single continuous Matrix session (up to the maximum period), and then all traces of the commcode are erased. Shadowrunners usually use one-shots when they need limited Matrix access, or they don’t want to worry about being sloppy.
+[/spoiler]
+[/quote]
+
+[quote]
+[b]釜山地下网[/b]
+
+釜山地下网是位于西雅图的朝鲜团的子公司，是规模更大、更有组织的黑MSP的典型代表。这类MSP的收费与同类的高端MSP一样(甚至更高)，但提供一次性通讯码、编号信用账户和第三方托管服务等附加服务。
+
+[spoiler]
+[b]PUSAN UNDERNET[/b]
+An affiliate of the Choson Ring in Seattle, the Pusan Undernet is typical of the larger and more organized black MSPs, the type that charges as much (or often more) than a comparable premium MSP but offers additional services in the form of one-shot commcodes, numbered credit accounts, and escrow services.
+[/spoiler]
+[/quote]
+
+---
+
+[b]后门[/b]
+
+用黑客的话说，后门是一个隐藏的帐户或故意设计的安全漏洞，让你更容易进入特定的系统。人们可能会对后门变得非常偏执，因为他们对编程一无所知，所以他们总是怀疑为某个特定节点编写软件的程序员会在他们想要的时候留下一些可以进入的方法。另一方面，那些懂得编程的人却认为这就是个A级胡扯; 那个把自己的生命都写进代码里的小薪奴永远也不会看到节点在运行他的软件，如果他做了什么愚蠢的事，比如装后门，被抓了，他就会被解雇，被拖到没有灯光的地下室里，然后被枪毙，他苍白浮肿的尸体被放置在走廊的饮水机旁，向其他不幸的公司程序员展示，如果他们试图变得机灵，命运将如何对待他们。
+
+[spoiler]
+[b]BACKDOORS[/b]
+In hacker parlance, a backdoor is a hidden account or deliberately programmed security flaw that lets you access a particular system easier. People can get really paranoid about backdoors because they’re ignorant and don’t know anything about programming, so they always suspect the programmers that write the software for a particular node leave themselves a little way to get in whenever they feel like it. People that know something about programming, on the other hand, recognize this as grade A bullshit; the little wageslave coding his life away is never even going to see the node running his software, and if he was ever caught doing something as stupid as putting a backdoor in, he’d be fired, dragged downstairs to some lightless basement and shot, his pale and bloated corpse put up in the hallway by the watercooler to show the rest of the luckless corp programmers what fate awaits them if they try and get cute.
+[/spoiler]
+
+> 超企是什么时候变成波尔布特的?
+
+> Baka Dabora
+
+> 好吧，也许没那么糟，但不止一个程序员在发现了可怕的错误后安排了一次自我解脱。
+
+> Slamm-0!
+
+[spoiler]
+> When did the megacorps become Pol Pot? 
+
+> Baka Dabora
+
+> Okay, so maybe not that bad, but more than one programmer has arranged for a self-extraction after a horrible fuck-up was discovered.
+
+> Slamm-0!
+[/spoiler]
+
+不，建立隐藏账户的人是终端用户，是试图偷偷进出办公室节点的管理员，他们只是为了玩电脑游戏而不出现在登录日志上，维护猴子需要非法给自己一个更高级别的访问权限来修复节点的所有问题，因为愚蠢的主管拥有企业间业务事务和其他胡扯的学位，而不是矩阵系统管理。是阴险的安全黑客想要偷窥秘密行动部门需要一个无法追踪的方法进出他们自己公司的电脑。当然，也有纯粹的黑客。
+
+[spoiler]
+No, the people who make hidden accounts are end-users, administrators that are trying to sneak in and out of the office node for a little cybernookie without it showing up on the access log, and maintenance monkeys that need to illicitly give themselves a higher level of access to fix everything that’s gone wrong with a node because the stupid slitches in charge have degrees in Intercorporate Business Affairs and other poppycock instead of Matrix Systems Management. It’s the shady security hacker looking to moonlight and the black ops division that needs an untraceable way in and out of their own corp’s computers. And, of course, there are pure hackers.
+[/spoiler]
+
+> 偶尔，当你在查看某人的流量时，或者当你浏览访问日志时，当你知道在节点上有活动时，却看不到登录，你会发现一个隐藏的账户。
+
+> Kay St. Irregular
+
+> 当然，有些节点——尤其是矩阵妓院——会让所有客户注册一个隐藏账户，并以这种方式匿名登录。如果你有新元，这是甩掉尾巴的好方法。
+
+> Orbital DK
+
+[spoiler]
+> Every so often, you stumble onto a hidden account while watching somebody’s traffic, or when you browse an access log and don’t see a login when you know there was activity in the node. 
+
+> Kay St. Irregular
+
+> Of course, some nodes—especially Matrix brothels—have all of their customers register a hidden account and log in that way for anonymity. Nice way to ditch a tail if you’ve got the nuyen.
+
+> Orbital DK
+[/spoiler]
+
+黑客们对后门的使用存在分歧。有些人更喜欢谨慎地使用它们，只在一些需要紧急访问的节点上放置隐藏账户，理由是这样更少的机会让人们发现你在使用隐藏账户。另一些人喜欢在我们经常入侵的节点上使用后门，让我们的图标可以在任何我们需要的时候进出，因为这让我们的生活更容易，而且比起我们一次又一次地入侵同一个节点，我们更不可能被抓住。当然，没有后门是永远存在的，在某个时刻，它的消息会泄露出去，管理员或蜘蛛会扫描它并删除它。我告诉你，没有什么比试图访问一个被删除的隐藏账户更尴尬的了。
+
+> 当然，有时候精明的混蛋只会标记隐藏账户，然后在你进入节点时攻击你，或者启动自动跟踪。
+
+> Puck
+
+[spoiler]
+There’s a division among hackers on the use of backdoors. Some prefer to use them sparingly, only placing hidden accounts in a few nodes where they might need emergency access, the argument being that there’s less chance for people to catch you using a hidden account. Others like to use backdoors for nodes that we hack on a regular basis, letting our icons slip in and out whenever we need to, ‘cause it makes our lives easier and we’re less likely to get caught than if we were hacking the same node over and over again. Of course, no backdoor lasts forever, and at some point word of it gets out or an admin or spider will scan it and delete it. I tell ya, nothing’s more embarrassing than trying to access a hidden account that’s been deleted.
+
+> Of course, sometimes the canny bastards just flag the hidden account and bushwhack you or start an automatic trace when you enter the node.
+
+> Puck
+[/spoiler]
+
+---
+
+[b]恶意软件[/b]
+
+黑客团伙和代码混混使用恶意软件的原因和他们砸车或偷东西的原因是一样的——制造一点麻烦，混乱和破坏。当然，病毒不能像老式的击倒那样让人血脉喷注，但当你的代码去摧毁某个混蛋的通讯链时，你的肾上腺素会有一点飙升。
+
+另一方面，专业人士更挑剔。29年的崩溃和崩溃2.0都是由恶意软件造成的，今天的黑客更看重病毒的破坏能力和它的声誉。从事计算机犯罪的犯罪集团和黑客集团广泛使用恶意软件作为敲诈勒索和保护诈骗的一部分。
+
+[spoiler]
+[b]MALWARE[/b]
+Matrix gangs and code punks use malware for the same reason they bust up cars or steal shit—to cause a little trouble, mayhem, and destruction. Granted, a virus doesn’t get the blood pumping as well as an old-fashioned beat down, but there’s a little adrenalin surge when your code goes out to trash some bastard’s commlink real good. 
+Professionals, on the other hand, are much more selective. Both the Crash of ’29 and the Crash 2.0 were caused by malware, and hackers today have more respect for both the destructive capability of a virus and its reputation. Those syndicates and Matrix gangs that are into computer crime make extensive use of malware as part of extortion schemes and protection rackets.
+[/spoiler]
+
+> 更别提保险诈骗和销毁证据了。在新东京的鳄渊-龟尾市，每年都有成千上万的人通过网上保释代理人洗钱，但他们并不记得缴税。在收税人员开始蜂拥而入的过程中，他们发布了隐藏的病毒包，摧毁了节点，破坏了修复之外的证据——并让保释代理人收取保险费用。
+
+> Mihoshi Oni
+
+[spoiler]
+> Not to mention insurance fraud and disposing of evidence. Last year the Wanibuchi-gumi in Neo-Tokyo were laundering hundreds of thousands of nuyen through a little online bail bondsman—but they didn’t remember to pay their taxes. When the taxmen started swarming the place, they launched hidden viral packets that destroyed the node, corrupting the evidence beyond repair—and letting the bail bondsman collect the insurance.
+
+> Mihoshi Oni
+[/spoiler]
+
+病毒是一种自我传播的软件，它“感染”特定类型的软件。如果操作得当，这是一种简单而阴险的方式来削弱网络或自动化工厂。谨慎的战斗黑客有时喜欢通过先给节点注入病毒来软化节点; 不管你从企业那里听到什么宣传，只有最粗心的黑客才会在运行过程中被自己的病毒感染。就我个人而言，我喜欢在晚上关掉我的通讯链之前，在它上面安装一个与网络软件驱动程序相关联的自动发讯病毒; 大多数人开机后都不会立即杀毒，任何想偷我东西的人都会让病毒通过他们的PAN传播到他们的植入体上。
+
+[spoiler]
+A virus is a self-propagating piece of software that “infects” software of a specific type. Done right, this can be a simple and insidious way to cripple a network or automated factory. Serious combat hackers sometimes like to soften up nodes by feeding them viruses first; despite the propaganda you hear from the corps, only the most careless hackers end up infected by their own viruses during a run. Personally, I like to install a ticker virus tied to cyberware drivers on my commlink before I turn it off for the night; most people don’t think to disinfect immediately when they boot up, and anybody trying to jack my shit lets the virus spread through their PAN to their implants. 
+[/spoiler]
+
+蠕虫是专门的恶意软件代理，强调隐形而不是暴力。只要您不让代理一次运行整个有效负载，一个好的蠕虫可以在节点上持续数天或数周而不被发现。企业黑客和执法部门倾向于使用蠕虫，特别是数据蠕虫，以跟踪黑客或限制他们的能力。真正令人讨厌的组合是给蠕虫装入一种和平病毒，这种病毒会感染黑客的战斗程序，并阻止他们彻底炸开蠕虫。另一方面，蠕虫本身对病毒几乎没有防御能力。我通常用受惯性感染的自动软件来干扰它们的复制能力。
+
+[spoiler]
+Worms are specialized malware agents with an emphasis on stealth instead of brute force. As long as you keep the agent from running the entire payload at once, a good worm can last for days or weeks on a node without being discovered. Corporate hackers and law enforcement tend to favor worms, especially dataworms, to keep track of hackers or limit their capabilities. One really nasty combination is to load a worm with a pacifist virus that infects the hacker’s combat proggies and prevents them from frying the worm outright. On the other hand, worms themselves have few defenses against viruses. I usually stick with an inertiainfected autosoft to jam their replicate ability.
+[/spoiler]
+
+> 不过对机师来说有点糟糕，是吧?
+
+> Sticks
+
+> 对于无人机来说，最好的防御方法就是一开始就不被黑客攻击，但对于操纵者来说，强大的加密技术是一个很好的可以阻止大多数蠕虫的备用手段。一个无法立即处理蠕虫或病毒的机师最好在病毒传播之前将其从网络中移除。
+
+> Rigger X
+
+> 或者关掉被感染的无人机让它成为一个有效的陷阱。我曾经像那样被烧伤过。
+
+> Turbo Bunny
+
+[spoiler]
+> Kinda sucks for riggers though, huh? 
+
+> Sticks
+
+> The best defense for a drone is simply not to get hacked to begin with, but a good back-up for riggers is strong encryption—stymies most worms. In a pinch, a rigger that can’t deal with a worm or a virus immediately is best off cutting it out of their network before the infection spreads.
+
+> Rigger X
+
+> Or shut the infected drone down and leave it as an effective boobytrap for somebody. I got burned like that once.
+
+> Turbo Bunny
+[/spoiler]
+
+病毒和蠕虫都是直接和主动的程序，旨在以某种方式削弱节点或设备。相比之下，木马更像侦察兵，进入并为以后的黑客入侵铺平道路。
+
+> 当然，没有什么能阻止你组合不同类型的恶意软件。可以有一个带有病毒的蠕虫和一个木马在其有效载荷中移动，平滑你的进入，并释放病毒来掩盖你的踪迹。这就像是在优雅地创造基因嵌合体。
+
+> The Smiling Bandit
+
+[spoiler]
+Viruses and worms are both straight forward and proactive programs designed to weaken a node or device in some way. By contrast, trojans are more like scouts that go in and pave the way for a later hack.
+
+> Of course, there’s nothing to stop you from combining different types of malware. You can have a worm with a virus and a trojan in its payload that moves in, smoothes your entry, and unleashes the virus to cover your tracks when you leave. It’s almost like creating genetic chimerae in its elegance.
+
+> The Smiling Bandit
+[/spoiler]
+
+[quote=私发信息]
+来自: Clockwork 
+主题: 回复: 工效恶意软件
+是否用工效程序加载你的恶意软件取决于恶意软件代理的目的。如果你想让系统变慢或崩溃，用常规程序加载恶意软件是一个好办法。另一方面，如果你想让你的恶意软件不被发现，我会选择符合工效的程序选项:更少的程序负载意味着它不太可能被注意到。有时你甚至想把这两种想法结合起来。例如，您可能希望蠕虫病毒在整个系统中传播(使用符合工效的隐匿程序保持不被检测到)，然后当信号发出时(或计时器关闭，诸如此类)，代理解除其工效程序的激活，并运行其常规程序来降低系统速度。当然，唯一的问题是，在激活和关闭程序之间有一段时间，这段时间蠕虫病毒特别容易受到攻击。
+
+[spoiler]
+FROM: Clockwork 
+Subject: Re: Ergonomic Malware
+Whether or not to load your malware with ergonomic programs depends on the purpose of the malware agent. If you want to slow down or crash the system, loading the malware with regular programs is a good way to go. On the other hand, if you want your malware to be undetected, I’d go with the ergonomic program option: less program load means it’s less likely to be noticed. Sometimes you might even want to combine the two ideas. For example, maybe you want a worm to spread throughout a system (using ergonomic stealth programs to stay undetected), and then when the signal is given (or timer clocks down, whatever), the agent de-activates its ergonomic program and runs its regular programs to slow the system down. The only catch, of course, is that there’s a period of time between activating and de-activating programs where the worm is particularly vulnerable.
+[/spoiler]
+[/quote]
+
+---
+
+[b]代理[/b]
+
+代理对现代矩阵的使用至关重要，许多黑客都至少有一个能帮助他们完成自己没有时间做的后台任务。对于黑客来说，代理实际上是一个存在的倍增器，让他们扩展他们可以进入的地方和他们可以做的事情的数量。因此，一些黑客大量地使用代理也就不足为奇了。
+
+> 一些黑客不喜欢使用代理，特别是当一些对黑客一窍不通的无脑猿类使用了一个傻瓜，而不是自己去弄清楚如何做事情。 
+
+> The Smiling Bandit
+
+> 傻瓜?
+
+> Sticks
+
+> 一个高端的代理，为用户做矩阵中的一切，甚至是最基本的任务。用户不需要学习如何黑入，而是命令傻瓜代理为他做这件事。大多数MSP提供了基本代理来简化用户的生活，而懒惰的用户只是命令他们做所有的事情。当然，商业骗子在违法方面有其固有的局限性。要造一个有黑客能力的傻瓜代理，你需要一个真正的黑客。
+
+> The Smiling Bandit
+
+[spoiler]
+[b]AGENTS[/b]
+Agents are essential to the function of the modern Matrix, and many hackers have at least one to help them with background tasks they don’t have time to do themselves. An agent is really a presence multiplier for hackers, letting them expand the number of places that they can be in and what they can do. No surprise, then, that some hackers go for agents in a big way.
+
+> Some hackers frown on the use of agents, especially when some brainless ape that knows jack-all about hacking uses a mook instead of figuring out how to do things themselves. 
+
+> The Smiling Bandit
+
+> Mook?
+
+> Sticks
+
+> A high-end agent that does everything in the Matrix for the user, even the most basic tasks. Instead of learning how to hack, the user commands the mook to do it for him. Most MSPs provide basic agents to make the user’s life easier, and lazy users just order them to do everything. Of course, commercial mooks have built-in limitations against breaking the law. To build a mook capable of hacking, you need a real hacker.
+
+> The Smiling Bandit
+[/spoiler]
+
+代理可以提供的另一个优势是，它们非常容易处理——如果代理崩溃，黑客可以重新加载它。ll:黑客应该警惕把他们的代理暴露给IC和蜘蛛: 除非你把它加载到节点上(这需要大多数黑客没有的特权)，代理可以直接追溯到你。如果你真的在一个节点上加载了一个代理，你最好确保它上面没有任何犯罪数据，因为如果它被发现和剖析，它可以直接追溯到你——或者蜘蛛可以研究专门用来对付这类代理或它携带的程序的漏洞，使他们在矩阵战斗中比你有优势。
+对代理的主要限制是它们所占用的活动订阅的数量，以及在出现延迟之前可以运行的程序的数量。同时运行两个代理可能会使您的通信速度变得非常慢。你可以通过不运行任何程序来解决这个问题——如果你让你的通讯链在夜间运行，而且你没有连接到它或其他什么东西——或者你可以把代理加载到另一个节点上，让他们的系统滞后。但是，当您上传一个代理以便在另一个节点上运行时，您仍然必须保持对它的活动订阅，以便实时接收数据并向它发送订单。当您希望使用比通讯链本身能够处理的更多的代理时，下一步就是僵尸网络。
+
+[spoiler]
+Another advantage agents can provide is that they are eminently disposable—if the agent gets crashed, the hacker can just re-load it. Still, hackers should be wary about feeding their agents to IC and spiders: unless you load it onto the node (which requires privileges most hackers don’t have), the agent can be traced directly back to you. If you do load an agent on a node, you’d better be sure it doesn’t have any incriminating data on it, because if it’s found and dissected it can lead straight back to you—or the spider can research exploits to use specifically against that type of agent or the programs it carries, giving them an advantage over you in cybercombat. 
+The major limitations on agents are the number of active subscriptions they take up and the number of programs they can have running before seeing lag. Having two agents running at the same time can slow your commlink down something fierce. You can get around the lag by not running any programs yourself—only really an option if you’re letting your commlink run overnight while you’re not connected to it or something—or you can load the agent onto another node and let their system lag. When you upload an agent to run on another node, though, you still have to keep an active subscription to it to receive data and give it orders in real time. When you want to use more agents than your commlink could handle on its own, the next step up is a botnet.
+[/spoiler]
+
+> 注意这里的关键词是“实时”。那些不介意蜗牛般的速度和不知道他们的代理是否仍然保持活跃和运行的黑客可以切断活跃订阅，让代理自己运行，直到黑客重新建立联系，或者黑客和代理可以通过电子邮件帐户或使用其他非实时通信方法转发他们的通信。
+
+> Glitch
+
+[spoiler]
+> Note the key word there is “in real time.” Hackers that don’t mind the snail’s pace and uncertainty of knowing whether or not their agent is still active and running can sever the active subscription and let the agent just run on its own until the hacker re-establishes contact, or a hacker and agent can forward their communications through an e-mail account or use other non-real-time communication methods.
+
+> Glitch
+[/spoiler]
+
+---
+
+[b]僵尸网络[/b]
+
+通常，当您将一个代理从通讯链加载到不同的节点上时，您将保持对该代理的活跃订阅，以最小的代价实时发布订单和接收反馈。当然，您的活跃订阅限制了一次可以运行的代理的数量。为了解决这个问题，你可以将你的代理连接到一个网络——僵尸网络，而不是保持活跃的订阅。僵尸网络没有活跃的订阅那么灵活，但如果你想招募一支毁灭性的代码僵尸大军，这是个不错的开始。
+
+就其本身而言，你可能认为僵尸网络只是一个管理大量代理的有用工具，但它对黑客的影响是巨大的。使用僵尸网络，你可以同时监视数十个节点，从而建立一些真正正当的黑客行为。大多数真正有组织的矩阵团伙和犯罪集团使用僵尸网络进行分布式拒绝服务(DDOS)攻击，将他们传统的保护敲诈和勒索活动扩展到第六世界。DDOS攻击使用不同节点上的数十个或数百个机器人同时连接到单个节点，这通常会阻止所有进出该节点的流量——这对商业节点来说是一个杀手，而对于在线商家来说，支付一笔“保护费”以防止这种情况发生在他们身上是非常值得的。
+
+[spoiler]
+[b]BOTNETS[/b]
+Normally when you load an agent onto a different node from your commlink, you maintain an active subscription to that agent, issuing orders and receiving feedback in real time with a minimum of hassle. Naturally, your active subscriptions limit the number of agents you can have running at once. To get around that, instead of maintaining active subscriptions you can link your agents into a network—a botnet. A botnet isn’t as slick as an active subscription, but if you’re looking to recruit a codezombie army of doom, it’s a good start. 
+By itself you might think a botnet is simply a useful tool for managing a lot of agents, but the implications for hackers are huge. With a botnet you can keep tabs on dozens of nodes at once, setting up some truly righteous hacks. Most really organized Matrix gangs and syndicate Matrix crime crews use botnets for distributed denial of service (DDOS) attacks, extending their traditional protection rackets and blackmail operations into the Sixth World. A DDOS attack uses scores or hundreds of bots on different nodes to connect to a single node at the same time, usually preventing all traffic into and out of the node—quite a killer for a commercial node, and well worth it to online merchants to pay a “protection” fee against the possibility of it happening to them.
+[/spoiler]
+
+> 有时候，当你无法完成一次大的黑客攻击时，你可以使用僵尸网络来完成许多小的黑客攻击，这些小的黑客攻击加起来都是相同的事情。很好的例子:交通管制。入侵单个的信号灯并使用机器人来控制它们比入侵中央交通节点要容易得多。
+
+> Turbo Bunny
+
+> 除非，像香港那样，所有的交通灯都从属于中央节点，在这种情况下，你别无选择，只能黑进它。在纽约，为了更好地控制交通流量，交通灯都被绑在了交通指挥系统上。
+
+> Traveler Jones
+
+[spoiler]
+> Sometimes when you can’t pull off a big hack, you can use a botnet to pull off a lot of little hacks that add up to the same thing. Perfect example: traffic control. Hacking the individual lights and using bots to control them can be a hell of a lot easier than hacking the central traffic node. 
+
+> Turbo Bunny
+
+> Unless, like in Hong Kong, all of the traffic lights are slaved to the central node anyway, in which case you have no choice but to hack it. Or in New York, where the lights are tied into the GridGuide system for better traffic flow control.
+
+> Traveler Jones
+[/spoiler]
+
+看，不仅仅是黑客在使用僵尸网络，企业也在使用!你认为阿兹特科是如何管理它的垃圾邮件机器人，或者MCT的数据场每天数百万的客户数据文件? 他们的专家使用僵尸网络来指导和控制代理，如果你知道要找什么，你可以控制他们的一个或多个僵尸，并让他们为你工作——至少，直到管理僵尸网络的薪奴注意到一些奇怪的事情正在发生。
+
+虽然企业不喜欢谈论僵尸网络，但僵尸网络也是他们通过矩阵彼此发动战争的一种方式。由于害怕来自企业法庭的报复，大型企业很少使用利用僵尸网络直接攻击另一个大型企业节点的策略; 目前的矩阵战争理论认为，如果两个aaa级的超企决定进行一场全面的矩阵冲突，僵尸网络将在战略中占据显著地位。
+
+[spoiler]
+See, it’s not just hackers that use botnets—it’s corps too! How do you think AZT manages its fleets of spambots, or MCT datafarms millions of customer datafiles every day? Their experts use botnets to direct and control fleets of agents, and if you know what to look for you can take control of one or more of their bots and get them to work for you—at least, until the wageslave managing the botnet notices something weird is going on. 
+While the corps don’t like to talk about it, botnets are also a way for them to wage war on one another through the Matrix. It’s a rarely used tactic for a megacorp to directly fuck with another megacorporate node with a botnet because of the fear of reprisals from the Corporate Court; current Matrix warfare theory holds that if two AAA-rated megacorps decided to engage in a full-scale Matrix conflict, botnets would feature prominently in the strategy.
+[/spoiler]

@@ -1,0 +1,110 @@
+[color=brown][size=12pt][b]暗影狂奔4E 无线[/b][/size][/color]
+[spoiler]Shadowrun 4E UNWIRED[/spoiler]
+
+[quote]
+[b][size=12pt]接入点[/size][/b]
+接入点 P.5
+
+[b][size=12pt]矩阵概览[/size][/b]
+章首故事 P.6
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=130285.0]矩阵与日常生活 P.8-12 [/url]
+增强世界 P.12-13
+矩阵社区与文化 P.13-18
+混乱的管理 P.18
+边栏：2071年最值得关注的五大矩阵企业 P.19-20
+矩阵犯罪 P.19-24
+圆形监狱:他们在看吗? P.24-27
+缩小的地球村 P.27-30
+骇客、机师和安保蜘蛛 P.30-31
+
+[b][size=12pt]矩阵用户[/size][/b]
+章首故事 P.32
+创建基于矩阵的角色 P.34-36 
+新的矩阵特质 P.36-38
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128329.0]新的生活方式选项 P.38 [/url]
+边栏：规则调整 P.39
+
+[b][size=12pt]傻瓜式矩阵指南[/size][/b]
+章首故事 P.40
+在矩阵利用你之前利用它 P.42-46
+
+[b][size=12pt]矩阵的拓扑结构[/size][/b]
+章首故事 P.47
+硬件 P.48-51
+软件和数据 P.51-52
+协议 P.52-55
+塑模 P.55-58
+PAN的拓扑结构 P.58-59
+
+[b][size=12pt]系统安保[/size][/b]
+章首故事 P.60
+物理安保 P.62-63
+矩阵安保 P.63-72
+系统的拓扑结构 P.72-74
+系统设计 P.74-79
+安保行动 P.79
+
+[b][size=12pt]黑客手册[/size][/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128331.0]黑客手册 章首故事 P.80 [/url]
+[b]设定[/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128342.0]灰与黑 P.82-84 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128343.0]谋生工具 P.85-88 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128344.0]战争艺术 P.88-92 [/url]
+[b]游戏信息[/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128347.0]雇佣黑客、盗版、虚拟专用网络、值钱数据、伪造者的艺术 P.93-96 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128349.0]利用漏洞、骇入账户、后门、进阶电子欺骗 P.96-99 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128641.0]大规模探测、僵尸网络、代理脚本、拒绝服务攻击、团体袭击 P.100-102 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128648.0]黑客技巧、机师技巧、EMP P.102-105[/url]
+
+[b][size=12pt]软件[/size][/b]
+章首故事 P.106
+新的软件规则 P.108-111
+新的程序与动作 P.111-112
+新的自动软件 P.112-114
+程序选项 P.114-118
+软件编程 P.118-120
+恶意软件 P.120-124
+战术AR软件 P.124-127
+软件套组 P.127-128
+
+[b][size=12pt]超链者[/size][/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128332.0]超链者 章首故事 P.129 [/url]
+[b]浮现[/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128333.0]浮现：背景设定 P.130-135 [/url]
+[b]新的超链者规则[/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128334.0]生体PAN、生物节点、新复合程式 P.135-136 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128337.0]共鸣支流 P.136-140 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128338.0]深潜、深潜任务、超链者网络 P.140-144 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128340.0]新回声与高级回声、线程化的新应用 P.145-148 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128341.0]超链者范式 P.149-151 [/url]
+
+[b][size=12pt]网精[/size][/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128717.0]网精 章首故事 P.152 [/url]
+[b]新的网精规则[/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128727.0]新的网精规则 P.154 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128747.0]新网精类型、新网精能力 P.154-157 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128865.0]自由网精 P.157-160 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128905.0]荒野网精 P.160 [/url]
+
+[b][size=12pt]矩阵现象[/size][/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128913.0]章首故事 P.161 [/url]
+[b]论坛体[/b]
+矩阵传闻 P.162-164 
+[b]游戏信息[/b]
+AI P.165-170 
+UV节点 P.171-172 
+共鸣井、共鸣域、共鸣域搜寻 P.172-175 
+失谐、失谐支流、失谐范式、失谐能力及回声 P.175-179 
+熵网精 P.179-181 
+
+[b][size=12pt]拟感和技能软件[/size][/b]
+章首故事 P.182
+拟感：体验一切 P.184-187
+无法约束：比真实更加真实 P.187-189
+洗脑：可编程辅助生物反馈 P.189-192
+技能软件：你需要的技能 P.192-194
+
+[b][size=12pt]矩阵装备[/size][/b]
+章首故事 P.195
+装备列表 P.196-207
+[/quote]

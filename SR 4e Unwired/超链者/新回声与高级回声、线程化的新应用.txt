@@ -1,0 +1,425 @@
+[size=12pt][b]新回声[/b][/size]
+
+以下部分扩展了已深潜超链者可用的回声列表(第238页，SR4)。虽然大多数都可以被任何已深潜超链者学习，但某些高级回声要求超链者在能够学习其高级形式之前先学习对应的基本回声(高级回声，第147页)。
+
+[spoiler]
+[size=12pt][b]New Echos[/b][/size]
+The following section expands the list of echoes available to submerged technomancers (p. 238, SR4). While most are accessible to any submerged technomancer, some advanced echoes require the technomancer to learn a basic echo before being able to gain access to the advanced form (Advanced Echoes, p. 147).
+[/spoiler]
+
+[b]扩增[/b]
+
+超链者活体化身的信号等级+1。该回声可以在不同的深潜阶层选择最多3次
+
+[spoiler]
+[b]Amplification[/b]
+The Signal rating of the technomancer’s living persona increases by 1. This echo may be taken at different grades, up to 3 times.
+[/spoiler]
+
+[b]生体闭路[/b]
+
+通过获得生体闭路的回声，超链者获得了调节他身体的神经电和神经肌肉网络的能力，这样它就可以像技能闭路一样工作(第335页，SR4)。在游戏中，它与超链者的深潜等级相等。在其他方面，它遵循技能闭路的基本规则。然而，由于超链者不能加载技能软件，他们必须将它们转换成复合程式，以他们的“语言”来解释和处理它们(见第149页)。
+
+[spoiler]
+[b]Biowire[/b] 
+By acquiring the Biowire echo, the technomancer receives the ability to modulate the neuroelectrical and neuromuscular network of his body such that it can work similarly to a skillwire cyberware system (p. 335, SR4). In game terms, it operates with a rating equal to the submersion grade of the technomancer. In all other regards, it follows the basic rules for skillwire systems. However, since technomancers are unable to process active skillsoft programs, they have to convert them into complex form–like programs to interpret and process them in their “language” by emulation (see p. 149).
+[/spoiler]
+
+[b]模糊[/b]
+
+对共鸣能力的任何使用都会在任何他们影响的东西上留下共鸣签名，超链者可以用模糊回声更有效地掩盖他们的踪迹。这种回声产生了一种弥漫性的共鸣“指纹”使其很难被认出和辨识。，对于检测超链者的签名(包括识别签名效果的5或5以上的阈值，第237页，SR4)的矩阵侦察的阈值将提高深潜等级。这有一个额外的效果，使超链者的复合程式和网精在被检查时看起来像常规程序和代理。
+
+[spoiler]
+[b]Blur[/b] 
+Since any uses of Resonance leave a Matrix signature on anything they affect, technomancers can cover their tracks more efficiently with the Blur echo. This echo creates a diffuse resonant “fingerprint” that is hard to identify and recognize later. Increase the threshold for Matrix Perception Tests to detect the technomancer’s signature (including the threshold of 5 or more to recognize the effect of the signature, p. 237, SR4) by his submersion grade. This has the bonus effect of making his complex forms and sprites look like regular programs and agents to casual inspection.
+[/spoiler]
+
+[b]存在感知[/b]
+
+共鸣实体(超链者、网精)会在矩阵的数据流和结构中产生微小的涟漪。有这种回声的超链者能够下意识地感觉到周围的波纹。如果出现了共鸣的痕迹，GM将用阈值为3的共鸣+直觉替超链者投骰，以确定他是否下意识地检测到它，尽管后续仍需要通过矩阵侦察实际定位共鸣实体或共鸣签名。为随后的矩阵侦察检定添加一个+2骰池的修正。
+
+[spoiler]
+[b]Coenesthesia[/b] 
+Resonance entities (technomancers, sprites) cause small ripples in the flow and fabric of the Matrix. A technomancer with this echo is able to subconsciously sense these ripples in his vicinity. If there is a trace of Resonance present, the gamemaster rolls Resonance + Intuition for the technomancer with a threshold of 3 to determine if he subconsciously detects it, although a subsequent Matrix Perception Test is needed to actually locate the entity or signature. Add a +2 dice pool modifier for the subsequent Matrix Perception Test.
+[/spoiler]
+
+[b]碎片整理[/b]
+
+有了这个回声，超链者就能治愈对他活体化身造成的矩阵伤害。他只能治疗影响活体化身的伤害，而不能治疗来自黑IC或衰褪的物理伤害。为了对他的活体化身进行整理，超链者进行一个共鸣+意志力(1个战斗轮)的延续检定。每个成功都能恢复一格伤害。超链者在进行碎片整理时不能执行任何其他动作。使用碎片整理后剩下的任何伤害必须通过正常休息来愈合。
+
+[spoiler]
+[b]Defragmentation[/b] 
+With this echo, the technomancer is able to heal Matrix damage done to his living persona. He can only heal damage that would affect the living persona, not damage to his meat body from Black IC programs or Fading. To perform Defragmentation of his living persona, the technomancer makes a Resonance + Willpower (1 Combat Turn) Extended Test. Each hit regenerates one box of damage. The technomancer may not perform any other action while undergoing Defragmentation. Any damage remaining after using Defragmentation
+must be healed through normal rest.
+[/spoiler]
+
+[b]E-感应[/b]
+
+E-感应增强了超链者对现实世界中电场的感知。超链者利用这种回声可以对物理节点、传感器、无人机和其他电子设备进行共鸣+侦察检定，也可以对人和动物的生物电场进行检定。如特征表(第146页)所述，每个成功都会收集有关目标的信息。使用这个能力需要一个仔细观察的简单动作。E-感应范围为共鸣x深潜等级
+
+[spoiler]
+[b]E-sensing[/b] 
+E-sensing enhances the technomancer’s perception of electric fields in the real world. Technomancers with this echo may make a Resonance + Perception Test to physically sense nodes, sensors, drones, and other electronic devices—as well as the bioelectric fields of people and animals. Each hit gathers information about the target, as noted on the E-Sensing Table (p. 146). Use of this ability requires an Observe in Detail Simple Action. The range of the electric sense is Resonance x submersion
+grade in meters.
+[/spoiler]
+
+[b]E-感应特征表[/b]
+[table]
+[tr][td]成功数[/td][td]获得信息[/td][/tr]
+[tr][td]1[/td][td]电场源的存在和方向;信号源是否主动投射任何电磁信号[/td][/tr]
+[tr][td]2[/td][td]信号源的相对大小和类型(超链者vs.电子设备);任何发射装置的信号强度;是否存在赛博殖装[/td][/tr]
+[tr][td]3[/td][td]节点的类型和型号(RFID标签、通讯链、咖啡机、无人机、传感器);判断一个人是否是超链者;赛博殖装植入的位置[/td][/tr]
+[tr][td]4[/td][td]传感器等级;节点的设备等级;表面是否存在纳米粒子;车辆/无人机的明显改造。[/td][/tr]
+[tr][td]5+[/td][td]节点的防火墙等级;血液中是否存在纳米粒子;节点是否为从属机;是否存在隐藏标签。[/td][/tr]
+[/table]
+
+[spoiler]
+[b]E-Sensing Table[/b]
+[table]
+[tr][td]成功数[/td][td]获得信息[/td][/tr]
+[tr][td]1[/td][td]Presence and direction of the electrical field’s source; whether the source actively projects any electromagnetic signals[/td][/tr]
+[tr][td]2[/td][td]Relative size and type of the source (metahuman vs. electrical device); Signal rating of any emitting devices; presence of cyberware implants.[/td][/tr]
+[tr][td]3[/td][td]Type and model of node (RFID tag, commlink, coffee machine, drone, sensors); determine whether person is a technomancer; location of cyberware implants.[/td][/tr]
+[tr][td]4[/td][td]Rating of sensors; System rating of nodes; presence of nanites on the exterior; obvious vehicle/drone modifications.[/td][/tr]
+[tr][td]5+[/td][td]Firewall rating of node; presence of nanites in the bloodstream; whether a node is slaved; presence of stealth tags.[/td][/tr]
+[/table]
+[/spoiler]
+
+[b]灵活接触[/b]
+
+这个回声可以让超链者伪造他的共鸣签名，让它看起来像别人的。对确定超链者的真实特征的矩阵侦察的阈值应用一个等于超链者的深潜等级的修正。灵活触摸还允许超链者减少共鸣签名的持续时间，他的共鸣签名持续时间减少每深潜等级1h。如果减到0则根本不会留下任何签名。
+
+[spoiler]
+[b]Flexible Touch[/b] 
+This echo allows a technomancer to forge his Matrix signature, making it look like someone else’s. Apply a modifier to the threshold for Matrix Perception Tests equal to the technomancer’s submersion grade to determine the echnomancer’s real signature. Flexible Touch also allows a technomancer to reduce the amount of time his Matrix signatures last by 1 hour per point of submersion grade. If reduced to zero, no signature is left at all.
+[/spoiler]
+
+[b]浸没[/b]
+
+超链者获得在直接操纵车辆和无人机时同时处理多重数据流的能力，当他跳入时给他的所有检定+1骰池奖励。这个回声可以被选择两次。
+
+[spoiler]
+[b]Immersion[/b] 
+The technomancer gains the ability to multiplex data flow for the purpose of directly manipulating rigged vehicles and drones, granting him a +1 dice pool bonus for all tasks while he is “jumped in.” This echo can be selected twice.
+[/spoiler]
+
+[b]信息占卜[/b]
+
+信息占卜的回声让超链者对信息连接的方式有一种直观的感觉——他几乎可以“感觉”到收集信息的正确路线。更重要的是，这种回声使超链者能够分析收集到的数据，从中寻找线索，洞察隐藏的事实，从而做出推论并发现隐藏的联系。一些超链者认为，他们甚至可以通过观察关于一个人、地点或事件的数据的行为和流动来解读矩阵中的未来。
+使用此回声的超链者必须具备数据搜寻技能和浏览滚动复合程式。为了使用信息占卜，深潜的超链者必须首先收集少量有关该主题的数据。然后他进入一种轻微的恍惚状态，这种恍惚状态会显示出数据痕迹、链接和痕迹，这些通常会在代码的噪音中丢失。追踪这些数据轨迹中获得的见解和信息应该超出仅仅搜索或基础研究所能揭示的范围。
+通常地，当手上有适当数量的数据(在数据搜索+浏览滚动的简单检定中至少获得2成功)，搜寻者声明她的意图来使用信息占卜，进入轻微的恍惚状态(所有其他动作的-2骰子池调整值)。然后，她必须进行数据搜索+共鸣检定，以像梦游者一样沿着矩阵中的细密数据轨道前进。在这个检定中，超链者获得的成功数越多，就会有越多的隐藏部分出现，揭示出一个更大的图景，即关于这个主题的信息是如何相互交织和联系的。根据信息隐藏的方式，搜索还可能将超链者引向必须通过骇入才能获取其中信息的节点。
+
+[spoiler]
+[b]info Sortilege[/b] 
+The Info Sortilege echo gives the technomancer an intuitive feel for the way information links together—he can almost “feel” the right route to pursue when gathering information. More importantly, this echo enables the technomancer to analyze data he has collected for clues that will give him insight into hidden facts, allowing him to make deductions and uncover hidden connections. Some technomancers believe that they can even read the future in the Matrix by observing how the data about a person, location, or event behaves and flows. 
+A technomancer with this echo must possess the Data Search skill and the Browse complex form. To use Info Sortilege, the submerged technomancer must first gather a small hoard of data on the subject. He then enters a mild trance state that will reveal data vestiges, links, and traces that are normally lost in the noise of the code. The insights and information from following these datatrails should be beyond what mere search operations or basic research would uncover.
+Mechanically, with a suitable amount of data at hand (at least two hits in a simple Data Search + Browse roll), the seeker declares her intent to use Info Sortilege and enters a mild trance (–2 dice pool modifier to all other actions). She must then make a Data Search + Resonance Test to follow the thin datatrail in the Matrix like a sleepwalker. The more hits the technomancer scores on this test, the more hidden pieces fall into place to reveal the bigger picture, how information about the subject intertwines and relates to each other. Depending how information is hidden, the search might also lead the technomancer to nodes that have to be hacked to acquire the information therein.
+[/spoiler]
+
+[b]活体ECM[/b]
+
+拥有这个回声的超链者能够在他的附近调整他的生物电场到一个广泛的频率范围，像具有与他的深潜等级相等的等级的干扰器(第320页，SR4)一样。以这种方式干扰需要一个复杂动作来启动，并消耗一个自由行动来维持每一个主动性流程。每一个额外的选择这个回声奖励1级的干扰等级。
+
+[spoiler]
+[b]Living ECM[/b]
+A technomancer with this echo is able to adjust his bioelectric field to a broad range of frequencies in his vicinity and act like a jammer (p. 320, SR4) with a rating equal to his submersion grade. Jamming in this manner requires a Complex Action to initiate and consumes a Free Action each Initiative Pass to sustain. Each additional selection of this echo grants a bonus of +1 to the jamming rating.
+[/spoiler]
+
+[b]宏[/b]
+
+宏使角色能够在进行一个复杂动作检定时附加一个非战斗动作，均获得-2骰池修正。第二个动作只能是矩阵动作。此回声只能选择一次。
+
+[spoiler]
+[b]Macro[/b] 
+Macro enables a character to execute one additional noncombat task with a single Complex Action with a –2 dice pool modifier for each separate test. The second action can only be a Matrix action. This echo can only be selected once.
+[/spoiler]
+
+[b]批处理[/b]
+
+批处理赋予了同时处理来自多个来源的数字信息的能力。例如，拥有这种回声的超链者能够在浏览矩阵，进行骇入时的同时进行在线电话会议，从而充分关注每个信息渠道。与多任务精通能力(Street Magic，第178页)类似，在VR或使用AR时，仔细观察(SR4，第136页)也被视为角色的自由动作。在非战斗情况下，超链者在每个主动性流程的矩阵任务中获得额外的自由动作。此外，当同时访问多个节点时(第218页，SR4)，超链者可以同时“监视”除他激活的节点外等同于其深潜等级数量的多个节点。如果需要对一个角色未激活的节点进行检定，他可以将自己的技能等级的一半添加到检定的骰子池中。如果同时多个节点受到攻击，他也可以关注其他节点，用他的骰池的一半抵御其他节点的攻击。
+
+[spoiler]
+[b]Multiprocessing[/b] 
+Multiprocessing grants the ability to process digital information simultaneously from multiple sources online. For example, a technomancer with this echo is able to browse the Matrix and simultaneously hold a conference call online while hacking, providing full attention to each channel of information. Similar to the Multitasking adept power (p. 178, Street Magic), Observe in Detail (p. 136, SR4) counts as a Free Action for the character while in VR or using AR. The technomancer also receives an additional Free Action per Initiative Pass for Matrixrelated tasks only in non-combat situations. Additionally, when accessing multiple nodes at the same time (p. 218, SR4), the technomancer can simultaneously “keep an eye” on a number of nodes equal to his submersion grade beyond the one in which he is active. If there’s ever any need to make a test for a persona in a node where he is not active, he can add half his skill to the dice pool of the test. If under attack in more than one node at once, he can pay attention to the other nodes as well, defending against attacks in the other nodes with only half of his dice pool.
+[/spoiler]
+
+[b]筛选[/b]
+
+拥有这种回声的超链者可以直观地从大量数据中筛选，找到他们想要的适当信息。在游戏中，数据搜索检定的阈值降低超链者的深潜等级。
+
+[spoiler]
+[b]Sift[/b] 
+Technomancers who possess this echo can intuitively sift through massive amounts of data to find the appropriate information they are looking for. In game terms, the threshold for Data Search Tests is reduced by the technomancer’s submersion grade.
+[/spoiler]
+
+[b]皮肤链接[/b]
+超链者使用这种回声获得了使用他的皮肤连接到其他设备的能力，类似于"皮肤链接"(p318,SR4)。即使无线信号被干扰，超链者也可以利用这个链接骇入他接触的任何设备。注意设备不需要皮肤链接适配。两个有这种回声的超链者可以简单地通过触摸在精神上相互交流。
+
+[spoiler]
+[b]Skinlink[/b] 
+A technomancer with this echo gains the ability to use his skin as connection to other devices, similar to an integral skinlink (p. 318, SR4). The technomancer can use this link to hack any device he touches, even if wireless signals are jammed. Note that the device does not need to have skinlink adaptation. Two technomancers with this echo may mentally communicate with each other simply by touching.
+[/spoiler]
+
+[quote]
+[b]皮肤链接[/b]
+
+通过皮肤链接，设备可以通过泛人类皮肤表面的电场来发送和接收数据。皮肤链接通信虽然仅限于触摸，但它的优点是可以防止信号被拦截或干扰。
+
+皮肤链接 设备等级3 可获得性6 价格50￥
+
+[spoiler]
+[b]Skinlink：[/b]
+With skinlink, a device is adapted to send and receive data transmitted through the electrical field on the surface of metahuman skin. Though limited to touch, skinlink communication has the advantage of being protected from signal interception or jamming.
+[/spoiler]
+[/quote]
+
+[b]斯派克[/b]
+
+这种回声允许超链者用共鸣震击他在矩阵战斗中击中的非超链者角色，产生一系列电气故障，阻碍角色初始节点的功能。症状可能包括功率波动、光学激光器颜色错误、伪造错误代码、组件和子程序失效等。每当超链者损坏黑客的图标时，进行一个对抗检定，用超链者的响应等级+意志对抗目标的响应等级+设备等级。超链者每取得一次净成功，将目标的响应降低1。如果响应等级降低到0，节点就会失效(已知一些电子设备和极端情况会因电涌和过热而起火)。设备可以通过硬件+逻辑(8,1小时)延续检定进行修复。这种回声在对抗其他超链者、网精、代理、ai或电子幽灵时无效。
+
+[spoiler]
+[b]Sparky[/b]
+This echo allows the technomancer to zap a non-technomancer persona he has hit in cybercombat with a jolt of Resonance that creates a range of electrical malfunctions, hampering the functionality of the persona’s originating node. Symptoms might include power fluctuations, miscolored optical lasers, forged error codes, component and subroutine deactivation, and so on. Whenever the technomancer damages a hacker’s icon, make an Opposed Test pitting the technomancer’s Response + Willpower against the target’s Response + System. For each net success the technomancer achieves, reduce the target’s Response by 1. If Response is reduced to 0, the node fails (some electronics and extreme cases have been known to burst into flame from power surges and overheating). Devices may be repaired with a Hardware + Logic (8, 1 hour) Extended Test. This echo is not effective against other technomancers, sprites, agents, AIs, or e-ghosts.
+[/spoiler]
+
+[b]网精链接[/b]
+
+通过选择这个回声，超链者获得了编制和注册一个额外种类网精的能力(在他的支流中的五个基本网精种类之外)。这个回声可以被选择多次。
+
+[spoiler]
+[b]Sprite Link[/b] 
+By choosing this echo, the technomancer gains the ability to compile and register one additional species of sprite (beyond the five basic sprites of his stream). This echo can be chosen multiple times.
+[/spoiler]
+
+[b]调换[/b]
+
+调换使维持线程的调整值减少1。为了累积效果，这个回声可以选择两次。
+
+[spoiler]
+[b]Swap[/b] 
+Swap reduces the sustaining modifier for threading by one. This echo can be taken twice, for a cumulative effect.
+[/spoiler]
+
+[b]部件制作[/b]
+
+超链者使用这种回声可以在纯粹共鸣的基础上创建被称为部件的图标。部件以虚拟图标的形式使用能力，超链者可以利用它来帮助完成矩阵中的任务(制作部件，第148页)。
+
+[spoiler]
+[b]Widget Crafting[/b] 
+Technomancers with this echo can create icons called widgets out of pure Resonance. Widgets act as virtual glyphs of power that a technomancer can draw upon to help accomplish tasks in the Matrix (Crafting Widgets, p. 148).
+[/spoiler]
+
+---
+
+[size=12pt][b]高级回声[/b][/size]
+
+高级回声要求深潜超链者先掌握基本的回声，然后才能解读其高级形式。所有高级回声都在描述中注明了它们的先决条件。在GM的判断下，高级回声可能只能从开明的超链者或他们熟悉的强大自由网精那里学到。
+
+[spoiler]
+[size=12pt][b]ADVANCED ECHOES[/b][/size]
+Advanced echoes require the submerged technomancer to master a basic echo before being able to unscramble its advanced form. All advanced echoes note their prerequisite in their descriptions. At the gamemaster’s discretion, advanced echoes may only be learned from an enlightened technomancer or powerful free sprite that is already acquainted with them.
+[/spoiler]
+
+[b]加速[/b]
+
+前提：生体闭路
+
+这个高级回声强化了超链者的神经结构，以加速他的神经脉冲率，减少电信号穿越距离所需的时间。加速提供了+1反应加值(作为增强加值)和+1主动性流程的现实行动加值。这种回声最多可重复获得三次以产生累积效应
+
+[spoiler]
+[b]Acceleration[/b]
+Prerequisite：Biowire[/b] 
+This advanced echo reinforces the technomancers neural structures to accelerate his neural pulse rate, decreasing the amount of time required for an electric signal to traverse the distance. This acceleration confers a bonus of +1 Reaction (counts as an augmentation bonus) and +1 Initiative Pass for real-world actions. This echo can be taken up to three times for a cumulative effect
+[/spoiler]
+
+[b]高级超频[/b]
+
+前提：超频
+
+高级超频的效果与两次超频相同(计算前提条件的回声)。加上超频回声，超链者在全模拟虚拟现实中操作时将获得+2响应等级和+2主动性流程的总奖励(通过VR热模额外的2个主动性流程，超链者将获得5个IP;这是一个例外，通常限制ip为4)。
+
+[spoiler]
+[b]Advanced Overclocking[/b] 
+Prerequisite：Overclocking 
+Advanced Overclocking has the same effect as taking Overclocking twice (counting the prerequisite echo). Together with the Overclocking echo, the technomancer receives a total bonus of +2 Response and +2 Initiative Passes while operating in full-sim VR (with the 2 extra Initiative Passes from hot-sim VR, this grants the technomancer an IP of 5; this is an exception to the rule that normally limits IPs to 4).
+[/spoiler]
+
+[b]强化共鸣链接[/b]
+
+前提：共鸣链接
+
+强化共鸣链接将低水平的单向情感连接升级为真正的心灵感应连接，类似于心灵连接咒语(包括对话、情感和精神图像的交换)。一个强化共鸣链接在两个方向上工作，允许数据和信息的交换(推测是通过共鸣领域发生的)，只要两个超链者都在矩阵上。这种增强的共鸣连接一次只能用于另一个角色，即使超链者是共鸣网络的一部分(第143页)。
+
+[spoiler]
+[b]Enhanced Resonance Link[/b] 
+Prerequisite：Resonance Link 
+The Enhanced Resonance Link upgrades the otherwise low-level, one-way empathic link to a real telepathic link, similar to the Mind Link spell (including exchange of conversation, emotions, and mental images). An enhanced resonance link works in both directions and allows the exchange of data and information (suspected to occur via the resonance realms) as long as both technomancers are online in the Matrix. This enhanced resonance link may only be used with one other character at a time, even if the technomancer is part of a resonance mesh (p. 143).
+[/spoiler]
+
+[b]现实网络[/b]
+
+前提：批处理
+
+一个超链者如果用这个回声来调整她对批处理的理解，就可以通过一个自由动作让她的身体进入超感知状态。在这种状态下，她可以同时感知真实世界(包括AR)和VR。这允许她在现实世界中使用矩阵主动性和主动性流程，尽管她不能在现实行动中使用更多主动性流程(基于她的正常主动性流程)。保留的ip只能用在矩阵动作上。如果同时参与物理战斗和矩阵战斗，她的所有骰池将得到-4。这个修正值只能通过使用宏回声来减少。
+
+[spoiler]
+[b]Mesh reality[/b]
+Prerequisite：Multiprocessing 
+A technomancer who fine-tunes her understanding of multiprocessing with this echo can surrender her body to slip into a hyper-perceptive state with a Free Action. In this state, she can perceive both the real world (including augmented reality) and virtual reality simultaneously. This allows her to use her Matrix Initiative and Initiative Passes in meat space, though she cannot use more Initiative Passes on real-world actions than she usually would, based on her normal Initiative Passes. Remaining IPs must be spent on Matrix actions only. If engaged in physical combat and cybercombat simultaneously, she receives a –4 to all of her dice pools. This modifier can be reduced for cybercombat only by using the Macro echo.
+[/spoiler]
+
+[b]以心御械[/b]
+
+先决条件：浸没
+
+超链者可以“跳入”任何无线设备，甚至是那些通常没有装配机师界面的设备，比如照相机、锁、通讯工具等。如果超链者无法访问设备，他们必须首先正常入侵。
+
+[spoiler]
+[b]Mind over Machine[/b] 
+Prerequisite：Immersion 
+A technomancer can “jump into” any wireless device, even those that aren’t usually equipped with rigger adaptation—e.g., cameras, locks, commlinks, etc. If the technomancer does not have access to the device, they must first hack in as normal.
+[/spoiler]
+
+[b]共鸣交换[/b]
+
+前提条件：共鸣链接，部件制作
+
+即使相隔很远，拥有共鸣交换回声的超链者能够和与他有联系的超链者共享他的复合程式和部件，每个选项都必须分别选择(要么是复杂形式，要么是部件，除非重复此回声)。不能以这种方式共享线程化复杂程式。部件可以被甚至不拥有部件制作能力的超链者共享。一次只能共享一个复合程式或部件，共享时的等级受共享者的深潜等级的限制。即使与他人共享复合程式和部件，超链者仍然可以使用它们。这种增强的共鸣连接一次只能与另一个角色一起使用，即使超链者是共鸣网格的一部分(第143页)。
+
+[spoiler]
+[b]Resonance Exchange[/b] 
+Prerequisites：Resonance Link, Widget Crafting 
+A technomancer who possesses the Resonance Exchange echo is able to share his complex forms and widgets with a technomancer to whom he is linked, even over great distances, though each option must be chosen separately (either complex forms or widgets, unless this echo is taken twice). Threaded complex forms cannot be shared in this manner. Widgets can be shared even with technomancers who don’t possess Widget Crafting on their own. Only one complex form or widget may be shared at a time, and the rating when shared is limited by the sharer’s submersion grade. Complex forms and widgets may still be used by the technomancer even while they are shared with another. This enhanced resonance link may only be used withone other character at a time, even if the technomancer is part of a resonance mesh (p. 143).
+[/spoiler]
+
+[b]共鸣践踏[/b]
+
+前提：皮肤链接
+
+超链者获得了使用他的触摸为另一个人提供拟感信号的能力，甚至分享他的矩阵感受。如果使用该回声违背了接收者意愿(例如，将一个人的思想拖入热模VR并使用黑IC轰炸)，它需要一个基于触摸的徒手攻击来应用践踏，而保持控制可能需要一个成功的压制攻击(第152页，SR4)。如果被抵抗，超链者也必须在对抗检定中击败他们的受害者，用共鸣+意志力对抗目标的直觉+意志力。如果成功，超链者的触碰就像踩踏直到他停止或物理接触被中断。
+
+[spoiler]
+[b]Resonance Trodes[/b]
+Prerequisite：Skinlink
+The technomancer gains the ability to use his touch as trodes for another person to provide simsense signals or even share his perception of the Matrix. If used against the receiver’s will (for instance, to drag a person’s mind into hot VR and nuke it with Black IC), it requires a touch-based unarmed attack to apply the trodes, and maintaining the grip may require a successful subduing attack (p. 152, SR4). If resisted, the technomancer must also beat their victim in an Opposed Test, pitting Resonance + Willpower against the target’s Intuition + Willpower. If successful, the technomancer’s touch act as trodes until he stops or physical contact is broken.
+[/spoiler]
+
+---
+
+[b]边栏：学习回声[/b]
+
+如果GM同意，除了他们可以在不同级别的深潜中获得的回声外，深潜超链者可以通过其他方法来学习回声。在学习深潜回声需要15业力。可以学到的最大回声数量等于角色的共鸣+深潜等级。
+[spoiler]
+[b]LEARNING ECHOES[/b]
+If the gamemaster approves, submerged technomancers can learn echoes through other methods, in addition to the one they may acquire at each grade of submersion. It costs 15 Karma to learn an echo outside of submersion. The maximum number of echoes that may be learned is equal to the character’s Resonance + submersion grade.
+[/spoiler]
+[quote]
+[b]通过共鸣域搜寻学习回声[/b]
+
+角色可以通过进行共鸣域搜寻来学习回声(第174页)。深潜超链者必须成功地完成搜寻，并支付必要的业力成本来学习新的回声。
+[spoiler]
+[b]ECHO VIA RESONANCE REALM SEARCH[/b] 
+
+A character may learn an echo by performing a resonance realm search (p. 174). The submerged technomancer must successfully complete the search and pay the requisite Karma cost to learn the new echo.
+[/spoiler]
+[/quote]
+[quote]
+[b]通过超链者或超链者网络学习回声[/b]
+
+一个角色可以从任何知道回声的超链者那里学到回声。超链者不必分享同一个信息流来教别人他们的回声。为了学习回声，学生必须进行一次直觉+共鸣(12,8小时)延续检定，老师和学生必须在同一个节点上保持在线。教师可以进行一个教导检定(第123页，SR4)来添加骰子到学习检定中。由于超链者的老师很难找到，所以大部分的回声在超链者网络的团队和公会中是共享的(第142页)。
+[spoiler]
+[b]ECHO VIA TECHNOMANCER OR TECHNOMANCER NETWORK[/b]
+A character may learn echoes from any techno-mancer who knows the echo. Technomancers don’t have to share the same stream to teach others their echoes. To learn the echo, the student must make an Intuition + Resonance (12, 8 hours) Extended Test and the teacher and student must both remain online in the same node. The teacher can make an Instruction Test (p. 123, SR4) to add dice to the Learning Test. Since technomancer teachers are hard to find, most echoes are shared in party and guild technomancer networks (p. 142).
+[/spoiler]
+[/quote]
+[quote]
+[b]通过网精教导学习回声[/b]
+
+角色可以从任何知道技巧的自由网精那里获得回声，尽管大多数网精只有在超链者参与重组过程时才会同意(145页)。为了学习回声，超链者必须做一个直觉+共鸣(8,8小时)延续检定，在此期间他必须保持和自由网精在同一个节点上。
+[spoiler]
+[b]ECHO VIA SPRITE TUTOR[/b] 
+A character may learn echoes from any free sprite that knows the technique, although most sprites will only agree in exchange for the technomancer’s participation in a reassembling process (p. 145). To learn the echo, the technomancer must make an Intuition + Resonance (8, 8 hours) Extended Test during which he has to remain online in the same node as the free sprite.
+[/spoiler]
+[/quote]
+
+---
+
+[size=12pt][b]线程化的新应用[/b][/size]
+
+超链者能力的一个关键方面是他通过线程化即兴创作助记算法和临时共鸣程序的能力，这赋予了他经常被低估的通用性和适应性。随着超链者对自己能力的不断理解，一些人发现了线程化的更多用途。其中许多都需要通过深潜和获取回声来对特定的矩阵过程获得更深入的了解。
+
+本节基于第234页SR4中介绍的基本规则介绍一些线程化的新应用。
+
+[spoiler]
+[b]ADVANCED THREADING[/b] 
+One of the key aspects of a technomancer’s powers is his ability to improvise mnemonic algorithms and temporary Resonance subroutines by threading, granting him an often-underestimated versatility and adaptability. With the ongoing progression of technomancers’ understanding of their abilities, some have found more uses for threading. Many of these require deeper insights into certain Matrix processes, acquired through submersion and the acquisition of echoes. 
+This section introduces some new applications for threading based on the basic rules introduced on p. 234, SR4.
+[/spoiler]
+
+[b]线程化程序选项[/b]
+
+正如可以通过线程化创建或增强复合程式一样，可以将程序选项添加到现有的复合程式中，而不会实际增加复合程式的级别。要线程化程序选项，角色必须在线程化检定中成功。检定中的每一个成功都被视为一个程序选项等级或程序选项添加到复合程式中。所以一个有两个成功的超链者可以添加一个等级2的程序选项或为线程化的复杂形式选择两个程序选项。与所有线程化进程一样，线程化程序选项会导致衰褪(p. 237, SR4)。
+
+或者，超链者可以使用线程化从零开始使用程序选项创建复合程式。如果线程化检定成功，所有的成功都可以分配在程序等级、程序选项和程序选项等级中。请注意，复合程式只能配备相当于其等级一半的选项。
+
+线程化复合程式必须像通常一样维持。
+
+[spoiler]
+[b]THREADING OF PROGRAM OPTIONS[/b] 
+Just as complex forms can be created or enhanced by threading, program options can be added to existing complex forms without actually increasing the rating of the complex form. To thread a program option, the character must succeed in a Threading Test. Each hit scored on the test counts as one program option rating point or program option added to the complex form. So a technomancer with two hits can either add a rating 2 program option or pick two program options for the threaded complex form. Like all threading processes, threading program options causes Fading (p. 237, SR4). 
+Alternatively, technomancers can use threading to create complex forms from scratch with program options. If the Threading Test is successful, all hits can be distributed among program ratings, program options, and program option ratings. Note that a complex form can only be equipped with a number of options equal to half its rating.
+Threaded complex forms must be sustained as usual.
+[/spoiler]
+
+[b]制作部件[/b]
+
+部件是临时的共鸣物品，超链者可以利用这些虚拟图标来帮助完成任务或在矩阵中保护自己。只有拥有制作部件回声的超链者才能创建这些临时的部件程序。部件帮助特定的矩阵行动，给予等于他们等级的骰池奖励。(多个部件不适用累积奖励;只有最高级的才适用。)创建部件需要一个线程 (等级 x 2,1小时)延续检定。当超链者停止对部件的工作时(要么因为它完成了，要么因为她结束了尝试)，她必须抵制等于部件等级两倍的衰褪。一旦完成，部件就不需要像复合程式那样维持。它只会持续八个小时。只有创建者才能使用部件;如果她由于衰褪或矩阵伤害而失去知觉，部件就会像任何线程化复合程式一样消失。与复合程式一样，部件也可能崩溃。
+
+[spoiler]
+[b]CRAFTING WIDGETS[/b] 
+Widgets are temporary Resonance items, virtual icons that a technomancer can draw upon to help accomplish a task or to protect her in the Matrix. Only technomancers who possess the Widget Crafting echo can create these temporary gadget forms. Widgets aid certain Matrix actions, granting a dice pool bonus equal to their rating. (Multiple widgets do not apply a cumulative bonus; only the highest applies.) Creating a widget requires a Threading (Rating x 2, 1 hour) Extended Test. When the technomancer stops working on the widget (either because it is complete or she ends the attempt), she must resist Fading equal to twice the rating of the widget. Once completed, the widget does not have to be sustained like a complex form. It will only last for eight hours. Only the creator may use the widget; if she falls unconscious due to Fading or Matrix damage, the widget vanishes like any threaded complex form. Like complex forms, widgets may be crashed.
+[/spoiler]
+
+[b]部件类型[/b]
+
+部件有几种类型，每一种类型都帮助其用户执行不同的任务。
+
+放大器：这个部件可以增加超链者的战斗复合程式的力量。将其等级添加到所有矩阵战斗检定中。
+
+基准检定：此部件在运行时优化超链者的进程，将其等级添加到所有计算机检定(包括矩阵侦察检定)中。
+
+欺骗：在部件的帮助下，通过创造不公平的优势来提高超链者的能力。将其等级添加到所有骇入检定中。
+
+调试器：调试器部件在处理共鸣代码时帮助超链者，将其等级添加到所有软件检定中。
+
+诱饵：这个部件模仿超链者的化身，充当一个虚拟诱饵。如果有人试图分辨诱饵和真实化身，需要做一个计算机+分析 vs. 共鸣+部件等级的对抗检定。如果在矩阵战斗中受到任何攻击，诱饵会立即被摧毁。
+
+置换器：这个部件充当额外的一层缓冲代码，在矩阵战斗中保护超链者。将部件的等级添加到所有矩阵战斗的防御检定中。这个部件是通过护盾复合程式附加的。
+
+精神抑制：这个部件创建了一个过滤器，以防止脑灼烧攻击。将其等级添加到防御脑灼烧的程序/复合程式检定中。
+
+渲染：这个部件增加了超链者编制网精的能力。将其等级添加到所有编制检定中。
+
+RAM：一个RAM部件像一块矩阵内存一样可以加载一个线程化程序(复合程式，技能软件)。只要部件是活跃的，它就能通过共鸣能量维持程序，将超链者从维持中释放出来。部件可以维持一个复合程式，该程式的总等级可以达到它自己的等级。在计算RAM部件的总复合程式等级时，没有等级计数为1的程序选项。
+
+[spoiler]
+[b]WIDGET TYPES[/b] 
+Widgets come in several types, each shaped to support its user on a different task. 
+Amp：This widget increases the potency of the technomancer’s combat complex forms. Add its rating to all Cybercombat Tests. 
+Benchmarking：This widget optimizes the technomancer’s processes while running, adding its rating for all Computer Tests (including Matrix Perception Tests). 
+Cheat：Cheat improves the technomancer’s abilities by creating an unfair advantage with the help of the widget. Add the widget’s rating for all Hacking Tests. 
+Debugger：The debugger widget assists the technomancer when dealing with Resonance code, adding its rating to all Software Tests. 
+Decoy：This widget mimics the technomancer’s persona, acting as a virtual decoy. If someone attempts to discern the decoy from the real persona, make an Opposed Test pitting Computer + Analyze versus Resonance + widget rating. If hit by any attack in cybercombat, the decoy is instantly destroyed. 
+Displacer：This widget acts an extra layer of buffering code that protects the technomancer in cybercombat. Add the widget’s rating to all Matrix combat Defense Tests. This widget is cumulative with the Shield complex form.
+Neuroleptic：This widget creates a filter out of Resonance to protect against psychotropic attacks. Add its rating to tests to defend against programs/complex forms with the psychotropic option. Rendering：This widget increases the technomancer’s ability to assemble sprites. Add its rating to all Compiling Tests. 
+Random Access Memory：A RAM widget acts as a memory Matrix in which a threaded program (complex form, skillsoft) can be loaded. As long as the widget is active, it sustains the program with Resonance energy, releasing the technomancer from sustaining it. The widget can sustain a complex form with a total rating up to its own rating. Program options that don’t have a rating count as Rating 1 when calculating the total complex form rating for the RAM widget.
+[/spoiler]
+
+[b]仿真[/b]
+
+使用生体闭路回声的超链者可以使用线程化将技能软件(在超链者可以访问的存储空间中)转换成他们的神经肌肉系统可以处理的复合程式。为了设置模拟，超链者做了一个线程化(技能软件等级)检定。如果该程序包含其他程序等级，则提高程序选项数量或等级的阈值。如果他成功了，他就把程序变成了一个复合程式。他现在既可以将程序维持为具有相同等级的普通线程化复合程式，也可以将技能软件作为复合程式记忆，只需支付与等级相等的业力(任何程序选项或程序选项等级+1)。
+
+[spoiler]
+[b]EMULATION[/b] 
+Technomancers with the Biowire echo can use threading to convert skillsofts (in storage accessible to the technomancer) into complex forms that their neuromuscular system can process. To set up the emulator, the technomancer makes a Threading (skillsoft rating) Test. If the program contains other program ratings, raise the threshold by the number of program options or rating points. If he succeeds, he has converted the program into a complex form. He can now either sustain the program as a normal threaded complex form of the same rating or memorize the skillsoft as a complex form by paying an amount of Karma equal to the rating (+1 for any program option or program option rating).
+[/spoiler]

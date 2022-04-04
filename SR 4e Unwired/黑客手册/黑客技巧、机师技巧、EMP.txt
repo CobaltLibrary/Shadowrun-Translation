@@ -1,0 +1,294 @@
+[color=brown][size=16pt][b]黑客技巧[/b][/size][/color]
+
+以下规则扩展了SR4和其他暗影狂奔产品中关于黑客的选项，着眼于回答关于访问赛博殖装、电子设备、纳米机器人和其他设备的挥之不去的问题。
+
+[spoiler]
+[b]HACKER TRICKS[/b]
+The following rules expand on the options presented in SR4 and other Shadowrun products on hacking, with an eye to answering lingering questions on accessing cyberware, electronics, nanites, and other devices.
+[/spoiler]
+
+[b]骇入赛博殖装[/b]
+
+并不是所有的赛博殖装都是可以被破解的，尽管它足够让黑客感兴趣。要确定一个特定的赛博殖装是否可以被黑客入侵，必须满足以下条件(注意这些条件实际上适用于几乎所有设备，而不仅仅是赛博殖装):
+
+首先，赛博殖装必须计算机化——并非所有的殖装都需要一台内置电脑。然而，大多数赛博殖装要么是计算机化的(或至少配备了RFID传感标签)，以便它可以查询诊断，远程控制或通过直接的神经接口，或与其他殖装/设备通信。参见DNI和无线功能，第31页，Augmentation。
+
+其次，殖装必须能够被黑客通过有线或无线连接访问。大多数外部殖装(比如赛博义肢)只有有线连接，需要黑客物理接入才能访问设备。数据插口提供了一个直接的神经接口，可以立即访问所有的赛博殖装。许多内部殖装都有无线连接，以帮助医务人员进行诊断(如跳线反射)或连接到其他设备(如智能链)。内部殖装的信号等级往往很低(通常为0)，这意味着黑客需要在近距离攻击。这些殖装通常从属于角色的通讯链，所以黑客潜入主节点就可以访问其从属殖装。一些内部殖装(如皮质炸弹)没有无线或DNI连接，因此与其他系统隔离，黑客需要通过手术来进入并访问设备。
+
+如果满足了这些条件，黑客就可以按照正常的规则来攻击或欺骗赛博殖装。标准类型的赛博殖装的设备等级在第214页SR4中给出。一些殖装节点/数据传输可能被加密以获得额外的保护，黑客需要先解密它们(参见加密，第65页)。和其他设备一样，赛博殖装可以在其编程和功能的限制内进行操作。在大多数情况下，此类操作不需要对具有适当访问权限的人进行检定。对于超出操作参数或访问权限的命令，可能需要一个命令+骇入与系统+防火墙的对抗检定。提供一份详尽的可能性列表可能会占用太多空间，但以下是一些例子(游戏鼓励玩家和GM在设计其他选择时发挥创造性——通常情况下，GM拥有最终决定权):
+
+•赛博眼可以被关闭或崩溃，使目标失明。
+
+•以在黑客的赛博耳里播放预先录制或自行创建(使用计算机+编辑)的声音可，让目标听到东西。
+
+•可以将犯罪证据(例如伪造的枪击视频)下载到殖装的存储中，将被攻击者陷害为犯罪者。
+
+•殖装可能被激活(例如，触发足部锚殖装以防止某人逃跑)或关闭(关闭内部气罐，迫使他们呼吸)。
+
+•目标人物可能会因为停用DNI或被更改帐户权限(需要骇入+编辑检定)而无法控制自己的殖装。
+
+•控制一个殖装武器，并利用它攻击其他人，甚至是利用那个有赛博义肢的角色。
+
+[spoiler]
+[b]HACKING CYBERWARE[/b]
+Not all cyberware is hackable, though enough is to make a hacker’s interest worthwhile. To determine if a particular cyber-implant can be hacked, the following criteria must be met (note that these criteria actually apply to almost all devices, not just cyberware): 
+First, the cyberware must be computerized—not all implants need a built-in computer. Most cyberware, however is either computerized (or at least equipped with RFID sensor tags) so that it may be queried for diagnostics, controlled remotely or via direct neural interface, or communicate with other implants/devices. See DNI and Wireless Functionality, p. 31, Augmentation.
+Second, the implant must be accessible by the hacker, via wired or wireless connection. Most external implants (like cyberlimbs) only have wired connections, requiring the hacker to physically jack in to access the device. A datajack provides immediate access to all cyberimplants with a direct neural interface. Many internal implants have wireless links to aid medical staff in running diagnostics (like wired reflexes) or to link to other devices (like a smartlink). The Signal rating of internal implants tends to be low (usually 0), meaning that a hacker needs to be in close range. Such implants are often slaved to the character’s commlink, however, so a hacker who infiltrates the master node can access slaved implants (see Slaving, p. 55). Some internal implants (such as cortex bombs) have no wireless or DNI connection and so are isolated from other systems, requiring surgery to allow a hacker to jack in and access the device.
+If these criteria are met, the hacker can attempt to hack or spoof the implant following normal rules. Device ratings for standard types of cyberware are given on p. 214, SR4. Some implant nodes/transmissions may be encrypted for extra protection, requiring that the hacker decrypt them first (see Encryption, p. 65). Like other devices, cyberware can be manipulated within the limits of its programming and functionality. In most cases, such actions require no test to someone with the proper access privileges. In the case of commands that exceed operational parameters or access privileges, an Opposed Test pitting Command + Hacking Test versus System + Firewall may be required. It would take too much space to provide an exhaustive list of possibilities, but here are a few examples (players and gamemasters are encouraged to be creative when devising other options—as always, the gamemaster has final say):
+• Cybereyes can be shut down or crashed to make the target blind.
+• Pre-recorded or self-created (using Computer + Edit) sounds could be played within hacked cyberears to make the target hear things.
+• Incriminating evidence (for example, forged smartlink footage of a shooting) could be downloaded into an implant’s memory, framing the victim for a crime.
+• The implant may be activated (for example, triggering foot anchor implants to keep someone from running away) or shut down (turning an internal air tank off, to force them to breathe).
+• The target character may be shut out of controlling his own implants by deactivating DNI or altering the account privileges (requiring a Hacking + Editing Test).
+• Seizing control of a cyberarm and using it to attack others, or even the cyberlimbed character.
+[/spoiler]
+
+[quote]
+[b]赛博殖装防护[/b]
+
+一个角色该如何保护他的赛博殖装免受黑客攻击?
+
+1.) 关闭或移除任何无线连接(见第31页，Augmentation)。
+
+2.) 使用直接的物理连接而不是无线连接(仅外部殖装)。
+
+3.) 保持低信号等级这样黑客就会在近距离攻击。
+
+4.) 使用一个好的防火墙程序。
+
+5.) 使用一个好的加密程序。
+
+6.) 保持隐藏模式。
+
+7.) 让殖装从属于你的安全通讯链(参见从属，第55页)。
+
+8.) 安装数据炸弹、ECCM或IC程序。
+
+[spoiler]
+[b]CYBERWARE DEFENSES[/b]
+How can a character protect his cyberware from hacking? 
+1.) Turn off or remove any wireless links (see p. 31, Augmentation).
+2.) Use a direct physical connection rather than wireless (externally-accessible implants only).
+3.) Keep the Signal rating low so a hacker would have to be within close range.
+4.) Use a good Firewall program. 
+5.) Use a good Encryption program. 
+6.) Stay in hidden mode. 
+7.) Slave the implant to your secure commlink (see Slaving, p. 55).
+8) Install Data Bomb, ECCM, or IC programs.
+[/spoiler]
+[/quote]
+
+---
+
+[b]骇入智能链和智能枪[/b]
+
+智能枪和智能链都是低级的无线设备(信号等级为0)，智能枪的默认模式是私人访问——仅当购买枪支时注册的私人用户账户，用户也可以为他的朋友和盟友建立访客账户，而不是让任何人访问智能链和/或使用设备开火。为了防止他们的智能枪被黑，一些用户将智能枪设置为隐藏模式或禁用无线接入，并使用手腕内侧的皮肤链接或数据插口连接智能枪(光纤线也有助于在角色掉落枪支时更容易恢复)。
+
+通过智能链向智能枪发出命令是一个不需要检定的自由动作; 通过通讯链或任何其他无线设备向智能枪发出命令是一个简单动作，需要成功的计算机+命令(1)检定。如果两个角色想要操控同一个的智能枪，那就进行一个计算机+命令的对抗检定，获胜者将决定智能枪在这一轮中的作用。一些街头武士在他们的智能链中存储了一份命令程序的副本，专门用于这些检定。
+
+[spoiler]
+[b]HACKING SMARTLINKS AND SMARTGUNS[/b]
+Smartguns and smartlinks are both low-level wireless devices (Signal 0), and the default mode for smartguns is private access—a primary user account is registered when the gun is purchased, and that user can set up guest accounts for friends and allies instead of letting anyone pick up the gun and access the smartgun link and/ or fire the device. To prevent their smartguns from being hacked, some users place the smartgun in hidden mode or disable the wireless access and use a skinlink or datajack located on the inside of the wrist to connect to the smartgun (the fiber optic cord also serves to make the gun easier to recover if the character drops it).
+Issuing commands to a smartgun through a smartlink is a Free Action that requires no test; issuing commands to a smartgun through a commlink or any other wireless device is a Simple Action and requires a successful Computer + Command (1) Test. If two characters are attempting to command the same smartgun, make an Opposed Computer + Command Test, with the winner determining what the smartgun does that round. Some street samurai store a copy of the Command program in their smartlinks specifically for these tests.
+[/spoiler]
+
+[b]错误诊断[/b]
+
+默认情况下，赛博殖装(和其他配置为开放读取的电子设备)提供有关设备当前状态的信息，包括设备的官方名称和序列号、所有者、许可号、运行的操作系统版本、剩余的燃料或电力(如果适用)、关键温度、故障和上次维护、升级或修改的日期。黑客可以通过成功的软件+编辑检定更改部分个人数据(所有者，许可证号码); 改变任何其他信息需要黑客+编辑检定(难度阈值由GM决定)。在低安保级别的环境中，守卫不能准确地说出殖装是什么，一个带有有效许可证的错误诊断读数就足以让角色在没有太多检查的情况下通过。
+
+[spoiler]
+[b]FALSE DIAGNOSTICS[/b]
+By default, cyberware (and other electronic devices configured for open access) provide information on the current state of the device, including the official designation and serial number for the device, the owner, the license number, the version of the operating system it is running, fuel or power remaining (if applicable), critical temperatures, malfunctions, and the date of the last maintenance, upgrade, or modification. A hacker can change some of the personal data (owner, license number) with a successful Software + Edit Test; changing any of the other information requires a Hacking + Edit Test (difficulty threshold determined by the gamemaster). In low-security settings where the guards cannot tell exactly what an implant is, a false diagnostic reading with a valid license can be enough to get the character through without too much scrutiny.
+[/spoiler]
+
+[b]骇入电子设备[/b]
+
+一个角色可以识别一个不熟悉的电子设备，并通过成功的计算机+逻辑检定知道如何打开它。一旦设备启动，角色就可以访问它。大多数设备只有一个具有管理员权限的单一帐户，并且被配置为开放访问——任何人都可以访问并使用它们。更复杂和昂贵的设备可能有多个帐户和更有限的公共访问。
+
+设备通常具有有线接入(需要黑客物理接入)、无线接入或两者兼而有之。因为大多数硬件设备配置为开放存取，限制通常是固有的或预先编程的。绕过或修改设备上的硬件限制需要进行硬件+逻辑延续检定。参考SR4第125页的建设/修理表中的阈值和修正，间隔时间通常是10分钟(对于更大或更复杂的设备，间隔时间更长，这取决于GM的判断)。通常需要电子学工具箱(参见工具，第323页，SR4)或更好的工具。
+
+通常，电子设备只有一个单一的等级，设备等级(p. 212, SR4)，这是用来代替它的所有矩阵属性。GM可能会选择为特别重要的设备指定矩阵属性，而不是依赖于这种包罗万象的方法。当玩家角色试图在合法使用范围内操作设备时，他们会使用计算机+逻辑(用于设备的一般功能)，或计算机+程序等级(如果是在正常参数但不寻常的任务内); 如果玩家想让设备在合法参数之外发挥作用，那么就使用骇入+程序等级。
+
+[spoiler]
+[b]HACKING ELECTRONICS[/b]
+A character can identify an unfamiliar electronic device and figure out how to turn it on with a successful Computer + Logic Test. Once the device is powered up, characters can access it. Most devices only have a single account with admin privileges and are configured for open access—anybody can come by and use them. More complicated and expensive devices may have multiple accounts and more limited public access.
+Devices generally feature wired access (requiring the hacker to physically jack in), wireless access, or both. Because most hardware devices are configured for open access, limitations are generally hardwired or preprogrammed in. Bypassing or modifying hardware limitations on a device requires a Hardware + Logic Extended Test. Refer to the Build/Repair Table on p. 125 of SR4 for the Threshold and modifiers, the Interval is usually 10 minutes (longer for larger or more complex devices, at the gamemaster’s discretion). A microtronics tool kit (see Tools, p.323, SR4) or better is typically required. 
+Generally, electronics only have a single rating, the Device rating (p. 212, SR4), which is used in place of all of its Matrix attributes. Gamemasters may choose to specify the Matrix attributes for particularly important device rather than rely on this catch-all. When a player character is attempting to manipulate the device within the bounds of legitimate use, they use Computer + Logic (for the general function of the device), or Computer + Program rating (if within the normal parameters but an unusual task); if the player wants to get the device to act outside of legitimate parameters, roll Hacking + Program rating.
+[/spoiler]
+
+[quote]
+[color=brown][size=14pt][b]关于控制设备的说明[/b][/size][/color]
+
+操控无人机的方法不止一种。其他通过矩阵控制的设备也是如此。这里有一个快速和方便的参考指南。
+
+[b]发出远程命令[/b]
+
+你可以使用一个简单动作(参见发布命令，第221,SR4页)远程命令你已订阅到你的化身(p. 221, SR4)的任何设备。你不需要和设备在同一个节点，只要它被订阅并且你的命令可以发送到它们。可以将多个设备控制为一个订阅，但这意味着它们都只能接收相同的命令。节点、设备、代理、无人机、网精等都可以通过这种方式进行命令。
+
+在这种情况下，被命令的设备独立地对指令进行操作。自驾+自动软件用于任何相关检定。如果命令很复杂，GM可以投自驾+响应等级来查看设备是否理解它们(参见第111页)。更复杂的命令可以通过脚本的方式发出(参见代理脚本，第105页)。
+
+[b]远程遥控[/b]
+
+与让设备自己操作相比，你也可以使用命令程序直接通过AR或VR访问它(参见遥控设备，第220页)。你必须登录到设备或订阅它到你的化身。该程序为你提供了一个虚拟界面，让你可以像玩视频游戏一样遥控设备。大多数设备都有内置的命令程序，如果你没有自己的，也可以运行它。
+
+远程遥控设备使用你的主动性。所有的检定都是由你使用命令+一个适当的技能。例如，要使用挂载位武器开火，你可以使用命令+自动枪械。要操控旋翼无人机绕树飞行，你可以使用命令+飞行驾驶加/减操控性。
+
+设备、代理和无人机都可以被远程遥控。
+
+[b]跳入[/b]
+
+你最后也是最直接的选择是通过全沉浸式VR使用简单动作“跳入”设备(参见跳入无人机，第239页，SR4)。这只可能发生在有机师适配的设备上(第341页，SR4)，通常是无人机和车辆。在罕见的情况下，其他设备也具有机师适配功能。
+
+以这种方式操纵的设备将根据机师的主动性行动，并使用机师的技能+适当的载具属性进行检定(参见通用机师/无人机检定，第105页)。
+
+[spoiler]
+[size=14pt][b]A NOTE ON COMMANDING DEVICES[/b][/size]
+There’s more than one way to rig a drone. The same is true for other devices controlled through the Matrix. Here’s a quick and handy reference guide.
+[b]ISSUE REMOTE COMMANDS[/b]
+You may remotely command any device that you have subscribed to your persona (p. 221, SR4) with a Simple Action (see Issuing Commands, p. 221, SR4). You do not need to be in the same node as the device, as long as it is subscribed and your command can reach them. Multiple devices may be controlled as a single subscription, but this means they all receive the same command. Nodes, devices, agents, drones, sprites, etc. may all be commanded this way. 
+In this case, the commanded device acts on the orders independently on its own action. Pilot + autosofts are used for any relevant tests. If the orders are complex, the gamemaster can roll Pilot + Response to see if the device comprehends them (see p. 111). More complicated orders can be issued in the way of scripts (see Agent Scripts, p. 105).
+[b]REMOTE CONTROL[/b]
+Rather than letting the device operate on its own, you may access it directly via AR or VR, using the Command program (see Controlling Devices, p. 220). You must either log in to the device or subscribe it to your persona. The program provides you with a virtual interface, allowing you to control the device like a video game. Most devices have built-in Command programs, which you can run if you lack your own. 
+A remote-controlled device acts on your Initiative. All tests are made by you, using Command + an appropriate skill. For example, to fire a gun emplacement, you would roll Command + Automatics. To maneuver a rotordrone around a tree, you would use Command + Pilot Aircraft +/– Handling. 
+Devices, agents, and drones may all be remote controlled
+this way.
+[b]JUMP IN[/b]
+Your final, and most direct, option is to “jump into” the device with a Simple Action via full-immersion VR (see Jumping Into Drones, p. 239, SR4). This is only possible with devices that have rigger adaptation (p. 341, SR4), typically drones and vehicles. In rare occasions, other devices will feature rigger adaptation. 
+Devices rigged this way act on the rigger’s Initiative, and tests are made using the rigger’s skill + appropriate vehicle attribute (see Common Rigger/Drone Tests, p. 105).
+[/spoiler]
+[/quote]
+
+---
+
+[b]骇入纳米体[/b]
+
+单个的纳米机器人太小太简单，很难被单独攻击——或者如果你能成功控制它，也没有多大用处——整个纳米机器人集群太复杂了，甚至对于最复杂的群体操纵程序也是如此。相反，黑客们专注于访问和重编程纳米巢, 纳米传真系统，纳米锻炉，或开启和关闭纳米殖装(参见开启和关闭纳米殖装，第108页，Augmentation)。
+
+纳米体通常很大程度上不能被控制，但是硬纳米改造系统可以通过支持他们的纳米巢重编程。个人纳米巢可以通过无线访问(信号等级0)，并使用标准规则被黑客攻击或欺骗(参见骇入赛博殖装，第102页); 然后黑客就可以重编程纳米机器人(参见重编程硬纳米机器人，第107页，Augmentation)。为了节省时间，如果黑客有一个纳米系统的样本和一个电子商店，她可以提前编写程序，然后简单地使用伪造指令上传。
+
+纳米传真系统和桌面纳米锻炉具有广泛的防骇入保护。从理论上讲，这两种纳米制造设备都不会连接到矩阵上，除非它们期望进行软件升级或获得新的纳米结构图。与其他设备不同，纳米传真系统和桌面纳米锻炉通常像高级安保节点一样受到良好的保护，具有多级访问、链接密码或纳米技术密钥、加密、设置在非工作时间激活的数据炸弹和主动式IC。如果黑客成功访问了纳米传真系统或纳米锻炉，他们只能生产他们有正确原料的纳米制造设备和纳米结构图的产品。纳米传真系统还受到了进一步的限制，因为它们只能制造一种特定类型的设备，比如个人电子设备或手枪。如果一个纳米传真系统或桌面纳米锻炉遭到损坏(一个主动警报)，而不是关闭，那么它将自毁。被偷的纳米传真系统和桌面纳米锻炉通常会被以无线命令的方式自毁，或者当它们离开它们所在建筑物的wifi网络范围时自动自毁。
+
+纳米结构图保存在高等级的安保节点中，合法用户使用密码登录节点，然后节点会发送一个有效的许可号来验证他们的登录，该许可号被硬编码到纳米传真系统处理器中，进而下载结构图。从安保节点下载纳米结构图时会进行加密。如果角色可以访问纳米传真系统，找到许可号需要硬件+逻辑(4)检定。纳米传真系统许可号只适用于适当的匹配帐户。纳米结构图非常昂贵，而且很少出现在点对点文件共享网络上(参见盗版，第94页)。
+
+[spoiler]
+[b]HACKING NANITES[/b]
+Individual nanites are too small and simple to be hacked individually—or for there to be much use if you managed it— and entire nanite colonies are too complex, even for the most sophisticated swarm-rigging programs. Instead, hackers focus on accessing and reprogramming nanohives, nanofaxes, and desktop forges, or triggering and shutting down nanoware (see Triggered and Shutting Down Nanoware, p. 108, Augmentation). 
+Nanites cannot normally be controlled to a great extent, but hard nanite systems can be reprogrammed from their supporting nanohive. Individual nanohives can be accessed wirelessly (Signal 0) and hacked or spoofed using the standard rules (see Hacking Cyberware, p. 102); the hacker can then get cracking reprogramming the nanites (see Reprogramming Hard Nanites, p. 107, Augmentation). To save time, if the hacker has a sample of the nanite system and a microtronics shop, she can write the program in advance and simply upload it using Spoof. 
+Nanofaxes and desktop forges have extensive protections against hacking. Typically, neither sort of nanomanufacturing device connects to the Matrix unless they are expecting a software upgrade or new nanoschematics. Unlike other devices, nanofaxes and desktop nanoforges are usually as well-protected as high-security nodes with multiple levels of access, linked passcodes or nanotech passkeys, encryption, data bombs set to activate during off-hours, and proactive IC. If a hacker does manage to access a nanofax or nanoforge, they’re limited to producing items that the nanomanufacturing device that they have the correct feedstocks to produce, and has nanoschematics for. Nanofaxes are further limited in that they can only create a specific type of gear, such as personal microtronics or pistols. If a nanofax or desktop nanoforge is compromised (an Active Alert) instead of shutting down it will self-destruct. Stolen nanofaxes and desktop nanoforges are typically ordered to self-destruct wirelessly, or do so automatically when they leave the range of the wifi network of the building they are in. 
+Nanoschematics are kept in high-level security nodes, and legitimate users download them by logging onto the node with their passcodes and then verify their log-on by sending a valid license number that is hard-coded into the nanofax processor. The nanoschematics are encrypted when downloaded from the secure node. Provided the character has access to a nanofax, finding the license number requires a Hardware + Logic (4) Test. A nanofax license number only works with the appropriate matching account. Nanoschematics cost serious nuyen, and few show up on peer-to-peer file sharing networks (see Piracy, p. 94)
+[/spoiler]
+
+[b]代理服务器[/b]
+
+“代理服务器”是一个充当中间人的程序例程，将数据从用户(客户端)传输到另一个用户或节点。代理的优点是由它们作为中介，因此数据似乎来自代理而不是客户端。黑客和暗影狂奔者发现代理非常有用，无论是作为匿名邮件转发服务(混淆原始消息源)，还是挫败追踪企图。
+
+几乎任何节点都可以配置为代理服务器，尽管这通常需要管理员访问权限和计算机+编辑(10,1主动性轮次)检定来设置(如果你没有管理员权限，使用骇入代替计算机)。一旦设置好，从客户端通过代理服务器节点发送的消息看起来将来自代理节点。为了确定消息的来源，黑客需要追踪消息到代理服务器节点，然后攻击该节点的访问日志(或者从该节点的管理员/所有者请求它，如果他们合作的话)。匿名代理服务器通常设置为不保留或删除消息传输日志。
+
+黑客也可以通过代理服务器进行链接，以此作为一种阻止追踪的手段。使用的每个代理服务器将追踪检定阈值增加4。但缺点是，每个代理服务器减少黑客的响应等级1。
+
+[spoiler]
+[b]PROXY SERVERS[/b]
+A “proxy server” is a program routine that acts as a go-between, transferring data from a user (the “client”) to another user or node. The advantage to proxies is that they act as an intermediary, so the data seems to be coming from the proxy rather than the client. Hackers and shadowrunners find proxies very useful both as anonymous remailers (obfuscating the original message source) and to foil tracking attempts. 
+Almost any node can be configured to act as a proxy server, though this typically requires admin access and a Computer + Edit (10, 1 Initiative Pass) Test to set-up (use Hacking in place of Computer if you do not have admin privileges). Once set up, messages that are sent from a client through the proxy server node will seem to have originated from the proxy node. In order to determine the source of a message, a hacker would need to trace the message back to the proxy server node and then hack that node’s access log (or request it from the admin/owner of the node, if they are cooperating). Anonymizing proxy servers are often set to not keep or to delete message transfer logs. 
+A hacker can also route his connection through a proxy server as a means of hindering traces. This increases the threshold by +4 for Tracking Tests for each proxy server used. The drawback, however, is that each proxy server reduces the hacker’s Response by 1.
+[/spoiler]
+
+[b]发现追踪[/b]
+
+及时发现有人试图追踪你的数据轨迹(请参阅track, p. 219, SR4)有助于你重定向追踪或立即采用其他措施。为了发现追踪，你必须和启动追踪的尝试位于同一节点(例如，如果有人试图从你不在的节点的访问日志追踪你的数据轨迹，你将无法得知)。发现追踪需要一个矩阵侦察简单检定(1)。然而，如果追踪者试图保持隐匿追踪，你必须在一个分析+计算机对抗他们的追踪+隐藏的检定中击败他们。
+
+[spoiler]
+[b]SPOTTING TRACES[/b]
+It can be advantageous to know when someone is trying to track your datatrail (see Track, p. 219, SR4), so that you can redirect the trace or otherwise make haste. In order to spot a trace, you must be in the same node that the track attempt is launched in (if someone is attempting to track your datatrail from the access log of a node you are no longer in, for example, you will not know). Spotting the trace requires a simple Matrix Perception Test (1) Test. However, if the tracker is trying to keep the trace discreet, you must beat them in an Opposed Test pitting your Analyze + Computer versus their Track + Stealth.
+[/spoiler]
+
+---
+
+[quote]
+[table]
+[tr][td][color=brown][size=14pt][b]通用机师/无人机检定[/b][/size][/color][/td][/tr]
+[tr][/tr]
+[tr][td][b]动作[/b][/td][td][b]跳入骰池[/b][/td][td][b]自驾无人机设备骰池[/b][/td][td][b]远程遥控骰池[/b][/td][/tr]
+[tr][td]主动性[/td][td]机师主动性[/td][td]自驾+响应等级[/td][td]机师主动性[/td][/tr]
+[tr][td]攻击[/td][td]传感器等级+炮术[/td][td]自驾+瞄准软件[/td][td]命令+炮术[/td][/tr]
+[tr][td]近战防御[/td][td]响应等级+近战技能[/td][td]自驾+防御[/td][td]命令+近战技能[/td][/tr]
+[tr][td]远程防御[/td][td]响应等级[/td][td]响应等级[/td][td]命令[/td][/tr]
+[tr][td]全防御[/td][td]同上+闪避[/td][td]同上+防御[/td][td]同上+闪避[/td][/tr]
+[tr][td]伤害抵抗[/td][td]机体+护甲[/td][td]机体+护甲[/td][td]机体+护甲[/td][/tr]
+[tr][td]潜行[/td][td]响应等级+潜行[/td][td]自驾+隐匿行动软件[/td][td]命令+潜行[/td][/tr]
+[tr][td]操纵[/td][td]响应等级+对应载具技能[/td][td]自驾+机动软件[/td][td]命令+对应载具技能[/td][/tr]
+[tr][td]侦察[/td][td]传感器等级+侦察[/td][td]传感器等级+清晰视像软件[/td][td]传感器等级+侦察[/td][/tr]
+[/table]
+
+[spoiler]
+[table]
+[tr][td][b]COMMON RIGGER/DRONE TESTS[/b][/td][/tr]
+[tr][td][b]Action[/b][/td][td][b]Jumped-In Rigger Dice Pool[/b][/td][td][b]Autonomous Drone Device Pool[/b][/td][td][b]Remote-Controlled Dice Pool[/b][/td][/tr]
+[tr][td]Initiative[/td][td]as rigger[/td][td]Pilot + Response[/td][td]as rigger[/td][/tr]
+[tr][td]Attack[/td][td]Sensor + Gunnery[/td][td]Pilot + Targeting[/td][td]Command + Gunnery[/td][/tr]
+[tr][td]Melee Defense[/td][td]Response + Melee skill[/td][td]Pilot + Defense[/td][td]Command + Melee skill[/td][/tr]
+[tr][td]Ranged Defense[/td][td]Response[/td][td]Response[/td][td]Command[/td][/tr]
+[tr][td]Full Defense[/td][td]as above + Dodge[/td][td]as above + Defense[/td][td]as above + Dodge[/td][/tr]
+[tr][td]Damage Resistance[/td][td]Body + Armor[/td][td]Body + Armor[/td][td]Body + Armor[/td][/tr]
+[tr][td]Infiltration[/td][td]Response + Infiltration[/td][td]Pilot + Covert Ops[/td][td]Command + Infiltration[/td][/tr]
+[tr][td]Maneuvering[/td][td]Response + Vehicle skill[/td][td]Pilot + Maneuver[/td][td]Command + Vehicle skill[/td][/tr]
+[tr][td]Perception[/td][td]Sensor + Perception[/td][td]Sensor + Clearsight[/td][td]Sensor + Perception[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[color=brown][size=16pt][b]机师技巧[/b][/size][/color]
+
+就像黑客一样，机师也有他们自己的小把戏。以下规则扩展了SR4和其他暗影狂奔产品中机师的选项，着眼于回答关于赛博殖装、干扰、生物无人机和赛博格的挥之不去的问题。
+
+[spoiler]
+[size=16pt][b]RIGGER TRICKS[/b][/size]
+Like hackers, riggers have their own bag of tricks. The following rules expand on the options presented in SR4 and other Shadowrun products on rigging, with an eye to answering lingering questions on cyberware, jamming, biodrones, and cyborgs.
+[/spoiler]
+
+[b]劫持生物无人机和赛博格[/b]
+
+生物无人机的控制软件(参见生物无人机控制软件，第152页，Augmentation)有一个设备等级(参见设备等级，第213页，SR4)，作为其防火墙，但玩家可能想知道缺乏自驾程序(除了那些有一个马镫界面的生物无人机)是否使它们更容易被黑客攻击或欺骗。答案是: 是的。生物无人机在抵制伪造指令或黑客攻击时只投它的设备等级对抗。
+
+赛博格也可能被劫持，但在这种情况下，机师用他们的技能对付熟练的黑客。一个明显的切入点是这个赛博格的集成通讯链——最好是发送伪造指令或通过无线方式入侵赛博格的无人机机体，你可以非常肯定这个赛博格会做出抵抗，而且很可能是通过矩阵战斗(参见骇入，第161页，Augmentation)。如果赛博格觉得受到了足够的威胁而关闭了它的通讯链，机师别无选择，只能靠近并强行物理接入——准备面对一个在肉界里被激怒的赛博格。
+
+更安全的做法是尝试在停机维护期间劫持赛博格的身体。在短时间内，当颅骨密封装置没有连接到它的时候，无人机的身体可以像平常一样被线连插入(把它当作普通的无人机，自驾等级为0)，尽管大多数情况下都需要机师物理接入无人机。
+
+[spoiler]
+[b]JACKING BIODRONES AND CYBORGS[/b]
+A biodrone’s control ‘ware (see Biodrone Control ‘Ware, p. 152, Augmentation) has a Device rating (see Device Rating, p. 213, SR4) that serves as its firewall, but players may wonder if the lack of a Pilot program (except for biodrones including a stirrup interface) makes them easier to hack or spoof. The answer: yes it does. A biodrone only rolls its Device rating when resisting spoofed commands or hacking. 
+Cyborgs may also be jacked, but in this case the rigger is setting their skills against a skilled hacker. The obvious point of entry is the cyborg’s integral commlink—perfect for sending spoofed commands or to hack the cyborg’s drone body wirelessly, which you can be damn sure the cyborg is going to resist, probably through cybercombat (see Hacking, p. 161, Augmentation). If the cyborg feels sufficiently threatened to shut off its commlink, the rigger has no option but to get in close and physically jack in—and face the prospect of a pissed-off cyborg in meat-space. 
+A safer bet is to try and jack a cyborg body during its maintenance downtime. For the brief period when the cranial containment unit isn’t attached to it, the drone body can be jacked as normal (treat it as a regular drone with a Pilot of 0), though most require the rigger to physically jack in to the drone body.
+[/spoiler]
+
+[b]即兴干扰[/b]
+
+机师几乎比其他任何角色都更依赖于无线信号来使用他们的专长，这意味着很少有机师是电子战的新手。有时你需要关闭另一个机师或黑客的链接，但没有可用的干扰器; 在这种情况下，你可以尽你所能地使用手边的无线电或无线发射器，把静电干扰注入对方使用的任何频道或波段。
+
+即兴干扰往往是一个嘈杂和困难的事情，但它可以工作——这是最重要的事情。即兴干扰是一个复杂动作，需要一些具有信号等级的设备(如通讯链、无线电或无人机)来充当即兴干扰器。使用机师的电子战技能+信号等级与目标的电子战+信号等级进行对抗检定，目标将她运行的任何ECCM程序的等级添加到她的骰池中进行检定。如果对抗检定成功，信号被干扰; 否则不受影响。即兴干扰是区域干扰，影响的是一个球形区域——每远离中心5米，即兴干扰者的信号等级降低1。
+
+一个被用作即兴干扰器的设备不能将其无线能力用于其他任何事情。例如，一个通讯链不能在被用作即兴干扰器的同时连接到矩阵。
+
+[spoiler]
+[b]JAMMING ON THE FLY[/b]
+More than almost any other character, riggers are dependent on wireless signals in order to use their specialty, which means that few riggers are strangers to electronic warfare. Sometimes you need to shut down another rigger or hacker and don’t have a jammer available; in such circumstances you do the best that you can with whatever radio or wireless transmitter you have on hand, spitting static into whatever channels or bands the opposition is using. 
+Jamming on the fly tends to be a noisy and difficult affair, but it can work—and that’s the important thing. Jamming on the fly is a Complex Action and requires some device with a Signal rating (such as a commlink, radio, or drone) to act as an impromptu jammer. Make an Opposed Test between the rigger’s Electronic Warfare skill + Signal rating and the target’s Electronic Warfare + Signal rating; the target adds the rating of any ECCM program she has running to her dice pool for the test. If the Opposed Test is successful, the signal is jammed; otherwise it is unaffected. Jamming on the fly is area jamming and affects a spherical area—the impromptu jammer’s Signal rating is reduced by 1 for every five meters from the centre. 
+A device being used as an impromptu jammer cannot use its wireless capability for anything else. A commlink, for example, could not connect to the Matrix at the same time it is being used as an impromptu jammer.
+[/spoiler]
+
+---
+
+[color=brown][size=16pt][b]电磁脉冲(EMP)[/b][/size][/color]
+
+电磁脉冲(EMP)对电子设备的运行是如果不是破坏性的也是有害的。EMP会擦除标准RFID标签，但不会擦除数据芯片等基于光的存储媒体。在影响范围内的任何非光学和非硬化电路也将被中断或损坏。2070年的大多数电子设备都是基于光学的，但接口、电力系统等可能仍然很脆弱，特别是在陈旧的系统上。基于GM的判断，受影响的系统可能遭受数据丢失，断电，或被完全烧坏。无线接收和无线电通信也将短暂中断，这将影响该地区的任何无线节点、通讯链和超链者。
+
+电磁脉冲有一个等级，决定了它们的强度和影响范围。为了确定对特定设备的损害，对EMP等级和受到攻击的电子设备的设备等级(参见设备等级，第213页，SR4)进行对抗检定。如果角色将EMP瞄准特定的设备，在进行对抗检定时，将角色的电子战技能添加到EMP等级中。利用净成功来衡量对设备造成的损害。比较EMP的等级与SR4第212页的信号等级表，以确定影响面积。受EMP影响的无人机和载具也可能撞车(见撞车，第161页，SR4)。
+
+无线中断的瞬间不足以从矩阵中删除一个图标;它的实时持续时间不到一秒。然而，受影响的图标不能在被脉冲击中的战斗回合中行动(或被影响)。许多旧的赛博殖装和车辆很容易受到电磁脉冲的攻击，应该进行损伤检定。法拉第笼(完全围绕人物或装置的金属盒或金属网)内的个人和设备受到电磁脉冲的完全保护;因此，一个赛博格的CCU是完全受保护的，但它驾驶的无人机身体可能不是。如果一个人或设备在一个被无线抑制油漆或墙纸包围的容器中，将与其等级相等的骰子加到对抗检定的设备等级上。
+
+[spoiler]
+[size=16pt][b]EMP[/b][/size]
+An electromagnetic pulse (EMP) is detrimental, if not destructive, to the operation of electronics. An EMP erases standard RFID tags but not optical-based storage media like datachips. Any non-optical and non-hardened electronic circuits within the area of effect will also be disrupted or damaged. Most “electronics” in 2070 are optical-based, but interfaces, power systems, and the like may still be vulnerable, especially on archaic systems. Affected systems may suffer data loss, power outages, or burn out entirely at the gamemaster’s discretion. Wireless reception and radio communication will also be disrupted for a brief instant, which affects any wireless-only nodes, commlinks, and technomancers in the area. 
+EMPs have a rating that determines their intensity and area of effect. To determine the damage to a specific device, make an Opposed Test between the EMP’s rating and the Device rating (see Device Rating, p. 213, SR4) of the vulnerable electronic device. If a character is aiming the EMP at a specific device, add the character’s Electronic Warfare skill to the EMP’s rating when making the Opposed Test. Use the number of hits garnered to gauge the damage done to the device. Compare the EMP’s rating to the Signal Rating Table on p. 212 of SR4 to determine the area of effect. Flying drones and vehicles affected by an EMP may also crash (see Crashing, p. 161, SR4). 
+The moment of wireless disruption is not sufficient to drop an icon from the Matrix; it lasts less than a second in real-time. However, the affected icons cannot act (or be affected) during the Combat Turn that the pulse hits. Many older cyberware implants and vehicles are vulnerable to EMPs and should test for damage. Individuals and devices within a Faraday cage (a metal box or wire mesh that completely surrounds the character or device) are completely protected from an electromagnetic pulse; a cyborg’s CCU is thus completely protected, but the drone body it drives may not be. If an individual or device is in a volume surrounded by wireless-inhibiting paint or wallpaper, add dice equal to their rating to the Device rating on the Opposed Test.
+[/spoiler]

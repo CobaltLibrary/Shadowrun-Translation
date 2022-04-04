@@ -1,0 +1,151 @@
+[color=brown][b][size=18pt]新超链者特质：失谐支流[/size][/b][/color]
+
+数据的本质是什么？对于共鸣超链者来说，数据以特定的模式流动，就像电流一样，它寻求阻力最小的路径。这个世界上有一种数据去遵循的秩序。失谐超链者则处理另一种流，其本质和规律不清楚，但它对共鸣具有破坏的、混乱的影响。失谐超链者并不寻求控制这股力量，而是释放它。他们对“失谐”背后的规律和科学并不感兴趣。他们珍惜经验，并将其置于效率、逻辑或道德等之上。失谐的诱惑如此强烈，这有什么奇怪的吗？这些支流遵循与共鸣支流相同的规则(第89页)，支流花费20业力购买，并且在角色创建后不会加倍它的成本。一个角色不能同时跟随两条支流。
+
+[spoiler]
+[size=18pt][b]NEW TECHNOMANCER QUALITIES: DISSONANT STREAMS[/b][/size]
+
+What is the nature of data? To a resonant technomancer, data flows in specific patterns, and like electricity it seeks the path of least resistance. There is order in the world, and data seeks to obey. Dissonant technomancers deal with another flow, whose nature and rules are not clear, but it has a destructive, chaotic effect on Resonance. Dissonant technomancers do not seek to control this force so much as unleash it. The rules and science behind Dissonance are not really interesting to them. They treasure the experience, and they place that above things such as efficiency, logic, or morality. Is there any wonder that the allure of Dissonance is so strong? These streams follow the same rules as Resonant streams (p. 89), in that a stream costs 20 Karma to purchase and does not double its cost after character creation. A character cannot follow two streams simultaneously.
+[/spoiler]
+
+
+
+[color=brown][b][size=14pt]尚异闪蝶 MORPHINAE[/size][/b][/color]
+
+就像他们得名于的蝴蝶（闪蝶亚科，Morphinae）一样，尚异闪蝶会飞向任何吸引他们注意力的地方，而他们目光的方向并不总是明确的。他们是矩阵的狂热科学家，不顾后果地尝试新事物。对尚异闪蝶来说，失谐是一个华丽的新世界，并且因为他们已经脱离了自己接受新现实的心理障碍，他们是野性和不可预测的。
+
+[spoiler]
+[b]MORPHINAE[/b]
+Like the butterflies from which they take their name, Morphinae flit to whatever catches their attention, and the direction of their gaze is not always clear. They are Matrix mad scientists, trying new things to see what happens without any regard for the consequences. Dissonance is a brave new world to the Morphinae, and because they have detached themselves from their mental blocks to accept their new reality, they are wild and unpredictable.
+[/spoiler]
+
+[quote]
+[b]优势[/b]
+• 所有以主机或IC为目标的复合程式带来的衰褪减少2点。
+• 在编制和解码诱错网精和泛用网精时享受+2骰池加值
+
+[spoiler]
+[b]BENEFITS[/b]
+• All complex forms that affect the attributes of hosts or IC are performed at 2 less Fading Value. 
+• +2 dice pool bonus to Compiling and Decompiling tests involving Fault or Generalist sprites.
+[/spoiler]
+
+[b]后台进程[/b]
+
+尚异闪蝶已经证明他们在适应环境方面非常有效。因此，在其他黑客分心或行动迟缓的环境中，尚异闪蝶就会放出光彩。他们可以忽略每深潜等级1杂讯。
+
+[spoiler]
+[b]DAEMON[/b]
+Morphinae have proven themselves to be astonishingly effective at adapting to their surroundings. Thus, in environments that would distract or slow other hackers, the Morphinae shine. They can ignore a point of Noise for each Submersion Grade that they possess.
+[/spoiler]
+[/quote]
+
+[quote]
+[b]复合程式：强制启发[/b]
+[b]目标：主机或IC 持续：S 衰褪：L + 1[/b]
+
+超链者给目标一个自适应的最终无法解决的算法。目标为了继续执行处理器堆栈中的下一个操作则必须解决问题，认识到问题无法解决，或者出错。超链者选择目标的一个矩阵属性，进行软件+共鸣[能级]v.意志+防火墙的对抗检定。检定中的每一个净成功将减少目标的被选择属性1点。只要超链者维持复合程式，这种效果就会持续。
+
+举例：Wallace在一个主机的深处漫游，想看看在事情失控前他能走多远。当他在主机中时，他设法引起一些特别爱管闲事的巡逻IC的注意。他决定编写强制启发的复合程式来真正混淆IC，因为他发现当它们尝试回答无意义的等式时非常有趣。他在能级5使用它，掷出软件+共鸣[能级5]对抗IC的骰池10。他决定瞄准IC的攻击属性，只是为了让它驯服。他获得4个成功，IC获得3个。只要Wallace维持复合程式，IC的攻击性等级就会降低1。Wallace通常需要抵抗6衰退，但因为他是尚异闪蝶，而且复合程式影响的是IC，他只需要抵抗4衰褪。
+
+[spoiler]
+[b]COMPLEX FORM: FORCED HEURISTICS[/b]
+[b]Target: Host or IC Duration: S FV: L + 1[/b]
+The technomancer gives a target an adaptive and ultimately unsolvable algorithm. In order for the target to move on to the next operation in the processor stack, it must solve the problem, recognize that the problem is unsolvable, or error out. The technomancer selects a Matrix attribute of the target and rolls a Software + Resonance [Level] v. Willpower + Firewall Opposed Test. Net hits on the test reduce the selected attribute of the target by 1 point per net hit. The effect lasts as long as the technomancer sustains the complex form. 
+Example: Wallace is roaming the depths ofa host, just trying to see how far he can get before things get out of hand. While he’s in there, he manages to get the attention of some particularly nosy Patrol IC. He decides to thread up Forced Heuristics to really confuse the IC, since he finds it rather amusing when they try to answer the nonsense equation. He threads it at Level 5 and rolls Software + Resonance [5] v. the IC’s dice pool of 10. He decides to target the Attack attribute of the IC, just to keep it tame. He gets 4 hits, while the IC gets 3. The IC has its Attack Rating reduced by 1 for as long as Wallace keeps the thread active. Wallace would normally have to resist 6 points of Fading, but because he’s a Morphinae and the complex form affects IC, he only has to resist 4.
+[/spoiler]
+[/quote]
+
+
+
+[color=brown][b][size=14pt]谬因溯者 APOPHENIA[/size][/b][/color]
+
+过度关联错觉(APOPHENIA)是一种心理状态，即一个人认为随机事件之间往往有复杂的、甚至是因果上的关系。谬因溯者致力于用奇怪的方式连接不同的事物，并且他们对这些连接是否有意义不感兴趣。矩阵中充满了失谐，谬因溯者深入其中，用它做实验来探寻会发生什么。
+
+[spoiler]
+[b]APOPHENIA[/b]
+Apophenia is a psychological condition in which a person perceives random events to have often complicated, even causal interactions with each other. Apophenians are dedicated to connecting disparate things in odd ways, and they are not interested in having those connections make any kind of sense. The Matrix is full of Dissonance, and the Apophenians reach into it and experiment with it to see what will happen.
+[/spoiler]
+
+[quote]
+[b]优势[/b]
+• 所有以设备为目标的复合程式带来的衰褪减少2点。
+• 在编制和解码数据网精和泛用网精时享受+2骰池加值。
+
+[spoiler]
+[b]BENEFITS[/b]
+• All tests involving complex forms that affect devices are performed at a Fading Value of 2 less than normal.
+• Apophenians receive a +2 dice pool bonus to Compiling and Decompiling tests involving Data or Generalist sprites.
+[/spoiler]
+
+[b]后台进程[/b]
+谬因溯者经常被失谐所包围，并可以利用它来保护自己不被发现。他们增加了一半的深潜等级(向上取整)到他们的隐匿性。
+
+[spoiler]
+[b]DAEMON[/b]
+Apophenians are constantly surrounded by the Dissonance and can use it to help shield themselves from detection. They add half of their Submersion Grade (rounded up) to their Sleaze attribute.
+[/spoiler]
+[/quote]
+
+[quote]
+[b]复合程式：因果联系[/b]
+[b]目标：设备 持续：P 衰褪：L + 0[/b]
+
+这种复合程式允许超链者创造一系列事件的连锁反应，最终导致相关人员的灾难。事件的确切性质取决于运气，但最初的事件总是以某种方式涉及到技术。当使用此能力时，玩家选择目标设备并进行软件+共鸣(能级)(2)检定。记录获得的成功。只要复合程式被维持，这个复合程式的目标只需要比正常状态少复合程式净成功数量的失误骰就会失误。如果目标出现严重失误，因果联系复合程式将提前结束。
+
+例子: Tarantula刚从奇迹射手的游戏中出来，在游戏中他出了洋相被人当众嘲笑。Tarantula并不满足于承受自己的痛苦，它瞄准了其他玩家的通讯链，并使用因果联系攻击他们。他在能级4的复合程式和投软件+共鸣[能级4]并得到4个成功，意味着2净成功。他必须维持这个复合程式，让它有机会达到预期效果。在2个净成功的情况下，该设备将在3个或更少骰子的检定中自动出现失误，而在4或5个骰子的检定中只需要一个1就会出现失误。Tarantula通常需要抵抗4点的衰褪，但因为他是谬因溯者，而且检定的目标是一个设备，所以他只需要抵抗2点。
+
+[spoiler]
+[b]COMPLEX FORM: CAUSAL NEXUS[/b]
+[b]Target: Device Duration: P FV: L + 0[/b]
+This complex form allows the technomancer to create a chain reaction of events that ultimately ends in disaster for those involved. The exact nature of the events is left to chance, but the initiating event always involves technology in some way. When using this power, the player selects a target device and makes a Software + Resonance [Level] (2) Test. Record the number of hits achieved. The target of this complex form needs (net hits) fewer 1s than normal to receive a glitch as long as this power is sustained. This complex form CAUSAL NEXUS will end early if the target gets a critical glitch. 
+Example: Tarantula just got out of a game of Miracle Shooter where he had his hoop handed to him. Not content to take his lumps, Tarantula targets the other player’s commlink and hits them with Causal Nexus. He threads the complex form at Level 4 and rolls Software + Resonance [4] and gets 4 hits, meaning 2 net hits. He has to sustain the program to give it a chance to have the intended effect. With 2 net hits, the device will glitch automatically on a test with 3 dice or fewer, and will only need a single 1 to glitch on a test with 4 or 5 dice. Tarantula would normally have to resist 4 points of Fading, but because he’s an Apophenian and the test targeted a device, he only has to resist 2.
+[/spoiler]
+[/quote]
+
+
+
+[color=brown][b][size=14pt]纷争奏者 ERISIANS[/size][/b][/color]
+
+厄里斯是希腊神话中不和与冲突的女神，她为这种失谐超链者提供了一个合适的标签。纷争奏者似乎唯一达成共识的是，道德和社会等概念只是阻碍人们真正体验世界的表象。纷争奏者认为他们自己是唯一能看到真相的人: 社会是一个用来束缚个人的恶性结构。失谐是他们的主人，他们竭尽所能地宣扬它。
+
+[spoiler]
+[b]ERISIANS[/b] 
+The Greek goddess of discord and strife, Eris provides a fitting label for this strain of Dissonant technomancers. The only thing that Erisians seem to agree on is that concepts such as morals and society are merely facades that keep one from truly experiencing the world. The Erisians think of themselves as being the only ones that can see the truth: that society is a cancerous construct built to shackle the individual. Dissonance is their master, and they boost it as much as they can.
+[/spoiler]
+
+[quote]
+[b]优势[/b]
+• 所有以其他化身为目标的复合程式带来的衰褪减少2点。
+• 在编制和解码破解网精和泛用网精时享受+2骰池加值
+
+[spoiler]
+[b]BENEFITS[/b]
+• All complex forms that affect other personas are performed at a Fading Value of 2 less than normal.
+• +2 dice pool bonus to Compiling and Decompiling tests involving Crack or Generalist sprites.
+[/spoiler]
+
+[b]后台进程[/b]
+纷争奏者经常因为冒犯了错误的人而让自己陷入麻烦，但是他们对那些可能会使一个较弱黑客瘫痪的攻击不屑一顾。他们将深潜等级(向上取整)的一半加到防火墙等级中。
+
+[spoiler]
+[b]DAEMON[/b]
+Erisians are constantly getting themselves into trouble by insulting the wrong person, but they shrug off attacks that would otherwise cripple a lesser hacker. They add half of their Submersion Grade (rounded up) to their Firewall rating.
+[/spoiler]
+[/quote]
+
+[quote]
+[b]复合形式:失谐棘刺[/b]
+[b]目标:设备 持续: I 衰褪: L + 6[/b]
+
+纷争奏者总是一击致命，他们已经学会了如何把普通的共鸣棘刺复合程式提高一个等级。取代发出一个共鸣棘刺的是向目标发送一个纯粹失谐构成的棘刺。做一个软件+共鸣[能级]v.意志力+防火墙对抗检定。目标受到每个净成功2点矩阵伤害与每个净成功1点生物反馈伤害。这种伤害是无法抵抗的。
+
+示例: Skeev有一个简单的任务: 在主机终端检索高价值数据。不幸的是，有另一个黑客在找同样的高价值数据。他真的没有时间也不想和另一个黑客展开一场旷日持久的战斗，所以他编写了一个失谐棘刺的复合程式。他决定使用能级4，并将其发送到敌人的碟板上。Skeev的玩家掷出软件+共鸣[能级4]对抗敌对黑客的骰池8。Skeev的玩家得到4个成功，而敌对黑客只得到1个。敌对黑客因为在热模中狂奔受到6点矩阵伤害和3点物理伤害。斯基夫发出嘲笑，并拿到了高价值数据，在敌对黑客知道是什么攻击他之前退出了主机。他通常需要抵抗10点的衰褪，但是因为他是一个纷争奏者，他只需要抵抗8点衰褪。
+
+[spoiler]
+[b]COMPLEX FORM: DISSONANCE SPIKE[/b]
+[b]Target: Device Duration: I FV: L + 6[/b]
+Erisians always go for a kill shot, and they havelearned how to take the fairly common Resonance Spike complex form up a notch. Instead of sending a spike of Resonance, they send a spike of pure Dissonance into the target. Make a Software + Resonance [Level] v. Willpower + Firewall test. The target takes 2 boxes of Matrix damage per net hit, and 1 box of biofeedback damage per net hit. This damage cannot be resisted. 
+Example: Skeev has a simple mission: retrieve the paydata at the end of this host. Unfortunately, there’s another hacker after the same paydata. He doesn’t really have the time or desire to get into a long, drawn-out fight with another hacker, so he threads up a Dissonance Spike. He decides to thread this one at Level 4 and sends it off to hit the enemy hacker’s deck. Skeev’s player rolls Software + Resonance [4] v. the enemy hacker’s dice pool of 8. Skeev’s player gets 4 hits, and the enemy hacker only gets 1. The enemy hacker takes 6 points of Matrix Damage and takes 3 points of Physical damage because he’s running in hot-sim. Skeev laughs, grabs the paydata, and logs out of the host before the enemy hacker even knows what hit him. He normally would have to resist 10 points of Fading, but because he is an Erisian, he only has to resist 8.
+[/spoiler]
+[/quote]

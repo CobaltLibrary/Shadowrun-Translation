@@ -1,0 +1,20 @@
+[color=brown][size=16pt][b]荒野网精[/b][/size][/color]
+
+类似于觉醒世界的野精魂，荒野网精，本土代码生物，据谣传漫游在矩阵的无限空间中。因为关于“正常”网精的知识是最近才获得的，并且在AI的出现和超链者现象(参见《Emergence》战役)发生期间公开的，所以当人们遇到荒野网精时经常会把它们误认为是普通网精或自由网精。
+
+虽然它们确实可以从数字世界的不断存在的噪音中自发地增强和组合起来，但荒野网精并不顺从泛人类的思维或超链者的支流。没有人确切地知道它们为什么以及如何在某些节点中形成，尽管人们倾向于基于导致它们创建的环境或数据来假设一个模式。由所谓的无用代码(程序员所说的多余或不必要的代码)形成的网精似乎更加混乱和无形，在许多方面与初智能ai相似(第167页)，而从档案中诞生的荒野网精在图像和行为上是有序的，类似于超智能ai(第168页)。
+
+荒野网精的动机仍然难以捉摸。有些似乎专注于在矩阵中创建、获取、保护或破坏数据或虚拟节点(如UV主机)的任务，但除此之外，他们的动机似乎连超链者都无法理解。在非常罕见的情况下，荒野网精会对泛人类编写的化身、图标、程序和环境表现出兴趣，并与它们进行好奇的互动。
+
+出于游戏性的目的，荒野网精被当作自由网精处理，但是它们的独特的数据、能力和个性都留给GM决定。尽管所有荒野网精都有一个等级和各种各样的能力，它们也可以拥有GM认为适当和平衡的任何形式或组合的能力。
+
+荒野网精总是不受控制，并且对注销表现出明显的抵抗。所有荒野网精都拥有否决的能力(第160页)。除非编制者拥有其源代码，否则无法编制和控制荒野网精……假设荒野网精甚至拥有源代码，这是一个开放的问题。
+
+[spoiler]
+[size=16pt][b]WILD SPRITES[/b][/size]
+Similar to wild spirits of the Awakened World, wild sprites, native code-beings, are rumored to roam the infinite spaces of the Matrix. Since the knowledge about “normal” sprites was only very recently acquired and made public during the emergence of AIs and the unveiling of the technomancer phenomenon (see the Emergence campaign), wild sprites are often mistaken for normal or free sprites when encountered. 
+Although they can indeed rise and assemble spontaneously from the ever-present noise of the digital world, wild sprites do not conform to metahuman thinking or technomancer streams. Nobody knows for sure why and how they form in certain nodes, although they tend to assume a form based on their environment or the data that led to their creation. Sprites formed from so-called cruft (programmer speak for redundant or unnecessary code) seems more chaotic and formless, similar in many ways to protosapient AIs (p. 167), for example, while wild sprites born from archives appear ordered in iconography and behavior, resembling xenosapient AIs (p. 168).
+What motivates wild sprites remains elusive. Some seem to focus on tasks that involve creating, acquiring, protecting, or destroying data or virtual spots (such as UV hosts) in the Matrix, but beyond that, their motivations seem to be beyond the grasp even of technomancers. On very rare occasions, wild sprites have shown interest in personas, icons, programs, and environments programmed by metahumans, interacting with them curiously. 
+For game purposes, wild sprites are handled as free sprites (p. 157), though their unique statistics, abilities, and personalities are left to the gamemaster. Though all have a rating and various powers, wild sprites can possess any form or any combination of powers the gamemaster deems appropriate and balanced. 
+Wild sprites are always uncontrolled and exhibit a remarkable resistance to decompiling. All possess the Denial power (p. 160). A wild sprite may not be compiled and controlled unless the compiler possesses its source code … assuming that wild sprites even have source code, which is an open question.
+[/spoiler]

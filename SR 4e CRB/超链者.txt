@@ -1,0 +1,199 @@
+[size=12pt][b]超链者[/b][/size]
+
+超链者的神经通路和大脑化学机制使得他们可以发送、接收和解释无线信号，让他们随时访问无线矩阵而不需要电子或网络软件。虽然科学家甚至法师都无法解释这种有机无线连接的确切机制，但超链者自己并不抱怨，他们总是与矩阵保持一致，数据流的嗡嗡声总是在他们的耳朵里低语。也许值得注意的是，脱离了数字世界的超链者往往会变得暴躁和焦虑。
+要成为超链者，角色必须在角色创建时购买超链者特质(第93页)。
+
+[spoiler]
+TECHNOMANCERS 
+The neural pathways and brain chemistry of technomancers are such that they can send, receive, and interpret wireless signals, giving them instant access to the wireless Matrix, no electronics or cyberware required. Though scientists and even magicians are at a loss to explain the exact mechanics of this organic wireless link, the technomancers themselves have no complaints that they are constantly in tune with the Matrix, with the buzz of the dataflow always whispering in their ears. Perhaps significantly, technomancers who are removed from this digital background hum tend to get grumpy and agitated. 
+To be a technomancer, a character must purchase the Technomancer quality (p. 93) at character creation.
+[/spoiler]
+
+[quote]
+[b]特质：超链者[/b]
+
+花费：5BP
+超链者可以通过自己纯粹的意志力访问和操纵矩阵(见超链者，第239页)。在2064年大崩溃之前被称为“宅客”的超链者，在增强现实技术出现后出现在各行各业。
+
+角色必须购买此特质才能成为超链者，并且共鸣属性将从1开始。这个属性可以像其他属性一样增加，最多为6(参见购买属性，第83页)。具有此特质的角色不能具有修士、魔术师或神秘修士特质。
+
+超链者有一个活体化身——他们在矩阵的另一个自我——它有自己的一套单独的属性，控制着矩阵中的虚拟行为。共鸣属性与某些其他属性结合在一起，决定了角色的强大(或弱小)程度。
+
+[spoiler]
+TECHNOMANCER 
+Cost: 5 BP 
+Technomancers can access and manipulate the Matrix through their own sheer force of will (see Technomancers, p. 239). Known as otaku prior to the Crash of 2064, technomancers have emerged among all walks of life since the advent of augmented reality. 
+A character must purchase this quality in order to be a technomancer and will start with a Resonance attribute of 1. This may be increased like any other attribute, up to a maximum of 6 (see Purchase Attributes, p. 83). A character with this quality cannot take the Adept, Magician, or Mystic Adept qualities. 
+Technomancers have a living persona—their Matrix alter ego—with its own separate set of attributes that govern virtual actions in the Matrix. The Resonance attribute, combined with certain other attributes, determines how strong (or weak) the persona is.
+[/spoiler]
+[/quote]
+
+[b]共鸣[/b]
+
+共鸣是超链者用来描述数据的潮起潮落，以及他们在矩阵中感知到的神秘(至少是奇妙)能量的术语。超链者有一种被称为共鸣的特殊属性，这表明他们仅凭大脑就能访问和操纵矩阵。超链者的共鸣属性影响他所有的共鸣能力，包括他的活体化身，复合程式等等。
+[spoiler]
+RESONANCE 
+Resonance is the term technomancers use to describe the ebb and flow of data, and the mystical (or at least mysterious) energy they perceive in the Matrix. Technomancers have a special attribute called Resonance that indicates their capability to access and manipulate the Matrix with their minds alone. A technomancer’s Resonance attribute affects all of his Resonance abilities, including his living persona, complex forms, etc.
+[/spoiler]
+
+[b]植入体与共鸣[/b]
+
+与魔法一样，赛博殖装和生体改造也限制了共鸣。为了确定这种障碍的严重程度，从精华中取任何因赛博殖装和/或生体改造而减少的值(第68页)，并取整至最接近的整数。这个数值从超链者的共鸣中扣除。
+
+[spoiler]
+IMPLANTS AND RESONANCE 
+As with Magic, cyberware and bioware limit Resonance. To determine the severity of this impediment, take any reductions from Essence due to cyberware and/or bioware implants (p. 68) and round up to the nearest whole number. This amount is deducted from the technomancer’s Resonance.
+[/spoiler]
+
+[b]活体化身[/b]
+
+超链者有他们自己版本的化身，被称为活体化身。它本质上是一个在超链者的头脑中的有机的通讯链和拟感模块。这个活体化身和普通的人物化身具有相同的属性，每个属性都基于超链者的个人属性和共鸣。
+
+活体化身属性表定义了超链者活体化身的等级。这个化身的属性不能超过超链者的共鸣等级(所以共鸣3和意志力5的超链者的活体化身防火墙是3,不是5)。当超链者沉浸在VR, 他们总是认为是使用热模(p。226); 热模的速度奖励已经计算到他们的响应等级和主动性。
+
+活体化身没有任何形式的有机记忆存储空间。如果一个超链者想下载一个文件，他需要将它从精神上转移到物理存储设备上。
+
+[spoiler]
+THE LIVING PERSONA 
+Technomancers have their own version of the persona, known as the living persona. It is essentially an organic commlink and sim module in the technomancer’s head. This living persona has attributes just like a regular persona, each based on the technomancer’s personal attributes and Resonance. 
+The Living Persona Table defines the ratings for a technomancer’s living persona. None of the attributes of this persona may exceed a technomancer’s Resonance rating (so a technomancer with Resonance 3 and Willpower 5 has a living persona Firewall of 3, not 5). When technomancers immerse themselves in full VR, they are always considered to be running with hot sim (p. 226); the speed bonus for hot sim is already calculated into their Response and Initiative. 
+The living persona has no form of organic storage memory whatsoever. If a technomancer wants to download a file, he needs to mentally transfer it to a physical storage device.
+[/spoiler]
+
+[quote]
+[b]活体化身属性表[/b]
+[table]
+[tr][td]化身属性[/td][td]等级[/td][/tr]
+[tr][td]防火墙[/td][td]意志[/td][/tr]
+[tr][td]响应等级[/td][td]直觉(在完全VR模式+1)[/td][/tr]
+[tr][td]信号等级[/td][td]共鸣÷2，向上取整[/td][/tr]
+[tr][td]系统处理[/td][td]逻辑[/td][/tr]
+[tr][td]其他[/td][td]等级[/td][/tr]
+[tr][td]生物反馈过滤[/td][td]魅力[/td][/tr]
+[tr][td]VR矩阵主动性[/td][td](直觉 x 2) + 1[/td][/tr]
+[tr][td]VR矩阵主动性流程[/td][td]3[/td][/tr]
+[/table]
+
+[spoiler]
+[b]LIVING PERSONA TABLE[/b]
+[table]
+[tr][td]PERSONA ATTRIBUTES[/td][td]RATING[/td][/tr]
+[tr][td]Firewall[/td][td]Willpower[/td][/tr]
+[tr][td]Response[/td][td]Intuition(+1 in full VR)[/td][/tr]
+[tr][td]Signal[/td][td]Resonance÷2, round up[/td][/tr]
+[tr][td]System[/td][td]Logic[/td][/tr]
+[tr][td]OTHER RATINGS[/td][td]RATING[/td][/tr]
+[tr][td]Biofeedback Filter[/td][td]Charisma[/td][/tr]
+[tr][td]VR Matrix Initiative[/td][td](Intuition x 2) + 1[/td][/tr]
+[tr][td]VR Matrix Initiative Passes[/td][td]3[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[b]超链者CM[/b]
+
+由于超链者的生活角色是由他的大脑产生的，超链者没有一个单独的矩阵CM。相反，他们使用自己的眩晕和物理CM。这意味着超链者在现实世界中受到的任何伤害都会阻碍他的矩阵能力，反之亦然。对超链者来说，矩阵伤害被视为眩晕伤害。如果一名超链者被击昏，他的活体化身就会崩溃。
+
+[spoiler]
+TECHNOMANCERS AND CONDITION MONITORS 
+Since a technomancer’s Living Persona is generated by his brain, technomancers do not have a separate Matrix Condition Monitor. Instead, they use their own Stun and Physical Condition Monitors. This means that any damage a technomancer takes in the real world will impede his Matrix abilities, and vice versa. Matrix damage is treated as Stun damage to a technomancer. If a technomancer is knocked unconscious, his Living Persona crashes.
+[/spoiler]
+
+[b]超链者技能[/b]
+
+除了超链者用于处理网精的共鸣技能(第240页)，超链者还使用与黑客相同的技能:计算机、矩阵战斗、数据搜索、电子战、骇入、硬件和软件。然而，超链者使用这些技能的方式与非超链者使用它们的方式有很大的不同。超链者通过心智训练和对机器世界运作的直觉来锻炼这些技能;他们学习如何让设备和软件做他们想做的事情，而不是如何使用电子设备。
+
+因此，这些技能的超链者版本从根本上不同于标准版本。在游戏中，超链者可能永远不会向非超链者传授这些技能，超链者的技能版本也不会作为技能软件提供。超链者可能单独学习这些技能的“正常”版本(或使用正常的技能软件)，但他们经常发现正常的做事方式是令人绝望的笨拙和落后。
+
+[spoiler]
+TECHNOMANCER SKILLS 
+Aside from the Resonance skills that technomancers use to handle sprites (p. 240), technomancers use the same skills common to hackers: Computer, Cybercombat, Data Search, Electronic Warfare, Hacking, Hardware, and Software. The way technomancers use these skills, however, is vastly different from the way non-technomancers use them. Technomancers exercise these skills through mental gymnastics and an intuitive feel for the functioning of the machine world; they do not learn to use electronics so much as they learn to make devices and software do what they want. 
+As a result, the technomancer versions of these skills are fundamentally different from the standard versions. In game terms, technomancers may never teach these skills to non-technomancers, nor are the technomancer skill versions available as skillsofts. Technomancers may learn the “normal” versions of these skills separately (or use normal skillsofts), but they often find the normal way of doing things to be hopelessly clumsy and backward.
+[/spoiler]
+
+[b]矩阵侦察[/b]
+
+由于他们与矩阵中数据的潮起潮落的共鸣的联系，超链者在所有矩阵侦察检定中获得+2骰池奖励。
+
+[spoiler]
+MATRIX PERCEPTION 
+Due to their resonance with the ebb and flow of data in the Matrix, technomancers receive a +2 dice pool bonus on all Matrix Perception tests.
+[/spoiler]
+
+[b]复合程式[/b]
+
+超链者不像黑客那样使用程序(如果他们想要那种“复古”的体验，没有什么能阻止他们拿起通讯链浪费精力，但很少有人这样做)。相反，他们学习如何用复合程式操纵矩阵的数字本质，使用他们创建的心理算法来克服给定的障碍。
+
+超链者必须通过冥想、内省和练习来学习如何使用他们的复合程式。在角色创建过程中，超链者支付BD获得已经掌握的复合程式。之后，超链者通过支付业力来学习额外的复合程式(第269页)。
+
+为了简单起见，复合程式由其函数所模拟的程序来标识。每个程序都有一个等效的复合程式，除了生物反馈过滤器，它是活体化身的一部分。有些程序在作为复合程式使用时具有不同的效果，这在程序的描述中有所说明。超链者不能学习或使用代理、IC和自动软件。任何数量的超链者的复合程式可以使用而不影响响应等级; 超链者的所有复合程式都被认为是运行的，除非被超链者特别“停用”。
+
+复合程式就像程序，但它们不是程序。他们不能被只影响程序的动作作为目标。没有共鸣属性的角色不能使用复合程式。
+
+[spoiler]
+COMPLEX FORMS 
+Technomancers don’t use programs the way hackers do (nothing prevents them from picking up a commlink and going to town if they want that “retro” experience, but few do). Instead, they learn how to manipulate the digital nature of the Matrix with complex forms, mental algorithms they create to overcome given obstacles. 
+Technomancers must learn how to use their complex forms, through meditation, introspection, and practice. During character creation, technomancers pay Build Points to start with complex forms already learned. Afterward, technomancers learn additional complex forms by paying Karma (p. 269). 
+For simplicity, complex forms are identified by the programs their functions mimic. For each program there is an equivalent complex form, with the exception of Biofeedback Filter, which is part of the living persona. Some programs have different effects when used as a complex form, which are noted in the program’s description. Agents, IC, and autosofts may not be learned or used by technomancers. Any number of a technomancer’s complex forms can be used without affecting Response; all of a technomancer’s complex forms are considered running unless specifically “deactivated” by the technomancer. 
+Complex forms act like programs, but they are not programs. They cannot be targeted by actions that only affect programs. Characters without a Resonance attribute cannot use complex forms.
+[/spoiler]
+
+[b]复合程式等级[/b]
+
+复合程式与程序一样具有等级，可以在角色创建过程中购买，也可以在游戏过程中使用业力购买或提升。一个复合程式的基础等级不能超过超链者的共鸣等级。
+
+[spoiler]
+COMPLEX FORM RATINGS 
+Complex forms have ratings just as programs do, purchased during character creation or bought or improved with Karma during game play. A complex form’s base rating may not exceed the technomancer’s Resonance.
+[/spoiler]
+
+[b]学习复合程式[/b]
+超链者必须从其他超链者或网精那里学习新的复合程式。向超链者学习的成本通常是他的教导技能x1000元，不过交易也可以交换好处或其他商品。要向网精学习，网精必须注册，教学需要一项协助学习任务(241页)。
+
+超链者必须在直觉+共鸣(5.1天)延续检定中成功。教师可以每天做一个教导检定(第134页)，为学习检定增加额外的骰子。如果成功，超链者将花费2业力并学会等级1的复合程式; 如果检定失败，没有业力被消耗，但也没有学到复合程式。
+
+提高现有复合程式1点的检定是直觉+共鸣(新等级x 2,1周)延续检定。对于复合程式的改进，教练是没有必要的，但可以帮助学习新的复合程式。
+
+[spoiler]
+LEARNING COMPLEX FORMS
+Technomancers must learn new complex forms from either another technomancer or a sprite. The cost to learn from a technomancer is usually his Instruction skill x 1,000¥, though deals can be made to trade for favors or other goods. To learn from a sprite, the sprite must be registered, and teaching costs one Aid Study task (p. 241). 
+The technomancer must succeed in an Intuition + Resonance (5, 1 day) Extended Test. Instructors can make an Instruction Test (p. 134) each day to add extra dice to the learning test. If successful, the technomancer spends 2 Karma and learns the complex form at rating 1; if the test fails, no Karma is spent, but neither is the complex form learned. 
+The test to improve an existing complex form by 1 point is an Intuition + Resonance (new level x 2, 1 week) Extended Test. An instructor is not necessary to improve a complex form, but one may assist as with learning a new complex form.
+[/spoiler]
+
+[b]线程化[/b]
+
+超链者有能力即兴创作他们未知的复合程式，或者提高他们已知的复合程式的等级。这个过程称为线程化。为了使用一个复合程式，超链者做一个软件+共鸣检定。在检定中每一次成功都可以将复合程式的等级提高一级; 如果复合程式是从头创建的，则从等级0开始。超链者可以选择放弃一些他得到的成功。每个线程化复合程式的等级不可以超过超链者共鸣的两倍。
+
+线程化复合程式必须被维持(类似于法师维持法术)。维持需要超链者的努力，所以每维持一个复合程式，他的所有检定遭受-2DP修正。这个修正并不适用于线程化复合程式的使用，但它适用于超链者做出的所有其他动作。
+
+线程化是一个耗费精力的过程，并会导致衰褪(见第243页)。
+
+[spoiler]
+THREADING 
+Technomancers have the ability to improvise Complex Forms that they do not know on the fly, or increase the rating of a complex form they do know. This process is known as threading. To thread a complex form, the technomancer makes a Software + Resonance Test. Each hit scored on the test can be used to increase the rating of a complex form by one; if the complex form is created from scratch, start at Rating 0. The technomancer can choose to discard some of the hits he scores. No threaded complex form can have a rating greater than twice the technomancer’s Resonance. 
+Threaded complex forms must be sustained (similar to how magicians sustain spells). Sustaining requires effort on the technomancer’s part, so he suffers a –2 dice pool modifier to all tests for each sustained complex form. This modifier does not apply to use of the threaded complex form, but it does apply to all other actions the technomancer makes.
+Threading is an exhausting process, and causes Fading (see p. 243).
+[/spoiler]
+
+[b][/b]
+[spoiler]
+[/spoiler]
+
+[b][/b]
+[spoiler]
+[/spoiler]
+
+[b][/b]
+[spoiler]
+[/spoiler]
+
+[b][/b]
+[spoiler]
+[/spoiler]
+
+[b][/b]
+[spoiler]
+[/spoiler]
+
+[quote][/quote]

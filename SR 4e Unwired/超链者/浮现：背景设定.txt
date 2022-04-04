@@ -1,0 +1,368 @@
+[size=12pt][b]浮现：背景设定[/b][/size]
+
+> 我知道，当Netcat在一段时间前公开自己的身份时，她的业界评价有所下降，但我认为除了超链者本身，没有更好的对超链者的介绍来源了。我已经批准了另外两个人参加这个接入点讨论，以提供一些关于这个问题的不同观点。下面有请网络大师Otaku-Zuku和在技彩之翼工作的超链者Inbus。我们希望这次讨论能够抚平过去一年所造成的一些创伤。
+
+> FastJack
+
+[spoiler]
+> I know that Netcat’s rep score took a bit of a plunge when she revealed herself some time ago, but I don’t think there’s any better source on technomacers aside from technomancers themselves. I have approved two others to this Jackpoint discussion to provide some alternate viewpoints on the matter. Please welcome undernet guru Otaku-Zuku and Inbus, a technomancer who is working for Technicolor Wings. Let’s hope this discussion soothes some of the wounds generated over the past year.
+> FastJack
+[/spoiler]
+
+[size=12pt][b]浮现[/b][/size]
+
+发帖人：Netcat
+
+[i]成为一名超链者，意味着什么?[/i]
+
+自从我“展现”以来，这个问题已经被问过无数次了。即使你没有公开地问过，你可能也想知道作为一个行走的通讯链是什么感觉。尽管我仍然会遇到不信任、偏见和怀疑，这仅仅是因为我的身份——甚至在接入点上——我在这里要回报FastJack，提供一份关于我的浮现(这是我们超链者对将我们引向共鸣的事件的称呼，有点像法师提到他们的觉醒)的个人报告，和我如何体验真实和数字世界。
+[spoiler]
+[size=12pt][b]EMERGING[/b][/size]
+
+Posted By: Netcat 
+
+[i]“How is it, being a technomancer?” [/i]
+
+I have been asked this question numerous times since my “coming out.” Even if you haven’t asked it openly, you’re probably wondering what it is like being a walking commlink. Though I still encounter mistrust, prejudice, and suspicion simply because of what I am—even here on Jackpoint—I’m paying back a favor to FastJack here by providing a personal report on my Emerging (that’s what us technomancers call the event that introduced us to the Resonance, sort of like how magicians refer to their Awakening) and how I experience the real and the digital world.
+[/spoiler]
+
+[b]与共鸣同在[/b]
+要明白的第一件事是我从来没有要求成为我自己现在的样子。我只是我。在崩溃2.0之后的几年里，我平静地接受了现在的我是不同的，一些事情改变了我。我不能说清楚它是怎么发生的，但我可以说是崩溃引发了它。
+
+这是我的故事。在64年之前，我是矩阵技术和系统开发的学生，尽管这并不是我真正的热情所在。我是一个充满激情的玩家，对代码的兴趣不亚于任何矩阵狂热分子。我做了一些小规模的骇入和代码破坏，我现在还在用同样的网络处理方式——没什么了不起的，事实上，完全不是我们的黑客天才Slamm–0!的水平
+
+> 不要奉承我。不, 只是开个玩笑。请继续。
+> Slamm–0!
+
+[spoiler]
+[b]BEING IN RESONANCE[/b]
+
+The first thing you have to understand is that I never asked to be what I am. I just am. In the years that followed the Crash 2.0, I made peace with myself and accepted that I am different now, that something changed me. I cannot say how it happened, though I can say that the Crash somehow triggered it. 
+Here’s the story. Before ´64 I was a student on Matrix technology and system development, though that wasn’t my real passion. I was a passionate gamer and as interested in the code as any Matrix freak. I did some small scale hacking and code breaking under the same online handle I still use now—nothing spectacular, though, and definitely not on the level of our hacker wunderkind Slamm–0!
+
+> Don’t flatter me. No, just kidding. Continue.
+> Slamm–0!
+[/spoiler]
+
+在崩溃的那天，我像往常一样在消磨时间，通过《超自然危机》的关卡为我的角色获得一些极其稀缺的修正和装备。我不记得崩溃来的时候到底发生了什么，但和很多人一样，我被困在了矩阵里。我有一些非常模糊的记忆——实际上只有很少的一些图像和感觉，加上相当多的混乱。然后我被送到了急诊室。我的室友发现我瘫坐在沙发上，还在接入，显示屏上冒着静电。他拔掉了插头，把我送到了医院。
+
+过了几天我才出院。在那段时间里，我大部分时间都迷失了方向，医院里挤满了在坠机事件中遭受痛苦的人——包括几十个和我一样被困在线上的人。医生说，他们没有发现任何持久的神经损伤，所以他们让我带了一瓶止痛药回家，因为我仍然患有不停的偏头痛。在那时，我不知道我的生活已经改变。
+
+几个星期、几个月过去了，其间我经历了一些……奇怪的遭遇。有时能听到窃窃私语，好像看不见的人在跟我说话。今天，我知道那是我无意识地与电子设备互动时发出的噪音和电子提示。有时我看到了不存在的东西，数据流被我的大脑塑造成图像，这样我就能理解它们。我周围的电子设备开始奇怪地运转。我把它归咎于我的神经和创伤后压力，试图忽视这一切，直到这些变化变得如此明显，我再也不能视而不见了。我感到困惑和恐惧，寻求帮助，但我拜访的大多数“专家”都认为我是一个怪人、疯子或压力过大。我开始担心自己会被关起来。
+
+[spoiler]
+The day of the Crash, I was killing time as I often did, hacking through the levels of Paranormal Crisis to obtain some ultra-scarce modifications and gear for an avatar of mine. I don’t remember exactly what happened when the Crash hit, but like many others, I was trapped in the Matrix. I have some very faint memories—just a few images and sensations really, plus a fair bit of confusion. Then I came to in an Emergency Room. My roommate had found me slumped on the couch, still jacked in, with static on the display screen. He pulled the plug and got me to a hospital. 
+It took a few days before I was released from the hospital. I was disoriented for most of that time, and the hospital was overwhelmed with other people who had suffered during the Crash—including dozens who had been trapped online, just like me. The doctors hadn’t found any lasting neurological damage they said, so they sent me home with a bottle of painkillers for the non-stop migraine I still had. At this point, I had no idea that my
+life had changed.
+Some weeks and months passed, during which I experienced a few … strange encounters. Sometimes there where whispers as if unseen people were talking to me. Today I know it was the noise and electronic prompts from devices I had unconsciously interacted with. Sometimes I saw things that weren’t there, data traffic shaped into images by my brain so that I could understand them. Electronic devices started to function strangely around me. I chalked it on my nerves and post-traumatic stress, trying to ignore it all until the changes were so blatant that I couldn’t turn a blind eye anymore. I was confused and frightened, looking for help, but most of the “experts” I visited thought I was a freak, crazy, or overstressed. I started to worry that I was going to be locked away.
+[/spoiler]
+
+> 噢，尽管泪流成河吧。你可以随心所欲地牵动我们的心弦，但这并不能说服我，你的种族和你的AI盟友/创造者不会对泛人类构成威胁。你以前是不是黑客并不重要——你现在是一个突变体，一个自然的怪胎。对我来说，你就是一颗等着爆炸的定时炸弹。
+
+> Clockwork
+
+> 这里需要指出的一个非常重要的一点是，并非所有的超链者都是由崩溃“创造”出来的。以我为例。崩溃发生时我正在山上徒步旅行，直到几天后才听说。在浮现之前，我从未遇到过AI，从未在机器中看到过电子幽灵，从未接触过黑IC，甚至从未骇入过任何东西。68年的一天，我正在对一架无人机进行维护，在它的操作系统上运行诊断程序，这时我意识到我的通讯链被意外地关闭了。一开始我很困惑，我不知道为什么能在没有链接的情况下访问无人机。在接下来的几周里，我做了一些实验，成功地复制了这种情况，甚至更进一步。那天，我跳进了一架无人机，通过VR直接操纵它，没有连接，我知道我与众不同。我也从其他超链者那里听到过类似的故事——他们中的一些人甚至可以追溯到崩溃之前。所以不要认为我们是崩溃的产物，或被AI操纵，或任何类似的废话。如果你这样做，你只是在表达你的无知。
+
+> Inbus
+
+> 第六纪已经见证了许多奇怪的事情，我相信在未来的岁月里，我们还会看到更奇怪的事情。
+
+> Icarus
+
+[spoiler]
+> Oh, cry me a river. You can pull our heart strings as long as you want, but that won’t persuade me that your kind and your AI allies/ creators are not a threat to metahumanity. It doesn’t matter if you were a hacker before—you’re a mutation now, a freak of nature. For me, you are just a ticking time bomb waiting to explode.
+
+> Clockwork
+
+One very important point that needs to be made here is that not all technomancers were “created” by the Crash. Take me, for example. I was hiking in the mountains when the Crash hit, and didn’t even hear about until a few days afterward. Before my Emergence, I never met an AI, never saw a ghost in the machine, never had a run in with Black IC—heck, I never even hacked anything. Then one day back in ’68 I was doing maintenance on a drone, running diagnostics on its OS, when I realized my commlink had been accidentally turned off. It confused the hell out of me at first, I couldn’t figure out how I was accessing the drone with no ‘link. Over the next few weeks, though, I experimented a bit and managed to replicate the situation, and even go a bit further. The day I jumped into a drone, rigging it direct via VR, commlink-free, I knew I was something different. I’ve heard similar stories from other technomancers—some of them even dating to before the Crash. So don’t assume we’re a product of the Crash, or manipulated by AIs, or any other such nonsense. If you do, you’re just expressing your ignorance. 
+
+> Inbus
+
+> The Sixth World has seen many strange things, and I’m sure we’ll see even stranger ones in the years to come.
+
+> Icarus
+[/spoiler]
+
+随着新矩阵的设立和和各种通讯链、无线设备的分发，情况每周都在变得更糟。走在大街上，每秒钟都有成千上万的提示、数据预测和信息传输如雨点般落在我身上，这让我难以忍受。数字以太上的流量越多，我就越难以调整和处理数据湍流。
+
+[spoiler]
+With the installation of the new Matrix and the distribution of commlinks and all kinds of wireless devices, it became worse each week. To walk down a street and have thousands of prompts, data projections, and transmissions raining down on me every second was hard to bear. The more traffic there was clouding the digital ether, the more I had trouble adjusting and dealing with the data flow.
+[/spoiler]
+
+> 我想这就像不断的，不可阻挡的读心术。如果心灵感应存在，他们需要学会屏蔽任何与他们互动的人的想法，甚至是接近他们的人的想法。我不羡慕超链者，因为那里的流量和设备肯定比人多。我不是计算机奇才，但我知道我的通讯链上有太多的进程，作为一个用户，我永远不会意识到这些进程，也不必担心它们。你们超链者是怎么处理的?
+
+> Winterhawk
+
+> 只是需要慢慢习惯。随着时间的推移，我们中的大多数人都能很好地过滤掉噪音，并真正享受我们周围持续不断的活动带来的嗡嗡声。冥想可以帮助解决这个问题。每个超链者都曾面临过噪音问题，不同的人会制定不同的应对策略。对一些人来说，这比其他人更难。有些人根本应付不来，这让他们发疯。
+
+> Otaku-Zuku
+
+> 这就像驾驶自动驾驶仪(非电子语言)。当你每天沿着同一条路开车时，你可能会突然意识到你一直在想一些事情，而不记得过去几分钟的驾驶情况，即使你在交通中没有撞车或撞死任何人。它是在潜意识中发生的，因为所有的移动和动作都在你的大脑中根深蒂固，就像你在启动汽车时启动的程序一样。好吧，我已经习惯了在无线世界中导航，以至于我几乎没有意识到我周围的流量，或者我是如何与它互动的，尽管我可以很容易地集中注意力并在需要的时候注意到它。
+
+> Inbus
+
+[spoiler]
+> I imagine it would be much like constant, unstoppable mind reading. If telepaths existed,they would need to learn to shut out the thoughts of any person they interact with or whoeven comes close to them. I don’t envy technomancers, since there is surely a lot moretraffic and devices than people. I’m no computer wiz, but I know there are a plethora of processes going on my commlink that I, as a user, will never recognize or have to worry about. How do you technomancers deal with that?
+
+> Winterhawk
+
+> It just takes getting used to. Over time, most of us adapt well to filtering out the noise, and actually enjoy the constant hum of activity around us. Meditation helps. Every technomancer has faced the noise problem at some point, and different people develop different coping strategies. For some it is harder than others. Some can’t cope at all, and it drives them crazy.
+
+> Otaku-Zuku
+
+> It is like driving on autopilot (non-electronically speaking). When you drive the same way every day, you may suddenly realize that you’ve been thinking about something and can’t remember anything about the past few minutes of driving, even though you somehow navigated traffic without crashing or killing anyone. It happens subconsciously because all the actions and moves are ingrained in your brain, like a program that you just start when starting your car. Well, I’ve gotten so used to navigating a wireless world that I’m barely even conscious of the traffic around me or how I’ve interacted with it, though I can easily concentrate and notice it if I need to.
+
+> Inbus
+[/spoiler]
+
+与今天的许多超链者不同，我当时并没有这么奢侈，没有现成的人可以教我这些东西。我孤身一人，我不敢告诉大多数人因为他们不会相信我或者会认为我疯了。今天我所能做的一切都是我自己通过训练和坚持完成的，因为我别无选择。我为此感到非常自豪。我找到了自己的路。
+
+[spoiler]
+Unlike many technomancers today, I did not have the luxury of having someone on hand who could teach me such things. I was on my own, and I was afraid to tell most people because they wouldn’t believe me or would think I was crazy. Everything that I can do today I achieved by myself through training and persistence, and because I had no other choice. I am pretty proud of it. I found my own way.
+[/spoiler]
+
+> 从学术角度来说，顺便说一句。就目前的科学理解而言，泛人类生物计算机(超链者们)是如何运作的，以及它们的能力来源是什么，尚不完全清楚。遗传倾向似乎是一个关键因素，并不是所有浮现的个体都被困在了矩阵中，或者之前对数字词汇[color=green](此处疑为数字世界)[/color]有某种高度的亲和力。据科学家所知，这也不完全是一种神经元或生物电现象。当前盛行的理论是，浮现者是人类物种的一个真正的进化分支，就像觉醒者一样。
+
+> The Smiling Bandit
+
+[spoiler]
+> A quick aside, from an academic position. As far as current scientific understanding goes, it is not entirely clear how a metahuman biocomputer (read: technomancer) functions and what the source of their abilities is. Genetic predisposition seems to be a crucial factor, and not all individuals who Emerged were trapped in the Matrix or had some sort of previous elevated affinity for the digital word. It is also not an entirely neuronal or bioelectric phenomenon, as far as scientists can tell. The current prevailing theory is that the Emerged are a true evolutionary branch of the human species, just like the Awakened.
+
+> The Smiling Bandit
+[/spoiler]
+
+---
+
+[size=12pt][b]体验矩阵[/b][/size]
+
+不同于我以前生活的任何阶段，成为一名超链者改变了我的个性。我是一个全新的人，与过去的我完全不同——不是因为我是某个全球AI棋局中被洗脑的卒子，而是因为生活强加给我的新的经验和知识。相信我，并不是所有的变化都是容易接受的。
+
+当时我并不知道还有其他超链者的存在，但知道我不可能在正常的世界中使用我的新技能，我开始寻找更开放的地方，在那里我可以重建我的生活，并在足够保密的情况下将我罕见的天赋转化为利润。我以为暗影会是这样的地方，但我错了。隐藏真实的自己很容易，当然我也得到了一些认可。但是，仅仅基于“我是什么”而不是“我是谁”的社会边缘化、偏见和不信任，仍然是永久的伴侣。我不想在这里大声唱我的同情之歌，但我必须承认，之前我从未想过法师和修士在20年代的感受或者调换儿在61年经历了什么。这就是我们的社会运转的方式。这是我愿意付出的代价，因为我的天赋让我变得特别，比以前更好，我不想再没有它了。
+
+在我浮现之前，当我还是一名黑客的时候，我喜欢在虚拟现实世界中打发时间。我穿过云层，穿着金碧辉煌的盔甲，呼吸着春天的新鲜空气，感受着虚拟太阳的光芒。虽然我的大脑一直都知道这是模拟的，但感觉很真实。现在，作为一名超链者，我的日常经历让那些记忆显得苍白而枯燥。现在每一个黑客，每一个沉浸在矩阵里的普通用户，所体验到的只是我所感受到的世界的一个浅薄的副本。普通的矩阵用户所体验到的就像是透过一扇彩色的窗户观看另一种现实。我不再透过这扇窗户看世界了。我爬出窗户，成为真实虚拟世界的活跃部分。
+
+[spoiler]
+[size=12pt][b]EXPERIENCING THE MATRIX[/b][/size]
+
+Becoming a technomancer changed my personality unlike any phase of my life before. I am a new person quite different from who I was in the past—not because I am a brainwashed pawn in some global AI chess game, but because of the new experiences and knowledge life forced upon me. Believe me, not all of the changes were easy to swallow. 
+Unaware at the time that other technomancers existed, and knowing that there was no way I could employ my new skills in the normal world, I began looking for more open-minded places where I could rebuild my life and turn my rare talent into profit with enough secrecy to protect myself. I thought the shadows could be such a place, but I was wrong. It was easier to hide what I was, and I did find some acceptance of course. But social marginalization, prejudice, and mistrust based solely on what I am, rather than who I am, are still permanent companions. I don’t want to sing my pity song too loudly here, though, as I must admit that previously I never thought much about how about magicians and metahumans may have felt in the 20s or what changelings went through back in ‘61. It is just the way our society ticks. It is a price I am willing to pay, as my talent has made me special, better than before, and I would not want to live without it anymore. 
+Before my Emergence, back when I was hacker, I enjoyed spending time in virtual reality worlds. I flew through the clouds, stood in resplendent armor, smelled the fresh spring air, and felt the rays of the virtual sun. It felt real, though my brain always knew it was a simulation. Now, as a technomancer, my daily experience makes those memories seem pale and dull in comparison. Every hacker out there, every normal user immersed in the Matrix right now, experiences but a thin, shallow copy of the world that I sense. What regular Matrix users experience is like looking at an alternate reality through a tinted window. I don’t watch the world through this window any more. I climbed through the window and became an active part of the real virtual world.
+[/spoiler]
+
+> 她的确是对的。对于我们来说，矩阵和真实世界的差异已经无法用语言来形容了。只要矩阵存在，信息就会渗透到我们的自我之中。这就像在一个只有你能听到的频率上被调谐到另一个宇宙。有些人会说，我们真的处于矩阵的共鸣之中，我们在信息世界的波长上。更重要的是，我们不再像其他泛人类那样被科技所束缚。
+
+> Inbus
+
+[spoiler]
+> She is indeed right. Words can hardly describe how much different the Matrix and the real word are to us now. Information pervades our very self, as long as the Matrix is present. It is literally like being attuned to an alternate universe on a frequency that only you can hear. Some would say that we are truly in resonance with the Matrix, we are on the wavelength of the world of information. Most importantly, we are no longer shackled by technology as the rest of metahumanity is.
+
+> Inbus
+[/spoiler]
+
+虽然我“看到”的矩阵和标准的矩阵用户看到的是一样的——箭头和图标——但还有一个附加的情境化层，它提供了以前从未有过的信息、感知和感觉。这种额外的物质让我对周围的矩阵中发生的事情有了一种直觉。我不再需要与程序或其他笨拙的工具交互来理解或影响我周围的数据流。我只是接触和理解数据是什么，或者它在做什么，只要集中精力，我就可以改变它或让它做其他事情。我不需要眨眼、打开窗口或进入搜索程序。我只是在脑海中想象我要寻找的参数，矩阵就会回应我。我不再需要软件了，不管它多么尖端——当我能飞的时候，它就是我的拐杖。即使是硬件，我也不再感兴趣，至少对于工具或财产。对我来说，设备只是虚拟世界的延伸，是原始人随身携带的护身符，他们可以与自己幽灵般的数字世界保持联系。我不需要这些东西，因为矩阵一直在我身边。
+
+[spoiler]
+Though what I “see” of the Matrix is much the same as a standard Matrix user sees—arrows and icons—there is an additional layer of contextualization that provides information, sensations, and feelings that was never there before. This extra substance gives me an intuitive sense for what is going on in the Matrix around me. I no longer need to interface with a program or other clunky tools to understand or affect the flow of data around me. I simply reach out and understand what the data is, or what it is doing, and just by concentrating I can change it or make it do other things. I do not need to blink open a window or enter a search routine. I simply visualize the parameters I am looking for in my mind and the Matrix responds to me. I have no use for software any more, not matter how cutting edge—it is a crutch when I can fly. Even hardware no longer interests me, at least as a tool or a possession. Devices are simply extensions of the virtual world to me, charms that the primitives carry around so that they may remain in touch with their ghostly digital world. I have no need for such things, as the Matrix is always with me.
+[/spoiler]
+
+> 每个超链者都用不同的方法与矩阵交互。想象一个利用漏洞程序。对于黑客来说，这就像是坐在一扇锁着的门前，运行一个程序来探测并找到一个弱点，然后登录到节点上。这个程序的工作原理就像开锁者一样，它会尝试数十亿种组合，直到找到正确的一个(或可以通过的盲点)。对我来说，矩阵是一部极其复杂的交响乐，每个节点都有自己的旋律。通过协调整体组成的特定部分，我可以将自己吹入节点。
+
+> Otaku-Zuku
+
+[spoiler]
+> Every technomancer uses a different method to interface with the Matrix. Imagine an Exploit program. For the hacker it is like sitting in front of a locked door, running a program to probe and find a weak spot to log onto the node. This program will work like a lock picker, trying billions of combinations until it finds the right one (or the blind spot to squeeze through). For me, the Matrix is an overwhelming complex symphony, with each node having his own melody. By attuning to a particular part of the overall composition, I can whistle myself into the node.
+
+> Otaku-Zuku
+[/spoiler]
+
+[b]即兴创作[/b]
+
+成为一名超链者并不会让我成为一个更好的黑客。当媒体把我们描绘成坏人时，这一点常常被忽视。矩阵是一个我们觉得与之有联系的环境，但并不是所有的超链者都是节点袭击者。他们只是擅长操纵代码。
+
+然而，我认为自己是一名黑客超链者，所以我才来到了接入点。即使是最安全的节点，我也能入侵和探索。作为一个普通的黑客，我是糟糕的，但作为一个超链者，黑客是完全不同的。黑客依赖他的软件，而超链者拥有即兴创作并将代码塑造成某种形式(你可以称之为程序)来操纵信息的能力，我们称之为线程。它仍然需要技巧，但远没有那么技术性。它更有艺术性，就像描绘纹理或投掷陶器，只是数字的。这让我们在适应性方面比黑客更有优势，尽管这不是一项轻松完成的任务，而且实际上可能相当累人。
+
+[spoiler]
+[b]Improvising[/b]
+Being a technomancer does not make me a better hacker or a hacker at all. This is a point the media often fails to make when it paints us the bad guys. The Matrix is an environment we feel a connection to, but not all technomancers are node raiders. They are just good with code. 
+I, however, consider myself a hacking technomancer, which is how I ended up here on Jackpoint. I made myself a reputation for being able to intrude and explore even the most secure nodes. As a normal hacker, I was lousy, but hacking as a technomancer is quite different. A hacker depends on his warez while a technomancer possess the ability to improvise and shape code into a form (something that you would call a program) to manipulate information, something we refer to as threading. It still requires skill, but it is by far less technical. It is more artistic, like texturing or throwing pottery, only digital. It is something that gives us an edge over hackers in terms of adaptability, though it isn’t a task that is accomplished lightly, and it can in fact be quite exhausting.
+[/spoiler]
+
+[b]网精[/b]
+
+大多数人似乎把网精看作是自发生成的软件结构或代理，这并没有对它们真正的身份和能力给予肯定，即使它是一个正确的名称。网精比我所见过的任何一个傻瓜代理都要聪明和老练。它们可能与AI的规模相同，尽管你永远无法确定。当我第一次遇到一个，通过我自己的能力下意识地编制出来的网精的时候，我吓得屁滚尿流。虽然我知道一些超链者将他们视为宠物、伙伴，甚至是数字朋友，但我在与他们打交道时还是很谨慎的。然而，他们是一群很有用的家伙。
+
+[spoiler]
+[b]Sprites[/b]
+Most people seem to view sprites as spontaneously generated software constructs or agents, which is not giving them the credit for what they truly are and what they are capable of, even if it is a correct designation. Sprites are far more intelligent and sophisticated than any mook I have ever seen. They might possibly be on the same scale as an artificial intelligence, though you can never be sure. The first time I encountered one, compiled subconsciously by my own ability to create them, it scared the shit out of me. While I know that some technomancers view them as pets, companions, or even digital friends, I am cautious when dealing with them. They are a useful bunch nevertheless.
+[/spoiler]
+
+> 永远不要低估网精。我见过网精把一个节点撕开并狠狠地踢了一脚。他们的袖子里藏着一些肮脏的把戏，我所知道的任何程序都无法复制它们。
+
+> Pistons
+
+> 从我所收集到的，网精和超链者之间的关系似乎非常类似于精魂和法师之间的关系。我甚至听说一些超链者把网精称为矩阵的真实精魂，这让我们想知道超链者和法师到底有多接近。
+
+> Ethernaut
+
+> 在矩阵中也有一些狂野自由的网精，这也许并不让你感到惊讶。他们很少遇到，甚至比超链者本身更少，但他们确实存在，漫游在深层虚拟空间。似乎自从崩溃2.0以来，虚拟景观和雕塑变得越来越多了——就像一些之前关闭的大门被打开了一样。
+
+> Puck
+
+> 潘多拉的魔盒，有人知道吗？
+
+> Clockwork
+
+[spoiler]
+> Don’t ever underestimate sprites. I’ve seen a sprite rip a node apart and kick serious ass. They have some nasty tricks up their sleeves that cannot be copied by any program I am aware of. 
+
+> Pistons
+
+> From what I have gathered, the relationship between sprites and technomancers seems very similar to that between spirits and magicians. I have even heard some technomancers refer to sprites as the true spirits of the Matrix, which makes we wonder how close technomancers and magicians truly are. 
+
+> Ethernaut
+
+> It may not surprise you that there are also wild and free sprites that dwell in the Matrix. They are rarely encountered, even scarcer than technomancers themselves, but they do exist, roaming the deep virtual spaces. It seems that the virtual landscapes and sculpts have become quite populated since Crash 2.0—as if some gates have been opened, that were closed before. 
+
+> Puck
+
+> Pandora’s Box, anyone?
+
+> Clockwork
+[/spoiler]
+
+---
+
+[size=12pt][b]随波逐流[/b][/size]
+
+>为了给讨论加把火，我在日内瓦的一个神经元研究中心看到了一份有趣的报告，在那里，最近成立的联合国数字智慧倡议组织的科学家们对一小群(自愿)受试者进行了超链者现象的研究。我只是增加亮点。
+
+>Sunshine
+
+[spoiler]
+[size=12pt][b]RIDING THE STREAM[/b][/size]
+
+> To pour some oil into the fire of the discussion, here is an interesting report I came across from a neuronal research centre in Geneva, where scientists of the recently formed UNIDS (United Nations Initiative on Digital Sapience) study the technomancer phenomenon on a small group of (voluntary) subjects. I am just adding the highlights.
+
+> Sunshine
+[/spoiler]
+
+[b][/b]
+// 开始链接 // 来自“虚拟脑动现象的多样性”联合国数字智慧倡议组织(报告草稿)
+测试证明这四名志愿者是真正的超链者。虽然他们似乎拥有相同的一般能力，但在如何看待自己的能力、能力的来源以及如何利用这些能力方面，似乎存在惊人的差异。
+
+1号志愿者是一名45岁的白人男性。他的心理特征包括对上帝的强烈信仰以及他的行为受到更高力量的引导的信念，这就是为什么他想成为这个项目的志愿者。在对他的检查中，他解释说，他的能力是通过上帝的意志获得的，他声称上帝对他有所计划。在他的有神论观点中，矩阵是上帝在世界上的表现，换句话说，上帝是他能力的来源。1号志愿者声称他们使用这些能力的方式是由上帝的计划决定的。志愿者1在使用他的超链者能力时，对其进行了神经元成像，发现了与社会互动相关的大脑区域的活动。当在网上观察时，他似乎以一种非常非常规的方式与计算机系统交换信息。与普通用户不同，他不会主动“使用”程序，而是“要求”或“说服”计算机系统或网精。这种行为模式似乎是他的个性和他对自己能力及其来源的个人观点所固有的。教育或年龄相关因素是否也在其中起作用还有待观察。
+
+2号志愿者是一名15岁的亚洲女性。她的心理侧写显示出一种适度的逃避，是由长期的基因重建治疗引起的。在最初的检查中，她反复表示她想回家。然而，她指的不是她父母的家，而是矩阵。她认为(完全沉浸式)矩阵是她的自然栖息地，这在超链者中也很少见。从谈话和对女孩父母的采访中我们可以得知，她大部分时间都生活在一个虚拟的房间里。她通过远程呈现上学，所有的时间都和朋友和网精在网上度过，只有偶尔离开虚拟世界去吃东西和处理垃圾——以至于她患上了饮食失调症。关于她的特殊能力，神经元成像没有发现其他异常。然而，她的矩阵作品在质量上非常逼真，比其他志愿者创作的作品要详细得多。
+
+3号志愿者是一个35岁的白人精灵。他因干扰无人机工厂的系统而被逮捕，并被公司当局调来参加我们的项目。尽管对人形机器人和无人机有些迷恋，但志愿者3可以被认为是无害的。有趣的是，他的新能力似乎加深了他与无人机的关系。从我们从当局得到的数据来看，3号志愿者拥有大量的机器人玩具(包括一个可以探测到网精的人形伴侣)，他把这些玩具都命名并当作宠物或伴侣对待。在使用他的能力时，我们在通常用于操纵的区域发现了一些显著的神经元活动。此外，他还能够在试验场用无人机和机器展示一些令人印象深刻的技巧。
+
+4号志愿者是一位40岁的非裔美国侏儒女性。她的心理侧写显示她严重缺乏情绪反应，几乎到了压抑的地步。她的思维很有条理。逻辑支配着她对所有情况的反应，甚至是处理创伤类的伤害或令人震惊的输入。在这四个样本中，她似乎是最理性的，她认为自己的能力是一种不同寻常的技能，使她能够处理她在当地一家发电厂担任工程师时所进行的技术操作背后的源代码。她拒绝认为她的超链者能力有什么特别的，声称她只是能够“非常快地即兴编写代码”。尽管她是在崩溃2.0中浮现的，但她的天赋直到最近才被发现。志愿者4表现出惊人的认知能力，在所有测试中都取得了优异的成绩。
+
+基于我们对法师流派的了解，可以得出这样的结论:这些超链者所表现出的不同的哲学可能是那些流派的一个类比。如果是这样的话，我们所面对的不仅仅是一种超链者，而是多种多样的脑动患者流派。
+
+[spoiler]
+// begin attachment // From “The Diversity of the Virtuakinetics Phenomenon”,UNIDS (Draft Report)
+Tests have proven that the four volunteers are truly technomancers. While they seem to possess the same general abilities, there seems to be surprising differences in how they view their abilities, the origin of their powers, and how they make use of them.
+
+Volunteer 1 is a 45-year-old male Caucasian human. His psychological profile incorporates a strong faith in God and the conviction that his actions are guided by a higher force, which is why he wanted to volunteer for the program. During his examination, he explained that he acquired his powers via the will of God, whom he claims to have plans for him. In his theistic view, the Matrix is a manifestation of God in the world—in other words, God is the source of his abilities. Volunteer 1 claims to use those abilities in a way that is determined by God’s plan. Neuronal imaging of Volunteer 1 while using his technomancer abilities detected activities in cerebral areas normally associated with social interactions. When observed online, he appears to exchange information with computer systems in a very unconventional way. Unlike an ordinary user, he does not actively “use” programs, but rather “asks” or “persuades” computer systems or sprites. This behavioral pattern seems to be innate to his personality and his personal view of his abilities and their origin. Whether educational or age-related factors also play a role here remains to be seen.
+
+Volunteer 2 is a 15-year-old female Asian human. Her psychological profile shows a moderate escapism, iatrogenic by a long-term reconstruction gene therapy. During her initial examination, she repeatedly stated that she wanted to go home. She did not refer to her parents’ home, however, but the Matrix. She considers the (fully-immersive) Matrix to be her natural habitat, which is quite unusual even among technomancers. From what we could gather during the talk and during interview with the girl’s parents, she lives most of her life in a virtual room. She attends school via telepresence, spends all of her time with friends and sprites online, and only leaves virtuality sporadically to eat food and eliminate waste—to the point that she has developed an eating disorder. In regards to her special abilities, neuronal imaging detected no further anomalies. However, her Matrix creations were hyper-realistic in quality and much more detailed than those created by the other volunteers.
+
+Volunteer 3 is a 35-year-old male Caucasian elf. He was arrested for tampering with the systems of the drone factory in which he was employed as a janitor and transferred to us from corporate authorities to participate in our program. Despite some sort of fetishism for anthroform robots and drones, Volunteer 3 can be considered harmless. Interestingly, his new abilities seem to have deepened his relationship to drones. Judging from data that we received from the authorities, Volunteer 3 owned a plethora of robotic toys (including an anthroform companion in which a sprite could be detected), which he had all named and treated as companion pets. While using his abilities, we detected some remarkable neuronal activity in regions usually employed for rigging. Additionally, he was able to display some impressive tricks with drones and machines on the testing ground.
+
+Volunteer 4 is a 40-year-old female Afro-American dwarf. Her psychological profile shows a severe lack of emotional responses, almost to the point of suppression. Her mind is strictly organized. Logic governs her responses to all situations, even dealing with trauma-like injury or shocking input. Of all four subjects, she seems the most rational, viewing her abilities as an unusual skill that enables her to deal with the source code underlying the technical operations she conducted in her role as an engineer at a local power plant. She refuses to think of her technomantic abilities as something special, claiming she was just able to “program code on the fly real fast.” Even though she Emerged during the Crash 2.0, her gift was not discovered until very recently. Volunteer 4 shows amazing cognitive ability and scored excellent results in all tests.
+
+Based on our knowledge on the traditions of magicians, it can be concluded that the different philosophies displayed by these technomancers are possibly an analogy to those traditons. If that is case, we are not only dealing with one class of technomancer, but with a diversity of virtuakinetic traditions.
+// end attachment //
+[/spoiler]
+
+> 尽管我认为他们提出了一个有趣的观点——魔法流派和超链者的实践都受到从业者的世界观的影响甚至塑造——我不确定我是否同意它们是一样的。大多数神奇的流派都是从长期的文化习俗和宗教实践中发展而来的，发展了几个世纪。有些人甚至声称这些流派可以追溯到以前的魔法时代!另一方面，超链者似乎缺乏这种文化基础。
+
+> Glasswalker
+
+> 赞同。我非常期待遇到那些背诵克林贡语代码的超链者，敬拜那些看起来像他们最喜欢的爱抖露的网精，并通过他们个人的蛮兽人尼尔现实过滤器体验矩阵的超链者。矩阵中充斥着太多的“文化”，让我想吐。
+
+> Slamm–0!
+
+> 虽然超链者可能没有流派的分量来奠定他们的哲学基础，但观点上的差异同样严重——尽管考虑到他们的新特性，这些差异可能需要一些时间才能变得清晰。然而，他们对“共鸣”的形而上学(元数字学?)来源的不同观点，是他们信仰范围有多深的一个例子。有些人相信深层共鸣，有些人信仰架构师，还有一些人崇拜机器的灵魂。假以时日，我预计这些和其他的超链者哲学的强烈潮流会发展成独特的、独立的分支，就像神奇的流派一样。
+
+> Winterhawk
+
+> 这种情况已经发生了。当我们的存在被公开后，我的博客“地下网络先知”(Undernet Prophet)成为了各种超链者的聚会场所。来自世界各地的超链者聚集在那里，他们中的许多人以我所没有的方式运用他们的能力。由于没有一个词来形容我们独特的风格(用“流派”这个词来形容这种最近才出现的现象显得太陈旧和不合适)，一些超链者开始使用“随波逐流”这个词来表达他们在哲学上的差异。像Netcat和我这样的赛博修士，以及像奇瓦网这样的技术萨满似乎是最突出的，尽管还有更多。
+
+> Otaku-Zuku
+
+> 不管怎么说，我认为自己是一名载具读心者，尽管我的很多同类都称自己为“机械驭者”。
+
+> Inbus
+
+[spoiler]
+> Though I think they’re making an interesting point—that both magical traditions and technomancer practices are influenced and even shaped by the practitioner’s worldview—I’m not sure that I would agree they are the same. Most magical traditions have developed from long-lasting cultural customs and religious praxis, developed over centuries. Some might even claim that these traditions date back to previous ages of magic! Technomancers, on the other hand, seem to lack that cultural grounding. 
+
+> Glasswalker
+
+> Sez you. I fully expect to meet technomancers who recite code in Klingon, worship sprites that look their fave idoru, and experience the Matrix through their personal Neil the Ork Barbarian reality filters. The Matrix is so bloated with “culture” that makes me want to gag. 
+
+> Slamm–0!
+
+> Though technomancers may not have the weight of tradition to ground their philosophies, the differences in outlook are no less severe—though given their newness, it may take some time for those differences to become clear. One example of how deep their beliefs range, however, is the differing viewpoints on the metaphysical (meta-digital?) source of Resonance. Some believe in a Deep Resonance, others believe in an Architect, where still others worship spirits of the machine. Given time, I’d expect these and others strong currents of technomancer philosophy to develop into unique and individual branches, much like magical traditions.
+
+> Winterhawk
+
+> This is already happening. My blog, the Undernet Prophet, became a meeting place for technomancers of all stripes when our existence was made public. Technomancers from all over the world have gathered there, and many of them wield their abilities in ways that I do not. Lacking a term for our distinctive styles (the term “tradition” seemed too shopworn and inappropriate for such a recent phenomenon), some technomancers began using the phrase “riding the stream” to express their differences in philosophies. Cyberadepts like Netcat and I and technoshamans like those that run KivaNet seem the most prominent, though there are many more. 
+
+> Otaku-Zuku
+
+> For what it’s worth, I consider myself a vehicle empath, though a lot of my kind refer to themselves as dronomancers.
+
+> Inbus
+[/spoiler]
+
+---
+
+[size=12pt][b]共鸣暗影[/b][/size]
+
+发帖人：Inbus
+
+虽然大规模的猎巫活动已经减少了，但公司们仍然想要把我们从里面拉到外面，将我们切开，以了解我们是如何运作的——这样他们就可以利用我们的才能来制造阴谋。在被猎杀或躲躲藏藏的选择中，我们中的许多人选择了第三条道路: 走向暗影。
+
+[spoiler]
+[size=12pt][b]RESONATING SHADOWS[/b][/size]
+
+Posted By: Inbus 
+
+Although the mass witch hunts have declined, the corps still desire to turn our insides to the outsides, to cut us open in order to understand how we tick—so they can exploit our talent for their own machinations. With a choice of being hunted or shunned, many of us have chosen a third path: taking to the shadows.
+
+[/spoiler]
+
+> 这是一种夸张。成千上万的超链者过着不受干扰的正常生活——尤其是如果他们保持谨慎的话。还有成千上万的人接受了自己的身份，把自己推销给了企业服务。如果你认为没有超链者蜘蛛，那你就大错特错了。
+
+> Puck
+
+[spoiler]
+> This is an exaggeration. Thousands of technomancers live unmolested normal lives—especially if they remain discreet. Many thousands more have embraced what they are and sold themselves into corporate service. If you believe that there are no technomancer spiders, you are quite mistaken.
+
+> Puck
+[/spoiler]
+
+有很多例子可以说明一个人如何利用我们的技能和特殊天赋谋生，但其中大多数都涉及到隐藏我们的能力，而不是伪装成黑客。即使在阴影中，也有一些人不愿共事，甚至不愿与我们打交道，因为他们中了公司宣传机器散布的谎言和错误信息的圈套。幸运的是，另外一些人感谢我们提供的帮助，无论是在线上还是在现场。尽管在确保团队的矩阵防御方面，我们有自己的局限性，但就程序和硬件而言，我们的复合程式和网精可以对抗强大的对手。我们最大的优势当然是我们的多才多艺和适应能力，这也是技彩之翼公司聘用我的原因之一。
+
+[spoiler]
+There are many examples of how one could make a living with our skills and special gifts, but most of them involve keeping our abilities a secret, masquerading as hackers instead. Even among the shadows there are people who won’t work or even deal with us because they fell for the lies and misinformation that the corporate propaganda machine disseminated. Fortunately, there are those that appreciate the assistance we can provide, virtually and also physically on the spot. Although we have our limitations when it comes to securing a team’s networked defenses, in terms of programs and hardware, our complex forms and sprites can stand up to tough opponents. Our greatest advantage is, of course, our versatility and adaptability, which is one of the reasons why Technicolor Wings hired my talent.
+[/spoiler]
+
+> 有人叫我“矩阵的瑞士军刀”，因为我能在很短的时间内通过即兴发挥来适应我没有准备好的情况。
+
+> Netcat
+
+[spoiler]
+> I had someone call me a Swiss knife of the Matrix, since I am able to adapt to situations I was not prepared for in a very short time just by improvising.
+
+> Netcat
+[/spoiler]
+
+我是无人机和机器的天才，必要时，我能把它们调整到最好的状态。此外，我还能和边境传感器玩捉迷藏，所以当我们带着走私物品穿越边境时，他们也喜欢我在身边。超链者黑客也是如此，他们擅长入侵、数据嗅探和逃过IC。当然，一个普通的黑客或机师可以做我的工作，但我们超链者黑客(和我们的网精)在虚拟袖子里有一些他们永远无法完成的技巧。
+
+[spoiler]
+I am wiz with drones and machines, and I can bring out the best of them, when it is necessary. Plus I can play hide and seek with border sensors, which is why they also like me around when we do a border shuffle with some smuggled goods. The same is true for technomancer hackers, who excel at intrusions, data sniffing, and shaving IC. Sure, a regular hacker or rigger could do my job, but we technomancers (and our sprites) have a few tricks up our virtual sleeves that they could never pull off.
+[/spoiler]

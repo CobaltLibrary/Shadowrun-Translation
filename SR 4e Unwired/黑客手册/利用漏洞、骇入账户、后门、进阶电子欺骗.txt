@@ -1,0 +1,220 @@
+[size=12pt][b]漏洞[/b][/size]
+
+不要和利用漏洞程序相混淆，漏洞是黑客可以利用的空当、代码缺陷或其他软件错误(换句话说，漏洞是利用漏洞程序设计用来从其内置的安全漏洞数据库中查找并加以利用的东西)。当一个黑客发现了一个新的漏洞(即一个软件和安全供应商不知道的，还没有填补的，甚至还没有通过地下黑客传播的漏洞)，他在处理该漏洞相关的问题时将具有决定性的优势。黑客对以特定的有漏洞可利用的软件(特定品牌的代理，程序，防火墙，或操作系统)为目标的骇入或矩阵战斗检定获得一个+2骰池修正。
+
+找到一个新的漏洞需要研究现有的漏洞，并详细分析代码本身，同时需要进行一个成功的逻辑+骇入(10 + 等级，1天)延续检定。每次新的漏洞被利用时，都可能发现漏洞已经被修复了，无法利用——黑客无法事先确定，直到他们试图使用该漏洞但失败了。
+
+漏洞并不局限于单个系统，所以即使一个系统上的漏洞被修复了，它仍然有可能在其他系统上运行，直到它存在的消息被传播开来。已知的新漏洞总是在软件的新补丁发行时被修复。
+
+[i]Pistons正在研究新网宙斯盾Ⅱ型程序(一个2级的护甲程序)。她掷4个骇入骰子和4个逻辑骰子对抗12的阈值; 六天之后，她发现了一个适用于那个特定程序的新漏洞。Pistons将在崩溃特定的护甲程序时在她的矩阵战斗技能检定上享受2骰子的奖励修正[/i]
+
+[spoiler]
+[size=12pt][b]EXPLOITS[/b][/size]
+
+Not to be confused with the Exploit program, an exploit is a loophole, a code flaw, or other software error that a hacker can take advantage of (in other words, an exploit is what the Exploit program is designed to find, from a built-in database of security flaws, and take advantage of). A hacker that discovers a new exploit (i.e., one that software and security vendors don’t know about and haven’t plugged yet, and that hasn’t even circulated through the hacker underground) has a decided advantage when dealing with the subject of that exploit. The hacker gains a +2 dice pool modifier for a Hacking or Cybercombat Test targeting that specific exploitable software (a particular brand of agent, program, firewall, or operating system). 
+
+Finding a new exploit requires research into the already existing exploits available for that piece of code and detailed analysis of the code itself, while also requiring a successful Extended Logic + Hacking (10 + rating, 1 day) Test. Every time the new exploit is used, there is a chance that the exploit is plugged and no longer works—the hacker won’t know for sure until they try to use the exploit and it fails. 
+
+Exploits aren’t restricted to a single system, so even if an exploit is plugged in one system, there’s a chance it will still work on other systems, until news of its existence spreads at least. Known new exploits are always plugged when a new patch arrives for the software.
+
+[i]Pistons is researching the NeoNET Aegis-II Armor program (a Rating 2 armor program). She rolls her 4 Hacking dice and 4 Logic dice against a threshold of 12; in six days she has discovered a new exploit that applies to that particular program. Pistons will enjoy a 2 dice bonus to her Cybercombat Skill Test to crash that particular armor program.[/i]
+[/spoiler]
+
+---
+
+[size=12pt][b]骇入账户[/b][/size]
+
+仅仅因为黑客绕过了防火墙一次，并不意味着他可以随时访问该节点，或者他可以与他的所有黑客伙伴共享访问权限。首先必须考虑几个因素(每个因素都需要经过GM的审核)。
+
+如果某个节点在运行过程中被黑客攻击，黑客就会发现系统安全漏洞，从而可以访问该节点上的一个账户。然而，黑客实际上还没有获得该帐户的密码，而且在不久的将来，安全检查和/或修补程序可能会注意到该漏洞。这意味着如果黑客想再次访问该节点，他将不得不再次入侵。黑客无法与其他黑客或矩阵实体共享被骇入的账户，即使黑客正在访问该账户。
+
+但是，如果在攻击之前仔细探测了目标节点，黑客就有更好的机会在以后使用相同方法重新获得访问权限。要么黑客确定了一个可以让他在未来合法访问帐户的密码，要么他发现了一个可重复使用的漏洞(第96页)——GM决定哪一个。在任何一种情况下，这种访问都可以与其他人共享，允许他们使用帐户或利用漏洞。然而，最终，密码可能会过期或被更改，漏洞可能会被发现并修补。没有什么是永恒不变的。
+
+无论如何获取访问权限，如果黑客触发警报，他们访问节点的方法很可能在未来被关闭，以防止未来的入侵。
+
+黑客当然可以在一个节点内进行安排一些措施，以确保他们可以在以后访问该节点。可用的选项包括插入一个可重用的漏洞，创建一个“合法的”帐户，或者创建一个隐藏的帐户或访问点。这些方法被称为后门。
+
+[spoiler]
+[b]HACKED ACCOUNTS[/b]
+Just because a hacker has bypassed a Firewall once doesn’t mean he has an open pass to access the node whenever he pleases, or that he can share that access with all of his hacker buddies. Several factors must be taken into consideration first (each subject to gamemaster review).
+If a node has been hacked on-the-fly, the hacker has found some gaping hole in the system security that allows him to access an account on that node. The hacker has not actually acquired the passcode for the account, however, and the exploit is likely to be noticed in a security audit and/or patched in the immediate future. This means that if the hacker wants to access the node again, he will have to hack in again. There is no way for the hacker to share the hacked account with another hacker or Matrix entity, even while the hacker is accessing the account. 
+If the target node was carefully probed before the hack, however, there is a better chance that the hacker can use the same method to regain access at a later point. Either the hacker has ascertained a passcode that will allow him to access the account legitimately in the future, or he has discovered a re-usable exploit (p. 96)—the gamemaster determines which. In either case, this access may be shared with others, allowing them to use the account or re-usable exploit. Eventually, however, passcodes may expire or be changed, and exploits may be discovered and patched. Nothing lasts forever.
+No matter how access was obtained, if a hacker triggers an alert, their method for accessing the node will likely be closed off in the future, to prevent future intrusions. 
+Hackers may of course make arrangements while within a node to ensure that they can access it at a later point. Options include inserting a re-usable exploit, creating a “legitimate” account, or creating a hidden account or access point. These methods are referred to as backdoors.
+[/spoiler]
+
+---
+
+[size=12pt][b]后门[/b][/size]
+后门是黑客或超链者获得重复访问节点的一种手段，比每次入侵更省力;这意味着它通常对网站管理员来说是隐藏的，尽管在重复使用合法账户的情况下，这可能意味着隐藏在显而易见的地方。一些黑客在离开一个他们可能会回来的节点之前，会花时间在一个帐户中编码，或者利用这个帐户来再次访问节点。一般来说，后门有四种类型:可重用漏洞、合法账户、隐藏账户和隐藏访问点。
+
+[spoiler]
+[b]BACKDOORS[/b]
+A backdoor is a means for a hacker or technomancer to gain repeated access to a node with less effort than hacking their way in every time; this means it is typically hidden from the site administrators, though in the case of repeated use of legitimate accounts this might mean hiding in plain sight. Before leaving a node they’re likely to come back to, some hackers will take the time to code in an account or exploit that will let them access the node again. In general there are four types of backdoors: reusable exploits, legitimate accounts, hidden accounts, and hidden access points.
+[/spoiler]
+
+[b]可重用漏洞[/b]
+在刺探目标的过程中(第221页，SR4页)，一些被探测到的漏洞可能会被反复使用，如果黑客没有做什么事情来暴露它们或者它们没有被发现的话。这种“开放的”后门的缺点是每次使用时系统都会进行一个分析+防火墙检定。
+
+已经侵入节点的黑客也可以创建自己的可重用漏洞; 一个在节点防火墙中精心设计的漏洞，可以让那些知道它的人非常容易地黑进节点。如果你在节点上至少有安保级别的访问权限，那么创建一个可重用的漏洞需要一个成功的软件+利用漏洞(防火墙+系统，1 Initiative Pass)延续检定——否则就需要用骇入替换软件进行检定。一旦创建，这就提供了一个隐藏的漏洞，给黑客一个+6的骰池修正来使用利用漏洞程序访问该节点。
+
+像这样的一个已知漏洞的细节也可以被卖给其他黑客，他们也将获得+6骰池修正，直到该漏洞被发现和移除(参见检测后门，下文)
+
+[spoiler]
+[b]REUSABLE EXPLOITS[/b]
+As noted under Probing the Target (p. 221, SR4), some probed exploits may be used repeatedly if the hacker doesn’t do something to give them away or it they aren’t discovered. The drawback to this “open hole” sort of backdoor is that the system gets an Analyze + Firewall Test every time you use it. 
+Hackers who have hacked their way into the node can also create their own reusable exploit; a specially crafted flaw in the node’s firewall that allows those who know about it to hack the node with extreme ease. Creating a reusable exploit requires a successful Extended Software + Exploit (Firewall + System, 1 Initiative Pass) Test if you have at least security-level access on the node—otherwise replace Software with Hacking. Once created, this provides a hidden exploit that gives the hacker a +6 dice pool modifier to gain access to that node using the Exploit program. 
+The details of a known exploit like this may also be traded/sold to other hackers, who will also receive the +6 dice pool bonus until the exploit is discovered and removed (see Detecting Backdoors, below)
+[/spoiler]
+
+[b]合法帐户[/b]
+
+节点期望来自正常用户的流量，并且对于许多与工作相关的节点，甚至一些从家庭或私有终端的非工作时间访问也是典型的或符合预期的。如果黑客窃取了合法账户的密码，他可以小心地继续使用该账户一段时间，直到蜘蛛发现任何情况(如果他们会发现的话)。
+
+黑进该节点的黑客也可以在系统上创建一个“合法”帐户(参见黑客与编辑，第225页，SR4)，然后隐藏他们创建了这个帐户的事实。如果你至少有节点上的安保级别的访问权限，这需要一个成功的软件+编辑检定，或如果你没有的话，黑客+编辑(2)检定，。对于安保级别的访问权限，将阈值增加到3; 对于管理员级别的访问权限，将其增加到4。新账户当然会出现在安全检查中，并且通常会被仔细审查其合法性。该帐户的所有操作都被记录在案——它不是隐藏的，因为它是用合法帐户的外观创建的。一个公司系统上的可验证账户，加上一个假的SIN和/或该黑客受雇于该公司的记录，可以为渗透提供一个非常有说服力的掩饰故事。
+
+[spoiler]
+[b]LEGITIMATE ACCOUNTS[/b]
+Nodes expect a certain amount of traffic from normal users, and for many work-related nodes even some off-hours access from home or private terminals is typical or expected. A hacker who steals the passcode to a legitimate account can, with care, continue to make use of that account for some time before a spider notices anything, if they ever do. 
+A hacker who has hacked the node may also create a “legit” account on the system (see Hackers & Editing, p. 225, SR4) and then hide the fact that they created it. This requires a successful Software + Editing Test if you have at least security privileges on the node, or a Hacking + Edit (2) Test if you do not. For securitylevel access, increase the threshold to 3; for admin access, increase it to 4. New accounts of course show up on security audits and are usually carefully scrutinized for legitimacy. All of the account’s actions are also logged—it’s not hidden, as it was created with the façade of a legitimate account. A verifiable account on a corporate system combined with a fake SIN and/or records that the hacker is employed by that corporation can make a very convincing cover story for an infiltration.
+[/spoiler]
+
+[b]隐藏帐户[/b]
+隐藏帐户对蜘蛛或管理员是不可见的，只能被系统识别到。虽然这个账号允许黑客自由访问该节点，但它仍然受到账号权限限制，蜘蛛会认为他们是非法入侵的，因为他们看起来没有账号。
+
+要创建一个隐藏帐户，你必须已经能够访问该节点(合法的或骇入的)，并且必须遵循上面提到的创建合法帐户的步骤。在接下来的行动中，合法帐户必须通过进行一个骇入+隐藏(防火墙，10分钟)延续检定来隐藏。和其他账户一样，这个隐藏账户有一个唯一的密码; 有这个密码的人都可以访问账户。以前存在的合法帐户也可以通过这种方式转换为隐藏帐户，但访问日志必须修改，否则安全检查将发现帐户神秘地消失了。
+
+[spoiler]
+[b]HIDDEN ACCOUNTS[/b]
+A hidden account is not visible to spiders or administrators, being discernible only by the system. While this account allows the hacker to access the node freely, it is still subject to account privilege limitations and spiders who perceive the character will assume them to be trespassing as they will not appear to have an account. 
+To create a hidden account, you must already have access to the node (either legit or hacked) and must follow the procedure for creating a legitimate account noted above. On the next action, the legitimate account must then be hidden with a Hacking + Stealth (Firewall, 10 minutes) Extended Test. As with any other account, this hidden account has a unique passcode; anyone with that passcode may access that account. Previously existing legitimate accounts may also be transformed into hidden accounts this way, but the access log must also be modified or a security audit will show an account mysteriously disappeared.
+[/spoiler]
+
+[b]隐藏访问点[/b]
+隐藏的接入点类似于可重用漏洞，只是黑客利用了一个软件漏洞，允许他在没有实际授予他账号的情况下访问某个节点。要创建一个隐藏的访问点，黑客必须事先访问系统，并必须进行黑骇入+利用漏洞(防火墙+系统，1分钟)延续检定。
+
+其优点是，这种隐藏的访问点使它非常容易渗透系统，只需要一个骇入+利用漏洞(1)简单检定，而防火墙没有检测入侵者的检定。由于没有账户被使用，只要入侵的黑客仍然在巡逻IC的雷达下，访问不会被发现。
+
+因为没有获得密码,黑客没有账户权限,只要他以这种方式连接到节点，黑客必须依靠骇入进行所有检定(这是常见的做法，通过隐藏访问点访问系统, 然后创建一个账户, 离开系统, 然后用假账号“合法”登录)。察觉到黑客的IC或安保黑客会立即识别他为入侵者。
+
+请注意，使用隐藏访问点的黑客的操作仍然记录在访问日志中，但它们被掩盖和混淆了，因为它们没有绑定到一个帐户。然而，黑客的数据轨迹仍可能被追踪。
+
+[spoiler]
+[b]HIDDEN ACCESS POINTS[/b]
+A hidden access point is similar to a reusable exploit, except the hacker exploits a software flaw that allows him access to a node without actually granting him an account. To create a hidden access point, the hacker must have previous access to the system and must make a Hacking + Exploit (Firewall + System, 1 minute) Extended Test. 
+The advantage is that such hidden access points make it very easy to penetrate the system, requiring only a simple Hacking + Exploit (1) Test, and the Firewall gets no test to detect the intruder. As no account is being used, access won’t be noticed as long as the intruding hacker remains under the radar of patrolling IC. 
+Since no passcodes have been obtained, however, the hacker has no account privileges at all and must rely on Hacking for all tests as long as he is connected to the node in this manner (it is common practice to access the system via the hidden access point and then create an account, leave the system, and do a “legal” log on with the fake account). IC or security hackers that perceive the hacker will immediately recognize him as an intruder. 
+Note that the actions of a hacker who uses a hidden access point are still recorded in the access log, but they are obscured and confusing because they are not tied to an account. The hacker’s datatrail may still be tracked, however.
+[/spoiler]
+
+[b]检测后门[/b]
+
+具有安保或管理员权限的用户可以进行帐户检查和安全扫描，以寻找已知或可疑的后门。当然，拥有对节点的安保或管理员访问权限的黑客可以自行进行搜索，利用其他黑客的辛勤工作，并将搜索结果保密。一些超链者黑客已经知道在他们的后门上打上水印(见第237页，SR4)，以便其他超链者黑客或网精找到。
+
+[b]可重用漏洞和骇入账户：[/b]执行例行检查的蜘蛛或黑客将在成功的数据搜索+浏览(黑客使用的利用漏洞程序或账户的最低等级，1天)延续检定中发现可重用漏洞或非法使用的合法账户; 通过成功的软件+编辑(防火墙，1分钟)延续检定，可以立即修复该漏洞，而合法帐户通常被锁定，等待官方审查。如果日志显示合法帐号没有从事任何非法或可疑的活动，该帐号将被解锁;否则，用户将面临逮捕和/或审问。受到这种审查的黑客创建的账户通常会被删除，除非黑客有一个好的掩饰故事，并一直小心翼翼地通过编辑日志来隐藏她的活动。
+
+[b]隐藏账户和隐藏访问点：[/b]隐藏账户和隐藏访问点不出现在安保权限和管理员权限的常规检查种, 但如果蜘蛛意识到它们(通过一个草率的日志编辑或看到黑客使用它们), 一场彻底的帐户检查——数据搜索+浏览(黑客使用的隐藏访问点或隐藏帐户的最低等级x2,1天)的延续检定将揭示它们，在这之后他们可能被修改或正常删除。
+
+[b]探测目标：[/b]在GM的判断下，正在探测目标(第221页，SR4)的黑客可能会发现一个后门，而不是可利用的漏洞。
+
+[spoiler]
+[b]DETECTING BACKDOORS[/b]
+Users with security or admin privileges can conduct account audits and security sweeps to look for known or suspected backdoors. Of course, hackers with security or admin access to a node can conduct their own searches and keep the results to themselves, making use of the hard work of their fellow hackers. Some technomancer hackers have been known to watermark their backdoors (see p. 237, SR4), so that other technomancer or sprite hackers can find them.
+
+[b]Reusable Exploits and Hacked Accounts: [/b]A spider or hacker conducting a routine audit will detect a reusable exploit or unauthorized use of a legitimate account on a successful Extended Data Search + Browse (lowest Stealth rating of hacker using exploit or account, 1 day) Test; the exploit may be immediately fixed with a successful Extended Software + Edit (Firewall, 1 minute) Test, while the legitimate account is typically locked pending an official review. If the logs show the legitimate account has not been engaging in any illegal or questionable activity, the account will be unlocked; otherwise the user will face arrest and/or questioning. Hacker-created accounts subject to this review are typically deleted unless the hacker has taken care to have a good cover story and has been editing the logs to hide her activities.
+
+[b]Hidden Accounts and Access Points: [/b]Hidden accounts and access points do not show up on routine inspections by securitylevel and admin users, but if a spider becomes aware of them (either through a sloppy log edit or seeing the hacker use them), a thorough account audit—a successful Extended Data Search + Browse (lowest Stealth Rating of hacker using access point or account x 2, 1 day) Test—will reveal them, after which they may be edited or erased as normal.
+
+[b]Probing the Target: [/b]At the gamemaster’s discretion, a hacker who is probing the target (p. 221, SR4) may discover a backdoor rather than a flaw to exploit.
+[/spoiler]
+
+---
+
+[size=12pt][b]进阶电子欺骗[/b][/size]
+
+SR4规则手册详细介绍了欺骗程序的几个好用途: 重定向追踪，伪造数据流，假冒代理，无人机和网精的命令。一个常见的误解是，伪造是利用和控制代理、无人机或相关设备的黑客入侵的简化版本——毕竟，如果目标做了你想要的，你就黑了它，对吗? 不完全对。电子欺骗是一个很棒的工具，但它有其局限性。以下规则对电子欺骗选项进行了扩展，并提供了一些新的选项。
+
+[spoiler]
+[b]ADVANCED SPOOFING[/b]
+The SR4 rulebook details several good uses for the Spoof program: redirecting traces, spoofing the datatrail, and spoofing commands to agents, drones, and sprites. A common misconception is that spoofing is a simplified version of hacking in with an exploit and controlling the agent, drone, or device in question—after all, if the target does what you want, you’ve hacked it, right? Not really. Spoofing is a great tool, but it has its limitations. The following rules expand on spoofing options and provide a few new ones.
+[/spoiler]
+
+[b]扩展命令[/b]
+
+正如伪造指令(224页，SR4)中所描述的，黑客可以使用欺骗程序向目标发送命令，这些命令看起来像是由具有控制或访问权限的人发送的。这个技巧可以用来伪造无人机、代理、网精(仅限超链者)、电子设备和从属节点的命令。
+
+伪造指令看起来像是来自你要假冒的授权用户(这就是为什么你需要他们的访问ID)，因此将被视为具有与你所模拟的用户相同的访问权限(个人、安保或管理员)。由GM决定哪些命令对哪些访问权限是正当的。例如，伪造对烤箱的命令来开始烹饪火鸡是任何可能访问烤箱的人都被允许做的事情。如果你伪造对无人机的指令，假装自己是控制的机师，你当然可以让无人机注销那个机师或者把无人机转移到你的通讯链控制下(因为控制的机师有权限这样做)。要添加、修改或删除帐户，你肯定需要伪造一条从具有管理员权限的人那里发出的命令。许多合法用户对他们的账户设置了限制，那些安全意识强的安保蜘蛛会设置代理程序、无人机和节点来忽略某些特定命令。毕竟，安保黑客最不想要的就是成为自己IC的目标。
+
+伪造来自具有安保或管理权限的用户的指令更加困难，就像入侵并获得具有此类权限的帐户一样。对黑客的对抗检定应用一个等于-3(伪造安保权限)或-6(伪造管理员权限)的骰池修正。
+
+那些对于访问权限来说是非法的操作，伪造指令是不可能的。要绕过访问限制，你就必须骇入。
+
+请注意，黑客一次只能伪造一个指令，而且必须在她拥有合法用户的访问ID的情况下(参见伪造指令，第224页，SR4)。一旦命令被发送，她就无法控制该代理、无人机或节点，直到她伪造下一个指令。如果你的黑客需要给出多个命令——或者告诉目标做一些合法用户无法命令它做的事情——你最好入侵节点，而不是一次伪造一个指令。
+
+[spoiler]
+[b]EXPANDED COMMAND[/b]
+Spoofing As described under Spoof Command, p. 224, SR4, a hacker can use Spoof software to send commands to a target that look like they were sent by someone with control or access privileges. This trick may be used to falsify commands to drones, agents, sprites (technomancers only), electronic devices, and slaved nodes. 
+Spoofed commands will seem to come from the authorized user you are spoofing (why you need their access ID), and so will be treated as having the same access privileges (personal, security, or admin) as that impersonated user. It is up to the gamemaster to decide what commands are legitimate for which access privileges. For example, spoofing a command to an oven to start cooking the turkey is something anyone accessing the oven is likely allowed to do. If you are spoofing commands to a drone, pretending to be the controlling rigger, youcould certainly instruct the drone to log that rigger off or slave that drone to your commlink instead (since the controlling rigger would have privileges to do that). To add, alter, or delete an account, you would almost certainly need to spoof a command from someone with admin privileges. Many legitimate users have limits on what they can do with their accounts, and security- or safety-conscious spiders can and do program agents, drones, and nodes to ignore certain orders. After all, the last thing a security hacker wants is to be the target of their own IC.
+Spoofing commands from a user with security or admin privileges is more difficult, just as is with hacking in and obtaining an account with such privileges. Apply a dice pool modifier to the hacker for the Opposed Test equal to –3 for spoofing security privileges or –6 for spoofing admin privileges. 
+Spoofing commands for actions that are illegal for those access privileges is simply not possible. To bypass access restrictions, you have to hack in. 
+Note that a hacker can only spoof one command at a time, and only if she has the access ID of a legitimate user (see Spoof Command, p.224, SR4). Once a command is sent, she has no control over that agent, drone, or node until she spoofs the next command. If your hacker needs to give multiple commands—or tells the target to do something that a legitimate user can’t order it to do—you’re much better off hacking the node than spoofing commands one at a time.
+[/spoiler]
+
+[b]伪造数据流[/b]
+由于节点在允许连接之前需要访问ID，因此在实际访问其他节点之前伪造你的数据流(如果你愿意的话)非常重要。一旦你登录到另外的节点，访问ID的更改将自动关闭与其他节点的连接——毕竟，你不再是你所说的那个人。在某些情况下，这可能是关闭多个连接的一种权宜之计。例如，如果你在另一个节点上受到黑IC的攻击，你可以尝试伪造你的数据流，以更改你的访问ID并注销该节点。如果黑IC干扰你的连接，这将需要执行一个骇入+欺骗与黑IC等级+响应等级的对抗检定。
+
+你也可以使用这个技巧来避免被直接追踪。如果有人使用追踪程序跟踪你，你可以照常伪造你的数据流并改变你的访问ID。虽然这将切断你所有的连接，但这意味着追踪程序只能跟踪到你的连接碰巧经过的最近的节点。追踪你的黑客仍然可以获取你的旧访问ID，但无法精确定位你的具体位置——尽管他知道你离最近的节点很近。
+
+[spoiler]
+[b]SPOOFING A DATATRAIL ONLINE[/b]
+Since nodes require an access ID before they will allow a connection, it is important to spoof your datatrail (if you are so inclined) before you actually access other nodes. Once you have logged onto other nodes, a change in access ID will automatically close your connection to other nodes—after all, you are no longer who you said you were. Under some circumstances, this may be an expedient way of closing multiple connections. For example, if you are under attack by Black IC in another node, you can try to spoof your datatrail in order to change your access ID and log off that node. If the Black IC is jamming your connection, however, this will require an Opposed Test pitting your Hacking + Spoofing versus the Black IC rating + Response.
+You can also use this trick to try and avert a direct trace. If someone is using Track to trace you, you can spoof your datatrail and change your access ID as normal. While this will sever all of your connections, it means that the Track will only be able to trace you to the nearest node that your connection happened to have been routed through. The tracking hacker can still acquire your old access ID, but will not be able to pinpoint your exact physical location—though he will know that you are close to that nearest node.
+[/spoiler]
+
+[b]伪造生活方式[/b]
+一个黑客可以通过骇入+欺骗延续检定将她的生活方式提高到一个给定的水平一个月。查看伪造生活方式表，第99页，了解阈值;时间间隔为1天。对于一个流浪街头的黑客来说，这相当于让自动售货机提供免费食物，打开公用设施和浴室锁住的门让他们睡觉。对其他人来说，这意味着重新安排自动账单支付，或者告诉公用事业和服务机构该黑客是用户。一个角色可以在一个月内进行多次检定来改善生活方式。
+
+[i]Dogbody厌倦了和父母住在一起，决定搬出去住。在街头流浪了一个星期后，他决定找个地方歇脚，并试图升级到低端生活方式。他的骰池构成为骇入5和欺骗4，Dogbody投了9个骰子以达到4的阈值，但他在第一天出现失误，不得不重新开始。两天后，Dogbody正在享受他呆在棺材旅馆的30天的第一天，同时大嚼着粘乎乎的巧克力棒。生活在好转。[/i]
+
+[spoiler]
+[b]SPOOFING LIFE[/b]
+A hacker can improve her lifestyle to a given level for one month by making a Hacking + Spoof Extended Test. See the Spoofing Life table, p. 99, for threshold; the interval is 1 day. For a hacker living on the streets, this equates to making vending machines give out free eats and opening locked doors to utility sheds and bathrooms for them to sleep in. For anyone else, it means redirecting automated bill payments or telling utilities and services that the hacker is a subscriber. A character can make multiple tests to improve their lifestyle more than once during a given month.
+
+[i]Dogbody is tired of living with his parents and decides to move out. After living on the streets for a week, he decides he needs someplace to crash and tries to upgrade to a low lifestyle. With Hacking 5 and Spoof 4, Dogbody is rolling 9 dice to meet a threshold of 4, but he glitches it on the first day and has to start over again. Two days later, Dogbody is enjoying day one of his thirty-day stay in a coffin motel while chomping down on a Gooey Bar. Life is looking up.[/i]
+[/spoiler]
+
+[quote]
+[table]
+[tr][td][b]伪造生活方式[/b][/td][/tr]
+[tr][td][b]生活方式[/b][/td][td][b]阈值[/b][/td][/tr]
+[tr][td]街头[/td][td]2[/td][/tr]
+[tr][td]低端[/td][td]4[/td][/tr]
+[tr][td]中端[/td][td]12[/td][/tr]
+[tr][td]高端[/td][td]48[/td][/tr]
+[tr][td]奢华[/td][td]100+[/td][/tr]
+[tr][td]住院基本看护[/td][td]15[/td][/tr]
+[tr][td]住院重症看护[/td][td]30[/td][/tr]
+[/table]
+
+[spoiler]
+[table]
+[tr][td][b]SPOOFING LIFE[/b][/td][/tr]
+[tr][td][b]Life Style[/b][/td][td][b]Threshold[/b][/td][/tr]
+[tr][td]Squatter[/td][td]2[/td][/tr]
+[tr][td]Low[/td][td]4[/td][/tr]
+[tr][td]Middle[/td][td]12[/td][/tr]
+[tr][td]High[/td][td]48[/td][/tr]
+[tr][td]Luxury[/td][td]100+[/td][/tr]
+[tr][td]Hospitalized Standard Care[/td][td]15[/td][/tr]
+[tr][td]Hospitalized Intensive Care[/td][td]30[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[b]伪造防护[/b]
+如果黑客面对的对手使用的是带有限制选项的攻击性程序(第114页)，他可能会试图伪造自己的化身，使限制程序不会对他不利。要做到这一点，黑客必须通过适当的矩阵侦察检定意识到程序有特定的选项。然后，他就可以试图伪造自己的化身，让它看起来像是事实并非如此。例如，联络的安保黑客可能会使用带有限制的攻击程序，以防止其被用于已认证的联络角色。知道这一点的黑客可能会伪造自己的化身，让自己看起来像是通过了联络认证，从而使自己不受该程序的攻击。这需要一个对抗检定，使用黑客的骇入+欺骗对抗对手的分析+响应等级。
+
+[spoiler]
+[b]SPOOFING PROTECTION[/b]
+If the hacker is facing an opponent that is wielding an offensive program with the Limitation option (p. 114), he may attempt to spoof his persona in a way that the limited program will not work against him. To do this, the hacker must be aware that the program has that specific option, via an appropriate Matrix Perception Test. He can then attempt to spoof his persona so that it appears to be something it’s not. For example, a Renraku security hacker may be wielding an Attack program with a Limitation that prevents it from being used on certified Renraku personas. A hacker who has learned this may spoof his persona to appear Renraku-certified, thus making himself invulnerable to the program. This requires an Opposed Test pitting the hacker’s Hacking + Spoof against the opponent’s Analyze + Response.
+[/spoiler]
