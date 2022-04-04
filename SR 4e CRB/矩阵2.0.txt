@@ -170,13 +170,15 @@ There are two ways to experience the Matrix: through augmented reality and virtu
 
 [size=12pt][b]增强现实[/b][/size]
 
-大多数矩阵用户大部分时间都在使用AR。有了增强现实技术，矩阵不再是一个你前往的地方，而是一个由数据和图像组成的平行世界，你可以通过技术设备体验到覆盖在你正常感知之上的感觉。你的通讯链访问矩阵数据，并通过任意数量的界面设备向你提供结果。AR感觉输入对每个用户都是特定和个性化的; 虽然你和你的好友都可以访问餐厅外"显示"的菜单图标，但它可能会被显示给她，并大声朗读给你，你们都不会看到或听到对方的AR输出。
+大多数矩阵用户大部分时间都在使用AR。有了增强现实技术，矩阵不再是一个你前往的地方，而是一个由数据和图像组成的平行世界，你可以通过技术设备体验到覆盖在你正常感知之上的感觉。你的通讯链访问矩阵数据，并通过任意数量的界面设备向你提供结果。AR感官输入对每个用户都是特定的和个性化的; 虽然你和你的好友都可以访问"显示"在餐厅外面的菜单图标，但它可能是显示给她的，也可能是大声读给你听的，而你们都不会看到或听到对方的AR输出。
 
-在其最基本的形式中，AR以可视化提示的形式被体验，也被称为增强现实对象图标，或AROs(发音为"arrows")。你可以用图像链(p.333)看到AROs，这是赛博眼的标准配置，它也可以安装在智能护目镜、眼镜甚至隐形眼镜上，这些都与你的通讯链相连。默认情况下，ARO数据在你的视野中显示为幽灵般的图像和文本，因此它不会完全遮挡你的视野。你可以自定义你的界面，以任何你喜欢的方式查看这些数据，或者过滤掉某些内容(如可视化的垃圾AROs)。例如，如果你接受一个视频来电，来电者的图像或图标就会出现在你的视野中，但它是透明的，因此你可以通过它看到真实世界。如果有人向你开枪，你可以让打电话的人等一下，然后关闭增强现实窗口，或者把它移到你的视野边缘，这样它就不会打扰你。
+在其最基本的形式中，AR以可视化提示的形式被体验，也被称为增强现实对象图标，或AROs(发音为"arrows")。你可以用图像链(p.333)看到AROs，这是赛博眼的标准配置，它也可以安装在智能护目镜、眼镜甚至隐形眼镜上，这些都与你的通讯链相连。默认情况下，ARO数据在你的视野中显示为幽灵般的图像和文本，因此它不会完全遮挡你的视野。你可以自定义你的界面，以任何你喜欢的方式查看这些数据，或者过滤掉某些内容(如视觉垃圾AROs)。例如，如果你接起一个视频来电，来电者的图像或图标就会出现在你的视野中，但它是透明的，因此你可以透过它看到真实世界。如果有人向你开枪，你可以让打电话的人暂停，然后关闭AR窗口，将其转移到你的视野边缘，这样就不会受到干扰。
 
-你也可以使用听觉体验AR，通过一个音频链(p.333)传输和听到，比如赛博耳、耳塞式耳机、皮下骨传导扬声器，甚至是可以向你的耳朵发送紧束音频的护目镜或眼镜。你可以控制音量，而且不必担心被人偷听，因为一切都在你的头脑里。先进的AR系统可以通过传输触觉信息(被称为"可触性信息")，或者通过定制的反馈手套和衣服传输温度、压力和阻力。如果你想要完整的AR体验，你可以把AR输入转换成嗅觉和味觉的感觉数据，通常是通过模拟感官来感知，尽管也有专门的赛博殖装改造提供给一个小(并且奇怪的)市场。
+你也可以使用听觉体验AR，通过一个音频链(p.333)传输和听到，音频链可以是赛博耳、耳塞式耳机、皮下骨传导扬声器，甚至可以是向你的耳朵发送紧束音频的护目镜或眼镜。你可以控制音量，而且不必担心被人偷听，因为一切都在你的头脑里。先进的AR系统可以通过传输触觉信息(被称为"可触性信息")，通过拟感或者通过定制的手套和衣服反馈来传达温度、压力和阻力。如果你想要完整的AR体验，你可以把AR输入转换成嗅觉和味觉的感觉数据，通常是通过拟感来感知，尽管也有专门的赛博殖装改造提供给小规模(并且奇怪的)市场。
 
+获得AR修正的最简单方法是通过拟感。你需要一个直接神经界面--或者通过安装植入的通讯链、植入的拟感模块、数据接口或电极贴片--以及一个用于你的通讯链的拟感模块来解释信号并向你提供数据。拟感技术使AR更进一步，因为它也可以转达情感，尽管转达完整的模拟情感的服务是罕见的，并且有时是非法或骇人听闻的：垃圾广告邮件已经够糟糕了，但你真的想感受它吗？
 
+对AR界面的控制和操纵可以通过各种手段来完成。输入设备包括对着麦克风的声音命令、AR手套、眼镜中的微型激光眼球追踪器，甚至是通过直接神经界面的精神命令。当所有其他方法都失败时，可以使用通讯链本身的基础控制。
 
 [spoiler]
 [size=12pt][b]AUGMENTED REALITY[/b][/size]
@@ -193,6 +195,18 @@ Control and manipulation of the AR interface can be accomplished with a variety 
 
 [size=12pt][b]虚拟现实[/b][/size]
 
+对于那些想要完整的矩阵体验的人来说，你们可以比AR更进一步，让你的感官完全沉浸在矩阵的虚拟现实中。在VR中，你的物理感知被矩阵的感官信息所覆写。与其说是体验你肉体周围的真实世界，不如说是体验作为你角色图标的电子模拟矩阵。
+
+需要一个模拟模块和一个直接的神经接口来访问完整的VR。植入式模拟模块也可以作为simrigs和植入式通讯器的附加组件购买。作为一项安全防范措施，当你在VR中时，simsense会覆盖你的运动功能，这样你就不会在不知不觉中在现实世界中移动，并可能伤害你自己或你的周围环境。这意味着，当你在线时，你的身体是瘫痪的，就像你在睡觉一样。在非常困难的情况下，你仍然可以通过你的肉体感官进行感知，或者在VR中移动你的肉体。
+
+虚拟现实之所以受欢迎，有几个原因。VR环境对于激烈而真实的游戏体验来说是非常棒的，而可定制的simsense娱乐馈赠比标准的trideo更受欢迎。由于你的图标可以有任何雕刻，VR比AR更匿名，是进行阴暗交易或简单社交的绝佳媒介，而不必克服由长相、元气、社会阶层等引起的障碍。有时，只是在黑客帝国的一些特别雕刻的VR景观中移动是一种有趣的打发时间的方式，就像生活在一个视频游戏中。它对一些专业功能也非常有用，包括虚拟建模、高速交易、机器人控制、安全、远程合作企业等。
+
+对技术工作者来说，VR就是 "家"--大多数人在这里感觉比在肉体世界中航行更舒服，即使有增强现实。然而，对于黑客来说，最重要的是，VR是快速的，你可以以数字速度移动，这可能是你在进行黑客工作时需要的额外优势。你可以比街头武士更快，而成本却很低。虚拟现实的体验与AR有很大的不同。一个人在走在街上时与增强现实对接，往往比一个人单独用头脑在VR景观中冲浪操作得更慢。虽然VR的速度更快，但它通常会保持一定的保障措施，保护用户的大脑免受危险的浪涌或来自母体的篡改。这种simsense界面，在街上被称为
+这种被称为 "冷模拟 "的界面反过来又比非法修改的 "热模拟 "界面慢，后者取消了大部分的保护措施，允许用户为获得一点额外的速度而冒险使用他们的神经通路。
+
+在VR中，你成为你的角色图标。角色固件让你觉得你的感官和意识都体现在图标中；在一个非常真实的意义上，它成为你在母体中的身体。角色图标是可定制的，有大量的可能性；你可以成为一切。想成为一个有八只手臂的紫色食人魔吗？没问题。一个有喷射推进器的控制论蚜虫怎么样？这是上周的最畅销产品。也许你想看起来和听起来都像新手哥布林摇滚明星Orxanne？很简单，但如果你想要她的全部声乐范围和伴奏，你就必须花钱购买额外的功能。
+
+
 [spoiler]
 [size=12pt][b]VIRTUAL REALITY[/b][/size]
 For those who want the full Matrix experience, you can go a step beyond AR and fully immerse your senses in the virtual reality of the Matrix. In VR, your physical perceptions are overridden by the Matrix’s sensory information. Rather than experiencing the real world around your meat body, you experience the electronic simulation of the Matrix as your persona’s icon.
@@ -207,30 +221,76 @@ To technomancers, VR is “home”—most feel more comfortable here than naviga
 In VR, you become your persona icon. The persona firmware makes you feel like your senses and consciousness are embodied in the icon; in a very real sense it becomes your body in the Matrix. Persona icons are customizable and an immense range of possibilities are available; you can be literally everything. Want to be a purple ogre with eight arms? No problem. How about a cybernetic aphid with jet thrusters? That was last week’s top seller. Maybe you want to look and sound like novahot Goblin Rockstar Orxanne? Easy, but if you want her full vocal range and accompanying soundtrack you’ll have to splurge for the extra features.
 [/spoiler]
 
-[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+[size=14pt][b]Zones[/b][/size]
+
+无线网状网络可能会使大多数城市地区饱和，但世界上有许多地方的技术是不存在的、过时的或不可靠的。这在被遗弃在腐烂、犯罪和贫穷的城市地区尤其常见，尽管有些无线基础设施是由犯罪集团、技术帮派或无政府主义团体维护的。这些地区被称为静态区域，那里的接入是间歇性的或不可靠的，还有死亡区域，那里没有矩阵的接入。
+
+在静态区域，由于技术质量差和/或需要额外的滞后性来绕过网络中的漏洞，矩阵活动比较困难。在死区，如果没有强大的信号增强设备或卫星连接，无线接入是不可能的（除非你碰巧在某个地方找到一个孤立的无线热点或老式的有线连接）。
+
+技术专家们发现静电和死区是令人不安和不舒服的。没有数据流量的持续背景嗡嗡声使他们感到痒痒的。技术移民在物理世界中可能会感到沮丧、烦躁或其他不安。
+
+为了解决某些地区缺乏网络的问题，人们有时会建立临时网络。这通常是通过在一个地区周围散布一些廉价的具有无线功能的设备来实现的。如果你在荒原上发现一个看起来像刚下过雪的烤面包机的地方，你就会知道为什么。
+
+另一方面是垃圾邮件区，在这些地区，操纵性的广告伎俩是合法的，或者至少是被容忍的。这些伎俩包括绕过过滤器，感官爆炸的AR弹出式广告，情绪化的模拟信号（色情模拟很常见），间谍软件，以及其他。垃圾邮件区在旅游区和红灯区很常见，可能会让人分心，但它们通常没有危害，也不会在你离开后产生持久影响。
 
 [spoiler]
-[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+[size=14pt][b]Zones[/b][/size]
+Wireless mesh networks may saturate most urban areas, but there are many places in the world where the technology is either nonexistent, outdated, or unreliable. This is especially common in urban zones abandoned to decay, crime, and poverty, though some wireless infrastructure is maintained by crime syndicates, tech gangs, or anarchist groups. These areas are known as static zones, where access is intermittent or unreliable, and dead zones, where no Matrix access is available. 
+
+In static zones, Matrix activity is harder due to the poor tech quality and/or the extra lag required to route around holes in the network. In dead zones, wireless access simply isn’t possible without powerful signal-boosting equipment or a satellite link (unless you happen to find an isolated wireless hotspot or old wired connection somewhere). 
+
+Technomancers find static and dead zones to be unnerving and uncomfortable. The absence of the constant background hum of data traffic makes them itchy. Technomancers may get depressed, irritated, or otherwise upset in the physical world. 
+
+To get around the lack of a network in some areas, people will sometimes set up temporary networks. This is usually done by scattering a number of cheap wireless-capable devices around an area. If you ever find a place in the Barrens that looks like it just snowed toasters, you’ll know why. 
+
+On the flipside are spam zones, areas where manipulative advertising tricks are legal, or at least tolerated. These tricks include filterbypassing, sensory-blasting AR pop-ups, emotive-charged simsense feeds (porn sims being common), spyware, and more. Common in tourist areas and red-light districts, spam zones can be highly distracting, but they are not usually harmful nor do they have a lasting effect once you have left.
+[/spoiler]
+
+[size=14pt][b]STATIC AND DEAD ZONES[/b][/size]
+
+[spoiler]
+[size=14pt][b]STATIC AND DEAD ZONES[/b][/size]
 
 [/spoiler]
 
-[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+[size=14pt][b]THE EMERGED[/b][/size]
+黑客帝国中充斥着机器中的幽灵、不可阻挡的核心战争病毒、秘密的 "紫外线 "电网，以及数字世界的其他神秘和危险的故事。其中许多故事不过是为了吓唬新手和提高黑客帝国精英们的声誉而制造的谣言和虚构。然而，在64年崩溃之前的几十年里，一个反复出现的神话变成了现实：关于 "御宅族 "的故事，即所谓的母体的孩子。
+
+不久之后，传言被证明是真的。在世界各地，孩子们被居住在母体深处的东西所触动，并改变了他们。这些御宅族可以在没有网络平台的情况下在母体中旅行，仅凭他们的意志就能指挥母体。第六世界出现了一种新的现象--但与觉醒的其他超自然事件不同，这一次是以技术为基础的。这是超人类进化的一个新阶段吗？人工智能的邪恶干预的迹象？还是说这是一种不同类型的觉醒，由超人类思维与独特的新存在平面的潜意识互动催化而产生的？那些研究它的人发现了更多的问题，而不是答案，甚至连御宅族的信仰都相互矛盾。
 
 [spoiler]
-[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+[size=14pt][b]THE EMERGED[/b][/size]
+The Matrix teems with tales of ghosts in the machine, unstoppable core-war viruses, secret “ultraviolet” grids, and other mysteries and dangers of the digital world. Many of these stories are no more than rumors and fictions created to frighten newbies and burnish the reputations of the Matrix elite. In the decades before the Crash of ’64, however, a recurring myth became reality: stories of the “otaku,” the so-called children of the Matrix. 
 
+It wasn’t long before the rumors were proven true. All over the world, children were touched by something residing deep within the Matrix, and it changed them. These otaku could journey through the Matrix without the artifice of cyberdecks, commanding it with their wills alone. A new phenomenon had evolved in the Sixth World—but unlike other paranatural events of the Awakening, this one was rooted in technology. Was this a new stage in metahuman evolution? Signs of sinister meddling by artificial intelligences? Or was it a different type of Awakening catalyzed into existence by the subconscious interaction of metahuman minds with a unique new plane of existence? Those who studied it unearthed more questions than answers, and even otaku beliefs contradicted each other.
 [/spoiler]
 
-[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+[size=12pt][b]TECHNOMANCERS[/b][/size]
+
+解读御宅族起源的第一步还没迈出去，64年的崩溃就催化了进一步的转变。在世界各地，成千上万的人发现他们的意识在崩溃的高峰期被困在母体中，其中一些人在那里存活了几个小时甚至几天。许多人死于致命的生物反馈压力，另一些人在未来几年里被施加了精神障碍和创伤后压力，但还有许多人活了下来......后来才意识到他们已经从根本上被改变。新的传言和报告花了几年时间才凝聚在一起，但毫无疑问，有些东西是不同的。新一代的御宅族出现了--只是这一次他们不再是孩子了。大多数在撞车事件中幸存下来的年轻御宅族也经历了一次转变，他们发现自己的力量不再随着年龄的增长而消退。这个新品种的人将自己重新命名为技术员，他们是操纵母体的专家，只用他们的思想。
+
+这些新的技术改造者拥有与生俱来的能力，超过了上一代母体之子的能力。根据他们对技术世界的亲和力，技术改造者对他们周围的数据波动有一种本能的意识。这种潜意识不仅在母体的VR中发挥作用，而且在现实世界中也是如此，技术员可以 "感觉 "到他们周围的电波中流动的无线数据流量。
+
+技术员的详细情况见《技术员》，第239页。
 
 [spoiler]
-[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+[size=12pt][b]TECHNOMANCERS[/b][/size]
+The first steps toward deciphering the origins of otaku had barely been taken when the Crash of ’64 catalyzed further transformations. All over the world, thousands of people found their consciousnesses trapped within the Matrix at the height of the Crash, some of them surviving there for hours or even days. Many died from lethal biofeedback stress, others were inflicted with psychotropic disorders and posttraumatic stress for years to come, but many others survived … only realizing later that they had been fundamentally changed. It took several years for the new rumors and reports to cohere, but undoubtedly something was different. A new generation of otaku had come into being—only this time they were no longer just children. Most of the young otaku that survived the Crash had also undergone a transformation, and they found that their powers no longer faded with age. This new breed renamed themselves technomancers, specialists in manipulating the Matrix with nothing more than their minds. 
 
+These new technomancers had innate abilities that surpassed the abilities of the previous generation of children of the Matrix. In accordance with their affinity for the technological world, technomancers have an instinctive awareness of the fluctuations of data around them. This subliminal sense not only functions in the VR of the Matrix, but in the real world as well, where technomancers can “feel” the wireless data traffic flowing through the airwaves around them.
+
+Technomancers are detailed under Technomancers, p. 239.
 [/spoiler]
 
-[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
+[size=12pt][b]ARTIFICIAL INTELLIGENCE[/b][/size]
+
+在技术移民出现后不久，另一个新的现象显现出来。能够自主思考的自我意识程序开始为人所知。普通人短暂地害怕他们的到来，害怕他们代表的未知。那些在权力大厅和阴影下的人担心最坏的情况，因为人工智能（AI）对第六世界的行动者和摇摆者来说并不新鲜。一些高智商、强大的、无可否认的外来人工智能已经恐吓了世界上的一些地方，而且根据一些说法，它们对64年的崩溃负有部分责任。
+但这些新的人工智能是不同的。大多数是类似动物的，其他的只是外星人，但有些有类似人类的知觉和自我意识，还有少数拥有在坠机中死亡的真实人物的个性和记忆。他们的出现是非常偶然的，被难以捉摸的X因素唤醒。猜测不断；一些人认为崩溃2.0隐藏了一个奇点事件；另一些人声称这些新的生命体是一个新的全球网络的孩子，它利用遗传编程和自我纠正代码。Metahumanity是一个新的父母。
+在这些核心规则下的人工智能是剧情装置和NPC；然而，在高级规则书《Unwired》和《Runner's Companion》中引入了新的选项。
 
 [spoiler]
-[size=14pt][b]MATRIX TOPOLOGY[/b][/size]
-
+[size=12pt][b]ARTIFICIAL INTELLIGENCE[/b][/size]
+Shortly after the emergence of technomancers, another new phenomenon manifested. Self-aware programs capable of autonomous thought began to make themselves known. The common man briefly feared their coming, the unknown they represented. Those in the halls of power and the shadows feared the worst, for artificial intelligence (AI) was nothing new to the movers and shakers of the Sixth World. A few highly intelligent, immensely powerful, and undeniably alien AIs had terrorized parts of the world, and by some accounts were partly responsible for the Crash of ‘64. 
+But these new AIs were different. The majority were animal-like, others were just alien, but some had human-like sentience and selfawareness and a rare few had the personalities and memories of real people who died in the Crash. They had emerged quite by accident, awoken by elusive x-factors. Speculation rages on; some suggest the Crash 2.0 hid a singularity event; others claim these new lifeforms are the children of a new global network that utilizes genetic programming and self-correcting code. Metahumanity was a new parent. 
+Artificial intelligences under these core rules are plot devices and NPCs; however, new options are introduced in the advanced rulebooks Unwired and Runner’s Companion.
 [/spoiler]
