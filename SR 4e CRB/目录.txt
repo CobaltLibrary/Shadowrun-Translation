@@ -1,9 +1,9 @@
 [color=brown][size=12pt][b]暗影狂奔4E 核心矩阵规则[/b][/size][/color]
-[spoiler]Shadowrun 4E CRB Martix[/spoiler]
+[spoiler]Shadowrun 4E CoreBook Martix[/spoiler]
 
 [quote]
 [b][size=12pt]无线世界[/size][/b]
-矩阵2.0 P.216-221
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=130464.0]矩阵2.0 P.216-221[/url]
 边栏：矩阵名词注解 P.217
 矩阵链接 P.221-227
 使用矩阵 P.227-228
@@ -15,4 +15,4 @@
 机师 P.244-246
 [/quote]
 
-翻译基于SR4e CoreBook 20周年版本
+[color=brown]翻译基于SR4e CoreBook 20周年版本[/color]
