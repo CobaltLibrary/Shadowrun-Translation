@@ -85,7 +85,7 @@ Storage memory and data compression technologies by 2072 allow vast amounts of i
 
 许多人都有一个矩阵服务提供商(MSP)，他们将其用作矩阵的某种前端。一个MSP不是网上冲浪或黑客活动所必需的，但大多数普通用户(和许多暗影狂奔者)发现MSP提供的服务在他们的日常工作中很有用。
 
-尽管在核心规则中偶尔会涉及到，但关于MSP服务的使用和功能的进一步细节将在进阶矩阵规则手册Unwired中进行介绍。
+尽管在核心规则中偶尔会涉及到，但关于MSP服务的使用和功能的进一步细节将在进阶矩阵规则手册《Unwired》中进行介绍。
 
 [spoiler]
 [size=14pt][b]GETTING ONLINE[/b][/size]

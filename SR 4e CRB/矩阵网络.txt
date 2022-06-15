@@ -1,0 +1,608 @@
+[color=brown][size=16pt][b]矩阵网络[/b][/size][/color]
+
+矩阵是一个虚拟世界，有着它自己的场所和属性，是物理世界的数字化模拟。它是由设备、信号、数据和人与机器(或两者)之间的联系组成的。要了解矩阵，你必须了解它的基本构成。
+
+[spoiler]
+[color=brown][size=16pt][b]NETWORKING[/b][/size][/color]
+The Matrix is a virtual world, with its own places and attributes, a digital analogue of physical world. It is made up of devices, signals, data, and the connections between people or machines (or both). To understand the Matrix, you must understand its basic building blocks.
+[/spoiler]
+
+---
+
+[size=16pt][b]设备[/b][/size]
+
+矩阵存在于一系列的设备上。这里的设备是指任何启用了矩阵连接的硬件，无论是有线还是(更常见的)无线。
+
+总共存在三种设备类型。一个设备可以是一个外围设备(a peripheral device)，一个通讯链，或一个枢纽(a nexus)。
+
+[spoiler]
+[size=16pt][b]DEVICES[/b][/size]
+The Matrix exists on a series of devices. A device in this case is defined as any hardware with Matrix connectivity enabled, whether wired or (far more commonly) wireless. 
+
+There are three broad categories of devices. A device can be a peripheral device, a commlink, or a nexus.
+[/spoiler]
+
+[size=14pt][b]外围设备[/b][/size]
+
+外围设备是一种具有矩阵功能的电器或设备，它是无线的(或在某些情况下是有线的)，但不被设计用于全面的矩阵接入和信息处理。安保摄像机、烤炉、耳塞、医药箱、枪支、儿童玩具、门铃、淋浴器、体征监测器、赛博殖装、化妆包、车辆、咖啡机、商店显示器、电子纸张、无人机、电灯开关，以及许多其他物品都是《暗影狂奔》中的外围设备。
+
+外围设备没有化身固件，尽管许多设备有未使用的数据处理能力，它们通常仅拥有发挥其设计功能的智能。这类设备还经常在未使用的内存中提供大量的存储空间。
+
+对于程序员和黑客来说，外围设备的一个高级用途是将多个外围设备聚集在一起，形成一个分布式计算机(关于集群等高级应用的规则可在《Unwired》中找到)。
+
+[spoiler]
+[size=14pt][b]PERIPHERAL DEVICES[/b][/size]
+A peripheral device is a Matrix-capable appliance or piece of equipment that is wireless (or in some cases wired) but is not intended to be used for full-blown Matrix interfacing and processing. Security cameras, stoves, ear buds, medkits, firearms, children’s toys, doorbells, showers, biomonitors, cyberware, make-up kits, vehicles, coffee makers, store displays, electronic paper, drones, light switches, and many, many other items are all peripheral devices in Shadowrun. 
+
+Peripheral devices have no persona firmware, and are usually just smart enough to serve their function, although many have unused processing power. Such devices also often offer significant storage space in unused memory. 
+
+One advanced use of peripheral devices available to programmers and hackers is the clustering of multiple peripheral devices together to create a distributed computer (rules for such advanced applications such as clusters can be found in Unwired).
+[/spoiler]
+
+[size=14pt][b]通讯链[/b][/size]
+
+到目前为止，通讯链是普通人和暗影狂奔者上网的最常见方式。通讯链的固件可以运行一个化身。通讯器有各种各样的型号和容量，从不起眼的到最先进的。只要有足够的技术或资金，任何通讯链在合适的人手中都可以成为一个强大的矩阵工具。
+
+[spoiler]
+[size=14pt][b]COMMLINKS[/b][/size]
+Commlinks are by far the most common way Average Joe and your typical shadowrunner gets online. Commlinks have the firmware to run one persona. Commlinks come in a wide range of models and capacities ranging from the unimpressive to the cutting edge. With enough skill or money, any commlink can become a powerful Matrix tool in the right hands.
+[/spoiler]
+
+[size=14pt][b]枢纽[/b][/size]
+
+一个枢纽("Nexus"，单数为"nexi")是一个主机或超级计算机。它可以同时容纳多个化身和许多程序。枢纽很少在外面出现，通常被封存在服务器室和数据中心，远离公众。枢纽也免除了许多功能较少的设备的程序限制。
+
+[spoiler]
+[size=14pt][b]NEXI[/b][/size]
+A nexus (plural “nexi” in this context) is a mainframe or supercomputer. It can host multiple personae and many programs simultaneously. Nexi are rarely seen out and about, and are usually sequestered in server rooms and data centers, away from the general public. Nexi also dispense with many of the program limitations of less powerful devices.
+[/spoiler]
+
+---
+
+[size=16pt][b]矩阵属性[/b][/size]
+
+设备拥有矩阵属性：防火墙、响应能力、信号强度和系统等级。矩阵属性中两个是基于设备中的硬件，另外两个是运行在该硬件上的软件。
+
+[spoiler]
+[size=16pt][b]MATRIX ATTRIBUTES[/b][/size]
+Devices have Matrix attributes: Firewall, Response, Signal, and System. Two of the Matrix attributes are based on the hardware in the device, and the other two are software running on that hardware.
+[/spoiler]
+
+[size=14pt][b]防火墙[/b][/size]
+
+防火墙是设备的内置安保软件。它可以防止未经授权的访问，抵御敌对的访问尝试和利用。例如，防火墙会立即阻止对使用相同访问ID的多个图标的访问。防火墙也被用来防御在矩阵战斗中的攻击(第236页)。
+
+[spoiler]
+[size=14pt][b]FIREWALL[/b][/size]
+Firewall is the device’s built-in security software. It protects against unauthorized access and fends off hostile access attempts and exploits. A firewall will, for instance, instantly block access to multiple icons using the same access ID. Firewall is also used to defend against Matrix attacks in cybercombat (p. 236).
+[/spoiler]
+
+[size=14pt][b]响应能力[/b][/size]
+
+响应能力是指设备硬件的处理能力和速度。响应用于矩阵主动性(第236页)。当你运行太多的程序时，响应能力会受到负面影响。
+
+[spoiler]
+[size=14pt][b]RESPONSE[/b][/size]
+Response is the processing power and speed of the device’s hardware. Response is used for Matrix Initiative (p. 236). Response is negatively affected when you run too many programs.
+[/spoiler]
+
+[size=14pt][b]信号强度[/b][/size]
+
+信号强度代表设备硬件的广播功率。信号强度越高，设备可以传输信息的范围越远。信号范围和例子列在信号等级表上。当两个设备在两者最低的信号强度范围内时，它们就被称为在相互的信号范围内；这对于设备与设备之间的直接通信和其他应用是必需的。
+
+[spoiler]
+[size=14pt][b]SIGNAL[/b][/size]
+Signal represents the broadcasting power of the device’s hardware. The higher the Signal, the farther the device can transmit. Signal ranges and examples are listed on the Signal Rating Table. When two devices are within the range of the lowest Signal rating of the two, they are said to be in mutual Signal range; this is required for direct device-to-device communication and for other applications.
+[/spoiler]
+
+[quote]
+[b]信号强度表[/b]
+
+[table]
+[tr][td]信号强度[/td][td]信号范围[/td][td]范例[/td][/tr]
+[tr][td]0[/td][td]3m[/td][td]纳米殖装发讯器、赛博殖装、PAN内设备[/td][/tr]
+[tr][td]1[/td][td]40m[/td][td]RFID标签，手持式电子设备[/td][/tr]
+[tr][td]2[/td][td]100m[/td][td]头部殖装发讯器、微型无人机传感器[/td][/tr]
+[tr][td]3[/td][td]400m[/td][td]常规通讯链，住宅/小型企业WiFi路由器，载具自动导航传感器[/td][/tr]
+[tr][td]4[/td][td]1km[/td][td]履带式无人机传感器[/td][/tr]
+[tr][td]5[/td][td]4km[/td][td]赛博肢体发讯器、重型无人机传感器[/td][/tr]
+[tr][td]6[/td][td]10km[/td][td]无线通讯塔、公共接入WiFi路由器[/td][/tr]
+[tr][td]7[/td][td]40km[/td][td]地面车辆武器(反坦克导弹、坦克火炮等)的瞄准传感器[/td][/tr]
+[tr][td]8[/td][td]100km[/td][td]飞机雷达、专用地面监视雷达[/td][/tr]
+[tr][td]9[/td][td]400km[/td][td]海上/海军雷达，商业AM/FM无线电[/td][/tr]
+[/table]
+
+[spoiler]
+[b]SIGNAL RATING TABLE[/b]
+
+[table]
+[tr][td]SIGNAL RATING[/td][td]SIGNAL RANGE[/td][td]EXAMPLE[/td][/tr]
+[tr][td]0[/td][td]3m[/td][td]Nanoware transceivers, cyberware, intra-PAN devices[/td][/tr]
+[tr][td]1[/td][td]40m[/td][td]RFID tags, handheld electronics [/td][/tr]
+[tr][td]2[/td][td]100m[/td][td]Headware transceivers, micro-drone sensors[/td][/tr]
+[tr][td]3[/td][td]400m[/td][td]Average commlinks, residential/small business wi-fi routers, vehicular autonav sensors[/td][/tr]
+[tr][td]4[/td][td]1km[/td][td]Crawler-drone sensors[/td][/tr]
+[tr][td]5[/td][td]4km[/td][td]Cyberlimb transceivers, heavy drone surveillance sensors[/td][/tr]
+[tr][td]6[/td][td]10km[/td][td]Cell-phone towers, public access wi-fi routers[/td][/tr]
+[tr][td]7[/td][td]40km[/td][td]Targeting sensors for ground vehicle weapons (ATGMs, tank guns, etc.)[/td][/tr]
+[tr][td]8[/td][td]100km[/td][td]Flight radar, dedicated ground surveillance radar[/td][/tr]
+[tr][td]9[/td][td]400km[/td][td]Maritime/naval radar, commercial AM/FM radio[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[size=14pt][b]系统等级[/b][/size]
+
+系统等级衡量了设备的操作系统(OS)软件的能力。这包括其稳定性、多任务协作特性、控制硬件的能力、资源及其代码的总体质量。如果系统软件一旦崩溃，整个设备就会崩溃。系统等级限制了在设备上运行的程序的等级，并在大多数设备上设定了不会引发响应能力下降的可以运行的程序数量的限制。系统程序受到它所在设备的基本响应等级的限制：如果设备的基本响应能力低于系统等级，那么系统等级被设置为等于响应能力等级。系统等级也设定了设备上运行的化身程序的矩阵条件监视器(矩阵CM)的大小(矩阵战斗, 第236页)。
+
+[spoiler]
+[size=14pt][b]SYSTEM[/b][/size]
+System measures the power of the device’s operating system (OS) software. This includes its stability, multitasking properties, ability to control hardware, resources, and the general quality of its code. If the System software ever crashes, the entire device crashes. System limits the rating of programs running on the device, and sets the limit on most devices for the number of programs that can be run without a Response drop. The System program is limited by the base Response rating of the device it is on: if the base Response rating of the device is lower than the System rating, then the System rating is set to equal the Response rating. System also sets the size of the Matrix Condition Monitor of persona programs running on the device (Cybercombat, p. 236).
+[/spoiler]
+
+[size=14pt][b]设备等级[/b][/size]
+
+在《暗影狂奔》的世界里有太多的电子设备，GM无法追踪它们各自的矩阵属性。相反，每个设备都被赋予了一个设备等级。除非它被定制或以某种方式改变，否则可以假设上面列出的每一个特定设备的矩阵属性都等于其设备等级。
+
+如果一个特定的设备在游戏过程中起着重要的作用，GM应该给它分配一个完整的矩阵属性。如果这个物品只是起了一个顺便的作用，那么一个简单的设备等级就足够了。
+
+设备等级范例表(见下文)列出了典型的设备等级。
+
+[spoiler]
+[size=16pt][b]DEVICE RATING[/b][/size]
+There are far too many electronics in the world of Shadowrun for a gamemaster to keep track of their individual Matrix attributes. Instead, each device is simply given a Device rating. Unless it has been customized or changed in some way, assume that each of the Matrix attributes listed above for a particular device equals its Device rating. 
+
+If a particular device plays an important role in an adventure, the gamemaster should assign a full complement of Matrix attributes to it. If the item only plays a passing role, then a simple Device rating will suffice.
+
+The Sample Devices table (at left) lists typical Device ratings.
+[/spoiler]
+
+[quote]
+[b]设备等级范例表[/b]
+
+[table]
+[tr][td]设备类型[/td][td]设备等级[/td][td]范例[/td][/tr]
+[tr][td]传统[/td][td]1[/td][td]普通电器、身体殖装[/td][/tr]
+[tr][td]简单[/td][td]2[/td][td]公共终端、娱乐系统[/td][/tr]
+[tr][td]普通[/td][td]3[/td][td]标准的个人电子设备、头部殖装、载具、无人机、家庭/商业终端[/td][/tr]
+[tr][td]复杂[/td][td]4[/td][td]安保载具、阿尔法级殖装、研究终端、安保设备[/td][/tr]
+[tr][td]智能[/td][td]5[/td][td]高端设备、贝塔级只装、安保终端、军用载具[/td][/tr]
+[tr][td]尖端[/td][td]6[/td][td]德尔塔级殖装、信用棒[/td][/tr]
+[/table]
+
+[spoiler]
+[b]SAMPLE DEVICES TABLE[/b]
+
+[table]
+[tr][td]DEVICE TYPE[/td][td]DEVICE RATING[/td][td]EXAMPLES[/td][/tr]
+[tr][td]Dumb[/td][td]1[/td][td]General appliances, bodyware[/td][/tr]
+[tr][td]Simple[/td][td]2[/td][td]Public terminals, entertainment systems[/td][/tr]
+[tr][td]Average[/td][td]3[/td][td]Standard personal electronics, headware, vehicles, drones, home/business terminals[/td][/tr]
+[tr][td]Complex[/td][td]4[/td][td]Security vehicles, alphaware, research terminals, security devices[/td][/tr]
+[tr][td]Smart[/td][td]5[/td][td]High-end devices, betaware, security terminals, military vehicles[/td][/tr]
+[tr][td]Cutting Edge[/td][td]6[/td][td]Deltaware, credsticks[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[size=14pt][b]升级设备[/b][/size]
+
+如果你想为你的设备寻求更多的力量，你可以升级它的矩阵属性。升级设备只需拥有适当的硬件模块(用于响应能力和信号强度)或软件包(用于防火墙和系统等级)。一旦你有了模块或软件包，只需通过几分钟的工作将其安装到设备上。一个设备的等级只能在其原始等级的基础上+2。
+
+进一步的改进对性能没有额外的影响。你不必一次升级设备的所有属性，即使该设备有一个设备等级。在这种情况下，该设备不能再被视为一个"普通"设备，应该单独记录其属性。
+
+一个设备的每个属性只能有一个硬件模块或软件包。
+
+自行制造模块或自行编码软件包的规则可以在第228页找到。
+
+[spoiler]
+[size=14pt][b]UPGRADING DEVICES[/b][/size]
+If you are looking for more power in your device, you can upgrade its Matrix attributes. Upgrading a device is simply a matter of having the proper hardware module (for Response and Signal) or software package (for Firewall and System). Once you have the module or package, simply install it into the device, a matter of a few minutes’ work. A device’s ratings may only be upgraded by +2 with regards to their original ratings. 
+
+Further improvements have no additional effect on performance. You do not have to upgrade all of a device’s attributes at once, even if the device has a Device Rating. In this case, the device can no longer be considered a “common” device, and should have its attributes recorded separately. 
+
+A device may have only one hardware module or software package for each attribute. 
+
+Rules for building your own modules or coding your own packages can be found on p. 228.
+[/spoiler]
+
+[quote]
+[b]硬件升级花费表[/b]
+
+[table]
+[tr][td]模块等级[/td][td]响应能力花费[/td][td]信号强度花费[/td][td]可获得性[/td][/tr]
+[tr][td]1[/td][td]250¥[/td][td]10¥[/td][td]4[/td][/tr]
+[tr][td]2[/td][td]750¥[/td][td]50¥[/td][td]4[/td][/tr]
+[tr][td]3[/td][td]1250¥[/td][td]150¥[/td][td]8[/td][/tr]
+[tr][td]4[/td][td]2000¥[/td][td]500¥[/td][td]8[/td][/tr]
+[tr][td]5[/td][td]4000¥[/td][td]1000¥[/td][td]12[/td][/tr]
+[tr][td]6[/td][td]8000¥[/td][td]3000¥[/td][td]16[/td][/tr]
+[/table]
+
+[spoiler]
+[b]HARDWARE UPGRADE COSTS TABLE[/b]
+
+[table]
+[tr][td]MODULE RATING[/td][td]RESPONSE COST[/td][td]SIGNAL COST[/td][td]AVAILABILITY[/td][/tr]
+[tr][td]1[/td][td]250¥[/td][td]10¥[/td][td]4[/td][/tr]
+[tr][td]2[/td][td]750¥[/td][td]50¥[/td][td]4[/td][/tr]
+[tr][td]3[/td][td]1250¥[/td][td]150¥[/td][td]8[/td][/tr]
+[tr][td]4[/td][td]2000¥[/td][td]500¥[/td][td]8[/td][/tr]
+[tr][td]5[/td][td]4000¥[/td][td]1000¥[/td][td]12[/td][/tr]
+[tr][td]6[/td][td]8000¥[/td][td]3000¥[/td][td]16[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+---
+
+[size=16pt][b]处理器限制[/b][/size]
+
+每台设备都有一个处理器限制，即其响应能力开始下降的程序数量。像任何计算机一样，一次运行太多的程序会导致设备变慢。在处理器限制的每一个倍数上，设备的响应能力都会减少1，最低为0。例如，如果一个通讯链的处理器限制为5，那么每运行5个程序，它的响应就会减少1。外围设备和通讯链的处理器限制等于其系统等级。枢纽有更大的处理器限制(系统等级x3)。
+
+[spoiler]
+[size=16pt][b]PROCESSOR LIMIT[/b][/size]
+Every device has a processor limit, the number of programs at which its Response starts to degrade. Like any computer, running too many programs at once can cause a device to slow down. At every multiple of the processor limit, a device’s Response is reduced by 1, to a minimum of 0. For example, if a commlink has a processor limit of 5, then its Response is reduced by 1 for every 5 programs running on it. Peripheral devices and commlinks have a processor limit equal to their System rating. Nexi have larger processor limits (System x3).
+[/spoiler]
+
+---
+
+[size=16pt][b]设备运行模式[/b][/size]
+
+设备可以在三种模式中的一种运行：主动，被动和静默。你可以以自由行动的方式改变你的通讯器(以及你的PAN的其他部分)的模式。
+
+主动模式是大多数PAN的默认模式。在主动模式下，你既可以访问也可以被其他PAN、设备和网络访问。你允许任何人连接到你的通讯链并查看上面的内容。某些地区可能要求你的PAN处于活动模式，如机场、公司设施、城市中心等。你的公开个人档案是可见可用的。
+
+一个处于被动模式的PAN可以被其他设备"看到"，但未经你的批准，他们不能访问。在这种模式下的PAN仍然会显示为活动网络。这种模式对于在高流量地区操作是很有用的，那里有很多广告网站或垃圾邮件发送者。被动模式允许你自动过滤掉噪音，只在特定的预先授权的节点请求访问时提醒你。这是外围节点和枢纽的默认模式--在后者的情况下，需要系统管理员的批准访问，或通过使用已建立的账户来确保访问(见访问账户，第225页)。
+
+在静默模式下，你的通讯链和PAN对其他节点是不可见的，除非你访问或授权它们。处于静默模式的用户被称为"幽灵"，因为其他用户没有办法通过无线方式看到他们。在一些高级社交场合不鼓励使用静默模式，因为这被认为是不礼貌的。在其他地区，特别是科技自由区或暗影机构，隐私是被期待的，情况正好相反。某些安全区域和高级场所禁止用户在静默模式下操作，并会对这样做的人进行驱逐、逮捕或更糟的惩罚。
+
+[spoiler]
+[size=16pt][b]DEVICE MODES[/b][/size]
+Devices can run in one of three modes: Active, Passive, and Hidden. You can change the mode of your commlink (and the rest of your PAN) as a Free Action. 
+
+Active mode is the default for most PANs. In Active mode, you can both access and be accessed by other PANs, devices, and networks. You give permission for anyone to connect to your commlink and see what is on it. Certain areas may require your PAN to be in active mode, like airports, corp facilities, major metropolitan centers, etc. Your public profile is visible and available. 
+
+A PAN in Passive mode can be “seen” by other devices, but cannot be accessed by them without your approval. PANs in this mode will still show up as active networks. This mode is useful for operating in high-traffic areas, where advertising nets or spammers abound. Passive mode allows you to automatically filter out the noise, only alerting you if specific pre-authorized nodes request access. This is the default mode for peripheral nodes and nexi—in the latter case access approval is required from a sysop or ensured by using an established account (see Access Accounts, p. 225). 
+
+In Hidden mode, your commlink and PAN are invisible to other nodes unless you access or authorize them. Users in hidden mode are said to be “ghosting,” since there is no way for other users to see them wirelessly. Using hidden mode is discouraged in some high-class social situations, where it is considered rude. In other areas, particularly tech-free zones or shadow establishments where privacy is expected, the opposite is true. Certain secure areas and high-class establishments prohibit users from operating in hidden mode, and will punish those doing so with expulsion, arrest, or worse.
+[/spoiler]
+
+---
+
+[size=16pt][b]化身程序[/b][/size]
+化身是一个内置在设备硬件中的固件程序，你使用它来与矩阵互动，在AR和VR中。它使你能够感知数字世界，并将你的图标投射到节点中。没有化身，你就无法进入矩阵。即使是超链者也有一个(活体)化身。
+
+你的化身的矩阵属性是从它所运行的设备继承的。如果你在通讯链上运行化身，而你的通讯链有系统等级4，那么你在矩阵中的系统等级就是4。化身可以加载程序，允许你在节点上使用软件，否则你可能无法获得必要的软件。
+
+[spoiler]
+[size=16pt][b]PERSONA PROGRAMS[/b][/size]
+A persona is a firmware program built into the device’s hardware that you use to interact with the Matrix, in AR and in VR. It allows you to perceive the digital world and projects your icon (or icons) into nodes. Without a persona, you would be unable to access the Matrix. Even technomancers have a (living) persona. 
+
+Your persona’s Matrix attributes are inherited from the device on which it is running. If you are using the persona on your commlink, and your commlink has System 4, then your System rating is 4 in the Matrix. The persona can be loaded with programs allowing you to use software in nodes where you might not otherwise have access to necessary software.
+[/spoiler]
+
+[size=14pt][b]访问ID[/b][/size]
+
+你的化身也带有你的访问ID。你的访问ID是矩阵在机器层面上"辨认"你的方式，它是唯一的。矩阵的路由器用它来传递你的通讯链的数据。没有它你就不能使用矩阵，但它有一个缺点：它可以被用来追踪你。
+
+每次你在线时(通常是全部时间)，你的存在都会被记录下来。你的访问ID与你所有的在线交易相关联，通常由你访问的任意设备记录。这个记录被称为你的数据轨迹，它可能被用来追踪你，或将你与某些犯罪或活动联系起来。由于你不能摆脱你的访问ID，这将使你在暗影中的生活受到影响，但也有办法解决这个问题。
+
+减少你的数据轨迹的标准技术是伪造你的通讯链的访问ID。有两种方法可以改变你的访问ID；这两种方法都只需要几分钟的时间。你可以通过骇入+软件(2)检定重新编程你的路由器设置来改变你的访问ID，但这只能持续到你的通讯链被重新启动。一个更持久的解决方案是用硬件+逻辑(2)检定来改变硬件，这将持续到硬件被再次改变或更换为止。
+
+《Unwired》引入了其他形式的匿名化访问ID。
+
+[spoiler]
+[size=14pt][b]ACCESS IDS[/b][/size]
+Your persona also bears your access ID. Your access ID is the way the Matrix “recognizes” you at a machine level; it is unique. The routers of the Matrix use it to pass data to and from your commlink. You can’t use the Matrix without it, but it has one drawback: it can be used to trace you. 
+
+Every time you are online (which is usually all of the time) your presence is logged. Your access ID is associated with all of your online transactions and typically logged by any device you access. This record is called your datatrail, and it may be used to track you down or to link you to certain crimes or activities. Since you cannot just get rid of your access ID, this would put a damper on staying in the shadows, but there are ways around the problem. 
+
+The standard technique to reduce your datatrail is to spoof your commlink’s access ID. There are two ways to change your access ID; both take only a few minutes. You can alter your access ID by reprogramming your router settings with a Hacking + Software (2) Test, but this only lasts until your commlink is rebooted. A more permanent solution is to alter the hardware with a Hardware + Logic (2) Test, which lasts until the hardware is altered again or replaced. 
+
+Unwired introduces other forms of anonymizing your access ID.
+[/spoiler]
+
+[size=16pt][b]通讯码[/b][/size]
+
+每个使用矩阵的人都有一个个人通讯码。你的通讯码是你的矩阵地址，就像一个手机号码或电子邮件地址一样，你的电话和信息都是指向它的。你的通讯码通常是在一个付费的矩阵服务提供商(MSP)那里注册的，尽管有很多免费和匿名的暗影网站提供同样的服务。黑客、暗影狂奔者和其他罪犯通常为匿名通讯码的匿名性和额外安全性支付额外费用。事实上，大多数暗影狂奔者都有几个通讯码，其中一些通讯码他们会定期更换。
+
+当你在线时，你的通讯码通常被设置为自动链接到你的服务提供商，这样所有的电话和信息都会立即转发给你。你可以选择切断这一链接并静默运行，以避免被打断或被人追踪这一链接的风险；你的信息将被储存，直到以后被检索。
+
+每当你改变你的访问ID，新的ID必须与你的通讯码重新关联。这个过程是改变你的访问ID所需时间的一部分；作为一个玩家，你从来不需要担心这个问题。
+
+[spoiler]
+[size=16pt][b]COMMCODE[/b][/size]
+Everyone using the Matrix has a personal commcode. Your commcode is your Matrix address, like a cell phone number or email address, to which your calls and messages are directed. Your commcode is usually registered with a paid Matrix service provider, though there are plenty of free and anonymous shadow-sites that offer the same service. Hackers, shadowrunners, and other criminals typically pay extra for the anonymity and extra security of an anonymous commcode. In fact, most shadowrunners have several commcodes, some of which they regularly change. 
+
+When you are online, your commlink is normally set to automatically link to your provider(s) so that all calls and messages are immediately forwarded to you. You can choose to cut this link and “run silent” in order to avoid the risk of being interrupted or of someone tracing that link; your messages will be stored until retrieved later. 
+
+Whenever you change your access ID, the new one must be re-associated with your commcodes. This process is part of the time taken to change your access ID; you never need to worry about it as a player.
+[/spoiler]
+
+[quote]
+[size=16pt][b]通讯链和交流[/b][/size]
+
+你的PAN将你与矩阵连接起来。更重要的是，它还将你和你的队友联系起来。由于通讯链之间可以很容易地共享数据，即使距离很远，暗影狂奔者也可以不间断地联系。低语麦克风、文本短信和直接神经界面允许在狂奔期间进行无声交流，图像、音频和视频可以实时共享。
+
+这种信息技术水平的实际结果是，玩家之间的谈话可以在游戏中进行，也就是说，"超游"信息在《暗影狂奔》中是公平的。一个玩家角色知道的任何事情都可以立即与团队的其他成员分享。
+
+当然，以这种方式联网意味着你的团队有一个电子足迹，可以被监听未授权广播的人发现。寻找战术上的平衡，避免被蜘蛛发现，是暗影狂奔团队中黑客角色的一部分。
+
+[spoiler]
+[size=16pt][b]COMMLINKS AND COMMMUNICATIONS[/b][/size]
+Your PAN connects you to the Matrix. More importantly, it also connects you to your teammates. Because of the ease with which data can be shared between commlinks, even over large distances, shadowrunners can be in constant contact. Subvocal microphones, text messaging, and direct neural interfaces allow for silent communication during a run, and images, audio, and video can be shared in real-time. 
+
+The practical upshot of this level of information technology is that table talk between players can be in-game, which is to say that “metagame” information is fair game in Shadowrun. Anything one player character knows can be instantly shared with the rest of the team. 
+
+Of course, networking in this manner means your team has an electromagnetic footprint that can be detected by someone watching for unauthorized broadcasts. Finding a tactical balance and avoiding detection by spiders is part of the role of the hacker on a shadowrun team.
+[/spoiler]
+[/quote]
+
+---
+
+[size=16pt][b]图标[/b][/size]
+
+图标是纯粹存在于矩阵中的东西的代表。你的化身在矩阵中由一个图标表示，你正在运行的程序、文件、代理、IC、节点的链接等也是如此。从外部看到的节点、数据包和物理设备的控制(如门锁的开关或公寓的环境控制)也在矩阵中以图标形式出现。
+
+图标有其自身的塑模。虽然一个图标的感知外型通常与它的功能相适应(例如，摩托车控制的车把或攻击程序的剑)，但它并不一定是这样。有时，所使用的隐喻是故意模糊不清或离奇的。一个攻击程序可以很容易地被塑模成一个奶油馅饼或者一个婴儿作为武器。使用矩阵侦察检定来辨别你可能感知到的东西。
+
+你的通讯链配备了许多选项来定制你的化身形象、文件、程序和其他图标。你可以使用标准选项，也可以用软件+编辑(10，1天)延续检定来设计你自己的图标。无论你是在货架上买的图标，还是自己塑模的图标，都可以通过一个功能库轻松地进行定制，你可以用不同的动画动作、颜色方案、可变的设计元素和其他数字皮肤效果来临时装饰它们。图标有许多形状和形式，从动画人物和拟人化的生物到更加艺术化或抽象的设计，如移动的瀑布或旋转的色彩图案。所有的化身程序都有默认的图标，以防用户没有自己的图标，通常是简单的白灰色无面人外形，印有设备制造商的风格化标志。偶尔，你所加载的程序的图标会成为你化身形象的补充，例如护甲程序的绿色发光力场或隐匿程序的模糊效果。
+
+[spoiler]
+[size=16pt][b]ICONS[/b][/size]
+An icon is the representation of something that exists purely in the Matrix. Your persona is represented by an icon in the Matrix, as are your running programs, files, agents, IC, links to nodes, etc. Nodes seen from the outside, data packages, and controls for physical devices (such as switches for door locks or environmental controls for an apartment) also appear as icons in the Matrix. 
+
+Icons have their own sculpting. While the perceived shape of an icon is often appropriate to its function (e.g., handlebars for a motorcycle control or a sword for an Attack program), it does not have to be so. Sometimes the metaphor used is intentionally obscure or outlandish. An Attack program could just as easily be sculpted as a cream pie or a baby as a weapon. A Matrix Perception Test is used to tell for certain what you may be perceiving.
+
+Your commlink comes equipped with a number of options for customizing your persona avatar, file, program, and other icons. You can use the standard options or design your own with an Software + Edit (10, 1 day) Extended Test. Whether you bought your icon off the shelf or sculpted your own, icons are easily customizable with a library of features and you can trick them out on the fly with different animated movements, color schemes, mutable design elements, and other digital skin effects. Icons take many shapes and forms, from animated characters and anthropomorphic creatures to more artsy or abstract designs like mobile waterfalls or swirling color patterns. All persona programs have default icons loaded in case the user does not have his own, usually simple blank-gray anonymous anthroform shapes often emblazoned with the device manufacturer’s stylized logo. Occasionally, the icons of programs you have loaded will be additions to your avatar, such as a glowing green force field of an Armor program or a blurring effect of a Stealth program.
+[/spoiler]
+
+---
+
+[size=16pt][b]节点[/b][/size]
+
+节点是矩阵中的一个虚拟空间。物理世界中的每一个设备都是矩阵中的一个节点(除非它关机了)。如果图标是矩阵中的"什么"，那么节点就是"哪里"。
+
+节点在VR中作为场所出现。图标在节点中与环境和彼此互动。当你第一次进入VR时，你的图标开始在你的通讯链的节点中，这个节点包含了你的PAN中的所有图标。
+
+[spoiler]
+[size=16pt][b]NODES[/b][/size]
+A node is a virtual space in the Matrix. Every device in the physical world projects a node in the Matrix (unless it is shut down). If icons are the “what” in the Matrix, nodes are the “where.” 
+
+Nodes appear in VR as places. Icons interact with the environment and one another in nodes. When you first enter VR, your icon starts in your commlink’s node, which contains icons for everything in your PAN.
+[/spoiler]
+
+[size=14pt][b]节点塑模[/b][/size]
+
+节点的塑模不仅仅是它的外观，还包括环境的行为。例如，化身可能被允许在一个节点中飞行，或者在天花板和地板上行走。这些细节是由所有者(有时是由调皮的黑客)设定的。
+
+与任何塑模一样，它通常与它所关联的设备的功能相适应，但并不总是如此。一个巨大的主机可以作为一个浴缸出现，而同时一个巨大的森林和城堡可能在一个简易的电动牙刷中找到。一个矩阵侦察检定将揭示真相(第228页)。
+
+[spoiler]
+[size=14pt][b]NODE SCULPTING[/b][/size]
+The sculpting of a node is not merely what it looks like, but also the behavior of the environment. For example, avatars might be allowed to fly in a node, or to walk on the ceiling as well as the floor. The details are set by the owner (and sometimes by mischievous hackers). 
+
+As with any sculpting, it is usually appropriate to the function of the device to which it is associated, but not always. A gigantic mainframe could appear as a bathtub, while a vast forest and castle may be found in a mere electric toothbrush. A Matrix Perception Test will
+reveal the truth (p. 228).
+[/spoiler]
+
+---
+
+[size=16pt][b]访问节点[/b][/size]
+
+当你在线时，你可以访问一个或多个节点。很多时候，你只是向节点请求信息，就像你使用现代万维网时那样。你向节点发送一个短信来获取一些数据，而节点则将其发回给你。如果你想实际访问矩阵中的节点，无论是做一些"现场"研究，黑入节点，还是只是打算和其他图标一起玩，你都需要登录到节点上。
+
+[spoiler]
+[size=16pt][b]ACCESSING NODES[/b][/size]
+While online, you can access one or more nodes. Much of the time, you simply request information from nodes, like you do when you use the modern World Wide Web. You send a message to the node for some data, and the node sends it back to you. If you want to actually visit the node in the Matrix, whether to do some “on-site” research, hack the node, or just hang out with other icons, you need to log on to the node.
+[/spoiler]
+
+[size=14pt][b]订阅[/b][/size]
+
+要连接到一个节点(除了你的化身正在运行的节点之外)，你必须订阅它。订阅是一个通过矩阵的双向通信链接。这是一个稳定的链接，可以维持很长一段时间。如果你想在矩阵中"旅行"到一个节点，你必须订阅该节点，这意味着你必须能够直接与它连接(通过有线连接，或者在相互的信号范围内)，或者通过矩阵网络建立一个路由。订阅一个节点是一个复杂动作(登录, 第231页)。当你登录到一个节点时，你的图标会出现在那里。
+
+你可以同时开启一个以上的订阅。每个化身的订阅数量限制为其系统等级的两倍(例如，在系统等级3的通讯链上的一个化身可以同时拥有最多六个活动订阅)。你不必订阅你的化身所运行的节点；你总是在该节点中，而不需要订阅它。
+
+[spoiler]
+[size=14pt][b]SUBSCRIPTIONS[/b][/size]
+To connect to a node (aside from the one on which your persona is running), you must subscribe to it. A subscription is a two-way communications link through the Matrix. This is a steady link that can be maintained for extended periods of time. You must subscribe to a node if you want to “travel” to it in the Matrix, which means that you must be able to either connect with it directly (with a wired connection, or when within mutual Signal range) or by establishing a route through the Matrix network. Subscribing to a node is a Complex Action (Log On, p. 231). When you log on to a node, your icon appears there. 
+
+You can have more than one subscription open at a time. Each persona is limited to a number of subscriptions equal to twice its System (e.g., a persona on a System 3 commlink could have up to six active subscriptions at a time). You do not have to subscribe to the node in which your persona is running; you are always in that node without the need to subscribe to it.
+[/spoiler]
+
+[size=14pt][b]多重订阅[/b][/size]
+
+同时订阅到多个节点是可能做到的。这意味着你可以在任何时候在矩阵的多个地方拥有图标。你知道在你的图标存在的所有节点中正在发生什么。你一次只能控制一个图标，但可以随意切换哪个是"活跃"图标。这对矩阵战斗有很大影响(在多个节点同时作战，第237页)。
+
+[spoiler]
+[size=14pt][b]MULTIPLE SUBSCRIPTIONS[/b][/size]
+It is possible to be subscribed to multiple nodes at once. This means you can have icons in multiple places in the Matrix at any given time. You are aware of what is happening in all nodes in which your icon exists. You may only control one icon at a time, but may switch which is the “acting” icon at will. This has ramifications for cybercombat (Simultaneous Combat in Multiple Nodes, p. 237).
+[/spoiler]
+
+[size=14pt][b]访问账户[/b][/size]
+
+当你登录到一个节点时，你是以一定的访问级别进行操作的，而这是由你的账户决定的。有四种类型的账户，公共账户、用户账户、安保账户和管理员账户，按访问权限从低到高的顺序排列。除了公共账户，获取访问账户级别需要授权，这将在下一节"授权和验证"中描述。
+
+一个公共账户是一个节点的"门厅"。在没有任何授权的情况下登录时，你会得到一个公共账户。公共账户通常允许用户访问关于该节点的公共信息，也可以允许少量的功能，如订购食物、购物、填写表格等，这取决于该节点的目的。大多数零售店、商场、餐馆和其他向公众开放的节点都向客户提供这种账户。
+
+用户账户提供给属于该节点的用户，如公司的雇员或矩阵夜总会的付费客户。拥有这种账户的图标一般被允许运行程序，创建和编辑文件，并执行节点的常规工作(不管是什么)，这取决于节点的功能。用户账户需要某种形式的授权才能访问。
+
+安保账户是为那些负责保护节点的用户准备的。这些用户被允许拥有用户访问的权限，以及删除文件、运行IC、注销用户和发起警报的能力。黑入安保账户的阈值提高3。
+
+管理员账户授予了用户对节点的完全访问权。没有任何行动或命令会被拒绝给一个管理员账户。大多数节点只为少数用户提供这种账户，或者只有一个。黑入管理账户的阈值提高6。
+
+外围节点的构造很简单，只有公共和管理员权限。管理员访问的黑入阈值提高并不适用于外围节点。
+
+[spoiler]
+[size=14pt][b]ACCESS ACCOUNTS[/b][/size]
+When you log on to a node, you do so at a certain access level, which is defined by your account. There are four types of accounts, public, user, security, and admin, in order of least to most access. Except for public accounts, access to an account level requires authorization, which is described in the next section, Authorization and Authentication. 
+
+A public account is a sort of “foyer” for a node. When logging on without any authentication, you get a public account. Public accounts usually allow the user to access public information about the node, and could also allow a small amount of functionality, like the ability to order food, shop, fill out forms, etc., depending on the node’s purpose. Most retail outlets, malls, restaurants, and other nodes open to the public offer this account to customers. 
+
+A user account is offered to users who belong in the node, like the employees of a company or paid customers of a Matrix nightclub. Icons with this account are generally allowed to run programs, create and edit files, and perform the usual work of the node (whatever that may be), depending on the function of the node. User accounts require some form of authorization to access. 
+
+A security account is for users who are responsible for safeguarding the node. These users are allowed the privileges of user access, plus the ability to delete files, run IC, log off users, and initiate alerts. The threshold for hacking a security account is increased by +3. 
+
+An admin (short for administrator) account grants a user full access to the node. No action or command is denied to an admin account. Most nodes only offer this account to a few users, or only one. The threshold for hacking an admin account is increased by +6. 
+
+Peripheral nodes are simple constructs and only have public and admin access. The hacking threshold increase for admin access does not apply to peripheral nodes.
+[/spoiler]
+
+[size=14pt][b]授权和认证[/b][/size]
+
+为了允许你访问任何超越公共账户的东西，节点必须得到三样东西。首先是你的访问ID，这是在你登录时自动给出的。第二，节点必须将你的访问ID与访问级别/账户权限相关联(例如，你的豆咖机拥有一个包含你的访问ID的列表，显示你在其节点上有一个管理员账户)；这被称为授权。第三，你必须有某种方式来证明你是拥有相关授权的人；这就是认证。
+
+节点可以采用一些方法来认证用户。对于低安保级别的节点，如开罐器或企业厕所，仅访问ID就足够了。
+
+节点可以在允许进入之前要求一个基本密码。基本密码由一组符号组成，你输入这些符号就可以登录到一个节点上。最常见的密码是字母与数字混合的字符串，不过感谢AR和VR技术，密码"符号"也可以由图像、曲调，甚至特定的动作组成。
+
+如果这还不够安全，链接密码需要特定某个人或某个设备的用户额外输入。这个密码与用户或他的通讯链的独特之处相联系。这可以是安保扫描仪的扫描(视网膜、指纹、掌纹等)或设备操作系统的正确签名或独特的RFID标签。如果扫描或签名与记录不一致，访问将被拒绝。
+
+密码锁是控制访问节点的最安全方式之一。密码锁是独特的加密模块，可插入通讯链或终端。许多公司要求远程办公人员使用这种插件。当一个用户试图登录到节点时，它就会查询该模块。如果它没有收到适当的代码，用户将被拒绝访问。
+
+[spoiler]
+[size=14pt][b]AUTHORIZATION AND AUTHENTICATION[/b][/size]
+In order to allow you access to anything beyond a public account, the node must be given three things. The first is your access ID, which is automatically given when you log on. Second, the node must have your access ID associated with an access level/account privileges (for example, your soycaf dispenser will have your access ID on a list that shows that you have an admin account on its node); this is called authorization. Third, you must have some way of proving you are the person who has the authorization in question; this is authentication. 
+
+There are a number of methods a node can employ to authenticate users. For low-security nodes like can openers or corporate restrooms, the access ID alone is enough. 
+
+A node could demand a basic passcode before permitting entry. Basic passcodes consist of sets of symbols that you enter to log on to a node. The most common passcodes are alphanumeric strings, but thanks to augmented and virtual reality, passcode “symbols” can also consist of images, tunes, or even specific movements.
+
+If this is not secure enough, a linked passcode requires an extra bit of input from the user specific to a person or a device. This passcode is linked to something the user or his commlink uniquely possesses. This can be a scan from a security scanner (retina, fingerprint, palm print, and so on) or the correct signature from the device’s OS or a unique RFID tag. If the scan or signature doesn’t match the records, access will be denied. 
+
+Passkeys are one of the most secure ways of controlling access to a node. Passkeys are unique encrypted modules that plug into a commlink or terminal. Many corporations require this accessory for telecommuting workers. When a user attempts to log on to the node, it queries the module. If it does not receive the proper code, the user is denied access.
+[/spoiler]
+
+---
+
+[size=16pt][b]使用AR与VR[/b][/size]
+
+增强现实(AR)和虚拟现实(VR)之间有一些相似之处。你可以使用其中任何一种进行矩阵动作，通常有类似的效果。然而，两者的区别是深刻的。在AR中，你可以感知到矩阵，但在VR中，你可以身临其境。AR为用户提供了一些现实2.0的东西，但VR可以把你带到完全不同的世界，在那里规则会改变，甚至现实也可以按照你的意愿被扭曲。
+
+在20世纪70年代，几乎每个人都在AR或VR中度过他们清醒时间的重要部分。
+
+在AR和VR之间切换是一个自由动作。
+
+[spoiler]
+[size=16pt][b]USING AUGMENTED AND VIRTUAL REALITY[/b][/size]
+There are a few similarities between augmented reality and virtual reality. You can perform Matrix actions using either, often with similar effect. The differences, however, are profound. In AR, you can perceive the Matrix, but in VR you can be there. AR offers something of a Reality 2.0 to the user, but VR can take you to entirely different worlds where the rules change and even reality can be bent to your will. 
+
+In the 2070s, almost everyone spends a significant part of their waking hours in either AR or VR.
+
+Switching between AR and VR is a Free Action.
+[/spoiler]
+
+[size=14pt][b]增强现实[/b][/size]
+
+根据不同的情况，AR可以是一种好处，也可以是一种坏处。在大多数情况下，AR仅仅通过提供有用的信息就能带来好处。如果它直接帮助了你正在进行的任务，例如在修理物品时叠加内部图示、帮助功能和实时诊断，那么GM可以在检定中应用一个适当的骰池修正(通常是+1，但也可能多达+3)。
+
+AR也可以是一种重要的战术辅助手段。如果你的狂奔团队正在运行一个彼此链接的PAN网络，实时共享数据--摄像机画面、无人机传感器拾获、交互地图等等--你就会有一个战术优势。根据GM的决定，这种优势可以在某些检定中以额外dp的形式出现，对团队中的每个链接成员适用主动性奖励，对对手进行突袭检定等。
+
+AR也可以是一个缺点。例如，你在进行数据搜索的同时在脑海中召开电话会议，你就不太可能注意到一个食尸鬼在你身后偷袭。垃圾邮件和企业广告擅长绕过你的AR过滤器，所以你可能会发现自己在不恰当的时刻被侵入性的广告信息轰炸。同样，如果有人黑进了你的通讯链，你可能会被输入错误的数据，或者被突然的全方位的感官爆炸所袭击。在这种情况下，GM会应用适当的修正(通常是-1，但也可能多达-3)。
+
+[spoiler]
+[size=14pt][b]AUGMENTED REALITY[/b][/size]
+Depending on the situation, AR can be a bonus or a detriment. In most cases, AR will be beneficial simply by providing useful information. If it directly aids a task you are undertaking, such as overlaying internal schematics, help features, and real-time diagnostics while repairing an item, then the gamemaster can apply an appropriate dice pool modifier (usually +1 but possibly as high as +3) to the test. 
+
+AR can also be an important tactical aid. If your runner team is operating a linked PAN network, sharing data in real time—camera feeds, drone sensor pickups, interactive maps, etc.—you’re going to have a tactical edge. At the gamemaster’s discretion, this advantage can come in the form of extra dice for certain tests, applying an Initiative bonus to each meshed member of the team, a Surprise Test for the opposition, etc. 
+
+AR can also be a drawback. If, for example, you are simultaneously performing a data search and holding a conference call in your head, you are less likely to notice a ghoul sneaking up behind you. Spam and corp adverts specialize at bypassing your AR filters, so you may find yourself bombarded by intrusive infomercials at inopportune moments. Likewise, if someone hacks your commlink, you may be fed false data or blitzed with a sudden full-volume sensory blast. The gamemaster applies appropriate modifiers (usually –1 but possibly –3 dice) in such situations.
+[/spoiler]
+
+[size=14pt][b]虚拟现实[/b][/size]
+
+在VR中，你"存在"于你的化身在矩阵中所处的位置。你要么从你自己的通讯链的节点开始，要么从你所订阅的一个节点开始，然后从那里"移动"到其他节点。在矩阵中，物理距离是没有意义的，它是网络连接、可用内存、交换系统和传输速率的问题，而不是实际的米和公里。到达世界另一端的节点几乎是瞬间的事。
+
+来自拟感模块的拟感信号将实际矩阵的复杂代码结构转换为图形图标和其他感官数据(包括情感)。你在全沉浸VR中看到的每个物体都是一个图标。这些图标代表程序、设备、系统和其他用户。在全沉浸VR中所经历的一切，都是一种符号化的表现。并非所有的图标都是它们看起来的样子。要知道某样东西到底是什么，你需要用矩阵侦察检定来分析它（见第228页）。
+
+全沉浸VR有多"真实"？它的大部分看起来都是计算机生成的。无论细节的程度多么令人震惊，甚至是照片般的逼真，它仍然明显是人工的。都市传奇和黑客传说描述了矩阵的一些角落，它们与现实世界几乎没有区别--被称为紫外光节点的神话般的危险地方。
+
+感受到VR矩阵的全部光辉，物理感官就会被完全浸没。当处于VR中，在物理世界中采取的任何行动都会受到-6的骰池惩罚。
+
+VR可以有两种体验方式：更安全的冷模或更强大并危险的热模。
+
+[spoiler]
+[size=14pt][b]VIRTUAL REALITY[/b][/size]
+In VR, you “exist” wherever your persona is within the Matrix. You start either in the node of your own commlink or one of the nodes to which you are subscribed and from there “move” to other nodes. Physical distance is meaningless within the Matrix—it’s all a matter of network connections, available memory, switching systems, and transmission rates, not actual meters and kilometers. Getting to a node on the other side of the world is practically instantaneous. 
+
+The simsense signal from the sim module translates the complex code structures of the actual Matrix into graphical icons and other sensory data (including emotions). Every object you see in full VR is an icon. These icons represent programs, devices, systems, and other users. Everything experienced in full VR is a symbolic representation. Not all icons are what they appear to be. To tell what something really is, you need to analyze it with a Matrix Perception Test (see p. 228). 
+
+How “real” is full VR? Most of it looks computer-generated. No matter how astounding or even photo-realistic the level of detail, it is still obviously artificial. Urban legend and hacker lore describe corners of the Matrix that are virtually indistinguishable from the real world— mythical and dangerous places called ultraviolet nodes. 
+
+Perceiving the VR Matrix in its full glory overwhelms the physical senses. Any action taken in the physical world while in VR suffers a –6 dice pool penalty. 
+
+Virtual reality can be experienced two ways: the safer cold sim or the more powerful and dangerous hot sim.
+[/spoiler]
+
+[size=14pt][b]冷模[/b][/size]
+
+冷模是标准的、合法的VR。当你完全沉浸在VR中时，你以思维的速度运作。你已经把自己从肉体上切断了，通过直接的神经输入发出数字指令。与肉体的速度相比，你在矩阵中的速度快如闪电。
+
+当使用冷模在完全的VR中操作时，你使用你的矩阵主动性，而不是你的物理主动性。矩阵主动性等于你的反应+直觉，并且你会得到一个额外的主动性流程（总共两个）。
+
+[spoiler]
+[size=14pt][b]COLD SIM[/b][/size]
+Cold sim is standard, legal VR. When you are fully immersed in virtual reality, you operate at the speed of thought. You’ve cut yourself off from your flesh, making digital commands via direct neural input. Compared to physical meat speeds, you are lightning fast in the Matrix. 
+
+When operating in full VR using cold sim, you use your Matrix Initiative rather than your physical Initiative. Matrix Initiative equals your Response + Intuition, and you receive an extra Initiative Pass (for a total of two).
+[/spoiler]
+
+[size=14pt][b]热模[/b][/size]
+
+热模的接口已经被修改，以绕过保护你的神经系统不受破坏性生物反馈的拟感峰值限制器。冷模类似于合法的模拟轻弹，而热模接口的信号强度与线头从BTL芯片得到的闪烁电流相当。这种输入的强度使你能够在"比真实更真实"的条件下体验矩阵。这样做似乎是纯粹的疯狂，因为即使是随机的线路噪音也可能转化为潜在的致命反馈，但许多黑客依靠增强的信号强度为他们提供所需的速度。在热模下，你会变得高度警觉，因为你的每一个感官和每一个神经元都会对通过矩阵流转的机器代码无比敏感。你可以从字面上感觉到程序代码在你的手指下运行，因为你的化身翻译了更大程度的数据，而这些仅仅通过基本感官是无法感知的。
+
+当使用热模进行全沉浸VR操作时，使用你的矩阵主动性而不是你的物理主动性。热模的矩阵主动性等于你的反应+直觉+1，你会得到两个额外的主动性流程（总共三个）。在使用热模时，你还会在所有的矩阵检定中得到一个+2的骰池奖励。
+
+要改造一个拟感模块，使其能在热模模式下运行，你必须做一个硬件+逻辑(10，1小时)的延续检定。以这种方式改造拟感模块在大多数地区是非法的(因为它也允许使用BTL，第259页)。热模也使你容易受到黑IC的致命影响(第237页)。通过他们的活体化身进入VR的超链者总是使用热模。
+
+热模可以像使用BTL一样令人上瘾（物质滥用，第256页）。如果GM觉得某个角色过多地使用热模，他可以要求进行成瘾检定。
+
+[spoiler]
+[size=14pt][b]HOT SIM[/b][/size]
+A hot sim interface has been modified to bypass the simsense peak limiters that protect your nervous system from damaging biofeedback. Whereas cold sim is analogous to a legal sim flick, the signal strength of a hot sim interface is on par with the brainkicking current a wirehead gets from a BTL chip. The intensity of this input allows you to experience the Matrix in better-than-real conditions. It may seem like sheer madness to redline this way, as even random line noise could translate into potentially lethal feedback, but many hackers rely on the boosted signal strength to provide them with the speed they need. Under hot sim, you become hyper-alert, as every sense and every neuron becomes sensitive to the translated machine code streaming through the Matrix. You can literally feel the code of a program running under your fingers as your persona translates a wider degree of data that simply could not be perceived through the basic senses alone. 
+
+When operating with full VR using hot sim, use your Matrix Initiative rather than your physical Initiative. Hot sim Matrix Initiative equals your Response + Intuition + 1, and you receive two extra Initiative Passes (for a total of three). You also receive a +2 dice pool bonus to all Matrix tests while using hot sim.
+
+To modify a sim module so that it can be run in hot sim mode, you must make an Hardware + Logic (10, 1 hour) Extended Test. Modifying a sim module in this way is illegal in most jurisdictions (as it also allows use of BTLs, p. 259). Hot sim also makes you vulnerable to the lethal aspects of Black IC (p. 237). Technomancers in VR via their living persona always use hot sim. 
+
+Hot sim can be as addictive as BTL use (Substance Abuse, p. 256). If the gamemaster feels a character is using hot sim too much, she can call for an Addiction Test.
+[/spoiler]
+
+[size=14pt][b]矩阵中的属性[/b][/size]
+
+在矩阵中，你离开你的肉体，用你的思想、你的智慧和你携带的程序在无线世界中穿行。你的属性在你运行的程序(或复合程式)面前处于次要地位。即使是像逻辑这样的精神属性，在300万倍或更快的速度优势和每一个动作都需要计算数以千计的操作面前也显得很无力。归根结底，你的思想只是在命令你的软件和硬件做事。你的能力与你使用的程序和系统一样好。
+
+在矩阵检定中，检定的属性部分被替换成程序或矩阵属性。例如，取代使用炮术+敏捷来操纵一台突击无人机开火，你会用炮术+命令来操作中型挂载位开火。所有适用于属性的规则都适用于程序或矩阵属性。
+
+这种替代只适用于矩阵动作或完全在矩阵中的目标。与设备的交互通常使用属性，但使用设备与节点或图标交互需要使用程序或矩阵属性。
+
+[i]Clockwork的祖母不知道如何使用通讯链。她刚刚在抽奖活动中赢得了一个新的Fairlight Caliban，并试图启动它：根据GM的说法，这是一个计算机+逻辑(1)检定。她成功了，并且用它在他给她的所有文件中用浏览程序找到了Clockwork的通讯码。这个检定应该是数据搜索+浏览。[/i]
+
+[spoiler]
+[size=14pt][b]ATTRIBUTES IN THE MATRIX[/b][/size]
+In the Matrix, you leave your meat body behind and surf the wireless world with your mind, your intellect, and the programs you carry. Your attributes take a back seat to the programs (or complex forms) you run. Even Mental attributes like Logic are feeble before a three-million-toone-or-better speed advantage and the need to compute thousands of operations with every action taken. Ultimately your mind is simply commanding your software and hardware to do things. You’re only as good as the programs and systems you use. 
+
+In Matrix tests, the attribute portion of the test is replaced with a program or Matrix attribute. For example, rather than using Gunnery + Agility to fire from an assault drone, you would use Gunnery + Command if you were firing a mounted medium machine. All rules that apply to attributes apply to programs or Matrix attributes instead.
+
+This substitution only applies for Matrix actions or for targets entirely in the Matrix. Interacting with a device would employ attributes normally, but using a device to interact with a node or icon would require that a program or Matrix attribute be used instead.
+
+[i]Clockwork’s grandmother has no idea how to use a commlink. She just won a new Fairlight Caliban in a raffle, and tries to turn it on: a Computer + Logic (1) Test, according to the gamemaster. She succeeds and uses it to find Clockwork’s commcode in all of the files that he gave her using a Browse program. The test would be Data Search + Browse.[/i]
+[/spoiler]
+
+[quote]
+[size=14pt][b]使用属性[/b][/size]
+
+矩阵的核心游戏机制与《暗影狂奔》技能使用的基本技能+属性模式不同。这是有意为之的，并在《矩阵》中的属性部分进行了解释。然而，小组可能更喜欢精简机制或更加强调属性，所以属性可以被重新纳入各种矩阵检定中。
+
+要做到这一点，在每个简单、对抗或延续检定中，用适当的属性(通常是逻辑)取代程序或复合程式。每个矩阵检定所能产生的最大成功数（不是净成功数）被限制到程序或复合程式的等级，其方式类似于法术攻击的成功数被法术的强度所限制（见第118页的强度）。代理、IC和网精将使用他们的自驾等级来代替所需的属性。
+
+另外，各种矩阵检定可以保持不变。取而代之的是，属性(同样，通常是逻辑)以上述同样的方式限制每种检定的成功数（而不是净成功数）。在这两种情况下，每个矩阵行动都需要使用适当的程序。
+
+[spoiler]
+[size=14pt][b]USING ATTRIBUTES[/b][/size]
+The core Matrix game mechanics diverge from the basic Skill + Atribute model of Shadowrun skill use. This is intentional and is explained under Attributes in the Matrix. However, groups may prefer to streamline mechanics or give a greater emphasis to attributes, so attributes may be factored back into the various Matrix tests.
+To do this, replace the program or complex form in each Success, Opposed, or Extended Test with the appropriate attribute (usually Logic). The maximum number of hits (not net hits) that can be generated by each Matrix Test is limited to the rating of the program or complex form in a manner similar to the way Spellcasting hits are limited by the Force of a spell (see Force, p. 118). Agents, IC, and sprites would use their Pilot rating in place of the attribute required. 
+Alternatively, the various Matrix Tests can remain unchanged. Instead, the attribute (again, usually Logic) limits the hits (not net hits) of every test in the same manner described above. In either case, each Matrix Action requires the use of the appropriate program.
+[/spoiler]
+[/quote]
