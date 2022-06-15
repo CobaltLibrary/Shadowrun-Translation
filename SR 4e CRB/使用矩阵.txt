@@ -1,0 +1,211 @@
+[color=brown][size=16pt][b]使用矩阵[/b][/size][/color]
+
+每个暗影狂奔者都拥有基本的计算机和电子设备技能(除非是拥有无能力或未受教育的负面特质，第95和96页)，并且在联网、搜索数据和使用矩阵方面有个人经验。第六世界的标准居民经常使用他们的通讯链和PAN来拨打电信电话，体验AR，搜索数据，与队友保持联系，并管理他们的财务。当然，这并不意味着他们是黑客或超链者。想真正在矩阵中狂奔的角色需要技能、软件和技巧来统治这个虚拟世界。
+
+[spoiler]
+[color=brown][size=16pt][b]USING THE MATRIX[/b][/size][/color]
+Every shadowrunner possesses basic computer and electronics skills (barring the Incompetent or Uneducated negative qualities, p. 95 and 96) and has personal experience with networking, searching for data, and using the Matrix in general. Standard denizens of the Sixth World use their commlinks and PANs on a constant basis to make telecom calls, experience augmented reality, search for data, keep in touch with teammates, and manage their finances. This, of course, does not make them hackers or technomancers. Characters who want to truly run the Matrix need the skills, software, and techniques to rule the virtual landscape.
+[/spoiler]
+
+---
+
+[size=16pt][b]技能[/b][/size]
+
+在矩阵中工作的基础是你的技能组。对任何矩阵专家来说，无论是黑客、技术员还是操纵员，最重要的技能都在破解技能组和电子战技能组中。这些技能和它们所包含的行动和程序如下。
+
+[spoiler]
+[size=16pt][b]SKILL[/b][/size]
+The basis of any work in the Matrix is your skill set. The most important skills to any Matrix specialist, whether hacker, technomancer, or rigger, lie within the Cracking Skill Group and the Electronics Skill Group. The skills and the actions and programs they encompass are as follows.
+[/spoiler]
+
+[size=14pt][b]使用计算机技能[/b][/size]
+
+计算机技能对矩阵中的大多数操作至关重要。它被用来操作各种类型的计算机，无论是专用的机器，如大型终端、通讯链、冰箱或是其他任何制成品。它也被用于编辑、修复图标、追踪用户和非常重要的分析图标的操作。
+
+[spoiler]
+[size=14pt][b]USING COMPUTER[/b][/size]
+The Computer skill is vital to most operations in the Matrix. It is used to operate computers of all kinds, whether dedicated machines like mainframes or commlinks or refrigerators or just about any other manufactured product. It is also used in the Edit, Repair Icon, Trace User, and the highly important Analyze Icon actions.
+[/spoiler]
+
+[size=14pt][b]使用矩阵战斗技能[/b][/size]
+
+就像在物理世界中一样，有时你无法避免一场战斗。矩阵战斗技能是用来攻击矩阵中的图标的。它只与矩阵攻击动作一起使用。
+
+[spoiler]
+[size=14pt][b]USING CYBERCOMBAT[/b][/size]
+Just as in the physical world, sometimes you cannot avoid a fight. The Cybercombat skill is used to attack icons in the Matrix. It is used with the Matrix Attack action exclusively.
+[/spoiler]
+
+[size=14pt][b]使用数据搜索技能[/b][/size]
+
+数据搜索技能代表了一个人物在搜索程序的帮助下筛选大量数据的能力。搜索使用的参数越智能，在另一边得到的信息就越好。它与数据搜索动作一起使用，但也可以与多个程序一起使用，这取决于所要探索的信息。
+
+[spoiler]
+[size=14pt][b]USING DATA SEARCH[/b][/size]
+The Data Search skill represents a character’s ability to sift through large amounts of data with the aid of search programs. The smarter the search parameters going into a search, the better the information one gets on the other side. It is used with the Data Search action, but may be used with multiple programs, depending on what information is being explored.
+[/spoiler]
+
+[size=14pt][b]使用电子战技能[/b][/size]
+
+这项技能是关于控制电波的。在无线世界中，有能力搜寻隐藏的节点，从无线电通信中收集情报，破解对手的密码，并在保护自己的信号完整性的同时屏蔽他人的信号是非常重要的。这项技能用于捕捉无线通信，检测隐藏节点，以及启动解密动作。
+
+[spoiler]
+[size=14pt][b]USING ELECTRONIC WARFARE[/b][/size]
+This skill is all about controlling the airwaves. In a wireless world, it is important to have the ability to find hidden nodes, collect intelligence from radio traffic, crack your opponents’ codes, and block others’ signals while protecting the integrity of your own. This skill is used in the Capture Wireless Traffic, Detect Hidden Nodes, and Initiate Decryption actions.
+[/spoiler]
+
+[size=14pt][b]使用骇入技能[/b][/size]
+
+如果你的目标是在矩阵中行为不端，这就是你应该拥有的技能。这项技能衡量的是滥用矩阵软件的能力，找到并利用安保和其他程序的弱点。与此技能相关的动作清单相对较长。破坏节点，破坏程序，解除数据炸弹，后台入侵，拦截流量，重定向跟踪，以及伪造指令。
+
+[spoiler]
+[size=14pt][b]USING HACKING[/b][/size]
+If you aim to misbehave in the Matrix, this is the skill to have. This skill measures the ability to misuse Matrix software, finding and exploiting weaknesses in security and other programs. The list of actions associated with this skill is relatively long: Crash Node, Crash Program, Disarm Data Bomb, Hack on the Fly, Intercept Traffic, Redirect Trace, and Spoof Command.
+[/spoiler]
+
+[size=14pt][b]使用硬件技能[/b][/size]
+
+硬件技能在矩阵中很少发挥作用，但它影响到母体运行的一切。用它来安装升级你的通讯器。你也可以用它来建造你自己的硬件升级；使用硬件制造表，记住零件的成本是升级的一半，并遵循"使用技术技能来建造或修理"的规则，第138页。
+
+[spoiler]
+[size=14pt][b]USING HARDWARE[/b][/size]
+The Hardware skill rarely comes into play when in the Matrix, but it affects everything on which the Matrix runs. Use it to install upgrades to your commlink. You can also use it to build your own hardware upgrades; use the Building Hardware Table, keeping in mind that the cost for parts is half the purchase price of the upgrade and following the rules for Using Technical Skills to Build or Repair, p. 138.
+[/spoiler]
+
+[quote]
+[b]硬件制造表[/b]
+
+[table]
+[tr][td]通讯链元件[/td][td]阈值[/td][td]时间间隔[/td][/tr]
+[tr][td]处理器(响应能力)[/td][td]等级 x 2[/td][td]1天[/td][/tr]
+[tr][td]拟感模块[/td][td]10[/td][td]1天[/td][/tr]
+[tr][td]无线电(信号强度)[/td][td]等级 x 2[/td][td]1天[/td][/tr]
+[/table]
+
+[spoiler]
+[b]BUILDING HARDWARE TABLE[/b]
+
+[table]
+[tr][td]COMMLINK COMPONENT[/td][td]THRESHOLD[/td][td]INTERVAL[/td][/tr]
+[tr][td]Processor(Response)[/td][td]Rating x 2[/td][td]1 Day[/td][/tr]
+[tr][td]Sim Module[/td][td]10[/td][td]1 Day[/td][/tr]
+[tr][td]Wireless Radio(Signal)[/td][td]Rating x 2[/td][td]1 Day[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[size=14pt][b]使用软件技能[/b][/size]
+
+在使用矩阵时，对这个技能的需求不大，除非你是一个使用线程化规则的超链者，第240页。按照今天的标准，矩阵程序是巨大而复杂的，但你可以用这个技能和软件编码表从头开始编写自己的程序。
+
+这项技能还有许多高级用途，可以在矩阵核心规则书《Unwired》中找到。
+
+[spoiler]
+[size=14pt][b]USING SOFTWARE[/b][/size]
+There is not much call for this skill while using the Matrix, unless you are a technomancer using the rules for Threading, p. 240. Matrix programs are huge and complex by today’s standards, but you can write your own from scratch using this skill and the Coding Software Table. 
+
+There are also numerous advanced uses of this skill that can be found in the core Matrix rulebook, Unwired.
+[/spoiler]
+
+[quote]
+[b]软件编码表[/b]
+
+[table]
+[tr][td]软件类型[/td][td]阈值[/td][td]时间间隔[/td][/tr]
+[tr][td]代理/IC/自驾[/td][td]等级 x 3[/td][td]3月[/td][/tr]
+[tr][td]自动软件[/td][td]等级 x 2[/td][td]6月[/td][/tr]
+[tr][td]通用程序[/td][td]等级[/td][td]1月[/td][/tr]
+[tr][td]防火墙[/td][td]等级 x 2[/td][td]3月[/td][/tr]
+[tr][td]黑客程序[/td][td]等级 x 2[/td][td]1月[/td][/tr]
+[tr][td]系统[/td][td]等级 x 2[/td][td]6月[/td][/tr]
+[/table]
+
+[spoiler]
+[b]CODING SOFTWARE TABLE[/b]
+
+[table]
+[tr][td]SOFTWARE[/td][td]THRESHOLD[/td][td]INTERVAL[/td][/tr]
+[tr][td]Agents/IC/Pilot[/td][td]Rating x 3[/td][td]3 months[/td][/tr]
+[tr][td]Autosofts[/td][td]Rating x 2[/td][td]6 months[/td][/tr]
+[tr][td]Common Use Programs[/td][td]Rating[/td][td]1 month[/td][/tr]
+[tr][td]Firewall[/td][td]Rating x 2[/td][td]3 months[/td][/tr]
+[tr][td]Hacking Programs[/td][td]Rating x 2[/td][td]1 month[/td][/tr]
+[tr][td]System[/td][td]Rating x 2[/td][td]6 months[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[size=14pt][b]使用共鸣技能[/b][/size]
+
+共鸣技能，即编译、反编译和注册，对超链者来说非常重要。它们被用来从共鸣中创造(有些人会说是召唤)强大的网精并进入矩阵。这些技能在《超链者》，第239页有详细描述。
+
+[spoiler]
+[size=14pt][b]Using Resonance Skills[/b][/size]
+The Resonance skills, Compiling, Decompiling, and Registering, are important to technomancers. They are used to create (some would say summon) powerful sprites out of the Resonance and into the Matrix. They are described fully in Technomancers, p. 239.
+[/spoiler]
+
+---
+
+[size=14pt][b]矩阵侦察[/b][/size]
+
+矩阵中的感知完全是计算机生成的。你看到的图标和节点实际上并不存在，它们的外观和声音(以及感觉、气味和味道，在VR或较复杂的AR中)是图标的所有者或你的现实过滤器程序选择的幻觉。你依赖你的通讯链和程序来告诉你你在矩阵中的"周围"是什么。绝大多数的矩阵活动(数据流量、后台进程等)是非常无趣的，会很快淹没你的感官，所以大部分都被过滤掉了。相反，矩阵的基本感知通常局限于一个非常狭窄的子集，例如你正在与之互动的用户的节点和图标，菜单，ARO，以及你调用的任何显示功能。
+
+如果你想专门检查一个ARO、用户、程序、IC、节点、文件等，使用简单动作分析图标/节点(第229页)。使用你的计算机+分析(而不是侦察+直觉)做一个矩阵侦察检定。你的成功数决定了检定的成功程度。每一个成功，你都可以要求得到有关该物体的一个信息--这可能是类型、等级、警报状态或任何其他相关的信息；你可以从矩阵侦察检定中收集到的可能的细节清单可以在矩阵侦察数据表中找到。
+
+如果你的目标正在运行一个隐匿程序，那么矩阵侦察检定就变成了一个对抗检定，目标会投骇入+隐匿(或者程序或节点的防火墙+隐匿)作为对抗的骰池。这个检定的成功数会减少你的成功数，从而减少你获得的信息量。如果你没有获得净成功，那么目标不会是隐形的，但是它的图标已经融入了数据流量的背景中，逃脱了你的注意。
+
+当你访问一个节点时，你可以设置你的分析程序用一个简单动作自动扫描和检测该节点上的其他用户/图标。该程序将使用你的计算机技能自动扫描该节点；GM会秘密地对你的程序进行矩阵侦察检定。它将向你报告任何新图标的存在。只要你在那个节点上，它就会一直保持这个任务，直到你把它用于其他目的，或者你把它停用为止。
+
+你也可以使用矩阵侦察来确定是否有人通过这个节点窃听了矩阵的流量(拦截流量，第230页)，或者检测网精可以执行的一些任务(网精，第240页)。
+
+超链者在所有矩阵侦察检定中获得+2的骰池修正奖励。
+
+[spoiler]
+[size=14pt][b]MATRIX PERCEPTION[/b][/size]
+Perception within the Matrix is entirely computer-generated. The icons and nodes you see are not actually there, and the way they look and sound (and feel and smell and taste, in VR or sophisticated AR) are illusions chosen by the owners of the icons or your Reality Filter program. You are reliant on your commlink and programs to tell you what is “around” you in the Matrix. The vast majority of Matrix activity (data traffic, background processes, etc.) is highly uninteresting and would quickly overwhelm your senses, so the bulk of it is filtered out. Instead, basic Matrix perception is usually limited to a very narrow subset of things, such as the nodes and icons of users with which you are interacting, menus, AROs, and any display features you call up. 
+
+If you wish to specifically examine an ARO, users, programs, IC, nodes, files, etc., take a Simple Action to Analyze Icon/Node (p. 229). Make a Matrix Perception test using your Computer + Analyze program (rather than Perception + Intuition). Your hits determine how successful the examination is. For each hit scored, you can ask for one piece of information about the object—this could be type, rating, alert status, or any other pertinent information; a list of possible details you could gather from a Matrix Perception test can be found in the Matrix Perception Data sidebar. 
+
+If your target is running a Stealth program, the Matrix Perception test becomes an Opposed Test, with the target rolling Hacking + Stealth (or Firewall + Stealth for programs or nodes) as the opposing dice pool. The hits from this test reduce your hits and consequently the amount of information you get. If you garner no net hits, the target is not invisible as such, but its icon has melded into the background of data traffic, escaping your notice. 
+
+When you are accessing a node, you may set your Analyze program to automatically scan and detect other users/icons on that node with a Simple Action. The program will automatically scan the node using your Computer skill; the gamemaster secretly conducts Matrix Perception tests for your program. It will report the presence of any new icons to you. It will maintain that task for as long as you are on that node, until you use it for another purpose, or until you deactivate it. 
+
+You may also use Matrix Perception to determine whether someone has tapped wired Matrix traffic through this node (Intercept Traffic, p. 230) or to detect some of the tricks that sprites can perform (Sprites p. 240). 
+
+Technomancers receive an inherent +2 dice pool bonus on all Matrix Perception Tests.
+[/spoiler]
+
+[quote]
+[b]矩阵侦察数据表[/b]
+
+这是一个当你使用矩阵侦察时可能的信息列表，你可以询问关于图标和节点的信息。它是一个有代表性的列表，但不是一个详尽的列表。
+- 用户或独立代理的访问ID 
+- 节点的警报状态
+- 文件的编辑日期
+- 一个控制图标的功能
+- 对另一个节点的隐藏访问 
+- 图标受到的矩阵伤害
+- 数据炸弹的存在
+- 角色或代理运行的程序
+- 一个矩阵属性的等级
+- 类型(文件、用户、代理、程序类型等) 
+- 一个文件或节点是否被加密
+- 追踪程序是否正在运行
+
+[spoiler]
+[b]MATRIX PERCEPTION DATA[/b]
+This is a list of possible pieces of information you can ask about icons and nodes when you use Matrix Perception. It is a representative list, but not an exhaustive one.
+• Access ID of a user or independent agent 
+• Alert status of node 
+• Edit date of a file 
+• Function of a control icon 
+• Hidden access to another node 
+• Matrix damage taken by icon 
+• Presence of a data bomb 
+• Programs run by persona or agent 
+• Rating of one Matrix attribute 
+• Type (file, user, agent, program type, etc.) 
+• Whether a file or node is encrypted
+• Whether a Trace is running
+[/spoiler]
+[/quote]

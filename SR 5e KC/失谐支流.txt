@@ -22,7 +22,7 @@ Like the butterflies from which they take their name, Morphinae flit to whatever
 [quote]
 [b]优势[/b]
 • 所有以主机或IC为目标的复合程式带来的衰褪减少2点。
-• 在编制和解码诱错网精和泛用网精时享受+2骰池加值
+• 在编译和解码诱错网精和泛用网精时享受+2骰池加值
 
 [spoiler]
 [b]BENEFITS[/b]
@@ -70,7 +70,7 @@ Apophenia is a psychological condition in which a person perceives random events
 [quote]
 [b]优势[/b]
 • 所有以设备为目标的复合程式带来的衰褪减少2点。
-• 在编制和解码数据网精和泛用网精时享受+2骰池加值。
+• 在编译和解码数据网精和泛用网精时享受+2骰池加值。
 
 [spoiler]
 [b]BENEFITS[/b]
@@ -117,7 +117,7 @@ The Greek goddess of discord and strife, Eris provides a fitting label for this 
 [quote]
 [b]优势[/b]
 • 所有以其他化身为目标的复合程式带来的衰褪减少2点。
-• 在编制和解码破解网精和泛用网精时享受+2骰池加值
+• 在编译和解码破解网精和泛用网精时享受+2骰池加值
 
 [spoiler]
 [b]BENEFITS[/b]
