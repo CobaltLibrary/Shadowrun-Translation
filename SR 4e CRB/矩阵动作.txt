@@ -1,0 +1,512 @@
+[color=brown][size=16pt][b]矩阵动作[/b][/size][/color]
+
+以下动作是可以由用户在AR或VR中执行的矩阵动作。每个矩阵动作都需要使用一个正在运行的程序(或相应的复合程式)--在该动作括号中列出--和一个适当的技能。请注意，这并不是一份可以在矩阵中执行的行动的详尽清单，而是用于游戏机制的一份被指定为"矩阵动作"的清单，例如使用热模的奖励。
+
+[spoiler]
+[color=brown][size=16pt][b]MATRIX ACTIONS[/b][/size][/color]
+The following actions are Matrix actions and may be performed by users in AR or VR. Every Matrix action requires use of a running program (or corresponding Complex Form)—listed in parentheses with the action—and an appropriate skill. Note that this is not an exhaustive list of actions that may be performed in the Matrix, but a list of actions designated as “Matrix actions” for the purposes of game mechanics, such as the bonus for using hot sim.
+[/spoiler]
+
+---
+
+[size=16pt][b]自由动作[/b][/size]
+
+
+
+[size=14pt][b]修改/切换图标(系统)[/b][/size]
+
+你可以改变代表你的化身或你拥有的某个程序、文件或节点的图标的某个细节，或者将图标切换到你储存的预渲染图标。
+
+[spoiler]
+
+[size=16pt][b]Free Actions[/b][/size]
+
+[size=14pt][b]ALTER/SWAP ICON (SYSTEM)[/b][/size]
+You change a detail of an icon representing your persona or one of the programs, files, or nodes you own, or switch the icon to a pre-rendered icon you have stored.
+[/spoiler]
+
+[size=14pt][b]切换链接设备模式(系统)[/b][/size]
+
+你可以改变矩阵设备的运行模式，该设备通过订阅或由于你的访问ID被设备信任而与你的化身相联系。改变模式包括武器发射模式(第147页)、开/关状态、咖啡机设置、恒温器温度、电梯楼层等。
+
+[spoiler]
+[size=14pt][b]CHANGE LINKED DEVICE MODE (SYSTEM)[/b][/size]
+You change the mode of a Matrix device that is linked to your persona either by a subscription or due to your access ID being trusted by the device. Mode changes include weapon firing modes (p. 147), on/off status, coffee maker settings, thermostat temperature, elevator floor, and the like.
+[/spoiler]
+
+[size=14pt][b]检测主动/被动无线节点(系统)[/b][/size]
+
+你自动发现信号范围内所有处于主动或被动模式的节点。
+
+[spoiler]
+[size=14pt][b]DETECT ACTIVE/PASSIVE WIRELESS NODES (SYSTEM)[/b][/size]
+You automatically find all of the nodes within Signal range that are in Active or Passive mode.
+[/spoiler]
+
+[size=14pt][b]弹出(系统)[/b][/size]
+
+你与你的化身断开联系。在AR中，这只是一个关闭你的界面的问题。在VR中，这意味着在通讯链上移除你的连接，可以通过移除电极贴片，拔掉数据线，或者关闭神经连接等办到。超链者则在精神上切断他们与矩阵的连接。如果你在VR中弹出，你会遭受甩致休克(第237页)。如果你的连接被一个黑IC程序链锁，则需要在一个复杂动作中检定成功(第237页)。
+
+[spoiler]
+[size=14pt][b]JACK OUT (SYSTEM)[/b][/size]
+You disconnect from your persona. In AR, this is simply a matter of shutting down your interface. In VR, it means removing your connection from your commlink, either by removing trodes, unplugging a datajack, or shutting off a neural connection. Technomancers mentally sever their connection to the Matrix. If you jack out while in VR, you suffer dumpshock (p. 237). This requires a Complex Action and a successful test if your connection is jammed open by a black IC program (p. 237).
+[/spoiler]
+
+[size=14pt][b]切换界面模式(系统)[/b][/size]
+
+你将你的感知从AR切换到VR，或者相反。注意，切换到VR会导致你的身体瘫痪，所以不要在危险的地方这样做。如果你从VR切换到AR，你可能会失去一个或多个主动性流程(第145页)。如果你的链接被黑IC的攻击锁定了(第237页)，你就不能切换界面模式。
+
+[spoiler]
+[size=14pt][b]SWITCH INTERFACE MODE (SYSTEM)[/b][/size]
+You switch your perception from AR to VR or vice versa. Note that switching to VR causes your body to go limp, so do not do it in dangerous places. If you switch from VR to AR, you might lose one or more Initiative Passes (p. 145). If your connection is jammed open by a black IC attack (p. 237), you cannot switch interface modes.
+[/spoiler]
+
+[size=14pt][b]终止数据传输(系统)[/b][/size]
+
+你终止了你发起的数据传输。如果你在参与传输的至少一个节点上有符合要求的访问和权限，你也可以终止由其他人发起的数据传输(第225页)。
+
+[spoiler]
+[size=14pt][b]TERMINATE DATA TRANSFER (SYSTEM)[/b][/size]
+You terminate a data transfer you initiated. You may also terminate data transfers initiated by others if you have the appropriate access and permissions on at least one of the nodes involved in the transfer (p. 225).
+[/spoiler]
+
+[size=14pt][b]发送短信(系统)[/b][/size]
+
+你可以像在物理世界中那样说一句话或发一条短信(第146页)，只不过是通过矩阵向一个或多个接收者发送。这也可以用来让代理或设备开始或停止执行先前发布的命令，例如让无人机对预先安排的目标发动攻击，或让自动烹饪机开始制作预设的晚餐。
+
+[spoiler]
+[size=14pt][b]TRANSMIT PHRASE (SYSTEM)[/b][/size]
+You speak or text a phrase as you would in the physical world (p. 146), only to one or more recipients over the Matrix. This may also be used to have an agent or device start or stop executing previously issued orders, such as having a drone launch an attack on a prearranged target or an autocooker start a pre-programmed dinner.
+[/spoiler]
+
+---
+
+[size=16pt][b]简单动作[/b][/size]
+
+
+
+[size=14pt][b]分析图标/节点(分析)[/b][/size]
+
+你做一个矩阵侦察检定，这是一个简单或对抗检定，使用计算机+分析。这个动作在228页进行了详细描述。
+
+[spoiler]
+[size=16pt][b]SIMPLE ACTIONS[/b][/size]
+
+[size=14pt][b]ANALYZE ICON/NODE (ANALYZE)[/b][/size]
+You make a Matrix Perception Test, which is either a Simple or Opposed Computer + Analyze Test. This action is described in detail on p. 228.
+[/spoiler]
+
+[size=14pt][b]调用/遣散网精(编译)[/b][/size]
+
+你或者从共鸣中调用一个先前编译或注册的网精，或者遣散你的一个网精，让它在共鸣中等待你的调用(第239页)。
+
+[spoiler]
+[size=14pt][b]CALL/DISMISS A SPRITE (COMPILING)[/b][/size]
+You either call a previously compiled or registered sprite from the Resonance, or dismiss one of your sprites to wait in the Resonance until you call it (p. 239).
+[/spoiler]
+
+[size=14pt][b]停用程序(系统)[/b][/size]
+
+你把一个程序的状态从运行中切换到已加载。这个动作也可以用在一个代理上，在这种情况下，它运行的所有程序也停止运行。
+
+[spoiler]
+[size=14pt][b]DEACTIVATE PROGRAM (SYSTEM)[/b][/size]
+You switch a program’s status from running to loaded. This action may also be used on an agent, in which case all of its running programs also stop running.
+[/spoiler]
+
+[size=14pt][b]解密(系统)[/b][/size]
+
+如果你有某个特定加密的密钥，你可以用这个动作来解密它。如果你在一个文件上使用这个动作，该文件会被解密。如果你在一个节点或矩阵流量上使用这个动作，你可以访问该节点或读取该流量，但它对其他人来说仍然是加密的。
+
+[spoiler]
+[size=14pt][b]DECRYPT (SYSTEM)[/b][/size]
+If you have the key to a particular encryption, you decrypt it with this action. If you use this on a file, the file becomes decrypted. If you use this on a node or Matrix traffic, you may access the node or read the traffic, but it remains encrypted to others.
+[/spoiler]
+
+[size=14pt][b]加密(加密)[/b][/size]
+
+你对一个文件、一组文件、节点或通讯链接进行加密。你还可以选择一个密码，你或其他用户可以用这个密码来解密文件。你可以将多个文件一起加密成一个文件档案。你也可以在一个加密文件上附加一个数据炸弹(第233页)。
+
+[spoiler]
+[size=14pt][b]ENCRYPT (ENCRYPT)[/b][/size]
+You encrypt a file, set of files, node, or communication link. You also choose a passcode that you or another user can use to decrypt the file. You may encrypt multiple files together into a single archive file. You may also attach a data bomb (p. 233) to an encrypted file.
+[/spoiler]
+
+[size=14pt][b]发布指令(系统)[/b][/size]
+
+你把一个简短的命令列表交给接受你的访问ID的代理、无人机或设备，授权它们这样做(第225页)。你可以将命令列表发送给多个接收者，但必须是同一个命令列表；不同的命令需要使用另一个简单动作。
+
+[spoiler]
+[size=14pt][b]ISSUE COMMAND (SYSTEM)[/b][/size]
+You give a short list of commands to an agent, drone, or device that accepts your access ID as authorized to do so (p. 225). You may send the list of commands to multiple recipients, but it must be the same list of commands; different commands require the use of another Simple Action.
+[/spoiler]
+
+[size=14pt][b]跳入无人机/载具/设备(系统)[/b][/size]
+
+你在VR中跳入无人机、车辆或设备。这个动作在《跳入》中详细描述，第245页。
+
+[spoiler]
+[size=14pt][b]JUMP INTO A DRONE/VEHICLE/DEVICE (SYSTEM)[/b][/size]
+You jump into a drone, vehicle, or device in VR. This action is described in detail in Jumping In, p. 245.
+[/spoiler]
+
+[size=14pt][b]注销(系统)[/b][/size]
+
+你的化身从一个节点上注销，切断了对该节点的订阅和连接。你也可以用这个方法在VR中优雅地与你的化身断开连接，以避免甩致休克。请注意，黑IC程序能够阻止你注销(第237页)。
+
+[spoiler]
+[size=14pt][b]LOG OFF (SYSTEM)[/b][/size]
+Your persona logs off of a node, severing the subscription and connection to that node. You may also use this to gracefully disconnect from your persona while in VR, avoiding dumpshock. Note that black IC programs are capable of preventing you from logging off (p. 237).
+[/spoiler]
+
+[size=14pt][b]仔细观察(系统)[/b][/size]
+
+你注视着你的化身所连接的某个节点(即它"在"的那个节点)。这与分析节点的动作不同，因为它集中在节点的塑模上，而不是它的属性。与在物理世界中的观察不同，你会自动感知到所有没运行隐匿程序的图标，因为它们被你的通讯链编目登记了。
+
+[spoiler]
+[size=14pt][b]OBSERVE IN DETAIL (SYSTEM)[/b][/size]
+You look at one of the nodes to which your persona is connected (i.e., one that it is “in”). This is different from the Analyze Node action because it concentrates on the sculpting of the node rather than its attributes. Unlike observing in the physical world, you automatically perceive all icons that are not running Stealth because they are cataloged by your commlink.
+[/spoiler]
+
+[size=14pt][b]传输数据(系统)[/b][/size]
+
+你将一个或一组文件从一个节点传输到另一个节点。大多数传输会持续到当前战斗轮结束；矩阵的连接速度足够快，只有真正史诗般大小的文件才会花费比正常情况更长的时间。
+
+[spoiler]
+[size=14pt][b]TRANSFER DATA (SYSTEM)[/b][/size]
+You transfer a file or set of files from one node to another. Most transfers last until the end of the current Combat Turn; the connection speeds of the Matrix are fast enough that only files of truly epic size take longer than normal.
+[/spoiler]
+
+---
+
+[size=16pt][b]复杂动作[/b][/size]
+
+
+
+[size=14pt][b]捕获无线信号(嗅探)[/b][/size]
+
+你窃听进出一个设备的无线流量。你必须在该设备的信号范围内才能捕捉到流量。你必须在电子战+嗅探(3)检定中获得成功才能开始捕获，然后你可以复制、记录或转发流量，只要你保持在目标设备的信号范围内并保持嗅探器程序运行就不需要再次进行检定。其他各方没有办法检测到你的捕获(当然，如果他们没有访问你的通讯链)。如果流量是加密的，你必须在捕获之前破解加密。
+
+[spoiler]
+[size=16pt][b]COMPLEX ACTIONS[/b][/size]
+
+[size=14pt][b]CAPTURE WIRELESS SIGNAL (SNIFFER)[/b][/size]
+You eavesdrop on wireless traffic going to and from a device. You must be within the device’s Signal range to capture the traffic. You must succeed in an Electronic Warfare + Sniffer (3) test to start the capture, and then you may copy, record, or forward the traffic without another test as long as you remain within the target device’s Signal range and keep the Sniffer program running. There is no way for other parties to detect your capture (without access to your commlink, of course). If the traffic is encrypted, you must break the encryption before it can be captured.
+[/spoiler]
+
+[size=14pt][b]编译网精(编译)[/b][/size]
+
+你编译一个网精，参考240页的规则。
+
+[spoiler]
+[size=14pt][b]COMPILE SPRITE (COMPILING)[/b][/size]
+You compile a sprite using the rules on p. 240.
+[/spoiler]
+
+[size=14pt][b]控制设备(指令)[/b][/size]
+
+像遥控器或电子游戏控制器一样使用你的指令程序，你通过矩阵控制一个设备。你使用这个动作所做的任何检定的骰子都会使用你的指令程序的等级来代替你会使用的属性和相应的技能。例如，向目标发射无人机步枪需要进行步枪+指令的检定，而使用远程水下焊接机则需要进行航海机械+指令的检定。
+
+请注意，如果要执行的行动通常是一个简单动作，通过控制设备行动来执行它仍然是一个复杂动作。
+
+[spoiler]
+[size=14pt][b]CONTROL DEVICE (COMMAND)[/b][/size]
+You control a device through the Matrix, using your Command program like a remote control or video game controller. The dice pool of any test you make using this action uses the rating of your Command program in place of the attribute you would use along with the appropriate skill as normal. For example, firing a drone-mounted rifle at a target would require a Longarms + Command test, and using a remote underwater welder would call for a Nautical Mechanic + Command test. 
+Note that if the action to be performed is normally a Simple Action, performing it through the Control Device action is still a Complex Action.
+[/spoiler]
+
+[size=14pt][b]崩溃节点(利用漏洞)[/b][/size]
+
+你使一个你的图标目前正在访问的节点崩溃(不是一个化身)。做一个骇入+利用漏洞(系统等级+防火墙，复杂动作)的延续检定。当你达到阈值时，该节点被崩溃并重新启动(第238页)。节点在第一次被攻击时发布限制性警报(在第238页列出的其他效果中，它给予节点一个+4的防火墙)来对抗袭击者。当节点崩溃时，任何通过VR访问节点的用户都必须抵抗甩致休克，包括黑客本人。
+
+[spoiler]
+[size=14pt][b]CRASH NODE (EXPLOIT)[/b][/size]
+You crash a node (not a persona) that your icon is currently accessing. Make a Hacking + Exploit (System + Firewall, Complex Action) Extended Test. When you reach the threshold, the node is crashed and reboots (p. 238). The node issues a restricted alert against the attacker when it is first attacked (which grants the node a +4 to Firewall among other effects listed on p. 238). Any users accessing the node via VR must resist Dumpshock when the node crashes, including the hacker.
+[/spoiler]
+
+[size=14pt][b]程序破坏(利用漏洞)[/b][/size]
+
+你对一个正在运行的程序发起攻击，该程序不能是代理、角色或其他具有CM的图标。目标程序必须与你的图标在同一节点中运行，或者由与你的图标在同一节点中的图标运行。做骇入+利用漏洞与目标的防火墙+系统的对抗检定。如果你成功了，你就会使目标程序崩溃，使其状态从运行中变为已加载。
+
+[spoiler]
+[size=14pt][b]CRASH PROGRAM (EXPLOIT)[/b][/size]
+You initiate an attack on a running program that is not an agent, persona, or other icon with a Condition Monitor. The target program must be running in the same node as your icon or run by an icon that is in the same node as your icon. Make an Opposed Hacking + Exploit vs. the target’s Firewall + System. If you succeed, you crash the program, which changes its status from running to loaded.
+[/spoiler]
+
+[size=14pt][b]数据搜索(浏览或其他)[/b][/size]
+
+你在矩阵中搜索关于某个主题的信息。这是一个数据搜索+浏览的延续检定，有一个可变的阈值和间隔，分别取决于有关信息的一般可用性和被搜索的"区域"。有些信息是被保护和加密的，存储在矩阵无法访问的节点中，因此，如果不访问隐藏数据的节点，就无法找到这些信息，尽管可以通过数据搜索来找到信息的位置。
+
+并非所有的数据搜索动作都使用浏览程序。这个动作可以用在任何大量的数据上，比如一个节点中的图标列表，信号范围内的节点，或者网络流量。当使用这个动作进行这些特殊的搜索时，要使用用于收集信息的程序，通过它来进行搜索。例如，使用数据搜索+扫描来查找信号范围内的所有无线智能链，或数据搜索+分析来查找一个节点中的所有代理，或数据搜索+嗅探来查找你截获的无线流量中的特定短语。
+
+[spoiler]
+[size=14pt][b]DATA SEARCH (BROWSE OR OTHER)[/b][/size]
+You search the Matrix for information about a topic. This is a Data Search + Browse Extended Test with a variable threshold and interval, depending on the general availability of the information in question and the “area” being searched, respectively. Some information is protected and kept secret, stored in a node that is not accessible from the Matrix, and so cannot be found without accessing the nodes on which the data is hidden, although a Data Search might be made to find the location of the information. 
+
+Not all Data Search actions use the Browse program. This action can be used on any large amount of data, such as a list of icons in a node, nodes in a Signal range, or network traffic. When using this action for these special searches, use the program that is used to collect the information through which you are searching. For example, use Data Search + Scan to find all of the wireless smartlinks in Signal range, or Data Search + Analyze to find all of the agents in a node, or Data Search + Sniffer to find a specific phrase in wireless traffic you have intercepted.
+[/spoiler]
+
+
+[quote]
+[b]矩阵检索表[/b]
+
+[table]
+[tr][td][b]信息[/b][/td][td][b]阈值[/b][/td][/tr]
+[tr][td]常识，或公开信息[/td][td]6[/td][/tr]
+[tr][td]感兴趣的人有限，或未公开信息[/td][td]12[/td][/tr]
+[tr][td]被隐藏的信息，或被主动抹除的信息[/td][td]24[/td][/tr]
+[tr][td]受保护的信息，或机密[/td][td]N/A[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]信息[/b][/td][td][b]骰池修正[/b][/td][/tr]
+[tr][td]错综复杂的信息，或专业信息[/td][td]-1[/td][/tr]
+[tr][td]晦涩模糊的信息[/td][td]-2[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]搜索区域[/b][/td][td][b]时间间隔[/b][/td][/tr]
+[tr][td]单个节点或单个区域[/td][td]复杂动作[/td][/tr]
+[tr][td]所有被订阅的设备和节点[/td][td]复杂动作[/td][/tr]
+[tr][td]全矩阵[/td][td]1分钟[/td][/tr]
+[/table]
+
+[spoiler]
+[b]MATRIX SEARCH TABLE[/b]
+
+[table]
+[tr][td][b]INFORMATION IS:[/b][/td][td][b]THRESHOLD[/b][/td][/tr]
+[tr][td]General Knowledge or Public[/td][td]6[/td][/tr]
+[tr][td]Limited Interest or Not Publicized[/td][td]12[/td][/tr]
+[tr][td]Hidden or Actively Hunted and Erased[/td][td]24[/td][/tr]
+[tr][td]Protected or Secret[/td][td]N/A[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]INFORMATION IS:[/b][/td][td][b]DICE POOL MODIFIER[/b][/td][/tr]
+[tr][td]Intricate or Specialized[/td][td]-1[/td][/tr]
+[tr][td]Obscure[/td][td]-2[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]AREA SEARCHED[/b][/td][td][b]INTERVAL[/b][/td][/tr]
+[tr][td]Single Node or Signal Area[/td][td]Complex Action[/td][/tr]
+[tr][td]All Subscribed Devices and Nodes[/td][td]Complex Action[/td][/tr]
+[tr][td]Entire Matrix[/td][td]1 Minute[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+
+[size=14pt][b]反编译网精(反编译)[/b][/size]
+
+你尝试反编译一个网精，参考241页的规则。
+
+[spoiler]
+[size=14pt][b]DECOMPILE A SPRITE (DECOMPILING)[/b][/size]
+You attempt to decompile a sprite, following the rules on p. 241.
+[/spoiler]
+
+[size=14pt][b]侦测隐藏节点(扫描)[/b][/size]
+
+你尝试定位一个隐藏的节点。你必须知道这个节点，或者至少有一个关于设备应该在哪里的恰当猜测(例如，如果你的通讯链没有检测到Mr.J的节点，但你非常确定他有一个PAN，或者当你可以看到安保无人机，但它在静默模式下运行)。为了找到这个节点，进行电子战+扫描(4)检定。你也可以对相互信号范围内的隐藏节点进行通常的搜索。在这种情况下，检定是一个电子战+扫描(15+，1个战斗轮)的延续检定，而不是一个复杂动作。
+
+[spoiler]
+[size=14pt][b]DETECT HIDDEN NODE (SCAN)[/b][/size]
+You attempt to locate a hidden node. You must be aware of the node, or at least have a good guess of where the device should be (for example, if your commlink is not detecting a node for Mr. Johnson but you are pretty sure he has a PAN, or when you can see the security drone but it is operating in Hidden mode). To find the node, make a Electronic Warfare + Scan (4) Test. You may instead make a general search for Hidden nodes that are within mutual Signal range. In this case, the test is an Electronic Warfare + Scan (15+, 1 Combat Turn) Extended Test, rather than a Complex Action.
+[/spoiler]
+
+[size=14pt][b]拆除数据炸弹(拆除)[/b][/size]
+
+你试图拆除一个你已经探测到的数据炸弹(通常用矩阵侦察检定)。使用你的骇入+拆除和数据炸弹的等级×2进行对抗检定，如果你得到任何净成功，数据炸弹将被移除。否则，数据炸弹会被触发，造成它所设定好的伤害，并可能破坏它所连接的任何文件。
+
+[spoiler]
+[size=14pt][b]DISARM DATA BOMB (DISARM)[/b][/size]
+You attempt to disarm a data bomb that you have detected (usually with a Matrix Perception Test). Make an Opposed Test between your Hacking + Disarm and the Data Bomb Rating x 2. If you score any net hits, the data bomb is removed and deleted. If not, the data bomb activates, causing its damage and possibly destroying any file to which it was attached.
+[/spoiler]
+
+[size=14pt][b]编辑(编辑)[/b][/size]
+
+编辑允许你创建、修改或删除任何类型的文件。修改文件的一个细节需要一个复杂动作：大约一句话的文字或一个图像的细节或大约一秒钟的视频或音频(GM决定)。这需要一个成功的计算机+编辑检定，阈值由GM使用成功检定难度表(第62页)根据所做编辑的程度、质量和复杂成都设定。对设备输出的连续编辑需要在持续时间内的每个行动阶段花费一个简单动作。请注意，控制设备(通过控制设备行动，第229页)可能允许你进行类似于编辑的简单控制(即在源头冻结图像捕捉或关闭音频接收)。
+
+[spoiler]
+[size=14pt][b]EDIT (EDIT)[/b][/size]
+Edit allows you to create, change, or delete any kind of file. A Complex Action is required to alter one detail of a file: about a sentence of text or a detail of an image or about a second of video or audio (gamemaster’s discretion). This requires a successful Computer + Edit Test with a threshold set by the gamemaster using the Success Test Difficulties Table (p. 62) based on the extent, quality, and complexity of the edits being made. Continuous editing of a device’s output requires the expenditure of a Simple Action every Initiative Phase for the duration. Note that controlling the device (via the Control Device action, p. 229) may allow you simple control similar to Edit (i.e., by freezing image capture at source or turning off audio reception).
+[/spoiler]
+
+[size=14pt][b]后台入侵(利用漏洞)[/b][/size]
+
+你试图在另一个节点上为自己创建一个账户。这是一个骇入+利用漏洞(目标的防火墙，复杂动作)延续检定。当你达到阈值时，你在目标节点上获得一个账户。这个过程在《骇入矩阵》第235页有更详细的描述。
+
+[spoiler]
+[size=14pt][b]HACK ON THE FLY (EXPLOIT)[/b][/size]
+You attempt to create an account for yourself on another node. This is a Hacking + Exploit (target’s Firewall, Complex Action) Extended Test. When you reach the threshold, you gain an account on the target node. This process is described in more detail in Hacking the Matrix, p. 235.
+[/spoiler]
+
+[size=14pt][b]启动密码分析(解密)[/b][/size]
+
+你让你的解密程序开始对你能访问的某个加密进行工作。密码分析是一个电子战+解密(加密等级×2，1个战斗轮)的延续检定。当你达到阈值时，加密被破解。当你破解了一个文件的加密，该文件就会被解密。当你在一个节点上使用这个时，你可以访问该节点，但它对其他人来说仍然是加密的。
+
+一旦你启动了密码分析，你的解密程序就会使用你的电子战技能等级接管这个过程并自主运行。一个正在运行的解密程序一次只能在一个加密上工作，但多个解密程序可以同时在不同的加密上工作；每个解密程序都做自己的延续检定，不能与其他程序协作。
+
+[spoiler]
+[size=14pt][b]INITIATE CRYPTANALYSIS (DECRYPT)[/b][/size]
+You have your Decrypt program start working on an encryption to which you have access. Cryptanalysis is an Electronic Warfare + Decrypt (encryption rating x 2, 1 Combat Turn) Extended Test. When you reach the threshold, the encryption is broken. When you break the encryption of a file, the file becomes decrypted. When you use this on a node, you may access that node, but it remains encrypted to others. 
+
+Once you have initiated cryptanalysis, your Decrypt program takes over and runs autonomously, using your Electronic Warfare skill rating. A running Decrypt program can only work on one encryption at a time, but multiple Decrypt programs can work on different encryptions simultaneously; each Decrypt program makes its own Extended Test and cannot collaborate with other programs.
+[/spoiler]
+
+[size=14pt][b]拦截流量(嗅探)[/b][/size]
+
+你在两个节点之间拦截流量。要做到这一点，你必须能够访问"全部流量"经过的节点；如果流量在中间节点之间被分割(见《矩阵拓扑》，第216页)，你就不能拦截它，除非你在流量经过的所有节点都有一个图标。在大多数情况下，这个动作只在有线网络中有效，但如果涉及的节点数量足够少，它可以适用于(大多数)无线流量。
+
+为了窃听流量，做一个骇入+嗅探检定；这个检定的成功数是其他人用矩阵侦察检定发现窥探的阈值。流量可以被复制和记录，或转发给第三方，不需要额外的检定。如果你想在发送前阻止或改变一些流量，你必须使用编辑动作。要插入假的流量，你必须在你的骇入+嗅探和收件人的防火墙+系统等级之间进行的对抗检定中获得成功。
+
+如果流量是加密的，你必须在拦截之前破解加密。
+
+[spoiler]
+[size=14pt][b]INTERCEPT TRAFFIC (SNIFFER)[/b][/size]
+You intercept traffic between two nodes. To do this, you must have access to a node through which all of the traffic passes; if the traffic is being split between intermediate nodes (see Matrix Topology, p. 216), you cannot intercept it unless you have an icon in all nodes through which the traffic is routed. For the most part, this action is only effective in a wired network, but it can apply to (mostly) wireless traffic if the number of nodes involved is sufficiently small.
+
+To eavesdrop on traffic, make a Hacking + Sniffer Test; the hits from this test are the threshold for others to detect the snooping with a Matrix Perception test. The traffic may be copied and recorded or forwarded to a third party with no additional tests. If you want to block or alter some of the traffic before sending it along, you must use the Edit action. To insert fake traffic, you must succeed in an Opposed Test between your Hacking + Sniffer and the recipient’s Firewall + System. 
+
+If the traffic is encrypted, you must break the encryption before it can be intercepted.
+[/spoiler]
+
+[size=14pt][b]干扰信号(无)[/b][/size]
+
+你启动一个干扰设备。当你启动干扰装置时，你可以选择任何数量的已知装置排除在干扰之外，并且可以通过另一个干扰信号行动来改变这个名单。当干扰器被激活时，每一个信号强度小于干扰器等级的设备(在干扰器的描述中给出了修正，第330页)都会被干扰，并失去无线连接。注意，运行ECCM程序的设备会将该程序的等级添加到其信号强度中以对抗干扰。
+
+[spoiler]
+[size=14pt][b]JAM SIGNALS (NONE)[/b][/size]
+You start a jamming device. You may choose any number of known devices to be excluded from the jamming when you initiate the jamming, and may change the list with another Jam Signals action. When the jammer is activated, every device with a Signal rating less than the rating of the jammer (with modifiers given in the description of the jammer, p. 330) are jammed and lose wireless connectivity. Note that a device running an ECCM program adds the rating of that program to its Signal for purposes of countering jamming.
+[/spoiler]
+
+[size=14pt][b]登陆(系统)[/b][/size]
+
+你开启对一个节点的订阅，然后你的图标会出现在那里。这不需要检定，但需要进行适当的认证(如密码)来登录一个账户或骇入账户。你还需要与节点的设备连接，可以是有线连接，也可以是无线连接(通过在彼此的信号范围内或在多个设备间建立路由)。
+
+[spoiler]
+[size=14pt][b]LOG ON (SYSTEM)[/b][/size]
+You open a subscription to a node, and your icon appears there. This requires no test, but does require either the proper authentication to an account (such as a passcode) or a hacked account. You also need a connection to the node’s device, either with a wired connection or a wireless connection (by being within mutual Signal range or establishing a route across multiple devices).
+[/spoiler]
+
+[size=14pt][b]矩阵攻击(袭击、黑锤头、断片)[/b][/size]
+
+你对当前存在你的图标的节点中的另一个图标进行攻击。你只能对有CM的目标进行攻击：代理、IC和其他角色的图标。这个动作在《矩阵战斗》(第236页)中有更详细的描述。
+
+[spoiler]
+[size=14pt][b]MATRIX ATTACK (ATTACK, BLACK HAMMER, BLACKOUT)[/b][/size]
+You make an attack against another icon in a node where your icon currently exists. You may only make attacks against targets with a Condition Monitor: agents, IC, and other persona icons. This action is described in more detail in Cybercombat (p. 236).
+[/spoiler]
+
+[size=14pt][b]重启设备(系统)[/b][/size]
+
+你用一个复杂动作来发起一个设备的重启。你必须拥有相应的权限(通常是一个管理员账户)，并且你必须进行一个系统等级+响应能力(10，1个战斗轮)的延续检定。当达到足够的成功数时，所有程序停止运行，所有的订阅都会被终止，任何还在设备上运行自己化身的人都会从矩阵中被切断，如果他们在VR中还会遭受甩致休克(第237页)。重启系统需要的战斗轮数等于设备的系统等级(或设备等级)。然后设备通过进行系统等级+响应能力(10，1个战斗轮)延续检定来重启自己。设备在发起重启后不创建任何节点，直到它达到延续检定的阈值。
+
+[spoiler]
+[size=14pt][b]REBOOT (SYSTEM)[/b][/size]
+You initiate a reboot of a device with a Complex Action. You must have the appropriate privileges to do so (usually an admin account) and you must make a System + Response (10, 1 Combat Turn) Extended Test. When enough hits are achieved, all programs stop running and all subscriptions are terminated and anyone who is still running their persona on the device is severed from the Matrix, suffering dumpshock (p.237) if they are in VR. The restarting the system takes a number of Combat Turns equal to the device’s System (or Device Rating).The device then reboots itself by making a System + Response (10, 1 Combat Turn) Extended Test. The device creates no node after the initiation of a reboot until it reaches the threshold of the Extended Test.
+[/spoiler]
+
+[size=14pt][b]重定向追踪(欺骗)[/b][/size]
+
+你混淆你的活跃数据轨迹来对抗主动追踪的尝试，使运行中的追踪程序更难找到你的角色节点。对发起追踪图标的计算机+追踪进行骇入+欺骗的对抗检定；这个检定的净成功数会加到追踪图标需要的阈值上。你可以对同一个目标多次采取这个行动。这个行动只对正在进行的追踪尝试有效。
+
+[spoiler]
+[size=14pt][b]REDIRECT TRACE (SPOOF)[/b][/size]
+You muddle your active datatrail against an active tracking attempt, making it harder for a running Track program to find your persona’s node. Make an Opposed Hacking + Spoof vs. the tracking icon’s Computer + Track; the number of net hits from this test are added to the threshold that the tracking icon needs. You may take this action multiple times against the same target. This action only works against a tracking attempt in progress.
+[/spoiler]
+
+[size=14pt][b]修复图标(医疗)[/b][/size]
+
+你可以治疗一个化身、代理或IC图标所遭受的矩阵伤害。进行计算机+医疗(所受伤害×2，复杂动作)延续检定。当达到阈值时，目标图标的所有伤害都会被移除。请注意，如果图标在延续检定过程中受到进一步的伤害，阈值有可能发生变化。这个动作只能修复矩阵伤害，所以不能用于治疗超链者。
+
+[spoiler]
+[size=14pt][b]REPAIR ICON (MEDIC)[/b][/size]
+You heal the Matrix Damage that a persona, agent, or IC icon has suffered. Make a Computer + Medic (damage taken x 2, Complex Action) Extended Test. When the threshold is reached, all damage is removed from the target icon. Note that it is possible for the threshold to change during the Extended Test if the icon suffers further damage. This action only repairs Matrix Damage, and so cannot be used to heal technomancers.
+[/spoiler]
+
+[size=14pt][b]运行程序(系统)[/b][/size]
+
+你运行一个在你正在访问和有适当权限的设备中的已加载程序、代理或IC。这将使程序的状态从已加载变为运行中。程序必须在运行中才能被使用。
+
+[spoiler]
+[size=14pt][b]RUN PROGRAM (SYSTEM)[/b][/size]
+You run a program, agent, or IC that is loaded in a device to which you have access and the appropriate privileges. This changes the program’s status from loaded to running. Programs must be running in order to be used.
+[/spoiler]
+
+[size=14pt][b]设置数据炸弹(数据炸弹)[/b][/size]
+
+你在一个文件或节点中设置一个数据炸弹。当你这样做时，你必须选择数据炸弹的等级(最多等于数据炸弹程序的等级)，它是否会删除文件或在激活时作为次要效果使它所连接的节点崩溃，以及停用它所需的密码。数据炸弹可以附加到同时也受加密程序保护的档案中。
+
+数据炸弹的触发方式取决于它是附加在文件还是节点上：当文件被访问时，或当一个图标登录到一个节点时，它都会触发，前提是不使用数据炸弹的密码。当一个数据炸弹被触发时，它会对触发它的图标造成其等级的矩阵伤害，并执行其次级效果(如果有的话)，然后被删除。如果使用了密码，数据炸弹就不会被激活，并保持在文件或节点上。
+
+数据炸弹可以通过矩阵侦察检定被发现(第228页)。如果它被探测到了，可以用拆除数据炸弹的行动来拆除它；一个被拆除的数据炸弹将被删除。
+
+[spoiler]
+[size=14pt][b]SET DATA BOMB (DATA BOMB)[/b][/size]
+You set a data bomb in a file or node. When you do so, you must choose the rating for the data bomb (up to the rating of the Data Bomb program), whether or not it will delete the file or crash the node to which it is attached when activated as a secondary effect, and the passcode required to deactivate it. Data bombs may be attached to archives that are also protected by Encrypt programs. 
+
+The way a data bomb triggers depends on whether it is attached to a file or a node: it activates when a file is accessed, or when an icon logs onto a node, respectively, without using the data bomb’s passcode. When a data bomb is triggered, it causes its rating in Matrix Damage to the icon that tripped it and performs its secondary effect (if any), and then is deleted. If the passcode is used, the data bomb does not activate and remains attached to the file or node.
+[/spoiler]
+
+[size=14pt][b]伪造指令(欺骗)[/b][/size]
+
+你向一个设备或代理发送一条指令，假装它来自一个获得授权的来源。你必须有一个目标接受指令的访问ID(通常通过对授权来源进行矩阵侦察检定或追踪其图标)。要欺骗一个目标，选择一条指令(参考发布指令动作，第229页)，使用你的骇入+七篇和目标的自驾+防火墙(外围设备的系统+防火墙)进行对抗检定；如果你成功了，目标将接受这条指令作为合法指令。每个伪造指令动作只适用于一条指令；多条指令需要多次伪造指令的尝试。
+
+[spoiler]
+[size=14pt][b]SPOOF COMMAND (SPOOF)[/b][/size]
+You send a command to a device or agent, pretending it is from an authorized source. You must have an access ID from which the target accepts commands (usually by making a Matrix Perception test on the authorized source or by tracing its icon). To spoof a target, choose a command (per the Issue Command action, p. 229) and make an Opposed Test between your Hacking + Spoof and the target’s Pilot + Firewall (System + Firewall for peripheral devices); if you succeed, the target accepts the command as legitimate. Each Spoof Command action applies only to a single command; multiple commands require multiple Spoof Command attempts.
+[/spoiler]
+
+[size=14pt][b]追踪用户(追踪)[/b][/size]
+
+你追踪一个图标回到它的源头节点。这是一个计算机+追踪(10，复杂动作)的延续检定。目标可以通过重定向追踪行动来提高阈值，而你的目标所运行的隐匿程序可以作为一个负向的骰池修正。
+
+当你达到延续检定的阈值时，你已经成功地追踪了目标，了解了目标的访问ID和容纳源头节点的设备的位置(通常是用户的通讯链)。如果目标使用有线连接到矩阵，你就可以知道他的确切位置。如果他使用的是无线连接，你就可以将他的位置三角定位到大约50米以内。只要你保持追踪程序的运行，并且目标仍然连接到矩阵，你就可以继续监测目标的位置。黑IC可以使追踪更容易。
+
+你也可以用这个动作来追踪一个订阅的另一端。例如，你可以追踪订阅从无人机到控制它的机师。
+
+[spoiler]
+[size=14pt][b]TRACE USER (TRACK)[/b][/size]
+You trace an icon back to its originating node. This is a Computer + Track (10, Complex Action) Extended Test. The target may increase the threshold with the Redirect Trace action, and a Stealth program run by your target acts as a negative dice pool modifier. 
+
+When you reach the threshold of the Extended Test, you have successfully traced the target, learning the target’s access ID and the location of the device housing the originating node (usually the user’s commlink). If the target is using a wired connection to the Matrix, you learn his exact location. If he is using a wireless connection, you have his location triangulated to within about 50 meters. As long as you keep your Track program running and the target remains connected to the Matrix, you may continue to monitor the target’s location. Black IC can make the trace easier. 
+
+You can also use this action to trace a subscription to its other end. For example, you may trace the subscription from a drone to the rigger controlling it.
+[/spoiler]
+
+
+[quote]
+[b]追踪表[/b]
+
+[table]
+[tr][td][b]情况[/b][/td][td][b]阈值[/b][/td][/tr]
+[tr][td]目标重定向追踪动作的每个成功[/td][td]+1[/td][/tr]
+[tr][td]目标被黑IC链锁[/td][td]-2[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]情况[/b][/td][td][b]骰池修正[/b][/td][/tr]
+[tr][td]目标正在运行隐匿程序[/td][td]-程序等级[/td][/tr]
+[tr][td]目标被黑IC链锁[/td][td]-2[/td][/tr]
+[/table]
+
+
+[spoiler]
+[b]TRACE TABLE[/b]
+
+[table]
+[tr][td][b]SITUATION[/b][/td][td][b]THRESHOLD[/b][/td][/tr]
+[tr][td]Each hit from target’s Redirect Trace action[/td][td]+1[/td][/tr]
+[tr][td]Target’s connection jammed open by black IC program[/td][td]-2[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]SITUATION[/b][/td][td][b]DICE POOL MODIFIER[/b][/td][/tr]
+[tr][td]Target Running Stealth[/td][td]-Rating[/td][/tr]
+[tr][td]Target’s connection jammed open by black IC program[/td][td]-2[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
