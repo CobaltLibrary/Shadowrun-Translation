@@ -1,0 +1,163 @@
+[color=brown][size=16pt][b]骇入矩阵[/b][/size][/color]
+
+在矩阵中，你有三种主要的不正当行为方式。第一种是通过骇入攻击，即你在其他节点上为自己创建未经授权的账户。第二种是通过欺骗，这是一个假装授权用户向设备发送命令的过程。最后是矩阵战斗，即你直接面对IC和其他用户(通常是蜘蛛或安保黑客)，用虚拟(有时是真实)的暴力强加你的意志。
+
+黑客的锦囊妙计包括这里列出的之外的许多选项。虽然这些都不是游戏的必要条件，但《Unwired》的《黑客手册》章节中列出了一些高级技巧。
+
+[spoiler]
+[color=brown][size=16pt][b]HACKING THE MATRIX[/b][/size][/color]
+There are three main ways for you to misbehave in the Matrix. The first is by hacking, whereby you create unauthorized accounts for yourself on other nodes. The second is by spoofing, which is the process of sending orders to devices while pretending to be an authorized user. Finally, there is cybercombat, where you directly confront IC and other users (usually spiders or security hackers) and impose your will with virtual (and sometimes real) violence. 
+
+A hacker’s bag of tricks includes numerous options beyond those listed here. While none are essential to play the game, advanced tricks are listed in the Hacker’s Handbook chapter of Unwired.
+[/spoiler]
+
+---
+
+[size=16pt][b]骇入[/b][/size]
+
+要获得一个节点的访问权，最简单的方法就是拥有权限。这不一定必须是你的授权；你可以从节点的合法用户那里获得密码、通行证或其他授权。这可以通过社会工程、恐吓、偷窃或任何其他你能支配的手段来完成。大多数时候，黑客对进入节点的认证方式束手无策，必须诉诸于黑客行为。
+
+骇入一个节点的目的是在目标节点上创建自己的账户。为了入侵一个节点，你必须在目标节点设备的相互信号范围内，或者通过矩阵与节点有一个开启的订阅。
+
+有两种方法可以入侵一个节点。后台入侵是快速的，但有很高的被检测风险。谨慎地探查目标节点的漏洞要慢得多，但所带来的风险也要小得多。
+
+[spoiler]
+[size=16pt][b]HACKING[/b][/size]
+The easiest way to get access to a node is to have permission. This does not necessarily have to be your permission; you can get passcodes, passkeys, or other authorization from legitimate users of the node. This can be done by social engineering, intimidation, theft, or any other means at your disposal. Most of the time, a hacker is at a loss for a certified way into a node, and must resort to hacking. 
+
+The goal of hacking into a node is to create your own account on the target node. In order to hack a node, you must either be within mutual Signal range of the target node’s device or have an open subscription with the node through the Matrix. 
+
+There are two ways to hack a node. Hacking on the fly is fast, but has a high risk of detection. Cautiously probing the target node for vulnerabilities is much slower, but entails far less risk.
+[/spoiler]
+
+[size=14pt][b]后台入侵[/b][/size]
+
+在街上或狂奔时，你无疑会遇到这样的情况：你需要在没有任何准备的情况下骇入一些东西。在这种情况下，你会拿出你所有的黑客技巧和工具，尽你所能迅速找到一个能让你进入的漏洞。理想情况下，这不会惊动节点的安保，但如果你已经准备好战斗，你可能根本不在乎你是否触发了警报。后台入侵是粗暴的骇入：成功比精巧或细致更重要。
+
+后台入侵是骇入+利用漏洞(目标的防火墙，复杂动作)的延续检定。达到阈值将使你在该节点上获得一个用户账户。如果你想要一个安保账户，就把门槛提高+3，如果想要一个管理员账户，就把它提高+6。当你达到阈值并获得账户时，你会自动以该级别的访问权限登录到节点上，而不需要花费登录动作(除非你注销)。
+
+这种蛮力黑客会引起注意。每次你采取后台入侵行动时，目标节点就会在分析+防火墙(黑客的隐匿程序等级)的延续检定中进行一次免费投骰。如果节点发现你，就会触发警报，即使你的尝试已经成功了(警报，第238页)。
+
+[spoiler]
+[size=14pt][b]HACKING ON THE FLY[/b][/size]
+On the streets or during a run, you will undoubtedly encounter situations where you need to hack into something without any sort of preparation. In circumstances like this, you pull out all of your hacker tricks and tools and do your best to quickly find an exploit that will get you in. Ideally, this will be without alerting the node’s security, but if you are ready for a fight you simply may not care if you trigger an alarm. Hacking on the fly is brute-force hacking: success is more important than subtlety or finesse. 
+
+Hacking on the fly is an Hacking + Exploit (target’s Firewall, Complex Action) Extended Test. Reaching the threshold will get you a user account on the node. If you want a security account, increase the threshold by +3, for an admin account increase it by +6. When you beat the threshold and gain the account, you are automatically logged onto the node with that level of access, and do not need to spend a Log On action (unless you log off). 
+
+Such brute force hacks can attract attention. Each time you take a Hack on the Fly action, the target node makes a free roll on an Analyze + Firewall (hacker’s Stealth) Extended Test. If the node detects you an alert is triggered, even if you have succeeded in your attempt (Alerts, p. 238).
+[/spoiler]
+
+[i]
+Rootkit潜入一家生物技术公司的卫生间，他需要控制大楼的节点，让他的团队的其他成员进入大楼。速度是关键，所以他开始进行后台入侵。他想通过安保权限访问来获得对门锁的控制权，所以GM在阈值上加了3(节点的防火墙属性为4，但她暂时对这个属性保密)。Rootkit掷出他的骇入5+利用漏洞5，再加上2，因为他使用的是热模，总骰子数为12。他掷出的骰子成功数有4个，他还没有进入。作为回应，该节点掷出它正在运行的防火墙4+分析3，得到2个成功；这还不足以达到Rootkit等级为5的隐匿程序。
+
+在他的下一个行动阶段，Rootkit继续他的骇入行动，这次投骰得到了3个成功。这足以让他进入，他自动用一个闪亮的新安保账户登录到节点上。
+
+但是等等! 节点仍有最后一次机会来检测他的入侵。它投骰并得到了2个成功，但仍不足以检测到黑客。Rootkit为他的团队打开了大门并开始在节点周围探查。
+[/i]
+
+[spoiler]
+[i]
+Rootkit has snuck into the bathroom of a biotech company and needs to get control of the building’s node to let the rest of his team into the building. Speed is key, so he starts hacking on the fly. He wants security access to gain control of the door locks, so the gamemaster adds three to the threshold (which is 4, the node’s Firewall attribute, but she keeps it a secret for now). Rootkit rolls his Hacking of 5 + Exploit of 5, plus 2 because he is using hot sim, for a total dice pool of 12. He rolls and gets 4 hits; he’s not in yet. In response, the node rolls its Firewall 4 + Rating 3 Analyze program it is running, getting 2 hits; not enough to reach Rootkit’s Stealth rating of 5. 
+
+In his next action phase, Rootkit continues his hack, rolling and getting 3 hits this time. That is just enough to get him in, and he automatically logs on to the node with a shiny new security account.
+
+But wait! The node still has one last chance to detect his intrusion. It rolls and gets 2 hits, still not enough to detect the hacker. Rootkit opens the doors for his team and starts poking around the node.
+[/i]
+[/spoiler]
+
+[size=14pt][b]扫描目标[/b][/size]
+
+如果你有时间对你的目标进行适当的调查，你的骇入尝试就更有可能成功，并且不被注意到。使用这种方法，你在一个较长的时间范围内谨慎地探测你的目标，找出可以利用的系统缺陷，以便进入。
+
+探查是一种骇入+利用漏洞的延续检定，其阈值等于目标的系统等级+防火墙。如果在VR中进行，检定的时间间隔为1小时，如果通过AR进行，则为1天。一旦你达到阈值，你就在系统的防御中找到了一个裂缝，你可以利用这个裂缝来获得访问权限。你不会自动获得访问权限；你已经找到了盔甲上的缝隙，但还没有用到它。这些漏洞不会永远存在，如果被节点的安保系统发现，或者节点被重新启动，就会被删除。只要它还在节点中，你就可以使用登录动作来使用你的骇入账户。这个过程授予你一个用户账户。如果你想要一个安保账户，请将门槛提高+3；如果是管理员账户，请提高+6。
+
+当你第一次用骇入账户登录时，目标节点会得到一次免费的分析+防火墙(黑客的隐匿程序等级)检定。如果节点检测到你，就会触发一个警报(警报，第238页)。
+
+[spoiler]
+[size=14pt][b]PROBING THE TARGET[/b][/size]
+If you have the time to properly case your target, your hacking attempt is more likely to be successful and unnoticed. Using this method, you discreetly probe your target over an extended time frame, identifying system flaws that can be exploited for access. 
+
+Probing is a Hacking + Exploit Extended Test with a threshold equal to the target’s System + Firewall. The interval of the test is 1 hour if done in VR, 1 day if done by AR. Once you reach the threshold, you have found a crack in the system’s defenses that you can exploit to gain access. You do not automatically gain access; you have found the chink in the armor, but have not used it yet. These exploits do not remain forever, and can be removed if found by the node’s security or if the node is rebooted. As long as it remains in the node, you may use a Log On action to use your hacked account. This process grants you a user account. If you want a security account, increase the threshold by +3; for an admin account increase it by +6. 
+
+The target node gets one free Analyze + Firewall (hacker’s Stealth) Test when you first log on with the hacked account. If the node detects you, an alert is triggered (Alerts, p. 238).
+[/spoiler]
+
+[size=14pt][b]骇入时失误[/b][/size]
+
+在黑掉一个节点时，有许多可能的失误结果。你可能需要重新开始，或者节点可能为你的利用漏洞尝试做好了准备（在其分析+防火墙检定中获得奖励骰），或者当你达到延续检定的阈值时，你可能会自动触发警报。这并不是一份详尽的清单；GM在分配失误的后果时有自己的判断。
+
+[spoiler]
+[size=14pt][b]GLITCHES WHILE HACKING[/b][/size]
+There are a number of possible results of glitches while hacking a node. You may need to start over, or the node may be prepared for your exploit attempt (receiving a bonus on its Analyze + Firewall test), or you may automatically trigger an alert when you reach the threshold of the Extended Test. This is not an exhaustive list; the gamemaster uses her discretion when assigning the consequences of a glitch.
+[/spoiler]
+
+---
+
+[size=16pt][b]欺骗[/b][/size]
+
+当骇入的速度太慢，或者你只需要向一个设备发送一条指令，那么欺骗就是你的首选武器。欺骗一个节点或设备，向目标发送一条表面上看是来自授权用户的伪造指令。
+
+欺骗尝试的目标必须有一个自驾属性等级或者是一个外围设备。大多数情况下，你会欺骗一架无人机或一个代理，但你也可以用欺骗来做一些事情，如开锁，获得免费的出租车，以及让麦克休的自动烹饪机按照你喜欢的方式准备你的豆堡。
+
+在你可以欺骗之前，你必须有一个目标接受指令的访问ID。这可以通过在矩阵中找到一个授权用户并对她的图标进行矩阵侦察检定来获得她的访问ID。你也可以使用捕获无线信号动作来找到合法的指令，然后追踪通信源，这样你就可以得到访问ID。
+
+要欺骗一个目标，选择一个指令（参考发布指令动作，第229页），在你的骇入+欺骗和目标的自驾+防火墙或外围设备的系统等级+防火墙之间进行一个对抗检定（通常是设备等级×2）。如果该指令需要一个安保账户，则有一个-3的骰池修正，如果需要一个管理员账户，则有一个-6的骰池修正。如果你成功了，目标会接受并执行该指令。如果你失败了（或打成平手），设备或代理只是将该指令作为一个坏的数据包丢弃，不会发出警报。
+
+每个伪造指令动作只适用于一个指令；多个指令需要多次伪造指令尝试。
+
+[spoiler]
+[size=16pt][b]SPOOFING[/b][/size]
+When hacking is too slow, or you only need to send a single command to a device, then spoofing is your weapon of choice. Spoofing a node or device sends a forged command, ostensibly from an authorized user, to the target. 
+
+The target of a spoof attempt must either have a Pilot rating or be a peripheral device. Most often you will spoof a drone or an agent, but you may also use spoof to do things like unlock doors, get free cab rides, and make the McHugh’s autocooker prepare your soyburger exactly the way you like it. 
+
+Before you can spoof, you must have an access ID from which the target accepts commands. This can be done by finding an authorized user in the Matrix and making a Matrix Perception test on her icon to get her access ID. You can also use the Capture Wireless Traffic action to find legitimate orders and then Trace the communication back to its source, which will net you the access ID. 
+
+To spoof a target, choose a command (per the Issue Command action, p. 229) and make an an Opposed Test between your Hacking + Spoof and the target’s Pilot + Firewall or System + Firewall for peripheral devices (usually Device Rating x 2). There is a –3 dice pool modifier if the command requires a security account and a –6 dice pool modifier if it requires an admin account. If you succeed, the target accepts and executes the command. If you fail (or tie), the device or agent simply discards the command as a bad packet; no alert is issued. 
+
+Each Spoof Command action applies only to a single command; multiple commands require multiple Spoof Command attempts.
+[/spoiler]
+
+[i]
+要不是那个拿着重机枪的女孩，Clockwork的队伍就不会有事。她把他们压制在丛林里，无法动弹。他需要做点什么，而且要快！他已经有了这个士兵的访问ID，所以他需要做的就是向她的武器发出一个适当的指令。Clockwork发出信号，让他的团队做好准备，并向机枪发送一个伪造指令。
+
+Clockwork掷出他的骇入4加上他的欺骗程序5。该武器的设备等级为4，并在对抗检定中掷出8个骰子。发条得到4个成功，而机枪得到3个。它听从了他的命令，弹出了它的弹药箱，当黑客的队友冲锋时，士兵只剩下了一把空武器。
+[/i]
+
+[spoiler]
+[i]
+Clockwork’s team would be okay if it weren’t for the gal with the heavy machine gun. She has them pinned down in the jungle, unable to move. He needs to do something, and quick! He already has the soldier’s access ID, so all he needs to do is spoof an appropriate command to her weapon. Clockwork signals his team to get ready and sends the machine gun a spoofed command. 
+
+Clockwork rolls his Hacking 4 plus his Spoof 5 program. The weapon has a Device Rating of 4, and rolls 8 dice in the Opposed Test. Clockwork gets 4 hits, while the machine gun gets 3. It obeys his command to eject its ammo box and the soldier is left with an empty weapon as the hacker’s teammates charge.
+[/i]
+[/spoiler]
+
+---
+
+[size=14pt][b]XXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXX[/b][/size]
+
+[/spoiler]
+
