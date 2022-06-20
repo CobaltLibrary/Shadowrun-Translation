@@ -134,30 +134,214 @@ Clockwork rolls his Hacking 4 plus his Spoof 5 program. The weapon has a Device 
 
 ---
 
-[size=14pt][b]XXXXXXX[/b][/size]
+[size=16pt][b]矩阵战斗[/b][/size]
 
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXX[/b][/size]
-
-
+有时，含蓄的做法是值得的。其余的时候，你必须诉诸于蛮力。矩阵战斗遵循与其他战斗相同的流程。它是实时发生的，并遵循与物理和星界的战斗相同的三秒战斗轮。
 
 [spoiler]
-[size=14pt][b]XXXXXXXX[/b][/size]
-
+[size=16pt][b]CYBERCOMBAT[/b][/size]
+Sometimes it pays to be subtle. The rest of the time, you have to resort to brute force. Cybercombat follows the same procedure as other combat. It occurs in real time, and follows the same three-second Combat Turn as combat in the physical and astral worlds.
 [/spoiler]
 
-[size=14pt][b]XXXXXXX[/b][/size]
+[size=14pt][b]矩阵主动性[/b][/size]
 
-
+矩阵战斗中的主动性和矩阵中的所有动作都与物理和星界的其他动作同时进行。
 
 [spoiler]
-[size=14pt][b]XXXXXXXX[/b][/size]
-
+[size=14pt][b]MATRIX INITIATIVE[/b][/size]
+Initiative in Matrix combat and all actions in the Matrix are concurrent with other actions in the physical and astral planes.
 [/spoiler]
 
+[size=14pt][b]AR主动性[/b][/size]
+
+在增强现实中，你是以正常的肉体速度行动的。使用你的物理主动性和主动性流程是正常的（主动性，第144页）。你可以选择使用每个动作与物理世界或增强世界（矩阵）进行互动，或在两者之间分配简单或自由行动。
+
+[spoiler]
+[size=14pt][b]Augmented Initiative[/b][/size]
+In augmented reality, you’re acting at regular meat-body speeds. Use your physical Initiative and Initiative Passes as normal (Initiative, p. 144). You can choose to interact either with the physical world or the augmented world (the Matrix) with each action, or split Simple or Free Actions between the two.
+[/spoiler]
+
+[size=14pt][b]VR主动性[/b][/size]
+
+如果你在冷模虚拟现实中操作，你的矩阵主动性等于你的通讯链的响应能力+你的直觉；你也得到一个额外的主动性流程（总共两个）。如果你在热模中运行，你的矩阵主动性等于你的通讯链的响应能力+你的直觉+1，你还会得到两个额外的主动性流程（总共三个）。
+
+尽管矩阵主动性与物理主动性同时存在，但你使用矩阵主动性所做的任何动作都只能影响矩阵中的其他事物（除非你与物理世界互动，如操纵或控制设备时）。如果你想与物理世界而不是VR矩阵互动，你需要下线或者集中精力在你的肉体上，并花费一回合使用物理主动性（不要忘记VR中物理动作的-6骰池修正）。
+
+[spoiler]
+[size=14pt][b]Virtual Initiative[/b][/size]
+If you’re operating in cold sim virtual reality, your Matrix Initiative equals your commlink’s Response + your Intuition; you also get an extra Initiative Pass (two total). If you’re running with hot sim, your Matrix Initiative equals your commlink’s Response + your Intuition + 1, and you get two extra Initiative Passes (three total). 
+
+Though Matrix Initiative is concurrent with physical Initiative, any actions you take using your Matrix Initiative can only affect other things in the Matrix (unless you are interacting with the physical world, as when rigging or controlling a device). If you want to interact with the physical world rather than the VR Matrix, you need to either go offline or concentrate on your meat body and spend a turn using physical Initiative (not forgetting the –6 dice pool modifier for physical actions in VR).
+[/spoiler]
+
+[size=14pt][b]代理、IC和网精的主动性[/b][/size]
+
+代理、IC和网精的主动性等于自驾+响应能力。因为他们以数字速度行动，所以他们会得到两个额外的主动性流程（总共三个）。
+
+[spoiler]
+[size=14pt][b]AGENT, IC, AND SPRITE INITIATIVE[/b][/size]
+Agents, IC, and sprites have an Initiative equal to Pilot + Response. Because they act at digital speeds, they receive two extra Initiative Passes (three total).
+[/spoiler]
+
+[size=14pt][b]矩阵攻击[/b][/size]
+
+图标通过使用攻击程序执行矩阵攻击动作，如攻击、黑锤头或断片，在矩阵战斗中相互攻击。要攻击另一个图标，需要进行对抗检定。黑客使用矩阵战斗技能+他们所使用的程序的等级进行攻击。代理、IC和网精使用他们的等级+攻击程序的等级进行攻击。防守方的图标投响应能力+防火墙。
+
+如果攻击者获得了更多的成功，那么攻击就成功了--注意净成功数。否则，攻击就会失败。
+
+[spoiler]
+[size=14pt][b]MATRIX ATTACKS[/b][/size]
+Icons assault each other in cybercombat by performing the Matrix Attack action with an offensive program, such as Attack, Black Hammer, or Blackout. To attack another icon, make an Opposed Test. Hackers attack using Cybercombat skill + the rating of the program they are using. Agents, IC, and sprites attack using their rating + the offensive program rating. The defending icon rolls Response + Firewall. 
+
+If the attacker scores more hits, the attack succeeds—note the net hits. Otherwise the attack fails.
+[/spoiler]
+
+[size=14pt][b]矩阵全防御[/b][/size]
+
+你可以像普通战斗一样进行全防御（全防御，第160页），既可以作为一个复杂动作，也可以作为一个打断动作。当使用矩阵全防御时，在防御骰上加上你的骇入技能。IC、代理和网精在进行全防御时要加上他们的等级。
+
+[spoiler]
+[size=14pt][b]MATRIX FULL DEFENSE[/b][/size]
+You can go on full defense, as with regular combat (Full Defense, p. 160), either as a Complex Action or as an interrupt action. When defending with Matrix Full Defense, add your Hacking skill to the defense roll. IC, agents, and sprites add their rating when they go on full defense.
+[/spoiler]
+
+[size=14pt][b]矩阵伤害[/b][/size]
+
+攻击程序造成的基本矩阵伤害等于它加载的等级。因此，一个攻击4的程序的基本伤害值为4。 攻击检定的净成功会加到DV上。请注意，攻击程序对目标图标造成矩阵伤害。黑IC程序通过他们的拟感链接来攻击用户，所以他们直接对用户的眩晕或物理CM造成伤害。黑IC程序也有其他效果，如下所述。
+
+[spoiler]
+[size=14pt][b]MATRIX DAMAGE[/b][/size]
+The base Matrix damage inflicted by an offensive program is equal to its rating in boxes. So an Attack 4 program has a base Damage Value of 4. Net hits scored on the attack test are added to the DV. Note that Attack programs inflict Matrix damage to the target icon. Black IC programs attack users through their simsense link, so they inflict damage directly to the user’s Stun or Physical Condition Monitor. Black IC programs also have other effects, noted below.
+[/spoiler]
+
+[size=14pt][b]伤害抵抗[/b][/size]
+
+攻击程序对图标的矩阵伤害用系统等级+矩阵护甲检定来抵抗。来自黑IC攻击的伤害是用意志+生物反馈过滤器来抵抗的。从修正后的伤害值中扣除该检定的每个成功；任何剩余的DV都被应用于目标对应的CM。伤势负面调整值不适用于伤害抵抗检定。
+
+[spoiler]
+[size=14pt][b]DAMAGE RESISTANCE[/b][/size]
+Matrix damage to an icon from an Attack program is resisted with a System + Armor program Test. Damage from a Black IC attack is resisted with Willpower + Biofeedback Filter. Deduct each hit scored on this test from the modified Damage Value; any DV left over is applied to the target’s appropriate Condition Monitor. Negative modifiers from damage do not apply to damage resistance tests.
+[/spoiler]
+
+[size=14pt][b]矩阵状态监测器(矩阵CM)[/b][/size]
+
+矩阵状态监测器衡量了一个图标所能承受的矩阵伤害量。它的数值等于8+（系统等级÷2，四舍五入）。超链者没有矩阵状态监测器。
+
+当矩阵状态监测器上的所有方框都被填满时，一个图标就会崩溃。如果你的化身图标崩溃了，你会立即与矩阵断开连接，就像弹出动作一样（第229页）。如果你是在VR中操作，当这种情况发生时，你就会遭受到甩致休克。
+
+[spoiler]
+[size=14pt][b]MATRIX CONDITION MONITOR[/b][/size]
+The Matrix Condition Monitor measures the amount of Matrix damage an icon can take. It has a number of boxes equal to 8 + (System ÷ 2, rounded up). Technomancers do not have a Matrix Condition Monitor. 
+
+An icon crashes when all the boxes on its Matrix Condition Monitor are filled. If your persona icon crashes, you are immediately disconnected from the Matrix, as with the Jack Out action (p. 229). If you were operating in VR, you suffer dumpshock when this happens.
+[/spoiler]
+
+[size=14pt][b]甩致休克[/b][/size]
+
+任何在VR中被从母体中甩出的人都会遭受到令人讨厌的系统冲击，这被称为甩致休克。甩致休克的伤害值对于冷模用户是5S，对于热模用户是5P。用意志+生物反馈过滤器来抵抗甩致休克的伤害。除了伤害之外，你还会受到迷失方向的影响：在（10-你的意志）分钟内，你的所有行动都会受到-2的骰池修正。
+
+[spoiler]
+[size=14pt][b]DUMPSHOCK[/b][/size]
+Anyone who is dumped from the Matrix while in VR suffers a nasty system shock, called dumpshock. The Damage Value for dumpshock is 5S for cold sim users, 5P for hot sim users. Resist dumpshock damage with Willpower + Biofeedback Filter rating. You also suffer disorientation in addition to the damage: you suffer a –2 dice pool modifier on all actions for (10 – your Willpower) minutes.
+[/spoiler]
+
+[size=14pt][b]黑IC攻击[/b][/size]
+
+像黑锤头和断片这样的黑IC程序以过量BTL的强度给VR用户制造危险的生物反馈。为了使效果最大化，它们还颠覆了拟感界面，将链接锁定，使用户无法注销或切换界面模式，难以弹出，也更容易被追踪。
+
+一旦黑IC被用来对目标进行成功的攻击（即使击中后没有造成任何伤害），他的链接就会被锁定，在黑色IC被崩溃之前，他无法注销该节点。用户的任何弹出尝试都需要一个复杂动作。此外，用户必须在意志+生物反馈过滤器和黑IC的等级+响应能力之间进行对抗检定。如果黑IC打成平手或得到更多的成功，它就会阻止用户弹出。弹出的用户会遭受甩致休克。
+
+如果黑IC将用户打晕，它就会保持链接开启。在这一点上，安保系统可能会悠闲地追踪用户的连接。通常的做法是从他的通讯链上删除黑客可能窃取的任何数据，或者派一个安保黑客去搜索受害者的节点以寻找证据。
+
+断片的伤害不会溢出到物理CM中；在使目标失去知觉后，它就不再造成伤害了。黑锤头会像其他伤害一样溢出CM。溢出的物理伤害代表脑部伤害水平的提高。根据GM的判断，如果使用者在这次经历中幸存下来，他可能会受到神经系统的伤害，产生记忆缺失、幻觉、颤抖、幻痛、偏头痛或类似的情况。
+
+[spoiler]
+[size=14pt][b]BLACK IC ATTACKS[/b][/size]
+Black IC programs like Black Hammer and Blackout create dangerous biofeedback at BTL overdose intensity to VR users. In order to maximize the effect, they also subvert the sim interface and jam the connection open, making it impossible for the user to log off or switch interface modes, difficult to jack out, and easier to trace. 
+
+Once Black IC is used to make a successful attack on the target (even if the hit does no damage), his connection is jammed open and he cannot log off that node until the Black IC is crashed. Any attempt by the user to jack out takes a Complex Action. In addition, the user must engage the program in an Opposed Test between the user’s Willpower + Biofeedback Filter and the Black IC rating + Response. If the Black IC ties or scores more hits, it prevents the user from jacking out. Users who jack out suffer dumpshock.
+
+If Black IC knocks a user unconscious, it keeps the connection open. At this point, the system security may leisurely trace the user’s connection. It is common practice to delete any data the hacker may have stolen off his commlink, or send a security hacker to search the victim’s node for evidence. 
+
+Damage from Blackout will not overflow into the Physical Condition Monitor; it stops inflicting damage after rendering the target unconscious. Black Hammer overflows the Condition Monitor just like other damage. Overflow Physical damage represents increased levels of brain damage. At the gamemaster’s discretion, if the user survives the experience, he may suffer neurological damage that produces memory lapses, hallucinations, tremors, phantom pain, migraines, or similar conditions.
+[/spoiler]
+
+[size=14pt][b]在多个节点上同时作战[/b][/size]
+
+一个同时访问多个节点的黑客有可能同时在不同的节点受到攻击。在这种情况下，黑客的主动性适用于所有同时进行的战斗。黑客一次只能关注一场战斗，而且必须在每个主动性流程开始时指定哪一场。在剩下的时间里，他不能防御在其他战斗中对他的化身进行的攻击。如果他进行全防御，这些奖励只适用于他当时所关注的战斗。任何在一场战斗中造成的矩阵伤害都会影响他在所有战斗中的化身。
+
+[spoiler]
+[size=14pt][b]SIMULTANEOUS COMBAT IN MULTIPLE NODES[/b][/size]
+It is possible that a hacker who is accessing multiple nodes simultaneously may come under attack in different nodes at once. In this case, the hacker’s Initiative applies to all concurrent combats. The hacker can also only focus his attention on one combat at a time, and must designate which at the start of each Initiative Pass. For the rest of the pass, he cannot defend against attacks made against his persona in the other combat(s). If he goes on full defense, those bonuses only apply to the combat he is focused on at the time. Any Matrix damage inflicted in one combat affects his persona in all combats.
+[/spoiler]
+
+[i]
+Slamm-0!已经被一个IC程序逼到了角落。他首先攻击，使用他的矩阵战斗4+攻击程序4（8个骰子），得到3个成功。IC掷出它的响应等级5+防火墙4，但只得到了1个成功。Slamm-0!给IC造成了6DV伤害（4DV来自程序，加上2个净成功）。IC做了一个抵抗检定，只投了它的等级4（它没有运行一个矩阵护甲程序）。它得到了1个成功，足以将伤害减少到5S。IC有10点矩阵CM，所以它已经消耗掉了一半，现在受到了-1的伤势修正值。
+
+IC用断片程序进行反击，掷出等级4+断片4（7个骰子加上伤口惩罚）。IC这次很幸运，得到了4个成功。掷出他的响应能力5+防火墙3（8个骰子），Slamm-0!只得到了3个成功，所以黑IC通过了。
+
+Slamm-0!面临着来自断片的5S DV（来自程序的4次命中加上1个净成功），仅用他的意志3来抵抗（他没有使用生物反馈过滤器程序......哎呀）。他投了1个成功，把他的伤害减少到4S。黑IC还锁定了他的链接，使Slamm-0!无法注销。
+
+在他的下一个行动中，Slamm-0!试图弹出。在IC的断片4+响应能力3和Slamm-0!的意志3之间进行了一次对抗检定。不出所料，IC赢了，阻止了Slamm-0!拔掉插头。如果他不能在直接战斗中击败IC，他就会被烤焦。他的图标摆出了卡通式的肩膀，准备接受更多的惩罚。
+[/i]
+
+[spoiler]
+[i]
+Slamm-0! has been cornered by an IC program. He attacks first, using his Cybercombat 4 + Attack program 4 (8 dice), getting 3 hits. The IC rolls its Response 5 + Firewall 4, but gets only 1 hit. Slamm-0! inflicts 6 DV (4 from the program plus 2 net hits) on the IC. The IC makes a resistance test rolling only its Rating 4 (it is not running an Armor program). It gets 1 hit, enough to reduce the damage to 5 boxes. The IC has 10 boxes on its Matrix Condition Monitor, so it’s halfway to being finished, and now suffers from a –1 Wound modifier. 
+
+The IC strikes back with a Blackout program, rolling Rating 4 + Blackout 4 (7 dice with the wound penalty). The IC gets lucky this time, scoring 4 hits. Rolling his Response 5 + Firewall 3 (8 dice), Slamm-0! only gets 3 hits, so the Black IC gets through. 
+
+Slamm-0! is facing 5S DV from the Blackout (4 from the program plus 1 net hit), resisted with his Willpower 3 alone (he is not running with a Biofeedback Filter program … oops). He rolls 1 hit, reducing his damage to 4 Stun boxes. The Black IC also jams open his connection, preventing Slamm-0! from logging off. 
+
+On his next action, Slamm-0! tries to jack out. An Opposed Test is made between the IC’s Blackout 4 + Response 3 and Slamm-0!’s Willpower 3. Not surprisingly, the IC wins, preventing Slamm-0! from pulling the plug. If he doesn’t beat the IC in direct combat, he’s toast. His icon squares its cartoony shoulders and prepares for more punishment.
+[/i]
+[/spoiler]
+
+[quote]
+[b]战斗摘要[/b]
+ 
+[b]攻击:[/b]
+[table]
+[tr][td]化身[/td][td]矩阵战斗+攻击性程序[/td][/tr]
+[tr][td]代理，IC，网精[/td][td]矩阵战斗+攻击性程序[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]防御: [/b][/td][td]响应能力+防火墙[/td][/tr]
+[tr][td]全防御[/td][td]+骇入(化身)或等级(代理，IC，网精)[/td][/tr]
+[/table]
+
+[table]
+[tr][b]伤害:[/b][td]攻击性程序+净成功[/td][/tr]
+[/table]
+
+[b]伤害抵抗:[/b]
+[table]
+[tr][td]攻击[/td][td]系统等级+矩阵护甲，减少成功数伤害[/td][/tr]
+[tr][td]断片/黑锤头[/td][td]意志+生物反馈过滤器，减少成功数伤害[/td][/tr]
+
+[spoiler]
+[b]COMBAT SUMMARY[/b]
+ 
+[b]Attack:[/b]
+[table]
+[tr][td]Persona[/td][td]Cybercombat + offensive program[/td][/tr]
+[tr][td]Agent, IC, sprite[/td][td]Rating + offensive program[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]Defense: [/b][/td][td]Response + Firewall[/td][/tr]
+[tr][td]Full Defense[/td][td]+ Hacking (persona) or rating (agents, IC, sprites)[/td][/tr]
+[/table]
+
+[table]
+[tr][b]Damage Value:[/b][td]Offensive program + net hits[/td][/tr]
+[/table]
+
+[b]Damage Resistance:[/b]
+[table]
+[tr][td]Attack[/td][td]System + Armor, hits reduce damage[/td][/tr]
+[tr][td]Blackout/Black Hammer[/td][td]Willpower + Biofeedback Filter, hits reduce damage[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
