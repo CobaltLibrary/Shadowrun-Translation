@@ -103,182 +103,267 @@ Scan programs allow you to locate wireless networks. Every wireless device has a
 
 ---
 
-[size=16pt][b]通用程序[/b][/size]
+[size=16pt][b]骇入程序[/b][/size]
 
-通用程序是合法的，广泛存在于整个矩阵中。
-
-[spoiler]
-[size=16pt][b]COMMON USE PROGRAMS[/b][/size]
-Common use programs are widespread and legal throughout the Matrix.
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
-
-
+以下程序一般只被黑客和安保专家使用。在大多数司法管辖区，如果没有适当的许可，这些程序是非法的。黑客使用这些程序来利用安保缺陷和攻击图标。IC程序使用它们来对付入侵者(第237页)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=16pt][b]HACKING PROGRAMS[/b][/size]
+The following programs are generally only used by hackers and security specialists. In most jurisdictions, these programs are illegal without proper licensing. Hackers use these programs to exploit security flaws and attack icons. IC programs use them against intruders (p. 237).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]矩阵护甲(无)[/b][/size]
 
-
+矩阵护甲程序是软件冗余和自动备份系统，可以保护图标免受造成矩阵破坏的攻击(第237页)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]ARMOR (NONE)[/b][/size]
+Armor programs are software redundancy and automatic backup systems that protect icons from attacks that cause Matrix damage (p. 237).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]攻击(矩阵战斗/骇入)[/b][/size]
 
-
+攻击程序是敌意代码的载体，它试图杀死进程，引入随机输入，创建程序故障，以及以其他方式试图崩溃一个图标或程序。它们被用于矩阵战斗(第236页)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]ATTACK (CYBERCOMBAT/HACKING)[/b][/size]
+Attack programs are hostile code carriers that attempt to kill processes, introduce random input, create program faults, and otherwise try to crash an icon or program. They are used in cybercombat (p. 236).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]生物反馈过滤器(无)[/b][/size]
 
-
+生物反馈过滤器程序是监控模拟信号和过滤有害反馈的程序。黑客们使用生物反馈过滤器专门作为矩阵战斗中对黑锤头和断片程序的防御(第236页)，以及对甩致休克的防御(第237页)。超链者有一个与生俱来的生物反馈过滤器的复合程式，等级等于他们的魅力，所以他们不能把它作为一个复合形式。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]BIOFEEDBACK FILTER (NONE)[/b][/size]
+Biofeedback filters are software routines that monitor simsense signals and filter harmful feedback. Hackers specifically use biofeedback filters as a defense against Black Hammer and Blackout programs in cybercombat (p. 236) and against dumpshock (p. 237). Technomancers have an inherent Biofeedback Filter complex form equal to their Charisma, and so cannot take this as a complex form.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]黑锤头(矩阵战斗)[/b][/size]
 
+黑锤头是一个黑IC程序，它对目标和他的通讯链之间的指令交互进行采样，并将危险的生物反馈反应注入目标的拟感界面。这些加强的信号可能会使目标的神经连接过载，进而使他失去知觉或因中风、心力衰竭、呼吸麻痹、动脉瘤或神经递质自体中毒而死亡--这些只是部分可能的影响。它与矩阵攻击动作一起使用(第231页)。
 
+黑锤头是用来对付使用热模的全沉浸VR的黑客的武器，在矩阵战斗中造成物理伤害而不是矩阵伤害(第237页)。对付冷模的VR用户，它只造成眩晕伤害。它对程序、代理、IC、网精或AR用户没有影响。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
+[size=14pt][b]BLACK HAMMER (CYBERCOMBAT)[/b][/size]
+Black Hammer is a black IC program that samples the command transactions between the target and his commlink and injects dangerous biofeedback responses into the target’s simsense interface. These aggravated signals may overload the target’s neural connections and in turn render him unconscious or cause death from stroke, heart failure, respiratory paralysis, aneurysm, or neurotransmitter autotoxicity—and those are just a few of the possible effects. It is used with the Matrix Attack action (p. 231).
 
+Black Hammer is intended as a weapon against hackers in full VR using hot sim, causing Physical damage rather than Matrix damage in cybercombat (p. 237). Against cold sim VR users, it only inflicts Stun damage. It has no effect on programs, agents, IC, sprites, or AR users.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]断片(矩阵战斗)[/b][/size]
 
-
+断片是黑IC程序，是黑锤头的非致命版本。它对热模和冷模的VR用户都会造成眩晕伤害。与黑锤头一样，它与矩阵攻击动作一起使用(第231页)，对程序、代理、IC、网精或AR用户没有影响。断片的伤害不会溢出到物理CM中。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]BLACKOUT (CYBERCOMBAT)[/b][/size]
+Blackout is black IC program that is a non-lethal version of Black Hammer. It causes Stun damage to both hot sim and cold sim VR users. Like Black Hammer, it is used with the Matrix Attack action (p. 231) and has no effect on programs, agents, IC, sprites, or AR users. Damage from Blackout does not overflow into the Physical Condition Monitor.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]数据炸弹(无)[/b][/size]
 
+数据炸弹程序在文件或节点中创建了一种特殊形式的反应式可执行文件，称为数据炸弹。数据炸弹被附加到一个特定的文件或节点上，并被设置为在有人未经授权访问该文件或节点时激活。当被触发时，数据炸弹"爆炸"，并试图使访问该文件或节点的图标崩溃。如果所有者选择，数据炸弹也可以被指示擦除文件或崩溃节点。数据炸弹是通过设置数据炸弹动作(第231页)设置的。
 
+一个特定的文件或设备只能附加一个数据炸弹。你可以通过成功的矩阵侦察检定发现一个数据炸弹。
+
+你可以通过输入正确的密码来拆除一个数据炸弹。如果没有密码，你只能通过成功的解除数据炸弹行动来拆除一个被探测到的数据炸弹(第231页)。当它"引爆"时，数据炸弹会造成一定数量的矩阵伤害，相当于(等级×1D6)，然后数据炸弹被拆除。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
+[size=14pt][b]DATA BOMB (NONE)[/b][/size]
+Data Bomb programs create a specialized form of reactive executable in a file or node, called a data bomb (note the difference in capitalization: Data Bomb is the program, whereas a data bomb is the executable set by the program). A data bomb is attached to a specific file or node and set to activate if someone accesses the file or node without authorization. When triggered, a data bomb “explodes” and attempts to crash the icon that accessed the file or node. Data bombs may also be instructed to erase the file or crash the node, if the owner chooses. Data bombs are set with the Set Data Bomb action (p. 231). 
 
+Only one data bomb may be attached to a particular file or device. You can detect a data bomb with a successful Matrix Perception Test. 
+
+You can defuse a data bomb simply by entering the correct passcode. Without the passcode, you can only disable a detected data bomb with a successful Disarm Data Bomb action (p. 231). When it “detonates,” a data bomb inflicts a number of boxes of Matrix damage equal to (rating x 1D6), then the data bomb is deleted.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]解密(电子战)[/b][/size]
 
-
+解密程序被设计用来进行一些破坏密码的攻击--从模式分析到粗暴的字典攻击到复杂的数学技巧，以闯入一个加密的系统或服务。使用解密程序进行启动加密分析行动(第230页)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]DECRYPT (ELECTRONIC WARFARE)[/b][/size]
+Decrypt programs are designed to conduct a number of cipher-busting attacks—from pattern analysis to brute-force dictionary assaults to sophisticated mathematical tricks—to break into an encrypted system or service. Use Decrypt programs for Initiate Cryptanalysis actions (p. 230).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]拆除(骇入)[/b][/size]
 
-
+拆除程序的唯一用途是使保护文件或设备的数据炸弹失效。它与拆除数据炸弹的动作一起使用(第230页)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]DEFUSE (HACKING)[/b][/size]
+The sole purpose of the Defuse program is to deactivate data bombs that are protecting files or devices. It is used with the Disarm Data Bomb action (p. 230).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]ECCM(无)[/b][/size]
 
-
+电子对抗对措(ECCM)程序过滤掉试图破坏无线连接的干扰信号。ECCM程序在防御干扰时，会将其等级添加到其运行的设备的信号强度中(见第246页)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]ECCM (NONE)[/b][/size]
+Electronic counter-countermeasures (ECCM) filter out jamming signals that attempt to disrupt a wireless connection. An ECCM program adds its rating to the Signal rating of the device on which it is running when defending against jamming (see p. 246).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]利用漏洞(骇入)[/b][/size]
 
-
+利用漏洞程序是不断发展的黑客工具，专门设计来利用安保缺陷和弱点，以便使黑客能够获得对节点或程序的未经授权的访问。利用漏洞程序可与后台入侵(第230页)、检测目标弱点(第236页)以及崩溃节点和程序破坏(第230页)一起使用。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]EXPLOIT (HACKING)[/b][/size]
+Exploit programs are constantly evolving hacker tools specifically designed to take advantage of security flaws and weaknesses so that a hacker can gain unauthorized access to a node or program. Exploit programs are used with the Hack on the Fly action (p. 230), Probing the Target for weaknesses (p. 236), and Crashing Nodes and Programs (p. 230).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]医疗(计算机)[/b][/size]
 
+使用医疗程序来修复对图标造成的矩阵伤害。尽管合法用户有时会使用医疗程序来修复损坏的文件、不正常的程序和其他错误，但黑客则更多使用医疗程序来在一场矩阵战斗后保持运作。一些IC程序携带医疗程序来修复自己。使用医疗程序进行修复图标的动作(第231页)。
 
+虽然这个程序不能帮助超链者，但他们可以使用医疗复合程式来修复其他图标，如化身、代理或网精。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
+[size=14pt][b]MEDIC (COMPUTER)[/b][/size]
+Use Medic to repair Matrix damage inflicted on icons. Though legitimate users sometimes use Medic to fix corrupted files, misbehaving programs, and other errors, hackers use Medic to keep functioning after a bout of cybercombat. Some IC programs carry Medic programs to repair themselves. Use Medic for the Repair Icon action (p. 231).
 
+While this program cannot help technomancers, they may use the Medic complex form to repair other icons, such as personas, agents, or sprites.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]嗅探(电子战/骇入)[/b][/size]
 
-
+嗅探程序收集数据流量和无线信号并捕获信息。嗅探程序是矩阵的终极间谍工具，用于拦截流量(第230页)和捕获无线信号(第229页)的行动。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]SNIFFER (ELECTRONIC WARFARE/HACKING)[/b][/size]
+Sniffer programs gather data traffic and wireless signals and capture the information. Sniffer programs are the ultimate Matrix spying utility, used for the Intercept Traffic (p. 230) and Intercept Wireless Signals (p. 229) actions.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]欺骗(骇入)[/b][/size]
 
-
+你可以使用欺骗程序来生成虚假的访问ID，伪造误导性的数据包，目的是混淆跟踪程序。在重定向跟踪动作(第231页)或伪造指令动作(第232页)中使用欺骗程序。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]SPOOF (HACKING)[/b][/size]
+You can use Spoof programs to generate false access IDs and forge misleading data packets with the intent of confusing Track programs. Use Spoof for the Redirect Trace action (p. 231) or the Spoof Command action (p. 232).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]隐匿(骇入)[/b][/size]
 
-
+隐匿程序是一个智能的骇入程序，它试图将黑客从其他系统进程中隐藏起来。虽然它不能使一个图标完全不被发现，但它通过混淆黑客的活动、清除系统痕迹和模仿授权流量，使黑客看起来是无害的。虽然它不用于任何行动，但当黑客闯入系统时，隐匿程序可以使他不被防火墙发现(第227页)，同时也不被矩阵侦察检定(第228页)和追踪用户的尝试(第232页)抓到。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]STEALTH (HACKING)[/b][/size]
+Stealth is a clever hacker program that attempts to hide the hacker from other system processes. While it cannot make an icon completely undetectable, it makes the hacker seem innocuous by obfuscating his activities, erasing system tracks, and mimicking authorized traffic. While it is not used for any action, Stealth hides the hacker from detection by the Firewall as he breaks into a system (p. 227), as well as from Matrix Perception tests (p. 228) and Trace User attempts (p. 232).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]追踪(计算机)[/b][/size]
 
-
+追踪程序系统地分析用户的连接，跟踪数据轨迹，回到其源节点。追踪程序通常被IC使用，目的是识别/定位黑客或发起反击，但它也被用来监视自动出租车和紧急服务电话。追踪程序用于追踪用户的动作(第232页)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
-
+[size=14pt][b]TRACK (COMPUTER)[/b][/size]
+Track programs systematically analyze a user’s connection and follow the datatrail back to the originating node. Track is commonly used as an intrusion countermeasure with the intent of identifying/locating a hacker or launching a counterattack, but it is also used to keep tabs on automated taxis and emergency service calls. Track is used for the Trace User action (p. 232).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+---
 
+[size=16pt][b]代理和IC[/b][/size]
 
+代理是能够使用其他程序的半自主程序。矩阵用户使用代理作为助手或搜索机器人，而黑客也使用它们作为黑客的助手、诱饵、看门狗，甚至是武器平台。代理在矩阵中独立于用户运行，是矩阵版的无人机。他们有一定程度的自主能力，可以理解复杂的命令。
+
+代理有一个自驾属性，就像无人机一样(第244页)，它决定了代理的"聪明"程度。自驾程序作为代理的大脑解释命令。自驾属性是代理的系统等级，也是其计算机、矩阵战斗、数据搜索和骇入技能等级。代理也有自己的内置防火墙属性，等于他们的自驾属性等级。代理使用他们正在运行的节点的响应能力属性；这意味着独立运行的代理的属性可能在它从一个节点移动到另一个节点时有所不同。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
+[size=16pt][b]AGENTS AND IC[/b][/size]
+Agents are semi-autonomous programs capable of using other programs. Matrix users employ agents as assistants or search-bots, while hackers also use them as hacking aides, decoys, watchdogs, or even weapons platforms. Agents run independently of the user in the Matrix, the Matrix version of drones. They are capable of a degree of autonomy and can comprehend complex orders. 
 
+Agents have a Pilot attribute, much like drones (p. 244), that determines just how “smart” the agent is. Pilot acts as the agent’s brain, interpreting orders. The Pilot attribute acts as the agent’s System rating, as well as its Computer, Cybercombat, Data Search, and Hacking skill ratings. Agents also have their own built-in Firewall attribute, equal to their Pilot rating. Agents use the Response attribute of the node on which they are running; this means that the attributes of an agent operating independently may vary as it moves from node to node.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]使用代理[/b][/size]
 
+代理可以像其他程序一样被加载和运行，使用一个复杂动作来运行代理。代理是一个正在运行的程序，并计入一个节点的处理器限制中。如果你在你的化身所在的同一节点中运行代理(通常是你的通讯链)，它可以在你访问的任何节点中协助你。你必须有一个拥有在节点上运行程序权限的账户(通常是安保或管理员)。
 
+如果得到指示，代理也可以独立访问其他节点。他们必须通过使用你的账户或通过骇入获得自己的账户来访问节点。当独立运行时，一个代理有自己的图标。代理不能像化身程序那样在多个节点中拥有图标。
+
+装载到你的化身的代理程序使用你的访问ID。对代理程序的追踪可以追溯到你自己的源节点。
+
+独立于你的化身的代理(或IC)，无论是在你的通讯链上还是在其他设备上，都使用他们自己的硬编码访问ID来向其他节点识别自己。这个访问ID在一个给定的代理的所有副本中都是相同的，除非使用软件+逻辑(等级×3，1周)的延续检定给它打补丁。代理不具备软件技能，不能自我修补/编程。
+
+要让你的代理在矩阵中独立运行，你必须在与你的化身分离的节点上运行它(有适当的访问账户)，或者在你自己的节点上运行它，然后把它发送到其他节点上。即使你的"化身"脱机，代理也将继续在矩阵中运行。
+
+在你的节点上的代理将计入你的设备的处理器限制，但不计入你的订阅限制。独立运行的代理计入你的订阅限制，但不计入你的处理器限制。
+
+向代理发布命令的准则与向无人机发布命令的准则相同(第244页)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
+[size=14pt][b]USING AGENTS[/b][/size]
+Agents can be loaded and run like other programs, using a Complex Action to run the agent. The agent is a running program and counts against a node’s processor limit. If you run the agent in the same node in which your persona resides (usually your commlink), it can assist you in any nodes you access. You must have an account with permission to run programs on the node (usually security or admin). 
 
+Agents can also access other nodes independently, if instructed to do so. They must have access to the node either by using your account or by hacking their own. When operating independently, an agent has its own icon. Agents may not have icons in multiple nodes like persona programs can.
+
+Agents loaded into your persona use your access ID. Traces on an agent program trace back to your own point of origin. 
+
+Agents (or IC) acting independently of your persona, whether on your commlink or on some other device, use their own hardcoded access ID to identify themselves to other nodes. This access ID is identical in all copies of a given agent unless it is patched with a Software + Logic (Rating x 3, 1 week) Extended Test. Agents do not possess a Software skill and are not able self-patch/program. 
+
+To have your agent operate in the Matrix independently, you must either run it on a separate node from your persona (with an appropriate access account) or run it on your own node and then send it to other nodes. The agent will continue to operate in the Matrix even if your persona goes offline. 
+
+An agent on your node counts against your device’s processor limit, but not your subscription limit. An agent operating independently counts toward your subscription limit, but not your processor limit. 
+
+The guidelines for issuing commands to agents are the same as those for issuing commands to drones (p. 244).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]负载[/b][/size]
 
+你可以把你的程序的副本加载到你的代理中，这样它就可以自己运行和使用它们。如果一个代理是独立行动的，它所运行的任何程序都算在它所在的节点的处理器限制之内，因此可能会影响响应能力(第222页)。代理运行的任何程序都被限制到最高等于其自驾等级。
 
+如果你的代理在你的节点中运行，你可以运行一个程序并指定给你的代理使用，反之亦然。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXX[/b][/size]
+[size=14pt][b]PAYLOAD[/b][/size]
+You may load copies of your programs into your agent so that it may run and use them on its own. If an agent is acting independently, any programs it runs count against the processor limit of the node it is in, and so may affect Response (p. 222). Any program run by an agent is limited by its Pilot rating. 
 
+If your agent is running in your node, you may run a program and designate it for your agent’s use and vice versa.
 [/spoiler]
+
+[size=14pt][b]入侵对策程序(IC)[/b][/size]
+
+术语入侵对策程序(IC，读作"ice")是指一种专门的代理程序，用于防御系统。就所有游戏目的而言，IC程序等同于代理程序，其功能也相同。IC程序通常装载一些更具攻击性的程序来对付入侵者，如攻击、黑锤头或断片，以及分析、矩阵护甲或追踪。IC很少加载太多的程序，因为它和它运行的程序都算在节点的处理器限制内。
+
+一些节点会在警报被触发时启动IC程序，并指示它与入侵者交战。一旦启动，IC程序就会像独立运行的代理一样，彼此独立行动，独立于节点。每个IC程序都有自己的图标和主动性(代理、IC和网精主动性, 第236页)。
+
+更积极主动的IC程序可能会加载额外的程序，如利用漏洞或隐匿，如果入侵者离开节点，它们可能会主动追击，甚至跟踪入侵者回到他的源节点并在那里攻击他。IC程序通常被加载他们可能需要访问任何连接的系统的任何必要的密码。有时，一个节点会有IC不断巡逻，随机地分析图标。
+
+我们鼓励GM为他们的节点创建自己的IC。
+
+[spoiler]
+[size=14pt][b]INTRUSION COUNTERMEASURES (IC)[/b][/size]
+The term intrusion countermeasures (or IC, pronounced “ice”) refers to a specialized type of agent program that is used to defend a system. For all game purposes, IC programs are equivalent to agents and function the same way. IC programs are typically loaded with some of the more offensive programs to employ against intruders, like Attack, Black Hammer, or Blackout, as well as Analyze, Armor, or Track. IC rarely has too many programs loaded, as it and its running programs all count toward the node’s processor limit. 
+
+Some nodes will launch an IC program when an alert is triggered and direct it to engage the intruder(s). Once launched, IC programs act independently of each other and the node, as with agents that are running independently. Each IC program has its own icon and Initiative (Agent, IC, and Sprite Initiative, p. 236). 
+
+More proactive IC programs may be loaded with additional utilities such as Exploit or Stealth, and may actively pursue intruders if they leave the node or even track the intruder back to his originating node and attack him there. IC programs are typically loaded with any necessary passcodes they may need to access any connected systems. Sometimes a node has IC patrolling in it, Analyzing icons at random.
+
+Gamemasters are encouraged to create their own IC for their nodes.
+[/spoiler]
+
+[quote]
+[size=14pt][b]代理和自驾的能力[/b][/size]
+
+代理可能有能力独立运作，但这并不意味着他们有和黑客角色一样的能力。事实上，虽然他们在很多方面都非常聪明，但代理拥有一些缺点，使他们不如泛人类。
+
+指导自主型代理的自驾程序是一个令人难以置信的复杂软件，其逻辑和分析能力与任何泛人相当。然而，这并不意味着该代理具有与泛人同等的决策能力。他们不仅缺乏一生的经验作为判断的基础，他们还缺乏想象力、自发性，而且往往缺乏使他们能够充分理解情况的背景。例如，虽然代理可能明白某些与他人进行矩阵战斗的图标被认为是敌人，甚至可能掌握一些更精细的战术要点，但它不一定了解他们之间的个人关系或社会线索，因此不会意识到，例如，攻击一个图标可能会激怒另一个，或认识到一个图标正试图投降或转换立场，或理解一个图标只是在玩弄其对手，还没有放绝招。
+
+当代理以某种方式与物理世界互动时(例如通过传感器、安保系统或无人机)，上下文信息就更加缺乏了，因为代理的自驾是为矩阵活动编程的，而不是为与肉体空间互动而编程的。(无人机自驾就不是这样了，他们是为现实世界的活动而编程的，但专门为他们所处的无人机模型量身定做)。
+
+代理和自驾的创造性思维能力也很有限。他们倾向于坚持自己的命令，根据编程的决策树做出严格的逻辑选择--这不一定是最好的行动方案。当面临意外的障碍或不符合他们程序的选择时，他们倾向于退缩和重组--这是一个比即兴创作更安全的选择。请注意，代理确实有"模糊逻辑"的程序，允许他们对不精确的概念和条件进行判断和行动，但基于概括的概率采取行动也有其缺点。当有疑问时，GM可以根据适当的难度阈值秘密地进行自驾+响应能力检定，以确定代理如何根据他们的命令对困难情况作出反应(见《发布命令》第245页)。
+
+[spoiler]
+[size=14pt][b]AGENT AND PILOT COMPETENCY[/b][/size]
+Agents may be capable of operating independently, but this does not mean that they are just as capable as hacker characters. In fact, while they are very smart in many ways, agents possess a number of drawbacks that make them inferior to metahumans. 
+
+The Pilot program that guides an autonomous agent is an incredibly so phisticated piece of software with logical and analytic capabilities on par with any metahuman. This does not mean, however, that the agent has decisionmaking capabilities equal to metahuman. Not only do they lack a lifetime of experience to base their judgments on, they lack imagination, spontaneity, and often the context that would enable them to fully understand a situation. For example, while the agent may understand that certain icons engaged in cybercombat with others are considered enemies, and might even grasp some of the finer tactical points, it would not necessarily understand the personal relationships or social cues between them, and so would not realize that, say, attacking one icon might enrage another, or recognize that one icon is attempting to surrender or switch sides, or comprehend that one icon is simply toying with its opposition and hasn’t unleashed the big guns yet. 
+
+Contextual information is even more lacking when the agent interacts with the physical world in some way (via sensor, security system, or drone, for example), as agent Pilots are programmed for Matrix activities, not for interfacing with meatspace. (This is less true of drone Pilots, which are programmed for real-world activity, but are specifically tailored for the drone model they occupy.) 
+
+Agents and Pilots are also limited in their capacity for creative thought. They tend to stick to their orders, making strictly logical choices according to programmed decision trees—which may not always be the best course of action. When faced with an unexpected obstacle or choices that don’t fit their programming, they tend to fall back and regroup—a safer choice over improvisation. Note that agents do have “fuzzy logic” routines that allow them to judge and act on imprecise concepts and conditions, but taking action based on generalized probabilities also has its drawbacks. When in doubt, gamemasters can secretly roll a Pilot + Response Test against an appropriate difficulty threshold to determine how agents respond to difficult situations based on their orders (see Issuing Commands, p. 245).
+[/spoiler]
+[/quote]

@@ -47,7 +47,7 @@ The Data Search skill represents a character’s ability to sift through large a
 
 [size=14pt][b]使用电子战技能[/b][/size]
 
-这项技能是关于控制电波的。在无线世界中，有能力搜寻隐藏的节点，从无线电通信中收集情报，破解对手的密码，并在保护自己的信号完整性的同时屏蔽他人的信号是非常重要的。这项技能用于捕获无线信号，侦测隐藏节点，以及启动密码分析动作。
+这项技能是关于控制电波的。在无线世界中，有能力搜寻隐藏的节点，从无线电通信中收集情报，破解对手的密码，并在保护自己的信号完整性的同时屏蔽他人的信号是非常重要的。这项技能用于捕获无线信号，侦测隐藏节点，以及启动加密分析动作。
 
 [spoiler]
 [size=14pt][b]USING ELECTRONIC WARFARE[/b][/size]
