@@ -1,0 +1,384 @@
+[color=brown][size=16pt][b]操纵[/b][/size][/color]
+
+专注于操纵无人机和车辆的黑客(和超链者)倾向于使用与普通的系统黑客不同的装备和程序。机师不需要专注于将他们的通讯链调整为卓越的骇入机器，尽管良好的矩阵属性在进攻和防守方面依然都很有用。机师也倾向于减少对骇入工具的关注，而倾向于关注良好的信号强度和良好的扫描、指令、加密和嗅探程序，当然，还有大量的无人机和提升自身的矩阵属性。就技能而言，机师倾向于减少对骇入和软件的强调，而更加重视电子战、硬件以及各种自驾和机械技能。
+
+[spoiler]
+[color=brown][size=16pt][b]RIGGING[/b][/size][/color]
+Hackers (and technomancers) who focus on rigging drones and vehicles tend to favor different gear and programs than regular system hackers. Riggers do not need to focus on tweaking their commlink into a hacking machine par excellence, though good Matrix attributes are useful both offensively and defensively. Riggers also tend to concentrate less on hacking utilities, preferring instead to focus on a good Signal strength and good Scan, Command, Encrypt, and Sniffer programs, and of course, plenty of drones with amped Matrix attributes of their own. For skills, riggers tend to stress Hacking and Software less than Electronic Warfare, Hardware, and various Pilot and Mechanic skills.
+[/spoiler]
+
+---
+
+[size=16pt][b]无人机[/b][/size]
+
+几乎任何种类的车辆--车箱大小的汽车、微型旋翼机、像大狗一样大小的地面巡逻车，甚至是改装过的跑车--都可以作为无人机使用。无人机与普通车辆的关键区别在于，它们是独立的单元，要么自主行动，要么由机师远程操控。本节中的规则适用于无人机以及任何由用户控制的设备(例如，车辆、安保系统，甚至咖啡壶)。
+
+无人机(而且只有无人机)不能载客，而是装有一个完整的机师适配界面(第348页)。客运车辆或更大的客运无人机则没有，但可以安装该设备，其他设备也是如此。机师适配界面允许VR中的任何人跳入机师适配设备，并为任何有植入中控器的机师提供增益(第338页)。
+
+无人机是设备，像所有设备一样，每个设备在矩阵中都有自己的节点。某些形式的控制和操纵动作(第245页)需要你订阅这个节点才能发挥作用，而有些则不需要；这将在控制方法或动作的描述中指明。
+
+[spoiler]
+[size=16pt][b]DRONES[/b][/size]
+Nearly any kind of vehicle—matchbox-sized cars, miniature rotorcraft, ground patrol vehicles the size of a large dog, even modified sports cars—may serve as drones. The key difference that sets drones apart from ordinary vehicles is that they are intended to be independent units, either acting autonomously or controlled remotely by the rigger. The rules in this section apply to drones as well as any device controlled by a user (e.g., vehicles, security systems, and even coffee makers). 
+
+Drones (and only drones) are incapable of carrying passengers and are instead fitted with an integral rigger adaptation (p. 348). Passenger vehicles or larger passenger drones do not, but can have the equipment installed, as can other devices. Rigger adaptation allows anyone in VR to jump in to a rigger-adapted device and offers bonuses to any rigger with an implanted control rig (p. 338). 
+
+Drones are devices, and like all devices each has its own node in the Matrix. Some forms of control and rigging actions (p. 245) require you to be subscribed to this node in order to function, and some do not; this will be specified in the description of the control method or action.
+[/spoiler]
+
+[size=14pt][b]自驾程序[/b][/size]
+
+无人机、车辆和其他一些(半)自主设备都有一个特殊的系统程序，称为自驾程序。类似于代理的自驾程序，自驾程序是一种特殊的操作系统，具有半自主的决策算法和专门针对安装该程序的设备的特殊编程。自驾程序适用于那些必须能够评估情况、做出决定、适应、甚至可能独立于用户运作的设备，有时甚至是长时间运作。自驾等级越高，它就越"聪明"。
+
+自驾程序基本上是一个具有额外功能的系统程序。当你跳入无人机时，你就变成了无人机。你用无人机的传感器观察，像它的身体一样移动。你能感觉到你脚下的道路或你周围的空气在呼呼作响。你的平衡感和优雅感被应用到无人机上，你们一起成为比人和机器的融合更伟大的东西。在热模中，这种体验甚至更加强烈。每当使用无人机的系统等级时都会使用自驾属性进行代替。当需要时，它也代表无人机的"精神属性"(通常是直觉和逻辑，有时是意志)。
+
+自驾并不聪明，通常被称为"狗脑子"，这个词反映了它们的智力水平。当面对一个意外的或新奇的情况时，无人机会进行自驾+响应能力检定，检定的阈值由GM设定，看它的"常识"是否占优势。
+
+[spoiler]
+[size=14pt][b]PILOT PROGRAMS[/b][/size]
+Drones, vehicles, and some other (semi-)autonomous devices have a special System program called a Pilot program. Similar to an agent’s Pilot program, Pilot programs are a special type of OS featuring semiautonomous decision-making algorithms and special programming specific to the device on which it is installed. Pilot is for devices that must be able to assess situations, make decisions, adapt, and possibly even function independently of a user, sometimes for extended periods. The higher the Pilot rating, the “smarter” it is. 
+
+A Pilot program is basically a System program with extra feaWhen you jump into a drone, you become the drone. You see with the drone’s sensors and move as its body. You can feel the road cruising beneath you or the air whistling around you. Your sense of balance and grace is applied to the drone, and together you become something greater than the fusion of man and machine. In hot sim, the experience is even more intense. Data that would tures, and so is used whenever the drone’s System rating would be. It also stands for a drone’s “Mental attributes” when called for (usually Intuition and Logic, and sometimes Willpower). 
+
+Pilots are not bright, and are often called “dog-brains,” a term that reflects their intelligence level. When faced with an unexpected or novel situation, a drone makes a Pilot + Response Test with a threshold set by the gamemaster to see if its “common sense” prevails.
+[/spoiler]
+
+[size=14pt][b]无人机侦察[/b][/size]
+
+当观察它的(物理)周围环境时，无人机使用它的传感器等级(加上它的清晰视像自动软件的等级，如果正在运行的话)。当机师通过无人机的"眼睛"来感知世界时，他使用他的侦察技能和无人机的传感器等级，而不是他自己的直觉来计算骰子数量。
+
+[spoiler]
+[size=14pt][b]DRONE PERCEPTION[/b][/size]
+When observing its (physical) surroundings, a drone uses its Sensor rating (plus the rating of its Clearsight autosoft, if it is running one). When a rigger perceives the world through a drone’s “eyes,” he uses his Perception skill and the drone’s Sensor rating rather than his own Intuition for the dice pool.
+[/spoiler]
+
+[size=14pt][b]无人机主动性[/b][/size]
+
+像任何程序一样，无人机的自驾程序以数字速度行动。无人机的主动性等于自驾程序的等级+响应能力，他们会得到两个额外的主动性流程(总共三个)。当机师跳入无人机时，它反而按机师的主动性行动。如果机师跳出无人机，在战斗轮的剩余时间内，它以相同的主动性值行动。
+
+[spoiler]
+[size=14pt][b]DRONE INITIATIVE[/b][/size]
+Like any program, the drone’s Pilot acts at digital speeds. Drone Initiative equals Pilot rating + Response, and they receive two extra Initiative Passes (three total). When a rigger has jumped into the drone, it acts on the rigger’s Initiative instead. If a rigger jumps out of a drone, it acts with the same Initiative Score for the remainder of the Combat Turn.
+[/spoiler]
+
+---
+
+[size=16pt][b]控制无人机[/b][/size]
+
+有三种方式来控制无人机、载具或其他设备。你可以用普通语言向它发送指令，让它的自驾程序执行指令；指令通常通过矩阵发送，但也可以是口头的，通过手势等。你也可以用指令程序直接控制设备，凌驾于它的自驾程序之上，通过遥控来移动它。你也可以使用VR来跳入，这使你可以通过拟感和直接与你的感官和运动皮层的沟通来"成为"设备。
+
+[spoiler]
+[size=16pt][b]CONTROLLING DRONES[/b][/size]
+There are three ways to control a drone, vehicle, or other device. You may send it commands using plain language and letting its Pilot program execute the instructions; commands are usually sent via the Matrix, but they may also be verbal, by hand signal, etc. You may instead directly control the device with the Command program, overriding its Pilot and moving it around by remote control. You may also use VR to jump in, which allows you to be the device through simsense and direct communication with your senses and motor cortex.
+[/spoiler]
+
+[size=14pt][b]发布指令[/b][/size]
+
+你用发布指令的动作(第245页)给无人机或其他设备下达一个简短的指令。无人机会尝试在自己的动作阶段自主地执行这些指令。你需要能够与无人机沟通，例如通过矩阵，但不需要订阅无人机。作为一般规则，GM可以假设无人机复杂的机械大脑能够理解向它发出的任何指令，只要这些指令是在设备的通常功能范围内。例如，一架MCT-尼桑·旋翼无人机可以理解关于飞行路线、追踪目标、使用传感器等指令。然而，如果被指令把一个流浪汉从摩托车上撞下来或阻止一个横冲直撞的精魂，自驾程序很可能无法理解。自驾程序是计算机程序，所以对他们的指令照单全收--有时甚至过于照单全收。如果GM觉得某条指令属于灰色地带或者太过复杂，他可以为自驾程序秘密进行自驾+响应能力检定，看看它对指令的理解程度，并以适当的难度等级为基础。
+
+自动软件可以用来扩展无人机的"功能"定义，即它能理解哪些指令。例如，一架焊接无人机通常会对使用其焊枪攻击目标的指令感到困惑，但同样的无人机在运行瞄准(焊枪)程序时，对指令的理解不会有问题。
+
+[spoiler]
+[size=14pt][b]Issuing Commands[/b][/size]
+You give a short command to the drone or other device with the Issuing Command action (p. 245). The drone attempts to execute those orders autonomously on its own action phase. You need to be able to communicate with the drone, via the Matrix for example, but do not need to be subscribed to the drone. As a general rule, the gamemaster can assume that the sophisticated robotic brain of a drone understands any commands that are issued to it, as long as these commands are within the device’s usual range of function. An MCT-Nissan Roto-drone, for example, will understand commands regarding flight paths, tracking targets, using sensors, and so forth. If ordered to bump a ganger off his motorbike or stop a rampaging spirit, however, the Pilot will likely fail to understand. Pilots are computer programs, and so take their commands literally—sometimes too literally. If the gamemaster feels that a command falls within a gray area or is simply too convoluted, he can roll a secret Pilot + Response Test for the Pilot to see how well it comprehends the order, basing the threshold on an appropriate difficulty level. 
+
+An autosoft can be used to expand the definition of a drone’s “function” in terms of what commands it can understand. For example, a welding drone would normally be confused by orders to use its torch to attack a target, but the same drone running a Targeting (Welding Torch) program would have no trouble comprehending the command.
+[/spoiler]
+
+[size=14pt][b]遥控设备[/b][/size]
+
+你通过运行指令程序来控制一个设备。你一次只能控制一架无人机，而且必须对该无人机有一个有效的订阅。在你采取的任何动作中，你用你的指令程序等级来代替骰池的属性(侦察检定除外，它用无人机的传感器等级来代替你的侦察)。当使用这种方法时，你使用一套存在于AR或VR(视情况而定)的"控制"。这种控制方法是一个矩阵动作。控制无人机是一个复杂动作，即使无人机正在执行一个简单动作，如发射半自动武器或使用瞄准动作。除非已经代表机师执行了一个正在进行的动作，否则遥控无人机只有在收到指令时才会行动。(即在机师的动作上)。
+
+[spoiler]
+[size=14pt][b]REMOTE CONTROL[/b][/size]
+You control a device by running the Command program. You may control only one drone at a time, and must have an active subscription to that drone. You use your Command rating in place of the attribute for the dice pool for any action you take (except for Perception Tests, which use the drone’s Sensor rating in place of your Perception). When using this method, you use a set of “controls” that exist in either AR or VR (as appropriate). This method of control is a Matrix action. Controlling a drone is a Complex Action, even if the drone would be performing a Simple Action such as firing a semi-automatic weapon or using the Take Aim action. Unless already executing an ongoing action on the rigger’s behalf, a remote controlled drone acts only when it receives commands (ie. on the rigger’s action).
+[/spoiler]
+
+[size=14pt][b]跳入[/b][/size]
+
+你通过全沉浸VR"跳入"无人机。这需要订阅无人机、载具或设备，并需要一个简单动作。当跳入时，机师基本上"成为"了无人机，就像他自己的身体一样通过其传感器感知并操作它。一个跳入无人机的机师可以向其他无人机发出指令，但不能遥控它们。
+
+以这种方式控制的无人机按照机师的主动性行事，机师和无人机被视为一个整体。任何检定都使用机师的技能和无人机的属性(用响应能力代替敏捷和反应，用传感器等级代替直觉)。
+
+热模对机师和黑客都有好处。跳入无人机(或其他设备)的机师的所有动作都被认为是矩阵动作，并获得由于使用热模VR而带来的+2奖励。这种优势是双向的：当跳入驾驶的无人机受到伤害时，使用热模的机师也会通过他的运动皮层受到生物反馈伤害。在热模中，每次无人机受到伤害时，机师还必须用意志+生物反馈过滤器检定来抵抗一半的眩晕伤害(向上取整)；如果无人机被摧毁，机师就会从矩阵中被甩出去(和跳出时一样)，并立即受到甩致休克的影响(第237页)。
+
+[spoiler]
+[size=14pt][b]JUMPING IN[/b][/size]
+You “jump into” a drone via full VR. This requires a subscription to the drone, vehicle, or device and takes a Simple Action. When jumped in, the rigger essentially “becomes” the drone, perceiving through its sensors and operating it as if it were his own body. A rigger who has jumped into a drone can issue commands to other drones, but cannot control them remotely. 
+
+A drone controlled in this manner acts on the rigger’s Initiative the rigger and the drone are treated as a single unit. Any tests are made using the rigger’s skills and the drone’s attributes (substituting Response for Agility and Reaction and Sensor for Intuition). 
+
+Hot sim benefits the rigger as much as the hacker. All actions by a rigger who has jumped into a drone (or other device) are considered Matrix actions, and receive the benefit of the +2 bonus due to hot sim VR use. This advantage cuts both ways: when a jump-piloted drone takes damage, the rigger operating with hot sim also suffers biofeedback through his motor cortex. In hot sim, each time the drone suffers damage, the rigger must also resist half that amount (round up) in Stun damage with a Willpower + Biofeedback Filter Test; if the drone is destroyed, the rigger is dumped from the Matrix (as with jacking out) and immediately suffers the effects of dumpshock (p. 237).
+[/spoiler]
+
+[size=14pt][b]操纵安保系统和其他设备[/b][/size]
+
+非无人机，如摄像头、磁锁门、绊索、枪械平台或传感器等安保设备，也有可能安装机师适配界面。这允许机师跳入设备，像控制无人机一样控制它们。在许多建筑中，所有的安保设备都被订阅到一个中央节点上，蜘蛛可以跳入整个安保系统。安保机师感觉到门的打开是对他们皮肤的轻触，警报传感器的跳闸是他们手指上的嗡嗡声或一阵作痒，而大楼的警报则正如字面意义上地在他们的脑海中响起。
+
+[spoiler]
+[size=14pt][b]RIGGING SECURITY SYSTEMS AND OTHER DEVICES[/b][/size]
+It is possible for non-drones, such as security devices like cameras, maglock doors, tripwires, gun emplacements, or sensors, to have a rigger adaptation installed. This allows riggers to jump into the devices and control them as he would a drone. In many buildings, all security devices are subscribed to a central node on which a spider can jump into the entire security system. Security riggers feel the opening of doors as light touches on their skin, the tripping of alarm sensors as a buzz in their fingers or an itch, and the building’s alarm literally goes off in their heads.
+[/spoiler]
+
+[quote]
+[size=14pt][b]化身机械[/b][/size]
+
+当你跳进一架无人机时，你就变成了无人机。你用无人机的传感器看，像它的身体一样移动。你能感觉到你脚下的道路在游弋，或者空气在你身边呼啸。你的平衡感和优雅感被应用到无人机上，你们一起成为比人和机器的融合更伟大的东西。
+
+在热模中，这种体验甚至更加强烈。通常被转化为视觉或听觉的数据变成了本能和直观的感受。你的每一个想法都会转换给无人机，使你--无人机具有无可比拟的精确度。在热模跳入控制下的无人机被描述为流畅的，甚至是富有表现力的。
+
+任何人都可以使用VR来跳入无人机。拟感模块将适当的信息传达给用户的大脑，但被跳入是一个复杂的问题。感知输入很容易翻译，但机器必须解译运动和定位信号，并将其应用于运动皮层，而运动皮层已经在生物体上进行了一生的练习。对于这一点，中控器的效率要高得多，这反映在机师在跳入设备时做任何事都会得到+2的奖励。
+
+[spoiler]
+[size=14pt][b]BEING THE MACHINE[/b][/size]
+When you jump into a drone, you become the drone. You see with the drone’s sensors and move as its body. You can feel the road cruising beneath you or the air whistling around you. Your sense of balance and grace is applied to the drone, and together you become something greater than the fusion of man and machine.
+
+In hot sim, the experience is even more intense. Data that would normally have been translated as something visual or auditory becomes gut instinct and intuitive feelings. Your every thought is translated to the drone, giving the you-drone an unmatchable precision. Drones under hotsim jumped-in control have been described as fluid and even expressive. 
+
+Anyone can use VR to jump into a drone. A sim module communicates the appropriate information to the user’s brain, but being jumped in is a complicated matter. Sensory input is easy enough to translate, but the machine must decipher movement and positioning signals and apply them to a motor cortex that has had a lifetime of practice with a biological body. For this, a control rig is far more efficient, reflected in the +2 bonus a rigger receives for doing just about anything while jumped into a device.
+[/spoiler]
+[/quote]
+
+---
+
+[size=16pt][b]自动软件[/b][/size]
+
+自动软件是专门的程序，协助自驾程序承担其基本自驾程序所不包括的任务。例如，仅仅因为你在一架侦察无人机上添加了一挺机枪，并不意味着无人机知道如何识别、获取和射击目标。自动软件扩展或改进了无人机的能力，并将自动软件的功能添加到其自己的功能中，使其能够正确解释更多的指令。从规则上讲，自动软件为无人机提供了特定的技能，以便它们可以进行适当的技能检定。以下是可用的基本自动软件；更多的自动软件可在《Unwired》第112页找到。
+
+[spoiler]
+[size=16pt][b]AUTOSOFT PROGRAMS[/b][/size]
+Autosofts are specialized programs that assist Pilot programs in undertaking tasks that their basic Pilot programming does not cover. Just because you’ve added a machine gun to a recon drone, for example, does not mean that the drone knows how to identify, acquire, and shoot at targets. Autosofts expand or improve a drone’s capabilities and adds the autosoft’s functionality to its own, which allows it to correctly interpret a greater range of commands. In essence, autosofts provide drones with specific skills so that they may make the appropriate skill tests. The following are the basic autosofts available; more autosofts are available on p. 112, Unwired.
+[/spoiler]
+
+[size=14pt][b]清晰视像[/b][/size]
+
+清晰视像自动软件提高了自驾程序的认知能力，使其能够更好地分析和判断传感器输入。拥有这种自动软件的无人机投传感器+清晰视像来感知周围的世界
+
+[spoiler]
+[size=14pt][b]CLEARSIGHT[/b][/size]
+Clearsight autosofts improve the Pilot’s cognitive abilities, allowing it to better analyze and judge sensory input. A drone with this autosoft rolls Sensor + Clearsight when perceiving the world around it.
+[/spoiler]
+
+[size=14pt][b]防御[/b][/size]
+
+这个程序使无人机能够识别、防范、甚至躲避对其进行的物理攻击。装备了防御自动软件的无人机可以抵挡近战攻击(使用防御+自驾)，并能使用全防御(第160页)来对抗来袭的攻击。
+
+[spoiler]
+[size=14pt][b]DEFENSE[/b][/size]
+This program enables the drone to identify, guard against, and even dodge physical attacks made against it. A drone equipped with a Defense autosoft can parry against melee attacks (using Defense + Pilot) and use full defense (p. 160) against an incoming attack.
+[/spoiler]
+
+[size=14pt][b]电子战[/b][/size]
+
+这为无人机提供了关于无线电通信和使用电子战对付它们的深入知识。拥有这种自动软件的自驾程序可以拦截、解密、干扰信号，并采取电子战技能所能实现的其他动作(第227页)。
+
+[spoiler]
+[size=14pt][b]Electronic Warfare[/b][/size]
+This provides the drone with an in-depth knowledge of radio communications and the use of electronic warfare against them. A Pilot with this autosoft can intercept, decrypt, jam signals, and take on other actions made possible by the Electronic Warfare skill (p. 227).
+[/spoiler]
+
+[size=14pt][b]机动(载具种类)[/b][/size]
+
+这实际上是一系列驾驶自动软件，每一个都是针对特定类型的载具(例如，地面载具、人型载具等)。机动自动软件等同于载具技能。它们帮助自驾程序操纵其载具。它们包含了对无人机特定规格的全面指导，使自驾程序能够实现最佳性能，并将载具控制在其能力的极限。拥有这种自动软件的无人机使用自驾+机动进行载具检定(第168页)。
+
+[spoiler]
+[size=14pt][b]Maneuver (Vehicle Type)[/b][/size]
+This is actually a family of autosofts, each for a specific type of vehicle (e.g., ground vehicles, anthroform vehicles, etc.). Maneuver autosofts are equivalent to vehicle skills. They help a Pilot maneuver its vehicle. They contain a comprehensive guide to a drone’s particular specs, allowing the Pilot to achieve optimal performance and control the vehicle to the limits of its capabilities. A drone with this autosoft uses Pilot + Maneuver for Vehicle Tests (p. 168).
+[/spoiler]
+
+[size=14pt][b]瞄准(特定武器)[/b][/size]
+
+每个瞄准自动软件都模仿一个特定的武器攻击技能，如瞄准(手枪)或瞄准(长管枪械)。这个程序给了无人机关于使用相应武器的"知识"。无人机使用自驾+瞄准的方式进行攻击。
+
+[spoiler]
+[size=14pt][b]Targeting (Specific Weapon)[/b][/size]
+Each Targeting autosoft mimics a particular weapon attack skill, such as Targeting (Pistols) or Targeting (Longarms). This program gives the drone “knowledge” about the use of the appropriate weapon. A drone uses Pilot + Targeting for attacks.
+[/spoiler]
+
+---
+
+[size=16pt][b]电子战[/b][/size]
+
+机师往往要靠自己的能力与多架无人机一起工作：在这里跳入一个，在那里发送一组，用分散的资产管理不稳定的局势。为了有效地做到这一点，她需要能够与她的无人机沟通。电波对机师来说至关重要，对电波的控制意味着胜利和临时废品站之间的区别。
+
+[spoiler]
+[size=16pt][b]ELECTRONIC WARFARE[/b][/size]
+The rigger tends to work with multiple drones by the seat of her pants: jumping into one here, sending groups there, managing a fluid situation with disperse assets. To do this effectively, she needs to be able to communicate with her drones. The airwaves are vital to the rigger, and control of them can mean the difference between victory and an impromptu scrapyard.
+[/spoiler]
+
+[size=14pt][b]信号范围[/b][/size]
+
+你可以在矩阵的任何地方连接到你的无人机，但如果你能与它直接连接，那就更安全了。这意味着如果你正在使用一个战术网络，你的无人机必须保持在你和它自己的相互信号范围内。一个高的信号强度也使你的设备不容易受到干扰。
+
+[spoiler]
+[size=14pt][b]SIGNAL RANGE[/b][/size]
+You can connect to your drones anywhere in the Matrix, but it is much safer if you can make a direct link with it. This means that your drones must remain within mutual Signal range of yourself and possibly one another if you are using a tacnet. A high Signal rating also makes your devices less susceptible to jamming.
+[/spoiler]
+
+[size=14pt][b]扫描与嗅探[/b][/size]
+
+你无法影响你找不到的节点。在电子战中，你必须知道该地区有哪些设备，它们的能力是什么。一旦干扰器被激活，你可能就无法再找到它了。捕获无线信号（第229页）是找出附近有哪些设备的另一个好方法；通过分析流量，你可以推断出哪些节点是链接在一起的，以及它们的控制者希望它们做什么。
+
+[spoiler]
+[size=14pt][b]SCANNING AND SNIFFING[/b][/size]
+You cannot affect a node you cannot find. In electronic warfare, it is imperative that you know what devices are in the area and what their capabilities are. Once the jammer is activated, you might not be able to find it again. Capturing wireless traffic (p. 229) is another good way to find out what devices are in the vicinity; by analyzing the traffic, you can deduce what nodes are linked together and what their controller wants them to do.
+[/spoiler]
+
+[size=14pt][b]干扰与反干扰[/b][/size]
+
+控制行动区的无线电频率的最简单方法之一是使用干扰器。干扰器可以被配置成允许你的信号通过，而阻断其他信号。干扰装置的功率越大越好。
+
+电子对抗对措，或称ECCM，可以用来过滤掉干扰，让你的设备重新使用。当然，ECCM是一个程序，当你的无人机同时运行太多的程序时就会受到影响。如果你发现自己的处理器限制很紧张，另一种形式的电子对抗对措是禁用干扰设备。这可以通过摧毁或破坏干扰器来实现，也可以通过骇入攻击或欺骗设备来实现。
+
+[spoiler]
+[size=14pt][b]ECM AND ECCM[/b][/size]
+One of the easiest ways to control the radio frequencies of an operational zone is through the use of jamming. Jammers can be configured to allow your signals through while blocking others. The more powerful the jamming device, the better. 
+
+Electronic counter-countermeasures, or ECCM, can be used to filter out the jamming and allow your devices to be used again. Of course, ECCM is a program, and your drones suffer when they run too many programs at once. If you find yourself pressed for processor space, another form of electronic counter-countermeasures is to disable the jamming device. This can be done physically by destroying or damaging the jammer, or virtually by hacking or spoofing the device.
+[/spoiler]
+
+[size=14pt][b]加密[/b][/size]
+
+保护你的通信的一个方法是对其进行加密。这只会拖延攻击者，但也可能会让他拖延足够长的时间。
+
+[spoiler]
+[size=14pt][b]ENCRYPTION[/b][/size]
+One way to protect your communications is by encrypting it. This will only delay an attacker, but might delay him long enough.
+[/spoiler]
+
+[size=14pt][b]骇入和欺骗[/b][/size]
+
+攻击机师的另一个方法是控制她的无人机。骇入一架无人机可以让你完全控制它。骇入攻击的缺点是它需要时间。欺骗更快，但你能做的事情有限。欺骗还要求你有机师的访问ID，如果她在一个遥远的地方，这可能需要追踪程序。尽管如此，一个简短的命令，如"卸下你的武器"或"重新启动"就可以使无人机退出战斗。
+
+这种针对你的无人机的劫持企图可以通过跳入一个设备来挫败。跳入的机师会取代对无人机的任何其他控制，包括其自驾程序的控制。
+
+[spoiler]
+[size=14pt][b]HACKING AND SPOOFING[/b][/size]
+Another way to fight a rigger is to take control of her drones. Hacking a drone can give you full control over it. The drawback to hacking is that it takes time. Spoofing is faster, but limited in what you can do. Spoofing also requires that you have the rigger’s access ID, which may necessitate the Track program if she is in a remote location. Still, a single command, such as “unload your weapon” or “reboot” can take a drone out of a fight. 
+
+Such hijacking attempts against your drones can be foiled by jumping into a device. A jumped-in rigger overrides any other control of the drone, including by its Pilot.
+[/spoiler]
+
+[size=14pt][b]其他选项[/b][/size]
+
+本书提供了进行电子战的基本规则，但《暗影狂奔》为电磁战场提供了更多的选择，列在电子战参考资料下。
+
+[spoiler]
+[size=14pt][b]OTHER OPTIONS[/b][/size]
+This book offers basic rules for conducting electronic warfare, but Shadowrun offers more options for the electromagnetic battlefield, listed under Electronic Warfare References.
+[/spoiler]
+
+[quote]
+[size=14pt][b]常见机师/无人机检定表[/b][/size]
+
+[table]
+[tr][td][b]动作类型[/b][/td][td][b]机师跳入骰池[/b][/td][td][b]自驾无人机骰池[/b][/td][td][b]遥控设备骰池[/b][/td][/tr]
+[tr][td]主动性[/td][td]同机师[/td][td]自驾+响应能力[/td][td]同机师[/td][/tr]
+[tr][td]攻击[/td][td]传感器+炮术[/td][td]自驾+瞄准[/td][td]指令+炮术[/td][/tr]
+[tr][td]近战防御[/td][td]响应能力+近战技能[/td][td]自驾+防御[/td][td]指令+近战技能[/td][/tr]
+[tr][td]远程防御[/td][td]响应能力[/td][td]响应能力[/td][td]指令[/td][/tr]
+[tr][td]全防御[/td][td]同上+闪避[/td][td]同上+防御[/td][td]同上+闪避[/td][/tr]
+[tr][td]伤害抵抗[/td][td]机体+护甲[/td][td]机体+护甲[/td][td]机体+护甲[/td][/tr]
+[tr][td]潜行[/td][td]响应能力+潜行[/td][td]自驾+隐秘行动[/td][td]指令+潜行[/td][/tr]
+[tr][td]机动[/td][td]响应能力+载具技能[/td][td]自驾+机动[/td][td]指令+载具技能[/td][/tr]
+[tr][td]侦察[/td][td]传感器+侦察[/td][td]传感器+清晰视像[/td][td]传感器+侦察[/td][/tr]
+[/table]
+
+[spoiler]
+[size=14pt][b]COMMON RIGGER/DRONE TESTS[/b][/size]
+
+[table]
+[tr][td][b]Action[/b][/td][td][b]Jumped-In Rigger Dice Pool[/b][/td][td][b]Autonomous Drone Dice Poo[/b]l[/td][td][b]Remote-Controlled Dice Pool[/b][/td][/tr]
+[tr][td]Initiative[/td][td]as rigger[/td][td]Pilot + Response[/td][td]as rigger[/td][/tr]
+[tr][td]Attack[/td][td]Sensor + Gunnery[/td][td]Pilot + Targeting[/td][td]Command + Gunnery[/td][/tr]
+[tr][td]Melee Defense[/td][td]Response + Melee skill[/td][td]Pilot + Defense[/td][td]Command + Melee skill[/td][/tr]
+[tr][td]Ranged Defense[/td][td]Response[/td][td]Response[/td][td]Command[/td][/tr]
+[tr][td]Full Defense[/td][td]as above + Dodge[/td][td]as above + Defense[/td][td]as above + Dodge[/td][/tr]
+[tr][td]Damage Resistance[/td][td]Body + Armor[/td][td]Body + Armor[/td][td]Body + Armor[/td][/tr]
+[tr][td]Infiltration[/td][td]Response + Infiltration[/td][td]Pilot + Covert Ops[/td][td]Command + Infiltration[/td][/tr]
+[tr][td]Maneuvering[/td][td]Response + Vehicle skill[/td][td]Pilot + Maneuver[/td][td]Command + Vehicle skill[/td][/tr]
+[tr][td]Perception[/td][td]Sensor + Perception[/td][td]Sensor + Clearsight[/td][td]Sensor + Perception[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]电子战参考资料[/b][/size]
+
+[table]
+[tr][td]增幅[/td][td]第145页, Unwired[/td][/tr]
+[tr][td]定向天线[/td][td]第199页, Unwired[/td][/tr]
+[tr][td]EMP[/td][td]第105页, Unwired[/td][/tr]
+[tr][td]EMP榴弹[/td][td]第57页, Arsenal[/td][/tr]
+[tr][td]E感知[/td][td]第146页, Unwired[/td][/tr]
+[tr][td]消耗性干扰器[/td][td]第57页, Arsenal[/td][/tr]
+[tr][td]光纤[/td][td]第199页, Unwired[/td][/tr]
+[tr][td]硬化[/td][td]第58页, Arsenal[/td][/tr]
+[tr][td]高能射频武器[/td][td]第57页, Arsenal[/td][/tr]
+[tr][td]即时干扰[/td][td]第105页, Unwired[/td][/tr]
+[tr][td]激光链接[/td][td]第199页, Unwired[/td][/tr]
+[tr][td]活体ECM[/td][td]第146页, Unwired[/td][/tr]
+[tr][td]网状标签[/td][td]第199页, Unwired[/td][/tr]
+[tr][td]微波链接[/td][td]第199页, Unwired[/td][/tr]
+[tr][td]非标准无线链接[/td][td]第196页, Unwired[/td][/tr]
+[tr][td]中继无人机[/td][td]第198页, Unwired[/td][/tr]
+[tr][td]皮肤链接[/td][td]第147页, Unwired[/td][/tr]
+[tr][td]皮肤网阵列[/td][td]第200页, Unwired[/td][/tr]
+[tr][td]智能干扰器[/td][td]第58页, Arsenal[/td][/tr]
+[tr][td]战术软件[/td][td]第124页, Unwired[/td][/tr]
+[/table]
+
+[spoiler]
+[size=14pt][b]ELECTRONIC WARFARE REFERENCES[/b][/size]
+
+[table]
+[tr][td]Amplification[/td][td]p. 145, Unwired[/td][/tr]
+[tr][td]Directional Antenna[/td][td]p. 199, Unwired[/td][/tr]
+[tr][td]EMP[/td][td]p. 105, Unwired[/td][/tr]
+[tr][td]EMP Grenade[/td][td]p. 57, Arsenal[/td][/tr]
+[tr][td]E-Sensing[/td][td]p. 146, Unwired[/td][/tr]
+[tr][td]Expendable Jammer[/td][td]p. 57, Arsenal[/td][/tr]
+[tr][td]Fiberoptic Cable[/td][td]p. 199, Unwired[/td][/tr]
+[tr][td]Hardening[/td][td]p. 58, Arsenal[/td][/tr]
+[tr][td]HERF Gun[/td][td]p. 57, Arsenal[/td][/tr]
+[tr][td]Jamming on the Fly[/td][td]p. 105, Unwired[/td][/tr]
+[tr][td]Laser Link[/td][td]p. 199, Unwired[/td][/tr]
+[tr][td]Living ECM[/td][td]p. 146, Unwired[/td][/tr]
+[tr][td]Mesh Tags[/td][td]p. 199, Unwired[/td][/tr]
+[tr][td]Microwave Link[/td][td]p. 199, Unwired[/td][/tr]
+[tr][td]Nonstandard Wireless Link[/td][td]p. 196, Unwired[/td][/tr]
+[tr][td]Repeater Drone[/td][td]p. 198, Unwired[/td][/tr]
+[tr][td]Skinlink[/td][td]p. 147, Unwired[/td][/tr]
+[tr][td]Skinweb Array[/td][td]p. 200, Unwired[/td][/tr]
+[tr][td]Smart Jammer[/td][td]p. 58, Arsenal[/td][/tr]
+[tr][td]Tactical Software[/td][td]p. 124, Unwired[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]掌握操纵技术[/b][/size]
+
+鉴于操纵方式的多样性，追踪你在尝试某件事情时应该使用的骰池可能是令人生畏的。
+
+一般来说，所选择的操纵方法，以及是否由人类控制或无人机自驾来控制决定了所涉及的基本骰池。便捷的常见机师/无人机检定表描述了一些典型的操纵和驾驶动作中最常见的骰池，无论车辆是由其自驾程序控制，还是由"跳入"的机师控制，或者是被遥控。
+
+所有这样的操纵骰池，一如既往地受制于适当的修正，这些修正又在前面的规则和其他章节的相关部分中描述。特别是战斗章节中的载具战斗（第157页），描述了适用于驾驶和机动、攻击和防御的各种阈值和骰池修正，以及适用于未植入的驾驶员和机师的基本传感器和瞄准检定。特别重要的是车辆检定阈值表（第168页）和地形检定表（第169页）。
+
+关于具体的传感器、它们的使用以及所涉及的检定的信息，可以在街头装备一章中找到（第333页）。
+
+额外的机师技巧在《Unwired》，矩阵扩展书中介绍，装备书《Arsenal》中的载具定制规则为机师角色开放了更多的可探索选项。
+
+[spoiler]
+[size=14pt][b]GETTING TO GRIPS WITH RIGGING[/b][/size]
+Keeping track of what dice pools you should be using when attempting something while rigging can be daunting given the variety of control options available. 
+
+Generally the chosen method of control and whether or not it is a human at the helm or the drone’s Pilot is what determines the basic dice pools involved. The handy Common Rigger/Drone Tests Table describes the most common dice pools used in a number of typical rigging and piloting actions, whether the vehicle is being controlled by its Pilot software, a “jumped in” rigger, or it is being remote controlled. 
+
+All such rigging dice pools are subject, as always, to appropriate modifiers, which are in turn described in the preceding rules and relevant sections of other chapters. Notably Vehicle Combat (p. 157), in the Combat chapter, describes the various threshold and dice pool modifiers that apply to piloting and maneuvering, attack and defense, as well as basic sensor and targeting tests for both unaugmented drivers and riggers. Of particular importance are the Vehicle Test Threshold Table (p. 168) and the Terrain Test Table (p. 169). 
+
+Information on specific sensors, their use, and the tests involved, can be found in the Street Gear chapter (p. 333). 
+
+Additional rigger tricks are introduced in Unwired, the advanced Matrix book and the vehicle customization rules in the gear book Arsenal open up even more options and gimmicks for rigger characters to explore.
+[/spoiler]
+[/quote]
