@@ -1,0 +1,185 @@
+[center][b][size=24pt][color=maroon]接入点 JACKPOINT[/color][/size][/b][/center]
+
+[quote]
+正在连接到Jackpoint VPN…
+…伪造矩阵访问ID
+…生成加密密钥
+…链接到洋葱路由
+>登录：************
+>输入密码：************
+…生物识别扫描确认
+已连接到<ERROR：未知节点>
+
+[spoiler]
+Connecting Jackpoint VPN... 
+...Matrix Access ID Spoofed 
+...Encryption Keys Generated 
+...Connected to Onion Routers 
+>Login 
+************
+>Enter Passcode
+************
+...Biometric Scan Confirmed 
+Connected to < ERROR: NODE UNKNOWN >
+[/spoiler]
+[/quote]
+
+
+[size=14pt][i]破坏的冲动是一种创造性的冲动。[/i][/size]
+
+[spoiler]
+“The urge to destroy is a creative urge.”
+[/spoiler]
+
+[quote]
+[size=18pt][b][color=maroon]接入点 JackPoint[/color][/b][/size]
+
+[b]欢迎回到接入点，小子；[/b]
+
+[b]你上一次切断链接是在1小时50分钟1秒前。[/b]
+
+[b]接入点统计：[/b]
+
+[b]目前线上有57名活跃用户[/b]
+
+[b]最新消息：[/b]
+<ERROR> 新闻当前不可用 <ERROR>
+
+[b]个人通知：[/b]
+
+* 你的信息已被全部删除。
+
+* 你的代理 史密斯 已经崩溃。重新启动？是/否
+
+* 你的代理 史卡利 正在报告 操作性受损
+
+* 你的处理器限制已达到总容量的97%
+
+[b]最高等级[/b]
+<ERROR> 最高等级当前不可用 <ERROR>
+
+[b]你目前的声誉分数: 57 (95%积极)[/b]
+
+[b]当前时间: 2071年5月9日22时18分[/b]
+
+[spoiler]
+[size=18pt][b][color=maroon]JackPoint[/color][/b][/size]
+
+Welcome back to Jackpoint, omae; 
+
+your last connection was severed: 1 hour, 50 minutes, 1 second ago
+
+[b]JACKPOINT STATS 57 users currently active in the network[/b]
+
+[b]Latest News[/b]
+* <ERROR> Newsfeed currently unavailable.
+
+[b]Personal Alerts[/b]
+*   Your messages have all been erased.
+*   Your Agent Smithers has crashed. Restart? Y/N
+*   Your Agent Scully is reporting impaired operability.
+*   Your processor limit is at 97% capacity
+
+[b]First Degree[/b]
+<ERROR> First Degree currently unavailable
+
+[b]Your Current Rep Score: 57 (95% Positive)[/b]
+
+[b]Current Time: May 09, 2071, 2218[/b]
+[/spoiler]
+[/quote]
+
+[quote]
+[b]ComStar防火墙警报[/b]
+
+你的通讯链防御系统已被一个未知的入侵者攻破。
+
+进攻性反击措施已启动。
+
+追踪程序已启动。
+
+杰克锤头已加载。
+
+你是否希望参与？是/否
+
+[spoiler]
+[b]ComStar Firewall Alert[/b]
+
+Your commlink defenses have been breached by an unknown intruder. 
+
+Offensive Countermeasures Initiated. 
+
+Trace Initiated. 
+
+Jackhammer Loaded.
+
+Do You Wish to Engage? Y/N
+[/spoiler]
+[/quote]
+
+[quote]
+[b]追踪程序已启动[/b]
+
+... 已识别代理服务器。[详情]
+
+... 启动代理服务器流量分析
+
+[spoiler]
+[b]Trace Initiated[/b]
+
+... Proxy Server Identified. [Details]
+
+... Initiating Proxy Server Traffic Analysis
+[/spoiler]
+[/quote]
+
+[quote][size=12pt]
+[b]危险！你的化身锟斤拷烫烫烫.....[{ 0a3d0d[/b]
+
+[b]&&&^^^^^12e958>:.09[/b]
+
+[b]56fdd8 *&Dc8d * CY&DSgt[/b]
+
+[b]FDSSFDds87[/b]
+
+[b]... ERROR ///[/b]
+[/size]
+
+[spoiler]
+[size=12pt]
+[b]Danger! Your Pers0nn85#2d.....[{ 0a3d0d[/b]
+
+[b]&&&^^^^^12e958>:.09[/b]
+
+[b]56fdd8 *&Dc8d * CY&DSgt[/b]
+
+[b]FDSSFDds87[/b]
+
+[b]... ERROR ///[/b]
+[/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[b]无线______________________[/b]
+[b]特邀嘉宾：Otaku-Zuku Inbus[/b]
+
+[b]带有"无线"标签的发帖/文件：[/b]
+* 傻瓜式矩阵指南
+* 黑客手册
+* 超链者 
+* 矩阵现象
+
+[spoiler]
+[b]unwired___________________[/b]
+[b]Invited Guests Otaku-Zuku Inbus[/b]
+
+[b]Posts/Files tagged with “Unwired”:[/b]
+* Idiot’s Guide to the Matrix 
+* Hacker’s Handbook 
+* Technomancers 
+* Matrix Phenomena
+[More]
+[/spoiler]
+[/quote]
