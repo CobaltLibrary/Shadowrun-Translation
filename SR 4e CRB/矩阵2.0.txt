@@ -112,7 +112,7 @@ Commlinks come in a dizzying array of shapes, sizes, and colors, from stylized h
 
 [size=12pt][b]数据管理[/b][/size]
 
-通讯链还为你提供了与你周围的世界的即时无线连接。不仅可以通过矩阵发消息，打电话，传输文件或访问数据，你还可以访问你周围的无线设备和网络，从商店的销售目录到你朋友的PAN，从路灯上的旅游信息RFID标签到任何想到公园下棋的人的网络社交资料。
+通讯链还为你提供了与你周围的世界的即时无线连接。你不仅可以通过矩阵发消息，打电话，传输文件或访问数据，还可以访问你周围的无线设备和网络，从商店的销售目录到你朋友的PAN，从路灯上的旅游信息RFID标签到任何想到公园下棋的人的网络社交资料。
 
 通讯链通常携带了你所有的个人数据以取代旧的注册凭证。你的ID，SIN，执照，护照，医疗历史，保险数据，教育文凭，信用余额，和更多信息都可以安全地存储在你的通讯链里，并可以立即发送给任何你想要发送给的人。
 
@@ -135,6 +135,7 @@ Most users carefully control how much information they make publicly available, 
 
 [quote]
 [size=14pt][b]与AR世界互动[/b][/size]
+
 示例 #1
 亚历克斯心不在焉地把她的泰克森SP9音乐播放器塞到耳后，把她的法布里克·合一通讯链装到夹克口袋里，然后前往商场。这两个设备共用一副耳机，并且能够识别到彼此; 如果合一通讯链收到提醒，泰克森SP9会暂时切换至静音模式。她的通讯链是PAN的核心组件，可以让她访问基本的无线服务。亚历克斯还拥有一副便宜的坦迪智能眼镜，但她没有数据插口或电极贴片，所以她用她的通讯链上的滚轮来控制界面。当她进入商场时，亚历克斯访问它的公共节点，在她的视野中叠加了商场的地图。她快速浏览目录，将她想要访问的商店添加到她的热点列表中，并在地图上自动以蓝色高亮显示它们。当她进入每家商店时，她的通讯链会显示今天的特惠商品列表(根据她的私人购物资料定制)和一张详细的地图。当进入"时尚音乐"中时，她会立即连接到商店的音乐库，在购买几首歌之前先试听一下，之后下载到她的SP9播放器中。当她购买音乐时，系统会提醒她，她购买歌曲之一的音乐人英格丽·尼德斯特姆(Ingrid needstrom)下周将在市中心举行一场演出。她打电话给她的朋友瑞秋，让她知道音乐会。瑞秋打算去，所以亚历克斯在网上买了两张票(还在店里)，然后把其中一张发给了瑞秋。当她离开商场的时候她收到了几条匿名信息，全都是某个龌龊的家伙发来的，这个家伙看了她通讯链的社交资料后想要和她搭讪。亚历克斯设置了她的通讯链来屏蔽该用户未来发来的所有消息。
 
@@ -146,6 +147,7 @@ Most users carefully control how much information they make publicly available, 
 
 [spoiler]
 [size=14pt][b]INTERACTING WITH THE AUGMENTED WORLD[/b][/size]
+
 Example #1 
 Sketchy Alex heads to the mall with her TekSense SP9 music player tucked behind her ear and her Fabrique ALLIN1 commlink in her jacket pocket. The two devices share a pair of headphones and are aware of one another; if the ALLIN1 needs attention, the TekSense SP9 will temporarily mute itself. Her commlink is her PAN’s core component and gives her access to basic wireless services. Alex also has a cheap pair of Tandy smartglasses, but no datajack or trodes, so she controls the interface with the scroll wheel on her commlink. As she enters the mall, Alex accesses its public node, superimposing a map of the mall in her vision. She quickly browses the directory and adds the stores she wants to visit to her hotlist, auto-highlighting them in blue on the map.As she enters each store, her commlink displays a list of today’s specials (tailored to her personal purchasing profile) and a detailed map.In Trendz Music, she instantly connects to the store’s music library, sampling several songs before buying them and downloading them directly to her SP9. As she’s purchasing the music, the system lets her know that Ingrid Needstrom—one of the musicians she bought songs from—is playing a gig downtown next week. She calls her friend Rachel via her commlink to let her know about the concert. Rachel is interested in going, so Alex buys two tickets online (still inside the store) and zaps one of them over to Rachel. As she’s leaving the mall, Alex receives several anonymous text messages from some sleazy guy who read her commlink’s social profile and is trying to hit on her. She sets her commlink to block all future messages from that user.
 
@@ -197,7 +199,7 @@ Control and manipulation of the AR interface can be accomplished with a variety 
 
 对于那些想要完整的矩阵体验的人来说，你们可以比AR更进一步，让你的感官完全沉浸在矩阵的虚拟现实中。在VR中，你的物理感知被矩阵的感官信息所覆写。你不是在体验你肉体周围的真实世界，而是体验成为你化身图标的电子模拟矩阵。
 
-要访问完整的VR，需要一个拟感模块和一个直接神经界面。植入式拟感模块也可以作为模录器或植入式通讯器的附加组件购买。作为一项安全防范措施，当你在VR中时，拟感会覆盖你的运动功能，这样你就不会在不知不觉中在现实世界中移动，并可能伤害到你自己或你周围的环境。这意味着，当你在线上时，你的身体是瘫痪的，就像你在睡觉一样。在非常困难的情况下，你仍然可以通过你的肉体感官进行感知，或者在VR中移动你的肉体。
+要访问完整的VR，需要一个拟感模块和一个直接神经界面。植入式拟感模块也可以作为模录器或植入式通讯链的附加组件购买。作为一项安全防范措施，当你在VR中时，拟感会覆盖你的运动功能，这样你就不会在不知不觉中在现实世界中移动，并可能伤害到你自己或你周围的环境。这意味着，当你在线上时，你的身体是瘫痪的，就像你在睡觉一样。在非常困难的情况下，你仍然可以通过你的肉体感官进行感知，或者在VR中移动你的肉体。
 
 VR之所以这么受欢迎，有如下几个原因。VR环境对于激烈而真实的游戏体验来说是非常棒的，而可定制的拟感娱乐节目比标准的全息视频更受欢迎。由于你的图标可以有任意塑模，VR比AR更匿名，是进行阴暗交易或简单社交的绝佳媒介，而不必克服由长相、泛人种族、社会阶层等造成的障碍。有时，只是在矩阵的一些特别塑模的VR景观中散步也是一种有趣的打发时间的方式，就像生活在一个视频游戏中。它对一些专业功能也非常有用，包括虚拟建模、高速交易、机器人控制、安保、远程合作企业等。
 
@@ -222,11 +224,11 @@ In VR, you become your persona icon. The persona firmware makes you feel like yo
 
 [size=14pt][b]区域[/b][/size]
 
-无线网络可能足以塞满大多数城市地区，但世界上依然有许多地方的技术是不存在的、过时的或不可靠的。这种情况在充斥着颓败、犯罪和贫穷的城市遗弃地区尤其常见，尽管那里有些无线基础设施是由犯罪集团、科技帮派或无政府主义团体维护的。这些地区被称为静滞区，那里的链接是间歇性的或不可靠的，还有死亡区，那里完全没有矩阵链接。
+无线网络可能足以塞满大多数城市地区，但世界上依然有许多地方的技术是不存在的、过时的或不可靠的。这种情况在充斥着颓败、犯罪和贫穷的城市遗弃地区尤其常见，尽管那里有些无线基础设施是由犯罪集团、科技帮派或无政府主义团体维护的。这些地区被称为静滞区，那里的链接是间歇性的或不可靠的，还有死障区，那里完全没有矩阵链接。
 
-在静滞区，由于技术设备质量差和/或需要额外的时延来绕过网络中的漏洞，在矩阵活动比较困难。在死亡区，如果没有强大的信号增强设备或卫星链接，无线接入是根本不可能的（除非你碰巧在某个地方找到一个孤立的无线热点或老式的有线连接）。
+在静滞区，由于技术设备质量差和/或需要额外的时延来绕过网络中的漏洞，在矩阵活动比较困难。在死障区，如果没有强大的信号增强设备或卫星链接，无线接入是根本不可能的（除非你碰巧在某个地方找到一个孤立的无线热点或老式的有线连接）。
 
-超链者发现静滞区和死】死亡区是令人不安和不适的。没有数据流的持续嗡嗡声背景使他们感到痒痒的。超链者在物理世界中可能会感到沮丧、烦躁或其他不安情绪。
+超链者发现静滞区和死障区是令人不适且不安的。没有数据流的持续背景嗡嗡声使他们感到痒痒的。超链者在物理世界中可能会感到沮丧、烦躁或其他不安情绪。
 
 为了解决某些地区缺乏网络的问题，人们有时会建立起临时网络。这通常是通过在一个地区周围散布一些廉价的具有无线功能的设备来实现的。如果你在荒原上发现一个看起来像刚下过烤面包机的地方，你现在知道为什么了。
 
@@ -246,14 +248,14 @@ On the flipside are spam zones, areas where manipulative advertising tricks are 
 [/spoiler]
 
 [quote]
-[b]静滞和死亡区[/b]
+[b]静滞和死障区[/b]
 
 [table]
 [tr][td]情况[/td][td]骰池修正[/td][/tr]
-[tr][td]死亡区[/td][td]没有卫星链接则不可能链接矩阵[/td][/tr]
+[tr][td]死障区[/td][td]没有卫星链接则不可能链接矩阵[/td][/tr]
 [tr][td]填埋区[/td][td]所有动作-1到-3(GM指定)[/td][/tr]
 [tr][td]静滞区[/td][td]所有矩阵动作-1到-3(GM指定)[/td][/tr]
-[tr][td]静滞区/死亡区中的超链者[/td][td]–1(仅非矩阵动作，GM指定)[/td][/tr]
+[tr][td]静滞区/死障区中的超链者[/td][td]–1(仅非矩阵动作，GM指定)[/td][/tr]
 [/table]
 
 [spoiler]
@@ -287,7 +289,7 @@ It wasn’t long before the rumors were proven true. All over the world, childre
 
 [size=12pt][b]超链者[/b][/size]
 
-解读宅客起源的第一步还没迈出去，64年的崩溃就催化了进一步的转变。在世界各地，成千上万的人发现他们的意识在崩溃的高峰期被困在矩阵中，其中一些人在那里存活了几个小时甚至几天。许多人死于致命的生物反馈压力，另一些人则在未来几年里被施加了精神障碍和创伤后压力，但还有许多人活了下来......后来才意识到他们已经从根本上被改变。新的传言和报告花了几年时间才被汇聚在一起，但毫无疑问，有些东西是不同的。新一代的宅客出现了--只是这一次他们不再是孩子了。大多数在大崩溃事件中幸存下来的年轻宅客也经历了一次转变，他们发现自己的力量不再随着年龄的增长而消退。这个新的种群将自己重命名为超链者，他们是只使用思想操纵矩阵的专家。
+解读宅客起源的第一步还没迈出去，64年的崩溃就催化了进一步的转变。在世界各地，成千上万的人发现他们的意识在崩溃的高峰期被困在矩阵中，其中一些人在那里存活了几个小时甚至几天。许多人死于致命的生物反馈压力，另一些人则在未来几年里被施加了精神障碍和创伤后压力，但还有许多人活了下来......而后才意识到他们已经从根本上被改变。新的传言和报告花了几年时间才被汇聚在一起，但毫无疑问，有些东西是不同的。新一代的宅客出现了--只是这一次他们不再是孩子了。大多数在大崩溃事件中幸存下来的年轻宅客也经历了一次转变，他们发现自己的力量不再随着年龄的增长而消退。这个新的种群将自己重命名为超链者，他们是只使用思想操纵矩阵的专家。
 
 这些新的超链者拥有与生俱来的能力，甚至超过了上一代矩阵之子的能力。通过他们对技术世界的亲和力，超链者对他们周围的数据波动有一种本能的意识。这种潜意识不仅在矩阵的VR中发挥作用，而且在现实世界中也是如此，超链者可以"感觉"到他们周围的电波中流动的无线数据流量。
 
