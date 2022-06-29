@@ -251,11 +251,11 @@ Every device has a processor limit, the number of programs at which its Response
 
 设备可以在三种模式中的一种运行：主动，被动和静默。你可以以自由行动的方式改变你的通讯器(以及你的PAN的其他部分)的模式。
 
-主动模式是大多数PAN的默认模式。在主动模式下，你既可以访问也可以被其他PAN、设备和网络访问。你允许任何人连接到你的通讯链并查看上面的内容。某些地区可能要求你的PAN处于活动模式，如机场、公司设施、城市中心等。你的公开个人档案是可见可用的。
+主动模式是大多数PAN的默认模式。在主动模式下，你既可以访问也可以被其他PAN、设备和网络访问。你允许任何人连接到你的通讯链并查看上面的内容。某些地区可能要求你的PAN处于主动模式，如机场、公司设施、城市中心等。你的公开个人档案是可见且可用的。
 
-一个处于被动模式的PAN可以被其他设备"看到"，但未经你的批准，他们不能访问。在这种模式下的PAN仍然会显示为活动网络。这种模式对于在高流量地区操作是很有用的，那里有很多广告网站或垃圾邮件发送者。被动模式允许你自动过滤掉噪音，只在特定的预先授权的节点请求访问时提醒你。这是外围节点和枢纽的默认模式--在后者的情况下，需要系统管理员的批准访问，或通过使用已建立的账户来确保访问(见访问账户，第225页)。
+一个处于被动模式的PAN可以被其他设备"看到"，但未经你的批准，他们不能进行访问。在这种模式下的PAN仍然会在活跃网络中显示。这种模式对于在高流量地区操作是很有用的，那里有很多广告网站或垃圾邮件发送者。被动模式允许你自动过滤掉噪音，只在特定的预先授权节点请求访问时提醒你。这是外围节点和枢纽的默认模式--在后者的情况下，需要系统管理员的批准访问，或通过使用已建立的账户来确保访问(见访问账户，第225页)。
 
-在静默模式下，你的通讯链和PAN对其他节点是不可见的，除非你访问或授权它们。处于静默模式的用户被称为"幽灵"，因为其他用户没有办法通过无线方式看到他们。在一些高级社交场合不鼓励使用静默模式，因为这被认为是不礼貌的。在其他地区，特别是科技自由区或暗影机构，隐私是被期待的，情况正好相反。某些安全区域和高级场所禁止用户在静默模式下操作，并会对这样做的人进行驱逐、逮捕或更糟的惩罚。
+在静默模式下，你的通讯链和PAN对其他节点是不可见的，除非你访问或授权它们。处于静默模式的用户被称为"幽灵"，因为其他用户没有办法通过无线方式看到他们。在一些高级社交场合不鼓励使用静默模式，因为这被认为是不礼貌的。在其他地区，特别是科技自由区或暗影机构，情况正好相反，隐匿性是被期待的。某些安保区域和高级场所禁止用户在静默模式下操作，并会对这样做的人进行驱逐、逮捕或施以更糟的惩罚。
 
 [spoiler]
 [size=16pt][b]DEVICE MODES[/b][/size]
@@ -271,9 +271,10 @@ In Hidden mode, your commlink and PAN are invisible to other nodes unless you ac
 ---
 
 [size=16pt][b]化身程序[/b][/size]
-化身是一个内置在设备硬件中的固件程序，你使用它来与矩阵互动，在AR和VR中。它使你能够感知数字世界，并将你的图标投射到节点中。没有化身，你就无法进入矩阵。即使是超链者也有一个(活体)化身。
 
-你的化身的矩阵属性是从它所运行的设备继承的。如果你在通讯链上运行化身，而你的通讯链有系统等级4，那么你在矩阵中的系统等级就是4。化身可以加载程序，允许你在节点上使用软件，否则你可能无法获得必要的软件。
+化身是一个内置在设备硬件中的固件程序，你在AR和VR中使用它来与矩阵互动。它使你能够感知数字世界，并将你的图标投射到节点中。没有化身，你就无法进入矩阵。即使是超链者也有一个(活体)化身。
+
+你的化身的矩阵属性是从它所运行的设备继承的。如果你在通讯链上运行化身，而你的通讯链有系统等级4，那么你在矩阵中的系统等级就是4。化身可以加载程序以允许你在节点上使用软件，否则你可能无法获得必要的软件。
 
 [spoiler]
 [size=16pt][b]PERSONA PROGRAMS[/b][/size]
@@ -294,6 +295,7 @@ Your persona’s Matrix attributes are inherited from the device on which it is 
 
 [spoiler]
 [size=14pt][b]ACCESS IDS[/b][/size]
+
 Your persona also bears your access ID. Your access ID is the way the Matrix “recognizes” you at a machine level; it is unique. The routers of the Matrix use it to pass data to and from your commlink. You can’t use the Matrix without it, but it has one drawback: it can be used to trace you. 
 
 Every time you are online (which is usually all of the time) your presence is logged. Your access ID is associated with all of your online transactions and typically logged by any device you access. This record is called your datatrail, and it may be used to track you down or to link you to certain crimes or activities. Since you cannot just get rid of your access ID, this would put a damper on staying in the shadows, but there are ways around the problem. 
@@ -303,16 +305,16 @@ The standard technique to reduce your datatrail is to spoof your commlink’s ac
 Unwired introduces other forms of anonymizing your access ID.
 [/spoiler]
 
-[size=16pt][b]通讯码[/b][/size]
+[size=14pt][b]通讯码[/b][/size]
 
-每个使用矩阵的人都有一个个人通讯码。你的通讯码是你的矩阵地址，就像一个手机号码或电子邮件地址一样，你的电话和信息都是指向它的。你的通讯码通常是在一个付费的矩阵服务提供商(MSP)那里注册的，尽管有很多免费和匿名的暗影网站提供同样的服务。黑客、暗影狂奔者和其他罪犯通常为匿名通讯码的匿名性和额外安全性支付额外费用。事实上，大多数暗影狂奔者都有几个通讯码，其中一些通讯码他们会定期更换。
+每个使用矩阵的人都有一个个人通讯码。你的通讯码是你的矩阵地址，就像一个手机号码或电子邮件地址一样，你的电话和信息都是指向它的。你的通讯码通常是在一个付费的矩阵服务提供商(MSP)那里注册的，尽管有很多免费和匿名的暗影网站提供同样的服务。黑客、暗影狂奔者和其他罪犯通常为匿名通讯码的匿名性和额外安全性支付额外费用。事实上，大多数暗影狂奔者都有几个通讯码，他们会定期更换其中一些通讯码。
 
 当你在线时，你的通讯码通常被设置为自动链接到你的服务提供商，这样所有的电话和信息都会立即转发给你。你可以选择切断这一链接并静默运行，以避免被打断或被人追踪这一链接的风险；你的信息将被储存，直到以后被检索。
 
 每当你改变你的访问ID，新的ID必须与你的通讯码重新关联。这个过程是改变你的访问ID所需时间的一部分；作为一个玩家，你从来不需要担心这个问题。
 
 [spoiler]
-[size=16pt][b]COMMCODE[/b][/size]
+[size=14pt][b]COMMCODE[/b][/size]
 Everyone using the Matrix has a personal commcode. Your commcode is your Matrix address, like a cell phone number or email address, to which your calls and messages are directed. Your commcode is usually registered with a paid Matrix service provider, though there are plenty of free and anonymous shadow-sites that offer the same service. Hackers, shadowrunners, and other criminals typically pay extra for the anonymity and extra security of an anonymous commcode. In fact, most shadowrunners have several commcodes, some of which they regularly change. 
 
 When you are online, your commlink is normally set to automatically link to your provider(s) so that all calls and messages are immediately forwarded to you. You can choose to cut this link and “run silent” in order to avoid the risk of being interrupted or of someone tracing that link; your messages will be stored until retrieved later. 
@@ -321,7 +323,7 @@ Whenever you change your access ID, the new one must be re-associated with your 
 [/spoiler]
 
 [quote]
-[size=16pt][b]通讯链和交流[/b][/size]
+[size=14pt][b]通讯链和交流[/b][/size]
 
 你的PAN将你与矩阵连接起来。更重要的是，它还将你和你的队友联系起来。由于通讯链之间可以很容易地共享数据，即使距离很远，暗影狂奔者也可以不间断地联系。低语麦克风、文本短信和直接神经界面允许在狂奔期间进行无声交流，图像、音频和视频可以实时共享。
 
@@ -391,7 +393,7 @@ reveal the truth (p. 228).
 
 [size=16pt][b]访问节点[/b][/size]
 
-当你在线时，你可以访问一个或多个节点。很多时候，你只是向节点请求信息，就像你使用现代万维网时那样。你向节点发送一个短信来获取一些数据，而节点则将其发回给你。如果你想实际访问矩阵中的节点，无论是做一些"现场"研究，黑入节点，还是只是打算和其他图标一起玩，你都需要登录到节点上。
+当你在线时，你可以访问一个或多个节点。很多时候，你只是向节点请求信息，就像你使用现代万维网时那样。你向节点发送一个短信来获取一些数据，而节点则将其发回给你。如果你想实际访问矩阵中的节点，无论是做一些"现场"研究，骇入节点，还是只打算和其他图标一起玩，你都需要登录到节点上。
 
 [spoiler]
 [size=16pt][b]ACCESSING NODES[/b][/size]
@@ -422,17 +424,17 @@ It is possible to be subscribed to multiple nodes at once. This means you can ha
 
 [size=14pt][b]访问账户[/b][/size]
 
-当你登录到一个节点时，你是以一定的访问级别进行操作的，而这是由你的账户决定的。有四种类型的账户，公共账户、用户账户、安保账户和管理员账户，按访问权限从低到高的顺序排列。除了公共账户，获取访问账户级别需要授权，这将在下一节"授权和验证"中描述。
+当你登录到一个节点时，你是以一定的访问级别进行操作的，而这是由你的账户决定的。有四种类型的账户，公共账户、用户账户、安保账户和管理员账户，按访问权限从低到高的顺序排列。除了公共账户，获取访问账户级别需要授权，这将在下一节"授权和认证"中描述。
 
-一个公共账户是一个节点的"门厅"。在没有任何授权的情况下登录时，你会得到一个公共账户。公共账户通常允许用户访问关于该节点的公共信息，也可以允许少量的功能，如订购食物、购物、填写表格等，这取决于该节点的目的。大多数零售店、商场、餐馆和其他向公众开放的节点都向客户提供这种账户。
+一个公共账户是一个节点的"门厅"。在没有任何授权的情况下登录时，你会得到一个公共账户。公共账户通常允许用户访问关于该节点的公开信息，也可以允许少量的功能，如订购食物、购物、填写表格等，这取决于该节点的目的。大多数零售店、商场、餐馆和其他向公众开放的节点都向客户提供这种账户。
 
 用户账户提供给属于该节点的用户，如公司的雇员或矩阵夜总会的付费客户。拥有这种账户的图标一般被允许运行程序，创建和编辑文件，并执行节点的常规工作(不管是什么)，这取决于节点的功能。用户账户需要某种形式的授权才能访问。
 
-安保账户是为那些负责保护节点的用户准备的。这些用户被允许拥有用户访问的权限，以及删除文件、运行IC、注销用户和发起警报的能力。黑入安保账户的阈值提高3。
+安保账户是为那些负责保护节点的用户准备的。这些用户被允许拥有用户访问的权限，以及删除文件、运行IC、注销用户和发起警报的能力。骇入安保账户的阈值提高3。
 
-管理员账户授予了用户对节点的完全访问权。没有任何行动或命令会被拒绝给一个管理员账户。大多数节点只为少数用户提供这种账户，或者只有一个。黑入管理账户的阈值提高6。
+管理员账户授予了用户对节点的完全访问权。没有任何行动或命令会被拒绝给一个管理员账户。大多数节点只为少数用户提供这种账户，或者只有一个。骇入管理员账户的阈值提高6。
 
-外围节点的构造很简单，只有公共和管理员权限。管理员访问的黑入阈值提高并不适用于外围节点。
+外围节点的构造很简单，只有公共和管理员权限。管理员访问的骇入阈值提高并不适用于外围节点。
 
 [spoiler]
 [size=14pt][b]ACCESS ACCOUNTS[/b][/size]

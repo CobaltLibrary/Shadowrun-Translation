@@ -154,7 +154,7 @@ Six months ago, ShadowSea added a “professionals” category where street docs
 
 [size=14pt][b]媒体和娱乐[/b][/size]
 
-> 问问大多数薪奴，他们使用矩阵的最大目的是什么，娱乐将占据第二位（当然是在工作之后）。糟糕的是，即使是我，也会在晚上喝上一杯霞多丽，看上一部催泪的拟感电影来消磨时光。
+> 问问大多数薪奴，他们使用矩阵的最大目的是什么，娱乐将占据第二位(当然是在工作之后)。糟糕的是，即使是我，也会在晚上喝上一杯霞多丽，看上一部催泪的拟感电影来消磨时光。
 
 > Pistons
 
@@ -214,11 +214,11 @@ Underground news networks are a longtime tradition. With simple-to-use recording
 
 盖亚网(GAIANET)：一个环境观察小组，发布从萨满教的地球友好博客到狂奔者找到的企业滥用环境的视频片段。这是一个回归自然的嬉皮士和像Terra-First这样的环境恐怖分子的聚会场所。虽然这个网络大部分都是空谈，但他们偶尔也会淘到金子，比如最近对Radisys化学公司的曝光导致Radisys高管因在塔科马倾倒毒素而被多次逮捕。  
 
-红娘(Matchmakers)：这是最受欢迎的约会服务（或许只是拥有最大用户群的服务），这个收费服务小组允许会员发布他们的详细资料和他们对伴侣的偏好。该网络允许你查看符合你要求的人是否在范围之内，甚至会提供会面建议。该网络还提供实时博客功能、建议专栏、从餐馆到花店的评分系统、内容包括从个人修饰到搭讪教学的流媒体视频和音频文件，以及他们在全球主要地区的标志性"十大最佳接吻地点"名单。 
+红娘(Matchmakers)：这是最受欢迎的约会服务(或许只是拥有最大用户群的服务)，这个收费服务小组允许会员发布他们的详细资料和他们对伴侣的偏好。该网络允许你查看符合你要求的人是否在范围之内，甚至会提供会面建议。该网络还提供实时博客功能、建议专栏、从餐馆到花店的评分系统、内容包括从个人修饰到搭讪教学的流媒体视频和音频文件，以及他们在全球主要地区的标志性"十大最佳接吻地点"名单。 
 
-玩家联盟！(GamersUnite!)：这个社交网络支持所有与游戏有关的东西。它为各种类型的游戏玩家提供了一个聚会场所--AR、VR、甚至桌游，并帮助将多用户游戏与玩家联系起来。会员可以对游戏进行评分，讨论策略，发布作弊器，并对他们最喜欢的游戏进行讨论。这个网络也是软件盗版商最喜欢的垃圾场，用户经常可以下载他们破解的最新和最伟大（甚至包括未发布的）的游戏副本。  
+玩家联盟！(GamersUnite!)：这个社交网络支持所有与游戏有关的东西。它为各种类型的游戏玩家提供了一个聚会场所--AR、VR、甚至桌游，并帮助将多用户游戏与玩家联系起来。会员可以对游戏进行评分，讨论策略，发布作弊器，并对他们最喜欢的游戏进行讨论。这个网络也是软件盗版商最喜欢的垃圾场，用户经常可以下载他们破解的最新和最伟大(甚至包括未发布的)的游戏副本。  
 
-魔网(MagicNET)：在崩溃2.0之后，这个老牌的备用网站得到了新的改观。觉醒用户可以与其他志同道合的人见面交流，讨论最新的理论，并发布法术公式（包括非法获得的受版权保护公式，如果你知道在哪里找的话）。这里还有专门的区域来讨论地球母亲给我们带来的所有古怪的超自然事物。
+魔网(MagicNET)：在崩溃2.0之后，这个老牌的备用网站得到了新的改观。觉醒用户可以与其他志同道合的人见面交流，讨论最新的理论，并发布法术公式(包括非法获得的受版权保护公式，如果你知道在哪里找的话)。这里还有专门的区域来讨论地球母亲给我们带来的所有古怪的超自然事物。
 
 [spoiler]
 [size=14pt][b]POPULAR GLOBAL SOCIAL NETWORKS[/b][/size]
@@ -234,13 +234,33 @@ MagicNET: The old standby got a new facelift after the Crash 2.0. Awakened users
 [/spoiler]
 [/quote]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]游戏[/b][/size]
 
+虚拟游戏是一个巨大的矩阵娱乐场所。虽然在线游戏曾经是锁在父母地下室的极客们的专利，但如今AR已经将虚拟游戏带出了地下室，进入了公共场所。像《电子忍者》这样的互动式AR游戏，允许参与者在遇到附近的对手时向其他游戏者发起挑战，让他们参与AR战斗。目前最热门的游戏是《洛基山阿凡达》，让参赛者以T-Bird走私者的身份互相对决。这些课程都是基于真实的实物。许多商场和公共区域赞助他们的课程以提高人流量。例如，在西雅图贝尔维尤购物中心的人，当另一个游戏者在他或她附近时，就会得到通知。然后他们就可以互相挑战，跑完这个课程。你经常可以通过他们不稳定的--而且往往是危险的--动作和行动来发现铁杆游戏玩家，因为他们对一个与物理环境脱节的AR幻想世界做出了反应。
 
+VR游戏甚至更受欢迎，许多游戏团队甚至通过冷模拟连接产生几乎BTL级别的体验。关于编程非法水平的生物反馈的持续传言困扰着这个行业，流行的游戏，如《闪光世界》正在被调查。在VR中，你可以成为任何你想成为的人，从新星热模拟的制作人到中世纪的屠龙者。有些游戏是以奖励为导向的，吸引了数百万的参与者、观众和完整的媒体报道。
+
+> If you prefer your gaming in a more personal social setting, gaming cafes and dens are hugely popular. Some are simply coffee shops taken over by gamers, while others actually provide areas, even “coffins,” for gamers to rest in while immersed in VR. 
+
+> Kat o’ Nine Tales
+
+> Some sell BTLs and CalHots or run a bit of Matrix gambling on the side, or even provide customers with online porn. Not all of them. If you’re looking for a fix, though, chances are you can find it in a gamers’ den.
+
+> Beaker
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]GAMING[/b][/size]
+Virtual gaming is a huge matrix entertainment venue. While online gaming was once the province of geeks locked in their parents’ basements, nowadays AR has brought virtual gaming out of the basement and into public venues. Interactive AR games like Electronic Ninjas allow participants to challenge other gamers to duels when they encounter a nearby opponent, engaging them in an AR combat. The current top game is Rocky Mountain Avatar, which pits contestants against each other as T-Bird smugglers. The courses are based on real physical objects. Many malls and public areas sponsor their courses to improve foot traffic. Someone at the Bellevue Mall in Seattle, for example, would be notified when another gamer was in his or her vicinity. They could then challenge each other to run the course. You can frequently spot the hardcore gamers by their erratic—and often dangerous—movements and actions as they respond to an AR fantasy world disconnected from their physical surroundings. 
 
+VR games are even more popular, with many gaming corps producing almost-BTL level experiences even through cold-sim connections. Persistent rumors of programming illegal levels of biofeedback haunt the industry, with popular games such as Glitterworld being investigated. In VR, you can become anything you’d like, from the producer of a nova-hot sim to a medieval dragon slayer. Some games are prize-oriented, drawing millions of participants, spectators, and complete media coverage.
+
+> If you prefer your gaming in a more personal social setting, gaming cafes and dens are hugely popular. Some are simply coffee shops taken over by gamers, while others actually provide areas, even “coffins,” for gamers to rest in while immersed in VR. 
+
+> Kat o’ Nine Tales
+
+> Some sell BTLs and CalHots or run a bit of Matrix gambling on the side, or even provide customers with online porn. Not all of them. If you’re looking for a fix, though, chances are you can find it in a gamers’ den.
+
+> Beaker
 [/spoiler]
 
 [size=14pt][b]XXXXXXXXXXXXX[/b][/size]
