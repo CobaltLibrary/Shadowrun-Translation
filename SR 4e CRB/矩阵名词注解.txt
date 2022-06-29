@@ -1,236 +1,236 @@
 [color=brown][size=16pt][b]矩阵名词注解[/b][/size][/color]
 
-代理(Agent)：一个半自主的，能够运行其他程序的程序。
+[b]代理(Agent)：[/b]一个半自主的，能够运行其他程序的程序。
 
-人工智能(AI)：有自我意识并能维持自身的智能程序，在矩阵内进化。
+[b]人工智能(AI)：[/b]有自我意识并能维持自身的智能程序，在矩阵内进化。
 
-增强现实(AR)：以可视化数据、图表、声音、触觉、嗅觉和/或有限的拟感的形式加入或覆盖在用户的自然感官感知上的信息。
+[b]增强现实(AR)：[/b]以可视化数据、图表、声音、触觉、嗅觉和/或有限的拟感的形式加入或覆盖在用户的自然感官感知上的信息。
 
-增强现实对象(ARO，读作"arrow")：用来表示增强现实中的事物的虚拟象征(通常是可视化数据)。
+[b]增强现实对象(ARO，读作"arrow")：[/b]用来表示增强现实中的事物的虚拟象征(通常是可视化数据)。
 
-化身形象(Avater)：一个化身的图标。
+[b]化身形象(Avater)：[/b]一个化身的图标。
 
-"比生活更美好"(BTL，读作"beetle")。超越现实水平的感官模拟，有潜在的危险性和成瘾性。
+[b]"比生活更美好"(BTL，读作"beetle")：[/b]超越现实水平的感官模拟，有潜在的危险性和成瘾性。
 
-冷模(Cold Sim)：标准的拟感，在合法、安全的水平上运行。被大多数人用来访问虚拟现实。
+[b]冷模(Cold Sim)：[/b]标准的拟感，在合法、安全的水平上运行。被大多数人用来访问虚拟现实。
 
-通讯链(Commlink，简称为"link")：几乎所有人都用来访问无线服务的个人电脑。通讯链也作为用户的PAN的枢纽。
+[b]通讯链(Commlink，简称为"link")：[/b]几乎所有人都用来访问无线服务的个人电脑。通讯链也作为用户的PAN的枢纽。
 
-复合程式(Complex Form)：超链者用来操纵矩阵的精神算法。
+[b]复合程式(Complex Form)：[/b]超链者用来操纵矩阵的精神算法。
 
-中控器(Control Rig)：一种殖装，当机师"跳入"载具时可以增强他们的能力(第338页)。
+[b]中控器(Control Rig)：[/b]一种殖装，当机师"跳入"载具时可以增强他们的能力(第338页)。
 
-死亡区(Dead Zone)：一个没有无线网络的地方。
+[b]死障区(Dead Zone)：[/b]一个没有无线网络的地方。
 
-设备(Devices)：具有矩阵功能的独立电子装置，如通讯链、终端、赛博殖装、安保摄像机、无人机等。
+[b]设备(Devices)：[/b]具有矩阵功能的独立电子装置，如通讯链、终端、赛博殖装、安保摄像机、无人机等。
 
-直接神经界面(DNI)：一种建立在大脑的神经脉冲和计算机系统之间的连接，允许用户在精神上与该系统互动和控制系统。直接神经界面通过植入的通讯链、植入的拟感模块、数据接口或佩戴的电极贴片来传递信息。
+[b]直接神经界面(DNI)：[/b]一种建立在大脑的神经脉冲和计算机系统之间的连接，允许用户在精神上与该系统互动和控制系统。直接神经界面通过植入的通讯链、植入的拟感模块、数据接口或佩戴的电极贴片来传递信息。
 
-无人机(Drone)：一种无人驾驶的载具，通常通过无线直连或通过矩阵控制。
+[b]无人机(Drone)：[/b]一种无人驾驶的载具，通常通过无线直连或通过矩阵控制。
 
-回声(Echo)：一种增强的能力，超链者在经历了深潜后可以学得。
+[b]回声(Echo)：[/b]一种增强的能力，超链者在经历了深潜后可以学得。
 
-衰褪(Fading)：超链者在使用他们的能力时有时会经历的一种精神损耗。
+[b]衰褪(Fading)：[/b]超链者在使用他们的能力时有时会经历的一种精神损耗。
 
-防火墙(Firewall)。一种保护节点不被入侵的程序。它可以单独安装或包含在操作系统中。
+[b]防火墙(Firewall)：[/b]一种保护节点不被入侵的程序。它可以单独安装或包含在操作系统中。
 
-网关(Gateway)：一个多跳网络(mesh network)和另一个网络之间的链接。
+[b]网关(Gateway)：[/b]一个多跳网络(mesh network)和另一个网络之间的链接。
 
-地理标记(Geo-tagging)：将ARO分配到一个特定的物理位置，通常使用RFID标签。
+[b]地理标记(Geo-tagging)：[/b]将ARO分配到一个特定的物理位置，通常使用RFID标签。
 
-电子幽灵(Ghost In The Machine)：指仅在矩阵中存在的多种神秘现象和被观察到的实体。有些人认为这些是AI或矩阵的精魂。其他人则认为它们是64年崩溃期间被困在矩阵中的人失散的人格。
+[b]电子幽灵(Ghost In The Machine)：[/b]指仅在矩阵中存在的多种神秘现象和被观察到的实体。有些人认为这些是AI或矩阵的精魂。其他人则认为它们是64年崩溃期间被困在矩阵中的人失散的人格。
 
-网格(Grid)：一系列稳定的、互锁的网络。
+[b]网格(Grid)：[/b]一系列稳定的、互锁的网络。
 
-黑客(Hacker)：通常指探索和利用技术的人，特指矩阵。
+[b]黑客(Hacker)：[/b]通常指探索和利用技术的人，特指矩阵。
  
-触感(Haptics)：基于触觉的互动感知。
+[b]触感(Haptics)：[/b]基于触觉的互动感知。
 
-热模(Hot Sim)：没有防止潜在的破坏性生物反馈的保障措施的拟感。在大多数地区是非法的。
+[b]热模(Hot Sim)：[/b]没有防止潜在的破坏性生物反馈的保障措施的拟感。在大多数地区是非法的。
 
-图标(Icon)：一个程序、文件或其他虚拟对象在矩阵中的虚拟表示。
+[b]图标(Icon)：[/b]一个程序、文件或其他虚拟对象在矩阵中的虚拟表示。
 
-入侵对策程序(Intrusion Countermeasures，缩写为"IC"，读作"ice")：安装在一个节点上的某种代理，其目的是保护该节点不被未经授权的用户使用。
+[b]入侵对策程序(Intrusion Countermeasures，缩写为"IC"，读作"ice")：[/b]安装在一个节点上的某种代理，其目的是保护该节点不被未经授权的用户使用。
 
-接入点(Jackpoint)：任何通过有线连接提供矩阵访问的物理位置。
+[b]接入点(Jackpoint)：[/b]任何通过有线连接提供矩阵访问的物理位置。
 
-活体化身(Living Persona)：精神上的"有机计算机"，允许超链者仅使用他们的思想就能访问矩阵。
+[b]活体化身(Living Persona)：[/b]精神上的"有机计算机"，允许超链者仅使用他们的思想就能访问矩阵。
 
-局域网(LAN)：计算机和其他电子设备之间的本地通信系统。
+[b]局域网(LAN)：[/b]计算机和其他电子设备之间的本地通信系统。
 
-矩阵(Matrix)：世界范围的通讯网络。
+[b]矩阵(Matrix)：[/b]世界范围的通讯网络。
 
-肉(Meat): 俚语，指的是一个没有无线链接的人，或者是一个黑客在VR中浏览矩阵时被遗弃的身体部分。
+[b]肉(Meat)：[/b]俚语，指的是一个没有无线链接的人，或者是一个黑客在VR中浏览矩阵时被遗弃的身体部分。
 
-链(Meshed)：俚语，指处于线上，连接到矩阵。
+[b]链(Meshed)：[/b]俚语，指处于线上，连接到矩阵。
 
-多跳网络(Mesh Network)：一种网络上的每一个设备都与其他的设备相连的网络。
+[b]多跳网络(Mesh Network)：[/b]一种网络上的每一个设备都与其他的设备相连的网络。
 
-网络(Networks)：相互作用的计算机设备群。
+[b]网络(Networks)：[/b]相互作用的计算机设备群。
 
-节点(Node)：矩阵中某个设备的象征。
+[b]节点(Node)：[/b]矩阵中某个设备的象征。
 
-操作系统(Operating System，简写为"OS")控制一个特定设备的主程序。这通常是指系统或自驾程序，但成套的操作系统通常也会有一个防火墙。
+[b]操作系统(Operating System，简写为"OS")：[/b]控制一个特定设备的主程序。这通常是指系统或自驾程序，但成套的操作系统通常也会有一个防火墙。
 
-个域网(PAN)：由一个人身上(或体内)携带的所有无线连接的电子设备创建的网络。通讯链通常是这个网络的主要枢纽。
+[b]个域网(PAN)：[/b]由一个人身上(或体内)携带的所有无线连接的电子设备创建的网络。通讯链通常是这个网络的主要枢纽。
 
-化身(Persona)：代表用户的固件程序，并允许用户与矩阵进行互动。
+[b]化身(Persona)：[/b]代表用户的固件程序，并允许用户与矩阵进行互动。
 
-自驾(Pilot)：一个类似于系统程序的机器人头脑程序，但包含了半自主的决策能力。用于代理和无人机。
+[b]自驾(Pilot)：[/b]一个类似于系统程序的机器人头脑程序，但包含了半自主的决策能力。用于代理和无人机。
 
-射频识别标签(RFID，读作"arfid")。一种存有数据的小型设备，可以在短距离内将数据传输给附近的接收者。
+[b]射频识别标签(RFID，读作"arfid")：[/b]一种存有数据的小型设备，可以在短距离内将数据传输给附近的接收者。
 
-区域级电信网格(Regional Telecommunication Grid，缩写为"RTG")。一种大范围的网格，RTG覆盖了整个国家。
+[b]区域级电信网格(Regional Telecommunication Grid，缩写为"RTG")：[/b]一种大范围的网格，RTG覆盖了整个国家。
 
-响应能力(Response)：一个代表了信息处理能力的计算机属性。
+[b]响应能力(Response)：[/b]一个代表了信息处理能力的计算机属性。
 
-机师(Rigger)：一个"跳入"适当的设备(通常是无人机、载具或安保系统)，以便直接控制它，就像他是那个设备一样的角色。通常配备有一个中控器(第338页)。
+[b]机师(Rigger)：[/b]一个"跳入"适当的设备(通常是无人机、载具或安保系统)，以便直接控制它，就像他是那个设备一样的角色。通常配备有一个中控器(第338页)。
 
-塑模(Sculpting)：矩阵中的节点或图标的 "外观和感觉"。
+[b]塑模(Sculpting)：[/b]矩阵中的节点或图标的 "外观和感觉"。
 
-信号强度(Signal)：一种计算机属性，代表其无线射频信号的强度。
+[b]信号强度(Signal)：[/b]一种计算机属性，代表其无线射频信号的强度。
 
-模录器(Simrigs)：用于记录拟感的设备(第342页)。
+[b]模录器(Simrigs)：[/b]用于记录拟感的设备(第342页)。
 
-拟感(Simsense，缩写为"sim"，读作"simstim")。使一个人能够体验发生在别人身上的现实的硬件和程序。需要有直接神经界面。
+[b]拟感(Simsense，缩写为"sim"，读作"simstim")：[/b]使一个人能够体验发生在别人身上的现实的硬件和程序。需要有直接神经界面。
 
-填埋区(Span Zone)：一个充斥着入侵性和/或病毒性AR广告的区域。
+[b]填埋区(Span Zone)：[/b]一个充斥着入侵性和/或病毒性AR广告的区域。
 
-蜘蛛(Spider)：由公司或执法机构雇用的安保黑客/机师，以保护某些矩阵区域免受黑客攻击。
+[b]蜘蛛(Spider)：[/b]由公司或执法机构雇用的安保黑客/机师，以保护某些矩阵区域免受黑客攻击。
 
-网精(Sprite)：一种基于共鸣的实体，由超链者从矩阵的结构中创造或召唤出来的。
+[b]网精(Sprite)：[/b]一种基于共鸣的实体，由超链者从矩阵的结构中创造或召唤出来的。
 
-静滞区(Static Zone)：一个无线链接不稳定的区域。
+[b]静滞区(Static Zone)：[/b]一个无线链接不稳定的区域。
 
-系统等级(System)：一种计算机属性，代表操作系统的完整性和稳定性。
+[b]系统等级(System)：[/b]一种计算机属性，代表操作系统的完整性和稳定性。
 
-标签(Tags)：RFID标签(见上文)。
+[b]标签(Tags)：[/b]RFID标签(见上文)。
 
-超链者(Technomancer)：能够在没有硬件的情况下使用和操纵矩阵的人。
+[b]超链者(Technomancer)：[/b]能够在没有硬件的情况下使用和操纵矩阵的人。
 
-电极贴片(Trodes)：戴在头上的头带或网子(通常在假发或帽子下面)，可以创造一个直接神经界面。
+[b]电极贴片(Trodes)：[/b]戴在头上的头带或网子(通常在假发或帽子下面)，可以创造一个直接神经界面。
 
-虚拟现实(Virtual Reality)：一种忽略外界刺激的状态，使用者只接受来自矩阵的感受。需要一个直接神经界面。
+[b]虚拟现实(Virtual Reality)：[/b]一种忽略外界刺激的状态，使用者只接受来自矩阵的感受。需要一个直接神经界面。
 
-广域网(Wide Area Network，缩写为"WAN")：一个网络，通常是无线的，覆盖约几公顷的范围。
+[b]广域网(Wide Area Network，缩写为"WAN")：[/b]一个网络，通常是无线的，覆盖约几公顷的范围。
 
 [spoiler]
 [color=brown][size=16pt][b]MATRIX JARGON[/b][/size][/color]
 
-Agent: A semi-autonomous program that is capable of running other programs.
+[b]Agent:[/b] A semi-autonomous program that is capable of running other programs.
 
-Artificial Intelligence (AI): Self–aware and self– sustaining intelligent programs that evolved within the Matrix.
+[b]Artificial Intelligence (AI):[/b] Self–aware and self– sustaining intelligent programs that evolved within the Matrix.
 
-Augmented Reality (AR): Information added to or overlaid upon a user’s sensory perceptions in the form of visual data, graphics, sounds, haptics, smell, and/or limited simsense.
+[b]Augmented Reality (AR):[/b] Information added to or overlaid upon a user’s sensory perceptions in the form of visual data, graphics, sounds, haptics, smell, and/or limited simsense.
 
-Augmented Reality Object (ARO, “arrow”): Virtual representations (usually visual graphics) used to represent things in augmented reality.
+[b]Augmented Reality Object (ARO, “arrow”):[/b] Virtual representations (usually visual graphics) used to represent things in augmented reality.
 
-Avatar: An icon of a persona. 
+[b]Avatar:[/b] An icon of a persona. 
 
-Better–Than–Life (BTL, “beetle”): Hyper–real levels of simsense that are potentially dangerous and addictive.
+[b]Better–Than–Life (BTL, “beetle”):[/b] Hyper–real levels of simsense that are potentially dangerous and addictive.
 
-Cold Sim: Standard simsense, operating at legal, safe levels. Used by most people to access virtual reality.
+[b]Cold Sim:[/b] Standard simsense, operating at legal, safe levels. Used by most people to access virtual reality.
 
-Commlink (“link”): The personal computer used by nearly everyone to access wireless services. Commlinks also serve as the hub of the user’s PAN.
+[b]Commlink (“link”):[/b] The personal computer used by nearly everyone to access wireless services. Commlinks also serve as the hub of the user’s PAN.
 
-Complex Form: The mental algorithms that technomancers use to manipulate the Matrix.
+[b]Complex Form:[/b] The mental algorithms that technomancers use to manipulate the Matrix.
 
-Control Rig: An implant that enhances a rigger’s abilities when “jumped into” a vehicle (p. 338).
+[b]Control Rig:[/b] An implant that enhances a rigger’s abilities when “jumped into” a vehicle (p. 338).
 
-Dead Zone: A location with no wireless networks. 
+[b]Dead Zone:[/b] A location with no wireless networks. 
 
-Device: Individual electronics that are Matrix–capable, such as commlinks, terminals, cyberware, security cameras, drones, etc.
+[b]Device:[/b] Individual electronics that are Matrix–capable, such as commlinks, terminals, cyberware, security cameras, drones, etc.
 
-Direct Neural Interface (DNI): A connection between the brain’s neural impulses and a computer system, allowing a user to mentally interact with and control that system. DNI is conveyed by an implanted commlink, an implanted sim module, a datajack, or worn trodes.
+[b]Direct Neural Interface (DNI):[/b] A connection between the brain’s neural impulses and a computer system, allowing a user to mentally interact with and control that system. DNI is conveyed by an implanted commlink, an implanted sim module, a datajack, or worn trodes.
 
-Drone: An unmanned vehicle, typically controlled via direct wireless link or through the Matrix.
+[b]Drone:[/b] An unmanned vehicle, typically controlled via direct wireless link or through the Matrix.
 
-Echo: An enhanced ability a technomancer can learn after undergoing submersion.
+[b]Echo:[/b] An enhanced ability a technomancer can learn after undergoing submersion.
 
-Fading: A type of mental drain technomancers sometimes experience when using their abilities.
+[b]Fading:[/b] A type of mental drain technomancers sometimes experience when using their abilities.
 
-Firewall: A program that guards a node from intrusion. It can be installed separately or included in an OS.
+[b]Firewall:[/b] A program that guards a node from intrusion. It can be installed separately or included in an OS.
 
-Gateway: The link between a mesh network and another network.
+[b]Gateway:[/b] The link between a mesh network and another network.
 
-Geo–tagging: Assigning AROs to a specific physical location, often using RFID tags.
+[b]Geo–tagging:[/b] Assigning AROs to a specific physical location, often using RFID tags.
 
-Ghosts in the Machine: Various mysterious phenomena and perceived entities that seem to exist entirely within the Matrix. Some believe these are AIs or spirits of the Matrix. Others believe they are the disembodied personalities of people trapped within the Matrix during the Crash of ’64.
+[b]Ghosts in the Machine:[/b] Various mysterious phenomena and perceived entities that seem to exist entirely within the Matrix. Some believe these are AIs or spirits of the Matrix. Others believe they are the disembodied personalities of people trapped within the Matrix during the Crash of ’64.
 
-Grid: A series of stable, interlocking networks. 
+[b]Grid:[/b] A series of stable, interlocking networks. 
 
-Hacker: Someone who explores and exploits technology in general and the Matrix specifically.
+[b]Hacker:[/b] Someone who explores and exploits technology in general and the Matrix specifically.
 
-Haptics: Interactions based on the sense of touch. 
+[b]Haptics:[/b] Interactions based on the sense of touch. 
 
-Hot Sim: Simsense without the safeguards that prevent potentially damaging biofeedback. Illegal in most areas.
+[b]Hot Sim:[/b] Simsense without the safeguards that prevent potentially damaging biofeedback. Illegal in most areas.
 
-Icon: The virtual representation of a program, file, or other virtual object in the Matrix.
+[b]Icon:[/b] The virtual representation of a program, file, or other virtual object in the Matrix.
 
-Intrusion Countermeasures (IC, “ice”): Any agent installed in a node with the express purpose of protecting that node from unauthorized users.
+[b]Intrusion Countermeasures (IC, “ice”):[/b] Any agent installed in a node with the express purpose of protecting that node from unauthorized users.
 
-Jackpoint: Any physical location that provides access to the Matrix by plugging in with a wired connection.
+[b]Jackpoint:[/b] Any physical location that provides access to the Matrix by plugging in with a wired connection.
 
-Living Persona: The mental “organic computer” that allows technomancers to access the Matrix with their minds alone.
+[b]Living Persona:[/b] The mental “organic computer” that allows technomancers to access the Matrix with their minds alone.
 
-Local Area Network (LAN): A local communication system between computers and other electronics.
+[b]Local Area Network (LAN):[/b] A local communication system between computers and other electronics.
 
-Matrix: The worldwide telecommunications network.
+[b]Matrix:[/b] The worldwide telecommunications network.
 
-Meat: Slang term to refer to either an unwired individual, or the physical part of a hacker that gets left behind while surfing the Matrix in VR.
+[b]Meat:[/b] Slang term to refer to either an unwired individual, or the physical part of a hacker that gets left behind while surfing the Matrix in VR.
 
-Meshed: Slang term for being online, connected to the Matrix.
+[b]Meshed:[/b] Slang term for being online, connected to the Matrix.
 
-Mesh Network: A network in which every device on the network is connected to every other device.
+[b]Mesh Network:[/b] A network in which every device on the network is connected to every other device.
 
-Networks: Interacting groups of computerized devices. 
+[b]Networks:[/b] Interacting groups of computerized devices. 
 
-Node: The representation of a device in the Matrix. 
+[b]Node:[/b] The representation of a device in the Matrix. 
 
-Operating System (OS): The master program that controls a specific device. This normally refers to the System or Pilot program, but an offthe-shelf OS will also come with a Firewall.
+[b]Operating System (OS):[/b] The master program that controls a specific device. This normally refers to the System or Pilot program, but an offthe-shelf OS will also come with a Firewall.
 
-Personal Area Network (PAN): The network created by all of the wirelessly linked electronic devices carried on (or within) a person. The commlink is usually the primary hub of this network.
+[b]Personal Area Network (PAN):[/b] The network created by all of the wirelessly linked electronic devices carried on (or within) a person. The commlink is usually the primary hub of this network.
 
-Persona: The firmware program that represents a user in, and allows the user to interact with, the Matrix.
+[b]Persona:[/b] The firmware program that represents a user in, and allows the user to interact with, the Matrix.
 
-Pilot: A robotic brain program similar to the System program but including semi–autonomous decision–making abilities. Used for agents and drones.
+[b]Pilot:[/b] A robotic brain program similar to the System program but including semi–autonomous decision–making abilities. Used for agents and drones.
 
-Radio Frequency Identification tag (RFID, “arfid”): A small device that holds data and transmits it over short range to nearby receivers.
+[b]Radio Frequency Identification tag (RFID, “arfid”):[/b] A small device that holds data and transmits it over short range to nearby receivers.
 
-Real Life (RL): Anything not having to do with the Matrix.
+[b]Real Life (RL):[/b] Anything not having to do with the Matrix.
 
-Regional Telecommunication Grid (RTG): The largest type of grid, RTGs cover entire countries.
+[b]Regional Telecommunication Grid (RTG):[/b] The largest type of grid, RTGs cover entire countries.
 
-Response: A computer attribute representing raw processing power.
+[b]Response:[/b] A computer attribute representing raw processing power.
 
-Rigger: A user who “jumps into” a properly adapted device (usually a drone, vehicle, or security system) in order to directly control it as if he was that device. Often equipped with a control rig (p. 338).
+[b]Rigger:[/b] A user who “jumps into” a properly adapted device (usually a drone, vehicle, or security system) in order to directly control it as if he was that device. Often equipped with a control rig (p. 338).
 
-Sculpting: The “look and feel” of a node or icon in the Matrix.
+[b]Sculpting:[/b] The “look and feel” of a node or icon in the Matrix.
 
-Signal: A computer attribute representing the strength of its wireless radio signal.
+[b]Signal:[/b] A computer attribute representing the strength of its wireless radio signal.
 
-Simrig: A device for recording simsense (p. 342). 
+[b]Simrig:[/b] A device for recording simsense (p. 342). 
 
-Simsense (“sim,” “simstim”): Hardware and programs that enable a person to experience the reality of what has happened to someone else. Requires a direct neural interface.
+[b]Simsense (“sim,” “simstim”):[/b] Hardware and programs that enable a person to experience the reality of what has happened to someone else. Requires a direct neural interface.
 
-Spam Zone: An area flooded with invasive and/or viral AR advertising.
+[b]Spam Zone:[/b] An area flooded with invasive and/or viral AR advertising.
 
-Spider: A security hacker/rigger employed by a corporation or law enforcement agency to protect certain Matrix areas from hackers.
+[b]Spider:[/b] A security hacker/rigger employed by a corporation or law enforcement agency to protect certain Matrix areas from hackers.
 
-Sprite: A Resonance-based entity created by—or called forth by—a technomancer out of the fabric of the Matrix.
+[b]Sprite:[/b] A Resonance-based entity created by—or called forth by—a technomancer out of the fabric of the Matrix.
 
-Static Zone: An area where wireless access is unreliable.
+[b]Static Zone:[/b] An area where wireless access is unreliable.
 
-System: A computer attribute representing the integrity and stability of the operating system.
+[b]System:[/b] A computer attribute representing the integrity and stability of the operating system.
 
-Tags: RFID tags (see above). 
+[b]Tags:[/b] RFID tags (see above). 
 
-Technomancer: Someone who is able to use and manipulate the Matrix without hardware.
+[b]Technomancer:[/b] Someone who is able to use and manipulate the Matrix without hardware.
 
-Trodes: A headband or net worn on the head (often under a wig or hat) that creates a direct neural interface.
+[b]Trodes:[/b] A headband or net worn on the head (often under a wig or hat) that creates a direct neural interface.
 
-Virtual Reality: A state where outside stimuli are ignored and the user is only receiving impressions from the Matrix. Requires a direct neural interface.
+[b]Virtual Reality:[/b] A state where outside stimuli are ignored and the user is only receiving impressions from the Matrix. Requires a direct neural interface.
 
-Wide Area Network (WAN): A network, usually wireless, that covers several hectares.
+[b]Wide Area Network (WAN):[/b] A network, usually wireless, that covers several hectares.
 [/spoiler]
 
