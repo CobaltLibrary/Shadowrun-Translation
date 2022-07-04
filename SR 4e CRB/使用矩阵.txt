@@ -20,7 +20,7 @@ The basis of any work in the Matrix is your skill set. The most important skills
 
 [size=14pt][b]使用计算机技能[/b][/size]
 
-计算机技能对矩阵中的大多数操作至关重要。它被用来操作各种类型的计算机，无论是专用的机器，如大型终端、通讯链、冰箱或是其他任何制成品。它也被用于编辑、修复图标、追踪用户和非常重要的分析图标的操作。
+计算机技能对矩阵中的大多数操作至关重要。它被用来操作各种类型的计算机，无论是专用的机器，如大型终端、通讯链、冰箱或是任何其他制成品。它也被用于编辑、修复图标、追踪用户和非常重要的分析图标的操作。
 
 [spoiler]
 [size=14pt][b]USING COMPUTER[/b][/size]
@@ -56,7 +56,7 @@ This skill is all about controlling the airwaves. In a wireless world, it is imp
 
 [size=14pt][b]使用骇入技能[/b][/size]
 
-如果你的目标是在矩阵中行为不端，这就是你应该拥有的技能。这项技能衡量的是滥用矩阵软件的能力，找到并利用安保和其他程序的弱点。与此技能相关的动作清单相对较长。崩溃节点，破坏程序，拆除数据炸弹，后台入侵，拦截流量，重定向追踪，以及欺骗指令。
+如果你的目标是在矩阵中行为不端，这就是你应该拥有的技能。这项技能衡量的是滥用矩阵软件，找到并利用安保和其他程序的弱点的能力。与此技能相关的动作清单相对较长。崩溃节点，破坏程序，拆除数据炸弹，后台入侵，拦截流量，重定向追踪，以及欺骗指令。
 
 [spoiler]
 [size=14pt][b]USING HACKING[/b][/size]
@@ -137,7 +137,7 @@ There are also numerous advanced uses of this skill that can be found in the cor
 
 [size=14pt][b]使用共鸣技能[/b][/size]
 
-共鸣技能，即编译、反编译和注册，对超链者来说非常重要。它们被用来从共鸣中创造(有些人会说是召唤)强大的网精并进入矩阵。这些技能在《超链者》，第239页有详细描述。
+共鸣技能，即编译、反编译和注册，对超链者来说非常重要。它们被用来从共鸣中创造(有些人会说是召唤)强大的网精并将其拉入矩阵。这些技能在《超链者》，第239页有详细描述。
 
 [spoiler]
 [size=14pt][b]Using Resonance Skills[/b][/size]

@@ -185,7 +185,7 @@ You transfer a file or set of files from one node to another. Most transfers las
 
 [size=14pt][b]捕获无线信号(嗅探)[/b][/size]
 
-你窃听进出一个设备的无线流量。你必须在该设备的信号范围内才能捕捉到流量。你必须在电子战+嗅探(3)检定中获得成功才能开始捕获，然后你可以复制、记录或转发流量，只要你保持在目标设备的信号范围内并保持嗅探器程序运行就不需要再次进行检定。其他各方没有办法检测到你的捕获(当然，如果他们没有访问你的通讯链)。如果流量是加密的，你必须在捕获之前破解加密。
+你窃听进出一个设备的无线流量。你必须在该设备的信号范围内才能捕捉到流量。你必须在电子战+嗅探(3)检定中获得成功才能开始捕获，然后你可以复制、记录或转发流量，只要你保持在目标设备的信号范围内并保持嗅探程序运行就不需要再次进行检定。其他各方没有办法检测到你的捕获(当然，如果他们没有访问你的通讯链)。如果流量是加密的，你必须在捕获之前破解加密。
 
 [spoiler]
 [size=16pt][b]COMPLEX ACTIONS[/b][/size]
@@ -205,19 +205,20 @@ You compile a sprite using the rules on p. 240.
 
 [size=14pt][b]控制设备(指令)[/b][/size]
 
-像遥控器或电子游戏控制器一样使用你的指令程序，你通过矩阵控制一个设备。你使用这个动作所做的任何检定的骰子都会使用你的指令程序的等级来代替你会使用的属性和相应的技能。例如，向目标发射无人机步枪需要进行步枪+指令的检定，而使用远程水下焊接机则需要进行航海机械+指令的检定。
+你像遥控器或电子游戏控制器一样使用你的指令程序来通过矩阵控制一个设备。你使用这个动作所做的任何检定骰都会使用你的指令程序的等级来代替你会使用的属性并正常使用相应的技能。例如，使用无人机的步枪向目标开火需要进行步枪+指令的检定，而使用远程水下焊接机则需要进行航海机械+指令的检定。
 
 请注意，如果要执行的行动通常是一个简单动作，通过控制设备行动来执行它仍然是一个复杂动作。
 
 [spoiler]
 [size=14pt][b]CONTROL DEVICE (COMMAND)[/b][/size]
 You control a device through the Matrix, using your Command program like a remote control or video game controller. The dice pool of any test you make using this action uses the rating of your Command program in place of the attribute you would use along with the appropriate skill as normal. For example, firing a drone-mounted rifle at a target would require a Longarms + Command test, and using a remote underwater welder would call for a Nautical Mechanic + Command test. 
+
 Note that if the action to be performed is normally a Simple Action, performing it through the Control Device action is still a Complex Action.
 [/spoiler]
 
 [size=14pt][b]崩溃节点(利用漏洞)[/b][/size]
 
-你使一个你的图标目前正在访问的节点崩溃(不是一个化身)。做一个骇入+利用漏洞(系统等级+防火墙，复杂动作)的延续检定。当你达到阈值时，该节点被崩溃并重新启动(第238页)。节点在第一次被攻击时发布限制性警报(在第238页列出的其他效果中，它给予节点一个+4的防火墙)来对抗袭击者。当节点崩溃时，任何通过VR访问节点的用户都必须抵抗甩致休克，包括黑客本人。
+你使一个你的图标目前正在访问的节点(不是化身)崩溃。做一个骇入+利用漏洞(系统等级+防火墙，复杂动作)的延续检定。当你达到阈值时，该节点被崩溃并重新启动(第238页)。节点在第一次被攻击时发布限制性警报(在第238页列出的其他效果中，它给予节点一个+4的防火墙)来对抗袭击者。当节点崩溃时，任何通过VR访问节点的用户都必须抵抗甩致休克，包括黑客本人。
 
 [spoiler]
 [size=14pt][b]CRASH NODE (EXPLOIT)[/b][/size]
@@ -226,7 +227,7 @@ You crash a node (not a persona) that your icon is currently accessing. Make a H
 
 [size=14pt][b]程序破坏(利用漏洞)[/b][/size]
 
-你对一个正在运行的程序发起攻击，该程序不能是代理、角色或其他具有CM的图标。目标程序必须与你的图标在同一节点中运行，或者由与你的图标在同一节点中的图标运行。做骇入+利用漏洞与目标的防火墙+系统等级的对抗检定。如果你成功了，你就会使目标程序崩溃，使其状态从运行中变为已加载。
+你对一个正在运行的程序发起攻击，该程序不能是代理、角色或其他具有CM的图标。目标程序必须与你的图标在同一节点中运行，或者由与你的图标在同一节点中的图标运行。做骇入+利用漏洞与目标的防火墙+系统等级的对抗检定。如果你成功了，你就会使目标程序被破坏，使其状态从运行中变为已加载。
 
 [spoiler]
 [size=14pt][b]CRASH PROGRAM (EXPLOIT)[/b][/size]
@@ -235,7 +236,7 @@ You initiate an attack on a running program that is not an agent, persona, or ot
 
 [size=14pt][b]数据搜索(浏览或其他)[/b][/size]
 
-你在矩阵中搜索关于某个主题的信息。这是一个数据搜索+浏览的延续检定，有一个可变的阈值和间隔，分别取决于有关信息的一般可用性和被搜索的"区域"。有些信息是被保护和加密的，存储在矩阵无法访问的节点中，因此，如果不访问隐藏数据的节点，就无法找到这些信息，尽管可以通过数据搜索来找到信息的位置。
+你在矩阵中搜索关于某个主题的信息。这是一个数据搜索+浏览的延续检定，有一个可变的阈值和间隔，分别取决于有关信息的一般可用性和被搜索的"区域"。有些信息是被保护和加密的，存储在矩阵无法访问的节点中，因此，如果不访问隐藏数据的节点，你就无法找到这些信息，尽管你可以通过数据搜索来找到信息的位置。
 
 并非所有的数据搜索动作都使用浏览程序。这个动作可以用在任何大量的数据上，比如一个节点中的图标列表，信号范围内的节点，或者网络流量。当使用这个动作进行这些特殊的搜索时，要使用用于收集信息的程序，通过它来进行搜索。例如，使用数据搜索+扫描来查找信号范围内的所有无线智能链，或数据搜索+分析来查找一个节点中的所有代理，或数据搜索+嗅探来查找你截获的无线流量中的特定短语。
 
@@ -318,7 +319,7 @@ You attempt to locate a hidden node. You must be aware of the node, or at least 
 
 [size=14pt][b]拆除数据炸弹(拆除)[/b][/size]
 
-你试图拆除一个你已经探测到的数据炸弹(通常用矩阵侦察检定)。使用你的骇入+拆除和数据炸弹的等级×2进行对抗检定，如果你得到任何净成功，数据炸弹将被移除。否则，数据炸弹会被触发，造成它所设定好的伤害，并可能破坏它所连接的任何文件。
+你试图拆除一个你已经探测到(通常用矩阵侦察检定)的数据炸弹。使用你的骇入+拆除和数据炸弹的等级×2进行对抗检定，如果你得到任何净成功，数据炸弹将被移除。否则，数据炸弹会被触发，造成它所设定好的伤害，并可能破坏它所连接的任何文件。
 
 [spoiler]
 [size=14pt][b]DISARM DATA BOMB (DISARM)[/b][/size]
