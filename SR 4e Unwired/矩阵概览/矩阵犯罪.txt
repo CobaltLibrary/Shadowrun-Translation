@@ -1,0 +1,264 @@
+[color=brown][size=16pt][b]矩阵犯罪[/b][/size][/color]
+
+> 我下载了一份小可爱文件的摘录，这是孤星公司在"无线世界，无线犯罪"课上提供给他们的新员工的。请好好欣赏并欢迎随时发表评论。
+
+> Glitch
+
+[spoiler]
+[color=brown][size=16pt][b]MATRIX CRIMES[/b][/size][/color] 
+> I’ve downloaded an excerpt from a cute little document that Lone Star provides to their new recruits during their “Wireless World, Wireless Crimes” class. Enjoy and feel free to comment. 
+
+> Glitch
+[/spoiler]
+
+[b]//开始文件附录//[/b]
+
+在过去3年中，与"矩阵"有关的犯罪(见附录7.41-B)的定罪率已上升到每10人中有3人被定罪。如果加上除其他指控外还包含轻微的矩阵指控的定罪(如在犯下更严重的罪行时使用带有盗版软件的通讯链)，这一数字将增加至十分之六。因此，作为孤星警官，你们必须了解常见的矩阵犯罪和实施这些犯罪的罪犯。
+
+[spoiler]
+[b]//Begin File Attachment//[/b]
+In the last 3 years, convictions for Matrix-related crimes (see appendix 7.41-B) has risen to 3 out of every 10 convictions. When convictions that contain minor Matrix charges in addition to other charges (such as using a commlink with pirated software while committing a more serious crime) are added, that number increases to 6 out of 10. Accordingly, it is imperative that you as Lone Star Officers have an understanding of common Matrix crimes and the criminals who perpetuate them.
+[/spoiler]
+
+[b]常见矩阵犯罪[/b]
+
+• 从企业设施中窃取数据，包括企业间谍活动
+
+• 侵犯软件、多媒体和娱乐下载的版权
+
+• ID盗窃(泄露或使用受害者的SIN和/或ID)和虚拟抢劫(从受害者的银行账户中窃取资金或从账户中扣除消费)
+
+• 诈骗 
+
+• 违反隐私法 
+
+• 虚拟恶行(在线赌博、卖淫和虐待*)
+
+*对未成年人的虐待往往吸引了大量的媒体报道，但可予起诉的案件却很少。作为孤星警官，你们应该对这个问题特别敏感。
+
+[spoiler]
+[b]COMMON MATRIX CRIMES[/b]
+
+• Data theft from corporate facilities, including corporate espionage
+
+• Copyright violations for software, multimedia, and entertainment downloads
+
+• ID theft (compromising or using a victim’s SIN and/or ID) and virtual robbery (stealing funds from a victim’s bank account or charging purchases to an account)
+
+• Fraud 
+
+• Privacy law violations 
+
+• Virtual vices (online gambling, prostitution, and exploitation*)
+
+*Exploitation of minors often attracts significant media coverage, but prosecutable cases are rare. As Lone Star officers, you should be particularly sensitive to this issue.
+[/spoiler]
+
+> "违反隐私法？"
+
+> Beaker
+
+> 窃听无线通话，跟踪，在有隐私期望的情况下未经允许对人进行拍摄。这意味着我可以在商场里给你拍照，但我不能在商场的卫生间里拍照--你可以合理地期望在你小便时有隐私。基本上是一个烦人的讨厌鬼。
+
+> Slamm-0!
+
+> 呵。这只在你是黑客的时候才算数。企业一直在做这个。好吧，也许不是拍摄小便。但我打赌他们会跟踪你的卫生间使用情况，以便向你推销更好的卫生纸。
+
+> Snopes
+
+> ID盗窃是一个巨大的问题，但当局并没有对此采取什么措施。法律规定，你必须在许多公共场所--如商场--广播你的SIN和ID，这是在自找麻烦。解决办法是允许人们将他们的SIN保密，但这样一来，企业该怎么跟踪每个人？在一个好的社区里，黑客就像鸡舍里的狼一样很容易被发现。有了某个普通人公开的SIN和ID，黑客就可以大肆采购了。
+
+> Glitch
+
+> 如果黑客被抓--他们中的许多人都被抓了，这些贪婪的窃贼--他们可以预见到严重的监禁。如果他们用普通人的钱"偷"了公司的货物，那么就会被公司监禁了。
+
+> Dr. Spin
+
+> 消费者可以购买监测他们的SIN和ID和银行账户的可疑活动的服务。ID保险也是一项大生意--利用人们对丢失ID的恐惧。他们承诺提供全面的ID保险，一般来说，他们会在档案中提供DNA样本，并在发生盗窃、遗失或电脑故障时，由顾问帮助处理重新创建你的SIN或ID的繁琐手续。
+
+> Mr. Bonds
+
+> 注意媒体对"虐待未成年人"的报道--真正令人不安的犯罪往往是暴力性的，如兜售儿童色情的变态或在网上袭击儿童(或亲自跟踪他们)的恋童癖。这些罪行每天都在发生，但事实是，这些变态很少被抓住，甚至没有被调查，除非受害者是一个被宠坏的公司小屁孩。即使他们被抓住了，如果犯罪行为完全是虚拟的(以今天的拟感技术水平，你可以打赌这些在线攻击真的很伤人，并给孩子们留下了心理创伤)，在很多地方，例如西雅图，犯罪行为通常只是"促成犯罪的因素"。这是一个法律还没有跟上技术的领域。
+
+> Frosty
+
+> 我曾经赚过几次新元--一般是从孩子父母那里，但有一次是从一个厌倦的警察那里--来追踪一个"奥派"--对线上恋童癖的矩阵俚语。
+
+> Pistons
+
+> 你曾靠那个赚钱？
+
+> Frosty
+
+> 追踪他们？当然，毕竟一个女孩要谋生。但因为我是那么棒，所以我免费给奥派的大脑做了手术。
+
+> Pistons
+
+[spoiler]
+> “Privacy Law violations?” 
+
+> Beaker
+
+> Eavesdropping on wireless conversations, stalking, recording people without their permission in situations with the expectation of privacy. Which means I can take your picture at the mall, but I can’t take it in the mall’s bathroom—you can reasonably expect privacy while you piss. Basically being an annoying nuisance.
+
+> Slamm-0!
+
+> Heh. That only counts if you’re a hacker. Corps do it all the time. Well, maybe not photographing piss. But I bet they track your bathroom usage in order to market better TP to you. 
+
+> Snopes
+
+> ID theft is a huge problem, but authorities aren’t doing much about it. The law says you have to broadcast your SIN and ID in many public places—like malls—and that’s just asking for trouble. The solution would be to allow folks to keep their SIN private, but then how could the corps track everyone? A hacker in a nice neighborhood is like a wolf in a hen house—easy pickings. With Joe Q. Public’s SIN and ID, a hacker can go on a quick shopping spree. 
+
+> Glitch
+
+> And if the hacker gets caught—and many of them do, greedy buggers—they can expect some serious jail time. Corporate jail time, if they “stole” corporate goods with Joe’s money. 
+
+> Dr. Spin
+
+> Consumers can buy services that monitor their SIN and ID and bank accounts for suspicious activity. ID insurance is also a big business— playing on fears of losing your ID. They promise to provide full ID coverage, generally by having DNA samples on file and counselors who help with the red-tape of reestablishing your SIN or ID in case of theft, loss, or computer glitch.
+
+> Mr. Bonds
+
+> Notice the mention of media coverage for “exploitation of minors”—the really disturbing crimes, often violent, like the creeps who peddle kiddie-porn or the pedophiles who attack kids online (or track them down in person). Those crimes happen daily, but the truth is, the creeps are rarely caught or even investigated unless the victim is a pampered corporate brat. Even when they are caught, if the crime was completely virtual (and with the sim-levels available today, you can bet those online attacks really do hurt and leave psychological scars), in a lot of places—Seattle, for example—the crime is generally just “contributing to the delinquency.” This is one area where the law hasn’t caught up to the tech. 
+
+> Frosty
+
+> I’ve taken nuyen a couple of times—from parents generally, but once from a fed-up cop—to track down an “Opie”—Matrix slang for an online pedophile. 
+
+> Pistons
+
+> You took money for that? 
+
+> Frosty
+
+> To track ‘em down? Sure. A girl’s got to make a living, after all. But ‘cause I’m so nice, I fried the Opie’s brain for free.
+
+> Pistons
+[/spoiler]
+
+如果以新元(基础成本，见附录2.11)来衡量，约60-70%的矩阵犯罪是由犯罪集团(包括有组织犯罪、恐怖组织和更复杂的帮派)实施的。随着无线基础设施的普及，每个主要的犯罪集团都开始部分依靠矩阵犯罪来获得赚钱机会。在全球范围内，我们的数字表明--
+
+[b]加载附录5.16B…[/b]
+
+[spoiler]
+An estimated 60-70% of Matrix crimes, when measured in terms of nuyen (for a cost basis, see appendix 2.11), are committed by crime syndicates (which includes organized crime, terrorist groups, and more sophisticated gangs). With the prevalence of wireless infrastructure, every major crime syndicate has come to rely on Matrix crimes for part of their money-making opportunities. Globally, our figures indicate—
+
+[b]Load Appendix 5.16B…[/b]
+[/spoiler]
+
+[size=14pt][b]西雅图矩阵犯罪[/b][/size]
+
+在西雅图地区，黑手党对与矩阵有关的犯罪所占比例最大。以罗威娜-奥马利为首，他们涉嫌洗钱、诈骗、盗用ID、伪造ID、经营非法在线赌场、制作BTL和传播非法在线色情制品。
+
+在西雅图的三合会中，八十八(the Eighty-Eights)是唯一一个拥有大量矩阵资产或交易的。我们有理由怀疑他们大量招募黑客和超链者，这使得他们比其他西雅图三合会更擅长技术。他们在盗版软件方面有很好的业务，被认为是这个城市非法软件的主要来源之一。
+
+山口组被怀疑利用矩阵对其境内的虚拟商店和企业进行"保护性敲诈"。他们还涉嫌利用黑客劫持货物，或通过篡改在线记录和海关文件，用集装箱货船将货物运入和运出城市。
+
+在西雅图剩下的两个首尔派中，朝鲜团几乎完全是虚拟的；他们的大部分罪行都以某种形式涉及到矩阵。他们经营网上赌场（有些是非法的），涉嫌经常性的数据盗窃和网上银行抢劫，以及ID盗窃/伪造。此外，他们还涉嫌利用他们的帮派关系来协调环太平洋地区的走私活动，利用黑客来伪造运输记录。
+
+[b]//结束文件附录//[/b]
+
+[spoiler]
+[size=14pt][b]SEATTLE MATRIX CRIME[/b][/size]
+In the Seattle area, the Mafia is responsible for the largest percentage of Matrix related crimes. Headed by Rowena O’Malley, they are suspected of money laundering, fraud, ID theft, ID forgery, operating illegal online casinos, BTL production, and distribution of illegal online pornography. 
+
+Of the Seattle Triads, the Eighty-Eights are the only Triad to have significant Matrix assets or dealings. We have reason to suspect that they recruit heavily among hackers and technomancers, which makes them more technology-friendly than the other Seattle Triads. They have a healthy business in software piracy and are believed to be one of the primary sources for illegal software in the city.
+
+The Yakuza are suspected of using the Matrix to carry out “protection rackets” against virtual stores and businesses in their territory. They are also suspected of using hackers to hijack shipments or smuggle goods in and out of the city on container ships by altering online records and customs documentation. 
+
+Of the two remaining Seoulpa Rings in Seattle, the Choson Ring is almost entirely virtual; most of their crimes involve the Matrix in some form. They operate online casinos (some illegally), are suspected of regular data-thefts and online bank-robbery, and ID theft/forgery. In addition, they are suspected of using their gang connections to coordinate smuggling around the Pacific Rim, using hackers to forge shipping records.
+
+[b]//End File Attachment//[/b]
+[/spoiler]
+
+---
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
