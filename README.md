@@ -3,7 +3,7 @@
 
 部分翻译文章已发布至纯美苹果园个人专区
 
-暗影狂奔规则介绍：https://mzh.moegirl.org.cn/zh-hans/%E6%9A%97%E5%BD%B1%E7%8B%82%E5%A5%94
+暗影狂奔规则介绍：https://shadowrun.fandom.com/wiki/Main_Page
 
 个人专区：http://www.goddessfantasy.net/bbs/index.php?board=1980.0
 
