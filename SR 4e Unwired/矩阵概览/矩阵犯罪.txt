@@ -154,7 +154,7 @@ An estimated 60-70% of Matrix crimes, when measured in terms of nuyen (for a cos
 
 山口组被怀疑利用矩阵对其境内的虚拟商店和企业进行"保护性敲诈"。他们还涉嫌利用黑客劫持货物，或通过篡改在线记录和海关文件，用集装箱货船将货物运入和运出城市。
 
-在西雅图剩下的两个首尔派中，朝鲜团几乎完全是虚拟的；他们的大部分罪行都以某种形式涉及到矩阵。他们经营网上赌场（有些是非法的），涉嫌经常性的数据盗窃和网上银行抢劫，以及ID盗窃/伪造。此外，他们还涉嫌利用他们的帮派关系来协调环太平洋地区的走私活动，利用黑客来伪造运输记录。
+在西雅图剩下的两个首尔派中，朝鲜团几乎完全是虚拟的；他们的大部分罪行都以某种形式涉及到矩阵。他们经营网上赌场(有些是非法的)，涉嫌经常性的数据盗窃和网上银行抢劫，以及ID盗窃/伪造。此外，他们还涉嫌利用他们的帮派关系来协调环太平洋地区的走私活动，利用黑客来伪造运输记录。
 
 [b]//结束文件附录//[/b]
 
@@ -173,92 +173,337 @@ Of the two remaining Seoulpa Rings in Seattle, the Choson Ring is almost entirel
 
 ---
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]盗版软件[/b][/size]
 
+与此相关的是，盗版软件或黑市程序是犯罪领域的大生意。盗版软件有各种不同的口味--从专门为黑客设计的定制的利用漏洞程序到一些有进取心的黑客为个人使用或转售而释出的合法程序。盗版软件可以通过大型零售商购买，如黑客之家(当然，你需要成为一名黑客才能进入他们的销售节点)或从本地经销商处购买。
 
+比方说，你想要联络-肖最新的搜索助手Fetch。假设你有有效的SIN，ID和银行账户，你可以去虚拟商场花129新元买一个。或者你可以查找你最喜欢的盗版商--可能是一个黑客朋友，友好的三合会，或当地的矩阵团伙--并以10新元的价格购买一份拷贝。当然，你不会得到所有那些漂亮的企业更新......但你对10新元还有什么期望？盗版软件每年使企业损失数十亿新元。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]WAREZ[/b][/size]
+On a related note, warez—pirated software or blackmarket programs—are big business in the crime world. Warez come in a variety of flavors—from the customized Exploit program specifically designed by and for hackers to legitimate programs that some enterprising hacker has liberated for personal use or resale. Warez can be bought through a major retailer, like Hacker House (‘course, you’re going to need to be a hacker to get into their sales node) or from local dealers. 
 
+Let’s say you want Xiao-Renraku’s newest search assistant, Fetch. Assuming you have a valid SIN, ID, and bank account, you could go to the virtual mall and pick up a copy for 129¥. Or you could look up your favorite warez dealer—maybe a hacker friend, a friendly Triad, or a local matrix gang—and buy a copy for 10¥. ‘Course, you won’t get all those nice corporate updates … but what do you expect for 10¥? Software piracy costs corps billions of nuyen every year.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+> 盗版软件往往更容易出现问题和故障。就我个人而言，我认为这些公司故意把他们的软件建构得漏洞百出。合法购买的软件会得到所有必要的更新。盗版软件则没有，最终所有这些错误都使它们无法使用。当你知道一个黑客只在你的程序上花费了几周或几个月的时间，就在他的通讯链上卸下几颗子弹时，谁还需要版权保护？
 
+> Glitch
 
+> 当然，如果你自己摆弄一下公司的软件，你也可以去掉他们装入的所有垃圾，比如"消费者跟踪"。
+
+> Slamm-0!
+
+> 这种偏执症很快就会变得非常昂贵。
+
+> Netcat
+
+> 不需要程序的女士这么说到。
+
+> Puck
+
+> Puck, 你听说过一个关于锅和水壶的故事吗？ [color=green](注：此处意思为五十步笑百步)[/color]
+
+> Netcat
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+> Warez tend to be more prone to problems and glitches. Personally, I think the corps purposely build their software to be glitchy. Legally purchased software gets all the necessary updates. Pirated warez don’t, and eventually all those bugs make them unusable. Who needs copyright protection when you know a hacker only gets a few weeks or months out of your prog before wanting to unload a couple of bullets into his ‘link? 
 
+> Glitch
+
+> Course, if you fiddle with the corp software yourself, you can also take out the all the crap they load into it—like “consumer tracking.” 
+
+> Slamm-0!
+
+> That kind of paranoia gets real expensive, real quick. 
+
+> Netcat
+
+> So says the lady who doesn’t need programs. 
+
+> Puck
+
+> Puck, you ever heard the one about the pot and the kettle?
+
+> Netcat
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[b]海盗和黑客团伙[/b]
 
-
+谈到矩阵的犯罪，就不能不谈及矩阵的海盗和黑客组织。海盗团伙经常违反版权法，侵犯知识产权。如果你获得了一份最新的"Nathan Never"模拟游戏的"免费"拷贝，或者使用了文件共享网络上发布的"Rocky Mountain Avatar"的多用户访问代码，你就很有可能已经从海盗团伙中受益了。黑客团伙更注重利润，并深入到矩阵犯罪的领域--我们会在以后更多地谈论他们。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
+[b]PIRATE AND HACKER CREWS[/b]
+You can’t talk about Matrix crime without talking about Matrix pirates and hacker crews. Pirate crews frequently violate copyright laws and hijack intellectual property. Chances are, if you’ve picked up one of those “free” copies of the latest “Nathan Never” sims or used a multi-user access code for Rocky Mountain Avatar posted on a filesharing network, you’ve benefited from a pirate crew. Hacker crews are a bit more profit oriented and delve deeper into the realm of Matrix crimes—but we’ll talk more about them later.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+---
 
+[quote]
+[size=14pt][b]无线技术在蔓城区的常见用途[/b][/size]
 
+• 在西雅图，包装材料中的RFID标签使西雅图的废物管理承包商能够监测每个家庭的回收水平，以更高效率对可回收材料进行机械分类，并对不当丢弃可回收材料的家庭征收高昂的费用。
+
+• 网格链接系统将车辆与车辆登记信息联系起来，计算并自动收取道路使用费，监测交通情况，并使用复杂的程序重新安排车辆路线以管理高峰期交通。
+
+• 城市内的空中交通系统与空中交通情况相连接，提供自动化空中交通控制，验证许可证，监测非法空中交通，派遣无人机、警察或自动发出警告，并减少空中碰撞。
+
+• 无线警察和公共安全无人机在街区和公共区域巡逻，使警察部队能够减少人员和成本。无人机可以提供繁忙公共场所的实时录像，监测犯罪活动，在需要广播数据的地方检查泛人类有效的SIN和ID，分析和记录可疑的活动，并提供公共援助(提供导航，呼叫医疗救助，协助走失儿童，以及其他"好公民"功能)。
+
+• 城市街道和建筑物由城市管理承包商控制的服务无人机队保持清洁。在恶劣天气下，如大雪或水灾，街道可以不断维护并保持可驾驶。带有传感器设备的专业无人机可以检测建筑物、桥梁、道路或其他公共基础设施的应力点，定期派出无人机进行分析并提供有限的维修，或通知城市管理部门潜在的建筑物或基础设施故障。
+
+• 限制进入的区域(如高级社区)或仅限会员的设施，从体育场馆到乡村俱乐部，都会使用会员身上的RFID标签和/或来自会员通讯线路的专门加密广播，以提供安全、不受干扰的访问。在幼儿园和学校等安全设施中，可能需要对进入该区域的成年人进行生物识别扫描以验证RFID标签数据。
+
+• 购物中心和商店跟踪嵌入在商品中的RFID标签，自动统计购买量，在顾客离开购物区时从顾客的商店账户或银行账户中收费。
+
+• 公共交通系统跟踪在每个公共汽车、火车、地铁或轻轨站等待的广播ID的数量，以提供准确的乘客分析，使公共交通当局能够向乘客量大或等待时间长的路线派遣更多的交通工具，并不断分析交通资源的最有效利用方式。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]COMMON SPRAWL USES OF WIRELESS TECH[/b][/size]
+• In Seattle, RFID tags in packaging materials enable Seattle’s waste management contractor to monitor the level of recycling in every household, mechanically sort recyclables with greater efficiency, and levy stiff fees against households that discard recyclable materials improperly.
 
+• Gridlink systems connect vehicles to vehicle registrations, calculate and automatically bill road-usage fees, monitor traffic, and use complex programs to reroute vehicles to manage rush-hour traffic.
+
+• Intra-city air traffic systems connect with air-traffic, providing automatic air-traffic control, verifying licenses, monitoring illegal air traffic, dispatching drones, police, or automatically issuing citations, and cutting down on in-air collisions.
+
+• Wireless police and public safety drones patrol neighborhoods and public areas, allowing police forces to cut down on personnel and costs. Drones can provide real-time footage of busy public places, monitoring for criminal activity, checking for valid SIN & IDs for metahumans where that data is required to be broadcast, analyzing and recording suspicious activities, and providing public assistance (giving directions, calling for medical attention, assisting with lost children, and other “good citizen” functions).
+
+• City streets and buildings are kept clean by a fleet of service drones controlled by a city management contractor. In inclement weather, such as heavy snows or flooding, streets can be constantly maintained and kept drivable. Specialized drones with sensor equipment that can detect stress points in buildings, bridges, roads, or other public infrastructure, are sent out at regular intervals to analyze and provide limited repairs, or to notify city administration of potential building or infrastructure failure.
+
+• Restricted access areas (such as high-class neighborhoods) or membership-only facilities ranging from sports gyms to country clubs use RFID tags in members and/or specialized encrypted broadcasts from members’ commlinks to provide secure, unobtrusive access. In secured facilities such as daycares and schools, biometric scans may be required to verify the RFID tag data for adults accessing the area.
+
+• Shopping centers and stores track RFID tags embedded within merchandise to automatically tally up purchases, charging customers’ store accounts or bank accounts when the customer leaves the shopping area.
+
+• Public transit systems track the number of broadcasting IDs waiting at each bus, train, subway, or lightrail stop to provide accurate analysis of ridership, enabling the public transit authority to dispatch more transportation to routes with heavy ridership loads or longer wait times and to constantly analyze the most efficient use of transit resources
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]数据港[/b][/size]
+
+知识就是力量，尤其是在暗影中。如果你在狂奔过程中发现了一些有趣的东西--新的无人机设计规格，政治家的心理记录，甚至某个流行的地精摇滚明星的行程，有人愿意为它支付合适的新元。对我们大多数人来说，问题是我们不认识这个人，当然也不会信任他们。相反，你直接把数据交给信息经纪人。他或她会付钱给你，然后再转卖。如果你能满足他或她的售价，你也可以从信息经纪人那里购买信息。信息经纪人提供有价值的服务，并为此收取高额费用，他们是一些在暗影中最有关系的人。
+
+数据港的工作原理也是如此。有些人对获取数据收取费用。作为一个狂奔者，如果我有一些有价值的数据，我可以把它上传到数据港。如果有人想浏览它，他们会支付一定的费用。我将得到部分费用，而数据港将得到其余的费用。其他的数据港是作为免费资源维护的，比如Nexus或Helix。有些甚至是合法的：例如，UCAS的美国国会图书馆(它存有在UCAS中写的每一个项目的副本，无论是数字的还是其他的)。事实上，地方政府经常将公共记录存放在政府数据港。
+
+[spoiler]
+[size=14pt][b]DATA HAVENS[/b][/size]
+Knowledge is power, especially in the shadows. If you come across something interesting during a run—new drone design specs, psych records for a politician, even the itinerary of a popular goblin-rock star—someone out there is willing to pay good nuyen for it. The problem for most of us is that we don’t know that person and we certainly don’t trust them. Instead, you take the data directly to an info broker. He or she will pay you and then resell it. You can also purchase information from an info broker if you can meet his or her price. Info brokers provide a valuable service, for which they charge a hefty fee, and are some of the most well-connected people in the shadows. 
+
+Data havens work along the same lines. Some charge a fee to access data. As a runner, if I had some valuable data, I could upload it to the data haven. If someone wanted to see it, they’d pay a set fee. I’d get part of the fee and the data haven would get the remainder. Other data havens are maintained as free resources, such as the Nexus or the Helix. Some are even legal: the Library of Congress in UCAS, for example, (which holds a copy of every item written in the UCAS, digitally or otherwise). In fact, local governments often house public records in government data havens.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+> 阿斯加德(Asgard)是一颗轨道卫星，拥有一个这样的数据港，尽管它更像是一个在线拍卖行。他们专门提供非常热门的、非常新的数据--比如直接从X公司上传的，没有停顿也没有传播。如果你有太烫手的东西难以保留，或者担心在得到报酬之前被一枪击毙，那么你可以去这个地方。当他们得到一些东西时，他们会发布一个数据摘要，并对其进行公开招标。出价高者获得数据。他们不会把任何人拒之门外，所以是的，这意味着有时一个公司会买回自己的秘密。在拍卖会上没有被购买的数据通常会被倒入数据港，你可以进行浏览，但他们对浏览和访问的任何数据收费--这可能很快就会变得非常昂贵。不过，考虑到数据的即时性，通常来说这些钱是值得的。任何超过两周的数据都会被倒入其他数据港，并免费开放给所有人。
 
+> Orbital DK
 
+> 你还应该知道，阿斯加德在拍卖中的提成一般在售价的60-80%之间。但据我所知，从来没有黑客从阿斯加德那里被追踪到。也许这种保密性是值得的。
+
+> FastJack
+
+> 免费的数据港也同样有用。黑客应该做的第一件事是在Nexus、Helix、ShadowSea......该死，在每一个你能找到的数据港获得他或她自己的账户。是否拥有良好的情报是在狂奔中幸存下来或愚蠢地死去的区别。你可以找到关于某人的传言，从狂奔者那里得到他们在热门研究机构看到的安保漏洞的笔记，关于帮派联盟和领土变化的最新信息...你需要它，你可以找到它。
+
+> The Smiling Bandit
+
+> 数据港的最大问题，尤其是免费的数据港，是试图从过时的、随机的或故意误导的数据中找到隐藏的黄金。大多数数据港都有很多的研究人员和黑客，他们什么都不做，只"食用"和"呼吸"其中的数据。如果你没有技能，没有浏览软件，也没有时间，我建议付钱给研究人员，让他帮助你筛选这些垃圾并找到你要找的东西。
+
+> Netcat
+
+> 政府和企业讨厌地下数据港，但他们不会因此而阻止他们自己获取数据，就像你和我一样。所以记住，偏执是有益健康的。对所有诸如此类的事情都要谨慎对待。
+
+> Glitch
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+> Asgard is an orbiting satellite that holds one such data haven, although it more often resembles an online auction house. They specialize in really hot, really recent data—as in upload directly from corp X, do not stop, do not pass go. Great place to go if you’ve got something too hot to hold on to or are worried about getting a bullet before getting paid. When they get something, they post a summary of the data and open bidding on it. High bid wins the data. They don’t shut anyone out of the bidding, so yes, that means that sometimes a corp will buy back its own secrets. Data that doesn’t get purchased at auction often gets dumped into the data haven, which you can browse, but they charge for the browse and for any data accessed—which can get real spendy, real quick. Generally worth the nuyen, though, considering the timeliness of the data. Anything older than two weeks gets dumped back down to other data havens and is free for all. 
 
+> Orbital DK
+
+> You also should know that Asgard’s take of the auction is generally between 60–80% of the sale price. As far as I know, though, no hacker has ever been traced from Asgard. Perhaps the confidentiality is worth the price.
+
+> FastJack
+
+> The free data havens are just as useful. First thing a hacker should do is get him or herself an account at the Nexus, the Helix, ShadowSea … hell, at every data haven you can find. Having good intel is the difference between surviving a run or dying a fool. You can find rumors on people, notes from runners on security holes they’ve seen at a hot research facility, up-to-date info on shifting gang alliances and territories … you need it, you can find it. 
+
+> The Smiling Bandit
+
+> The biggest problem with data havens, especially the free ones, is trying to sort through the outdated, random, or purposely misleading data to find the hidden gold. Most data havens have researchers, hackers who do nothing but eat and breathe the data in them. If you don’t have the skills, browsing software, or time, I’d suggest paying a researcher to help you sift through the shit to find what you’re looking for. 
+
+> Netcat
+
+> Governments and corps hate the underground data havens, but they don’t let that stop them from accessing the data, just like you and me. So remember, paranoia is healthy. Take everything with a grain of salt, yadda yadda.
+
+> Glitch
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+今天存在的许多数据港是暗影网络的一部分，这是一个松散的协议，在网络成员之间提供数据共享和备份。在崩溃摧毁了暗影地带(Shadowland)和其他许多数据港之后，系统管理员意识到他们是多么的脆弱。
 
+> 正是这种松散的隶属关系使混沌船长能够将有关蠕虫的信息发布到全球其他暗影地带，挽救了成千上万的生命和多年积累的数据。
 
+> FastJack
+
+大多数数据港已经向最大的数据港Nexus(崩溃前后均是)发送旧的和过时的数据。当系统试图在崩溃后重建时，人们普遍认为，为了防止另一次这样的攻击，暗影中的数据港必须建立一个更可靠的网络。这就是暗影网络形成的原因，它允许成员数据港相互镜像内容。大多数避难所也仍然定期向Nexus发送备份。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+Many of the data havens existing today are part of a shadow network, a loose agreement to provide data-sharing and backups among the network members. After the Crash took down Shadowland and many other data havens, sysops realized just how vulnerable they were.
 
+> It was this loose affiliation that allowed Captain Chaos to distribute info on the worm to the other shadowlands around the globe, saving thousands of lives and years of accumulated data.
+
+> FastJack
+
+Most data havens already had been sending old and outdated data to the Nexus, the biggest data haven (before and after the Crash). As systems attempted to rebuild post-Crash, there was a general agreement that in order to protect from another such attack, the shadowy data havens had to build a more reliable network. That’s how the Shadow Network was formed, allowing member data havens to mirror each others content. Most havens also still send regular back-ups to the Nexus.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+---
 
+[size=14pt][b]矩阵法治和警察[/b][/size]
 
+矩阵法治是一个由相互冲突的法律、不同的惩罚措施和跨管辖区的噩梦组成的纠缠不清的混乱局面。当你可以将肉体蹲在西雅图的大地上，而你的思想却在香港违反了多项法律时，你还能指望什么呢？不同的国家和团体对什么是非法的有不同的想法（例如，在萨利希-锡德赫地区完全合法的修改后的浏览程序在普韦布洛公司理事会中是高度非法的），对适当的惩罚也有非常不同的想法。再加上沿着矩阵流动的大量企业新元，以及如果（或者说，当）上述矩阵发生什么事情时，我们的世界经济有可能受到冲击，最后你会发现一个东西：企业法庭的干预。
+
+企业法庭多年前就设立了企业法庭矩阵管理局(CCMA)。毕竟，凡是企业集团插手的事情，CC也要插手。CCMA的目的是将企业间的打闹控制在合理水平。他们负责矩阵法规，包括对通用无线协议和管辖权问题进行最终判断，确保电子商务继续有利可图。这意味着，当企业的黑客行动过于激进时，他们就会介入；当无线网络供应商以低劣的维护、频繁的停机时间或糟糕的安全状况阻碍电子商务时，他们就会骚扰；当企业开始在矩阵上或越过矩阵争斗时，他们就会干预。
+
+崩溃之后，CCMA在人员和声誉方面都受到了巨大的打击。必须有人受到指责，而CCMA是一个方便的替罪羊。毕竟，如果他们一直在做他们的工作，他们会在崩溃前就知道冬夜和蠕虫的事。即使他们失去了大部分的官员也无济于事。
+
+> 指责CCMA没有防止崩溃的发生完全是胡说八道。他们中的大多数人都是拍马屁的官僚，他们对公司政治的了解比写脚本更多。
+
+> Slamm-0!
+
+在随后的几年里，CCMA进行了全面改革。他们已经拥抱了无线世界，并认真追查任何试图阻碍它的人。他们对企业舞蹈的关心减少了很多，而更多的是对企业本身进行监督。为了维持治安，他们依靠网格监督部门。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]MATRIX LAW AND POLICE[/b][/size]
+Matrix law is a tangled mess of conflicting laws, disparate punishments, and cross-jurisdictional nightmares. What else would you expect when your meat body can be squatting in the Seattle sprawl while your mind breaks multiple laws in Hong Kong? Different countries and corps have different ideas of what is illegal (frex, modified Browse programs that are perfectly legal in Salish-Sidhe territory are highly illegal in the PCC) and very different ideas of appropriate punishment. Add in the immense amount of corporate nuyen that flows along the Matrix and the possibility for our world-wide economy to get rocked if (or rather, when) something happens to said Matrix, and you end up with one thing: Corporate Court intervention. 
 
+The Corporate Court established the Corporate Court Matrix Authority (CCMA) years ago. After all, anything the corps get their hands into, the CC is required to meddle in too. The CCMA is meant to keep inter-corporate hi-jinks down to reasonable levels. They’re responsible for Matrix regulations, including passing final judgment on issues such as universal wireless protocols and jurisdictional issues, making sure e-commerce continues to run profitably. That means stepping in when corps get too aggressive with their black ops, harassing wireless network providers who inhibit e-commerce with shoddy maintenance, frequent downtime, or shabby security, and intervening when the corps start squabbling on—or over—the Matrix. 
+
+The CCMA took a huge hit after the Crash in terms of personnel and reputation. Someone had to be blamed and the CCMA was a convenient scapegoat. After all, if they’d been doing their job, they would have known about Winternight and the worm before the crash. It didn’t help that they’d lost most of their officers.
+
+> That’s total crap, blaming the CCMA for not preventing the Crash. Most of ‘em were boot-licking bureaucrats who knew more about corp politics than writing script. 
+
+> Slamm-0!
+
+In the years that have followed, the CCMA has been overhauled. They’ve embraced the wireless world and seriously pursue anyone who tries to hamper it. They care a lot less about doing the corporate dance and a lot more about policing the corps themselves. To do the policing, they rely on the Grid Overwatch Division.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[b]网格监督部门[/b]
 
+我们黑客有能力同时违反多个司法管辖区的多项法律，因此造成了很多问题。通过适当地使用代理或网精，黑客可以造成比任何经过改装的街头萨满更严重的破坏，至少在跨越矩阵边界和违反法律方面是如此的。在一次行动中，你可以非法入侵西雅图的MSP供应商，入侵新网的卫星网络，访问KITT的人力资源数据存储器，并闯入地平线的研发设施。如果地平线公司的安保黑客试图追踪你，他们也将不得不通过新网的卫星系统进行黑客攻击。这和派武装的地平线公司人员进入新网的财产是一样的。换句话说，这不会是好事。
 
+更糟糕的是，许多司法管辖区对矩阵犯罪有完全不同的法律。在加拉加斯，黑客行为根本算不上是犯罪。因此，除非一个公司能派他们自己的人去找你，否则向当地请求援助的结果只会是被嘲笑。
+
+为了帮助规范矩阵法治，CCMA创建了网格监督部门(GRID OVERWATCH DIVISION)，也被巧妙地称之为GOD。他们的工作人员都是从十大超企中借调来的企业安保黑客，负责监管无线矩阵的混乱局面。他们追踪黑客，并在企业需要有人协助裁决调查时解决跨辖区的犯罪。如果有必要，他们也会自己调查犯罪，特别是当公司的黑客行动有点过火的时候。他们被称为网探(G-men)，通常限于公共节点。然而，在调查犯罪时，他们会请求许可进入私人空间。如果没有得到许可，他们可以获得授权以允许他们进入。十大超企均以"矩阵犯罪伤害了我们所有人"为标准，为帮助网探们做了一场表演。
+
+现实情况是，在表面之下，合作经常受限或被拖延，特别是当你把网探那神一样的态度和CCMA相当严格的执行结合起来。这一点，再加上企业利用狂奔者来打击他们的竞争对手，以及他们需要时间来确保没有证据将他们与那些"可否认的资产"联系起来，意味着网探会发现他们的调查受到阻碍。
+
+不要因这一点使你陷入虚假的安全感。网探是好样的。他们从顶尖的企业安保黑客中招募，获得自由行动的许可和接近无限的权力，他们称自己为"GOD"是有原因的。他们携带最尖端的程序，拥有最好的装备，以及巨大的自负--主要是赚来的。
+
+> GOD在崩溃中失去了很多网探。他们中的大多数人在试图与蠕虫搏斗时倒下了，其他人则陷入昏迷或患有严重的AIPS。不过，他们现在已经恢复了全部实力。
+
+> Pistons
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[b]GRID OVERWATCH DIVISION[/b]
+We hackers cause so many problems with our ability to break multiple laws in multiple jurisdictions at the same time. With the appropriate use of agents—or sprites—a hacker can cause more havoc than any souped-up street sam, at least in terms of Matrix borders crossed and laws broken. On a single run, you can illegally hack access to a Seattle MSP provider, hack a NeoNET sat network, access a KITT HR data storage, and break into a Horizon R&D facility. If the Horizon corporate security hackers try to trace you, they’ll have to hack through NeoNET’s sat system, too. Which is rather the same as sending armed Horizon goons onto NeoNET’s property. In other words, it ain’t gonna be pretty. 
 
+To make matters worse, many jurisdictions have completely different laws regarding Matrix crimes. Hacking in Caracas isn’t much of a crime at all. So unless a corp can send their own goons after you, requests for local assistance are going to get laughed at. 
+
+In an attempt to help regulate Matrix law, the CCMA created the Grid Overwatch Division, cleverly nicknamed GOD. Staffed with corporate security hackers on loan from each of the Big 10, they are responsible for policing the tangled mess of the wireless Matrix. They track down hackers and solve cross-jurisdictional crimes when corporations need someone to help referee an investigation. If necessary, they’ll investigate crimes on their own, especially when corporate black-ops are heating up a little too much. The G-men, as they’re called, are primarily confined to public nodes. However, when investigating a crime, they’ll ask for permission to cross onto private space. If permission isn’t forthcoming, they can get warrants that’ll allow them to enter. The Big-10 all make a show out of helping out the G-men, citing the standard line of “Matrix crime hurts us all.” 
+
+The reality is that under the surface, cooperation is frequently limited or delayed, especially when you combine the godlike attitudes of the G-men and the rather strict enforcement of the CCMA. That, combined with the fact that corps use runners to hit their competitors, and their need for time to make sure there’s no evidence linking them to those “deniable assets” means that the G-men can find their investigations hampered. 
+
+Don’t let that lull you into a false sense of security. The G-men are good. Recruited from the top corporate security hackers and given free rein and rather unlimited power, there is a reason they call themselves GOD. They carry the most cutting edge programs, have the best gear, and huge egos—mostly earned.
+
+> GOD lost a lot of G-men during the crash. Most of them went down trying to fight the worm, others ended up in comas or with severe AIPS. They’re back to full strength now, though.
+
+> Pistons
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+网探有标准化的图标，带帽檐的帽子、风衣、徽章和汤普森冲锋枪的图标。大多数人还保留了一些其他的图标，以便在他们需要浏览数据港或考察黑客酒吧而不被驱逐（或被围攻）时使用。
 
+通常，网探喜欢在公共节点上巡逻，寻找黑客，试图通过他们伪造的ID发现他们，或者在他们开始骇入时抓住他们。一旦发现可疑者，他们就会进行追踪，同时分散黑客的注意力--通常是进行一些线上的战斗。不过，网探并不只是战斗型黑客。他们是优秀的侦探，习惯于追踪罪犯和解决政治敏感犯罪。
 
+> 不同公司的网探之间有很多竞争和炫耀的行为。他们都想让自己的公司看起来很好，让其他公司看起来很差。众所周知，他们会不惜一切代价来解决犯罪问题，并向其他网探炫耀。
+
+> glitch
+
+> 是的，在一个联络网探的"惩戒"之后，这个问题现在已经被搁置了。她在没有搜查令的情况下撕开了一个天演节点，炸死了两个天演安保黑客，并使该节点崩溃，而该节点恰好正在运行一个重症监护医疗机构。CCMA对GOD进行了严厉打击。此后，网探一直在注意他们的行动，但有传言说他们只是表现得很礼貌。公司的竞争现在更糟糕了，因为他们不能让所有那些咄咄逼人、自我膨胀的态度展示出来。
+
+> Pistons
+
+> GOD一直在努力招募超链者。问题是，拥有他们的企业不愿意把他们借调出去。少数加入GOD的人（在特种部队的人力资源管理部门(Artificial Resource Management，或称ARM)之外）面临着来自其他网探的偏见、破坏和骚扰，甚至是暴力。最近有两名来自地平线的超链者离职，显然地平线正在为此制造一些骚动。预计GOD会有更多的动荡，或者至少在ARM的超链者试图教其他网探一些礼貌的时候会有一场大的内部报复。
+
+> Netcat
+
+> GOD也有一个传播欺诈部门，调查通过公共无线系统传播的诈骗。一般来说，他们只有在受害者来自多个公司（或多个MSP向GOD投诉）时才会介入。如果诈骗者以非企业公民为目标，那么常规的安保公司--如孤星公司甚至国家警察--就会进行调查。正因为如此，大多数骗局都是针对非公司公民的。
+
+> Mr. Bonds
+
+> 是的，但有些薪奴就是这么该死的容易信任，很难抗拒......所有这些可支配收入，他们会相信任何东西。
+
+> Snopes
+
+> GOD有一支没有出现在"文件"上的特别行动部队。我听说他们被称为"RH"--我猜这是"右手"的意思（与GOD命名其部门的传统保持一致）。他们的任务是追捕可能以矩阵为目标的恐怖组织，这些人让普通的网探看起来就像脚本小子。无情、致命，而且完全不倾向于依靠法律体系来处理可疑的恐怖组织。太多的组织想"继续监视"冬夜，而不是采取行动。创立RH是为了确保另一场崩溃永远不会发生，他们有全权以他们认为合适的方式来处理问题。
+
+> Fianchetto
+
+> RH与地平线的道金组(Dawkin’s Group)在一些案件中合作。显然，这两个团体有着微妙的分工关系。
+
+> Dr. Spin
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+The G-men have standardized icons, with brimmed hats, trench coats, badge, and Tommy gun iconography. Most also keep a few other icons on tap for when they need to browse through a data haven or scope out a hacker-bar without getting evicted (or mobbed). 
 
+Frequently, the G-men like to patrol public nodes, looking for hackers, trying to spot them through their falsified IDs or catch them as they start hacking. Once they spot someone suspicious, they’ll run a trace while they distract the hacker—often with a bit of online combat. G-men aren’t just combat hackers, though. They’re excellent detectives, used to tracking down criminals and solving politically sensitive crimes.
+
+> There’s a lot of rivalry and show-boating between G-men from different corporations. They all want to make their corp look good and the others look bad. They’ve been known to go to extreme lengths to solve crimes and show up the other G-men.
+
+> Glitch
+
+> Yeah, that’s on the backburner right now after the “discipline” of a Renraku G-man. She ripped thru an Evo node without a warrant, fried two Evo sec. hackers, and crashed the node—which happened to be running an intensive-care medical facility. The CCMA came down hard on GOD. The G-men have been watching their step ever since, but rumors are they’re only acting polite. Corp rivalries are even worse now that they can’t let all those aggressive, ego-ridden tempers out to play. 
+
+> Pistons
+
+> GOD has been trying really hard to recruit technomancers. Problem is, the corps that have ‘em don’t want to loan them out. The few that have joined up with GOD (outside the special-forces Artificial Resource Management, or ARM, division) have faced prejudice, razing, and harassment from the other G-men, to the point of violence. Two technos from Horizon walked off the job recently and apparently Horizon is making some noise about it. Expect to see more shakeups at GOD, or at least a big internal smack-down as the technos from ARM attempt to teach the other G-men some manners. 
+
+> Netcat
+
+> GOD also has a Transmissions Fraud Division, investigating scams transmitted over public wireless systems. Generally they only get involved when the victims are from multiple corporations (or multiple MSPs complain to GOD). If scam artists target non-corporate citizens, then the regular security firms—like Lone Star or even national police—investigate. Because of this, most scams are targeted to non-corp citizens. 
+
+> Mr. Bonds
+
+> Yeah, but some of those wage-slaves are just so damn trusting that it’s hard to resist … all that disposable income, and they’ll believe anything.
+
+> Snopes
+
+> GOD has a special ops force that doesn’t appear on “paper” anywhere, so to speak. I’ve heard them referred to as the RH—I’m guessing it stands for Right Hand (keeping with GOD’s tradition in naming their divisions). Tasked with hunting down terrorist groups who might target the Matrix, these guys make the regular G-men look like script-kiddies. Ruthless, lethal, and not at all inclined to rely on the legal system to deal with suspected terrorist groups. Too many organizations wanted to “keep watching” Winternight instead of taking action. The RH was created to make sure another Crash never happens, and they’ve got carte blanche to deal with problems the way they see fit. 
+
+> Fianchetto
+
+> The RH has worked with Horizon’s Dawkin’s Group in a few cases. Apparently the two groups have a tenuous working relationship.
+
+> Dr. Spin
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[b]其他执法机构[/b]
 
+如果你做的事情大到足以中断商业活动，那么可以预计到会有网探来敲门。对于其他的事情，还有当地的执法部门--公司、政府或签约机构。公司调查影响其底线的矩阵犯罪，如软件盗版、ID盗窃，或使用/盯上公司资产的黑客。一些政府有自己的执法部门，比如PCC，他们的执法部门是国家化的，对黑客的看法非常不宽容。其他大多数司法管辖区则依靠签约的执法部门，如孤星。
 
+孤星的矩阵犯罪部门，MCD，负责在公共矩阵空间巡逻，并为他们签约保护的地区提供快速反应、调查和监禁矩阵犯罪分子的服务。工作量过大的"孤星"侦探们必须处理各种问题，从矩阵帮派的BTL到遏制有组织犯罪。在这两者之间，他们还得努力监视黑客、ID窃贼、盗版软件商和所有其他靠矩阵谋生的暴徒。孤星公司还为客户提供矩阵安保，包括IC和待命的战斗黑客。
+
+就像任何服务业企业一样，孤星公司根据盈利能力和客户满意度来平衡他们的行动。这意味着，如果黑客已经成为新闻，他们将投入更多的资源去抓他，而不是去抓在学校卖盗版拟感软件的孩子。如果这能让他们看起来不错，他们就会把它作为优先事项。毕竟，满意的客户往往会续签合同，如果你给客户留下深刻印象，你就可以向他们收取更高的价格。
+
+> 道理是：如果你保持低调，他们就有太多的其他案件和太少的侦探来追捕你。如果你吵吵闹闹，在逃跑时失误，杀死几个旁观者，或者开始倾泻恶意代码，炸毁孩子的大脑，你就会被移到文件堆的顶端。他们会有足够的资源来追捕你--在当今的监控社会中，要想彻底消失几乎是不可能的，所以帮你自己一个忙，不要给他们一个理由把你移到"待办事项"名单的首位。
+
+> Glitch
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[b]OTHER LAW ENFORCEMENT AGENCIES[/b]
+If you do something big enough to interrupt commerce, expect the G-men to come knocking. For everything else, there’s your local law enforcement—corporate, government, or contracted. Corporations investigate Matrix crimes that affect their bottom line, like software piracy, ID theft, or hackers that use or target corporate assets. Some governments have their own law enforcement—like the PCC, with their nationalized law enforcement and their very intolerant views on hackers. Most other jurisdictions rely on contracted law enforcement, such as Lone Star. 
 
+Lone Star’s Matrix Crimes Division, MCD, is tasked with patrolling public Matrix spaces and providing rapid response, investigation, and incarceration of Matrix criminals for areas they’re contracted to protect. The overworked Lone Star detectives have to deal with everything from Matrix gangs running BTLs to reining in organized crime. In between, they get stuck trying to police hackers, ID thieves, warez dealers, and all the other riff-raff that make a living off the Matrix. Lone Star also will provide Matrix security to customers, including IC and on-call combat hackers. 
+
+Like any service-corp, Lone Star balances their actions based on profitability and customer satisfaction. That means that if hacker has been making the news, they’ll devote much more resources to catch him than on busting the kid who is selling pirated sims at school. If it’ll make them look good, they’ll make it a priority. After all, satisfied customers tend to renew contracts, and if you impress customers, you can charge them higher prices.
+
+> The moral is: if you keep a low profile, they’ve got too many other cases and too few detectives to hunt you down. If you make noise, botch a run and kill a few bystanders, or start dumping malicious code that fries kids’ brains, you ll get moved to the top of the pile. They’ve got the resources to hunt you down—it really is almost impossible to disappear in today’s surveillance society, so do yourself a favor and don’t give ‘em a reason to move you to the top of the “to-do” list.
+
+> Glitch
 [/spoiler]
