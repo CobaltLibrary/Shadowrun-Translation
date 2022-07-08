@@ -1,0 +1,39 @@
+[color=brown][size=16pt][b]安慰食品[/b][/size][/color]
+
+一个世纪前，烹饪好的一顿饭是三道菜的健康份量，但预制食品和即时满足将其减少为一道包罗万象的饭菜。方便取代了营养，烹饪也变得自动化。当你还在通勤的时候，你可以用微波炉快速加热营养豆餐，甚至告诉你的大豆加工单元在你到达时准备什么，谁愿意在漫长的工作日后在厨房里花一个多小时？公司推动更有效和有利可图的作物生产，专注于超级产量的作物，如大豆和磷虾。随着过敏症的增加和对吃"有机食品"的渴望，一些公司，如GGW、Ingersoll&Berkeley、地平线和Genetique已经为普通的泛人们提出了替代品。然而，许多城市居民的主要饮食仍然是一样的。
+
+大豆：在污染和企业对轻松盈利的渴望之间，大豆已经成为大规模生产的首要焦点。基因改造和传统农业的替代方法促进了其他主食来源（大米、玉米、小麦和土豆）的生产，但随着大豆的广泛营销和普及，并没有人注意到这点。由于过度接触，估计每30人中就有1人对大豆过敏，这种令人不安的趋势还在继续增长。大豆存在替代品，而不需要求助于全"真正"食物的奢侈。
+
+磷虾：这些微小的小虾填补了肉类的真空，而水产养殖场也因为它们而在世界各地蓬勃发展。大型筒仓式养殖场里有数以百万计的这些家伙在水箱里快乐地游动。到了收获季节，磷虾的肉可以被混合和压制在一起，然后以各种形式出售，包括用于加工单元和摇动的粉末。其他动物蛋白的变种包括青蛙养殖场和蟋蟀孵化场。
+
+霉菌蛋白：霉菌蛋白来自名为镰刀菌的蘑菇。可以在小空间内用类似于发酵啤酒的廉价资源大量种植。它们被压制成成型的膳食或粉末，用于加工单位。从营养学上讲，霉菌蛋白是仅次于大豆的最佳食品。
+
+藻类：最常见的是蓝藻和绿藻，被从淡水湖的顶部舀出，加工成食品和维生素补充剂。在沿海地区，海带被养殖并磨成粉末，并以同样的方式使用。
+
+[spoiler]
+[color=brown][size=14pt][b]COMFORT FOOD[/b][/size][/color]
+A century ago, cooked meals were three dishes in healthy portions, but pre-made food and instant gratification has since reduced it to one all-encompassing meal. Convenience replaced nutrition, and cooking became automated. Who wants to spend an hour or more in the kitchen after a long workday, when you can quickly microwave a Nutrisoy meal or even tell your soy processor what to prepare when you arrive, while you’re still commuting? Corporations push for more efficient and profitable crop production, focusing on the super-yield crops, such as soy and krill. With rising allergies and the desire to eat “organic,” several corporations, such as GGW, Ingersoll & Berkeley, Horizon, and Genetique have come up with alternatives for the common metahuman. However, the primary dietary staples for many sprawl citizens remain the same.
+
+Soy: Between pollution and corporate desire for easy profitability, soybeans have become the prime focus for mass production. Genetic modification and alternatives to traditional farming have boosted production of the other staple food sources (rice, corn, wheat, and potato), but with the widespread marketing and popularity of soy, no one has noticed. Because of overexposure, it is estimated that 1 in 30 have an allergy to soy, a disturbing trend that continues to grow. There are alternatives to soy, without resorting to the luxury of all “real” food.
+
+Krill: These tiny little shrimp have filled the meat vacuum, and aquaculture farms are booming around the world because of them. Large silo farms contain millions of these guys swimming happily in their tank. Come harvest time, the meat from krill can be blended and pressed together, then sold in a variety of forms, including powder for use in processing units and shakes. Other animal protein variants include frog farms and cricket hatcheries.
+
+Mycoprotein: Mycoprotein comes from mushrooms called fusarium venenatum. Large volumes can be grown in small spaces and with cheap resources similar to fermenting beer. They are pressed into shaped meals or powder for processing units. Mycoprotein is the next best, nutrition-wise, to soy.
+
+Algae: Algae, most commonly blue-green algae, is scooped off the top of freshwater lakes and processed into foodstuffs and vitamin supplements. On the coast, kelp is farmed and ground into powder to be used in the same fashion.
+[/spoiler]
+
+[size=14pt][b]加工单元[/b][/size]
+
+大豆加工单元(Soy Processing Unit, SPU)是三维全息视频娱乐系统和通讯链之外最广泛的家用电器，在中低端生活方式的家庭中经常取代标准微波炉和烤箱。SPU的大小从微波炉到冰箱不等。就像台式锻造机一样，SPU将烹饪从单纯的浇汁、混合和烹调转变为从头到尾的重新构筑。大豆浆/糊状物被注入人工香料和颜色，被雕刻成特定的形状，然后用添加剂使其纹理化，最后用微波炉加热，使其在适当的位置变硬，从而重新创造出美食佳肴。虽然被称为"大豆加工机"，但所有型号都能够在某种程度上处理替代成分。 
+
+SPU由HMSS(家庭管理软件套装，Home Management Software Suites)控制，以使它们能够接收、更新、交换菜谱、订购原料，以及以其他方式管理家庭的烹饪任务。低端处理器，包括SiA200，能创造出基本的形状，并可选择调味，而像Sapphire Blue这样的高端处理器则使用模糊逻辑来创造更真实和多样的菜肴。专业化单元，如酱油先生和酱油夫人系列，为单一项目提供升级选择，如薯片、沙拉和鸡蛋。无论哪种项目，SPU都被列入必需品类别。
+
+[spoiler]
+[size=14pt][b]Processing Units[/b][/size]
+A Soy Processing Unit (SPU) is the most widespread household appliance outside the trideo entertainment system and commlink, frequently replacing the standard microwave and oven in Low and Middle lifestyle homes. SPUs range in size from microwave to refrigerator. Like a desktop forge, a SPU moves cooking from just being poured, mixed, and cooked to being architecturally built from the ground up. The soy-pulp/paste is injected with artificial flavors and color, sculpted into a given shape, and then texturized with additives before being microwave zapped to harden it at appropriate points to recreate culinary delights. While called “soy processors,” all models are capable of handling alternative ingredients to some extent.  
+
+SPUs are controlled by the HMSS to allow them to receive updates, swap recipes, order ingredients, and otherwise manage the culinary tasks of the household. Low-end processors, including the SiA 200, create basic shapes with optional flavoring, while high-end processors like Sapphire Blue use fuzzy logic to create more realistic and varied dishes. Specialized units, such as the Mr. and Mrs. Soy line, provide upgraded options for single items, such as chips, salads, and eggs. Regardless of the kind of unit, the SPU is included in the category of Necessities.
+[/spoiler]
+
+* 摘自SR4e RunnerCompanion Advanced LifeStyles
