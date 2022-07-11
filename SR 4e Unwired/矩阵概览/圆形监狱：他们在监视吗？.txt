@@ -1,0 +1,247 @@
+[color=brown][size=16pt][b]圆形监狱：他们在监视吗？[/b][/size][/color]
+
+几个世纪前，一些聪明的家伙想出了一个聪明的主意，建造可以自我监视的监狱。该怎么做？通过让安保人员一直监视所有的囚犯。他的想法是，如果囚犯认为他们被监视着，他们就会乖乖听话，不管实际上有没有人在监视。好在他们没有微型无人机和微型摄像机，嗯？
+
+好吧，看起来他的想法终于实现了。而且不仅仅是在监狱里--事实上，那相当失败，因为罪犯们往往不在乎他们在监狱里是否被监视--毕竟，他们已经在监狱里了，所以还能发生什么？而那些诚实的公民，那些薪奴和企业的绵羊，他们高兴地稳步而行，相信有善良的牧羊人在注视着他们。大多数人对在公共场所公布他们的SIN和ID的要求不加思索。无处不在的无人机呼啸而过并被忽略，它们被认为只是风景的一部分。人们认为，无处不在的摄像头注视着所有地方。没有人想到他们每次访问公共场所的ARO、购买豆咖、乘坐公交车或进入公共/私人区域时留下的数据痕迹。在全球无线矩阵计划之前，不留下数据痕迹是可能的。见鬼，这甚至一点也不难；使用信用棒，在马来西亚独立银行或其他私人机构开设匿名银行账户，通过黑市服务注册一个通讯码......所有这些加上一套漂亮的西装，你几乎可以去任何地方而不会引起注意。
+
+现在，要在蔓城区活动，你必须有一个SIN，一个ID，和一个通讯链。你所到之处，每一个图标、店面或公共终端都会创建一个记录。无人机在街上巡逻，扫描人们，以确保他们的通讯链正在广播正确的数据。摄像机随处可见，记录并分析每一个动作。无线流量被拦截、分析和记录。或者说，我们是如此被告知的。所以我们这么相信。
+
+这是真的吗？"他们"真的一直在监视，监视所有地方，监视所有人吗？嗯......是也不是。从心理学上讲，这并不重要--如果人们相信他们被监视，他们就会像被监视那样行动。在企业的领域，如办公楼等，可能有人在监视。然而在公共场所，没有足够的人力或资金来真正配备所有这些监控系统，所以他们依靠程序和代理，然而它们并不特别擅长在其编程参数之外运作。现在，如果他们正在寻找特定的人，那么他们可以进行追踪。如果犯罪发生，他们已经将其记录下来了。祝你好运。
+
+> 我想指出的是，许多研究表明，这一理论是行不通的，无处不在的摄像头监控对减少犯罪几乎没有任何作用，它所做的唯一事情是帮助破坏公民自由，并给当局提供无限的滥用机会。
+
+> Aufheben
+
+[spoiler]
+[color=brown][size=16pt][b]PANOPTICON: ARE THEY WATCHING?[/b][/size][/color]
+A few centuries ago, some brainy guy had the bright idea to build prisons that would police themselves. How? By making it possible for the security guards to watch all the prisoners, all the time. His idea was that if the prisoners thought they were being watched, they’d behave, regardless of if there was anyone watching or not. Good thing they didn’t have micro-drones and mini-cameras available, eh? 
+
+Well, looks like his idea has finally come to life. And not just in prisons—actually, that was pretty much a bust, since criminal types tend not to care if they’re being watched in jail—after all, they’re already in jail, so what else can happen? It’s the honest citizens, the wageslaves and corporate sheep, who happily plod along believing that some good shepherd is watching over them. Most don’t think twice about the requirement to broadcast their SIN and ID in public places. The ubiquitous drones whirring by are ignored, just part of the landscape. It’s assumed that cameras are watching everywhere, omnipresent. No one thinks about the data trail they leave every time they access a public ARO, buy a soy-kaf, ride a bus, or enter a public or private area. Before the worldwide wireless Matrix initiative, it was possible not to leave a data trail. Heck, it wasn’t even that difficult; using credsticks, anonymous bank accounts with the Malaysian Independent Bank or some other private institution, a commcode number registered through a black-market service … all that and a nice suit, and you could pretty much go anywhere without raising flags.
+
+Now, to operate in the sprawl, you have to have a SIN, an ID, and a commlink. Everywhere you go, every icon, storefront or public terminal you access creates a record. Drones patrol the street, scanning people to ensure they have commlinks broadcasting the right data. Cameras are imbedded everywhere, recording and analyzing every move. Wireless transmissions are intercepted, analyzed, and recorded. Or so we’ve been told. So we believe. 
+
+Is it true? Are “they” really watching, all the time, everywhere, everyone? Well … yes and no. Psychologically, it doesn’t really matter—if people believe they’re under surveillance, they’ll act accordingly. In corporate areas, like office buildings and the like, there probably is someone watching. In public spaces, there isn’t enough man-power or funding to really staff all those surveillance systems, so they rely on programs and agents, which aren’t particularly great at operating outside their programmed parameters. Now, if they’re looking for someone specific, then they can track them down. If a crime does happen, they’ve got it recorded. Lucky you.
+
+> I’d like to point out that numerous studies have shown that this theory doesn’t work, that omnipresent camera surveillance has done little to nothing to decrease crime, and that the only thing it has done is helped destroy civil liberties and give authorities unlimited opportunities for abuse.
+
+> Aufheben
+[/spoiler]
+
+---
+
+[size=14pt][b]RFID标签[/b][/size]
+
+这些小家伙是如此随处可见，以至于大多数人都不记得，在十年前，它们是为企业物流和追踪有价值雇员而使用的。现在，几乎所有东西都带有它们--你买的任何东西都有外包装，这是肯定的。衣服、玩具、家具，甚至你今天下午从自动售货机上买的那块糖果。RFID标签包含数据并可以在40米以内进行广播，这非常适合短距离发信或库存控制。大多数人懒得禁用这些小标签，所以当他们在街上走动时，他们会发出关于自己的几十条小信息，从他们的内衣到他们钱包里的口香糖。公司将这些数据与你的ID结合起来使用，以便更好地专门向你推销东西。
+
+> 狂奔者禁用这些小家伙，这样我们就不必处理内衣销售广告对我们与约翰逊先生和他的朋友见面时的干扰。标签擦除器很便宜。买一个。使用它。记得经常这么做。
+
+> Glitch
+
+> RFID标签可以被放置在任何东西上。是的，任何东西。这包括你中午吃的黏糊糊的营养棒和你大口畅饮的豆咖。你就是你所食用的东西......
+
+> Netcat
+
+> 如果让你的午餐在你的肚子里播放它的存在让你感到不安，你可以选择吃一些Horizon的Naturally Yours有机食品系列。他们保证不添加人工成分--包括RFID标签。
+
+> Traveler Jones
+
+[spoiler]
+[size=14pt][b]RFID TAGS[/b][/size]
+These tiny guys are so ubiquitous that most people can’t remember back a decade, when they were reserved for corporate logistics and tracking valuable employees. Now, almost everything comes with them—anything you buy with packaging, that’s for sure. Clothing, toys, furniture, even that candy bar you bought this afternoon from the vending machine. The RFID tags contain data and can broadcast it up to 40 meters, perfect for short range messages or inventory control. Most people don’t bother to disable the little tags, so as they walk around the street, they give off dozens of little bits of information about themselves, from their underwear to the chewing gum in their purse. Corporations use this data in conjunction with your ID to better market things specifically to you.
+
+> Runners disable the little buggers so we don’t have to deal with underwear sales ads intruding on our meets with Mr. J. and his friends. Tag erasers are cheap. Buy one. Use it. Often. 
+
+> Glitch
+
+> RFID tags can be placed in anything. Yes, anything. That includes the gooey bar you ate for lunch and the soy-kaf you guzzled down. You are what you eat … . 
+
+> Netcat
+
+> If having your lunch broadcast its presence from inside your tummy bothers you, you can choose to eat some of Horizon’s Naturally Yours organic food line. They guarantee no artificial ingredients—including RFID tags—are added.
+
+> Traveler Jones
+[/spoiler]
+
+公司经常在员工体内植入RFID标签。有了RFID标签的广播，你可以在一个安全范围内追踪你的任何员工。你可以确保只有经过授权的员工才能进入敏感区域，你可以看到员工和谁一起吃午饭，甚至可以知道他们在卫生间花了多长时间。如果标签具有生物监测功能，你还可以持续追踪员工的生命统计数据--这对安保人员以及在危险条件下工作的人员非常有用，比如采矿或生化研究实验室。大多数公司将RFID标签写入雇佣合同中(他们在哪里植入标签由公司决定)。许多公司还为员工的孩子在他们出生时提供免费的RFID标签，让新父母们放心，并能方便地追踪他们未来的小薪奴。生物医学ID标签也很受父母和老人护理人员的欢迎--它们包含医疗数据，包括过敏或治疗状况，并持续广播基本的生物监测和ID数据。
+
+如果你丢失了一个孩子，当地警方可以发出走失警报(KIDAlert)，通报所有公共和私人节点的孩子的RFID标签数据。任何订阅KIDN网络的人都能扫描附近的标签，看能否发现走失孩子的数据(第一个扫描到孩子ID的普通公民将获得1000新元的奖励)。在KIDN网络上植入标签并注册的儿童的找回率超过90%(未在该系统上的儿童的找回率不到30%)，KIDN积极地向父母推销这些统计数据。老年人护理项目也经常利用这些标签，因为如果老年人在远离护理人员的情况下出现医疗问题，响应的医务人员可以立即获取他们的医疗数据--也包括保险信息。医疗马车和其他医疗服务提供者向所有客户提供免费标签。
+
+无线信号塔在大多数蔓城区的广泛覆盖使GPS定位变得容易。这意味着，男孩和女孩们，如果你身上有RFID标签，而且你在无线塔或中继点的范围内，你就可以在物理上被追踪到。你的通讯链并不是唯一广播信号的东西，你最好记住这一事实。虽然执法部门和公共服务部门可能会维护该GPS系统，但黑客也有同样多的理由来利用它。
+
+> 如果你计划脱离，你最好带着标签擦除器。一定要注意隐形标签，它们几乎不可能被发现。这些该死的小虫子。
+
+> Mika
+
+> 执法部门使用RFID标签来追踪罪犯。性犯罪者被植入标签(一般是在不太容易被移除的地方)；如果他们在学校或儿童保育设施的一定距离内，他们的假释官就会被通知，并可以发出逮捕令。人们一直在法庭上争论关于在性犯罪者身上植入RFID标签以公布他们的罪行的话提，这样，任何进入范围的人都会被告知他们是性犯罪者。这种方式破坏了他们的生活，因为有谁愿意在他的住所、工作场所或任何地方有这样的标签呢？偶尔，他们中的某个人将会被打倒或死在义务警员的手中。到目前为止，UCAS认为这是合法的。今年晚些时候，最高法院将审理此案；我们将看看他们是否支持这个。
+
+> Kay St. Irregular
+
+> 老天，RFID标签广播的所有内容要都是事实就好了。
+
+> Snopes
+
+> 执法部门(或企业)的另一招是喷出RFID标签"雾"，在人群中铺满微小的标签，使他们能够追踪抗议者、暴乱者、破坏者等，甚至是在事后。一些企业将此作为一种被动措施来追踪闯入设施的罪犯。
+
+> Hard Exit
+
+> 如果你自己正在追踪某人--也许是为了撤离，也许你想追踪一个可疑的约翰逊先生，或者只是想窃听你的前任--你可以在他们身上(或体内)塞一个标签，然后接入系统。它不能让你观察他们或监听他们--你需要间谍装备才能做到这一点--但它会告诉你他们去了哪里。
+
+> Mika
+
+[spoiler]
+Corporations frequently place RFID tags inside their employees. With a RFID tag broadcasting, you can track any of your employees within a secured compound. You can make sure only authorized employees enter sensitive areas, you can see who employees are eating lunch with and even time how long they spend in the bathroom. If the tag is biomonitor-enabled, you can also keep track of your employees’ vital statistics—which is very useful for security personnel as well as personnel working in dangerous conditions, like mining or biochemical research labs. Most corps write RFID tags into an employment contract. (Where they insert the tag is up to the corp.) Many corporations also offer free RFID tagging at birth for employee children, promising peace-of-mind to new parents and a convenient way to keep track of all their future little wageslaves. Biomedical ID Tags are also popular with parents and caretakers of the elderly—they contain medical data, including allergies or medical conditions, along with broadcasting basic bio-monitoring and ID data. 
+
+If you lose a child, the local police can put out a KIDAlert, which notifies all public and private nodes of the child’s RFID tag data. Anyone subscribing to the KIDNetwork will be able to scan nearby tags to see if they can spot the child’s data (the first private citizen who scans the kid’s ID is paid a 1,000¥ reward). The recovery rate is over 90% for children tagged and registered on the KIDNetwork (and less than 30% for those not on the system), and the KIDN aggressively markets those statistics to parents. Elder care programs often utilize these tags as well, since if an older person suffers a medical problem away from caretakers, responding medical personnel can access their medical data— including insurance info—immediately. DocWagon and other medical service providers offer free tags to all their clients. 
+
+The broad coverage of wireless towers in most sprawls enable easy GPS positioning. That means, boys and girls, that if you’ve got a tag on you and you’re within range of a wireless tower or relay point, you can be physically tracked. Your commlink isn’t the only thing broadcasting a signal, a fact you’d do well to remember. And while law enforcement and public services may maintain that GPS system, hackers have just as many reasons to use it.
+
+> If you plan an extraction, you better have a tag eraser with you. Be sure to watch out for stealth tags, which are almost impossible to spot. Damn little buggers. 
+
+> Mika
+
+> Law enforcement uses RFID tags to keep track of criminals. Sex offenders get tagged (generally someplace not so easily removed); if they go within a certain distance of a school or childcare facility, their parole officer is notified and a warrant can be issued. There’s been fighting in courts over placing RFID tags in sex offenders that broadcast their crime, so that anyone who comes within range is notified that they are a SEX OFFENDER. Ruins their lives, since who wants to have that in their building, workplace, or, well, anywhere? Occasionally one of them will end up beaten or dead at the hands of vigilantes. So far, UCAS has held that it’s legal. It’s up at the Supreme Court later this year; we’ll see if they uphold it. 
+
+> Kay St. Irregular
+
+> Gee, it’s a good thing that everything a RFID tag broadcasts is the truth. 
+
+> Snopes
+
+> Another trick for law enforcement (or the corps) is to spray out a RFID tag “mist” that blankets a crowd with microscopic tags, enabling them to track protestors, rioters, vandals, etc. even after the fact. Some corps use this as a passive measure to track criminals who break into a facility. 
+
+> Hard Exit
+
+> If you’re tracking someone—maybe for an extraction, maybe you want to keep track of a suspicious Mr. J, or just want to bug your ex—you can slip a tag onto (or into) them, then tap into the system. Doesn’t let you watch ‘em or listen in on them—you need spy gear for that shit—but it will tell you where they go.
+
+> Mika
+[/spoiler]
+
+---
+
+[size=14pt][b]监控社会[/b][/size]
+
+如果你想生活在现在的文明世界里，你必须接受监视作为它的一部分。不过，还是有一些方法可以绕过这双无所不在的眼睛。最有效的是像一棵树一样离开。去住到荒原的某个地方或亚马逊丛林的中间(尽管我听说地平线公司也在努力把无线网络带到那里，这样小鸟和野兽就可以进行远程通信了)。也有一些国家选择退出监控网络。比如阿萨曼多，如果你能忍受那个气味。跨极地的阿留申族，如果你不介意下雪和没有邻居的话。不过，如果你想住在工作有报酬的地方，你就必须忍受企业对你隐私的侵犯。
+
+当然，如果你没有SIN(由于选择或环境)，你将被迫在社会的边缘生存，比如西雅图蔓城区的雷德蒙或洛杉矶的圣贝纳迪诺。没有SIN，你就不能有银行账户，不能购买通讯链，不能拥有一份工作，甚至不能乘坐公交车去福利局--这并不重要，因为你无论如何都得不到福利补助。从好的方面看，政府和企业不知道也不关心你的存在。甚至更好的是，你不必处理垃圾邮件。
+
+另一个避免麻烦的方法是认识到，虽然他们可能总是在监视，但他们可能并不总是在注意。变得聪明点。买一个假SIN。确保它与你相符--即使是最愚蠢的警察也会知道，巨魔不会被包装成一个侏儒。投资一些假执照，用于那些你不能留在家里的武器，并且尽量不要在公共汽车站向人开枪。准备一些额外的ID和与之相匹配的伪装。精明的狂奔者利用替代皮肤、纳米粘贴和乳胶面具来确保他们的真实面目在外出犯罪时不会被发现。双重生活是一种痛苦，但它比你在孤星监狱蹲20年的生活要舒适得多。
+
+> 购买假SIN只有在你有钱的情况下才有效。最便宜的也要1,000新元(除了让你坐公交车外毫无用处，警察一扫描就会发现它是假的)，这对贫民窟里的大多数无SIN者来说是遥不可及的。想脱离处境的人往往不得不把自己的灵魂卖给一个制造假SIN的组织，比如黑手党或矩阵帮派。或者，如果你的年龄合适，你可以和军队勾结。一批UCAS征兵站已经搬到了荒地的边缘--以前是孩子们来找他们。现在，这些孩子甚至不能走过镇子，所以军队就来找他们了。对于很多孩子来说，这是他们离开荒原的唯一机会，甚至可以看到他们的20岁生日。
+
+> Fatima
+
+On the bright side, if you’re trying to run surveillance on a mark or just stalking an ex, really good hackers can tap into the surveillance system and use it for their own purpose. Just like using a GPS system to track someone, if you can tap into, say, Lone Star’s street camera system, you can monitor your mark as he cluelessly goes about his business. Tap into the GridLink system and you can monitor that box truck carrying some valuable gear you’d like to acquire. The possibilities are endless.
+
+从好的方面看，如果你想对一个目标进行监控，或者只是追踪前任，真正优秀的黑客还可以进入监控系统并将其用于自己的目的。就像使用GPS系统追踪某人一样，如果你能进入，比如说，孤星公司的街道摄像系统，你就可以监视你的目标，因为他毫无头绪地去做他的生意。接入网域链系统，你就可以监视那辆载有你想获得的一些有价值的装备的箱式卡车。这种可能性是无穷无尽的。
+
+[spoiler]
+[size=14pt][b]SURVEILLANCE SOCIETY[/b][/size]
+If you want to live in the civilized world these days, you have to accept that surveillance is simply part of the package. Still, there are a few ways to get around the all-seeing eye. The most effective is to just make like a tree and leave. Go live in the Barrens somewhere or the middle of the Amazonian jungle (although I hear Horizon’s working on bringing a wireless net there, too, so the birdies and beasties can make long-distance commcalls). There are countries that opt out of the surveillance web. Asamando, perhaps, if you can stand the smell. Trans-Polar Aleut, if you don’t mind the snow and the lack of neighbors. If you want to live some place where there is paying work, though, you’ll have to put up with the corps’ invasion of your privacy. 
+
+Of course, if you don’t have a SIN (by choice or circumstance), you’ll be forced to survive in the edges of society anyway, like the Redmond Barrens in the Seattle sprawl or San Bernardino in LA. Without a SIN, you can’t have a bank account, can’t purchase a commlink, can’t hold a job, can’t even ride the bus into the welfare office—not that it matters, since you can’t get welfare anyway. On the bright side, the gov’t and corps don’t know or care about your existence. Even better, you won’t have to deal with spam. 
+
+Another way to avoid trouble is to realize that while the Man may always be watching, he probably isn’t always paying attention. Be smart. Buy a fake SIN. Make sure it matches up with you—even the dumbest cop is going to know that a troll doesn’t come packaged as a dwarf. Invest in some fake licenses for that ‘ware and the weapons you can’t leave at home, and try not to shoot people at bus stops. Have a couple of extra IDs and the disguises to match‘em. Savvy runners utilize alt-skin, nano-paste, and latex masks to make sure their real face never gets seen when they’re out committing crimes. Living a double life is a pain in the ass, but it’s less than what you’d get doing twenty-to-life at a Lone Star facility.
+
+> Buying fake SINs only works if you’ve got the money. At about 1,000¥ for the cheapest (which won’t do much more than let you ride the bus as a police scan will pop it as a fake almost immediately), it’s out of reach for most of the SINless in the barrens. People who want to get out often have to hock their souls to a fake-ID outfit, like the Mafia or a Matrix gang. Or, if you’re the right age, you can hook up with the military. A bunch of UCAS recruiting stations have moved to the edges of the barrens—used to be kids came to them. Now, those kids can’t even walk across town, so the military has come to them. For a lot of the kids, it’s the only shot they’ll have of getting out of the Barrens, or even seeing their 20th birthday. 
+
+> Fatima
+
+On the bright side, if you’re trying to run surveillance on a mark or just stalking an ex, really good hackers can tap into the surveillance system and use it for their own purpose. Just like using a GPS system to track someone, if you can tap into, say, Lone Star’s street camera system, you can monitor your mark as he cluelessly goes about his business. Tap into the GridLink system and you can monitor that box truck carrying some valuable gear you’d like to acquire. The possibilities are endless.
+[/spoiler]
+
+---
+
+[size=14pt][b]数据搜索[/b][/size]
+
+任何人都可以进行数据搜索。在搜索框中输入一个名字和SIN，然后点击确定。即使是最笨拙的用户也可以对某些东西或某些人进行搜索，而后返回惊人的信息量。对一个人进行基本搜索可以发现他的姓名、出生日期、出生地、父母姓名、雇主、工作经历、犯罪历史、教育、婚姻，甚至是SIN。深入的搜索可以发现更多信息。而这只是一个普通人办到的；黑客和超链者可以挖掘出连当事人都不知道的信息。确保你的隐私的唯一方法是脱离网络，成为无SIN人。但对大多数人来说(不包括狂奔者)，这代价太高了。
+
+数据搜索只是薪奴生活中的一个事实。学校检索他们，雇主检索他们，政府检索他们。像我们这样的狂奔者可能会有稍微不同的看法，这取决于你开始时有或没有SIN。如果你有一个真SIN(即使你不使用它)，你就会在系统中。聪明的狂奔者会想删除与自己有关的数据。删除SIN的成本高，耗时长，而且非常复杂，只有大型集团和黑客团队才有能力和资源来做这件事。这是一项大工程--进入并摆脱冷存储备份，检查每个SIN数据库并删除记录，删除医疗文件(包括那些硬拷贝备份和存储的DNA样本)，教育记录，犯罪记录......提供SIN删除服务的机构收取高额费用，但是一分钱一分货。
+
+如果你没有SIN，警察可能会对你进行搜索，但他们会发现你的SIN完全是空白的，或者是假SIN，如果你用过某个的话(或者更糟糕的是，如果你没有注意删除这些SIN，就会发现有多个假SIN)。这完全取决于他们使用什么标准来搜索，以及什么生物识别数据与你的SIN(或多个SIN)相联系，无论是真是假。如果他们在搜索中没有发现什么--因为你到现在为止一直很小心--并不意味着他们不会开始汇编数据。在工作现场留下一根头发或一些皮肤细胞，你的DNA就会出现在某个数据库中，即使它只是标有"未知"。最终，如果你继续狂奔，他们有可能会抓到一个或另一个ID，所有这些"未知"的数据比特将最终有一个名字联系到它们。
+
+> 我强烈建议每个人定期搜索自己的名字和ID(s)。如果你不能骇入国际刑警组织的犯罪数据库，那就找一个黑客朋友来做，这样你就可以看到他们离真正追踪到你有多远。由于所有的冷存储备份，让数据被"删除"可能是一件很痛苦的事情，但这是可能办到的。不过，你越早发现越容易，真的。
+
+> Glitch
+
+> 我强烈建议由专业人员删除你的假SIN。许多制作假ID的集团和团队也会彻底清除那些已经变得太"热"而无法继续使用的SIN。如果你不这样做，警察最终会开始将所有这些假SIN与你联系起来，尤其是如果它们有生物识别或法医数据与之联系。这样的数据积累是不好的。
+
+> Fianchetto
+
+> 如果你想让工作人员删除一个与法医或生物识别数据有关的、存储在警察设施中或正在被用于当前调查的ID，你可以预料到会付出更多，可能是正常费用的两倍或三倍。
+
+> Haze
+
+> 这就是为什么有一个黑客作为朋友是如此该死的棒。我们做一些事情，如数据搜索，在它们回来咬人之前(或在它们被下载到冷存储库之前)删除那些有罪的比特和字节。
+
+> Pistons
+
+> 顺便说一句，"嘿，宝贝，要我抹掉你的生活吗？"这句话有点令人毛骨悚然。你可能想尝试一些新的东西。
+
+> Turbo Bunny
+
+> 但你上周不是这么说的。 ;>
+
+> Slamm-0!
+
+[spoiler]
+[size=14pt][b]DATA SEARCHES[/b][/size]
+Anyone can run a data search. Pop a name and SIN into the search box and click go. Even the clumsiest user can perform a search on something—or someone—that will return amazing amounts of information. A basic search on a person can turn up name, birthdate, birthplace, parent’s names, employer, work history, criminal history, education, marriages, even a SIN. In-depth searches can turn up even more. And that’s just by a regular Joe; hackers and technomancers can dig up information that even the subject didn’t know. The only way to ensure your privacy is to step off the grid, and become SINless. For most people, though (runners excluded), that is too high a price to pay. 
+
+Data searches are just a fact of life for wage-slaves. Schools run them, employers run them, the government runs them. Runners like us may have a slightly different view, depending on if you started out with or without a SIN. If you have a real SIN (even if you don’t use it), you’ll be in the system. Smart runners will want to erase data relating to themselves. SIN deletion is costly, time consuming, and so intricate that only major syndicates and hacker crews have the capabilities and resources to do it right. It’s a big job—going in and getting rid of cold-storage backups, checking into every consumer database and deleting the records, deleting medical files (including those hardcopy backups and storage of DNA samples), education records, criminal records … . The organizations that offer “ID deletion” services charge a high fee, and it’s worth every penny. 
+
+If you don’t have a SIN, the police may be able to run a search on you, but they’ll come up blank, or with a fake SIN if you’ve used one (or even worse, with multiple fake SINs if you haven’t been careful to have those erased). It all depends on what criteria they’re using to search and what biometric data is linked to your SIN(s), real or not. If they don’t find anything with a search—‘cause you’ve been careful up to now—that doesn’t mean they won’t start compiling data. Leave a hair or some skin cells at a job site and your DNA will be in a database somewhere, even if it just labeled “unknown.” Eventually, if you keep running, chances are they’ll catch up to one ID or another and all those “unknown” bits of data will finally have a name to attach to them.
+
+> I highly recommend everyone run periodic searches on their own name and ID(s). If you can’t hack into Interpol’s Criminal Database, get a hacker buddy to do it so you can see how close they are to really tracking you down. With all the cold-storage backups, it can be a pain to get data “erased,” but it is possible. It’s easier the earlier you catch it, though, really. 
+
+> Glitch
+
+> I’d highly suggest having your fake IDs erased by a professional crew. Many of the syndicates and crews that create fake IDs will also thoroughly erase those IDs that have gotten too “hot” to continue using. If you don’t, the cops will eventually start linking all those fake IDs to you, especially if they have biometric or forensic data linked to them. Accumulated data like that is bad. 
+
+> Fianchetto
+
+> You can expect to pay more, likely double or triple the normal rates, if you want a crew to delete an ID that has forensic or biometric data linked to it that’s stored at a police facility or is being used in a current investigation. 
+
+> Haze
+
+> This is why having a hacker as a friend is just so damn nice. We do things like data searches and erase incriminating bits and bytes before they come back to bite (or before they get downloaded into cold storage). 
+
+> Pistons
+
+> As a note, the “Hey, baby, want me to erase your life?” line is a bit creepy. You might want to try something new. 
+
+> Turbo Bunny
+
+> But that’s not what you said last week. ;>
+
+> Slamm-0!
+[/spoiler]
+
+---
+
+[size=14pt][b]隐私：一个都市传说[/b][/size]
+
+好了，有了所有的监控，生物监测RFID标签，以及很容易获得的关于你的内裤尺寸的数据，你会认为隐私是过去的事情，对吗？并非如此。对于那些处于社会经济钟形曲线[color=green](注：正态分布)[/color]两端的人来说，隐私是真实的。没钱的人有隐私，因为他们根本不存在。对于富人来说，隐私是一种可以买卖的商品。只要有足够的钱和影响力，你就可以保持在所有企业数据检索上：保证你的购物隐私，确保你的教育是来自不共享学生数据的机构，只光顾那些承诺最大限度的谨慎并以大量IC来支持这些承诺的医疗机构。
+
+对于世界上的其他人，也就是普通薪奴来说，隐私是一个非常昂贵的幻觉。隐私法被高度吹捧为保护公民权益。普通公民认为，关于他自己的数据是为了他自己好--医疗记录可供医生和医疗机构共享，确保他的医疗状况无论在哪里都会被知道，他的个人信息使他更容易找到潜在的约会对象，使购物变得容易，并使附近地区免受流浪汉和罪犯的侵害。在他看来，他的隐私并没有被侵犯。而在这个自我迷恋、流行博客写作和虚拟展示主义的社会中，很大一部分可用数据实际上来自于薪奴本人。
+
+[spoiler]
+[size=14pt][b]PRIVACY: AN URBAN LEGEND[/b][/size]
+Ok, so with all the surveillance, biomonitoring RFID tags, and easily available data on your panty size, you’d think privacy is a thing of the past, right? Not really. Privacy is real for those folks at either extreme of the socio-economic bell curve. The SINless have privacy because they just don’t exist. For the rich, privacy is a commodity that can be bought and sold. With enough money and influence, you can remain above all that corporate data-raking: keeping your purchases private, ensuring that your education is from institutions that don’t share student data, patronizing only those medical facilities that promise the utmost discretion and back up those promises with a hell of a lot of IC. 
+
+For the rest of the world, the average wageslave, privacy is a very valuable illusion. Privacy laws are highly touted as protecting citizens. The average citizen believes the data out there about himself is there for his own good—medical records available for doctors and medical facilities to share, ensuring his medical conditions will be known regardless of where he is, his personal information makes it easier to find potential dates, make shopping easy, and keeps the neighborhood safe from gangers and criminals. In his mind, his privacy hasn’t been invaded. And in this self-obsessed, blogging, and virtual exhibitionist society, a large percentage of the data available actually comes from the wageslave himself.
+[/spoiler]
+
+---
+
+[size=14pt][b]反监视：谁来监督监视者？[/b][/size]
+
+由于人们对视频日记、博客和公民记者的痴迷，反监视的流行也就不足为奇了。观察别人几乎和发布关于自己的信息一样有趣。对一些人来说，这只是另一种连接社交网络或通过另一个人的观点观察世界的时髦方式。通过加入Sous-MoSoSo，如Diaries，网络成员被配备了一个持续的记录设备(通常通过赛博眼的内部摄像头或嵌入AR眼镜/护目镜的链接摄像头)，记录佩戴者看到的一切(24/7/365)。它允许观看者成为窥视者--不是某个特定的人，而是他们周围的人。你不是在过他们的生活或感受他们的情绪，只是通过另一双眼睛看世界。
+
+另一些人使用反监视来发表声明，试图监督那些通常提供监督的人(如公司、政府和其他权威人士)，并试图在一个不诚实的世界中实践某种程度的诚实。例如，通过记录警察的行为，他们希望给那些认为自己凌驾于法律之上的官员带来责任。这是一个很好的理论，而且偶尔会奏效--可以提供一些非常好的勒索材料--但企业权力往往会封锁负面新闻。为了应对这种情况，反监视网络已经兴起，与社交网络相结合，在公司或政府能够阻止信息流动之前，将突发新闻一次性带给数百万人。当然，这就是为什么企业有他们的企业宣传部门......
+
+[spoiler]
+[size=14pt][b]SOUSVEILLANCE: WHO WILL WATCH THE WATCHERS?[/b][/size]
+As obsessed with video-diaries, blogging, and citizen-journal-ists as folks are, it shouldn’t be surprising that sousveillance is as popular as it is. Watching other people is almost as fun as posting information about themselves. For some, this is just another trendy way to connect with a social network or watch the world through another person’s point of view. By joining a Sous-MoSoSo, like the Diaries, network members are outfitted with a constant recording device (generally hooked up via an internal camera in cybereyes or a camera imbedded within AR glasses or goggles) that records everything (24/7/365) the wearer sees. It allows watchers to become voyeurs—not of a specific person, but of the people around them. You aren’t living their life or feeling their emotions, just seeing the world through another set of eyes. 
+
+Other people use sousveillance to make a statement, to try to police those who normally provide policing (like corporations, governments, and other authority figures) and try to enforce some level of honesty in an otherwise dishonest world. By recording the actions of police, for example, they hope to bring accountability to the officers who believe they’re above the law. It’s a nice theory and it works on occasion—and can provide some very nice blackmail material—but corporate powers tend to blackout negative press. Sousveillance networks have sprung up to counter that, combining with social networks to bring breaking news to millions of people at once before a corporation or government can stop the flow of information. Of course, that’s why corps have their corp spin departments … .
+[/spoiler]
