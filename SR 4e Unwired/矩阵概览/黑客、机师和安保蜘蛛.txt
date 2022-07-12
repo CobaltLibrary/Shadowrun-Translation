@@ -1,0 +1,138 @@
+[color=brown][size=16pt][b]黑客、机师和安保蜘蛛[/b][/size][/color]
+
+随着全世界对矩阵的依赖加深，能够操纵矩阵的人是企业最可怕的噩梦和最重要的资产。对于公司来说，拥有一个能保护自己的数据同时又能窃取竞争对手的数据的人会给他们带来竞争优势。对于普通公民来说，黑客和机师大多是通过拟感和新闻报道来了解的。一个员工可能只和外包服务站的人打过交道，除非他搞砸了，否则永远不会真正见到为他的公司工作的安保黑客们。同样，那些雇佣安保蜘蛛的公司也是如此，这些机师钩入建筑或大学，像第二皮肤一样"穿着"它。大多数员工可能甚至没有意识到他们是在一个由安保蜘蛛控制的设施中。狂奔者最好知道这点，因为这种无知会让你丧命。
+
+在媒体中，黑客被描绘成要么是卑鄙的身份窃贼，抢劫无辜的旁观者来满足他们的吸毒癖好，要么是狂奔者团队中不善于社交的脑力劳动成员--那个能解决复杂谜题的队友，但在异性面前却不能连贯地说话。几乎没有任何一点你在法师身上看到的浪漫主义，这更令人遗憾。而更不幸的是最近疯狂流行的EpSin-Team三维全息节目所塑造的机师形象，比如杰里-德隆，那个总是有一个令人毛骨悚然的蜘蛛无人机粘在他肩膀上的强悍侏儒，这个人可以用他的小短臂狂挥几下就能热模接入一辆坦克或撞毁某架747飞机。
+
+> Well, there’s public opinion and there’s fact. Hackers today need to be more than just brains. You can’t hide in a basement and do overwatch anymore. IC or a bad biofeedback filter used to be the worst thing a hacker came up against. Now, a hacker who doesn’t know how to handle themselves in a fight—or at least how to duck— isn’t going to last through the first run.
+
+> 好吧，有舆论，也有事实。今天的黑客需要的不仅仅是头脑。你不能再躲在地下室里打掩护了。IC或一个糟糕的生物反馈过滤器曾经是一个黑客所能遇到的最糟糕的事情。现在，一个不知道如何在战斗中安置自己的黑客--或者至少不知道如何躲避--是不可能撑过第一次战斗的。
+
+> Glitch
+
+[spoiler]
+[color=brown][size=16pt][b]HACKERS, RIGGERS, AND SPIDERS[/b][/size][/color]
+With the world’s reliance on the Matrix, people who can manipulate it are a corp’s worst nightmare and biggest asset. To a corporation, having someone who can protect their data while stealing their competitors’ gives them the advantage. To the average citizen, hackers and riggers are mostly known through sims and newsfeeds. An employee probably only interacts with someone at an outsourced helpdesk, never actually meeting the security hackers that work for his company unless he screws up. Likewise for corporations that employ spiders, riggers who hook into a building or campus and “wear” it like a second skin. Most employees probably don’t even realize they’re in a spidercontrolled facility. Runners better know, ‘cause that’s the kind of ignorance that’ll get you killed. 
+
+In the media, hackers are portrayed as either scummy identity thieves who rob innocent bystanders to feed their drug habit or brainy, socially inept members of a runner team—the teammate that solves complex puzzles but can’t speak coherently in front of the opposite sex. There’s little of the romanticism that you see with mages, more’s the pity. And even more unfortunately, the wildly popular EpSin-Team trid show has cast-type riggers such as Jerry Drone, the surly dwarf with a creepy spider-like drone always clinging to his shoulder, a man who can hot-wire a tank or crash a 747 with a few wild waves of his short arms.
+
+> Well, there’s public opinion and there’s fact. Hackers today need to be more than just brains. You can’t hide in a basement and do overwatch anymore. IC or a bad biofeedback filter used to be the worst thing a hacker came up against. Now, a hacker who doesn’t know how to handle themselves in a fight—or at least how to duck— isn’t going to last through the first run.
+
+> Glitch
+[/spoiler]
+
+但公众的焦点肯定不再是黑客和机师了。随着超链者、AI和网精的出现，黑客突然看起来不再那么有威胁性或有趣了。结合这一事实，黑客已然承担了很多针对超链者的压力，而这两个群体之间的敌意也有了很大的增加。
+
+超链者的威胁导致了对黑客的新打击，并增加了对电子犯罪的惩罚。黑客们被误认为是超链者，并在监禁期间给予激进的药物治疗，以防止他们"释放他们的力量"。不幸的是，这导致了药物成瘾、严重脑损伤，甚至死亡的案例。当世界其他地区正在慢慢学习接受他们中间的新力量时，在暗影中，黑客和超链者之间的冲突正在不断升级。
+
+> 增加？升级？似乎"敌意"一开始就很高，而且从来没有动摇过。
+
+> Netcat
+
+> 是的，我们都在做同样的工作，只是你们这些超链者认为你们可以做得更快，不需要昂贵的程序或设备，只需要你们的小网精朋友的帮助。你们中的大多数人也都是离经叛道的疯子。当热度下降时，反而是黑客们会受到指责，所以我应该和你们这些怪胎搞好关系吗？我不这么认为。
+
+> Clockwork
+
+> 猫，你知道这不是我们所有人的感受。我过去曾与你合作过，我很乐意再次与你合作。从你的声誉评分来看，我们在接入点的大多数人都有同样的感觉。
+
+> Pistons
+
+> 嘿，连我都道歉了。Clockwork在这里是少数。
+
+> Slamm-0!
+
+> 那只是因为你想看猫的裸体。
+
+> Kat o’ Nine Tales
+
+> "翻了个白眼"
+
+> Netcat
+
+[spoiler]
+But the public spotlight certainly isn’t on hackers and riggers anymore. With the unveiling of technomancers, AIs, and sprites, suddenly hackers don’t seem quite so threatening or interesting. Combine that upstaging with the fact that hackers have taken a lot of the heat directed towards technos, and there’s been a large upswing in the amount of animosity between the two groups. 
+
+The threat of technomancers has led to a new crackdown on hackers and an increase in the punishment for electronic crimes. Hackers have been mistaken as technomancers and given radical drug treatments during incarceration to prevent them from “unleashing their powers.” Unfortunately, this has led to cases of drug-addiction, serious brain damage, and even death. While the rest of the world is slowly learning to accept the new powers in their midst, in the shadows, the conflict between hackers and technos is escalating.
+
+> Upswing? Escalating? Seems like the “animosity” started out high and hasn’t budged. 
+
+> Netcat
+
+> Yeah, well, we all do the same job, only you technos think you can do it faster and without expensive programs or gear, just the help of your little sprite friends. Most of you are also off-your-rocker crazy. It’s hackers who get the blame when the heat drops, and I’m supposed to get all buddy-buddy with you freaks? I don’t think so. 
+
+> Clockwork
+
+> ’Cat, you know that’s not how all of us feel. I’ve worked with you in the past and I’ll be happy to work with you again. From your rep score, it looks like most of us here on JackPoint feel the same. 
+
+> Pistons
+
+> Hey, even I apologized. Clockwork is in the minority here. 
+
+> Slamm-0!
+
+> That’s just ‘cause you wanna see ‘Cat naked. 
+
+> Kat o’ Nine Tales
+
+> *roll eyes*
+
+> Netcat
+[/spoiler]
+
+---
+
+[size=14pt][b]超链者和AI[/b][/size]
+
+自从去年6月瞳女王在医院的丑闻和香港的骚乱以来，世界一直对超链者感到恐惧。特拉洛克(Tlaloc)的情况使得对超链者们的恐慌稍微冷却了一些，因为每个人都试图躲避那个将生化武器瞄准我们的被劫持的空间站中的AI。然后，当然，每个人都被介绍了脉冲星(Pulsar)，这个充满魅力的AI与地平线是好朋友。脉冲星与特拉洛克一起拯救了世界，并成为环球英雄和AI运动的黄金海报男孩。两年前，没有人谈论超链者(即使是我们这些通常知情的人)或AI。现在，如果不在深夜脱口秀中看到脉冲星或他的地下网络AI之一，不听到最新的超链者理论，或是被吸入洛杉矶最新的矩阵真人秀中，你就没可能连上矩阵。脉冲星和地平线的主流媒体闪电战达到了他们所希望的效果。AI被普遍认为是良性的，甚至是友好的(根据民意调查)。
+
+我现在不打算讨论所有的事实和数字。我只想谈一谈自从2071年事情冷却下来后发生的事情。首先，大多数国家已经通过决议，迫使超链者登记注册，就像法师和萨满必须做的一样。由于实际上识别超链者似乎有点困难，所以注册系统相当依赖诚信——至少现在是这样。随着越来越多的超链者加入安保组织的行列，也许我们会看到超链者在机场扫描乘客，或在人群中互相嗅探，就像今天的走狗法师一样。目前，超链者向当局隐藏超链者能力是可能办到的，这让他们感到非常懊恼。
+
+在法律上，AI的问题已经相当错综复杂。地平线公司是第一个宣布AI是完全有知觉的生命，有资格获得完全的企业公民权的公司。它甚至向在该公司寻求庇护的AI发放了SIN。由于其他公司喊冤哭诉，所以法庭上到处都是这一行动的结果。然而，许多其他国家也纷纷效仿，最引人注目的是PCC和提尔坦盖，为AI提供公民身份以换取某些承诺。
+
+[spoiler]
+[size=14pt][b]TECHNOMANCERS AND AIS[/b][/size]
+Since the big Queen Elizabeth hospital scandal and riots in Hong Kong last June, the world has been terrified of technomancers. The Tlaloc situation cooled things down a bit for the technos, as everyone tried to duck and cover from an AI in a hijacked space station with some biowarfare weapons aimed down at us. Then, of course, everyone was introduced to Pulsar, the charismatic AI all buddy-buddy with Horizon. Pulsar saved the day with Tlaloc, becoming a global hero and a golden poster-boy for the AI movement. Two years ago, no one was talking about technomancers (even those of us normally in the know) or AIs. Now, you can’t turn on the trid without seeing Pulsar or one of his Undernet AIs on a late-night talk show, hearing about the latest techno theory, or getting sucked into one of LA’s newest Matrix reality shows. Pulsar and Horizon’s major media blitz accomplished what they’d hoped: AIs are predominately seen as benign or even friendly (according to polls).
+
+I’m not going to get into all the facts and figures right now. I’m just going to touch a bit on what’s been going on since things cooled down in 2071. First of all, most countries have passed resolutions forcing technomancers to register, much like mages and shamans must. Since it appears that actually recognizing technomancers can be a bit difficult, the registration systems are fairly reliant on the honor system—for now, at least. As more technomancers join ranks with security organizations, perhaps we’ll see technos scanning passengers at airports or sniffing each other out in crowds, just like wage-mages do today. For the moment, it is possible to hide techno abilities from the authorities, much to their chagrin.
+
+Legally, the issue of AIs has been fairly convoluted. Horizon was the first corporation to declare AIs to be fully sentient beings, eligible for full corporate citizenship. It even handed out SINs to the AIs that sought refuge with the corporation. The courtrooms have been full from that action, since other corporations cried foul. However, many other nations have followed suit, most notably the PCC and Tir Tairngire, providing AIs with citizenship in return for certain promises.
+[/spoiler]
+
+---
+
+[quote]
+[size=14pt][b]新闻网直播，由霍莉-哈斯金斯主持...[/b][/size]
+
+本世纪最大的法庭案件--联络-肖诉地平线案的最后论据昨天已经提出。今天，在短短几秒钟内，世界最高法院的权威机构--企业法庭将对这一引起世界关注的案件作出最终裁决。联络-肖公司声称，地平线公司窃取了他们的版权数据，并要求企业法庭进行干预。然而，地平线公司声称，他们只是雇用了一个有知觉的泛人，他能够做出这样的决定，并向其提供作为地平线公司公民的全部权利。  
+
+这个生命是泰斯基特(Teskit)，一个AI。此次判决事关重大：所有寻求公民身份和与世界各地的公司和政府享有平等权利的AI的未来。所有人都在关注法庭的裁决。法庭法警正在审查该决定。判决正在宣布......然后......泰斯基特是一个有知觉的泛人，拥有选择自己国家或雇主的合法权利！经过这么长时间的斗争，这是一个多么了不起的胜利啊!   
+
+Now let’s look at public opinion from around the city, captured as people celebrated—or protested—the ruling! Here’s what a few people had to say: 
+
+现在让我们来看看城市周围，在人们庆祝或抗议这一裁决的时候捕捉到的公众舆论。以下是一些民众的说法。
+
+• 帕姆-V，女服务员：我当然是站在泰斯基特这边的。这是奴役，就是这样。我不在乎他住在哪里，在这里还是在网上，没有人有权利奴役他。
+
+• 奥斯卡-M，急救医生：听着，问题是，它没有脉搏。它没有出生过。如果停电，它甚至不能生存。程序代码来自于肖。就像我脸上的鼻子一样明显，这是个肖的程序。下一步是什么？解放烤面包机？
+
+• 桑迪-P，学生：我觉得它很可爱。你知道的，那些棕色的大眼睛。你可以看到它很害怕回到肖那里。谁会责怪它呢？他们只是想把它拆开，看看是什么原因让它这样做，你知道吗？它可能不是"活的"，但它可以思考和感觉。这对我来说已经足够了。
+
+• 牧师雷斯-T.，神职人员：上帝的恩典给了我们人类灵魂。人类不能反过来创造生物，给它们的存在注入灵魂。教皇说过，矩阵的生物无法接受上帝的恩典，它们不能死亡，没有灵魂，无法升入天堂。而没有灵魂，就不能拥有自由意志，而自由意志使我们有权利选择自己的命运。
+
+[spoiler]
+[size=14pt][b]NEWSNET LIVE FEED, HOSTED BY HOLLY HASKINS …[/b][/size]
+Final arguments in Xiao-Renraku vs. Horizon, the century’s biggest court case, were presented yesterday. Today, in just seconds, the world’s highest court authority, the Corporate Court, will make a final ruling in the case that has caught the world’s attention. Xiao-Renraku claimed that Horizon has stolen their copyrighted data and has asked the Corporate Court to intervene. Horizon, however, claimed that they’ve simply employed a sentient being, capable of making such decisions, and offered it full rights as a Horizon citizen.   
+
+The being in question is Teskit, an AI. At stake: the future of all AIs who’ve sought citizenship and equal rights with corporations and governments around the world. All eyes are watching as the court hands down its decision. The court bailiff is reviewing the decision. The decision is being announced … and … Teskit is a sentient being with the legal right to choose his own country or employer! What an amazing victory after such a long fight!   
+
+Now let’s look at public opinion from around the city, captured as people celebrated—or protested—the ruling! Here’s what a few people had to say: 
+
+• Pam V., waitress: Of course I’m on Teskit’s side. It’s slavery, that’s what. I don’t care where he lives, out here or online, no one has the right to enslave him.
+
+• Oscar M., EMT: Look, the thing is, it doesn’t have a pulse. It wasn’t born. It can’t even survive if there’s a power failure. The programming code came from Xiao. Plain as the nose on my face, it’s a Xiao program. What’s next? Free the toasters?
+
+• Sandy P., student: I think it’s cute. Those big brown eyes, y’know. You can see it’s terrified of going back to Xiao. And who blames it? They just want to pull it apart to see what makes it tick, y’know? It may not be “alive” but it can think and feel. That’s enough for me.
+
+• Rev. Les T., clergy: God’s grace has given us, mankind, souls. Mankind cannot in turn create creatures and breathe a soul into their being. The Pope has said that a creature of the Matrix is unable to receive God’s grace; they cannot die and have no souls to ascend to Heaven. And without a soul, it cannot possess the free will that gives us the right to choose our own destiny.
+[/spoiler]
+[/quote]
