@@ -1,53 +1,52 @@
-> 黑客的知识一直停留在矩阵的边缘。它对正直的公民毫无用处，当权者为了自己的目的想把它隐藏起来，而黑客们自己对分享它没有兴趣，也无法从分享中受益。黑客的历史中有很大一部分是无人写过也无人读过的，如果全世界都知道这些伟大伟大骇入，他们将成为传奇。事实上，想成为黑客的人必须阅读长达一个世纪的谎言、过时的策略和自封的黑客手册，才能拼凑出他们所需的技能。让我们无视噪音。这是实际的手段，真正的内幕，一剂为了这里现在所有人的黑客工具和黑客策略，来自我们的三位常驻专家。
+> 黑客的知识一直被保留在矩阵的边缘地带。它对正直的公民毫无用处，当权者为了自己的目的想把它隐藏起来，而黑客们自己对分享它没有兴趣，他们也没有从分享中受益。黑客的历史中有很大一部分是无人书写也无人阅读的，如果全世界都知道这些伟大的骇入，他们将成为传奇。事实上，想要成为黑客的人们不得不阅读长达一个世纪以来的谎言、过时的策略和那些自诩为黑客的手册，才能拼凑出他们所需的技能。让我们无视这些噪音。这回是实际的手段，真正的内幕，一剂为了现在这里所有人的黑客工具和黑客策略，来自我们的三位常驻专家。
 
 > FastJack
 
 [spoiler]
 > Hacking lore keeps to the fringes of the Matrix. Upstanding citizens have no use for it, the powers that be want to keep it bottled up for their own ends, and the hackers themselves have little interest or benefit from sharing it. There are large portions of hacker history unwritten and unread, great hacks that would be legendary if the world only knew of them. As it is, would-be hackers have to read through the better part of a century’s worth of lies, out-dated strategies, and self-styled hacker’s handbooks to try to piece together the skills they need. Screw that noise. This is the real deal, the true dope, a dose of the hacker’s tools and the hacker’s tactics for the here and now, from three of our resident experts.
+
 > FastJack
 [/spoiler]
 
-[size=12pt][b]灰与黑[/b][/size]
+[color=brown][size=16pt][b]灰与黑[/b][/size][/color]
 
 发帖人：Glitch
 
-从一开始，黑客就在做一些其他人没有想到的事情(或者至少没有立法反对)，通过钻法律漏洞和语言的空子来绕过法律的边缘，当然你可以做任何你能做的事情，因为不管它是不是非法的，没有人可以阻止你。即使在当今这个由成千上万的立法者以一百种方式分析和定义矩阵犯罪的时代，灰色和黑色之间的界限也是很微妙的。
+从一开始，黑客就在做一些其他人没有想到的事情(或者至少是没有立法反对的事情)，通过钻法律漏洞和语言空子来绕开法律的边界，当然你也可以做任何你能做的事情，因为不论它是否非法的，你能做到并且没有人可以阻止你。即使在当今这个由成千上万的立法者以一百种方式分析和定义矩阵犯罪的时代，灰色和黑色之间的界限也是很微妙的。
 
-[spoiler]
-[size=12pt][b]THE GRAY AND THE BLACK[/b][/size]
-
-Posted By: Glitch 
-
-From the beginning, hacking has dealt with doing things other people hadn’t thought of yet (or at least not legislated against), skirting the edge of the legal by exploiting loopholes and language, and of course doing whatever you can because you can and no one can stop you, whether it’s illegal or not. The line between the gray and the black can be a fine one, even in this day and age when Matrix crime is analyzed and defined in a hundred
-ways by thousands of lawmakers.
-[/spoiler]
-
-
-> 如果你想要一个好的比较，就把它想象成灰色市场和黑市的区别。在灰色市场上，事情有点可疑，也许你不知道它是从哪里来的，时不时地，警察会因为一些东西逮捕一些人。黑市上到处都是来自大公司、财团和军队的恐怖分子，但那里有金钱、自由和力量。
+> 如果你想要一个好的类比，就把它想象成灰市和黑市的区别。在灰市上的东西都有点可疑，也许你不知道它们是从哪来的，警察会时不时地因为一些东西而逮捕一些人。黑市上到处都是来自大公司、财团和军队的恐怖分子，但那里也有金钱、自由和力量。
 
 > Mr. Bonds
 
-[spoiler]
-> If you want a good comparison, think of it as the difference between a gray market and a black market. On the grey market, things are a little shady and maybe you don’t know where it came from, and every now and again the cops bust somebody with something. The black market is full of the scary guys from the megacorps and the syndicates and the military—but that’s where the money, the freedom, and the power are. 
+黑客的灰色市场充斥着看似无害的东西。在公司管辖范围之外的区域销售公司券，编写脚本利用游戏中的漏洞并与学校的朋友分享，使用你妈妈的通讯链花几分钟访问她不想让你去的节点，利用自动售货机界面中的漏洞让它分发免费的糖果棒，在点对点(P2P)网络上分享音乐。很多人会利用这些小技巧让自己的生活变得更轻松，有些人甚至为此废寝忘食。
 
-> Mr. Bonds
-[/spoiler]
-
-黑客的灰色市场充斥着看似无害的东西。在公司管辖范围之外的区域销售公司代金券，编写脚本利用游戏中的漏洞并与学校的朋友分享，使用你妈妈的交流链接花几分钟访问她不想让你去的节点，利用自动售货机界面中的漏洞让它分发免费的糖果棒，在点对点网络上分享音乐。很多人会利用这些小技巧让自己的生活变得更轻松，有些人甚至为此废寝忘食。
-
-[spoiler]
-The gray market of hacking is full of things that don’t appear that harmful. Selling corp scrip in an area outside of corporate jurisdiction, writing a script to exploit a flaw in a game and sharing it with your buddies at school, using your mom’s commlink for a few minutes to visit that node she doesn’t want you to go to, using a flaw in the vending machine interface to get it to dispense a free Gooey Bar, sharing music on a peer-to-peer network. Lots of people make use of tricks like these to make their lives just a little bit easier, and some of them even lose sleep over it. 
-[/spoiler]
-
-> 你描述的一些事情严格来说是非法的，但如果没人受伤，那又有什么坏处呢，对吧?
+> 你描述的一些事情严格来说是非法的，但如果没人受到损失，那又有什么坏处呢，对吧?
 
 > Turbo Bunny
 
-> 总是有潜在的伤害。不是对你，对你的家人，对你的朋友，但某个公司或某个艺术家可能会损失一些钱，某个可怜的贱人会因为明显的密码而被解雇，而某个可怜的混蛋会因为你的漏洞被广泛传播而损失一晚上的睡眠时间来修改游戏代码。我们有责任考虑哪怕是最小的反抗都会带来的后果。
+> 总是有潜在的伤害。不是对你，对你的家人，对你的朋友，但某个公司或某个艺术家可能会因此而损失一些新元，某个可怜的贱人(bitch)会因为明显的密码而被解雇，而某个可悲的混蛋(bastard)会因为你的漏洞被广泛传播而损失一晚上的睡眠时间来修改游戏代码。我们有责任考虑哪怕是最小的反抗都会带来的后果。
 
 > Kia
 
+另一方面是那些明目张胆、严重违法的行为，这是我们大多数人的谋生之道，这也是大多数人谈到黑客时的想法。几乎所有你能想到的犯罪或恐怖活动都有对等的矩阵形式：非法入侵(骇入一个节点)，勒索，收取保护费，劫持人质(拒绝服务攻击，安保咨询，勒索软件)，纵火和破坏财产(崩溃节点，删除文件)，向平民释放毒气，放射性武器，或生物武器(病毒，蠕虫，和木马)，涂鸦(AR涂鸦)、色情、盗窃等。黑客还可以为其他类型的犯罪提供便利，特别是像股票欺诈这样的白领犯罪。
+
+> 这些对传统犯罪的新形式举措是集团黑客最常参与的，他们可以很好地保护自己的“地盘”，防止新来者的侵犯——不要介意这个词对于矩阵来说是多么荒谬。
+
+> Mihoshi Oni
+
 [spoiler]
+[color=brown][size=16pt][b]THE GRAY AND THE BLACK[/b][/size][/color]
+
+Posted By: Glitch 
+
+From the beginning, hacking has dealt with doing things other people hadn’t thought of yet (or at least not legislated against), skirting the edge of the legal by exploiting loopholes and language, and of course doing whatever you can because you can and no one can stop you, whether it’s illegal or not. The line between the gray and the black can be a fine one, even in this day and age when Matrix crime is analyzed and defined in a hundred ways by thousands of lawmakers.
+
+> If you want a good comparison, think of it as the difference between a gray market and a black market. On the grey market, things are a little shady and maybe you don’t know where it came from, and every now and again the cops bust somebody with something. The black market is full of the scary guys from the megacorps and the syndicates and the military—but that’s where the money, the freedom, and the power are. 
+
+> Mr. Bonds
+
+The gray market of hacking is full of things that don’t appear that harmful. Selling corp scrip in an area outside of corporate jurisdiction, writing a script to exploit a flaw in a game and sharing it with your buddies at school, using your mom’s commlink for a few minutes to visit that node she doesn’t want you to go to, using a flaw in the vending machine interface to get it to dispense a free Gooey Bar, sharing music on a peer-to-peer network. Lots of people make use of tricks like these to make their lives just a little bit easier, and some of them even lose sleep over it. 
+
 > Some of those things you’ve described are technically illegal, but if no one gets hurt, where’s the harm, right? 
 
 > Turbo Bunny
@@ -55,64 +54,54 @@ The gray market of hacking is full of things that don’t appear that harmful. S
 > There’s always the potential for harm. Maybe not to you, or your family, or your friends, but some corp or artist somewhere might lose a few nuyen, some poor bitch will be fired for having an obvious passcode, and some poor bastard will lose a night’s sleep fixing gamecode when your exploit becomes widespread. It behooves us to think of the consequences of even the smallest rebellion.
 
 > Kia
-[/spoiler]
 
-另一方面是明目张胆、严重违法的行为，这是我们大多数人的谋生之道，这也是大多数人说到黑客时的想法。几乎所有你能想到的犯罪或恐怖活动都有对等的矩阵部分:非法入侵(侵入一个节点)，勒索，保护诈骗，劫持人质(拒绝服务攻击，安全咨询，勒索软件)，纵火和破坏财产(破坏一个节点，删除文件)，向平民释放毒气，放射性武器，或生物武器(病毒，蠕虫，和木马)，涂鸦(AR涂鸦)、色情、盗窃等。黑客还可以为其他类型的犯罪提供便利，特别是像股票欺诈这样的白领犯罪。
-
-[spoiler]
 On the other side is the blatantly and grossly illegal that’s bread and butter to most of us here, which is what most people think of when they say hacking. Damn near any criminal or terrorist activity you can think of has its Matrix equivalent: breaking and entering (hacking a node), extortion, protection rackets, and hostage taking (denial of service attacks, security consulting, and ransomware), arson and destruction of property (crashing a node, deleting files), release of toxic, radioactive, or biological weapons on a civilian populace (viruses, worms, and trojans), graffiti (AR graffiti), pornography, theft, etc. Hacking can also facilitate other sorts of crime, especially white-collar crime like stock fraud.
-[/spoiler]
 
-> 这些对传统犯罪的新形式挑战是集团黑客最常参与的，他们可以很好地保护自己，防止新来者侵犯他们的“地盘”——不要提这个词对于矩阵来说是多么荒谬。
-
-> Mihoshi Oni
-
-[spoiler]
-> These new takes on traditional crime are what the syndicate hackers are most involved in, and they can be very protective against newcomers encroaching on their “turf”—never mind how ridiculous that term might be with regards to the Matrix.
+> These new takes on traditional crime are what the syndicate hackers are most involved in, and they can be very protective against newcomers encroaching on their "turf"—never mind how ridiculous that term might be with regards to the Matrix.
 
 > Mihoshi Oni
 [/spoiler]
 
 ---
 
-[size=12pt][b]地下破解者[/b][/size]
+[size=14pt][b]地下破解者[/b][/size]
 
-那些喜欢自由的专家(有时只是狂热爱好者)打破版权保护来了解程序是如何工作的，他们被称为“破解者”。有社会意识的人致力于通过分享获得泛人类知识所需的工具和信息来增加泛人类知识的总和。通过破解文件并在文件上签名，他们可以用匿名的处理方式保护自己免受公司数据独裁者的侵害并建立起作为黑客的街头信誉。破解者们让超企每年花费数百万新元在破解软件的交易中，为我们拿回本应是免费的东西。
-为了保护自己不受企业报复，黑客们使用了大多数黑客都熟悉的安全措施，包括编造定义他们数字身份的名字(我想这里的每个人都应该熟悉这一点)，并通过匿名点对点网络进行交易。这些大公司能够也确实渗透到这些网络中，在用户被发现并被驱逐之前上传病毒和虚假文件来迷惑和扰乱用户，但这些地下资源依然是人们需要破解程序时的选择。
-在一个完美的世界里，所有的软件都是免费的。然而, 这是“影子经济”。有些人冒了一点风险，付出了一些努力去解放、破解和发布那些你需要的非法程序，他们希望得到少量的补偿。当然，所有非常好的对等文件共享网络都是由企业赞助、维护和保护的，他们也想从中分一杯羹。
+那些喜欢自由的专家(有时只是狂热爱好者)打破防拷贝保护来了解程序是如何工作的，他们被称为“破解者”。有社会意识的人致力于通过分享获得泛人类知识所需的工具和信息来增加泛人类知识的总和。破解者们通过破解文件和使用他们用来保护自己不受企业界的数据独裁者侵害的匿名句柄标记来建立他们的街头信誉。破解者们让超企每年花费数百万新元在破解软件的交易中，为我们拿回本应是免费的东西。
 
-[spoiler]
-[size=12pt][b]THE CRACKER UNDERGROUND[/b][/size]
-The freedom-loving specialists (or sometimes just aficionados) who break copy protection to see how programs work are called crackers. As socially aware beings dedicated to increasing the sum of metahumanity’s knowledge by sharing the tools and information needed to obtain that knowledge, crackers congregate to share their liberated data. A cracker’s street cred is made by cracking files and signing them with the anonymous handles they use to protect themselves from the data-dictators in the corporate world. Crackers cost the megacorps millions of nuyen every year trading in cracked software, taking back what should rightfully be free.
-To protect themselves from corporate reprisal, crackers use security measures familiar to most hackers, including made-up names that define their digital persona (something everyone here should be familiar with, I reckon) and trade over anonymous peer-to-peer networks. The megacorps can and do infiltrate these networks, uploading viruses and bogus files to confuse and discomfit users before they’re discovered and booted out, but these underground resources are what people turn to when they need cracked proggies. 
-In a perfect world, all software would be free. However, this is the shadow economy. Somebody went to a bit of risk and effort to liberate, crack, and post those illegal programs you need, and they expect a modicum of compensation. Of course, it helps that all the really, really good peer-to-peer filesharing networks are sponsored, maintained, and protected by the syndicates, and they want their cut too.
-[/spoiler]
+为了保护自己不受企业报复，破解者们使用了大多数黑客都熟悉的安保措施，包括编造定义他们数字身份的名字(我想这里的每个人都应该熟悉这一点)，并通过匿名P2P网络进行交易。这些大公司有能力也确实在渗透到这些网络中，在他们的用户身份被发现并被驱逐之前上传病毒和虚假文件来迷惑和扰乱其他用户，但这些地下资源依然是人们需要破解程序时的重要选项。
 
-> 简而言之:文件共享网络可以是跳蚤市场，也可以是交换会议。你要么为你的好东西付最低的价钱，要么你可以拿走你想要的任何东西，只要你肯分享你的财富。但是，哦，你会得到什么奖品呢! 记得在运行之前把所有东西都杀毒。
+在一个完美的世界里，所有的软件都是免费的。然而, 这是“影子经济”。有些人冒了一点风险，付出了一些努力去解放、破解和发布那些你需要的非法程序，他们希望得到少量的补偿。当然，所有非常好的P2P文件共享网络都是由企业赞助、维持和保护的，他们也想从中分一杯羹。
+
+> 简而言之：文件共享网络可以是跳蚤市场，也可以是交换会议。你要么为你的好东西付最低的价钱，要么你可以拿走你想要的任何东西，只要你肯分享你的财富。但是，哦，你会得到什么奖品呢! 记得在运行之前把所有东西都杀毒。
 
 > Slamm-0!
 
 [spoiler]
+[size=14pt][b]THE CRACKER UNDERGROUND[/b][/size]
+The freedom-loving specialists (or sometimes just aficionados) who break copy protection to see how programs work are called crackers. As socially aware beings dedicated to increasing the sum of metahumanity’s knowledge by sharing the tools and information needed to obtain that knowledge, crackers congregate to share their liberated data. A cracker’s street cred is made by cracking files and signing them with the anonymous handles they use to protect themselves from the data-dictators in the corporate world. Crackers cost the megacorps millions of nuyen every year trading in cracked software, taking back what should rightfully be free.
+
+To protect themselves from corporate reprisal, crackers use security measures familiar to most hackers, including made-up names that define their digital persona (something everyone here should be familiar with, I reckon) and trade over anonymous peer-to-peer networks. The megacorps can and do infiltrate these networks, uploading viruses and bogus files to confuse and discomfit users before they’re discovered and booted out, but these underground resources are what people turn to when they need cracked proggies. 
+
+In a perfect world, all software would be free. However, this is the shadow economy. Somebody went to a bit of risk and effort to liberate, crack, and post those illegal programs you need, and they expect a modicum of compensation. Of course, it helps that all the really, really good peer-to-peer filesharing networks are sponsored, maintained, and protected by the syndicates, and they want their cut too.
+
 > Long story short: filesharing networks can be either flea markets or swap meets. You’re either paying bottom dollar for your goodies, or you can grab all you want as long as you share the wealth. But oh what prizes you may run across! Just remember to disinfect everything before you run it.
 
 > Slamm-0!
 [/spoiler]
 
-更老练的破解者，尤其是矩阵上的犯罪团伙和犯罪集团，有着更花哨的运作方式。他们利用合法的幌子，如赌场和网上商店，以保持稳定的网络形象，并帮助他们的洗钱，他们中的一些人是内部人员，可以在程序和信息在被发布给公众之前先到他们的手中。这些组织在他们的哲学中完全是唯利是图的，只为新元而破解和掠夺，通常只收取比市场价格低一点的费用，或者，对于未公开的和军事级别的项目，收取比市场价格高得多的费用。
+更老练的破解者，尤其是那些矩阵帮派和犯罪集团，有着更为花哨的运作方式。他们打着合法的幌子，比如赌场和网上商店，来保持稳定的网络形象，从而帮助他们洗钱，同时他们中有一些人是内部人员，可以在程序和信息在被发布给公众之前先将其拿到自己手中。这些组织的宗旨完全是唯利是图的，只为新元而破解和掠夺，通常只收取比市场价格低一点的费用，或者，对于未公开的和军事级别的项目，收取比市场价格高得多的费用。
 
-[spoiler]
-More sophisticated warez crews, particularly the ones run by Matrix gangs and the syndicates, have fancier operations. They use legal cover operations like casinos and online stores to maintain a stable web presence and launder their nuyen, and some of them have insiders in place who can get their hands on programs and media before they’re released to the general public. These groups are completely mercenary in their philosophy, cracking and pirating solely for nuyen, often charging little less than the market price—or, for unreleased and military-grade programs, much more than their market price.
-[/spoiler]
-
-> 并不是所有心智正常的人都想要一个原型程序, 但, 嘿，那是你的想法。让我们了解它是如何工作的。
+> 并不是所有心智正常的人都想要一个原型程序, 但, 嘿，那是你的想法。让我们看看它是如何工作的。
 
 > Pistons
 
-> 嘿，别挑剔了。一个我们从研发公司友好提供的的程序是致命的，就像我们中的一些人得到的真正尖端的软件一样
+> 嘿，别挑剔了。一个由Cyber Nostra从公司研发部门获得的有缺陷的杀手程序是我们中的一些人接近真正的尖端软件的方式
 
 > 2XL
 
 [spoiler]
+More sophisticated warez crews, particularly the ones run by Matrix gangs and the syndicates, have fancier operations. They use legal cover operations like casinos and online stores to maintain a stable web presence and launder their nuyen, and some of them have insiders in place who can get their hands on programs and media before they’re released to the general public. These groups are completely mercenary in their philosophy, cracking and pirating solely for nuyen, often charging little less than the market price—or, for unreleased and military-grade programs, much more than their market price.
+
 > Not that anyone in their right mind would want a prototype program—but hey, it’s your brain. Let me know how it works. 
 
 > Pistons
@@ -124,55 +113,69 @@ More sophisticated warez crews, particularly the ones run by Matrix gangs and th
 
 [quote]
 别叫我脚本小子
+
 别叫我密码朋克
-别叫我破解者
-别叫我数据盗贼
+
+别叫我破密高手
+
+别叫我数据窃贼
+
 别叫我灰程序员
+
 别叫我矩阵罪犯
+
 别叫我信息恐怖分子
-我是一个黑客
+
+我是一名黑客
+
 ~ Slamm-0! 
+
 01/27/71
+
 西雅图大都会区网络
 
 [spoiler]
 Don’t call me a script kid 
+
 Don’t call me a cipherpunk 
+
 Don’t call me a cracker 
+
 Don’t call me a data pirate 
+
 Don’t call me a gray coder 
+
 Don’t call me a Matrix criminal 
+
 Don’t call me an information terrorist 
+
 I am a hacker. 
+
 ~ Slamm-0! 
+
 01/27/71
+
 Seattle Metroplex Grid
 [/spoiler]
 [/quote]
 
 ---
 
-[size=12pt][b]虚拟专用网络[/b][/size]
+[size=14pt][b]虚拟专用网络[/b][/size]
 
-接入点是一个虚拟专用网络(VPN)，所以大家都应该知道它的基本界面:一个单一的AR窗口或虚拟屏幕，带有有限的基于文本和图像的界面，而不是一个实时的拟感数据流。除了为像我们这样的犯罪分子提供秘密收集服务外，vpn还是西雅图移动社交软件(MoSoSo)部落、地下骇客(Cracker Underground)庞大的非法文件共享网络、MagickNet(面向那些渴望加入第六世界和贸易模式的觉醒者)、以及一些经久不衰的即时通讯服务。
+接入点(JackPoint)就是一个虚拟专用网络(VPN)，所以大家都应该知道它的基本界面：一个单一的AR窗口或是带有基于有限文本和图像的虚拟屏幕，而不是一个实时的拟感数据流。除了容纳像我们这样的犯罪分子的秘密集合外，VPN还是西雅图移动社交软件(MoSoSo)部落、地下破解者(Cracker Underground)庞大的非法文件共享网络、魔网(面向那些渴望加入第六纪和交易法术公式的觉醒者)、一些经久不衰的即时通讯服务和其他很多东西。
 
-一个虚拟专用网络的特殊之处在于它的用户，vpn的创建者和维护者及他们的相关软件在选择成员时通常会小心地将那些不务正业的人拒之门外。这很像一个专属俱乐部的成员，就像专属俱乐部的情况一样，隐私往往是一个大问题。这就是为什么接入点有一个安全登录和加密，以及其他你可能没有注意到的小花招。
+一个虚拟专用网络的特殊之处在于它的用户，VPN的创建者和维护者及他们的相关软件在选择成员时通常会小心翼翼地将那些不务正业的人拒之门外。这很像是成为一个专属俱乐部的成员，就像专属俱乐部的情况一样，隐私往往是一个大问题。这就是为什么接入点有一个登录安全验证和加密，以及其他你可能没有注意到的小花招。
 
-[spoiler]
-[size=12pt][b]VIRTUAL PRIVATE NETWORKS[/b][/size]
-JackPoint is a virtual private network (VPN), so all of you should be aware of the basic interface: a single AR window or virtual screen with a limited text- and image-based interface instead of a real-time streaming simsense feed. Aside from hosting clandestine collections of criminals like us, VPNs are the backbone of Seattle’s mobile social software (MoSoSo) tribes, the Cracker Underground’s vast web of illicit file-sharing networks, MagickNet (for those Awakened aspiring to join the Sixth World and trade formulae), and bunches of eternally popular instant messaging services, among other things. 
-A virtual private network is only as special as the people that are on it, and the creators and maintainers of VPNs and their associated software usually take care to keep the riff-raff out when selecting members. It’s very much like being a member of an exclusive club, and as is the case with exclusive clubs, privacy tends to be a big concern. Hence the reason JackPoint has a secure log-on and encryption, among other little tricks you probably haven’t noticed.
-[/spoiler]
-
-> 请尊重网络，尽量不要追踪你的接入点同伴或窃取他们的密码。如果你回顾一下你们接受邀请时达成的协议，这样的行为会引起我们所有人的反应，包括我。
+> 请尊重网络，尽量不要追踪你的接入点同伴或窃取他们的密码。如果你回顾一下你们接受邀请时达成的协议，这样的行为会引起我们所有人的反应，包括我在内。
 
 > FastJack
 
-> 当然，没有什么能阻止你发疯，变成一个控制欲过强的混蛋，保护你的拥抱和亲吻小组的朋友。
+> 当然，没有什么能阻止你发疯，变成一个控制欲过强的混蛋，保护你那些拥抱和亲吻小组的朋友。
 
 > Clockwork
 
-> 正确。所以你随时都可以离开。在我进入超级恶棍模式之前，我会严格执行规则。在你下次违规之前，你和你的迫害情结可以休息一下了。
+> 很正确。所以你随时都可以离开。在我进入超级恶棍模式之前，我会严格执行规则。在你下次违规之前，你和你的迫害情结可以休息一下了。
 
 > FastJack
 
@@ -185,6 +188,11 @@ A virtual private network is only as special as the people that are on it, and t
 > Netcat
 
 [spoiler]
+[size=14pt][b]VIRTUAL PRIVATE NETWORKS[/b][/size]
+JackPoint is a virtual private network (VPN), so all of you should be aware of the basic interface: a single AR window or virtual screen with a limited text- and image-based interface instead of a real-time streaming simsense feed. Aside from hosting clandestine collections of criminals like us, VPNs are the backbone of Seattle’s mobile social software (MoSoSo) tribes, the Cracker Underground’s vast web of illicit file-sharing networks, MagickNet (for those Awakened aspiring to join the Sixth World and trade formulae), and bunches of eternally popular instant messaging services, among other things. 
+
+A virtual private network is only as special as the people that are on it, and the creators and maintainers of VPNs and their associated software usually take care to keep the riff-raff out when selecting members. It’s very much like being a member of an exclusive club, and as is the case with exclusive clubs, privacy tends to be a big concern. Hence the reason JackPoint has a secure log-on and encryption, among other little tricks you probably haven’t noticed.
+
 > Please respect the network and try not to trace your fellow JackPointers or hack their passcodes. If you would refer back to the agreement you all made when you accepted the invitation, such actions invite repercussions from all of us—including me. 
 
 > FastJack
@@ -206,25 +214,24 @@ A virtual private network is only as special as the people that are on it, and t
 > Netcat
 [/spoiler]
 
-VPN通过使用直连的通讯链运作，使用可追溯到矩阵的第一个化身的大部分未使用的连接协议。这些协议主要是不可见或被遗忘的，埋在层层代码之下。 虽然可以传输和接收的内容有限，但VPN软件可以直接绕过矩阵服务提供商和通信代码，以最少的处理能力或罪证数据的交换提供合理安全的通信。
+VPN通过直接使用链接通讯链运作，采用可追溯到矩阵的第一个化身的大部分未使用的连接协议。这些协议主要是不可见或被遗忘的，并被掩埋在层层代码之下。 虽然可以传输和接收的内容有限，但VPN软件可以直接绕过矩阵服务提供商(MSP)和通讯码，以最少的处理能力或罪证数据的交换提供合理安全的通信。
 
-[spoiler]
-VPNs work by directly using connecting commlinks, employing mostly unused connection protocols that date back to the first incarnations of the Matrix. These protocols are mainly invisible or forgotten, buried under layers and layers of code. While limited in the content that can be transmitted and received, VPN ‘ware can directly bypass Matrix Service Providers and commcodes, providing reasonably secure communication with a minimum of processing power or exchange of incriminating data.
-[/spoiler]
-
-> VPN的安全性取决于代码的加密、成员的保密以及运营它的人的偏执时刻。你越少谈论接入点，知道接入点的人就越少，接入点就越安全。
+> VPN的安全性只取决于代码加密、成员保密以及它的运营者的偏执时刻。你越少谈论接入点，知道接入点的人就越少，接入点就越安全。
 
 > Pistons
 
 [spoiler]
+VPNs work by directly using connecting commlinks, employing mostly unused connection protocols that date back to the first incarnations of the Matrix. These protocols are mainly invisible or forgotten, buried under layers and layers of code. While limited in the content that can be transmitted and received, VPN ‘ware can directly bypass Matrix Service Providers and commcodes, providing reasonably secure communication with a minimum of processing power or exchange of incriminating data.
+
 > A VPN is only as secure as the encryption on the code, the secrecy of the members, and the paranoid moments of the people running it. The less you talk about JackPoint, the less people know about JackPoint, the more secure JackPoint is.
 
 > Pistons
 [/spoiler]
 
 [quote]
-[b]交易所[/b]
-有一个暗影狂奔者们会感兴趣的虚拟专用网络，尤其是对在西雅图大都会区及其周边地区的暗影狂奔者，那就是交易所。该程序通过您的通讯链监视您的行为，并将该数据与其他用户关联，根据您所在的地理区域跟踪您的需求和能力。在看似随机的时间间隔内，程序会提示用户采取一些非威胁性的行动，并承诺会得到“业报”。
+[size=14pt][b]交易所[/b][/size]
+
+有一个暗影狂奔者们会感兴趣的VPN，尤其是对在西雅图大都会区及其周边地区的暗影狂奔者，那就是交易所。该程序通过你的通讯链监视你的行为，并将该数据与其他用户关联，根据你所在的地理区域追踪你的需求和能力。在看似随机的时间间隔内，程序会提示用户采取一些非威胁性的行动，并承诺会得到“业报”。
 
 • 向左转，给街角的那个人买一份多加糖的大豆煎饼
 
@@ -232,10 +239,11 @@ VPNs work by directly using connecting commlinks, employing mostly unused connec
 
 • 拜访Rhiannon，和她谈论《伟大魔法书》至少10分钟。
 
-虽然有些奇怪，但每一项服务都在帮助网络中的其他人——通过提供分散注意力的东西，或提供一件关键的装备，或只是在监视时提供一杯急需的大豆咖啡。所有在交易所上注意到提示的用户都发现自己以同样的方式受到幸运和意外的眷顾。与大多数vpn不同，用户没有通过其他方式在网络上联系，也没有人确切知道是谁在运行它。
+虽然有些奇怪，但每一项服务都在帮助网络中的其他人——通过提供分散注意力的东西，或提供一件关键的装备，或只是在监视时提供一杯急需的豆咖。所有听从了交易所指示的用户都发现自己以同样的方式受到幸运和意外的眷顾。与大多数VPN不同，用户彼此间没有通过其他方式在网络上联系，也没有人确切知道是谁在运行它。
 
 [spoiler]
-[b]THE EXCHANGE[/b]
+[size=14pt][b]THE EXCHANGE[/b][/size]
+
 One virtual private network of particular interest to shadowrunners, especially in and around the Seattle Metroplex area, is the Exchange. This program monitors your actions through your commlink and correlates that data with other users, tracking your needs and abilities with the geographic area you are in. At seemingly random intervals the program will prompt a user to take some non-threatening action with the promise of being “karmically rewarded” Common instructions include: 
 
 • Take a left and buy the guy on the corner a soykaf with extra sugar
@@ -250,35 +258,28 @@ While odd, each of these services helps out someone else in the network—by pro
 
 ---
 
-[size=12pt][b]值钱数据[/b][/size]
+[size=14pt][b]值钱数据[/b][/size]
 
-在第六纪，信息是一种商品，这是一个黑客和暗影狂奔者比大多数人更清楚的事实。在许多场狂奔中，首要目标是不惜一切代价获取数据，而在更多的狂奔中，当数据文件被卖给本地修复者或数据经纪人时，在系统中进行一些明智的浏览就能大赚一笔。
+在第六纪，信息是一种商品，这是一个黑客和暗影狂奔者比大多数人更清楚的事实。在许多场狂奔中，首要目标是不惜一切代价获取数据，而在更多的狂奔中，在系统中进行一些明智的浏览就能在将数据文件卖给当地中间人或数据经纪人时大赚一笔。
 
-[spoiler]
-[size=12pt][b]PAYDATA[/b][/size]
-Information is a commodity in the Sixth World, and that’s a fact that hackers and shadowrunners know better than most. There are plenty of runs where the primary objective is to get data at all costs, and plenty more where a little judicious browsing in a system paid off big-time when the datafiles were sold to the local fixer or data broker.
-[/spoiler]
-
-> 在出售热门数据时，你必须小心。为了得到最好的价格，你应该删除原始文件，但这意味着你要提醒数据存储的所有者，他们已经被黑了。不是很专业。
+> 在出售热门数据时，你必须非常小心。为了得到最好的价格，你应该删除原始文件，但这意味着你要提醒存储数据的所有者，他们已经被骇入了。这不是很专业。
 
 > Cosmo
 
 [spoiler]
+[size=14pt][b]PAYDATA[/b][/size]
+Information is a commodity in the Sixth World, and that’s a fact that hackers and shadowrunners know better than most. There are plenty of runs where the primary objective is to get data at all costs, and plenty more where a little judicious browsing in a system paid off big-time when the datafiles were sold to the local fixer or data broker.
+
 > You have to be careful about selling hot data. To get the best price you should delete the originals, but that means that you alert the owners of the datastore that they’ve been hacked. Not very professional.
 
 > Cosmo
 [/spoiler]
 
-数据经纪人是专门从事信息买卖的一种独特的中间人。有些是由企业支持的，有些是由军队或政府支持的，但大多数都是独立的，并且他们喜欢这样。他们主要与被囚禁的罪犯、狗仔队、黑客、间谍和工业破坏者打交道，但也与股票经纪人、中间人、警察、政府官员，甚至是情报界的成员打交道。大多数数据经纪人都有一些背景或兴趣来决定他们的偏好; 一个从护身符贩子转变为数据经纪人(通常被称为巫医贩子)的人，可能对巫术研究、魔法公式和超魔法理论更感兴趣(因此也会支付更多)，而不是对阿瑞斯最新突击步枪的原理图感兴趣。
+数据经纪人是专门从事信息买卖的一种特殊的中间人。他们有些是由企业支持的，有些是由军队或政府支持的，但大多都是独立的，并且他们更喜欢这样。他们主要与被囚禁的罪犯、狗仔队、黑客、间谍和产业破坏分子打交道，但也与股票经纪人、中间人、警察、政府官员，甚至是情报部门成员打交道。大多数数据经纪人都有一些背景或兴趣来决定他们的偏好; 一个从护身符贩子(通常也被称为巫医贩子)转变为数据经纪人的人，可能对巫术研究、魔法公式和泛魔法理论更感兴趣(因此也会支付更多)，而不是对阿瑞斯最新突击步枪的原理图感兴趣。
 
-购买数据只是数据经纪人工作的一半; 另一半是卖。为了达到这个目的，一个数据经纪人可能是一个非常有价值的联系人，可以以合适的价格为你提供几乎任何类型的数据。
+购买数据只是数据经纪人工作的一半; 另一半是卖。为了达到这个目的，一个数据经纪人可能会是一个非常有价值的联系人，能够以合适的价格为你提供几乎任何类型的数据。
 
-[spoiler]
-Data brokers are a distinct breed of fixers that specialize in buying and selling information. Some are backed by syndicates, others by corps or governments, but most are independent and prefer it that way. They deal mostly with incarcerated criminals, paparazzi, hackers, spies, and industrial saboteurs—but also with stock brokers, fixers, police, government officials, and even members of the intelligence community. Most data brokers have some background or interest that informs their preferences; a talismonger-turned-data broker (often called a loremonger) is probably more interested (and will therefore pay more) for thaumaturgical research, magical formulae, and metamagical theses than for the schematics to Ares’s latest assault rifle. 
-Buying data is only half of a data broker’s job; the other half is selling it. To that end, a data broker can be a very valuable, if mercenary, contact, able to get you nearly any sort of data for the right price.
-[/spoiler]
-
-> 由于他们涉足的领域很多，数据经纪人往往有一些真正神秘的联系。如果他们不知道你想知道什么，他们知道的人肯定知道。
+> 由于他们涉足的领域很多，数据经纪人之间往往有一些非常神秘的联系。如果他们不知道你想知道什么，他们知道的人肯定知道。
 
 > Fianchetto
 
@@ -286,7 +287,13 @@ Buying data is only half of a data broker’s job; the other half is selling it.
 
 > Kay St. Irregular
 
+有一件事会让数据经纪人坐立不安，那就是这些数据是否带有属于某个名声显赫的人的标记。已经有不止一个黑客手握数据芯片却发现城里没有任何一个数据经纪人敢直接触碰这些来自亲分[color=green](注：oyabun，山口组的领袖)[/color]节点上的热门情报，因为一旦山口组发现了这件事，他们就会对这些经纪人做些什么。这种有益健康的恐惧/迷信在一个有统治集团或企业的城市中最为强烈，而不是巨龙; 在西雅图，你可以任意挑选山口组的敌人，然后卖给他们。见鬼，你可以试着推销它很多次——只是不要被抓住。
+
 [spoiler]
+Data brokers are a distinct breed of fixers that specialize in buying and selling information. Some are backed by syndicates, others by corps or governments, but most are independent and prefer it that way. They deal mostly with incarcerated criminals, paparazzi, hackers, spies, and industrial saboteurs—but also with stock brokers, fixers, police, government officials, and even members of the intelligence community. Most data brokers have some background or interest that informs their preferences; a talismonger-turned-data broker (often called a loremonger) is probably more interested (and will therefore pay more) for thaumaturgical research, magical formulae, and metamagical theses than for the schematics to Ares’s latest assault rifle. 
+
+Buying data is only half of a data broker’s job; the other half is selling it. To that end, a data broker can be a very valuable, if mercenary, contact, able to get you nearly any sort of data for the right price.
+
 > And because of the many areas of interest they walk in, data brokers tend to have some truly arcane connections. If they don’t know what you want to know, they know someone who does. 
 
 > Fianchetto
@@ -294,27 +301,19 @@ Buying data is only half of a data broker’s job; the other half is selling it.
 > Ask a fence to find a fence.
 
 > Kay St. Irregular
-[/spoiler]
 
-有一件事会让数据经纪人坐立不安，那就是这些数据是否带有属于某个名声显赫的人的标记。已经有不止一个黑客手握数据芯片却发现城里没有任何一个数据经纪人敢直接解除，因为如果被日本黑帮发现了，他们会对他们做些什么。这种有益健康的恐惧/迷信在有一个统治集团或企业的城镇中最为强烈，而不是巨龙; 在西雅图，你可以任意挑选黑帮的敌人，然后卖给他们。见鬼，你可以试着推销它很多次——只是不要被抓住。
-
-[spoiler]
 The one thing that can make a data broker antsy is if the data bears the marks of belonging to somebody with a fierce reputation. More than one hacker has been left holding the datachip when no data broker in town would touch a bunch of hot intel straight from the oyabun’s nodes because of what the Yakuza will do to them if they found out about it. This kind of healthy fear/superstition is strongest in towns with one ruling syndicate or corp rather than megasprawls; in Seattle you can take your pick of the Yakuza’s enemies and sell it to them. Hell, you can try to sell it a bunch of times—just don’t get caught.
 [/spoiler]
 
-[b]专有文件格式[/b]
-大多数大型公司(和一些政府机构)将严格用于公司内部使用的文件，如程序的源代码和内部备忘录，以专有文件格式(PFFs)保存。以PFF编码的文件通常只能在公司自己的操作系统上读，尽管各种黑客和破解者已经制作了转换工具，允许在任何通讯链、节点或终端上访问这些文件，不管运行的是什么操作系统。像pff这样的数据代理提供了相对简单的安全性和准确性方法来保护数据文件。
+[size=12pt][b]专有文件格式[/b][/size]
 
-[spoiler]
-[b]PROPRIETARY FILE FORMATS[/b]
-Most megacorps (and some government agencies) put files that are strictly for internal use within the company, such as source code for programs and internal memorandums, in proprietary file formats (PFFs). Files encoded in PFF are normally only readable on the company’s own operating system, though various hackers and crackers have made conversion utilities that allow the files to be accessed on any commlink, node, or terminal, no matter what OS is running. Data brokers like PFFs, as they offer a relatively simple measure of security and veracity to a datafile.
-[/spoiler]
+大多数超企(和一些政府机构)将严格供公司内部使用的文件，如程序的源代码和内部备忘录，以专有文件格式(PFF)保存。以PFF编码的文件通常只能在公司自己的操作系统上读取，尽管许多黑客和破解者已经制作了转换工具，允许在任何通讯链、节点或终端上访问这些文件，不管这些设备上运行的是什么操作系统。数据经纪人喜欢PFF，因为它们以相对简单的方法保护数据文件的同时兼顾了安全性和准确性。
 
-> 您可以制作自己的PFF数据文件。必要的模块通常包含在所有操作系统软件中，但只有当属于公司员工的有效SIN注册为设备所有者时，它们才会被激活。因此，如果你偷了一个薪奴的通讯链，或者用偷来的密码登录到他们的工作终端，你可以把所有东西都保存为PFF。
+> 你可以制作自己的PFF数据文件。必要的模块通常包含在所有操作系统软件中，但只有当属于公司员工的有效SIN注册为设备所有者时，它们才会被激活。因此，如果你偷了一个薪奴的通讯链，或者用偷来的密码登录到他们的工作终端时，你可以把所有东西都保存为PFF格式。
 
 > Kat o’Nine Tales
 
-> 或者你可以黑进你自己的通讯链来激活模块。
+> 或者你可以骇入你自己的通讯链来激活模块。
 
 > Slamm-0!
 
@@ -323,6 +322,9 @@ Most megacorps (and some government agencies) put files that are strictly for in
 > Kat o’Nine Tales
 
 [spoiler]
+[size=12pt][b]PROPRIETARY FILE FORMATS[/b][/size]
+Most megacorps (and some government agencies) put files that are strictly for internal use within the company, such as source code for programs and internal memorandums, in proprietary file formats (PFFs). Files encoded in PFF are normally only readable on the company’s own operating system, though various hackers and crackers have made conversion utilities that allow the files to be accessed on any commlink, node, or terminal, no matter what OS is running. Data brokers like PFFs, as they offer a relatively simple measure of security and veracity to a datafile.
+
 > You can make your own PFF datafiles. The necessary modules are generally included in all OS software, but they are only activated when a valid SIN belonging to a corporate employee is registered as the owner of the device. So if you steal a wageslave’s commlink or log into their work terminal with a stolen passcode, you can save everything as PFF.
 
 > Kat o’Nine Tales
@@ -336,44 +338,41 @@ Most megacorps (and some government agencies) put files that are strictly for in
 > Kat o’Nine Tales
 [/spoiler]
 
-[b]认证数据[/b]
+[size=12pt][b]认证数据[/b][/size]
 
-在崩溃2.0中不太为人所知的一个后果是，公司法庭发布了一项早期版本的技术，该技术用于创建经过认证的凭证，作为主要公司和国家银行及机构保护其数据的一种方式。所谓的“认证数据”技术已经慢慢地渗透到大街小巷，现在可以看到它在大多数地区对那些不能信任矩阵的敏感信息的有限使用，比如大公司股东的代理投票或者一些加密节点的密码。
+崩溃2.0的一个不太为人所知的后果是，公司法庭发布了一项用于创建认证信用棒的早期版本的技术，作为主要公司和国家银行及机构保护其数据的一种方式。所谓的“认证数据”技术已经慢慢地渗透到大街小巷，现在我们可以看到它在很多蔓城区对那些不能信任矩阵的敏感信息的有限使用，比如超企股东的代理投票或一些加密节点的密码。
 
-任何有芯片烧录器和访问矩阵的人都可以使用CC提供的免费工具来烧录文件作为认证数据。认证过程从用户的链接中删除任何其他要烧录的文件副本，并在芯片上创建一个特殊的访问日志，记录所有访问该芯片及其内容的尝试。从理论上讲，访问日志和加密方案意味着任何试图读取、复制或编辑芯片内容的行为都将被记录下来(可能会打乱芯片上的所有数据)。当然，没有什么可以阻止你在确认数据之前将文件发送到一个死锁节点，甚至将它们烧到另一个芯片上，这就是为什么CC最终放弃了这种格式，而选择了一种具有回溯功能的格式。
-
-[spoiler]
-[b]CERTIFIED DATA[/b]
-One of the lesser-known fallouts of the Crash 2.0 was the Corporate Court’s release of an early version of the technology used to create certified credsticks as a way for major corporate and national banks and institutions to safeguard their data. The so-called “certified data” tech has slowly trickled its way down to the streets, and it now sees limited use in most sprawls for sensitive information that can’t be trusted to the Matrix, like proxy votes for megacorporate shareholders or the passcode for some encrypted nodes. 
-Anybody with a chipburner and access to the Matrix can use the freeware utility provided by the CC to burn files as certified data. The certification process deletes any other copies of the files to be burned from the user’s commlink and creates a special access log on the chip itself that logs all attempts to access the chip and its contents. Theoretically, the access log and the encryption scheme mean that any attempt to read, copy, or edit the contents of the chip will be logged (and might scramble all the data on the chip). Of course, there’s nothing to prevent you from sending the files to a dead-drop node or even burn them to another chip before you certify the data, which is why the format was ultimately abandoned by the CC in favor of something with a look-back feature.
-[/spoiler]
+任何有芯片烧录器并能访问矩阵的人都可以使用公司法庭提供的免费工具来烧录文件使其成为认证数据。认证过程从用户的通讯链中删除任何其他要烧录的文件副本，并在芯片上创建一个特殊的访问日志，记录所有访问该芯片及其内容的尝试。理论上，访问日志和加密方案意味着任何试图读取、复制或编辑芯片内容的行为都将被记录下来(可能会同时篡改芯片上的所有数据)。当然，没有什么可以阻止你在认证数据之前将文件发送到一个死信箱节点，甚至将它们烧录到另一个芯片上，这就是为什么公司法庭最终放弃了这种格式，而选择了一种具有回溯功能的格式。
 
 > 数据经纪人喜欢经过认证的数据，因为这“证明”他们对客户是诚实的。当然，一个优秀的黑客可以破解认证数据存储器上的保护，并让它看起来完好无损的同时已经在匿名网盘上存了六份备份。
 
 > Cosmo
 
 [spoiler]
-> Data brokers love certified data because it “proves” they’re being honest with their clients. Of course, a good hacker can crack the protection on a certified datachip and make it look virgin when you’ve already squirreled away six copies in your anonymous dropbox.
+[size=12pt][b]CERTIFIED DATA[/b][/size]
+One of the lesser-known fallouts of the Crash 2.0 was the Corporate Court’s release of an early version of the technology used to create certified credsticks as a way for major corporate and national banks and institutions to safeguard their data. The so-called “certified data” tech has slowly trickled its way down to the streets, and it now sees limited use in most sprawls for sensitive information that can’t be trusted to the Matrix, like proxy votes for megacorporate shareholders or the passcode for some encrypted nodes. 
+
+Anybody with a chipburner and access to the Matrix can use the freeware utility provided by the CC to burn files as certified data. The certification process deletes any other copies of the files to be burned from the user’s commlink and creates a special access log on the chip itself that logs all attempts to access the chip and its contents. Theoretically, the access log and the encryption scheme mean that any attempt to read, copy, or edit the contents of the chip will be logged (and might scramble all the data on the chip). Of course, there’s nothing to prevent you from sending the files to a dead-drop node or even burn them to another chip before you certify the data, which is why the format was ultimately abandoned by the CC in favor of something with a look-back feature.
+
+> Data brokers love certified data because it "proves" they’re being honest with their clients. Of course, a good hacker can crack the protection on a certified datachip and make it look virgin when you’ve already squirreled away six copies in your anonymous dropbox.
 
 > Cosmo
 [/spoiler]
 
 ---
 
-[size=12pt][b]伪造者的艺术[/b][/size]
+[size=14pt][b]伪造者的艺术[/b][/size]
 
-系统识别号码，许可证，执照，新元，都只是数字，我的朋友。它们不过是电脑上的一组1和0。有许多修复师和黑客专门从事伪造，将代码编织在一起，并将其发送到适当的数据库。暗影经济是建立在虚假的罪孽之上的，许多暗影狂奔者经常烧掉它们。
+系统识别编码(SIN)，许可证，执照，新元，都只是数字，我的朋友。它们不过是计算机上的一组1和0。有许多中间人和黑客专门从事伪造工作，将代码编织在一起，并将其发送到适当的数据库。影子经济是建立在假SIN之上的，许多暗影狂奔者经常烧掉它们。
 
-[spoiler]
-[size=12pt][b]THE FORGER’S ART[/b][/size]
-System Identification Numbers, permits, licenses, nuyen—it’s all numbers my friend. No more than a pattern of ones and zeroes on a computer. There are many fixers and hackers that specialize in forgery, weaving lives together out of lines of code and sending it off to the proper databases. The shadow economy lives on fake SINs, and many shadowrunners burn through them regularly.
-[/spoiler]
-
-> 狗屎。在你的假SIN上省吃俭用是不划算的。我做过一次，结果得到了一个死人的SIN，直接从一个可疑的停尸房服务员那里得到的，他同意几天内不登记。几天后，我被孤星打了个半死因为他们以为我是一个该死的染病僵尸。
+> 狗屎。在你的假SIN上省吃俭用是不划算的。我曾这么做过一次，结果得到了一个死人的SIN，直接从一个可疑的停尸房服务员那里得到的，他同意几天内不登记。几天后，我被孤星打了个半死因为他们以为我是一个该死的邪魔宿主。
 
 > Sticks
 
 [spoiler]
+[size=14pt][b]THE FORGER’S ART[/b][/size]
+System Identification Numbers, permits, licenses, nuyen—it’s all numbers my friend. No more than a pattern of ones and zeroes on a computer. There are many fixers and hackers that specialize in forgery, weaving lives together out of lines of code and sending it off to the proper databases. The shadow economy lives on fake SINs, and many shadowrunners burn through them regularly.
+
 > No shit. It doesn’t pay to skimp on your fake SINs. I did it once and ended up with some dead corper’s SIN, straight from a shady morgue attendant who agreed not to register it for a few days. Three days later I’ve got half of Lone Star after me thinking I’m a damn shedim-infested zombie.
 
 > Sticks
@@ -381,20 +380,18 @@ System Identification Numbers, permits, licenses, nuyen—it’s all numbers my 
 
 ---
 
-[size=12pt][b]欺诈生活[/b][/size]
+[size=14pt][b]欺诈生活[/b][/size]
 
-黑客不仅仅是一种职业，它还是一种生活方式——或者可以是。通过保存访问id库并欺骗正确的命令，黑客可以有效地改善她的生活方式。为了让它工作，黑客必须时刻保持她的虚拟眼睛睁着，跟踪电源、水、矩阵访问、租赁协议、食品杂货配送等所有生活必需品的访问id，并发出正确的命令把这些东西送到她家门口。当然，被黑客敲诈的人迟早会发现并切断电源，给她寄账单，收回财产(可能还会弄断她的手)，所以一个通过欺骗的方式生活的黑客必须不断地改动她的需求和额外的东西，重新发出命令，切换服务，并一直获取新的访问id。
-
-[spoiler]
-[size=12pt][b]SPOOFING LIFE[/b][/size]
-Hacking isn’t just a career, it’s a lifestyle—or it can be. By keeping a library of access IDs and spoofing the right commands, a hacker can effectively improve her lifestyle. To get it to work, the hacker has to keep her virtual eyes open all the time, keeping track of access IDs for power, water, Matrix access, rental agreements, grocery delivery—all the essentials of life—and issuing the right commands to bring those things to her doorstep. Of course, sooner or later the people the hacker is ripping off are going to find out and cut power, send her bills, reclaim property (and possibly break her hands), so a hacker spoofing her way through life has to be constantly juggling her needs and extras, re-issuing commands, switching services, and grabbing new access IDs all the time.
-[/spoiler]
+黑客不仅仅是一种职业，它还是一种生活方式——或者说可以是。通过保存访问ID库并伪造正确的指令，黑客可以有效地改善她的生活方式。为了让它工作，黑客必须时刻保持她的虚拟眼睛睁着，追踪电源、水、矩阵访问、租赁协议、食品杂货配送等所有生活必需品的访问ID，并发出正确的指令把这些东西送到她家门口。当然，被黑客偷窃的人迟早会发现并切断电源，给她寄账单，收回财产(可能还会弄断她的手)，所以一个通过欺骗的方式生活的黑客必须不断地兼顾她的需求和额外费用，重新发出命令，切换服务，并一直获取新的访问ID。
 
 > 我想到了“靠借来的时间生活”这句话。
 
 > Icarus
 
 [spoiler]
+[size=12pt][b]SPOOFING LIFE[/b][/size]
+Hacking isn’t just a career, it’s a lifestyle—or it can be. By keeping a library of access IDs and spoofing the right commands, a hacker can effectively improve her lifestyle. To get it to work, the hacker has to keep her virtual eyes open all the time, keeping track of access IDs for power, water, Matrix access, rental agreements, grocery delivery—all the essentials of life—and issuing the right commands to bring those things to her doorstep. Of course, sooner or later the people the hacker is ripping off are going to find out and cut power, send her bills, reclaim property (and possibly break her hands), so a hacker spoofing her way through life has to be constantly juggling her needs and extras, re-issuing commands, switching services, and grabbing new access IDs all the time.
+
 > The phrase “living on borrowed time” comes to mind. 
 
 > Icarus
