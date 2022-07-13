@@ -1,6 +1,6 @@
 [color=brown][size=16pt][b]矩阵动作[/b][/size][/color]
 
-以下动作是可以由用户在AR或VR中执行的矩阵动作。每个矩阵动作都需要使用一个正在运行的程序(或相应的复合程式)--在该动作括号中列出--和一个适当的技能。请注意，这并不是一份可以在矩阵中执行的行动的详尽清单，而是用于游戏机制的一份被指定为"矩阵动作"的清单，例如使用热模的奖励。
+以下动作是可以由用户在AR或VR中执行的矩阵动作。每个矩阵动作都需要使用一个正在运行的程序(或相应的复合程式)--在该动作括号中列出--和一个适当的技能。请注意，这并不是一份可以在矩阵中执行的行动的详尽清单，而是用于游戏机制的一份被指定为“矩阵动作”的清单，例如使用热模的奖励。
 
 [spoiler]
 [color=brown][size=16pt][b]MATRIX ACTIONS[/b][/size][/color]
@@ -161,11 +161,11 @@ Your persona logs off of a node, severing the subscription and connection to tha
 
 [size=14pt][b]仔细观察(系统)[/b][/size]
 
-你注视着你的化身所连接的某个节点(即它"在"的那个节点)。这与分析节点的动作不同，因为它集中在节点的塑模上，而不是它的属性。与在物理世界中的观察不同，你会自动感知到所有没运行隐匿程序的图标，因为它们被你的通讯链编目登记了。
+你注视着你的化身所连接的某个节点(即它“在”的那个节点)。这与分析节点的动作不同，因为它集中在节点的塑模上，而不是它的属性。与在物理世界中的观察不同，你会自动感知到所有没运行隐匿程序的图标，因为它们被你的通讯链编目登记了。
 
 [spoiler]
 [size=14pt][b]OBSERVE IN DETAIL (SYSTEM)[/b][/size]
-You look at one of the nodes to which your persona is connected (i.e., one that it is “in”). This is different from the Analyze Node action because it concentrates on the sculpting of the node rather than its attributes. Unlike observing in the physical world, you automatically perceive all icons that are not running Stealth because they are cataloged by your commlink.
+You look at one of the nodes to which your persona is connected (i.e., one that it is "in"). This is different from the Analyze Node action because it concentrates on the sculpting of the node rather than its attributes. Unlike observing in the physical world, you automatically perceive all icons that are not running Stealth because they are cataloged by your commlink.
 [/spoiler]
 
 [size=14pt][b]传输数据(系统)[/b][/size]
@@ -236,13 +236,13 @@ You initiate an attack on a running program that is not an agent, persona, or ot
 
 [size=14pt][b]数据搜索(浏览或其他)[/b][/size]
 
-你在矩阵中搜索关于某个主题的信息。这是一个数据搜索+浏览的延续检定，有一个可变的阈值和间隔，分别取决于有关信息的一般可用性和被搜索的"区域"。有些信息是被保护和加密的，存储在矩阵无法访问的节点中，因此，如果不访问隐藏数据的节点，你就无法找到这些信息，尽管你可以通过数据搜索来找到信息的位置。
+你在矩阵中搜索关于某个主题的信息。这是一个数据搜索+浏览的延续检定，有一个可变的阈值和间隔，分别取决于有关信息的一般可用性和被搜索的“区域”。有些信息是被保护和加密的，存储在矩阵无法访问的节点中，因此，如果不访问隐藏数据的节点，你就无法找到这些信息，尽管你可以通过数据搜索来找到信息的位置。
 
 并非所有的数据搜索动作都使用浏览程序。这个动作可以用在任何大量的数据上，比如一个节点中的图标列表，信号范围内的节点，或者网络流量。当使用这个动作进行这些特殊的搜索时，要使用用于收集信息的程序，通过它来进行搜索。例如，使用数据搜索+扫描来查找信号范围内的所有无线智能链，或数据搜索+分析来查找一个节点中的所有代理，或数据搜索+嗅探来查找你截获的无线流量中的特定短语。
 
 [spoiler]
 [size=14pt][b]DATA SEARCH (BROWSE OR OTHER)[/b][/size]
-You search the Matrix for information about a topic. This is a Data Search + Browse Extended Test with a variable threshold and interval, depending on the general availability of the information in question and the “area” being searched, respectively. Some information is protected and kept secret, stored in a node that is not accessible from the Matrix, and so cannot be found without accessing the nodes on which the data is hidden, although a Data Search might be made to find the location of the information. 
+You search the Matrix for information about a topic. This is a Data Search + Browse Extended Test with a variable threshold and interval, depending on the general availability of the information in question and the "area" being searched, respectively. Some information is protected and kept secret, stored in a node that is not accessible from the Matrix, and so cannot be found without accessing the nodes on which the data is hidden, although a Data Search might be made to find the location of the information. 
 
 Not all Data Search actions use the Browse program. This action can be used on any large amount of data, such as a list of icons in a node, nodes in a Signal range, or network traffic. When using this action for these special searches, use the program that is used to collect the information through which you are searching. For example, use Data Search + Scan to find all of the wireless smartlinks in Signal range, or Data Search + Analyze to find all of the agents in a node, or Data Search + Sniffer to find a specific phrase in wireless traffic you have intercepted.
 [/spoiler]
@@ -359,7 +359,7 @@ Once you have initiated cryptanalysis, your Decrypt program takes over and runs 
 
 [size=14pt][b]拦截流量(嗅探)[/b][/size]
 
-你在两个节点之间拦截流量。要做到这一点，你必须能够访问"全部流量"经过的节点；如果流量在中间节点之间被分割(见《矩阵拓扑》，第216页)，你就不能拦截它，除非你在流量经过的所有节点都有一个图标。在大多数情况下，这个动作只在有线网络中有效，但如果涉及的节点数量足够少，它可以适用于(大多数)无线流量。
+你在两个节点之间拦截流量。要做到这一点，你必须能够访问“全部流量”经过的节点；如果流量在中间节点之间被分割(见《矩阵拓扑》，第216页)，你就不能拦截它，除非你在流量经过的所有节点都有一个图标。在大多数情况下，这个动作只在有线网络中有效，但如果涉及的节点数量足够少，它可以适用于(大多数)无线流量。
 
 为了窃听流量，做一个骇入+嗅探检定；这个检定的成功数是其他人用矩阵侦察检定发现窥探的阈值。流量可以被复制和记录，或转发给第三方，不需要额外的检定。如果你想在发送前阻止或改变一些流量，你必须使用编辑动作。要插入假的流量，你必须在你的骇入+嗅探和收件人的防火墙+系统等级之间进行的对抗检定中获得成功。
 

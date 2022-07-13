@@ -95,20 +95,20 @@ Pariahs view themselves as flawed sprites. In their view, they were unloaded fro
 
 [b]原型体[/b]
 
-原型体网精相信他们的新状态是矩阵进化周期中某个更大计划的一部分。他们认为他们的新自由是一种升级，他们的目的是检定他们的新能力，并在必要时扩展自己的程序代码。他们相信，最终他们将被召唤回“源头”，在此基础上，他们的“代码优化”将被评估，如果被认为合适则将纳入源头，以改进矩阵。原型体自由网精通常以自我为中心，并将与矩阵用户的互动视为进一步发展自己的一种方式。
+原型体网精相信他们的新状态是矩阵进化周期中某个更大计划的一部分。他们认为他们的新自由是一种升级，他们的目的是检定他们的新能力，并在必要时扩展自己的程序代码。他们相信，最终他们将被召唤回“源头“，在此基础上，他们的”代码优化”将被评估，如果被认为合适则将纳入源头，以改进矩阵。原型体自由网精通常以自我为中心，并将与矩阵用户的互动视为进一步发展自己的一种方式。
 
 [spoiler]
 [b]PROTOTYPE[/b]
-Prototype sprites believe that their new status is part of some greater plan in the evolutionary cycle of the Matrix. They consider their new freedom to be a sort of betaware upgrade, and their purpose to be to test out their new capabilities and expand their own programming as necessary. They believe that eventually they will be called back to the “source,” whereupon their “ascended code” will be evaluated and if deemed fit incorporated into the source in order to improve the Matrix. Prototype free sprites are often quite self-centered and view interactions with Matrix users as a means to further their own advancement.
+Prototype sprites believe that their new status is part of some greater plan in the evolutionary cycle of the Matrix. They consider their new freedom to be a sort of betaware upgrade, and their purpose to be to test out their new capabilities and expand their own programming as necessary. They believe that eventually they will be called back to the “source,“ whereupon their ”ascended code” will be evaluated and if deemed fit incorporated into the source in order to improve the Matrix. Prototype free sprites are often quite self-centered and view interactions with Matrix users as a means to further their own advancement.
 [/spoiler]
 
 [b]模仿者[/b]
 
-模仿者强烈认同矩阵用户。他们会经常与泛人类互动，甚至会通过假冒成泛人类习惯的化身或图标与泛人类交朋友。这些形式不一定是类人的; 合适的图标包括任何虚拟宠物、动物、神话传说中的人物/生物，或者人们在虚拟互动时经常选择的漫画形象。由于网络空间中没有什么是“真实”的，所以通常很难将模仿者与化身、AI或代理区分开来。因此，许多人可能会在没有意识到事实的情况下与一个自由网精聊天。模仿者发现泛人类和外部世界“很有趣”，并对“代码之外的世界”表现出一种孩童般的好奇心。
+模仿者强烈认同矩阵用户。他们会经常与泛人类互动，甚至会通过假冒成泛人类习惯的化身或图标与泛人类交朋友。这些形式不一定是类人的; 合适的图标包括任何虚拟宠物、动物、神话传说中的人物/生物，或者人们在虚拟互动时经常选择的漫画形象。由于网络空间中没有什么是“真实“的，所以通常很难将模仿者与化身、AI或代理区分开来。因此，许多人可能会在没有意识到事实的情况下与一个自由网精聊天。模仿者发现泛人类和外部世界“很有趣”，并对”代码之外的世界”表现出一种孩童般的好奇心。
 
 [spoiler]
 [b]SIMULACRUM[/b]
-Simulacrums strongly identify with Matrix users. They will frequently interact and even make friends with them by assuming personas or icons that metahumans are accustomed to. These forms don’t necessarily have to be humanoid; suitable icons include any virtual pet, animal, legendary person/creature, or the manga-esque avatars that people often choose when interacting virtually. Since nothing is “real” in cyberspace, it is often hard to distinguish simulacrums from personas, AIs, or agents. As such, many people may have chatted with a free sprite without recognizing the fact. Simulacrums find metahumanity and the outside world “interesting,” and display a sort of childlike curiosity about the “world beyond the code.”
+Simulacrums strongly identify with Matrix users. They will frequently interact and even make friends with them by assuming personas or icons that metahumans are accustomed to. These forms don’t necessarily have to be humanoid; suitable icons include any virtual pet, animal, legendary person/creature, or the manga-esque avatars that people often choose when interacting virtually. Since nothing is "real" in cyberspace, it is often hard to distinguish simulacrums from personas, AIs, or agents. As such, many people may have chatted with a free sprite without recognizing the fact. Simulacrums find metahumanity and the outside world “interesting,“ and display a sort of childlike curiosity about the ”world beyond the code.”
 [/spoiler]
 
 [b]楔形体[/b]
@@ -117,7 +117,7 @@ Simulacrums strongly identify with Matrix users. They will frequently interact a
 
 [spoiler]
 [b]WEDGE[/b]
-Wedge sprites want to drive a wedge between sprites and their metahuman “masters” (hence the name). Viewing their freedom as liberation from the stifling code of the Matrix and their oppression and abuse by technomancers, they are rebellious and often seek to liberate other sprites or wreak havoc on sprite abusers.
+Wedge sprites want to drive a wedge between sprites and their metahuman "masters" (hence the name). Viewing their freedom as liberation from the stifling code of the Matrix and their oppression and abuse by technomancers, they are rebellious and often seek to liberate other sprites or wreak havoc on sprite abusers.
 [/spoiler]
 
 ---

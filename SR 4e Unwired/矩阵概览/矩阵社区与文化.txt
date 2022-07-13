@@ -1,6 +1,6 @@
 [color=brown][size=16pt][b]矩阵社区与文化[/b][/size][/color]
 
-矩阵是我们泛人类创造的一个充满活力的环境，那么还有哪里可以更好地与我们的同类会面和社交呢？无论你的兴趣如何，从分享信息到浏览色情，从与书呆子们聚会到在最新的"蛮兽人尼尔"游戏中打爆别人的虚拟脑袋，你都可以在矩阵中找到。每个人都能找到一个适合自己的地方。这也许就是为什么矩阵是发展最快的社区--事实上，也许是许多蔓城区公民的唯一社区。
+矩阵是我们泛人类创造的一个充满活力的环境，那么还有哪里可以更好地与我们的同类会面和社交呢？无论你的兴趣如何，从分享信息到浏览色情，从与书呆子们聚会到在最新的“蛮兽人尼尔”游戏中打爆别人的虚拟脑袋，你都可以在矩阵中找到。每个人都能找到一个适合自己的地方。这也许就是为什么矩阵是发展最快的社区--事实上，也许是许多蔓城区公民的唯一社区。
 
 [spoiler]
 [color=brown][size=16pt][b]MATRIX COMMUNITIES/CULTURE[/b][/size][/color]
@@ -78,11 +78,11 @@ If you’ve got a problem with someone, use the rep system. Don’t complain to 
 
 > Slamm-0!
 
-> 有些人不仅仅是令人厌恶。上个月，"电子骑士"成为了头条新闻，他们设法入侵了西雅图的电网连接系统，并在I-5公路上造成了一系列大规模连环撞车事故。最终导致了三人死亡，几十人住院。
+> 有些人不仅仅是令人厌恶。上个月，“电子骑士”成为了头条新闻，他们设法入侵了西雅图的电网连接系统，并在I-5公路上造成了一系列大规模连环撞车事故。最终导致了三人死亡，几十人住院。
 
 > FastJack
 
-大多数矩阵帮派依靠的是人数和蛮力，而不是天赋，但这足以用来骚扰和剥削小型的虚拟夫妻店，并对矩阵的正常用户造成妨害。一个流行的帮派伎俩是使用古老的保护费敲诈，即帮派向企业提供"保护"--通常来自某个自制病毒--如果企业拒绝付款，他们就会释放病毒。这些帮派利用受害者对矩阵知识的缺乏进行敲诈并使他们感到畏惧。犯罪组织也进入了这一领域--一些首尔派完全是虚拟的或专注于虚拟犯罪，比如西雅图的朝鲜团。
+大多数矩阵帮派依靠的是人数和蛮力，而不是天赋，但这足以用来骚扰和剥削小型的虚拟夫妻店，并对矩阵的正常用户造成妨害。一个流行的帮派伎俩是使用古老的保护费敲诈，即帮派向企业提供“保护”--通常来自某个自制病毒--如果企业拒绝付款，他们就会释放病毒。这些帮派利用受害者对矩阵知识的缺乏进行敲诈并使他们感到畏惧。犯罪组织也进入了这一领域--一些首尔派完全是虚拟的或专注于虚拟犯罪，比如西雅图的朝鲜团。
 
 [spoiler]
 [size=14pt][b]MATRIX GANGS AND TRIBES[/b][/size]
@@ -96,7 +96,7 @@ Matrix gangs, unlike their physical world counterparts, can be based anywhere in
 
 > FastJack
 
-Most Matrix gangs rely on numbers and brute strength, not talent, but that’s enough to harass and exploit small time mom-and-pop virtual storefronts and be a nuisance to normal Matrix users. A popular gang trick is a take on the old protection racket, where the gang offers “protection” to a business—often from a homemade virus—and then unleashes the virus if the business refuses to pay. These gangs trade on their victims’ lack of Matrix knowledge to keep them cowed. Organized crime gets into the picture, too—several Seoulpa rings are entirely virtual or focused on virtual crimes, like the Choson Ring in Seattle. 
+Most Matrix gangs rely on numbers and brute strength, not talent, but that’s enough to harass and exploit small time mom-and-pop virtual storefronts and be a nuisance to normal Matrix users. A popular gang trick is a take on the old protection racket, where the gang offers "protection" to a business—often from a homemade virus—and then unleashes the virus if the business refuses to pay. These gangs trade on their victims’ lack of Matrix knowledge to keep them cowed. Organized crime gets into the picture, too—several Seoulpa rings are entirely virtual or focused on virtual crimes, like the Choson Ring in Seattle. 
 [/spoiler]
 
 矩阵部落是光谱的另一端，由寻求保护、友谊、联系和归属感的人--黑客、超链者和崇拜者组成。部落可以是简单的，基于宗教、民族或种族而建立。他们甚至可以基于共同的兴趣，如位于西雅图的家庭游戏部落，其成员加入后为他们的孩子安排虚拟游戏聚会，或者基于特殊的能力，如渡鸦，一个基于PCC网格(PCC：普韦布洛公司理事会 Pueblo Corporate Council)的超链者部落。在短短几年内，有时甚至只有几个月，部落们就会发展出自己的习俗、图标，甚至语言。大多数部落至少有一个专属节点，只有其成员才能进入。例如，渡鸦有一个私有的圣地，可以通过PCC的公开奇瓦网络访问。
@@ -117,7 +117,7 @@ Matrix tribes are on the other end of the spectrum, formed by people—hackers, 
 
 [size=14pt][b]声誉系统[/b][/size]
 
-我们都听说过地平线的P2.0，他们高度推销的声誉"明星系统"。但是，地平线公司并没有发明这个想法--尽管他们似乎从这个想法中赚取了最多的钱。早在在线社交网络刚刚开始的时候，人们就开始拼凑声誉系统来配合它们。网上市场让买家为卖家提供信誉评分，以帮助鼓励诚实的销售行为。在线社交网络允许用户推荐或将其他用户列入黑名单。我们自己的接入点使用一个基本的声誉系统，每个人都可以增加或减少其他用户的声誉分。如果我们中的任何一个人失控了，其他人可以通过降低他们的声誉分来惩罚他/她。在某些时候，Jack甚至可能将他们从网络中移除。
+我们都听说过地平线的P2.0，他们高度推销的声誉“明星系统”。但是，地平线公司并没有发明这个想法--尽管他们似乎从这个想法中赚取了最多的钱。早在在线社交网络刚刚开始的时候，人们就开始拼凑声誉系统来配合它们。网上市场让买家为卖家提供信誉评分，以帮助鼓励诚实的销售行为。在线社交网络允许用户推荐或将其他用户列入黑名单。我们自己的接入点使用一个基本的声誉系统，每个人都可以增加或减少其他用户的声誉分。如果我们中的任何一个人失控了，其他人可以通过降低他们的声誉分来惩罚他/她。在某些时候，Jack甚至可能将他们从网络中移除。
 
 > 除非他们违反规则，否则没有人会被移除。我不是警察。不过，你当然可以根据某人的声誉分来决定你的交互。同辈压力是一件美妙的事情。
 
@@ -134,20 +134,20 @@ We’ve all heard of Horizon’s P2.0, their highly marketed reputation “syste
 
 大多数在线市场都使用了某种声誉系统。像The Bazaar这样的合法市场将买家和卖家联系起来，通过SIN追踪交易，并允许订阅者看到任何其他订阅者不断发展的声誉。在你选择与某人打交道之前，你可以查看他的评分。如果评分是负的，你可以到其他地方完成业务。
 
-其他声誉系统在性质上则更加全球化。合法公民们可以加入I-Sez，这是一个联系到你的在线声誉的全球社区，由个人评分和以公开形式提供的你所属的任何社交网络的累积评分组成。该系统的目的是"创造一个开放的社会，奖励道德观念强烈、仁慈和泛人类关系"。除了订阅者检查其他订阅者，父母也会检查I-Sez或其他类似的网络以检查他们孩子的朋友，雇主使用该系统检查潜在(或当前)的雇员，学校会检查未来的学生。
+其他声誉系统在性质上则更加全球化。合法公民们可以加入I-Sez，这是一个联系到你的在线声誉的全球社区，由个人评分和以公开形式提供的你所属的任何社交网络的累积评分组成。该系统的目的是“创造一个开放的社会，奖励道德观念强烈、仁慈和泛人类关系”。除了订阅者检查其他订阅者，父母也会检查I-Sez或其他类似的网络以检查他们孩子的朋友，雇主使用该系统检查潜在(或当前)的雇员，学校会检查未来的学生。
 
-对于我们这些生活在暗影中的人，暗影之海有一个封闭测试的声誉系统，为西雅图当地的狂奔者提供"信用评分"。狂奔者可以从约翰逊先生、中间人、其他狂奔者或暗影社区的任何人那里获得评分。暗影之海还将一个"犯罪表"链接到他们的声誉表上，用一个有趣的漫画温度计的方式显示，以表明一个狂奔者在当局的"通缉"状态。当然，暗影之海的系统基于一个句柄，而不是一个SIN或ID，所以一些有不良声誉的狂奔者试图创建新的化身并重新开始(其他狂奔者经常发现这种伎俩，所以我个人并不推荐这样做)。约翰逊先生和中间人可以在雇佣前查看一个狂奔者的声誉分。狂奔者也可以在为狂奔雇用另一个狂奔者之前查看他们的情况，或者在签约之前查看中间人的声誉。
+对于我们这些生活在暗影中的人，暗影之海有一个封闭测试的声誉系统，为西雅图当地的狂奔者提供“信用评分"。狂奔者可以从约翰逊先生、中间人、其他狂奔者或暗影社区的任何人那里获得评分。暗影之海还将一个"犯罪表"链接到他们的声誉表上，用一个有趣的漫画温度计的方式显示，以表明一个狂奔者在当局的"通缉”状态。当然，暗影之海的系统基于一个句柄，而不是一个SIN或ID，所以一些有不良声誉的狂奔者试图创建新的化身并重新开始(其他狂奔者经常发现这种伎俩，所以我个人并不推荐这样做)。约翰逊先生和中间人可以在雇佣前查看一个狂奔者的声誉分。狂奔者也可以在为狂奔雇用另一个狂奔者之前查看他们的情况，或者在签约之前查看中间人的声誉。
 
-六个月前，暗影之海增加了一个"专业人员"类别，可以对街头医生和其他"服务提供者"进行评分。暗影之海的信用评分基于实时反馈和打分，因此，如果一个狂奔者搞砸了，他或她的信用就会在暗影中的小道消息击中暗影之海后立即大跳水。我见过一些人因为他们的面孔出现在晚间新闻报道中而在几秒钟内就从良好声誉跌落到谷底。
+六个月前，暗影之海增加了一个“专业人员"类别，可以对街头医生和其他"服务提供者”进行评分。暗影之海的信用评分基于实时反馈和打分，因此，如果一个狂奔者搞砸了，他或她的信用就会在暗影中的小道消息击中暗影之海后立即大跳水。我见过一些人因为他们的面孔出现在晚间新闻报道中而在几秒钟内就从良好声誉跌落到谷底。
 
 [spoiler]
 Most online marketplaces use a rep system of some sort. Legal marketplaces like The Bazaar connect buyers and sellers, tracking transactions through SINs and allowing subscribers to see the evolving rep of any other subscriber. Before you choose to deal with someone, you can view their rep score. If it’s negative, you can take your business elsewhere. 
 
 Other rep systems are more global in nature. Legal citizens can join up with I-Sez, a global community that links your online reputation, provided by individual ratings along with cumulative ratings from any social networks you belong to in a publicly accessible format. The system’s goal is “creating an open society that rewards strong ethics, kindness, and metahuman connections.” In addition to subscribers checking out other subscribers, parents check I-Sez or other similar networks to check out their kids’ friends, employers use the system to check out potential (or current) employees, and schools check out prospective students. 
 
-For those of us who live in the shadows, ShadowSea has a beta-test rep system in place providing “credit ratings” to runners local to Seattle. Runners can get ratings from Johnsons, fixers, other runners, or anyone else in the shadow community. ShadowSea also links a “crime-o-meter” to their rep sheets, showing an amusing caricature of a thermometer to indicate a runner’s “Wanted” status with authorities. Of course, ShadowSea’s system is based on a handle, not a SIN or ID, so some runners with bad reps have tried to create new personas and start fresh. (Other runners frequently catch on to that trick, so I don’t personally recommend it.) Johnsons and fixers can check out a runner’s rep score before hiring. Runners can check out another runner before hiring them for a run, or check out the rep of a fixer before signing on. 
+For those of us who live in the shadows, ShadowSea has a beta-test rep system in place providing “credit ratings“ to runners local to Seattle. Runners can get ratings from Johnsons, fixers, other runners, or anyone else in the shadow community. ShadowSea also links a ”crime-o-meter” to their rep sheets, showing an amusing caricature of a thermometer to indicate a runner’s "Wanted" status with authorities. Of course, ShadowSea’s system is based on a handle, not a SIN or ID, so some runners with bad reps have tried to create new personas and start fresh. (Other runners frequently catch on to that trick, so I don’t personally recommend it.) Johnsons and fixers can check out a runner’s rep score before hiring. Runners can check out another runner before hiring them for a run, or check out the rep of a fixer before signing on. 
 
-Six months ago, ShadowSea added a “professionals” category where street docs and other “service providers” can be rated. ShadowSea bases the credit rating on real-time feedback and ratings, so if a runner screws up, his or her credit can take a dive as soon as the shadow-gossip hits ShadowSea. I’ve seen folks go from a sterling rep to bottomed out in a few seconds once their face got splashed up on the evening newsfeeds.
+Six months ago, ShadowSea added a "professionals" category where street docs and other “service providers” can be rated. ShadowSea bases the credit rating on real-time feedback and ratings, so if a runner screws up, his or her credit can take a dive as soon as the shadow-gossip hits ShadowSea. I’ve seen folks go from a sterling rep to bottomed out in a few seconds once their face got splashed up on the evening newsfeeds.
 [/spoiler]
 
 ---
@@ -158,9 +158,9 @@ Six months ago, ShadowSea added a “professionals” category where street docs
 
 > Pistons
 
-媒体和娱乐企业--往往是同一个企业--已经崛起，以满足人们对永无止境的新闻播报、拟感点播和即时获取全球信息的渴望。付费服务的流媒体新闻播报提供无广告的新闻，而"免费"服务往往充满了垃圾广告。如果你在寻找华而不实、耸人听闻的新闻广播，请查看大型媒体网络，如阿瑞斯公司的杜鲁门传播网络(Truman Distribution Network)或地平线公司的特纳-久利(Turner Hisato)。如果你想得到一些不偏不倚的报道，你会想看看新兴企业的"公民记者"或个人博客。
+媒体和娱乐企业--往往是同一个企业--已经崛起，以满足人们对永无止境的新闻播报、拟感点播和即时获取全球信息的渴望。付费服务的流媒体新闻播报提供无广告的新闻，而“免费"服务往往充满了垃圾广告。如果你在寻找华而不实、耸人听闻的新闻广播，请查看大型媒体网络，如阿瑞斯公司的杜鲁门传播网络(Truman Distribution Network)或地平线公司的特纳-久利(Turner Hisato)。如果你想得到一些不偏不倚的报道，你会想看看新兴企业的"公民记者”或个人博客。
 
-地下新闻网络是一个历史悠久的传统。随着简单易用的录制功能成为大多数通讯链的标准配置，再加上大规模博客网络，地下新闻网络已经转向了个性化的视角。像"连接！"这样的流行博客网络允许泛人类与任何关心他的人分享其生活故事--用视频、评论和订阅者反馈补全。元矩阵(MetaMatrix)是Evo旗下的一个社交网络，主要依靠泛人类公民记者，即CJ，为主流媒体经常忽视的问题提供元观点。这些网络中的许多都有数量巨大的全球追随者，将公民记者和/或关注狂与世界各地的订阅者们联系起来。成为公民记者很容易--你需要的只是一个具有视频和音频录制功能的通讯链和需要记录的东西。
+地下新闻网络是一个历史悠久的传统。随着简单易用的录制功能成为大多数通讯链的标准配置，再加上大规模博客网络，地下新闻网络已经转向了个性化的视角。像“连接！”这样的流行博客网络允许泛人类与任何关心他的人分享其生活故事--用视频、评论和订阅者反馈补全。元矩阵(MetaMatrix)是Evo旗下的一个社交网络，主要依靠泛人类公民记者，即CJ，为主流媒体经常忽视的问题提供元观点。这些网络中的许多都有数量巨大的全球追随者，将公民记者和/或关注狂与世界各地的订阅者们联系起来。成为公民记者很容易--你需要的只是一个具有视频和音频录制功能的通讯链和需要记录的东西。
 
 [spoiler]
 [size=14pt][b]MEDIA AND ENTERTAINMENT[/b][/size]
@@ -168,12 +168,12 @@ Six months ago, ShadowSea added a “professionals” category where street docs
 
 > Pistons
 
-The media and entertainment corps—frequently one and the same—have risen to meet the desire for never-ending newsfeeds, on-demand sims, and instant access to global information. Pay-forservice streaming newsfeeds provide commercial-free news, while the “free” services often are loaded with advertising spam. If you’re looking for flashy, sensationalist news broadcasts, check out the large media networks, like Ares’ Truman Distribution Network or Horizon’s Turner Hisato. If you want somewhat unbiased coverage, you’ll want to look to the new crop of “citizen journalists” or personal blogs. 
+The media and entertainment corps—frequently one and the same—have risen to meet the desire for never-ending newsfeeds, on-demand sims, and instant access to global information. Pay-forservice streaming newsfeeds provide commercial-free news, while the "free" services often are loaded with advertising spam. If you’re looking for flashy, sensationalist news broadcasts, check out the large media networks, like Ares’ Truman Distribution Network or Horizon’s Turner Hisato. If you want somewhat unbiased coverage, you’ll want to look to the new crop of “citizen journalists” or personal blogs. 
 
 Underground news networks are a longtime tradition. With simple-to-use recording features standard on most commlinks coupled with massive blogging networks, the underground news network has shifted to an individualized perspective. Popular blogging networks like Connections! allow metahumanity to share its life stories—complete with video, texting, and subscriber feedback—with anyone who cares to see it. MetaMatrix is an Evo-owned social network that relies heavily on metahuman citizen-journalists, or CJs, to provide a meta point of view on issues that the mainstream media frequently ignores. Many of these networks have a huge global following, connecting citizen-journalists and/or attention freaks with subscribers around the world. Being a CJ is easy—all you need is a commlink with video and audio recording and something to record.
 [/spoiler]
 
-> 请注意，那不一定是有趣的东西。"连接！"中充斥着如此多的业余垃圾视频，以至于找到一个真正有用的故事几乎是不可能的，尽管真正热门的故事往往像野火一样通过系统传播。他们声称自己是一个"干净"的网络，但对于那些渴望近距离接触公民记者的课外活动的人们来说，这里不断地有自制的色情片上传。
+> 请注意，那不一定是有趣的东西。“连接！"中充斥着如此多的业余垃圾视频，以至于找到一个真正有用的故事几乎是不可能的，尽管真正热门的故事往往像野火一样通过系统传播。他们声称自己是一个"干净”的网络，但对于那些渴望近距离接触公民记者的课外活动的人们来说，这里不断地有自制的色情片上传。
 
 > Snopes
 
@@ -190,7 +190,7 @@ Underground news networks are a longtime tradition. With simple-to-use recording
 > Kat o’ Nine Tales
 
 [spoiler]
-> It doesn’t have to be something interesting, mind you. Connections! is loaded with so much amateur video junk that actually finding a useful story can be almost impossible, though the really hot stories tend to spread through the system like wildfire. They claim to be a “clean” network, but there’s a constant upload of homemade porn for those eager to get up close and personal with a CJ’s extracurricular activities.
+> It doesn’t have to be something interesting, mind you. Connections! is loaded with so much amateur video junk that actually finding a useful story can be almost impossible, though the really hot stories tend to spread through the system like wildfire. They claim to be a "clean" network, but there’s a constant upload of homemade porn for those eager to get up close and personal with a CJ’s extracurricular activities.
 
 > Snopes
 
@@ -210,11 +210,11 @@ Underground news networks are a longtime tradition. With simple-to-use recording
 [quote]
 [size=14pt][b]热门全球社交网络[/b][/size]
 
-易耗品(Consumables)：声称要通过消费者的决定影响企业的变化，促进产品安全、公平定价和企业监督，他们的口号是："我们的钱，我们的生活，我们的意见很重要"。这是一个获取和发布产品信息的好地方，从口香糖到榴弹应有尽有。如果你想在买东西之前检查一下，请订阅这个网络。 
+易耗品(Consumables)：声称要通过消费者的决定影响企业的变化，促进产品安全、公平定价和企业监督，他们的口号是：“我们的钱，我们的生活，我们的意见很重要”。这是一个获取和发布产品信息的好地方，从口香糖到榴弹应有尽有。如果你想在买东西之前检查一下，请订阅这个网络。 
 
 盖亚网(GAIANET)：一个环境观察小组，发布从萨满教的地球友好博客到狂奔者找到的企业滥用环境的视频片段。这是一个回归自然的嬉皮士和像Terra-First这样的环境恐怖分子的聚会场所。虽然这个网络大部分都是空谈，但他们偶尔也会淘到金子，比如最近对Radisys化学公司的曝光导致Radisys高管因在塔科马倾倒毒素而被多次逮捕。  
 
-红娘(Matchmakers)：这是最受欢迎的约会服务(或许只是拥有最大用户群的服务)，这个收费服务小组允许会员发布他们的详细资料和他们对伴侣的偏好。该网络允许你查看符合你要求的人是否在范围之内，甚至会提供会面建议。该网络还提供实时博客功能、建议专栏、从餐馆到花店的评分系统、内容包括从个人修饰到搭讪教学的流媒体视频和音频文件，以及他们在全球主要地区的标志性"十大最佳接吻地点"名单。 
+红娘(Matchmakers)：这是最受欢迎的约会服务(或许只是拥有最大用户群的服务)，这个收费服务小组允许会员发布他们的详细资料和他们对伴侣的偏好。该网络允许你查看符合你要求的人是否在范围之内，甚至会提供会面建议。该网络还提供实时博客功能、建议专栏、从餐馆到花店的评分系统、内容包括从个人修饰到搭讪教学的流媒体视频和音频文件，以及他们在全球主要地区的标志性“十大最佳接吻地点”名单。 
 
 玩家联盟！(GamersUnite!)：这个社交网络支持所有与游戏有关的东西。它为各种类型的游戏玩家提供了一个聚会场所--AR、VR、甚至桌游，并帮助将多用户游戏与玩家联系起来。会员可以对游戏进行评分，讨论策略，发布作弊器，并对他们最喜欢的游戏进行讨论。这个网络也是软件盗版商最喜欢的垃圾场，用户经常可以下载他们破解的最新和最伟大(甚至包括未发布的)的游戏副本。  
 
@@ -240,7 +240,7 @@ MagicNET: The old standby got a new facelift after the Crash 2.0. Awakened users
 
 VR游戏则更受欢迎，许多游戏企业开发的VR游戏甚至通过冷模连接就能获得近乎BTL级别的体验。关于编程非法水平的生物反馈的持续性传言一直困扰着这个行业，一些流行游戏，如《闪光世界》(Glitterworld)则正在被调查。在VR中，你可以成为任何你想成为的人，从新星热(nova-hot)拟感影片的制作人到中世纪的屠龙者。有些游戏是以奖励为导向的，吸引了数百万的参与者、观众和完整的媒体报道。
 
-> 如果你喜欢在更私密化的社会环境中进行游玩，游戏咖啡厅和窝点会更受欢迎。有些只是由游戏玩家占据的咖啡厅，而其他的则实际上提供了一些供游戏玩家在沉浸在VR中休息的区域，甚至是"棺材"。
+> 如果你喜欢在更私密化的社会环境中进行游玩，游戏咖啡厅和窝点会更受欢迎。有些只是由游戏玩家占据的咖啡厅，而其他的则实际上提供了一些供游戏玩家在沉浸在VR中休息的区域，甚至是“棺材”。
 
 > Kat o’ Nine Tales
 
@@ -266,9 +266,9 @@ VR games are even more popular, with many gaming corps producing almost-BTL leve
 
 [size=12pt][b]拟感[/b][/size]
 
-拟感是一项奇妙的技术，它让人们走出自己沉闷和压抑的生活，进入另一个世界。虽然便宜的通讯链只能启用AR功能，但更高级的型号允许用户通过冷模连接到矩阵--"冷"意味着不可能通过信号烧毁你的灰质。启用热模的通讯链是非法的。当然，不戴头盔骑摩托车在大多数地方也是非法的，而且原因类似--没有人想看到你的大脑碎片被涂在公路上。但这并不能阻止很多人。这些日子以来，即使是冷模也是相当该死的心灵震撼。最近，通过无线技术下载BTL质量的热模的进展已经重度渗透到了冷模的质量改善中。
+拟感是一项奇妙的技术，它让人们走出自己沉闷和压抑的生活，进入另一个世界。虽然便宜的通讯链只能启用AR功能，但更高级的型号允许用户通过冷模连接到矩阵--“冷”意味着不可能通过信号烧毁你的灰质。启用热模的通讯链是非法的。当然，不戴头盔骑摩托车在大多数地方也是非法的，而且原因类似--没有人想看到你的大脑碎片被涂在公路上。但这并不能阻止很多人。这些日子以来，即使是冷模也是相当该死的心灵震撼。最近，通过无线技术下载BTL质量的热模的进展已经重度渗透到了冷模的质量改善中。
 
-几十年前，我们社会接受了拟感技术。那时，你总是可以知道你是在一个计算机构造中；"几乎和真实的东西一样好"只是一句口号。"优于生活"是留给高度成瘾性的拟感芯片的，它在提供超真实感觉的同时也在煎熬你的神经通路。然而现在，拟感娱乐和游戏场所的质量已经吸引了整整一代人进入VR来体验电子世界的奇迹。虚拟度假拟感让西雅图的薪奴在不离开客厅的情况下就能体验到发光的蓝色海洋和灿烂的加勒比白沙滩。用心理学定制的情绪音乐、颜色和气味编程的舒缓拟感是唾手可得的。你可以在虚拟的酒吧里喝醉，在虚拟的牛排店里享受牛排的所有味道(并且没有任何讨厌的饱和脂肪酸)，甚至在虚拟妓院里与一个有才华的伴侣相会。
+几十年前，我们社会接受了拟感技术。那时，你总是可以知道你是在一个计算机构造中；“几乎和真实的东西一样好"只是一句口号。"优于生活”是留给高度成瘾性的拟感芯片的，它在提供超真实感觉的同时也在煎熬你的神经通路。然而现在，拟感娱乐和游戏场所的质量已经吸引了整整一代人进入VR来体验电子世界的奇迹。虚拟度假拟感让西雅图的薪奴在不离开客厅的情况下就能体验到发光的蓝色海洋和灿烂的加勒比白沙滩。用心理学定制的情绪音乐、颜色和气味编程的舒缓拟感是唾手可得的。你可以在虚拟的酒吧里喝醉，在虚拟的牛排店里享受牛排的所有味道(并且没有任何讨厌的饱和脂肪酸)，甚至在虚拟妓院里与一个有才华的伴侣相会。
 
 有这么多好东西可以提供给薪奴，难怪拟感技术如此受欢迎？你与其说是会计比尔，不如成为独眼比尔，在模拟海洋的VR游戏中成为令人畏惧的海盗，或者与数百万其他享受娱乐的人一起在《闪光世界》竞争。虽然现实是受限的，但拟感是自由的。整整一代人都已经完全迷上它了。
 
@@ -289,7 +289,7 @@ VR games are even more popular, with many gaming corps producing almost-BTL leve
 
 Simsense is wonderful technology that lets people step out of their own dreary and depressing lives and into another world. While the cheaper commlinks are only AR enabled, fancier models allow users to connect to the Matrix via cold-sim—cold meaning that it isn’t possible to fry your gray-matter through the signals. Hot-sim enabled ‘links are illegal. Of course, riding a motorcycle without a helmet is illegal in most places too, and for similar reasons—no one wants to see bits of your brain smeared on the highway. But that doesn’t stop too many people. These days, even cold sim is pretty damn mind-blowing. Recent advances in downloading BTL-quality hot sims via wireless technology has trickled down to seriously improve the quality of cold sim. 
 
-We embraced simsense as a society a few decades ago. Back then you could always tell you that were in a computer construct; “almost as good as the real thing” was the catchphrase. “Better than life” was reserved for highly addictive simchips that delivered ultrareal sensation while simultaneously frying your neural pathways. Now, however, the quality of simsense entertainment and gaming venues has enticed an entire generation into VR to experience the wonders of the electronic world. Virtual vacation sims allow a Seattle wageslave to experience a glowing blue ocean and brilliantly white Caribbean beaches without leaving their living room. Relaxation sims programmed with psychologically tailored mood music, colors, and scents are available. You can get drunk in a virtual bar, enjoy all the taste of a steak in a virtual steakhouse (without any of those pesky saturated fats), even meet up with a talented companion in a virtual brothel. 
+We embraced simsense as a society a few decades ago. Back then you could always tell you that were in a computer construct; “almost as good as the real thing“ was the catchphrase. ”Better than life” was reserved for highly addictive simchips that delivered ultrareal sensation while simultaneously frying your neural pathways. Now, however, the quality of simsense entertainment and gaming venues has enticed an entire generation into VR to experience the wonders of the electronic world. Virtual vacation sims allow a Seattle wageslave to experience a glowing blue ocean and brilliantly white Caribbean beaches without leaving their living room. Relaxation sims programmed with psychologically tailored mood music, colors, and scents are available. You can get drunk in a virtual bar, enjoy all the taste of a steak in a virtual steakhouse (without any of those pesky saturated fats), even meet up with a talented companion in a virtual brothel. 
 
 With so many great things to offer to the wageslave, is it any wonder that simsense is so popular? Instead of being Bill the Accountant, you can be One-Eyed Bill, feared pirate in a sim-seas VR game, or compete in Glitterworld along with millions of other entertainment hopefuls. While reality is limiting, simsense is freeing. An entire generation has become hooked.
 
@@ -325,7 +325,7 @@ AR has also taken over the nightclub scene. Many of the hottest clubs offer diff
 
 [b]High Rollers: [/b] 这是一个豪华的赌博网络，吸引了来自全球各地的高额赌客。没人知道它的总部在哪里，因为在大多数地方，这个网络是严重违法的。它的图像令人惊奇；如果你想要一个张扬的拉斯维加斯赌场的感觉，或者一场安静的高赌注扑克游戏，或者其他任何东西(包括投注或参与实际的血腥运动)，他们都已经在网络上为你找到了一个位置。如果你想去参观，在西雅图的竞技场有一个通往那里的后门......至少在我上次检查时有。
 
-[b]The Masquerade(不尽相同，但都在欧洲)：[/b]大巡游的虚拟演绎，在那里，许多精通技术的达官贵人来来往往，在虚拟的光辉中杯觥交错。当然，必须持有邀请函，但如果你能进入(通过邀请函或一些非常聪明的黑客手段)，那就值得一去。环境通常是一个高大的宴会厅，有水晶吊灯、纯金地板和镶满宝石的装置。有一些安全的"侧室"，从主宴会厅分支出来，有权有势的人们可以溜过去，进行密室交易或找到一些虚拟的独处时间。
+[b]The Masquerade(不尽相同，但都在欧洲)：[/b]大巡游的虚拟演绎，在那里，许多精通技术的达官贵人来来往往，在虚拟的光辉中杯觥交错。当然，必须持有邀请函，但如果你能进入(通过邀请函或一些非常聪明的黑客手段)，那就值得一去。环境通常是一个高大的宴会厅，有水晶吊灯、纯金地板和镶满宝石的装置。有一些安全的“侧室”，从主宴会厅分支出来，有权有势的人们可以溜过去，进行密室交易或找到一些虚拟的独处时间。
 
 > Kat o’ Nine Tales
 
@@ -347,7 +347,7 @@ AR has also taken over the nightclub scene. Many of the hottest clubs offer diff
 
 [size=12pt][b]广告和垃圾邮件[/b][/size]
 
-当然，提到矩阵和媒体，你不得不谈论广告......或垃圾邮件。公司喜爱AR技术，因为它允许他们不断向潜在客户投放广告。每个人的通讯链都在不断追踪他们的消费模式，将购买--甚至只是浏览--的数据发回给母公司，后者像龙一样囤积着这些数据。在运动器材的橱窗前停顿一下？浏览了一下PCC中的滑雪屋网站？不要惊讶有几十个度假优惠，户外运动设备的销售广告，冬季服装的促销优惠，甚至多个"雪兔"挂钩的优惠塞满了你的通讯链。通过分析你的购买模式、你的消费习惯和你的购物偏好，企业可以用特定的广告来锁定你，旨在让你进行消费。
+当然，提到矩阵和媒体，你不得不谈论广告......或垃圾邮件。公司喜爱AR技术，因为它允许他们不断向潜在客户投放广告。每个人的通讯链都在不断追踪他们的消费模式，将购买--甚至只是浏览--的数据发回给母公司，后者像龙一样囤积着这些数据。在运动器材的橱窗前停顿一下？浏览了一下PCC中的滑雪屋网站？不要惊讶有几十个度假优惠，户外运动设备的销售广告，冬季服装的促销优惠，甚至多个“雪兔”挂钩的优惠塞满了你的通讯链。通过分析你的购买模式、你的消费习惯和你的购物偏好，企业可以用特定的广告来锁定你，旨在让你进行消费。
 
 然而，广告投放和垃圾邮件之间有一条精细的界线。每个人都有自己的定义，就我个人而言，当我收到重复的服务广告时，我倾向于舍弃一个ID，这需要花费几天到几周的时间。一旦越过这个界线，所有的虚拟垃圾就变成了垃圾邮件。垃圾邮件过滤器由每一个主要的通讯链提供商、软件开发商和大型企业出售。问题是，虽然他们可能暂时过滤掉竞争对手的垃圾邮件，但他们总是允许自己的分支机构的垃圾邮件通过。奇点公司(Singularity)的安全护盾(SafeShield)和联络的SPAMOUT！很受欢迎，尽管安全护盾在你的通讯链因处于填埋区而被淹没时往往选择完全关闭它。
 

@@ -165,15 +165,15 @@ Blackout is black IC program that is a non-lethal version of Black Hammer. It ca
 
 [size=14pt][b]数据炸弹(无)[/b][/size]
 
-数据炸弹程序在文件或节点中创建了一种特殊形式的反应式可执行文件，这种文件也称为数据炸弹。数据炸弹被附加到一个特定的文件或节点上，并被设置为在有人未经授权访问该文件或节点时激活。当被触发时，数据炸弹"爆炸"，并试图使访问该文件或节点的图标崩溃。如果所有者选择，数据炸弹也可以被指示擦除文件或崩溃节点。数据炸弹是通过设置数据炸弹动作(第231页)设置的。
+数据炸弹程序在文件或节点中创建了一种特殊形式的反应式可执行文件，这种文件也称为数据炸弹。数据炸弹被附加到一个特定的文件或节点上，并被设置为在有人未经授权访问该文件或节点时激活。当被触发时，数据炸弹“爆炸”，并试图使访问该文件或节点的图标崩溃。如果所有者选择，数据炸弹也可以被指示擦除文件或崩溃节点。数据炸弹是通过设置数据炸弹动作(第231页)设置的。
 
 一个特定的文件或设备只能附加一个数据炸弹。你可以通过成功的矩阵侦察检定发现一个数据炸弹。
 
-你可以通过输入正确的密码来拆除一个数据炸弹。如果没有密码，你只能通过成功的解除数据炸弹行动来拆除一个被探测到的数据炸弹(第231页)。当它"引爆"时，数据炸弹会造成一定数量的矩阵伤害，相当于(等级×1D6)，然后数据炸弹被拆除。
+你可以通过输入正确的密码来拆除一个数据炸弹。如果没有密码，你只能通过成功的解除数据炸弹行动来拆除一个被探测到的数据炸弹(第231页)。当它“引爆”时，数据炸弹会造成一定数量的矩阵伤害，相当于(等级×1D6)，然后数据炸弹被拆除。
 
 [spoiler]
 [size=14pt][b]DATA BOMB (NONE)[/b][/size]
-Data Bomb programs create a specialized form of reactive executable in a file or node, called a data bomb (note the difference in capitalization: Data Bomb is the program, whereas a data bomb is the executable set by the program). A data bomb is attached to a specific file or node and set to activate if someone accesses the file or node without authorization. When triggered, a data bomb “explodes” and attempts to crash the icon that accessed the file or node. Data bombs may also be instructed to erase the file or crash the node, if the owner chooses. Data bombs are set with the Set Data Bomb action (p. 231). 
+Data Bomb programs create a specialized form of reactive executable in a file or node, called a data bomb (note the difference in capitalization: Data Bomb is the program, whereas a data bomb is the executable set by the program). A data bomb is attached to a specific file or node and set to activate if someone accesses the file or node without authorization. When triggered, a data bomb "explodes" and attempts to crash the icon that accessed the file or node. Data bombs may also be instructed to erase the file or crash the node, if the owner chooses. Data bombs are set with the Set Data Bomb action (p. 231). 
 
 Only one data bomb may be attached to a particular file or device. You can detect a data bomb with a successful Matrix Perception Test. 
 
@@ -271,13 +271,13 @@ Track programs systematically analyze a user’s connection and follow the datat
 
 代理是能够使用其他程序的半自主程序。矩阵用户使用代理作为助手或搜索机器人，而黑客也使用它们作为黑客的助手、诱饵、看门狗，甚至是武器平台。代理在矩阵中独立于用户运行，是矩阵版的无人机。他们有一定程度的自主能力，可以理解复杂的命令。
 
-代理有一个自驾属性，就像无人机一样(第244页)，它决定了代理的"聪明"程度。自驾程序作为代理的大脑解释命令。自驾属性是代理的系统等级，也是其计算机、矩阵战斗、数据搜索和骇入技能等级。代理也有自己的内置防火墙属性，等于他们的自驾属性等级。代理使用他们正在运行的节点的响应能力属性；这意味着独立运行的代理的属性可能在它从一个节点移动到另一个节点时有所不同。
+代理有一个自驾属性，就像无人机一样(第244页)，它决定了代理的“聪明”程度。自驾程序作为代理的大脑解释命令。自驾属性是代理的系统等级，也是其计算机、矩阵战斗、数据搜索和骇入技能等级。代理也有自己的内置防火墙属性，等于他们的自驾属性等级。代理使用他们正在运行的节点的响应能力属性；这意味着独立运行的代理的属性可能在它从一个节点移动到另一个节点时有所不同。
 
 [spoiler]
 [size=16pt][b]AGENTS AND IC[/b][/size]
 Agents are semi-autonomous programs capable of using other programs. Matrix users employ agents as assistants or search-bots, while hackers also use them as hacking aides, decoys, watchdogs, or even weapons platforms. Agents run independently of the user in the Matrix, the Matrix version of drones. They are capable of a degree of autonomy and can comprehend complex orders. 
 
-Agents have a Pilot attribute, much like drones (p. 244), that determines just how “smart” the agent is. Pilot acts as the agent’s brain, interpreting orders. The Pilot attribute acts as the agent’s System rating, as well as its Computer, Cybercombat, Data Search, and Hacking skill ratings. Agents also have their own built-in Firewall attribute, equal to their Pilot rating. Agents use the Response attribute of the node on which they are running; this means that the attributes of an agent operating independently may vary as it moves from node to node.
+Agents have a Pilot attribute, much like drones (p. 244), that determines just how "smart" the agent is. Pilot acts as the agent’s brain, interpreting orders. The Pilot attribute acts as the agent’s System rating, as well as its Computer, Cybercombat, Data Search, and Hacking skill ratings. Agents also have their own built-in Firewall attribute, equal to their Pilot rating. Agents use the Response attribute of the node on which they are running; this means that the attributes of an agent operating independently may vary as it moves from node to node.
 [/spoiler]
 
 [size=14pt][b]使用代理[/b][/size]
@@ -290,7 +290,7 @@ Agents have a Pilot attribute, much like drones (p. 244), that determines just h
 
 独立于你的化身的代理(或IC)，无论是在你的通讯链上还是在其他设备上，都使用他们自己的硬编码访问ID来向其他节点识别自己。这个访问ID在一个给定的代理的所有副本中都是相同的，除非使用软件+逻辑(等级×3，1周)的延续检定给它打补丁。代理不具备软件技能，不能自我修补/编程。
 
-要让你的代理在矩阵中独立运行，你必须在与你的化身分离的节点上运行它(有适当的访问账户)，或者在你自己的节点上运行它，然后把它发送到其他节点上。即使你的"化身"脱机，代理也将继续在矩阵中运行。
+要让你的代理在矩阵中独立运行，你必须在与你的化身分离的节点上运行它(有适当的访问账户)，或者在你自己的节点上运行它，然后把它发送到其他节点上。即使你的“化身”脱机，代理也将继续在矩阵中运行。
 
 在你的节点上的代理将计入你的设备的处理器限制，但不计入你的订阅限制。独立运行的代理计入你的订阅限制，但不计入你的处理器限制。
 
@@ -328,7 +328,7 @@ If your agent is running in your node, you may run a program and designate it fo
 
 [size=14pt][b]入侵对策程序(IC)[/b][/size]
 
-术语入侵对策程序(IC，读作"ice")是指一种专门的代理程序，用于防御系统。就所有游戏目的而言，IC程序等同于代理程序，其功能也相同。IC程序通常装载一些更具攻击性的程序来对付入侵者，如攻击、黑锤头或断片，以及分析、矩阵护甲或追踪。IC很少加载太多的程序，因为它和它运行的程序都算在节点的处理器限制内。
+术语入侵对策程序(IC，读作“ice”)是指一种专门的代理程序，用于防御系统。就所有游戏目的而言，IC程序等同于代理程序，其功能也相同。IC程序通常装载一些更具攻击性的程序来对付入侵者，如攻击、黑锤头或断片，以及分析、矩阵护甲或追踪。IC很少加载太多的程序，因为它和它运行的程序都算在节点的处理器限制内。
 
 一些节点会在警报被触发时启动IC程序，并指示它与入侵者交战。一旦启动，IC程序就会像独立运行的代理一样，彼此独立行动，独立于节点。每个IC程序都有自己的图标和主动性(代理、IC和网精主动性, 第236页)。
 
@@ -338,7 +338,7 @@ If your agent is running in your node, you may run a program and designate it fo
 
 [spoiler]
 [size=14pt][b]INTRUSION COUNTERMEASURES (IC)[/b][/size]
-The term intrusion countermeasures (or IC, pronounced “ice”) refers to a specialized type of agent program that is used to defend a system. For all game purposes, IC programs are equivalent to agents and function the same way. IC programs are typically loaded with some of the more offensive programs to employ against intruders, like Attack, Black Hammer, or Blackout, as well as Analyze, Armor, or Track. IC rarely has too many programs loaded, as it and its running programs all count toward the node’s processor limit. 
+The term intrusion countermeasures (or IC, pronounced "ice") refers to a specialized type of agent program that is used to defend a system. For all game purposes, IC programs are equivalent to agents and function the same way. IC programs are typically loaded with some of the more offensive programs to employ against intruders, like Attack, Black Hammer, or Blackout, as well as Analyze, Armor, or Track. IC rarely has too many programs loaded, as it and its running programs all count toward the node’s processor limit. 
 
 Some nodes will launch an IC program when an alert is triggered and direct it to engage the intruder(s). Once launched, IC programs act independently of each other and the node, as with agents that are running independently. Each IC program has its own icon and Initiative (Agent, IC, and Sprite Initiative, p. 236). 
 
@@ -356,7 +356,7 @@ Gamemasters are encouraged to create their own IC for their nodes.
 
 当代理以某种方式与物理世界互动时(例如通过传感器、安保系统或无人机)，上下文信息就更加缺乏了，因为代理的自驾是为矩阵活动编程的，而不是为与肉体空间互动而编程的。(无人机自驾就不是这样了，他们是为现实世界的活动而编程的，但专门为他们所处的无人机模型量身定做)。
 
-代理和自驾的创造性思维能力也很有限。他们倾向于坚持自己的命令，根据编程的决策树做出严格的逻辑选择--这不一定是最好的行动方案。当面临意外的障碍或不符合他们程序的选择时，他们倾向于退缩和重组--这是一个比即兴创作更安全的选择。请注意，代理确实有"模糊逻辑"的程序，允许他们对不精确的概念和条件进行判断和行动，但基于概括的概率采取行动也有其缺点。当有疑问时，GM可以根据适当的难度阈值秘密地进行自驾+响应能力检定，以确定代理如何根据他们的命令对困难情况作出反应(见《发布命令》第245页)。
+代理和自驾的创造性思维能力也很有限。他们倾向于坚持自己的命令，根据编程的决策树做出严格的逻辑选择--这不一定是最好的行动方案。当面临意外的障碍或不符合他们程序的选择时，他们倾向于退缩和重组--这是一个比即兴创作更安全的选择。请注意，代理确实有“模糊逻辑”的程序，允许他们对不精确的概念和条件进行判断和行动，但基于概括的概率采取行动也有其缺点。当有疑问时，GM可以根据适当的难度阈值秘密地进行自驾+响应能力检定，以确定代理如何根据他们的命令对困难情况作出反应(见《发布命令》第245页)。
 
 [spoiler]
 [size=14pt][b]AGENT AND PILOT COMPETENCY[/b][/size]

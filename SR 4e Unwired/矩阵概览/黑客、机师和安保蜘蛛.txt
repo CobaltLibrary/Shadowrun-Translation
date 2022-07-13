@@ -1,10 +1,8 @@
 [color=brown][size=16pt][b]黑客、机师和安保蜘蛛[/b][/size][/color]
 
-随着全世界对矩阵的依赖加深，能够操纵矩阵的人是企业最可怕的噩梦和最重要的资产。对于公司来说，拥有一个能保护自己的数据同时又能窃取竞争对手的数据的人会给他们带来竞争优势。对于普通公民来说，黑客和机师大多是通过拟感和新闻报道来了解的。一个员工可能只和外包服务站的人打过交道，除非他搞砸了，否则永远不会真正见到为他的公司工作的安保黑客们。同样，那些雇佣安保蜘蛛的公司也是如此，这些机师钩入建筑或大学，像第二皮肤一样"穿着"它。大多数员工可能甚至没有意识到他们是在一个由安保蜘蛛控制的设施中。狂奔者最好知道这点，因为这种无知会让你丧命。
+随着全世界对矩阵的依赖加深，能够操纵矩阵的人是企业最可怕的噩梦和最重要的资产。对于公司来说，拥有一个能保护自己的数据同时又能窃取竞争对手的数据的人会给他们带来竞争优势。对于普通公民来说，黑客和机师大多是通过拟感和新闻报道来了解的。一个员工可能只和外包服务站的人打过交道，除非他搞砸了，否则永远不会真正见到为他的公司工作的安保黑客们。同样，那些雇佣安保蜘蛛的公司也是如此，这些机师钩入建筑或大学，像第二皮肤一样“穿着”它。大多数员工可能甚至没有意识到他们是在一个由安保蜘蛛控制的设施中。狂奔者最好知道这点，因为这种无知会让你丧命。
 
 在媒体中，黑客被描绘成要么是卑鄙的身份窃贼，抢劫无辜的旁观者来满足他们的吸毒癖好，要么是狂奔者团队中不善于社交的脑力劳动成员--那个能解决复杂谜题的队友，但在异性面前却不能连贯地说话。几乎没有任何一点你在法师身上看到的浪漫主义，这更令人遗憾。而更不幸的是最近疯狂流行的EpSin-Team三维全息节目所塑造的机师形象，比如杰里-德隆，那个总是有一个令人毛骨悚然的蜘蛛无人机粘在他肩膀上的强悍侏儒，这个人可以用他的小短臂狂挥几下就能热模接入一辆坦克或撞毁某架747飞机。
-
-> Well, there’s public opinion and there’s fact. Hackers today need to be more than just brains. You can’t hide in a basement and do overwatch anymore. IC or a bad biofeedback filter used to be the worst thing a hacker came up against. Now, a hacker who doesn’t know how to handle themselves in a fight—or at least how to duck— isn’t going to last through the first run.
 
 > 好吧，有舆论，也有事实。今天的黑客需要的不仅仅是头脑。你不能再躲在地下室里打掩护了。IC或一个糟糕的生物反馈过滤器曾经是一个黑客所能遇到的最糟糕的事情。现在，一个不知道如何在战斗中安置自己的黑客--或者至少不知道如何躲避--是不可能撑过第一次战斗的。
 
@@ -12,7 +10,7 @@
 
 [spoiler]
 [color=brown][size=16pt][b]HACKERS, RIGGERS, AND SPIDERS[/b][/size][/color]
-With the world’s reliance on the Matrix, people who can manipulate it are a corp’s worst nightmare and biggest asset. To a corporation, having someone who can protect their data while stealing their competitors’ gives them the advantage. To the average citizen, hackers and riggers are mostly known through sims and newsfeeds. An employee probably only interacts with someone at an outsourced helpdesk, never actually meeting the security hackers that work for his company unless he screws up. Likewise for corporations that employ spiders, riggers who hook into a building or campus and “wear” it like a second skin. Most employees probably don’t even realize they’re in a spidercontrolled facility. Runners better know, ‘cause that’s the kind of ignorance that’ll get you killed. 
+With the world’s reliance on the Matrix, people who can manipulate it are a corp’s worst nightmare and biggest asset. To a corporation, having someone who can protect their data while stealing their competitors’ gives them the advantage. To the average citizen, hackers and riggers are mostly known through sims and newsfeeds. An employee probably only interacts with someone at an outsourced helpdesk, never actually meeting the security hackers that work for his company unless he screws up. Likewise for corporations that employ spiders, riggers who hook into a building or campus and "wear" it like a second skin. Most employees probably don’t even realize they’re in a spidercontrolled facility. Runners better know, ‘cause that’s the kind of ignorance that’ll get you killed. 
 
 In the media, hackers are portrayed as either scummy identity thieves who rob innocent bystanders to feed their drug habit or brainy, socially inept members of a runner team—the teammate that solves complex puzzles but can’t speak coherently in front of the opposite sex. There’s little of the romanticism that you see with mages, more’s the pity. And even more unfortunately, the wildly popular EpSin-Team trid show has cast-type riggers such as Jerry Drone, the surly dwarf with a creepy spider-like drone always clinging to his shoulder, a man who can hot-wire a tank or crash a 747 with a few wild waves of his short arms.
 
@@ -23,9 +21,9 @@ In the media, hackers are portrayed as either scummy identity thieves who rob in
 
 但公众的焦点肯定不再是黑客和机师了。随着超链者、AI和网精的出现，黑客突然看起来不再那么有威胁性或有趣了。结合这一事实，黑客已然承担了很多针对超链者的压力，而这两个群体之间的敌意也有了很大的增加。
 
-超链者的威胁导致了对黑客的新打击，并增加了对电子犯罪的惩罚。黑客们被误认为是超链者，并在监禁期间给予激进的药物治疗，以防止他们"释放他们的力量"。不幸的是，这导致了药物成瘾、严重脑损伤，甚至死亡的案例。当世界其他地区正在慢慢学习接受他们中间的新力量时，在暗影中，黑客和超链者之间的冲突正在不断升级。
+超链者的威胁导致了对黑客的新打击，并增加了对电子犯罪的惩罚。黑客们被误认为是超链者，并在监禁期间给予激进的药物治疗，以防止他们“释放他们的力量”。不幸的是，这导致了药物成瘾、严重脑损伤，甚至死亡的案例。当世界其他地区正在慢慢学习接受他们中间的新力量时，在暗影中，黑客和超链者之间的冲突正在不断升级。
 
-> 增加？升级？似乎"敌意"一开始就很高，而且从来没有动摇过。
+> 增加？升级？似乎“敌意”一开始就很高，而且从来没有动摇过。
 
 > Netcat
 
@@ -45,7 +43,7 @@ In the media, hackers are portrayed as either scummy identity thieves who rob in
 
 > Kat o’ Nine Tales
 
-> "翻了个白眼"
+> “翻了个白眼”
 
 > Netcat
 
@@ -54,7 +52,7 @@ But the public spotlight certainly isn’t on hackers and riggers anymore. With 
 
 The threat of technomancers has led to a new crackdown on hackers and an increase in the punishment for electronic crimes. Hackers have been mistaken as technomancers and given radical drug treatments during incarceration to prevent them from “unleashing their powers.” Unfortunately, this has led to cases of drug-addiction, serious brain damage, and even death. While the rest of the world is slowly learning to accept the new powers in their midst, in the shadows, the conflict between hackers and technos is escalating.
 
-> Upswing? Escalating? Seems like the “animosity” started out high and hasn’t budged. 
+> Upswing? Escalating? Seems like the "animosity" started out high and hasn’t budged. 
 
 > Netcat
 
@@ -107,15 +105,13 @@ Legally, the issue of AIs has been fairly convoluted. Horizon was the first corp
 
 这个生命是泰斯基特(Teskit)，一个AI。此次判决事关重大：所有寻求公民身份和与世界各地的公司和政府享有平等权利的AI的未来。所有人都在关注法庭的裁决。法庭法警正在审查该决定。判决正在宣布......然后......泰斯基特是一个有知觉的泛人，拥有选择自己国家或雇主的合法权利！经过这么长时间的斗争，这是一个多么了不起的胜利啊!   
 
-Now let’s look at public opinion from around the city, captured as people celebrated—or protested—the ruling! Here’s what a few people had to say: 
-
 现在让我们来看看城市周围，在人们庆祝或抗议这一裁决的时候捕捉到的公众舆论。以下是一些民众的说法。
 
 • 帕姆-V，女服务员：我当然是站在泰斯基特这边的。这是奴役，就是这样。我不在乎他住在哪里，在这里还是在网上，没有人有权利奴役他。
 
 • 奥斯卡-M，急救医生：听着，问题是，它没有脉搏。它没有出生过。如果停电，它甚至不能生存。程序代码来自于肖。就像我脸上的鼻子一样明显，这是个肖的程序。下一步是什么？解放烤面包机？
 
-• 桑迪-P，学生：我觉得它很可爱。你知道的，那些棕色的大眼睛。你可以看到它很害怕回到肖那里。谁会责怪它呢？他们只是想把它拆开，看看是什么原因让它这样做，你知道吗？它可能不是"活的"，但它可以思考和感觉。这对我来说已经足够了。
+• 桑迪-P，学生：我觉得它很可爱。你知道的，那些棕色的大眼睛。你可以看到它很害怕回到肖那里。谁会责怪它呢？他们只是想把它拆开，看看是什么原因让它这样做，你知道吗？它可能不是“活的”，但它可以思考和感觉。这对我来说已经足够了。
 
 • 牧师雷斯-T.，神职人员：上帝的恩典给了我们人类灵魂。人类不能反过来创造生物，给它们的存在注入灵魂。教皇说过，矩阵的生物无法接受上帝的恩典，它们不能死亡，没有灵魂，无法升入天堂。而没有灵魂，就不能拥有自由意志，而自由意志使我们有权利选择自己的命运。
 
@@ -131,7 +127,7 @@ Now let’s look at public opinion from around the city, captured as people cele
 
 • Oscar M., EMT: Look, the thing is, it doesn’t have a pulse. It wasn’t born. It can’t even survive if there’s a power failure. The programming code came from Xiao. Plain as the nose on my face, it’s a Xiao program. What’s next? Free the toasters?
 
-• Sandy P., student: I think it’s cute. Those big brown eyes, y’know. You can see it’s terrified of going back to Xiao. And who blames it? They just want to pull it apart to see what makes it tick, y’know? It may not be “alive” but it can think and feel. That’s enough for me.
+• Sandy P., student: I think it’s cute. Those big brown eyes, y’know. You can see it’s terrified of going back to Xiao. And who blames it? They just want to pull it apart to see what makes it tick, y’know? It may not be "alive" but it can think and feel. That’s enough for me.
 
 • Rev. Les T., clergy: God’s grace has given us, mankind, souls. Mankind cannot in turn create creatures and breathe a soul into their being. The Pope has said that a creature of the Matrix is unable to receive God’s grace; they cannot die and have no souls to ascend to Heaven. And without a soul, it cannot possess the free will that gives us the right to choose our own destiny.
 [/spoiler]

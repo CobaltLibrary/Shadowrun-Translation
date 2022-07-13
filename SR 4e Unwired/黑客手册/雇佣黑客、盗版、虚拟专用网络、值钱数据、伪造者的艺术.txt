@@ -318,5 +318,5 @@ When a SIN is burnt or stripped, the character loses all on-line accounts, licen
 [spoiler]
 [b]OPTIONAL RULE: FORGING PASSKEYS[/b]
 A passkey (see Passkeys, p. 64) contains an encrypted code that, combined with a valid passcode, allows a user access to a system. The encrypted code is incremented or scrambled every time it accesses the system, which means the code changes with every use. A dedicated character could forge a copy of a passkey, but it would require at least a schematic of the passkey and a copy of its firmware. The forged passkey (if made correctly) would be good for one use only—and it would have to be used before the actual passkey is used, or the code won’t work. If someone uses a forged passkey to access an account, the original passkey no longer functions correctly, and spiders or admin users will know that the last time the account was activated, it was done with a forged passkey. 
-Given these limitations, most shadowrunners choose to steal or “borrow” passkeys; especially more advanced nanotech and alchemical passkeys, which require special facilities and equipment to manufacture.
+Given these limitations, most shadowrunners choose to steal or "borrow" passkeys; especially more advanced nanotech and alchemical passkeys, which require special facilities and equipment to manufacture.
 [/spoiler]

@@ -165,7 +165,7 @@ Do You Wish to Engage? Y/N
 [b]无线______________________[/b]
 [b]特邀嘉宾：Otaku-Zuku Inbus[/b]
 
-[b]带有"无线"标签的发帖/文件：[/b]
+[b]带有“无线”标签的发帖/文件：[/b]
 * 傻瓜式矩阵指南
 * 黑客手册
 * 超链者 
@@ -176,7 +176,7 @@ Do You Wish to Engage? Y/N
 [b]unwired___________________[/b]
 [b]Invited Guests Otaku-Zuku Inbus[/b]
 
-[b]Posts/Files tagged with “Unwired”:[/b]
+[b]Posts/Files tagged with "Unwired":[/b]
 * Idiot’s Guide to the Matrix 
 * Hacker’s Handbook 
 * Technomancers 

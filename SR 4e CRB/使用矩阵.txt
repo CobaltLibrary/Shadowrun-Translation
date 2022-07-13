@@ -65,7 +65,7 @@ If you aim to misbehave in the Matrix, this is the skill to have. This skill mea
 
 [size=14pt][b]使用硬件技能[/b][/size]
 
-硬件技能在矩阵中很少发挥作用，但它影响到矩阵运行的一切。用它来安装你的通讯链升级。你也可以用它来建造你自己的硬件升级；使用硬件制造表，记住零件的成本是升级的一半，并遵循"使用技术技能来建造或修理"的规则，第138页。
+硬件技能在矩阵中很少发挥作用，但它影响到矩阵运行的一切。用它来安装你的通讯链升级。你也可以用它来建造你自己的硬件升级；使用硬件制造表，记住零件的成本是升级的一半，并遵循“使用技术技能来建造或修理”的规则，第138页。
 
 [spoiler]
 [size=14pt][b]USING HARDWARE[/b][/size]
@@ -148,7 +148,7 @@ The Resonance skills, Compiling, Decompiling, and Registering, are important to 
 
 [size=14pt][b]矩阵侦察[/b][/size]
 
-矩阵中的感知完全是计算机生成的。你看到的图标和节点实际上并不存在，它们的外观和声音(以及感觉、气味和味道，在VR或较复杂的AR中)是图标的所有者或你的现实过滤器程序选择的幻觉。你依赖你的通讯链和程序来告诉你你在矩阵中的"周围"是什么。绝大多数的矩阵活动(数据流量、后台进程等)是非常无趣的，会很快淹没你的感官，所以大部分都被过滤掉了。相反，矩阵的基本感知通常局限于一个非常狭窄的子集，例如你正在与之互动的用户的节点和图标，菜单，ARO，以及你调用的任何显示功能。
+矩阵中的感知完全是计算机生成的。你看到的图标和节点实际上并不存在，它们的外观和声音(以及感觉、气味和味道，在VR或较复杂的AR中)是图标的所有者或你的现实过滤器程序选择的幻觉。你依赖你的通讯链和程序来告诉你你在矩阵中的“周围”是什么。绝大多数的矩阵活动(数据流量、后台进程等)是非常无趣的，会很快淹没你的感官，所以大部分都被过滤掉了。相反，矩阵的基本感知通常局限于一个非常狭窄的子集，例如你正在与之互动的用户的节点和图标，菜单，ARO，以及你调用的任何显示功能。
 
 如果你想专门检查一个ARO、用户、程序、IC、节点、文件等，使用简单动作分析图标/节点(第229页)。使用你的计算机+分析(而不是侦察+直觉)做一个矩阵侦察检定。你的成功数决定了检定的成功程度。每一个成功，你都可以要求得到有关该物体的一个信息--这可能是类型、等级、警报状态或任何其他相关的信息；你可以从矩阵侦察检定中收集到的可能的细节清单可以在矩阵侦察数据表中找到。
 
@@ -162,7 +162,7 @@ The Resonance skills, Compiling, Decompiling, and Registering, are important to 
 
 [spoiler]
 [size=14pt][b]MATRIX PERCEPTION[/b][/size]
-Perception within the Matrix is entirely computer-generated. The icons and nodes you see are not actually there, and the way they look and sound (and feel and smell and taste, in VR or sophisticated AR) are illusions chosen by the owners of the icons or your Reality Filter program. You are reliant on your commlink and programs to tell you what is “around” you in the Matrix. The vast majority of Matrix activity (data traffic, background processes, etc.) is highly uninteresting and would quickly overwhelm your senses, so the bulk of it is filtered out. Instead, basic Matrix perception is usually limited to a very narrow subset of things, such as the nodes and icons of users with which you are interacting, menus, AROs, and any display features you call up. 
+Perception within the Matrix is entirely computer-generated. The icons and nodes you see are not actually there, and the way they look and sound (and feel and smell and taste, in VR or sophisticated AR) are illusions chosen by the owners of the icons or your Reality Filter program. You are reliant on your commlink and programs to tell you what is "around" you in the Matrix. The vast majority of Matrix activity (data traffic, background processes, etc.) is highly uninteresting and would quickly overwhelm your senses, so the bulk of it is filtered out. Instead, basic Matrix perception is usually limited to a very narrow subset of things, such as the nodes and icons of users with which you are interacting, menus, AROs, and any display features you call up. 
 
 If you wish to specifically examine an ARO, users, programs, IC, nodes, files, etc., take a Simple Action to Analyze Icon/Node (p. 229). Make a Matrix Perception test using your Computer + Analyze program (rather than Perception + Intuition). Your hits determine how successful the examination is. For each hit scored, you can ask for one piece of information about the object—this could be type, rating, alert status, or any other pertinent information; a list of possible details you could gather from a Matrix Perception test can be found in the Matrix Perception Data sidebar. 
 

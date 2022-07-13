@@ -22,7 +22,7 @@ The Signal rating of the technomancer’s living persona increases by 1. This ec
 
 [spoiler]
 [b]Biowire[/b] 
-By acquiring the Biowire echo, the technomancer receives the ability to modulate the neuroelectrical and neuromuscular network of his body such that it can work similarly to a skillwire cyberware system (p. 335, SR4). In game terms, it operates with a rating equal to the submersion grade of the technomancer. In all other regards, it follows the basic rules for skillwire systems. However, since technomancers are unable to process active skillsoft programs, they have to convert them into complex form–like programs to interpret and process them in their “language” by emulation (see p. 149).
+By acquiring the Biowire echo, the technomancer receives the ability to modulate the neuroelectrical and neuromuscular network of his body such that it can work similarly to a skillwire cyberware system (p. 335, SR4). In game terms, it operates with a rating equal to the submersion grade of the technomancer. In all other regards, it follows the basic rules for skillwire systems. However, since technomancers are unable to process active skillsoft programs, they have to convert them into complex form–like programs to interpret and process them in their "language" by emulation (see p. 149).
 [/spoiler]
 
 [b]模糊[/b]
@@ -31,7 +31,7 @@ By acquiring the Biowire echo, the technomancer receives the ability to modulate
 
 [spoiler]
 [b]Blur[/b] 
-Since any uses of Resonance leave a Matrix signature on anything they affect, technomancers can cover their tracks more efficiently with the Blur echo. This echo creates a diffuse resonant “fingerprint” that is hard to identify and recognize later. Increase the threshold for Matrix Perception Tests to detect the technomancer’s signature (including the threshold of 5 or more to recognize the effect of the signature, p. 237, SR4) by his submersion grade. This has the bonus effect of making his complex forms and sprites look like regular programs and agents to casual inspection.
+Since any uses of Resonance leave a Matrix signature on anything they affect, technomancers can cover their tracks more efficiently with the Blur echo. This echo creates a diffuse resonant "fingerprint" that is hard to identify and recognize later. Increase the threshold for Matrix Perception Tests to detect the technomancer’s signature (including the threshold of 5 or more to recognize the effect of the signature, p. 237, SR4) by his submersion grade. This has the bonus effect of making his complex forms and sprites look like regular programs and agents to casual inspection.
 [/spoiler]
 
 [b]存在感知[/b]
@@ -111,7 +111,7 @@ The technomancer gains the ability to multiplex data flow for the purpose of dir
 
 [spoiler]
 [b]info Sortilege[/b] 
-The Info Sortilege echo gives the technomancer an intuitive feel for the way information links together—he can almost “feel” the right route to pursue when gathering information. More importantly, this echo enables the technomancer to analyze data he has collected for clues that will give him insight into hidden facts, allowing him to make deductions and uncover hidden connections. Some technomancers believe that they can even read the future in the Matrix by observing how the data about a person, location, or event behaves and flows. 
+The Info Sortilege echo gives the technomancer an intuitive feel for the way information links together—he can almost "feel" the right route to pursue when gathering information. More importantly, this echo enables the technomancer to analyze data he has collected for clues that will give him insight into hidden facts, allowing him to make deductions and uncover hidden connections. Some technomancers believe that they can even read the future in the Matrix by observing how the data about a person, location, or event behaves and flows. 
 A technomancer with this echo must possess the Data Search skill and the Browse complex form. To use Info Sortilege, the submerged technomancer must first gather a small hoard of data on the subject. He then enters a mild trance state that will reveal data vestiges, links, and traces that are normally lost in the noise of the code. The insights and information from following these datatrails should be beyond what mere search operations or basic research would uncover.
 Mechanically, with a suitable amount of data at hand (at least two hits in a simple Data Search + Browse roll), the seeker declares her intent to use Info Sortilege and enters a mild trance (–2 dice pool modifier to all other actions). She must then make a Data Search + Resonance Test to follow the thin datatrail in the Matrix like a sleepwalker. The more hits the technomancer scores on this test, the more hidden pieces fall into place to reveal the bigger picture, how information about the subject intertwines and relates to each other. Depending how information is hidden, the search might also lead the technomancer to nodes that have to be hacked to acquire the information therein.
 [/spoiler]
@@ -153,7 +153,7 @@ Technomancers who possess this echo can intuitively sift through massive amounts
 [/spoiler]
 
 [b]皮肤链接[/b]
-超链者使用这种回声获得了使用他的皮肤连接到其他设备的能力，类似于"皮肤链接"(p318,SR4)。即使无线信号被干扰，超链者也可以利用这个链接骇入他接触的任何设备。注意设备不需要皮肤链接适配。两个有这种回声的超链者可以简单地通过触摸在精神上相互交流。
+超链者使用这种回声获得了使用他的皮肤连接到其他设备的能力，类似于“皮肤链接”(p318,SR4)。即使无线信号被干扰，超链者也可以利用这个链接骇入他接触的任何设备。注意设备不需要皮肤链接适配。两个有这种回声的超链者可以简单地通过触摸在精神上相互交流。
 
 [spoiler]
 [b]Skinlink[/b] 

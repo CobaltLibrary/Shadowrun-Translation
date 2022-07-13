@@ -28,24 +28,24 @@ Drones are devices, and like all devices each has its own node in the Matrix. So
 
 [size=14pt][b]自驾程序[/b][/size]
 
-无人机、车辆和其他一些(半)自主设备都有一个特殊的系统程序，称为自驾程序。类似于代理的自驾程序，自驾程序是一种特殊的操作系统，具有半自主的决策算法和专门针对安装该程序的设备的特殊编程。自驾程序适用于那些必须能够评估情况、做出决定、适应、甚至可能独立于用户运作的设备，有时甚至是长时间运作。自驾等级越高，它就越"聪明"。
+无人机、车辆和其他一些(半)自主设备都有一个特殊的系统程序，称为自驾程序。类似于代理的自驾程序，自驾程序是一种特殊的操作系统，具有半自主的决策算法和专门针对安装该程序的设备的特殊编程。自驾程序适用于那些必须能够评估情况、做出决定、适应、甚至可能独立于用户运作的设备，有时甚至是长时间运作。自驾等级越高，它就越“聪明”。
 
-自驾程序基本上是一个具有额外功能的系统程序。当你跳入无人机时，你就变成了无人机。你用无人机的传感器观察，像它的身体一样移动。你能感觉到你脚下的道路或你周围的空气在呼呼作响。你的平衡感和优雅感被应用到无人机上，你们一起成为比人和机器的融合更伟大的东西。在热模中，这种体验甚至更加强烈。每当使用无人机的系统等级时都会使用自驾属性进行代替。当需要时，它也代表无人机的"精神属性"(通常是直觉和逻辑，有时是意志)。
+自驾程序基本上是一个具有额外功能的系统程序。当你跳入无人机时，你就变成了无人机。你用无人机的传感器观察，像它的身体一样移动。你能感觉到你脚下的道路或你周围的空气在呼呼作响。你的平衡感和优雅感被应用到无人机上，你们一起成为比人和机器的融合更伟大的东西。在热模中，这种体验甚至更加强烈。每当使用无人机的系统等级时都会使用自驾属性进行代替。当需要时，它也代表无人机的“精神属性”(通常是直觉和逻辑，有时是意志)。
 
-自驾并不聪明，通常被称为"狗脑子"，这个词反映了它们的智力水平。当面对一个意外的或新奇的情况时，无人机会进行自驾+响应能力检定，检定的阈值由GM设定，看它的"常识"是否占优势。
+自驾并不聪明，通常被称为“狗脑子"，这个词反映了它们的智力水平。当面对一个意外的或新奇的情况时，无人机会进行自驾+响应能力检定，检定的阈值由GM设定，看它的"常识”是否占优势。
 
 [spoiler]
 [size=14pt][b]PILOT PROGRAMS[/b][/size]
-Drones, vehicles, and some other (semi-)autonomous devices have a special System program called a Pilot program. Similar to an agent’s Pilot program, Pilot programs are a special type of OS featuring semiautonomous decision-making algorithms and special programming specific to the device on which it is installed. Pilot is for devices that must be able to assess situations, make decisions, adapt, and possibly even function independently of a user, sometimes for extended periods. The higher the Pilot rating, the “smarter” it is. 
+Drones, vehicles, and some other (semi-)autonomous devices have a special System program called a Pilot program. Similar to an agent’s Pilot program, Pilot programs are a special type of OS featuring semiautonomous decision-making algorithms and special programming specific to the device on which it is installed. Pilot is for devices that must be able to assess situations, make decisions, adapt, and possibly even function independently of a user, sometimes for extended periods. The higher the Pilot rating, the "smarter" it is. 
 
 A Pilot program is basically a System program with extra feaWhen you jump into a drone, you become the drone. You see with the drone’s sensors and move as its body. You can feel the road cruising beneath you or the air whistling around you. Your sense of balance and grace is applied to the drone, and together you become something greater than the fusion of man and machine. In hot sim, the experience is even more intense. Data that would tures, and so is used whenever the drone’s System rating would be. It also stands for a drone’s “Mental attributes” when called for (usually Intuition and Logic, and sometimes Willpower). 
 
-Pilots are not bright, and are often called “dog-brains,” a term that reflects their intelligence level. When faced with an unexpected or novel situation, a drone makes a Pilot + Response Test with a threshold set by the gamemaster to see if its “common sense” prevails.
+Pilots are not bright, and are often called “dog-brains,“ a term that reflects their intelligence level. When faced with an unexpected or novel situation, a drone makes a Pilot + Response Test with a threshold set by the gamemaster to see if its ”common sense” prevails.
 [/spoiler]
 
 [size=14pt][b]无人机侦察[/b][/size]
 
-当观察它的(物理)周围环境时，无人机使用它的传感器等级(加上它的清晰视像自动软件的等级，如果正在运行的话)。当机师通过无人机的"眼睛"来感知世界时，他使用他的侦察技能和无人机的传感器等级，而不是他自己的直觉来计算骰子数量。
+当观察它的(物理)周围环境时，无人机使用它的传感器等级(加上它的清晰视像自动软件的等级，如果正在运行的话)。当机师通过无人机的“眼睛”来感知世界时，他使用他的侦察技能和无人机的传感器等级，而不是他自己的直觉来计算骰子数量。
 
 [spoiler]
 [size=14pt][b]DRONE PERCEPTION[/b][/size]
@@ -65,7 +65,7 @@ Like any program, the drone’s Pilot acts at digital speeds. Drone Initiative e
 
 [size=16pt][b]控制无人机[/b][/size]
 
-有三种方式来控制无人机、载具或其他设备。你可以用普通语言向它发送指令，让它的自驾程序执行指令；指令通常通过矩阵发送，但也可以是口头的，通过手势等。你也可以用指令程序直接控制设备，凌驾于它的自驾程序之上，通过遥控来移动它。你也可以使用VR来跳入，这使你可以通过拟感和直接与你的感官和运动皮层的沟通来"成为"设备。
+有三种方式来控制无人机、载具或其他设备。你可以用普通语言向它发送指令，让它的自驾程序执行指令；指令通常通过矩阵发送，但也可以是口头的，通过手势等。你也可以用指令程序直接控制设备，凌驾于它的自驾程序之上，通过遥控来移动它。你也可以使用VR来跳入，这使你可以通过拟感和直接与你的感官和运动皮层的沟通来“成为”设备。
 
 [spoiler]
 [size=16pt][b]CONTROLLING DRONES[/b][/size]
@@ -76,27 +76,27 @@ There are three ways to control a drone, vehicle, or other device. You may send 
 
 你用发布指令的动作(第245页)给无人机或其他设备下达一个简短的指令。无人机会尝试在自己的动作阶段自主地执行这些指令。你需要能够与无人机沟通，例如通过矩阵，但不需要订阅无人机。作为一般规则，GM可以假设无人机复杂的机械大脑能够理解向它发出的任何指令，只要这些指令是在设备的通常功能范围内。例如，一架MCT-尼桑·旋翼无人机可以理解关于飞行路线、追踪目标、使用传感器等指令。然而，如果被指令把一个流浪汉从摩托车上撞下来或阻止一个横冲直撞的精魂，自驾程序很可能无法理解。自驾程序是计算机程序，所以对他们的指令照单全收--有时甚至过于照单全收。如果GM觉得某条指令属于灰色地带或者太过复杂，他可以为自驾程序秘密进行自驾+响应能力检定，看看它对指令的理解程度，并以适当的难度等级为基础。
 
-自动软件可以用来扩展无人机的"功能"定义，即它能理解哪些指令。例如，一架焊接无人机通常会对使用其焊枪攻击目标的指令感到困惑，但同样的无人机在运行瞄准(焊枪)程序时，对指令的理解不会有问题。
+自动软件可以用来扩展无人机的“功能”定义，即它能理解哪些指令。例如，一架焊接无人机通常会对使用其焊枪攻击目标的指令感到困惑，但同样的无人机在运行瞄准(焊枪)程序时，对指令的理解不会有问题。
 
 [spoiler]
 [size=14pt][b]Issuing Commands[/b][/size]
 You give a short command to the drone or other device with the Issuing Command action (p. 245). The drone attempts to execute those orders autonomously on its own action phase. You need to be able to communicate with the drone, via the Matrix for example, but do not need to be subscribed to the drone. As a general rule, the gamemaster can assume that the sophisticated robotic brain of a drone understands any commands that are issued to it, as long as these commands are within the device’s usual range of function. An MCT-Nissan Roto-drone, for example, will understand commands regarding flight paths, tracking targets, using sensors, and so forth. If ordered to bump a ganger off his motorbike or stop a rampaging spirit, however, the Pilot will likely fail to understand. Pilots are computer programs, and so take their commands literally—sometimes too literally. If the gamemaster feels that a command falls within a gray area or is simply too convoluted, he can roll a secret Pilot + Response Test for the Pilot to see how well it comprehends the order, basing the threshold on an appropriate difficulty level. 
 
-An autosoft can be used to expand the definition of a drone’s “function” in terms of what commands it can understand. For example, a welding drone would normally be confused by orders to use its torch to attack a target, but the same drone running a Targeting (Welding Torch) program would have no trouble comprehending the command.
+An autosoft can be used to expand the definition of a drone’s "function" in terms of what commands it can understand. For example, a welding drone would normally be confused by orders to use its torch to attack a target, but the same drone running a Targeting (Welding Torch) program would have no trouble comprehending the command.
 [/spoiler]
 
 [size=14pt][b]遥控设备[/b][/size]
 
-你通过运行指令程序来控制一个设备。你一次只能控制一架无人机，而且必须对该无人机有一个有效的订阅。在你采取的任何动作中，你用你的指令程序等级来代替骰池的属性(侦察检定除外，它用无人机的传感器等级来代替你的侦察)。当使用这种方法时，你使用一套存在于AR或VR(视情况而定)的"控制"。这种控制方法是一个矩阵动作。控制无人机是一个复杂动作，即使无人机正在执行一个简单动作，如发射半自动武器或使用瞄准动作。除非已经代表机师执行了一个正在进行的动作，否则遥控无人机只有在收到指令时才会行动。(即在机师的动作上)。
+你通过运行指令程序来控制一个设备。你一次只能控制一架无人机，而且必须对该无人机有一个有效的订阅。在你采取的任何动作中，你用你的指令程序等级来代替骰池的属性(侦察检定除外，它用无人机的传感器等级来代替你的侦察)。当使用这种方法时，你使用一套存在于AR或VR(视情况而定)的“控制”。这种控制方法是一个矩阵动作。控制无人机是一个复杂动作，即使无人机正在执行一个简单动作，如发射半自动武器或使用瞄准动作。除非已经代表机师执行了一个正在进行的动作，否则遥控无人机只有在收到指令时才会行动。(即在机师的动作上)。
 
 [spoiler]
 [size=14pt][b]REMOTE CONTROL[/b][/size]
-You control a device by running the Command program. You may control only one drone at a time, and must have an active subscription to that drone. You use your Command rating in place of the attribute for the dice pool for any action you take (except for Perception Tests, which use the drone’s Sensor rating in place of your Perception). When using this method, you use a set of “controls” that exist in either AR or VR (as appropriate). This method of control is a Matrix action. Controlling a drone is a Complex Action, even if the drone would be performing a Simple Action such as firing a semi-automatic weapon or using the Take Aim action. Unless already executing an ongoing action on the rigger’s behalf, a remote controlled drone acts only when it receives commands (ie. on the rigger’s action).
+You control a device by running the Command program. You may control only one drone at a time, and must have an active subscription to that drone. You use your Command rating in place of the attribute for the dice pool for any action you take (except for Perception Tests, which use the drone’s Sensor rating in place of your Perception). When using this method, you use a set of "controls" that exist in either AR or VR (as appropriate). This method of control is a Matrix action. Controlling a drone is a Complex Action, even if the drone would be performing a Simple Action such as firing a semi-automatic weapon or using the Take Aim action. Unless already executing an ongoing action on the rigger’s behalf, a remote controlled drone acts only when it receives commands (ie. on the rigger’s action).
 [/spoiler]
 
 [size=14pt][b]跳入[/b][/size]
 
-你通过全沉浸VR"跳入"无人机。这需要订阅无人机、载具或设备，并需要一个简单动作。当跳入时，机师基本上"成为"了无人机，就像他自己的身体一样通过其传感器感知并操作它。一个跳入无人机的机师可以向其他无人机发出指令，但不能遥控它们。
+你通过全沉浸VR“跳入"无人机。这需要订阅无人机、载具或设备，并需要一个简单动作。当跳入时，机师基本上"成为”了无人机，就像他自己的身体一样通过其传感器感知并操作它。一个跳入无人机的机师可以向其他无人机发出指令，但不能遥控它们。
 
 以这种方式控制的无人机按照机师的主动性行事，机师和无人机被视为一个整体。任何检定都使用机师的技能和无人机的属性(用响应能力代替敏捷和反应，用传感器等级代替直觉)。
 
@@ -104,7 +104,7 @@ You control a device by running the Command program. You may control only one dr
 
 [spoiler]
 [size=14pt][b]JUMPING IN[/b][/size]
-You “jump into” a drone via full VR. This requires a subscription to the drone, vehicle, or device and takes a Simple Action. When jumped in, the rigger essentially “becomes” the drone, perceiving through its sensors and operating it as if it were his own body. A rigger who has jumped into a drone can issue commands to other drones, but cannot control them remotely. 
+You “jump into” a drone via full VR. This requires a subscription to the drone, vehicle, or device and takes a Simple Action. When jumped in, the rigger essentially "becomes" the drone, perceiving through its sensors and operating it as if it were his own body. A rigger who has jumped into a drone can issue commands to other drones, but cannot control them remotely. 
 
 A drone controlled in this manner acts on the rigger’s Initiative the rigger and the drone are treated as a single unit. Any tests are made using the rigger’s skills and the drone’s attributes (substituting Response for Agility and Reaction and Sensor for Intuition). 
 
@@ -188,11 +188,11 @@ This is actually a family of autosofts, each for a specific type of vehicle (e.g
 
 [size=14pt][b]瞄准(特定武器)[/b][/size]
 
-每个瞄准自动软件都模仿一个特定的武器攻击技能，如瞄准(手枪)或瞄准(长管枪械)。这个程序给了无人机关于使用相应武器的"知识"。无人机使用自驾+瞄准的方式进行攻击。
+每个瞄准自动软件都模仿一个特定的武器攻击技能，如瞄准(手枪)或瞄准(长管枪械)。这个程序给了无人机关于使用相应武器的“知识”。无人机使用自驾+瞄准的方式进行攻击。
 
 [spoiler]
 [size=14pt][b]Targeting (Specific Weapon)[/b][/size]
-Each Targeting autosoft mimics a particular weapon attack skill, such as Targeting (Pistols) or Targeting (Longarms). This program gives the drone “knowledge” about the use of the appropriate weapon. A drone uses Pilot + Targeting for attacks.
+Each Targeting autosoft mimics a particular weapon attack skill, such as Targeting (Pistols) or Targeting (Longarms). This program gives the drone "knowledge" about the use of the appropriate weapon. A drone uses Pilot + Targeting for attacks.
 [/spoiler]
 
 ---
@@ -248,13 +248,13 @@ One way to protect your communications is by encrypting it. This will only delay
 
 [size=14pt][b]骇入和欺骗[/b][/size]
 
-攻击机师的另一个方法是控制她的无人机。骇入一架无人机可以让你完全控制它。骇入攻击的缺点是它需要时间。欺骗更快，但你能做的事情有限。欺骗还要求你有机师的访问ID，如果她在一个遥远的地方，这可能需要追踪程序。尽管如此，一个简短的命令，如"卸下你的武器"或"重新启动"就可以使无人机退出战斗。
+攻击机师的另一个方法是控制她的无人机。骇入一架无人机可以让你完全控制它。骇入攻击的缺点是它需要时间。欺骗更快，但你能做的事情有限。欺骗还要求你有机师的访问ID，如果她在一个遥远的地方，这可能需要追踪程序。尽管如此，一个简短的命令，如“卸下你的武器"或"重新启动”就可以使无人机退出战斗。
 
 这种针对你的无人机的劫持企图可以通过跳入一个设备来挫败。跳入的机师会取代对无人机的任何其他控制，包括其自驾程序的控制。
 
 [spoiler]
 [size=14pt][b]HACKING AND SPOOFING[/b][/size]
-Another way to fight a rigger is to take control of her drones. Hacking a drone can give you full control over it. The drawback to hacking is that it takes time. Spoofing is faster, but limited in what you can do. Spoofing also requires that you have the rigger’s access ID, which may necessitate the Track program if she is in a remote location. Still, a single command, such as “unload your weapon” or “reboot” can take a drone out of a fight. 
+Another way to fight a rigger is to take control of her drones. Hacking a drone can give you full control over it. The drawback to hacking is that it takes time. Spoofing is faster, but limited in what you can do. Spoofing also requires that you have the rigger’s access ID, which may necessitate the Track program if she is in a remote location. Still, a single command, such as “unload your weapon” or "reboot" can take a drone out of a fight. 
 
 Such hijacking attempts against your drones can be foiled by jumping into a device. A jumped-in rigger overrides any other control of the drone, including by its Pilot.
 [/spoiler]
@@ -361,7 +361,7 @@ This book offers basic rules for conducting electronic warfare, but Shadowrun of
 
 鉴于操纵方式的多样性，追踪你在尝试某件事情时应该使用的骰池可能是令人生畏的。
 
-一般来说，所选择的操纵方法，以及是否由人类控制或无人机自驾来控制决定了所涉及的基本骰池。便捷的常见机师/无人机检定表描述了一些典型的操纵和驾驶动作中最常见的骰池，无论车辆是由其自驾程序控制，还是由"跳入"的机师控制，或者是被遥控。
+一般来说，所选择的操纵方法，以及是否由人类控制或无人机自驾来控制决定了所涉及的基本骰池。便捷的常见机师/无人机检定表描述了一些典型的操纵和驾驶动作中最常见的骰池，无论车辆是由其自驾程序控制，还是由“跳入”的机师控制，或者是被遥控。
 
 所有这样的操纵骰池，一如既往地受制于适当的修正，这些修正又在前面的规则和其他章节的相关部分中描述。特别是战斗章节中的载具战斗（第157页），描述了适用于驾驶和机动、攻击和防御的各种阈值和骰池修正，以及适用于未植入的驾驶员和机师的基本传感器和瞄准检定。特别重要的是车辆检定阈值表（第168页）和地形检定表（第169页）。
 

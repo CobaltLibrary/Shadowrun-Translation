@@ -6,7 +6,7 @@
 
 现在，要在蔓城区活动，你必须有一个SIN，一个ID，和一个通讯链。你所到之处，每一个图标、店面或公共终端都会创建一个记录。无人机在街上巡逻，扫描人们，以确保他们的通讯链正在广播正确的数据。摄像机随处可见，记录并分析每一个动作。无线流量被拦截、分析和记录。或者说，我们是如此被告知的。所以我们这么相信。
 
-这是真的吗？"他们"真的一直在监视，监视所有地方，监视所有人吗？嗯......是也不是。从心理学上讲，这并不重要--如果人们相信他们被监视，他们就会像被监视那样行动。在企业的领域，如办公楼等，可能有人在监视。然而在公共场所，没有足够的人力或资金来真正配备所有这些监控系统，所以他们依靠程序和代理，然而它们并不特别擅长在其编程参数之外运作。现在，如果他们正在寻找特定的人，那么他们可以进行追踪。如果犯罪发生，他们已经将其记录下来了。祝你好运。
+这是真的吗？“他们”真的一直在监视，监视所有地方，监视所有人吗？嗯......是也不是。从心理学上讲，这并不重要--如果人们相信他们被监视，他们就会像被监视那样行动。在企业的领域，如办公楼等，可能有人在监视。然而在公共场所，没有足够的人力或资金来真正配备所有这些监控系统，所以他们依靠程序和代理，然而它们并不特别擅长在其编程参数之外运作。现在，如果他们正在寻找特定的人，那么他们可以进行追踪。如果犯罪发生，他们已经将其记录下来了。祝你好运。
 
 > 我想指出的是，许多研究表明，这一理论是行不通的，无处不在的摄像头监控对减少犯罪几乎没有任何作用，它所做的唯一事情是帮助破坏公民自由，并给当局提供无限的滥用机会。
 
@@ -20,7 +20,7 @@ Well, looks like his idea has finally come to life. And not just in prisons—ac
 
 Now, to operate in the sprawl, you have to have a SIN, an ID, and a commlink. Everywhere you go, every icon, storefront or public terminal you access creates a record. Drones patrol the street, scanning people to ensure they have commlinks broadcasting the right data. Cameras are imbedded everywhere, recording and analyzing every move. Wireless transmissions are intercepted, analyzed, and recorded. Or so we’ve been told. So we believe. 
 
-Is it true? Are “they” really watching, all the time, everywhere, everyone? Well … yes and no. Psychologically, it doesn’t really matter—if people believe they’re under surveillance, they’ll act accordingly. In corporate areas, like office buildings and the like, there probably is someone watching. In public spaces, there isn’t enough man-power or funding to really staff all those surveillance systems, so they rely on programs and agents, which aren’t particularly great at operating outside their programmed parameters. Now, if they’re looking for someone specific, then they can track them down. If a crime does happen, they’ve got it recorded. Lucky you.
+Is it true? Are "they" really watching, all the time, everywhere, everyone? Well … yes and no. Psychologically, it doesn’t really matter—if people believe they’re under surveillance, they’ll act accordingly. In corporate areas, like office buildings and the like, there probably is someone watching. In public spaces, there isn’t enough man-power or funding to really staff all those surveillance systems, so they rely on programs and agents, which aren’t particularly great at operating outside their programmed parameters. Now, if they’re looking for someone specific, then they can track them down. If a crime does happen, they’ve got it recorded. Lucky you.
 
 > I’d like to point out that numerous studies have shown that this theory doesn’t work, that omnipresent camera surveillance has done little to nothing to decrease crime, and that the only thing it has done is helped destroy civil liberties and give authorities unlimited opportunities for abuse.
 
@@ -80,7 +80,7 @@ These tiny guys are so ubiquitous that most people can’t remember back a decad
 
 > Snopes
 
-> 执法部门(或企业)的另一招是喷出RFID标签"雾"，在人群中铺满微小的标签，使他们能够追踪抗议者、暴乱者、破坏者等，甚至是在事后。一些企业将此作为一种被动措施来追踪闯入设施的罪犯。
+> 执法部门(或企业)的另一招是喷出RFID标签“雾”，在人群中铺满微小的标签，使他们能够追踪抗议者、暴乱者、破坏者等，甚至是在事后。一些企业将此作为一种被动措施来追踪闯入设施的罪犯。
 
 > Hard Exit
 
@@ -107,7 +107,7 @@ The broad coverage of wireless towers in most sprawls enable easy GPS positionin
 
 > Snopes
 
-> Another trick for law enforcement (or the corps) is to spray out a RFID tag “mist” that blankets a crowd with microscopic tags, enabling them to track protestors, rioters, vandals, etc. even after the fact. Some corps use this as a passive measure to track criminals who break into a facility. 
+> Another trick for law enforcement (or the corps) is to spray out a RFID tag "mist" that blankets a crowd with microscopic tags, enabling them to track protestors, rioters, vandals, etc. even after the fact. Some corps use this as a passive measure to track criminals who break into a facility. 
 
 > Hard Exit
 
@@ -129,8 +129,6 @@ The broad coverage of wireless towers in most sprawls enable easy GPS positionin
 > 购买假SIN只有在你有钱的情况下才有效。最便宜的也要1,000新元(除了让你坐公交车外毫无用处，警察一扫描就会发现它是假的)，这对贫民窟里的大多数无SIN者来说是遥不可及的。想脱离处境的人往往不得不把自己的灵魂卖给一个制造假SIN的组织，比如黑手党或矩阵帮派。或者，如果你的年龄合适，你可以和军队勾结。一批UCAS征兵站已经搬到了荒地的边缘--以前是孩子们来找他们。现在，这些孩子甚至不能走过镇子，所以军队就来找他们了。对于很多孩子来说，这是他们离开荒原的唯一机会，甚至可以看到他们的20岁生日。
 
 > Fatima
-
-On the bright side, if you’re trying to run surveillance on a mark or just stalking an ex, really good hackers can tap into the surveillance system and use it for their own purpose. Just like using a GPS system to track someone, if you can tap into, say, Lone Star’s street camera system, you can monitor your mark as he cluelessly goes about his business. Tap into the GridLink system and you can monitor that box truck carrying some valuable gear you’d like to acquire. The possibilities are endless.
 
 从好的方面看，如果你想对一个目标进行监控，或者只是追踪前任，真正优秀的黑客还可以进入监控系统并将其用于自己的目的。就像使用GPS系统追踪某人一样，如果你能进入，比如说，孤星公司的街道摄像系统，你就可以监视你的目标，因为他毫无头绪地去做他的生意。接入网域链系统，你就可以监视那辆载有你想获得的一些有价值的装备的箱式卡车。这种可能性是无穷无尽的。
 
@@ -157,13 +155,13 @@ On the bright side, if you’re trying to run surveillance on a mark or just sta
 
 数据搜索只是薪奴生活中的一个事实。学校检索他们，雇主检索他们，政府检索他们。像我们这样的狂奔者可能会有稍微不同的看法，这取决于你开始时有或没有SIN。如果你有一个真SIN(即使你不使用它)，你就会在系统中。聪明的狂奔者会想删除与自己有关的数据。删除SIN的成本高，耗时长，而且非常复杂，只有大型集团和黑客团队才有能力和资源来做这件事。这是一项大工程--进入并摆脱冷存储备份，检查每个SIN数据库并删除记录，删除医疗文件(包括那些硬拷贝备份和存储的DNA样本)，教育记录，犯罪记录......提供SIN删除服务的机构收取高额费用，但是一分钱一分货。
 
-如果你没有SIN，警察可能会对你进行搜索，但他们会发现你的SIN完全是空白的，或者是假SIN，如果你用过某个的话(或者更糟糕的是，如果你没有注意删除这些SIN，就会发现有多个假SIN)。这完全取决于他们使用什么标准来搜索，以及什么生物识别数据与你的SIN(或多个SIN)相联系，无论是真是假。如果他们在搜索中没有发现什么--因为你到现在为止一直很小心--并不意味着他们不会开始汇编数据。在工作现场留下一根头发或一些皮肤细胞，你的DNA就会出现在某个数据库中，即使它只是标有"未知"。最终，如果你继续狂奔，他们有可能会抓到一个或另一个ID，所有这些"未知"的数据比特将最终有一个名字联系到它们。
+如果你没有SIN，警察可能会对你进行搜索，但他们会发现你的SIN完全是空白的，或者是假SIN，如果你用过某个的话(或者更糟糕的是，如果你没有注意删除这些SIN，就会发现有多个假SIN)。这完全取决于他们使用什么标准来搜索，以及什么生物识别数据与你的SIN(或多个SIN)相联系，无论是真是假。如果他们在搜索中没有发现什么--因为你到现在为止一直很小心--并不意味着他们不会开始汇编数据。在工作现场留下一根头发或一些皮肤细胞，你的DNA就会出现在某个数据库中，即使它只是标有“未知"。最终，如果你继续狂奔，他们有可能会抓到一个或另一个ID，所有这些"未知”的数据比特将最终有一个名字联系到它们。
 
-> 我强烈建议每个人定期搜索自己的名字和ID(s)。如果你不能骇入国际刑警组织的犯罪数据库，那就找一个黑客朋友来做，这样你就可以看到他们离真正追踪到你有多远。由于所有的冷存储备份，让数据被"删除"可能是一件很痛苦的事情，但这是可能办到的。不过，你越早发现越容易，真的。
+> 我强烈建议每个人定期搜索自己的名字和ID(s)。如果你不能骇入国际刑警组织的犯罪数据库，那就找一个黑客朋友来做，这样你就可以看到他们离真正追踪到你有多远。由于所有的冷存储备份，让数据被“删除”可能是一件很痛苦的事情，但这是可能办到的。不过，你越早发现越容易，真的。
 
 > Glitch
 
-> 我强烈建议由专业人员删除你的假SIN。许多制作假ID的集团和团队也会彻底清除那些已经变得太"热"而无法继续使用的SIN。如果你不这样做，警察最终会开始将所有这些假SIN与你联系起来，尤其是如果它们有生物识别或法医数据与之联系。这样的数据积累是不好的。
+> 我强烈建议由专业人员删除你的假SIN。许多制作假ID的集团和团队也会彻底清除那些已经变得太“热”而无法继续使用的SIN。如果你不这样做，警察最终会开始将所有这些假SIN与你联系起来，尤其是如果它们有生物识别或法医数据与之联系。这样的数据积累是不好的。
 
 > Fianchetto
 
@@ -175,7 +173,7 @@ On the bright side, if you’re trying to run surveillance on a mark or just sta
 
 > Pistons
 
-> 顺便说一句，"嘿，宝贝，要我抹掉你的生活吗？"这句话有点令人毛骨悚然。你可能想尝试一些新的东西。
+> 顺便说一句，“嘿，宝贝，要我抹掉你的生活吗？”这句话有点令人毛骨悚然。你可能想尝试一些新的东西。
 
 > Turbo Bunny
 
@@ -189,13 +187,13 @@ Anyone can run a data search. Pop a name and SIN into the search box and click g
 
 Data searches are just a fact of life for wage-slaves. Schools run them, employers run them, the government runs them. Runners like us may have a slightly different view, depending on if you started out with or without a SIN. If you have a real SIN (even if you don’t use it), you’ll be in the system. Smart runners will want to erase data relating to themselves. SIN deletion is costly, time consuming, and so intricate that only major syndicates and hacker crews have the capabilities and resources to do it right. It’s a big job—going in and getting rid of cold-storage backups, checking into every consumer database and deleting the records, deleting medical files (including those hardcopy backups and storage of DNA samples), education records, criminal records … . The organizations that offer “ID deletion” services charge a high fee, and it’s worth every penny. 
 
-If you don’t have a SIN, the police may be able to run a search on you, but they’ll come up blank, or with a fake SIN if you’ve used one (or even worse, with multiple fake SINs if you haven’t been careful to have those erased). It all depends on what criteria they’re using to search and what biometric data is linked to your SIN(s), real or not. If they don’t find anything with a search—‘cause you’ve been careful up to now—that doesn’t mean they won’t start compiling data. Leave a hair or some skin cells at a job site and your DNA will be in a database somewhere, even if it just labeled “unknown.” Eventually, if you keep running, chances are they’ll catch up to one ID or another and all those “unknown” bits of data will finally have a name to attach to them.
+If you don’t have a SIN, the police may be able to run a search on you, but they’ll come up blank, or with a fake SIN if you’ve used one (or even worse, with multiple fake SINs if you haven’t been careful to have those erased). It all depends on what criteria they’re using to search and what biometric data is linked to your SIN(s), real or not. If they don’t find anything with a search—‘cause you’ve been careful up to now—that doesn’t mean they won’t start compiling data. Leave a hair or some skin cells at a job site and your DNA will be in a database somewhere, even if it just labeled “unknown.” Eventually, if you keep running, chances are they’ll catch up to one ID or another and all those "unknown" bits of data will finally have a name to attach to them.
 
 > I highly recommend everyone run periodic searches on their own name and ID(s). If you can’t hack into Interpol’s Criminal Database, get a hacker buddy to do it so you can see how close they are to really tracking you down. With all the cold-storage backups, it can be a pain to get data “erased,” but it is possible. It’s easier the earlier you catch it, though, really. 
 
 > Glitch
 
-> I’d highly suggest having your fake IDs erased by a professional crew. Many of the syndicates and crews that create fake IDs will also thoroughly erase those IDs that have gotten too “hot” to continue using. If you don’t, the cops will eventually start linking all those fake IDs to you, especially if they have biometric or forensic data linked to them. Accumulated data like that is bad. 
+> I’d highly suggest having your fake IDs erased by a professional crew. Many of the syndicates and crews that create fake IDs will also thoroughly erase those IDs that have gotten too "hot" to continue using. If you don’t, the cops will eventually start linking all those fake IDs to you, especially if they have biometric or forensic data linked to them. Accumulated data like that is bad. 
 
 > Fianchetto
 
@@ -274,9 +272,9 @@ Do you want to join a sousveillance forum, social network, or mobile social netw
 [quote]
 [size=14pt][b]热门反监视视频[/b][/size]
 
-[b]骑士袭击无罪男子[/b]--观看三名身穿制服的警官走近一名正在睡觉的兽人，对该男子拳打脚踢，并使用电击枪。请看KE的官方回应，该男子是"拒捕"。[链接]
+[b]骑士袭击无罪男子[/b]--观看三名身穿制服的警官走近一名正在睡觉的兽人，对该男子拳打脚踢，并使用电击枪。请看KE的官方回应，该男子是“拒捕”。[链接]
 
-[b]学生在哈佛面临种族歧视[/b]--观看招生院长将兽人申请者淘汰，指示招生顾问"鼓励獠牙者"申请州立大学。[链接］
+[b]学生在哈佛面临种族歧视[/b]--观看招生院长将兽人申请者淘汰，指示招生顾问“鼓励獠牙者”申请州立大学。[链接］
 
 [b]揭秘人道主义警察俱乐部成员[/b]-观看一组人道主义警察火烧当地巨魔家庭的行动，然后他们回到自己家里并揭下面具。让我们听听警察的回应。[链接］
 

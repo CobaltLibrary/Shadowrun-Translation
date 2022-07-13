@@ -17,12 +17,12 @@ This section provides new rules and expanded definitions for technomancers and t
 
 由于超链者本质上是带有神经和生物电线路(包括拟感模块)的有机计算机，他们在与矩阵或其他电子设备交互或接口时形成自己的节点。这个“生物节点”是超链者活体化身的一部分，其特征是四个矩阵属性:防火墙、系统处理、响应等级和信号等级(SR4第233页)。
 
-与外围设备、标准节点和枢纽(节点, p.55)不同，生物节点不是具有地址和访问ID号的“矩阵中的位置”，既不能运行程序，也不能存储数据。它们是超链者自己创造的视觉和虚拟表示，作为处理数据传输、“节点脚本”和无线设备订阅的潜意识助手。
+与外围设备、标准节点和枢纽(节点, p.55)不同，生物节点不是具有地址和访问ID号的“矩阵中的位置“，既不能运行程序，也不能存储数据。它们是超链者自己创造的视觉和虚拟表示，作为处理数据传输、”节点脚本”和无线设备订阅的潜意识助手。
 
 [spoiler]
 [size=12pt][b]THE BIOLOGICAL PAN[/b][/size]
 Since technomancers are essentially organic computers with neural and bioelectric wiring (including a sim module), they form their own nodes when interacting or interfacing with the Matrix or other electronic devices. This “biological node” is part of the technomancer’s living persona and is characterized by the four Matrix attributes: Firewall, System, Response, and Signal (p. 233, SR4). 
-Unlike peripherals, standard nodes, and nexi (Nodes, p. 55), biological nodes are not “places of the Matrix” with addresses and access ID numbers, and can neither run programs nor store data. They are visual and virtual representations created by the technomancer himself as subconscious aids to deal with data transfers, “node scripts,” and subscription of wireless devices.
+Unlike peripherals, standard nodes, and nexi (Nodes, p. 55), biological nodes are not “places of the Matrix“ with addresses and access ID numbers, and can neither run programs nor store data. They are visual and virtual representations created by the technomancer himself as subconscious aids to deal with data transfers, ”node scripts,” and subscription of wireless devices.
 [/spoiler]
 
 [b]链接[/b]
@@ -36,13 +36,13 @@ When a technomancer goes online, his living persona acts as a biological commlin
 
 [b]运行模式和扫描检测[/b]
 
-超链者的有机节点一直被认为是静默模式;它们不能以主动或被动模式运行。生物节点很难用标准的无线节点扫描来检测，因为它们不遵循标准的无线设备应答协议。然而，它们确实会发射无线电信号，所以它们可以像静默模式下的节点一样被定位(参见探测无线节点，第225页，SR4)。一个希望“静默运行”的超链者可以关闭他的无线电发射，使他自己不被无线电扫描仪检测到，尽管大多数超链者发现这种状态是不舒服的，特别是长时间运行。他还可以进入“接收模式”，这允许他接收无线电传输，但仍然不被扫描仪检测到，但这禁止任何需要订阅的连接(记住，大多数数据交易是双向的)。
+超链者的有机节点一直被认为是静默模式;它们不能以主动或被动模式运行。生物节点很难用标准的无线节点扫描来检测，因为它们不遵循标准的无线设备应答协议。然而，它们确实会发射无线电信号，所以它们可以像静默模式下的节点一样被定位(参见探测无线节点，第225页，SR4)。一个希望“静默运行“的超链者可以关闭他的无线电发射，使他自己不被无线电扫描仪检测到，尽管大多数超链者发现这种状态是不舒服的，特别是长时间运行。他还可以进入”接收模式”，这允许他接收无线电传输，但仍然不被扫描仪检测到，但这禁止任何需要订阅的连接(记住，大多数数据交易是双向的)。
 
 超链者与任何电子设备一样容易受到干扰(225页，SR4)。
 
 [spoiler]
 Modes and Scanning 
-The organic node of technomancers is always considered to be in hidden mode; they cannot operate in active or passive mode. Biological nodes are difficult to detect with standard wireless node scanning, as they do not follow standard wireless device acknowledge-response protocols. They do emit radio signals, however, so they can be located in the same way as a node in hidden mode (see Detecting Wireless Node, p. 225, SR4). A technomancer who wishes to “run silent” can shut down his radio emissions, making himself undetectable to radio scanners, though most technomancers find this state to be uncomfortable, especially for long periods. He can also go into “receiver mode,” which allows him to receive radio transmissions and still remain undetectable to scanners, but this disallows any connections that require a subscription (keep in mind that most data transactions are two-way). 
+The organic node of technomancers is always considered to be in hidden mode; they cannot operate in active or passive mode. Biological nodes are difficult to detect with standard wireless node scanning, as they do not follow standard wireless device acknowledge-response protocols. They do emit radio signals, however, so they can be located in the same way as a node in hidden mode (see Detecting Wireless Node, p. 225, SR4). A technomancer who wishes to “run silent“ can shut down his radio emissions, making himself undetectable to radio scanners, though most technomancers find this state to be uncomfortable, especially for long periods. He can also go into ”receiver mode,” which allows him to receive radio transmissions and still remain undetectable to scanners, but this disallows any connections that require a subscription (keep in mind that most data transactions are two-way). 
 Technomancers are as prone to jamming (p. 225, SR4) as any electronic device.
 [/spoiler]
 
@@ -52,7 +52,7 @@ Technomancers are as prone to jamming (p. 225, SR4) as any electronic device.
 
 [spoiler]
 TRACKING AND HACKING 
-Like mobile wireless devices, the biological node of a technomancer is difficult to pinpoint with a Track program. At best, the technomancer’s current location can be roughly triangulated in relation to a node to which he is connected, and only within its signal range, to within 50 meters (see Track, p. 219, SR4). Because commlinks and other electronic devices fail to recognize the biological node as a valid node, technomancers are immune to access connections and hacking by “mundane” spiders and hackers, although they can still be hacked by other technomancers or by sprites (Hacking the Biological Node, p. 135).
+Like mobile wireless devices, the biological node of a technomancer is difficult to pinpoint with a Track program. At best, the technomancer’s current location can be roughly triangulated in relation to a node to which he is connected, and only within its signal range, to within 50 meters (see Track, p. 219, SR4). Because commlinks and other electronic devices fail to recognize the biological node as a valid node, technomancers are immune to access connections and hacking by "mundane" spiders and hackers, although they can still be hacked by other technomancers or by sprites (Hacking the Biological Node, p. 135).
 [/spoiler]
 
 [b]订阅和流量[/b]
@@ -80,7 +80,7 @@ While sleeping, technomancers may decide to stay connected to the Matrix—for e
 
 [size=12pt][b]骇入生物节点[/b][/size]
 
-虽然生物节点对黑客来说是不可侵入的，但它对超链者和网精来说是脆弱的，因为他们在无线通信中“处于同一波长”。超链者和网精可以根据正常规则定位和攻击其他超链者的生物节点，但不能探测超链者的弱点。骇入超链者总是被认为是一个“管理员帐户”的即兴骇入过程(+6阈值修正)。
+虽然生物节点对黑客来说是不可侵入的，但它对超链者和网精来说是脆弱的，因为他们在无线通信中“处于同一波长“。超链者和网精可以根据正常规则定位和攻击其他超链者的生物节点，但不能探测超链者的弱点。骇入超链者总是被认为是一个”管理员帐户”的即兴骇入过程(+6阈值修正)。
 
 如果超链者拥有分析复合程式，他会下意识地试图识别入侵者。他可以派遣编译或注册的网精在他的生物节点上“巡逻”。这花费了一个任务。由超链者(或网精)唤起的警报在游戏中与在正常节点中具有相同的效果，因为超链者的电子免疫系统试图关闭入侵者。超链者也可以投射到他的生物节点，在网络战斗中与入侵者交战(大多数都会这么做)。
 
@@ -89,8 +89,8 @@ While sleeping, technomancers may decide to stay connected to the Matrix—for e
 [spoiler]
 HACKING THE BIOLOGICAL NODE 
 While the biological node is impenetrable to hackers, it is
-vulnerable to technomancers and sprites, who are “on the same wavelength,” wirelessly speaking. Technomancers and sprites can locate and hack other technomancers’ biological nodes per normal rules, although one cannot probe a technomancer for weakness. Hacking a technomancer is always considered to be a hacking in on the fly for an “admin account” (+6 threshold modifier). 
-If the technomancer possesses the Analyze complex form, he subconsciously tries to recognize the intruder. He can send compiled or registered sprites on “patrol” in his biological node. This expends one task. Alarms caused by the technomancer (or sprite) have the same in-game effect as in a normal node, as the technomancer’s electroimmune system attempts to shut out the intruder. The technomancer can also project into his biological node and engage an intruder in cybercombat (and most will). 
+vulnerable to technomancers and sprites, who are “on the same wavelength,“ wirelessly speaking. Technomancers and sprites can locate and hack other technomancers’ biological nodes per normal rules, although one cannot probe a technomancer for weakness. Hacking a technomancer is always considered to be a hacking in on the fly for an ”admin account” (+6 threshold modifier). 
+If the technomancer possesses the Analyze complex form, he subconsciously tries to recognize the intruder. He can send compiled or registered sprites on "patrol" in his biological node. This expends one task. Alarms caused by the technomancer (or sprite) have the same in-game effect as in a normal node, as the technomancer’s electroimmune system attempts to shut out the intruder. The technomancer can also project into his biological node and engage an intruder in cybercombat (and most will). 
 Note that biological nodes may not be encrypted.
 [/spoiler]
 
@@ -178,7 +178,7 @@ Technomancers can code a complex form that enables them to record their own expe
 
 [spoiler]
 SMARTLINK 
-Although the technomancer’s physiology and wireless capabilities enable him to “talk” to smartlinked devices (e.g., exchange data with a weapon and display it accordingly) without any additional devices, he normally lacks the hard-coded tactical software to translate the information into visual cues that simplify target recognition, aiming, and shooting in combat. However, technomancers can simply create this program by learning it as a permanent complex form, or improvise the necessary algorithms by threading. Treat Smartlink as a complex form with a rating of 1 for all rules purposes.
+Although the technomancer’s physiology and wireless capabilities enable him to "talk" to smartlinked devices (e.g., exchange data with a weapon and display it accordingly) without any additional devices, he normally lacks the hard-coded tactical software to translate the information into visual cues that simplify target recognition, aiming, and shooting in combat. However, technomancers can simply create this program by learning it as a permanent complex form, or improvise the necessary algorithms by threading. Treat Smartlink as a complex form with a rating of 1 for all rules purposes.
 [/spoiler]
 [/quote]
 
@@ -187,13 +187,13 @@ Although the technomancer’s physiology and wireless capabilities enable him to
 [quote]
 [b]可选规则:共鸣差异[/b]
 
-超链者、复合程式和网精的操作方式——使用共鸣——与标准角色、程序和代理的工作方式大相径庭。出于简单性和流畅性，从游戏机制的角度来看，它们通常是相同的，这确实具有一定的现实意义。例如，复合程式必须与节点和标准的矩阵程序交互，因此在输入/输出方面，复合程式需要“讲相同的语言”，并被视为合法的“软件”，否则就会出现问题。
+超链者、复合程式和网精的操作方式——使用共鸣——与标准角色、程序和代理的工作方式大相径庭。出于简单性和流畅性，从游戏机制的角度来看，它们通常是相同的，这确实具有一定的现实意义。例如，复合程式必须与节点和标准的矩阵程序交互，因此在输入/输出方面，复合程式需要“讲相同的语言“，并被视为合法的”软件”，否则就会出现问题。
 
 然而，复合程式和网精并不是由正常意义上的代码组成的，因此可以想象，针对它们的某些行动可能不会得到与针对典型软件相同的结果。这个可选规则提供了这一点，但GM应该意识到，这让超链者比黑客更有优势，所以应该谨慎使用。或者，这些选项可以作为回声处理。
 
 [spoiler]
 [b]OPTIONAL RULE: THE RESONANCE DIFFERENCE[/b]
-The way that technomancers, complex forms, and sprites operate—using Resonance—is far different from how standard personas, programs, and agents work. For simplicity and flow, these are often treated the same in terms of game mechanics, and, indeed, this makes some practical sense. For example, complex forms must interact with nodes and standard Matrix programs, and so the complex forms would need to “speak the same language” in terms of input/ output and be recognized as legitimate “software,” otherwise there would be problems. 
+The way that technomancers, complex forms, and sprites operate—using Resonance—is far different from how standard personas, programs, and agents work. For simplicity and flow, these are often treated the same in terms of game mechanics, and, indeed, this makes some practical sense. For example, complex forms must interact with nodes and standard Matrix programs, and so the complex forms would need to “speak the same language“ in terms of input/ output and be recognized as legitimate ”software,” otherwise there would be problems. 
 Nevertheless, complex forms and sprites are not composed of code in the normal sense, and so it is conceivable that certain actions made against them might not get the same results as they would against typical software. This optional rule provides for this, but gamemasters should be aware that this gives technomancers a certain edge over hackers, and so should apply it careful. Alternately, these options could be handled as echoes.
 [/spoiler]
 

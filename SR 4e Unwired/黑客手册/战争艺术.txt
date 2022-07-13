@@ -76,7 +76,7 @@ When you go phishing you need a lure or bait—something to entice the mark or o
 [spoiler]
 E-mail phishing attempts (line casting) are often caught by spam filters or discarded out of hand because they don’t interest the mark. Personally, I like to combine the phishing lure and line casting by setting up a fake site geared toward the mark’s interests and then sending a coupon or introductory offer to them. Naturally, this requires some knowledge of the mark and their interests.
 
-> A phishing lure can also be used to set up a botnet; you just load a hidden bot on every “customer” that enters the node to browse or shop.
+> A phishing lure can also be used to set up a botnet; you just load a hidden bot on every "customer" that enters the node to browse or shop.
 
 > Glitch
 [/spoiler]
@@ -253,7 +253,7 @@ Nowadays, just about anybody without a PAN is obviously a criminal hacker or a t
 
 > Kat o’Nine Tales
 
-> Some hackers go overboard with subscribed commlinks, daisychaining them together into a “stack” for various purposes, like being in more nodes at once or having more agents under their direct command available. These amateurs like to think they can “hop” from one commlink to another and avoid the damaging effects of IC—hey, if I’m not there, it can’t hurt me right? Wrong. Unless you logout of the node, your icon is still present—whether you’re paying attention to it or not, and damage from Black IC still hurts you directly. 
+> Some hackers go overboard with subscribed commlinks, daisychaining them together into a "stack" for various purposes, like being in more nodes at once or having more agents under their direct command available. These amateurs like to think they can "hop" from one commlink to another and avoid the damaging effects of IC—hey, if I’m not there, it can’t hurt me right? Wrong. Unless you logout of the node, your icon is still present—whether you’re paying attention to it or not, and damage from Black IC still hurts you directly. 
 
 > Slamm-0!
 
@@ -287,7 +287,7 @@ Nowadays, just about anybody without a PAN is obviously a criminal hacker or a t
 [spoiler]
 [b]SOCIAL ENGINEERING[/b]
 It’s an old axiom that the weakest link in any security system is the metahuman element, and that holds true for the Matrix as well. Good old fashioned social engineering is updating the ancient confidence trick to the digital realm of the Sixth World, preying on the better or worse natures of your fellow metahumans to gain access to a node or device. It’s amazing the variety of old scams that can be adapted to the Matrix, or the new ones that have emerged over time. 
-At its heart, social engineering has nothing to do with your hacking skills or your programs; it has to do with your ability to understand and manipulate other people—which can be tricky, as in many cases you need never meet the other person face to face. Often, social engineering can involve elaborate “sets” (nodes/AR ads dressed up to look like they belong to a legitimate company or government office) or the use of publicly available information to convince the mark of the validity of the company or that you are a legal employee of it. In many cases, the goal is information (e.g., a passcode, an account number, client personal details, a SIN, a list of nodes), and the social engineer tries to convince a user with legitimate access to that information to share it on some fabricated pretext, such as an accident, insurance claim, or research. 
+At its heart, social engineering has nothing to do with your hacking skills or your programs; it has to do with your ability to understand and manipulate other people—which can be tricky, as in many cases you need never meet the other person face to face. Often, social engineering can involve elaborate "sets" (nodes/AR ads dressed up to look like they belong to a legitimate company or government office) or the use of publicly available information to convince the mark of the validity of the company or that you are a legal employee of it. In many cases, the goal is information (e.g., a passcode, an account number, client personal details, a SIN, a list of nodes), and the social engineer tries to convince a user with legitimate access to that information to share it on some fabricated pretext, such as an accident, insurance claim, or research. 
 The benefit of social engineering is that you don’t have to risk your fanny hacking a node to get basic data that a secretary or customer service rep has immediate access to; the downside is there’s no guarantee it’ll work. It should come as no surprise that corps spend a good bit of time drilling proper information safeguards into their employees’ heads to combat social engineering, so don’t be surprised if the first secretary you meet seems skeptical bordering on paranoid.
 
 > Social engineering could be as easy as masquerading as a worker at a Matrix brothel and seducing a security weenie to gain intel on a node, or as elaborate as hiring sim actors to play their respective roles and put the mark in the middle of a drama. My favorite cons involve marks that are betrayed by their own lust or greed. 
@@ -347,7 +347,7 @@ While properly a subset of hackers, riggers have unique hardware, software, and 
 
 [spoiler]
 [b]JACKING BIODRONES AND CYBORGS[/b]
-While the so-called biodrones and cyborgs aren’t things the average shadowrunner is likely to run into, most riggers are at least aware of them. Both of these “drones” (and I use the term loosely) are rigged, so it follows that they can both be jacked. The easiest way to jack a biodrone is to intercept the traffic between it and its handler, and then spoof commands and jam it to prevent it from receiving any further orders.
+While the so-called biodrones and cyborgs aren’t things the average shadowrunner is likely to run into, most riggers are at least aware of them. Both of these "drones" (and I use the term loosely) are rigged, so it follows that they can both be jacked. The easiest way to jack a biodrone is to intercept the traffic between it and its handler, and then spoof commands and jam it to prevent it from receiving any further orders.
 
 > Are you speaking from experience, or is this all theoretical? Because I think most people would notice if they lost a biodrone, and even then you’d have to stop jamming it at some point to give the thing more commands. 
 

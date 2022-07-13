@@ -4,7 +4,7 @@
 
 “这个设施是限制电磁信号的。您必须放弃您的通讯链和所有其他网络电子设备。任何企图——“
 
-“我知道该怎么做，”她说着，交出了她的通讯链和其他一些小工具。门卫给了她一个“不许跟我顶嘴”的眼神，挥手让她进入扫描通道。她注意到他的右手从未在靠近枪的地方晃动过。看来我这副"公司工蜂"的样子没那么"公司"。
+“我知道该怎么做，“她说着，交出了她的通讯链和其他一些小工具。门卫给了她一个“不许跟我顶嘴”的眼神，挥手让她进入扫描通道。她注意到他的右手从未在靠近枪的地方晃动过。看来我这副”公司工蜂"的样子没那么"公司”。
 
 “这种扫描将检测所有的赛博植入体、隐藏武器和无线电子设备。如果你有什么东西需要申报为违禁品，请现在就申报。”他停顿了一下，好像真的非常希望她承认，是的，她带着武器并且很危险。可惜我没有。
 
@@ -20,7 +20,7 @@
 
 金克斯仍然站在旁边的走廊里，触摸着磁锁，她的生体信号关掉了，她进来了。她在心里打量着她没有惊动警报就穿过的阻碍。她的程式记录了在系统中巡逻的蜘蛛和IC。到目前为止，他们还是看不见她。
 
-她喊道，吉斯莫，她的网精。吉斯莫出现在一堆象形文字和代码碎片中。“在队伍进攻之前，我们有30秒的时间。”她向他示意。“让我们把这个地方变得一团糟。”
+她喊道，吉斯莫，她的网精。吉斯莫出现在一堆象形文字和代码碎片中。“在队伍进攻之前，我们有30秒的时间。“她向他示意。”让我们把这个地方变得一团糟。”
 
 [spoiler]
 [b]TECHNOMANCERS[/b]
@@ -45,5 +45,5 @@ The maglock’s AR interface came to life in her mind’s eye. The device was sl
 
 Still standing in the side corridor, touching the maglock, her biological radio muted, Jinx was in. She mentally surveyed the chokepoint node she had penetrated without alarm. Her forms took note of spiders and IC patrolling the system. So far, she remained invisible to them. 
 
-She called up, Gizmo, her sprite, who appeared in a burst of glyphs and code fragments. “We have thirty seconds before the team strikes,” she motioned to him. “Let’s trash this place.”
+She called up, Gizmo, her sprite, who appeared in a burst of glyphs and code fragments. “We have thirty seconds before the team strikes,“ she motioned to him. ”Let’s trash this place.”
 [/spoiler]

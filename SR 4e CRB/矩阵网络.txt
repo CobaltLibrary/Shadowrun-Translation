@@ -54,7 +54,7 @@ Commlinks are by far the most common way Average Joe and your typical shadowrunn
 
 [spoiler]
 [size=14pt][b]NEXI[/b][/size]
-A nexus (plural “nexi” in this context) is a mainframe or supercomputer. It can host multiple personae and many programs simultaneously. Nexi are rarely seen out and about, and are usually sequestered in server rooms and data centers, away from the general public. Nexi also dispense with many of the program limitations of less powerful devices.
+A nexus (plural "nexi" in this context) is a mainframe or supercomputer. It can host multiple personae and many programs simultaneously. Nexi are rarely seen out and about, and are usually sequestered in server rooms and data centers, away from the general public. Nexi also dispense with many of the program limitations of less powerful devices.
 [/spoiler]
 
 ---
@@ -189,7 +189,7 @@ The Sample Devices table (at left) lists typical Device ratings.
 
 如果你想为你的设备寻求更多的力量，你可以升级它的矩阵属性。升级设备只需拥有适当的硬件模块(用于响应能力和信号强度)或软件包(用于防火墙和系统等级)。一旦你有了模块或软件包，只需通过几分钟的工作将其安装到设备上。一个设备的等级只能在其原始等级的基础上+2。
 
-进一步的改进对性能没有额外的影响。你不必一次升级设备的所有属性，即使该设备有一个设备等级。在这种情况下，该设备不能再被视为一个"普通"设备，应该单独记录其属性。
+进一步的改进对性能没有额外的影响。你不必一次升级设备的所有属性，即使该设备有一个设备等级。在这种情况下，该设备不能再被视为一个“普通”设备，应该单独记录其属性。
 
 一个设备的每个属性只能有一个硬件模块或软件包。
 
@@ -199,7 +199,7 @@ The Sample Devices table (at left) lists typical Device ratings.
 [size=14pt][b]UPGRADING DEVICES[/b][/size]
 If you are looking for more power in your device, you can upgrade its Matrix attributes. Upgrading a device is simply a matter of having the proper hardware module (for Response and Signal) or software package (for Firewall and System). Once you have the module or package, simply install it into the device, a matter of a few minutes’ work. A device’s ratings may only be upgraded by +2 with regards to their original ratings. 
 
-Further improvements have no additional effect on performance. You do not have to upgrade all of a device’s attributes at once, even if the device has a Device Rating. In this case, the device can no longer be considered a “common” device, and should have its attributes recorded separately. 
+Further improvements have no additional effect on performance. You do not have to upgrade all of a device’s attributes at once, even if the device has a Device Rating. In this case, the device can no longer be considered a "common" device, and should have its attributes recorded separately. 
 
 A device may have only one hardware module or software package for each attribute. 
 
@@ -253,9 +253,9 @@ Every device has a processor limit, the number of programs at which its Response
 
 主动模式是大多数PAN的默认模式。在主动模式下，你既可以访问也可以被其他PAN、设备和网络访问。你允许任何人连接到你的通讯链并查看上面的内容。某些地区可能要求你的PAN处于主动模式，如机场、公司设施、城市中心等。你的公开个人档案是可见且可用的。
 
-一个处于被动模式的PAN可以被其他设备"看到"，但未经你的批准，他们不能进行访问。在这种模式下的PAN仍然会在活跃网络中显示。这种模式对于在高流量地区操作是很有用的，那里有很多广告网站或垃圾邮件发送者。被动模式允许你自动过滤掉噪音，只在特定的预先授权节点请求访问时提醒你。这是外围节点和枢纽的默认模式--在后者的情况下，需要系统管理员的批准访问，或通过使用已建立的账户来确保访问(见访问账户，第225页)。
+一个处于被动模式的PAN可以被其他设备“看到”，但未经你的批准，他们不能进行访问。在这种模式下的PAN仍然会在活跃网络中显示。这种模式对于在高流量地区操作是很有用的，那里有很多广告网站或垃圾邮件发送者。被动模式允许你自动过滤掉噪音，只在特定的预先授权节点请求访问时提醒你。这是外围节点和枢纽的默认模式--在后者的情况下，需要系统管理员的批准访问，或通过使用已建立的账户来确保访问(见访问账户，第225页)。
 
-在静默模式下，你的通讯链和PAN对其他节点是不可见的，除非你访问或授权它们。处于静默模式的用户被称为"幽灵"，因为其他用户没有办法通过无线方式看到他们。在一些高级社交场合不鼓励使用静默模式，因为这被认为是不礼貌的。在其他地区，特别是科技自由区或暗影机构，情况正好相反，隐匿性是被期待的。某些安保区域和高级场所禁止用户在静默模式下操作，并会对这样做的人进行驱逐、逮捕或施以更糟的惩罚。
+在静默模式下，你的通讯链和PAN对其他节点是不可见的，除非你访问或授权它们。处于静默模式的用户被称为“幽灵”，因为其他用户没有办法通过无线方式看到他们。在一些高级社交场合不鼓励使用静默模式，因为这被认为是不礼貌的。在其他地区，特别是科技自由区或暗影机构，情况正好相反，隐匿性是被期待的。某些安保区域和高级场所禁止用户在静默模式下操作，并会对这样做的人进行驱逐、逮捕或施以更糟的惩罚。
 
 [spoiler]
 [size=16pt][b]DEVICE MODES[/b][/size]
@@ -263,7 +263,7 @@ Devices can run in one of three modes: Active, Passive, and Hidden. You can chan
 
 Active mode is the default for most PANs. In Active mode, you can both access and be accessed by other PANs, devices, and networks. You give permission for anyone to connect to your commlink and see what is on it. Certain areas may require your PAN to be in active mode, like airports, corp facilities, major metropolitan centers, etc. Your public profile is visible and available. 
 
-A PAN in Passive mode can be “seen” by other devices, but cannot be accessed by them without your approval. PANs in this mode will still show up as active networks. This mode is useful for operating in high-traffic areas, where advertising nets or spammers abound. Passive mode allows you to automatically filter out the noise, only alerting you if specific pre-authorized nodes request access. This is the default mode for peripheral nodes and nexi—in the latter case access approval is required from a sysop or ensured by using an established account (see Access Accounts, p. 225). 
+A PAN in Passive mode can be "seen" by other devices, but cannot be accessed by them without your approval. PANs in this mode will still show up as active networks. This mode is useful for operating in high-traffic areas, where advertising nets or spammers abound. Passive mode allows you to automatically filter out the noise, only alerting you if specific pre-authorized nodes request access. This is the default mode for peripheral nodes and nexi—in the latter case access approval is required from a sysop or ensured by using an established account (see Access Accounts, p. 225). 
 
 In Hidden mode, your commlink and PAN are invisible to other nodes unless you access or authorize them. Users in hidden mode are said to be “ghosting,” since there is no way for other users to see them wirelessly. Using hidden mode is discouraged in some high-class social situations, where it is considered rude. In other areas, particularly tech-free zones or shadow establishments where privacy is expected, the opposite is true. Certain secure areas and high-class establishments prohibit users from operating in hidden mode, and will punish those doing so with expulsion, arrest, or worse.
 [/spoiler]
@@ -285,7 +285,7 @@ Your persona’s Matrix attributes are inherited from the device on which it is 
 
 [size=14pt][b]访问ID[/b][/size]
 
-你的化身也带有你的访问ID。你的访问ID是矩阵在机器层面上"辨认"你的方式，它是唯一的。矩阵的路由器用它来传递你的通讯链的数据。没有它你就不能使用矩阵，但它有一个缺点：它可以被用来追踪你。
+你的化身也带有你的访问ID。你的访问ID是矩阵在机器层面上“辨认”你的方式，它是唯一的。矩阵的路由器用它来传递你的通讯链的数据。没有它你就不能使用矩阵，但它有一个缺点：它可以被用来追踪你。
 
 每次你在线时(通常是全部时间)，你的存在都会被记录下来。你的访问ID与你所有的在线交易相关联，通常由你访问的任意设备记录。这个记录被称为你的数据轨迹，它可能被用来追踪你，或将你与某些犯罪或活动联系起来。由于你不能摆脱你的访问ID，这将使你在暗影中的生活受到影响，但也有办法解决这个问题。
 
@@ -296,7 +296,7 @@ Your persona’s Matrix attributes are inherited from the device on which it is 
 [spoiler]
 [size=14pt][b]ACCESS IDS[/b][/size]
 
-Your persona also bears your access ID. Your access ID is the way the Matrix “recognizes” you at a machine level; it is unique. The routers of the Matrix use it to pass data to and from your commlink. You can’t use the Matrix without it, but it has one drawback: it can be used to trace you. 
+Your persona also bears your access ID. Your access ID is the way the Matrix "recognizes" you at a machine level; it is unique. The routers of the Matrix use it to pass data to and from your commlink. You can’t use the Matrix without it, but it has one drawback: it can be used to trace you. 
 
 Every time you are online (which is usually all of the time) your presence is logged. Your access ID is associated with all of your online transactions and typically logged by any device you access. This record is called your datatrail, and it may be used to track you down or to link you to certain crimes or activities. Since you cannot just get rid of your access ID, this would put a damper on staying in the shadows, but there are ways around the problem. 
 
@@ -327,7 +327,7 @@ Whenever you change your access ID, the new one must be re-associated with your 
 
 你的PAN将你与矩阵连接起来。更重要的是，它还将你和你的队友联系起来。由于通讯链之间可以很容易地共享数据，即使距离很远，暗影狂奔者也可以不间断地联系。低语麦克风、文本短信和直接神经界面允许在狂奔期间进行无声交流，图像、音频和视频可以实时共享。
 
-这种信息技术水平的实际结果是，玩家之间的谈话可以在游戏中进行，也就是说，"超游"信息在《暗影狂奔》中是公平的。一个玩家角色知道的任何事情都可以立即与团队的其他成员分享。
+这种信息技术水平的实际结果是，玩家之间的谈话可以在游戏中进行，也就是说，“超游”信息在《暗影狂奔》中是公平的。一个玩家角色知道的任何事情都可以立即与团队的其他成员分享。
 
 当然，以这种方式联网意味着你的团队有一个电子足迹，可以被监听未授权广播的人发现。寻找战术上的平衡，避免被蜘蛛发现，是暗影狂奔团队中黑客角色的一部分。
 
@@ -335,7 +335,7 @@ Whenever you change your access ID, the new one must be re-associated with your 
 [size=16pt][b]COMMLINKS AND COMMMUNICATIONS[/b][/size]
 Your PAN connects you to the Matrix. More importantly, it also connects you to your teammates. Because of the ease with which data can be shared between commlinks, even over large distances, shadowrunners can be in constant contact. Subvocal microphones, text messaging, and direct neural interfaces allow for silent communication during a run, and images, audio, and video can be shared in real-time. 
 
-The practical upshot of this level of information technology is that table talk between players can be in-game, which is to say that “metagame” information is fair game in Shadowrun. Anything one player character knows can be instantly shared with the rest of the team. 
+The practical upshot of this level of information technology is that table talk between players can be in-game, which is to say that "metagame" information is fair game in Shadowrun. Anything one player character knows can be instantly shared with the rest of the team. 
 
 Of course, networking in this manner means your team has an electromagnetic footprint that can be detected by someone watching for unauthorized broadcasts. Finding a tactical balance and avoiding detection by spiders is part of the role of the hacker on a shadowrun team.
 [/spoiler]
@@ -364,13 +364,13 @@ Your commlink comes equipped with a number of options for customizing your perso
 
 [size=16pt][b]节点[/b][/size]
 
-节点是矩阵中的一个虚拟空间。物理世界中的每一个设备都是矩阵中的一个节点(除非它关机了)。如果图标是矩阵中的"什么"，那么节点就是"哪里"。
+节点是矩阵中的一个虚拟空间。物理世界中的每一个设备都是矩阵中的一个节点(除非它关机了)。如果图标是矩阵中的“什么"，那么节点就是"哪里”。
 
 节点在VR中作为场所出现。图标在节点中与环境和彼此互动。当你第一次进入VR时，你的图标开始在你的通讯链的节点中，这个节点包含了你的PAN中的所有图标。
 
 [spoiler]
 [size=16pt][b]NODES[/b][/size]
-A node is a virtual space in the Matrix. Every device in the physical world projects a node in the Matrix (unless it is shut down). If icons are the “what” in the Matrix, nodes are the “where.” 
+A node is a virtual space in the Matrix. Every device in the physical world projects a node in the Matrix (unless it is shut down). If icons are the "what" in the Matrix, nodes are the “where.” 
 
 Nodes appear in VR as places. Icons interact with the environment and one another in nodes. When you first enter VR, your icon starts in your commlink’s node, which contains icons for everything in your PAN.
 [/spoiler]
@@ -393,7 +393,7 @@ reveal the truth (p. 228).
 
 [size=16pt][b]访问节点[/b][/size]
 
-当你在线时，你可以访问一个或多个节点。很多时候，你只是向节点请求信息，就像你使用现代万维网时那样。你向节点发送一个短信来获取一些数据，而节点则将其发回给你。如果你想实际访问矩阵中的节点，无论是做一些"现场"研究，骇入节点，还是只打算和其他图标一起玩，你都需要登录到节点上。
+当你在线时，你可以访问一个或多个节点。很多时候，你只是向节点请求信息，就像你使用现代万维网时那样。你向节点发送一个短信来获取一些数据，而节点则将其发回给你。如果你想实际访问矩阵中的节点，无论是做一些“现场”研究，骇入节点，还是只打算和其他图标一起玩，你都需要登录到节点上。
 
 [spoiler]
 [size=16pt][b]ACCESSING NODES[/b][/size]
@@ -402,31 +402,31 @@ While online, you can access one or more nodes. Much of the time, you simply req
 
 [size=14pt][b]订阅[/b][/size]
 
-要连接到一个节点(除了你的化身正在运行的节点之外)，你必须订阅它。订阅是一个通过矩阵的双向通信链接。这是一个稳定的链接，可以维持很长一段时间。如果你想在矩阵中"旅行"到一个节点，你必须订阅该节点，这意味着你必须能够直接与它连接(通过有线连接，或者在相互的信号范围内)，或者通过矩阵网络建立一个路由。订阅一个节点是一个复杂动作(登录, 第231页)。当你登录到一个节点时，你的图标会出现在那里。
+要连接到一个节点(除了你的化身正在运行的节点之外)，你必须订阅它。订阅是一个通过矩阵的双向通信链接。这是一个稳定的链接，可以维持很长一段时间。如果你想在矩阵中“旅行”到一个节点，你必须订阅该节点，这意味着你必须能够直接与它连接(通过有线连接，或者在相互的信号范围内)，或者通过矩阵网络建立一个路由。订阅一个节点是一个复杂动作(登录, 第231页)。当你登录到一个节点时，你的图标会出现在那里。
 
 你可以同时开启一个以上的订阅。每个化身的订阅数量限制为其系统等级的两倍(例如，在系统等级3的通讯链上的一个化身可以同时拥有最多六个活动订阅)。你不必订阅你的化身所运行的节点；你总是在该节点中，而不需要订阅它。
 
 [spoiler]
 [size=14pt][b]SUBSCRIPTIONS[/b][/size]
-To connect to a node (aside from the one on which your persona is running), you must subscribe to it. A subscription is a two-way communications link through the Matrix. This is a steady link that can be maintained for extended periods of time. You must subscribe to a node if you want to “travel” to it in the Matrix, which means that you must be able to either connect with it directly (with a wired connection, or when within mutual Signal range) or by establishing a route through the Matrix network. Subscribing to a node is a Complex Action (Log On, p. 231). When you log on to a node, your icon appears there. 
+To connect to a node (aside from the one on which your persona is running), you must subscribe to it. A subscription is a two-way communications link through the Matrix. This is a steady link that can be maintained for extended periods of time. You must subscribe to a node if you want to "travel" to it in the Matrix, which means that you must be able to either connect with it directly (with a wired connection, or when within mutual Signal range) or by establishing a route through the Matrix network. Subscribing to a node is a Complex Action (Log On, p. 231). When you log on to a node, your icon appears there. 
 
 You can have more than one subscription open at a time. Each persona is limited to a number of subscriptions equal to twice its System (e.g., a persona on a System 3 commlink could have up to six active subscriptions at a time). You do not have to subscribe to the node in which your persona is running; you are always in that node without the need to subscribe to it.
 [/spoiler]
 
 [size=14pt][b]多重订阅[/b][/size]
 
-同时订阅到多个节点是可能做到的。这意味着你可以在任何时候在矩阵的多个地方拥有图标。你知道在你的图标存在的所有节点中正在发生什么。你一次只能控制一个图标，但可以随意切换哪个是"活跃"图标。这对矩阵战斗有很大影响(在多个节点同时作战，第237页)。
+同时订阅到多个节点是可能做到的。这意味着你可以在任何时候在矩阵的多个地方拥有图标。你知道在你的图标存在的所有节点中正在发生什么。你一次只能控制一个图标，但可以随意切换哪个是“活跃”图标。这对矩阵战斗有很大影响(在多个节点同时作战，第237页)。
 
 [spoiler]
 [size=14pt][b]MULTIPLE SUBSCRIPTIONS[/b][/size]
-It is possible to be subscribed to multiple nodes at once. This means you can have icons in multiple places in the Matrix at any given time. You are aware of what is happening in all nodes in which your icon exists. You may only control one icon at a time, but may switch which is the “acting” icon at will. This has ramifications for cybercombat (Simultaneous Combat in Multiple Nodes, p. 237).
+It is possible to be subscribed to multiple nodes at once. This means you can have icons in multiple places in the Matrix at any given time. You are aware of what is happening in all nodes in which your icon exists. You may only control one icon at a time, but may switch which is the "acting" icon at will. This has ramifications for cybercombat (Simultaneous Combat in Multiple Nodes, p. 237).
 [/spoiler]
 
 [size=14pt][b]访问账户[/b][/size]
 
-当你登录到一个节点时，你是以一定的访问级别进行操作的，而这是由你的账户决定的。有四种类型的账户，公共账户、用户账户、安保账户和管理员账户，按访问权限从低到高的顺序排列。除了公共账户，获取访问账户级别需要授权，这将在下一节"授权和认证"中描述。
+当你登录到一个节点时，你是以一定的访问级别进行操作的，而这是由你的账户决定的。有四种类型的账户，公共账户、用户账户、安保账户和管理员账户，按访问权限从低到高的顺序排列。除了公共账户，获取访问账户级别需要授权，这将在下一节“授权和认证”中描述。
 
-一个公共账户是一个节点的"门厅"。在没有任何授权的情况下登录时，你会得到一个公共账户。公共账户通常允许用户访问关于该节点的公开信息，也可以允许少量的功能，如订购食物、购物、填写表格等，这取决于该节点的目的。大多数零售店、商场、餐馆和其他向公众开放的节点都向客户提供这种账户。
+一个公共账户是一个节点的“门厅”。在没有任何授权的情况下登录时，你会得到一个公共账户。公共账户通常允许用户访问关于该节点的公开信息，也可以允许少量的功能，如订购食物、购物、填写表格等，这取决于该节点的目的。大多数零售店、商场、餐馆和其他向公众开放的节点都向客户提供这种账户。
 
 用户账户提供给属于该节点的用户，如公司的雇员或矩阵夜总会的付费客户。拥有这种账户的图标一般被允许运行程序，创建和编辑文件，并执行节点的常规工作(不管是什么)，这取决于节点的功能。用户账户需要某种形式的授权才能访问。
 
@@ -440,7 +440,7 @@ It is possible to be subscribed to multiple nodes at once. This means you can ha
 [size=14pt][b]ACCESS ACCOUNTS[/b][/size]
 When you log on to a node, you do so at a certain access level, which is defined by your account. There are four types of accounts, public, user, security, and admin, in order of least to most access. Except for public accounts, access to an account level requires authorization, which is described in the next section, Authorization and Authentication. 
 
-A public account is a sort of “foyer” for a node. When logging on without any authentication, you get a public account. Public accounts usually allow the user to access public information about the node, and could also allow a small amount of functionality, like the ability to order food, shop, fill out forms, etc., depending on the node’s purpose. Most retail outlets, malls, restaurants, and other nodes open to the public offer this account to customers. 
+A public account is a sort of "foyer" for a node. When logging on without any authentication, you get a public account. Public accounts usually allow the user to access public information about the node, and could also allow a small amount of functionality, like the ability to order food, shop, fill out forms, etc., depending on the node’s purpose. Most retail outlets, malls, restaurants, and other nodes open to the public offer this account to customers. 
 
 A user account is offered to users who belong in the node, like the employees of a company or paid customers of a Matrix nightclub. Icons with this account are generally allowed to run programs, create and edit files, and perform the usual work of the node (whatever that may be), depending on the function of the node. User accounts require some form of authorization to access. 
 
@@ -457,7 +457,7 @@ Peripheral nodes are simple constructs and only have public and admin access. Th
 
 节点可以采用一些方法来认证用户。对于低安保级别的节点，如开罐器或企业厕所，仅访问ID就足够了。
 
-节点可以在允许进入之前要求一个基本密码。基本密码由一组符号组成，你输入这些符号就可以登录到一个节点上。最常见的密码是字母与数字混合的字符串，不过感谢AR和VR技术，密码"符号"也可以由图像、曲调，甚至特定的动作组成。
+节点可以在允许进入之前要求一个基本密码。基本密码由一组符号组成，你输入这些符号就可以登录到一个节点上。最常见的密码是字母与数字混合的字符串，不过感谢AR和VR技术，密码“符号”也可以由图像、曲调，甚至特定的动作组成。
 
 如果这还不够安全，链接密码需要特定某个人或某个设备的用户额外输入。这个密码与用户或他的通讯链的独特之处相联系。这可以是安保扫描仪的扫描(视网膜、指纹、掌纹等)或设备操作系统的正确签名或独特的RFID标签。如果扫描或签名与记录不一致，访问将被拒绝。
 
@@ -469,7 +469,7 @@ In order to allow you access to anything beyond a public account, the node must 
 
 There are a number of methods a node can employ to authenticate users. For low-security nodes like can openers or corporate restrooms, the access ID alone is enough. 
 
-A node could demand a basic passcode before permitting entry. Basic passcodes consist of sets of symbols that you enter to log on to a node. The most common passcodes are alphanumeric strings, but thanks to augmented and virtual reality, passcode “symbols” can also consist of images, tunes, or even specific movements.
+A node could demand a basic passcode before permitting entry. Basic passcodes consist of sets of symbols that you enter to log on to a node. The most common passcodes are alphanumeric strings, but thanks to augmented and virtual reality, passcode "symbols" can also consist of images, tunes, or even specific movements.
 
 If this is not secure enough, a linked passcode requires an extra bit of input from the user specific to a person or a device. This passcode is linked to something the user or his commlink uniquely possesses. This can be a scan from a security scanner (retina, fingerprint, palm print, and so on) or the correct signature from the device’s OS or a unique RFID tag. If the scan or signature doesn’t match the records, access will be denied. 
 
@@ -514,11 +514,11 @@ AR can also be a drawback. If, for example, you are simultaneously performing a 
 
 [size=14pt][b]虚拟现实[/b][/size]
 
-在VR中，你"存在"于你的化身在矩阵中所处的位置。你要么从你自己的通讯链的节点开始，要么从你所订阅的一个节点开始，然后从那里"移动"到其他节点。在矩阵中，物理距离是没有意义的，它是网络连接、可用内存、交换系统和传输速率的问题，而不是实际的米和公里。到达世界另一端的节点几乎是瞬间的事。
+在VR中，你“存在"于你的化身在矩阵中所处的位置。你要么从你自己的通讯链的节点开始，要么从你所订阅的一个节点开始，然后从那里"移动”到其他节点。在矩阵中，物理距离是没有意义的，它是网络连接、可用内存、交换系统和传输速率的问题，而不是实际的米和公里。到达世界另一端的节点几乎是瞬间的事。
 
 来自拟感模块的拟感信号将实际矩阵的复杂代码结构转换为图形图标和其他感官数据(包括情感)。你在全沉浸VR中看到的每个物体都是一个图标。这些图标代表程序、设备、系统和其他用户。在全沉浸VR中所经历的一切，都是一种符号化的表现。并非所有的图标都是它们看起来的样子。要知道某样东西到底是什么，你需要用矩阵侦察检定来分析它（见第228页）。
 
-全沉浸VR有多"真实"？它的大部分看起来都是计算机生成的。无论细节的程度多么令人震惊，甚至是照片般的逼真，它仍然明显是人工的。都市传奇和黑客传说描述了矩阵的一些角落，它们与现实世界几乎没有区别--被称为紫外光节点的神话般的危险地方。
+全沉浸VR有多“真实”？它的大部分看起来都是计算机生成的。无论细节的程度多么令人震惊，甚至是照片般的逼真，它仍然明显是人工的。都市传奇和黑客传说描述了矩阵的一些角落，它们与现实世界几乎没有区别--被称为紫外光节点的神话般的危险地方。
 
 感受到VR矩阵的全部光辉，物理感官就会被完全浸没。当处于VR中，在物理世界中采取的任何行动都会受到-6的骰池惩罚。
 
@@ -526,11 +526,11 @@ VR可以有两种体验方式：更安全的冷模或更强大并危险的热模
 
 [spoiler]
 [size=14pt][b]VIRTUAL REALITY[/b][/size]
-In VR, you “exist” wherever your persona is within the Matrix. You start either in the node of your own commlink or one of the nodes to which you are subscribed and from there “move” to other nodes. Physical distance is meaningless within the Matrix—it’s all a matter of network connections, available memory, switching systems, and transmission rates, not actual meters and kilometers. Getting to a node on the other side of the world is practically instantaneous. 
+In VR, you "exist" wherever your persona is within the Matrix. You start either in the node of your own commlink or one of the nodes to which you are subscribed and from there "move" to other nodes. Physical distance is meaningless within the Matrix—it’s all a matter of network connections, available memory, switching systems, and transmission rates, not actual meters and kilometers. Getting to a node on the other side of the world is practically instantaneous. 
 
 The simsense signal from the sim module translates the complex code structures of the actual Matrix into graphical icons and other sensory data (including emotions). Every object you see in full VR is an icon. These icons represent programs, devices, systems, and other users. Everything experienced in full VR is a symbolic representation. Not all icons are what they appear to be. To tell what something really is, you need to analyze it with a Matrix Perception Test (see p. 228). 
 
-How “real” is full VR? Most of it looks computer-generated. No matter how astounding or even photo-realistic the level of detail, it is still obviously artificial. Urban legend and hacker lore describe corners of the Matrix that are virtually indistinguishable from the real world— mythical and dangerous places called ultraviolet nodes. 
+How "real" is full VR? Most of it looks computer-generated. No matter how astounding or even photo-realistic the level of detail, it is still obviously artificial. Urban legend and hacker lore describe corners of the Matrix that are virtually indistinguishable from the real world— mythical and dangerous places called ultraviolet nodes. 
 
 Perceiving the VR Matrix in its full glory overwhelms the physical senses. Any action taken in the physical world while in VR suffers a –6 dice pool penalty. 
 
@@ -552,7 +552,7 @@ When operating in full VR using cold sim, you use your Matrix Initiative rather 
 
 [size=14pt][b]热模[/b][/size]
 
-热模的接口已经被修改，以绕过保护你的神经系统不受破坏性生物反馈的拟感峰值限制器。冷模类似于合法的模拟轻弹，而热模接口的信号强度与线头从BTL芯片得到的闪烁电流相当。这种输入的强度使你能够在"比真实更真实"的条件下体验矩阵。这样做似乎是纯粹的疯狂，因为即使是随机的线路噪音也可能转化为潜在的致命反馈，但许多黑客依靠增强的信号强度为他们提供所需的速度。在热模下，你会变得高度警觉，因为你的每一个感官和每一个神经元都会对通过矩阵流转的机器代码无比敏感。你可以从字面上感觉到程序代码在你的手指下运行，因为你的化身翻译了更大程度的数据，而这些仅仅通过基本感官是无法感知的。
+热模的接口已经被修改，以绕过保护你的神经系统不受破坏性生物反馈的拟感峰值限制器。冷模类似于合法的模拟轻弹，而热模接口的信号强度与线头从BTL芯片得到的闪烁电流相当。这种输入的强度使你能够在“比真实更真实”的条件下体验矩阵。这样做似乎是纯粹的疯狂，因为即使是随机的线路噪音也可能转化为潜在的致命反馈，但许多黑客依靠增强的信号强度为他们提供所需的速度。在热模下，你会变得高度警觉，因为你的每一个感官和每一个神经元都会对通过矩阵流转的机器代码无比敏感。你可以从字面上感觉到程序代码在你的手指下运行，因为你的化身翻译了更大程度的数据，而这些仅仅通过基本感官是无法感知的。
 
 当使用热模进行全沉浸VR操作时，使用你的矩阵主动性而不是你的物理主动性。热模的矩阵主动性等于你的反应+直觉+1，你会得到两个额外的主动性流程（总共三个）。在使用热模时，你还会在所有的矩阵检定中得到一个+2的骰池奖励。
 

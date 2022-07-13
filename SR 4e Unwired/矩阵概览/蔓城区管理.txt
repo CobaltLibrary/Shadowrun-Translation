@@ -2,13 +2,13 @@
 
 几十年前，资金紧张的城市和政府就将大部分必要的蔓城区管理职能私有化了。无线矩阵也不例外。以新网为首的私有公司视无线矩阵为未来，通过承诺更易管理和降低成本，争夺利润丰厚的政府合同来建设和运营无线基础设施。现在，从废弃物管理到执法都使用无线技术来帮助管理蔓城区的日常生活。
 
-大多数城市都拥有几个矩阵服务提供商(Matrix Service Providers)，或称MSP。当你在一个MSP注册时，你会得到一个通讯码，如果你更换供应商，这个号码是可以转让的。你可以购买一个通讯链，然后选择一个MSP来激活它，或者先与一个MSP签约，然后在合同中获得一个"免费"通讯链。大多数薪奴都使用免费的通讯链，尽管它经常是一个装有垃圾软件的低端型号。此外，许多MSP只与他们品牌(或附属品牌)的通讯链合作。对于我们这些狂奔者来说，也有一些黑MSP来迎合那些重视隐私(并且在注册时不希望进行背景调查)的人。
+大多数城市都拥有几个矩阵服务提供商(Matrix Service Providers)，或称MSP。当你在一个MSP注册时，你会得到一个通讯码，如果你更换供应商，这个号码是可以转让的。你可以购买一个通讯链，然后选择一个MSP来激活它，或者先与一个MSP签约，然后在合同中获得一个“免费”通讯链。大多数薪奴都使用免费的通讯链，尽管它经常是一个装有垃圾软件的低端型号。此外，许多MSP只与他们品牌(或附属品牌)的通讯链合作。对于我们这些狂奔者来说，也有一些黑MSP来迎合那些重视隐私(并且在注册时不希望进行背景调查)的人。
 
 [spoiler]
 [color=brown][size=16pt][b]SPRAWL MANAGEMENT[/b][/size][/color]
 Cash strapped cities and governments privatized most essential sprawl management functions decades ago. The wireless Matrix is no different. Touting wireless Matrix as the future, promising easier administration and lower costs, private corporations led by NeoNET fought over lucrative government contracts to build and operate wireless infrastructures. Now, everything from waste management to law enforcement uses wireless technology to help manage daily life in the Sprawl. 
 
-Most cities also have several Matrix Service Providers, or MSPs. When you sign up with an MSP, you get a commlink number that’s transferable if you ever switch providers. You can purchase a commlink and then activate it by choosing a MSP, or sign on with an MSP first and receive a “free” commlink with your contract. Most wageslaves use the free commlink, although it’s frequently a lower-end model loaded with crapware. Also, many MSPs will only work with their brand (or affiliated brand) of commlink. For us runner types, there are also black MSPs, catering to those individuals who value privacy (and don’t really want a background check run when they sign up).
+Most cities also have several Matrix Service Providers, or MSPs. When you sign up with an MSP, you get a commlink number that’s transferable if you ever switch providers. You can purchase a commlink and then activate it by choosing a MSP, or sign on with an MSP first and receive a "free" commlink with your contract. Most wageslaves use the free commlink, although it’s frequently a lower-end model loaded with crapware. Also, many MSPs will only work with their brand (or affiliated brand) of commlink. For us runner types, there are also black MSPs, catering to those individuals who value privacy (and don’t really want a background check run when they sign up).
 [/spoiler]
 
 > 要注册合法的服务或购买通讯链，你需要一个有效的SIN和ID，这实际上是把无SIN的人关在了无线世界之外。
@@ -19,7 +19,7 @@ Most cities also have several Matrix Service Providers, or MSPs. When you sign u
 
 > Glitch
 
-> 或者在一个黑MSP上登记。在西雅图，无政府主义的"左岸"黑客组织经营着一个相当可靠的黑MSP。如果你知道哪里可以找到他们的"办公室"，你就可以得到一个账户。你预先支付前三个月的服务费(是的，他们的价格很高，而且你不会得到一个免费的通讯链)，不问问题，不给答案。当你的账目结清后，一个通讯码就会被放在收件箱里。他们提供匿名信息中继、临时收件箱，以及其他各种服务，比如盗版软件。给我留言，然后我可以把他们的联系方式发给你。
+> 或者在一个黑MSP上登记。在西雅图，无政府主义的“左岸"黑客组织经营着一个相当可靠的黑MSP。如果你知道哪里可以找到他们的"办公室”，你就可以得到一个账户。你预先支付前三个月的服务费(是的，他们的价格很高，而且你不会得到一个免费的通讯链)，不问问题，不给答案。当你的账目结清后，一个通讯码就会被放在收件箱里。他们提供匿名信息中继、临时收件箱，以及其他各种服务，比如盗版软件。给我留言，然后我可以把他们的联系方式发给你。
 
 > Kat o’ Nine Tales
 
@@ -36,7 +36,7 @@ Most cities also have several Matrix Service Providers, or MSPs. When you sign u
 
 > Glitch
 
-> Or sign up with a Black MSP. In Seattle, the anarchist Left Bank hacker outfit runs one that’s pretty reliable. If you know where to find their “office” you can get an account. You pay for the first 3 months service up front (and yes, their prices are high, and no, you don’t get a free ‘link), no questions asked, no answers given. When your cred clears, a commlink number is placed in a drop box. They provide anonymous message relays, temporary drop boxes, and a variety of other services—like pirated warez. Drop me a line and I can send you their way.
+> Or sign up with a Black MSP. In Seattle, the anarchist Left Bank hacker outfit runs one that’s pretty reliable. If you know where to find their "office" you can get an account. You pay for the first 3 months service up front (and yes, their prices are high, and no, you don’t get a free ‘link), no questions asked, no answers given. When your cred clears, a commlink number is placed in a drop box. They provide anonymous message relays, temporary drop boxes, and a variety of other services—like pirated warez. Drop me a line and I can send you their way.
 
 > Kat o’ Nine Tales
 
@@ -48,7 +48,7 @@ Most cities also have several Matrix Service Providers, or MSPs. When you sign u
 [quote]
 [size=14pt][b]今日心理学：ARG[/b][/size]
 
-增强现实悲痛，或称为ARG，是最新的心理学术语，指的是各种如无法控制的愤怒、极端暴力倾向、情绪爆发，以及对其他在线图标的无端攻击等症状。它被称为"虚拟路怒症"，是一种常见现象，特别是在严重的填埋区。
+增强现实悲痛，或称为ARG，是最新的心理学术语，指的是各种如无法控制的愤怒、极端暴力倾向、情绪爆发，以及对其他在线图标的无端攻击等症状。它被称为“虚拟路怒症”，是一种常见现象，特别是在严重的填埋区。
 
 [spoiler]
 [size=14pt][b]PSYCHOLOGY TODAY: ARG[/b][/size]

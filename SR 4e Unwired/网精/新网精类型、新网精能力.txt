@@ -241,7 +241,7 @@ Tutor sprites possess skillsofts that grant them an understanding of one or more
 [spoiler]
 [b]TRACEROUTE[/b]
 The Traceroute power allows a sprite to sniff out the datatrail left by an individual’s daily interactions with the virtual world—credit transactions, phone calls, video surveillance shots, email, driving a car with GridGuide, or even using a passkey to get through a corporate enclave’s security gate. In 2070, almost everyone leaves a constant trace of themselves within the Matrix on a daily basis, every time they access their commlinks. Traceroute gives a sprite the ability to home in on the most recent interactions. 
-To use Traceroute, the sprite “sniffs” some data relating to the target and makes an Extended Test pitting its Rating + Track against a variable threshold as determined by the Traceroute Table (p. 157) with a base time of 1 hour. If it succeeds, the sprite can locate the node that the target is currently in, if that person is online, or the most recent physical location from which the target interacted with the Matrix.
+To use Traceroute, the sprite "sniffs" some data relating to the target and makes an Extended Test pitting its Rating + Track against a variable threshold as determined by the Traceroute Table (p. 157) with a base time of 1 hour. If it succeeds, the sprite can locate the node that the target is currently in, if that person is online, or the most recent physical location from which the target interacted with the Matrix.
 [/spoiler]
 
 [table]

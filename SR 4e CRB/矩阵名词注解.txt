@@ -6,19 +6,19 @@
 
 [b]增强现实(AR)：[/b]以可视化数据、图表、声音、触觉、嗅觉和/或有限的拟感的形式加入或覆盖在用户的自然感官感知上的信息。
 
-[b]增强现实对象(ARO，读作"arrow")：[/b]用来表示增强现实中的事物的虚拟象征(通常是可视化数据)。
+[b]增强现实对象(ARO，读作“arrow”)：[/b]用来表示增强现实中的事物的虚拟象征(通常是可视化数据)。
 
 [b]化身形象(Avater)：[/b]一个化身的图标。
 
-[b]"比生活更美好"(BTL，读作"beetle")：[/b]超越现实水平的感官模拟，有潜在的危险性和成瘾性。
+[b]“比生活更美好"(BTL，读作"beetle”)：[/b]超越现实水平的感官模拟，有潜在的危险性和成瘾性。
 
 [b]冷模(Cold Sim)：[/b]标准的拟感，在合法、安全的水平上运行。被大多数人用来访问虚拟现实。
 
-[b]通讯链(Commlink，简称为"link")：[/b]几乎所有人都用来访问无线服务的个人电脑。通讯链也作为用户的PAN的枢纽。
+[b]通讯链(Commlink，简称为“link”)：[/b]几乎所有人都用来访问无线服务的个人电脑。通讯链也作为用户的PAN的枢纽。
 
 [b]复合程式(Complex Form)：[/b]超链者用来操纵矩阵的精神算法。
 
-[b]中控器(Control Rig)：[/b]一种殖装，当机师"跳入"载具时可以增强他们的能力(第338页)。
+[b]中控器(Control Rig)：[/b]一种殖装，当机师“跳入”载具时可以增强他们的能力(第338页)。
 
 [b]死障区(Dead Zone)：[/b]一个没有无线网络的地方。
 
@@ -50,11 +50,11 @@
 
 [b]图标(Icon)：[/b]一个程序、文件或其他虚拟对象在矩阵中的虚拟表示。
 
-[b]入侵对策程序(Intrusion Countermeasures，缩写为"IC"，读作"ice")：[/b]安装在一个节点上的某种代理，其目的是保护该节点不被未经授权的用户使用。
+[b]入侵对策程序(Intrusion Countermeasures，缩写为“IC"，读作"ice”)：[/b]安装在一个节点上的某种代理，其目的是保护该节点不被未经授权的用户使用。
 
 [b]接入点(Jackpoint)：[/b]任何通过有线连接提供矩阵访问的物理位置。
 
-[b]活体化身(Living Persona)：[/b]精神上的"有机计算机"，允许超链者仅使用他们的思想就能访问矩阵。
+[b]活体化身(Living Persona)：[/b]精神上的“有机计算机”，允许超链者仅使用他们的思想就能访问矩阵。
 
 [b]局域网(LAN)：[/b]计算机和其他电子设备之间的本地通信系统。
 
@@ -70,7 +70,7 @@
 
 [b]节点(Node)：[/b]矩阵中某个设备的象征。
 
-[b]操作系统(Operating System，简写为"OS")：[/b]控制一个特定设备的主程序。这通常是指系统或自驾程序，但成套的操作系统通常也会有一个防火墙。
+[b]操作系统(Operating System，简写为“OS”)：[/b]控制一个特定设备的主程序。这通常是指系统或自驾程序，但成套的操作系统通常也会有一个防火墙。
 
 [b]个域网(PAN)：[/b]由一个人身上(或体内)携带的所有无线连接的电子设备创建的网络。通讯链通常是这个网络的主要枢纽。
 
@@ -78,21 +78,21 @@
 
 [b]自驾(Pilot)：[/b]一个类似于系统程序的机器人头脑程序，但包含了半自主的决策能力。用于代理和无人机。
 
-[b]射频识别标签(RFID，读作"arfid")：[/b]一种存有数据的小型设备，可以在短距离内将数据传输给附近的接收者。
+[b]射频识别标签(RFID，读作“arfid”)：[/b]一种存有数据的小型设备，可以在短距离内将数据传输给附近的接收者。
 
-[b]区域级电信网格(Regional Telecommunication Grid，缩写为"RTG")：[/b]一种大范围的网格，RTG覆盖了整个国家。
+[b]区域级电信网格(Regional Telecommunication Grid，缩写为“RTG”)：[/b]一种大范围的网格，RTG覆盖了整个国家。
 
 [b]响应能力(Response)：[/b]一个代表了信息处理能力的计算机属性。
 
-[b]机师(Rigger)：[/b]一个"跳入"适当的设备(通常是无人机、载具或安保系统)，以便直接控制它，就像他是那个设备一样的角色。通常配备有一个中控器(第338页)。
+[b]机师(Rigger)：[/b]一个“跳入”适当的设备(通常是无人机、载具或安保系统)，以便直接控制它，就像他是那个设备一样的角色。通常配备有一个中控器(第338页)。
 
-[b]塑模(Sculpting)：[/b]矩阵中的节点或图标的 "外观和感觉"。
+[b]塑模(Sculpting)：[/b]矩阵中的节点或图标的 “外观和感觉”。
 
 [b]信号强度(Signal)：[/b]一种计算机属性，代表其无线射频信号的强度。
 
 [b]模录器(Simrigs)：[/b]用于记录拟感的设备(第342页)。
 
-[b]拟感(Simsense，缩写为"sim"，读作"simstim")：[/b]使一个人能够体验发生在别人身上的现实的硬件和程序。需要有直接神经界面。
+[b]拟感(Simsense，缩写为“sim"，读作"simstim”)：[/b]使一个人能够体验发生在别人身上的现实的硬件和程序。需要有直接神经界面。
 
 [b]填埋区(Span Zone)：[/b]一个充斥着入侵性和/或病毒性AR广告的区域。
 
@@ -112,7 +112,7 @@
 
 [b]虚拟现实(Virtual Reality)：[/b]一种忽略外界刺激的状态，使用者只接受来自矩阵的感受。需要一个直接神经界面。
 
-[b]广域网(Wide Area Network，缩写为"WAN")：[/b]一个网络，通常是无线的，覆盖约几公顷的范围。
+[b]广域网(Wide Area Network，缩写为“WAN”)：[/b]一个网络，通常是无线的，覆盖约几公顷的范围。
 
 [spoiler]
 [color=brown][size=16pt][b]MATRIX JARGON[/b][/size][/color]
@@ -123,15 +123,15 @@
 
 [b]Augmented Reality (AR):[/b] Information added to or overlaid upon a user’s sensory perceptions in the form of visual data, graphics, sounds, haptics, smell, and/or limited simsense.
 
-[b]Augmented Reality Object (ARO, “arrow”):[/b] Virtual representations (usually visual graphics) used to represent things in augmented reality.
+[b]Augmented Reality Object (ARO, "arrow"):[/b] Virtual representations (usually visual graphics) used to represent things in augmented reality.
 
 [b]Avatar:[/b] An icon of a persona. 
 
-[b]Better–Than–Life (BTL, “beetle”):[/b] Hyper–real levels of simsense that are potentially dangerous and addictive.
+[b]Better–Than–Life (BTL, "beetle"):[/b] Hyper–real levels of simsense that are potentially dangerous and addictive.
 
 [b]Cold Sim:[/b] Standard simsense, operating at legal, safe levels. Used by most people to access virtual reality.
 
-[b]Commlink (“link”):[/b] The personal computer used by nearly everyone to access wireless services. Commlinks also serve as the hub of the user’s PAN.
+[b]Commlink ("link"):[/b] The personal computer used by nearly everyone to access wireless services. Commlinks also serve as the hub of the user’s PAN.
 
 [b]Complex Form:[/b] The mental algorithms that technomancers use to manipulate the Matrix.
 
@@ -167,7 +167,7 @@
 
 [b]Icon:[/b] The virtual representation of a program, file, or other virtual object in the Matrix.
 
-[b]Intrusion Countermeasures (IC, “ice”):[/b] Any agent installed in a node with the express purpose of protecting that node from unauthorized users.
+[b]Intrusion Countermeasures (IC, "ice"):[/b] Any agent installed in a node with the express purpose of protecting that node from unauthorized users.
 
 [b]Jackpoint:[/b] Any physical location that provides access to the Matrix by plugging in with a wired connection.
 
@@ -195,7 +195,7 @@
 
 [b]Pilot:[/b] A robotic brain program similar to the System program but including semi–autonomous decision–making abilities. Used for agents and drones.
 
-[b]Radio Frequency Identification tag (RFID, “arfid”):[/b] A small device that holds data and transmits it over short range to nearby receivers.
+[b]Radio Frequency Identification tag (RFID, "arfid"):[/b] A small device that holds data and transmits it over short range to nearby receivers.
 
 [b]Real Life (RL):[/b] Anything not having to do with the Matrix.
 
@@ -211,7 +211,7 @@
 
 [b]Simrig:[/b] A device for recording simsense (p. 342). 
 
-[b]Simsense (“sim,” “simstim”):[/b] Hardware and programs that enable a person to experience the reality of what has happened to someone else. Requires a direct neural interface.
+[b]Simsense (“sim,” "simstim"):[/b] Hardware and programs that enable a person to experience the reality of what has happened to someone else. Requires a direct neural interface.
 
 [b]Spam Zone:[/b] An area flooded with invasive and/or viral AR advertising.
 
