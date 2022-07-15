@@ -1,25 +1,29 @@
-[size=12pt][b]战争艺术[/b][/size]
+[color=brown][size=16pt][b]战争艺术[/b][/size][/color]
 
 发帖人：Pistons
 
-对于像我这样的战斗黑客来说，矩阵就是战场。间谍，围城技术，计谋，网络战斗的闪避和攻击。你已经掌握了在矩阵的战斗中使用小孩子的基本武器，所以你现在需要的是黑客们使用的肮脏战术。微小的战略和正确的武器可以赢得任何战争。
+对于像我这样的武斗派黑客来说，矩阵就是战场。间谍，围攻，计谋，矩阵战斗的闪避和攻击。你已经掌握了在矩阵战斗中使用小孩子的基本武器，所以你现在需要的是黑客们所使用的肮脏战术。微小的战略和正确的武器可以赢得任何战争。
 
 [spoiler]
-[size=12pt][b]THE ART OF WAR[/b][/size]
+[color=brown][size=16pt][b]THE ART OF WAR[/b][/size][/color]
+
 Posted By: Pistons 
+
 To a combat hacker like me, the Matrix is a battlefield. Espionage, siegecraft, stratagems, the parry and thrust of cybercombat. The kid’s covered some of the basic weapons you’ll have in your conflicts across the Matrix, so what you need now is the down-and-dirty of the tactics hackers use. A little strategy and the right weapon can win any war.
 [/spoiler]
 
-[size=12pt][b]大规模探测[/b][/size]
+---
 
-一个成功的僵尸网络的关键不是获得很多代理——你可以免费复制这些程序。你真正需要的是大量的节点来运行你的代理。这就是大规模探测的作用。一开始，它有一个很大的潜在目标列表——黑客枢纽通常有几十个这样的列表，但是如果你真的愿意，你也可以使用黄页节点。有不同的策略和数学公式来优化该方法，但本质上，大规模探测是对节点进行非常快速和直接的攻击，以查看其是否响应——如果响应，则迅速中断，如果没有响应，则进行日志记录。无论哪种方式，你都可以向下移动到列表中的下一个节点。在经过几个小时的专门探测之后，你将得到一组防护较差的节点，这些节点应该是可以加载代理的节点。
+[size=14pt][b]大规模探测[/b][/size]
 
-> 你也可以通过大规模探测来创建一个僵尸网络，然后让僵尸网络上的代理大规模探测并复制来创建更多的僵尸网络，等等。这就是大多数恶意蠕虫软件传播的方式。不过，网络监管局和地方当局一直在密切关注这类事件，并试图将其扼杀在萌芽状态。
+一个成功的僵尸网络的关键不是拥有很多代理——你可以免费复制这些程序。你真正需要的是大量的节点来运行你的代理。这就是大规模探测的作用。它以拥有一个很大的潜在目标列表作为起始——黑客枢纽通常有几十个这样的列表，但是如果你真的愿意，你也可以使用黄页节点。有不同的策略和数学公式来优化该方法，但本质上，大规模探测是对节点进行非常快速和直接的攻击，以查看其是否响应——如果节点做出响应，则立刻中断攻击，如果节点没有响应，则进行日志记录。无论哪种情况，你都会继续向下移动到列表中的下一个节点。在经过几个小时的专门探测之后，你将得到一个防御不力的节点清单，这些节点应该是可以加载代理的节点。
+
+> 你也可以通过大规模探测来创建一个僵尸网络，然后让僵尸网络上的代理大规模探测并复制来创建更多的僵尸网络，如此这般。这就是大多数恶意蠕虫软件传播的方式。不过，GOD和地方当局一直在密切关注这类事件，并试图将其扼杀在萌芽状态。
 
 > Cosmo
 
 [spoiler]
-[size=12pt][b]MASS PROBES[/b][/size]
+[size=14pt][b]MASS PROBES[/b][/size]
 The key to a successful botnet isn’t getting a lot of agents you can copy those programs for free. What you really need is a large number of nodes to run your agents on. That’s where a mass probe comes in. It starts off by having a large list of potential targets—hacker nexi usually have dozens of these lists around, but you can use the Yellow Pages node if you really want to. There are different strategies and mathematical formulae to optimize the methodology, but in essence a mass probe is a very quick and direct attack on a node to see if it responds—if it does, you break off quick, if it doesn’t you log it. Either way, you move on down to the next node on the list. After a couple hours of dedicated probing, you’ll have a list of poorly defended nodes that should be a cinch to load your agents into.
 
 > You can also mass probe to create a botnet and then have the agents on the botnet mass probe and replicate to create more botnets, etc. That’s how the most malicious worms spread. The Grid Overwatch Division and local authorities keep an eye out for that type of thing, though, and try to nip it in the bud.
@@ -27,17 +31,20 @@ The key to a successful botnet isn’t getting a lot of agents you can copy thos
 > Cosmo
 [/spoiler]
 
-[size=12pt][b]团队袭击[/b][/size]
+---
 
-黑客一般都是独来独去的，不信任和不被其他黑客信任。
+[size=14pt][b]团队袭击[/b][/size]
 
-> 嘿！我就像那样。
+黑客一般都是独来独去的，不信任并且不被其他黑客信任。
+
+> 嘿！我就像这样。
 
 > Puck
 
-不过，黑客们也有长期的团队合作传统，并与其他黑客合作进行真正的大型黑客活动。团队袭击恰如其名: 两个或两个以上的黑客结合他们的技能和资源潜入一个给定的节点。除非你想直接闯进来，否则这是一个缓慢的入侵，但它相当有效。团队袭击的问题在于，一旦进入节点，联盟就会迅速瓦解——不同的黑客想要的是不同的东西，他们有时会同时与对方和节点安保作战。嘿，你知道人们是怎么说罪犯互信的…
+不过，黑客们也有长期的团队合作传统，与其他黑客合作进行真正的大型骇入活动。团队袭击恰如其名: 两个或两个以上的黑客结合他们的技能和资源潜入一个给定的节点。除非你想直接闯入，否则这是一个缓慢的入侵，但它相当有效。团队袭击的问题在于，一旦进入节点，联盟就会迅速瓦解——不同的黑客想要的是不同的东西，他们有时会同时与对方和节点安保作战。嘿，你知道人们是怎么说罪犯互信的…
+
 [spoiler]
-[size=12pt][b]MASS ATTACKS[/b][/size]
+[size=14pt][b]MASS ATTACKS[/b][/size]
 Hackers are generally solo types, untrusting and untrustworthy of other hackers.
 
 > Hey! I resemble that.
@@ -47,19 +54,22 @@ Hackers are generally solo types, untrusting and untrustworthy of other hackers.
 Still, hackers also have a long tradition of teamwork and cooperation with other hackers for really big hacks. A mass attack is just what it sounds like: two or more hackers combining their skills and resources to infiltrate a given node. It has to be a slow hack unless you want to just bust in, but it’s pretty effective. The problem with mass attacks is that once you’re inside the node, alliances tend to fall apart quickly—different hackers want different things, and they sometimes end up fighting each other and node security at the same time. Hey, you know what they say about trusting criminals…
 [/spoiler]
 
-[size=12pt][b]网络钓鱼[/b][/size]
+---
 
-骇入系统是获取信息的一种方式，通常声响、噪音都很大——就像打碎玻璃，从洞里探出头来开门，同时希望你没有发出任何警报。一种更安静、更隐秘的方法是先在垫子下面找钥匙——或者用矩阵的说法，获得密码，进入一个合法账户。从一个标记上获取密码或其他个人数据被称为网络钓鱼。
+[size=14pt][b]网络钓鱼[/b][/size]
 
-当你进行网络钓鱼时，你需要一个鱼饵或诱饵——引诱目标或与他们展开对话。常见的钓鱼诱饵包括网上商店或电子邮件报价。一个虚假的网上商店(也称为网络钓鱼陷阱)通常和真实的商店一样，展示商品，然后获取顾客信息，包括他们的身份、联系电话和送货地址，这样你就可以送货了。网络钓鱼的诱饵还包括病毒和其他恶意软件，当客户进来时就会感染他们，这是获取密码的好方法。如果你能将木马伪装成一个新的增强现实软件或类似软件的“免费试用”，木马就特别容易使用。
+骇入系统是获取信息的一种方式，通常非常吵闹——就相当于打碎玻璃，从洞里伸手去开锁，同时希望你没有发出任何警报。一种更安静、更隐秘的方法是先在垫子下面找钥匙——或者用矩阵的说法，获得密码，访问一个合法账户。从一个目标身上获取密码或其他个人数据的过程被称为网络钓鱼。
 
-> 如果你不介意成本，这个网站甚至可以是实用的——我知道一个黑客开始做一个有机果酱在线分销商，她通过流量获得了很多诚实的信誉，所以她完全放弃了黑客行为。当然，她还得申请营业执照之类的东西。
+当你进行网络钓鱼时，你需要一个鱼饵/诱饵——引诱目标或与他们展开对话。常见的钓鱼诱饵包括网上商店或电子邮件offer。一个虚假的网上商店(也称为网络钓鱼陷阱)通常和真实的商店一样，展示商品，然后获取顾客信息，包括他们的身份、联系电话和送货地址，这样你就可以送货了。网络钓鱼的诱饵还包括病毒和其他恶意软件，当客户进来时就会感染他们，这是获取密码的好方法。如果你能将木马伪装成一个新的AR软件或类似软件的“免费试用”版本，木马就特别容易发挥作用了。
+
+> 如果你不介意成本，这个网站甚至可以是实用的——我知道一个黑客开始转行做一个有机果酱在线分销商，她通过流量赚到了很多真实信用额度，所以她完全放弃了骇入行为。当然，她还得申请营业执照之类的东西。
 
 > Mr. Bonds
 
 [spoiler]
-[size=12pt][b]PHISHING[/b][/size]
+[size=14pt][b]PHISHING[/b][/size]
 While hacking your way into a system is one way to gain access, it’s often loud and noisy—the Matrix equivalent of breaking the glass and reaching through the hole to unlock the door while hoping you haven’t set off any alarms. A quieter, stealthier way is to look under the mat for a key first—or in Matrix parlance, get a passcode and access a legitimate account. Getting passcodes or other personal data off of a mark is called phishing. 
+
 When you go phishing you need a lure or bait—something to entice the mark or open up a line of dialogue with them. Common phishing lures include an online store or e-mailed offer. A false online store (also called a phishing trap) often acts just like a real one, displaying goods and then taking customer information—including their identities, contact numbers, and shipping addresses—so that you can deliver the product. Phishing lures can also include viruses and other malware that infect customers as they come in, a good way to snag passcodes. Trojans are particularly easy to use if you can disguise them as a “free trial offer” of a new AR software or something like that.
 
 > If you don’t mind the cost, the site can even be functional—I know one hacker that started out making an online organic jams distributor and made so much honest cred from passing traffic that she got out of hacking altogether. Of course, she had to apply for business licenses and the like.
@@ -67,9 +77,9 @@ When you go phishing you need a lure or bait—something to entice the mark or o
 > Mr. Bonds
 [/spoiler]
 
-邮件钓鱼的尝试(在线投递)经常被垃圾邮件过滤器捕获然后被随手丢弃，因为他们对标记不感兴趣。就我个人而言，我喜欢结合钓鱼诱饵和在线投递，通过建立一个虚假的网站，针对目标用户的兴趣，然后发送优惠券或介绍优惠给他们。当然，这需要对标记和他们的兴趣有所了解。
+钓鱼邮件(在线投递)经常被垃圾邮件过滤器捕获然后被随手丢弃，因为他们对目标不感兴趣。就我个人而言，我喜欢结合钓鱼诱饵和在线投递，通过建立一个虚假的网站，针对目标用户的兴趣，然后发送优惠券或介绍offer给他们。当然，这需要对目标用户和他们的兴趣有所了解。
 
-> 网络钓鱼诱饵也可以用来建立僵尸网络;你只需在每个进入节点浏览或购物的“客户”上加载一个隐藏的机器人。
+> 网络钓鱼诱饵也可以用来建立僵尸网络；你只需在每个进入节点浏览或购物的“客户”身上加载一个隐藏的机器人。
 
 > Glitch
 
@@ -81,16 +91,17 @@ E-mail phishing attempts (line casting) are often caught by spam filters or disc
 > Glitch
 [/spoiler]
 
-一旦你有了他们的个人和财务数据(这基本上意味着他们的SIN和网上银行账户的授权)，你就可以清空他们——许多钓鱼者就是在那里被抓到的。把一顿饭的费用重复一遍，让餐厅看起来扣除了两次费用是一回事，但把别人的毕生积蓄花在一件装备上，然后把它寄给你，又是另一回事。记住，你在网上购买的任何东西都会被追踪到你。聪明的钓鱼者会将一些信用额度转移到一个经过认证的信用棒上，然后消失。
+一旦你获得了他们的个人和财务数据(这通常意味着他们的SIN和网上银行账户的授权)，你就可以清空他们——许多钓鱼者就是在那里被抓到的。把一顿饭的费用重复一遍，让餐厅看起来扣除了两次费用是一回事，但把别人的毕生积蓄花在一件装备上，然后把它寄给你，又是另一回事。记住，你在矩阵上购买的任何东西都会被追踪到你。聪明的钓鱼者会将一些信用额度转移到一个经过认证的信用棒上，然后消失。
 
-更加老练的的钓鱼者瞄准了大型网络公司和金融机构，他们经常使用大量的社会工程来伪装成可以合法获取(通常非常受保护的)个人或金融数据的人。理论上，你可以设立一家银行或其他金融机构，作为一个巨大的网络钓鱼诱饵，但我从未听说过有人能做到这一点。
+更加老练的钓鱼者瞄准了超企和金融机构，他们经常使用大量的社会工程来伪装成可以合法获取(通常受到高度保护的)个人或金融数据的人。理论上，你可以成立一家银行或其他金融机构，作为一个巨大的网络钓鱼诱饵，但我从未听说过有人能做到这一点。
 
-> 这很难实现，因为银行、信用合作社和非银行金融服务机构有很多监管规定，即使是在世界上最不受监管的地区(我指的是你，加勒比联邦)。尽管如此，还是有不少受人尊敬的金融机构以钓鱼诱饵起家，直到它们的所有者和经营者意识到，他们可以从一个稳定的客户群身上榨取十倍甚至百倍的新元，远远超从单一的大公司那里所能榨取的数量。还有一些组织被黑手党和黑帮收买了。
+> 这很难实现，因为银行、信用合作社和非银行金融服务机构有很多监管规定，即使是在世界上最不受监管的地区(我指的就是你，加勒比联邦)。尽管如此，还是有不少令人尊敬的金融机构以钓鱼诱饵起家，直到它们的所有者和经营者意识到，他们可以从一个稳定的客户群身上榨取十倍甚至百倍的新元，远远超从单一超企那里所能榨取的数量。还有就是被黑手党和山口组收购的少数组织。
 
 > Mr. Bonds
 
 [spoiler]
 Once you have their personal and financial data (which pretty much means their SIN number and authorization on their online bank accounts), you can clean them out—which is where a lot of phishers get caught. It’s one thing to duplicate a charge for a meal and make it look like the restaurant deducted the cost twice, but it’s something else again to blow somebody’s life savings on a piece of gear and then have it mailed to you. Keep in mind that any online purchases you make can be tracked back to you. Smart phishers will siphon off some cred to a certified credstick and then disappear with it. 
+
 More sophisticated phishers target megacorps and financial institutions, often using a lot of social engineering to masquerade as someone who would legitimately have access to the (usually very well protected) personal or financial data. Theoretically you could set up a bank or other financial institution as a big phishing lure, but I’ve never heard of anyone that managed it.
 
 > It’s difficult to pull off because banks, credit unions, and non-bank financial service institutions have a lot of regulations, even in the most unregulated parts of the world (I’m looking at you, Carib League). Still, more than a few venerable financial institutions began as phishing lures until the owners and operators realized they could milk ten or a hundred times more nuyen out of a steady clientele than they could ever take from a single megacorp. And then there’s the handful of orgs that were bought out by the Mafia and the Yakuza.
@@ -98,22 +109,26 @@ More sophisticated phishers target megacorps and financial institutions, often u
 > Mr. Bonds
 [/spoiler]
 
-[size=12pt][b]拒绝服务攻击[/b][/size]
+---
 
-拒绝服务(DOS)攻击证明了古老的黑客哲学永远不会过时(尽管它可能落后于技术曲线)。DOS攻击是关于将用户锁定在通讯链或终端之外，或者更常见的是通过将传入的连接淹没在一个节点或通讯链上，阻止其访问矩阵的其余部分。怎么做和为什么每次都可能改变，但基本目标是阻断某人的矩阵服务。
+[size=14pt][b]拒绝服务攻击[/b][/size]
 
-大多数DOS攻击的关键是让目标的流量过载，僵尸网络是首选的武器。拥有足够大的僵尸网络的黑客可以用数据请求、连接请求和其他伪造信号淹没目标，锁定其他传入的流量。蜘蛛和IC可以试着过滤掉僵尸网络的流量或欺骗其节点的访问ID，但纯粹的数量通常会让事情变得对僵尸网络有利。对通讯链的DOS攻击稍微困难一些，因为您首先必须对目标图标执行成功的跟踪;你也可以通过对连接过滤器进行一些明智的编辑，将某人锁定在他们的通讯链或节点之外，从而实际上将他们从整个矩阵中切断。如果你有时间和技能来搞乱这些账户，你甚至可以更改所有的密码，让合法的信息技术人员无法立即解决问题。
+拒绝服务攻击(DOS)证明了古老的黑客哲学永远不会过时(尽管它可能落后于技术曲线)。DOS攻击是指将用户锁定在通讯链或终端之外，或者更常见的是通过使用传入连接淹没某个节点或通讯链，阻止其访问矩阵的其余部分。每次的方式和原因都可能改变，但基本目标都是一样的--禁止某人使用矩阵服务。
 
-当然，任何其他阻止人们访问目标的东西也会起作用——崩溃节点上的操作系统，对关键服务器或支持进出节点的光缆中枢的物理破坏，将节点切换到隐藏模式——你肮脏、聪明的小脑袋能想到的任何东西。
+大多数DOS攻击的关键是使用流量让目标过载，僵尸网络是首选的武器。拥有足够大的僵尸网络的黑客可以用数据请求、连接请求和其他伪造信号淹没目标，锁定其他传入的流量。蜘蛛和IC可以试着过滤掉僵尸网络的流量或伪造其节点的访问ID，但纯粹的数量通常会让事情变得对僵尸网络有利。对通讯链的DOS攻击要稍微困难一些，因为你必须首先对目标图标执行成功的追踪；你也可以通过对连接过滤器进行一些明智的编辑，将锁定某人的通讯链或节点，从而切断他们与整个矩阵的联系。如果你有时间和技能来搞乱这些账户，你甚至可以更改所有的密码，让合法的信息技术人员无法立即解决问题。
 
-> 几个月前，我有一份工作，我的团队被雇来对一个公司的节点进行24小时DOS攻击，该公司当天要在网上发布一个新产品，但我们的黑客女孩生病了，无法执行任务。最后不得不剪掉光纤，用HERF步枪对准它一整天。然后那些小混混想换卫星链接，结果我用导弹把它炸飞了! 多么漂亮,安静的矩阵工作。
+当然，任何其他阻止人们访问目标的东西也会起作用——崩溃节点上的操作系统，对关键服务器或支持进出节点的光缆中枢的物理破坏，将节点切换到静默模式——你那肮脏、聪明的小脑袋所能想到的任何东西。
+
+> 几个月前我接到了一份工作，我的团队被雇来对一个公司的节点进行一整天的DOS攻击，该公司当天要在网上发布一个新产品，但我们的黑客女孩生病了，无法执行任务。最后我们不得不剪断光纤，用HERF步枪对准它一整天。然后那些小混混想要换用卫星链接，结果我用导弹把它炸飞了! 多么漂亮，安静的矩阵工作。
 
 > Beaker
 
 [spoiler]
-[size=12pt][b]DENIAL OF SERVICE[/b][/size]
+[size=14pt][b]DENIAL OF SERVICE[/b][/size]
 Denial of Service (DOS) attacks are proof that ancient hacker philosophy never goes out of style (though it may fall behind the tech curve). DOS attacks are about locking a user out of their commlink or terminal, or more often preventing a node or commlink from accessing the rest of the Matrix by flooding it with incoming connections. The how and the why might change each time, but the basic goal is the same—denying someone Matrix service. 
+
 The key to most DOS attacks is overloading the target with traffic, with botnets being the weapon of choice. A hacker with a big enough botnet can inundate the target with data requests, connection requests, and other forged signals, locking out other incoming traffic. Spiders and IC can try to filter out the bot traffic or spoof their node’s access ID, but sheer numbers usually swing things in the botnet’s favor. A DOS attack on a commlink is a little more difficult, because you first have to perform a successful trace on the target icon; you can also lock someone out of their commlink or node with a little judicious editing of the connection filters, cutting them off from practically the entire Matrix. If you have the time and skill to mess with the accounts, you could even change all of the passcodes to keep the legitimate information technology personnel from fixing the problem right away. 
+
 Of course, anything else that prevents people from accessing the target works too—crashing the operating system on a node, physical damage to a key server or optical trunk that supports traffic in and out of the node, switching the node to hidden mode—anything your dirty, clever little minds can think of.
 
 > I had a job a couple months back where my group was hired to do a 24-hour DOS attack against the node of a corp that was going to release a new product online that day, but our hacker gal got sick and couldn’t perform. Ended up having to cut the optical trunk and aim a HERF rifle at it all day. Then the punks tried to switch to a satlink, and I ended up blowing that up with a missile! So much for a nice, quiet Matrix job.
@@ -121,25 +136,30 @@ Of course, anything else that prevents people from accessing the target works to
 > Beaker
 [/spoiler]
 
-[size=12pt][b]勒索软件[/b][/size]
+---
 
-DOS攻击本身通常是达到目的的手段，而不是目的本身。脚本小子们可能会把一些可怜的家伙锁在他的家庭终端外，这样他就不能交作业或出现在他的虚拟教室，但通常DOS攻击是日益增长的基于矩阵的勒索现象的一部分。矩阵勒索背后的想法很简单:个人、企业、甚至政府都需要访问矩阵和某些文件。如果没有这些途径，他们就无法买到食物或赚钱，以及生活中其他成千上万的必需品。如果你威胁或控制一个节点或某些文件——通过DOS攻击或某种恶意软件，或其他任何东西，人们将为安全返还他们的货物而付费。这种犯罪活动通常被称为勒索软件。
+[size=14pt][b]软件勒索[/b][/size]
 
-有一种特定且流行的勒索软件是黑客侵入一个节点的防御系统，然后对关键文件进行加密，这些文件通常与数据炸弹或某种恶意软件捆绑在一起，如果有人试图在没有正确密码的情况下解密文件，这些软件就会启动。加密勒索软件对个人的效果最好，特别是敏感的数据文件，因为解密程序仅限于公司黑客和自由安全顾问。
+DOS攻击本身通常是达到目的的手段，而不是目的本身。脚本小子们可能会以把一些可怜的家伙锁在他的家庭终端外为乐，这样他就不能交作业或出现在他的虚拟教室，但通常来说DOS攻击是日益增长的基于矩阵的勒索现象的一部分。矩阵勒索背后的想法很简单：个人、企业、甚至政府都需要访问矩阵和某些文件。如果无法访问，他们就无法买到食物或赚钱，以及生活中其他成千上万的必需品。如果你威胁或控制一个节点或某些文件——通过DOS攻击或某种恶意软件，或其他某种方式，人们将为安全返还他们的货物而付费。这种犯罪活动通常被称为软件勒索。
 
-> 本着“街道自有用途”的精神，企业使用很多工具和技巧来保护自己的节点，这些节点可以被逆转，防止他们访问它们。我最喜欢的安全技巧是在一个节点上安装一个密钥要求，然后重新启动它，转储所有当前用户。当他们返回登录时，他们没有密码，因此被阻止了。
+有一种特定且流行的软件勒索是黑客侵入某个节点的防御系统，然后对关键文件进行加密，这些文件通常会被与数据炸弹或某种恶意软件捆绑在一起，如果有人试图在没有正确密码的情况下解密文件，这些软件就会启动。加密软件勒索对个人的效果最好，特别是敏感的数据文件，因为解密程序仅限公司黑客和自由安保顾问使用。
+
+> In the spirit of the street finding its own uses for things, there are a lot of tools and tricks that corps use to secure their own nodes that can be turned around to prevent them from accessing them. My favorite security trick is to install a passkey requirement on a node and then reboot it, dumping all the current users. When they go back to log on, they don’t have the passkey and get blocked. 
+
+> 企业会使用很多工具和技巧来保护自己的节点，本着物尽其用的街头精神，我们可以利用这些工具和技巧转而阻止他们访问这些节点。我最喜欢的安保技巧是在节点上设置一个密钥要求，然后重新启动它，甩脱所有当前用户。当他们回来重新登录时，他们会发现自己没有密码，因此被阻止在节点之外。
 
 > Slamm-0!
 
-公司很清楚勒索软件及其影响，所以如果你是它的接收端，不要惊讶。我认识一位新网的约翰逊先生，他先付钱给我们，但加密了认证的信用棒，并在上面加了一些IC，作为一种安全形式;我们知道约翰逊会付钱的，因为我们可以看到信用额度，但我们不能花它，直到我们完成任务，他给我们密码解除IC，解密信用额度。卑鄙的混蛋。
+公司很了解软件勒索及其影响，所以如果你是它的接收端，不要感到惊讶。我认识一位新网的约翰逊先生，他先付钱给我们，但加密了认证信用棒，并在上面装载了一些IC作为一种安保形式；我们知道约翰逊会付钱，因为我们可以看到信用额度，但我们不能花它，直到我们完成任务了他才给了我们解除IC和解密信用额度的密码。卑鄙的混蛋。
 
-> 许多数据经纪人会把他们买回来的数据文件卖给他们的原始所有者，以获得更高的价格。这些讨厌的人向公司出售加密的数据文件，然后收取更高的解密密码费用。
+> 许多数据经纪人会把他们买回来的数据文件卖给他们的原始所有者，并大幅加价。这些讨厌的家伙向公司出售加密的数据文件，然后收取更高的解密密码费用。
 
 > Cosmo
 
 [spoiler]
-[size=12pt][b]RANSOMWARE[/b][/size]
+[size=14pt][b]RANSOMWARE[/b][/size]
 By itself, a DOS attack is normally a means to an end, not an end in and of itself. Script kiddies may get their jollies locking some poor bastard out of his home terminal so he can’t turn in his homework or show up in his virtual classroom, but more often than not a DOS attack is part of the growing Matrix-based extortion phenomena. The idea behind Matrix extortion is simple: individuals, corporations, even governments need access to the Matrix and certain files. Without that access, they can’t buy food or make money, along with a thousand other essential things in life. If you threaten or take control of a node or certain files—through a DOS attack or some sort of malware, or anything, people will pay for the safe return of their goods. This sort of criminal activity is usually labeled ransomware. 
+
 One specific and popular type of ransomware involves a hacker penetrating a node’s defenses and then encrypting key files, usually tied to a data bomb or some malware that will activate if someone tries to decrypt the files without the correct passcode. Encryption ransomware works best on individuals, particularly if the data files are of a sensitive nature, because decryption programs are restricted to corporate hackers and licensed freelance security consultants.
 
 > In the spirit of the street finding its own uses for things, there are a lot of tools and tricks that corps use to secure their own nodes that can be turned around to prevent them from accessing them. My favorite security trick is to install a passkey requirement on a node and then reboot it, dumping all the current users. When they go back to log on, they don’t have the passkey and get blocked. 
@@ -155,47 +175,47 @@ The corporations are well aware of ransomware and its repercussions, so don’t 
 
 ---
 
-[size=12pt][b]黑客技巧[/b][/size]
+[size=14pt][b]黑客技巧[/b][/size]
 
-黑客不是机师，他们更关注矩阵的虚拟空间，而不是支持它的基础设施。这并不是说黑客不会考虑光纤和网状网络，但他们不太可能扫描电波或担心链接，只要他们与矩阵有牢固的连接。
+与机师相比，黑客更关注矩阵的虚拟空间，而不是支持它的琐碎基础设施。这并不是说黑客不会考虑光纤和多跳网络，但只要他们与矩阵有牢固的连接，他们就不太可能扫描电波或担心这些问题。
 
 [spoiler]
-[size=12pt][b]HACKER TRICKS[/b][/size]
+[size=14pt][b]HACKER TRICKS[/b][/size]
 More than riggers, hackers focus on the virtual space of the Matrix rather than the nitty-gritty infrastructure that supports it. That’s not to say a hacker won’t take optical trunks and mesh networks into account, but they’re less likely to be scanning the airwaves or worry about it as long as they have a solid connection to the ‘trix.
 [/spoiler]
 
-[b]骇入赛博殖装[/b]
+[size=12pt][b]骇入赛博殖装[/b][/size]
 
-有时很容易忘记，镀铬的赛博殖装并不意味着没有软件在它上面运行。也就是说，直到你遇到一个接口问题和两个“软件”不想彼此交谈时，它就会出现在你的脑海中。如今，黑客攻击赛博殖装比以往任何时候都要容易，暗影狂奔者应该密切关注他们的植入物是如何连接在一起的。大多数赛博殖装被设置为在植入期间连接到您的PAN的外围节点，并配置为开放访问，以便医疗技术人员可以快速访问植入物进行诊断和修复。大多数内部植入物通常可以通过低级别的无线连接访问。
+有时很容易忘记，镀铬的赛博殖装并不意味着没有软件在它上面运行。也就是说，直到你遇到一个接口问题和两个“软件”不想彼此交流之前，它都不会出现在你的脑海中。如今，骇入赛博殖装比以往任何时候都要容易，暗影狂奔者应该密切关注他们的植入物是如何连接在一起的。大多数赛博殖装被设置为在植入期间连接到你的PAN的外围节点，并配置为开放访问，以便医疗技术人员可以快速访问植入物进行诊断和修复。大多数内部植入物通常可以通过低级别的无线连接访问。
 
-> 暗影诊所和街头医生只要有一点编程方面的专业知识，就可以在客户请求时禁用这种无线连接，安排植入物发送错误的诊断信息，甚至可以在没有太多麻烦的情况下升级软件。
+> 暗影诊所和街头医生只要有一点编程方面的专业知识，就可以在客户请求时禁用这种无线连接，安排植入物发送错误的诊断信息，甚至可以很轻松地升级软件。
 
 > Butch
 
-> 好吧，但这是否意味着如果我和黑客或超链者打了架他们就能找到我，关掉我的赛博武器?
+> 好吧，但这是否意味着如果我和黑客或超链者打了一架他们就能找到我，关掉我的赛博武器?
 
 > Hard Exit
 
-> 也许是，但也可能不是。赛博武器和大多数在身体上有暴露区域的植入物通常需要通过接入端口等直接有线连接，而不是无线信号。如果你真的很担心，你应该让你的赛博武器处于隐藏模式——或者更好的是，把它关掉。这并不总是最好的选择，但它可以防止黑客攻击。
+> 也许是，但也可能不是。赛博武器和大多数在身体上有暴露区域的植入物通常需要通过接入端口等方式进行有线直接连接来访问，而不是通过无线信号。如果你真的很担心这个问题，你应该让你的赛博武器处于静默模式——或者更好的是，把它关掉。这并不总是最好的选择，但它可以防止被骇入。
 
 > Butch
 
-和其他设备一样，植入物也容易受到病毒和其他恶意软件的影响。最容易受到这种干扰的设备是那些通过直接神经界面(DNI)连接在一起的设备——换句话说，就是任何你可以用思想控制的植入物。为了防止单个病毒或蠕虫感染他们的所有系统，许多街头武士和其他大量植入的跑步者在关键接入点(如数据插口)上预先安装了高防火墙。如果恶意软件无法通过数据插口，它就无法感染你系统中其余的DNI植入物。
+与其他设备相同，植入物也很容易受到病毒和其他恶意软件的影响。最容易受到这种干扰的设备是那些通过直接神经界面(DNI)连接在一起的设备——换句话说，就是任何你可以用思维控制的植入物。为了防止单个病毒或蠕虫感染他们的所有系统，许多街头武士和其他大量植入的狂奔者在关键的接入点(如数据插口)上预先安装了高级防火墙。如果恶意软件无法通过数据插口，它就无法感染你系统中其余的DNI植入物。
 
-> 不过，骇入赛博殖装也能给你带来好处。举个例子，大多数人都没有意识到智能链是无线的。这意味着你可以向你的智能枪发送命令，即使你没有拿着它。黑客也可以欺骗智能枪的指令。
+> 不过，骇入赛博殖装也能给你带来好处。举个例子，大多数人都没有意识到智能链是无线的。这意味着即使你没有握着你的智能枪，你可以向它发送命令。黑客同样也可以伪造对智能枪的指令。
 
 > DangerSensei
 
-> 是的。你也可以将恶意软件插入智能枪(它会传播并感染你的智能链)或使其崩溃以防止它开火。
+> 是的。你也可以将恶意软件植入智能枪(它会传播并感染你的智能链)或使其崩溃以阻止它开火。
 
 > Slamm-0!
 
-> 在现代战争中，我们经常使用恶意软件和数据库来破坏那些必须留下的设备，或者更糟的是，删除设备的操作系统。
+> 在现代战争中，我们经常使用恶意软件和数据炸弹来破坏那些必须留下的设备，或者更糟的是，删除设备的操作系统。
 
 > Picador
 
 [spoiler]
-[b]HACKING CYBERWARE[/b]
+[size=12pt][b]HACKING CYBERWARE[/b][/size]
 Sometimes, it’s easy to forget that all that chrome doesn’t mean jack shit without the software running it. That is, until you get an interface problem and two pieces of ‘ware don’t want to talk to each other—then it comes to the forefront of your mind. Nowadays, it’s easier to hack cyberware than ever before, and shadowrunners should pay close attention to how their implants are wired together. Most cyberware is set up as peripheral nodes connected to your PAN during implantation, and configured for open access so that medtechs can access the implants quickly for diagnostics and repair. Most internal implants are usually accessible with a lowlevel wireless connection.
 
 > Shadow clinics and street docs with a little programming expertise can disable this wireless connection if the client asks, arrange for the implant to send out false diagnostics, or even upgrade the software without much trouble. 
@@ -225,28 +245,28 @@ Like any other device, implants are susceptible to viruses and other malware. Th
 > Picador
 [/spoiler]
 
-[b]订阅通讯链[/b]
+[size=12pt][b]订阅通讯链[/b][/size]
 
-如今，几乎所有没有PAN的人都显然是犯罪黑客或超链者。在香港一条繁忙的街道上以“静默模式”行走，就相当于试图戴上荧光莫霍克头来让自己看起来不那么显眼。为了避免看起来像个笨蛋，你可以保留两个通讯链:一个是公共的合法POS，另一个是装载了所有非法程序的真正通讯链。只要订阅你隐藏的通讯链，你就可以像普通人一样四处走动。
+如今，几乎所有没有PAN的人都显然是犯罪黑客或超链者。在香港一条繁忙的街道上以“静默模式”行走，就相当于试图戴上荧光莫霍克头来让自己看起来不那么显眼。为了避免看起来像个笨蛋，你可以保留两个通讯链：一个是公开的合法终端机，另一个则是装载了所有非法程序的真正通讯链。只需将你公开的通讯链订阅给你隐藏的通讯链，你就可以像普通人一样四处走动。
 
-> 特别对于犯罪者来说，保持一个合法的通讯链有其他的好处，而不仅仅是隐藏你需要隐藏的通讯链。你可以把你所有的光明正大的账户和电子邮件和你的暗影生活分开。
+> 尤其是对于犯罪者来说，保留一个合法的通讯链有其他的好处，而不仅仅是隐藏你需要静默运行的通讯链。你可以把你所有光明正大的账户和电子邮件与你的暗影生活分开。
 
 > Kat o’Nine Tales
 
-> 一些黑客过分使用订阅的通讯链，将它们链接到一个“栈”中，以实现不同的目的，比如同时在更多的节点中，或者在他们的直接命令下有更多的代理可用。这些业余爱好者喜欢认为他们可以从一个链接跳到另一个链接，并避免IC的破坏性影响——嘿，如果我不在那里，它不会伤害我，对吗?错了。如果你退出节点，你的图标仍然在——不管你是否注意到它，黑色IC的伤害仍然直接伤害你。
+> 一些黑客过度使用订阅通讯链，将它们链接到一个“栈”中，以实现不同的目的，比如同时处于更多的节点中，或者在他们的直接命令下有更多的代理可用。这些业余爱好者喜欢认为他们可以从一个通讯链跳到另一个通讯链，同时回避IC的破坏性影响——嘿，如果我不在那里，它不会伤害我，对吗？错了。如果你退出节点，你的图标仍然在那——不管你是否注意到它，黑IC仍然能直接伤害到你。
 
 > Slamm-0!
 
-> 你为什么不能让通讯链分开运行呢?
+> 你为什么不能让通讯链单独运行呢?
 
 > Sticks
 
-> 因为不管你有多少通讯工具，你只有一个大脑。如果你尝试同时使用两个通讯链，你会感到头痛，产生多感官幻觉，你的图标会尝试同时在两个通讯链上做同样的事情。解决这个问题的方法是将通讯链链接在一起——如我所说，是一个花环——这样每次只关注一个图标(即使每个图标都在一堆不同的节点中)，在栈中切换。
+> 因为不管你有多少通讯链，你只有一个大脑。如果你尝试同时使用两个通讯链，你会感到头痛，产生多感官幻觉，你的图标会尝试同时在两个通讯链上做同样的事情。解决这个问题的方法是将通讯链链接在一起——如我所说，是一个菊花链[color=green](注：即A连B，B连C的线性拓扑结构)[/color]——这样你每次只需关注一个图标(即使每个图标都在一堆不同的节点中)，在栈中切换它们。
 
 > Slamm-0!
 
 [spoiler]
-[b]SUBSCRIBED COMMLINKS[/b]
+[size=12pt][b]SUBSCRIBED COMMLINKS[/b][/size]
 Nowadays, just about anybody without a PAN is obviously a criminal hacker or a technomancer. Walking down a busy street in Hong Kong in hidden mode is the equivalent of trying to look inconspicuous with a day-glo mohawk. To avoid looking like a putz, you can keep two commlinks: a public, legal POS and your real commlink loaded with all of your tasty illegal programs. Just subscribe the public commlink to your hidden one, and you can walk around like a normal person.
 
 > Keeping a legit commlink has other benefits than just to hide your hidden commlink, especially for SINners. You can keep all of your above-board accounts and e-mail separate from your shadow life. 
@@ -266,28 +286,30 @@ Nowadays, just about anybody without a PAN is obviously a criminal hacker or a t
 > Slamm-0!
 [/spoiler]
 
-[b]社会工程[/b]
+[size=12pt][b]社会工程[/b][/size]
 
-任何安全系统中最薄弱的环节都是泛人类，这是一条古老的公理，对矩阵来说也是如此。老式的社会工程正在将古老的秘密技巧更新到第六纪元的数字领域，利用你的泛人类的好或坏的本性来获得访问节点或设备的权限。令人惊讶的是，各种各样的旧骗局可以被改编成矩阵版本，或者随着时间的推移出现新的骗局。
+任何安保系统中最薄弱的环节都是泛人类，这是一条古老的公理，对矩阵来说也是如此。老式的社会工程正在将古老的秘密技巧更新到第六纪元的数字领域，利用你们这些泛人类或好或坏的本性来获得访问节点或设备的权限。令人惊讶的是，各种各样的旧骗局都可以被改编成矩阵版本，或是随时间的推移出现新的花招。
 
-从本质上讲，社会工程与你的黑客技能或程序无关; 这与你理解和操纵他人的能力有关——这可能很棘手，因为在很多情况下，你永远都不需要与他人面对面。通常，社会工程可以涉及复杂的“集合”(节点/AR广告装扮成属于合法公司或政府办公室的样子)，或者使用公开可用的信息来说服标志公司的有效性或者证明你是该公司的合法雇员。在许多情况下，目标是信息(例如密码、账号、客户个人信息、SIN、节点列表)，社会工程师试图说服合法访问该信息的用户以一些捏造的借口分享该信息，例如事故、保险索赔或研究。
+从本质上讲，社会工程与你的骇入技能或程序无关；它与你理解和操纵他人的能力有关——这可能很棘手，因为通常来说，你永远都不需要与他人面对面交流。通常，社会工程可以涉及复杂的“集合”(将节点/AR广告装扮成属于合法公司或政府办公室的样子)，或者使用公开可用的信息来说服目标人物相信公司的真实性或证明你是该公司的合法雇员。在许多情况下，社会工程的目标是信息(例如密码、账号、客户个人信息、SIN、节点列表)，社会工程师试图以一些捏造的借口说服能够合法访问该信息的用户分享该信息，例如事故、保险索赔或研究需要。
 
-社会工程的好处是，你不必冒着骇入节点的风险获取秘书或客户服务代表可以立即访问的基本数据; 缺点是不能保证它会起作用。毫无疑问，团队会花大量时间在员工的头脑中钻出适当的信息保护机制，以对抗社会工程。所以，如果你遇到的第一个秘书看起来有点疑神疑鬼，也不要感到惊讶。
+社会工程的好处是，你不必冒着骇入节点的风险获取秘书或客户服务代表可以立即访问的基本数据；缺点是你不能保证它会起作用。毫无疑问，企业会花大量时间在员工的头脑中钻出适当的信息保护机制以对抗社会工程。所以，如果你遇到的首席秘书看起来有点疑神疑鬼，也不要感到太惊讶。
 
-> 社会工程可以像伪装成矩阵妓院的工人并引诱安保小女孩以获取节点情报一样简单，也可以像聘请拟感演员扮演各自的角色并在戏剧中打上烙印一样复杂。我最喜欢的缺点涉及被自己的欲望或贪婪背叛的标志。
+> 社会工程可以像伪装成矩阵妓院的员工并引诱安保人员以获取节点情报一样简单，也可以像是聘请拟感演员扮演各自的角色并让目标处于戏剧中一样复杂。我最喜欢的骗局是那些涉及到目标被自己的欲望或贪婪所背叛的。
 
 > Dr. Spin
 
-> 你真有莎士比亚的风范，博士。
+> 您真是有莎士比亚的风范，博士。
 
 > Pistons
 
-社会工程的关键是适合，这通常意味着要了解你试图欺骗的人的行话和程序。例如，打电话给一个未公开的号码来找到一个薪奴，然后说“嗨，我是第九组的鲍勃，我在13C区对27B冲程6进行维护，我需要安保节点的密码授权来运行一些诊断”可能会起效,因为薪奴不会指望一个局外人拨打那个电话, 知道第9小组、13C区或者27B冲程6, 所以这个请求有一种权威的氛围。
+社会工程的关键是适合，这通常意味着要了解你试图欺骗的人的行话和程序。例如，拨打一个未公开的号码来找到一个薪奴，然后说“嗨，我是第九组的鲍勃，我在13C区对27B冲程6进行维护，我需要安保节点的密码授权来运行一些诊断”可能会起效，因为薪奴不会指望一个外人拨打那个电话，知道第9小组、13C区或者27B冲程6，所以这个请求有一种权威的感觉。
 
 [spoiler]
 [b]SOCIAL ENGINEERING[/b]
-It’s an old axiom that the weakest link in any security system is the metahuman element, and that holds true for the Matrix as well. Good old fashioned social engineering is updating the ancient confidence trick to the digital realm of the Sixth World, preying on the better or worse natures of your fellow metahumans to gain access to a node or device. It’s amazing the variety of old scams that can be adapted to the Matrix, or the new ones that have emerged over time. 
-At its heart, social engineering has nothing to do with your hacking skills or your programs; it has to do with your ability to understand and manipulate other people—which can be tricky, as in many cases you need never meet the other person face to face. Often, social engineering can involve elaborate "sets" (nodes/AR ads dressed up to look like they belong to a legitimate company or government office) or the use of publicly available information to convince the mark of the validity of the company or that you are a legal employee of it. In many cases, the goal is information (e.g., a passcode, an account number, client personal details, a SIN, a list of nodes), and the social engineer tries to convince a user with legitimate access to that information to share it on some fabricated pretext, such as an accident, insurance claim, or research. 
+It’s an old axiom that the weakest link in any security system is the metahuman element, and that holds true for the Matrix as well. Good old fashioned social engineering is updating the ancient confidence trick to the digital realm of the Sixth World, preying on the better or worse natures of your fellow metahumans to gain access to a node or device. It’s amazing the variety of old scams that can be adapted to the Matrix, or the new ones that have emerged over time.
+
+At its heart, social engineering has nothing to do with your hacking skills or your programs; it has to do with your ability to understand and manipulate other people—which can be tricky, as in many cases you need never meet the other person face to face. Often, social engineering can involve elaborate "sets" (nodes/AR ads dressed up to look like they belong to a legitimate company or government office) or the use of publicly available information to convince the mark of the validity of the company or that you are a legal employee of it. In many cases, the goal is information (e.g., a passcode, an account number, client personal details, a SIN, a list of nodes), and the social engineer tries to convince a user with legitimate access to that information to share it on some fabricated pretext, such as an accident, insurance claim, or research.
+
 The benefit of social engineering is that you don’t have to risk your fanny hacking a node to get basic data that a secretary or customer service rep has immediate access to; the downside is there’s no guarantee it’ll work. It should come as no surprise that corps spend a good bit of time drilling proper information safeguards into their employees’ heads to combat social engineering, so don’t be surprised if the first secretary you meet seems skeptical bordering on paranoid.
 
 > Social engineering could be as easy as masquerading as a worker at a Matrix brothel and seducing a security weenie to gain intel on a node, or as elaborate as hiring sim actors to play their respective roles and put the mark in the middle of a drama. My favorite cons involve marks that are betrayed by their own lust or greed. 
@@ -298,15 +320,14 @@ The benefit of social engineering is that you don’t have to risk your fanny ha
 
 > Pistons
 
-They key to social engineering is fitting in—which usually means knowing the lingo and procedures of whomever you’re trying to trick. For example, calling a non-published number to get a flunkie and then saying “Hi it’s Bob from Field Group 9, I’m over at Sector 13C doing maintenance on a 27B stroke 6 and I need passcode authorization on the sec node to run some diagnostics” might work because the flunkie isn’t going to expect an outsider to call that number and know what Field Group 9, Sector 13C, or a
-27B stroke 6 is, so there’s an air of authority to the request.
+They key to social engineering is fitting in—which usually means knowing the lingo and procedures of whomever you’re trying to trick. For example, calling a non-published number to get a flunkie and then saying “Hi it’s Bob from Field Group 9, I’m over at Sector 13C doing maintenance on a 27B stroke 6 and I need passcode authorization on the sec node to run some diagnostics” might work because the flunkie isn’t going to expect an outsider to call that number and know what Field Group 9, Sector 13C, or a 27B stroke 6 is, so there’s an air of authority to the request.
 [/spoiler]
 
 ---
 
-[size=12pt][b]机师技巧[/b][/size]
+[size=14pt][b]机师技巧[/b][/size]
 
-作为黑客的一个子集，机师拥有独特的硬件、软件，以及与其相关的亚文化意识形态和文学。大多数机师都是典型的机械工程师，他们对无人机和车辆——硬件和无线通信协议——更感兴趣，而不是支持这些方面的虚拟环境。但这并不意味着他们会忽视矩阵其余部分所发生的事情; 他们负担不起。恶意软件和伪造是机师最可怕的两个噩梦。
+作为黑客的一个子集，机师拥有独特的硬件、软件，以及与其相关的亚文化意识形态和文学。大多数机师都是典型的机械工程师，他们对无人机和车辆——硬件和无线通信协议——更感兴趣，而不是支持这些方面的虚拟环境。但这并不意味着他们会忽视矩阵其余部分所发生的事情; 他们负担不起。恶意软件和欺骗是机师最可怕的两个噩梦。
 
 > 黑客和机师可能是同一类计算机罪犯，但他们是非常不同的品种，每个人都有自己利用的漏洞。尽管如此，它还是让黑客和机师知道对方能做什么，哪怕只是留意他们的漏洞并想出如何反击他们——或者在情况需要时能够利用他们。入侵一个机师安保系统和入侵一个节点并没有什么不同。
 
@@ -365,7 +386,7 @@ Cyborgs may also be jacked, but in this case the rigger is setting their abiliti
 
 有时候，你只是没有合适的工具来做这件事，你必须用手头的东西做到最好。即兴干扰是当你真的非常需要干扰器而你没有的时候，但你有一个通讯链，或者一个收音机，或者其他你可以编程把噪音传输到另一个机师的带宽的东西。和大多数技术一样，即兴干扰介于科学和艺术之间;通常情况下，这是在不理想的情况下的最后努力，从定义上来说，你不会使用首选的设备来完成它。
 
-> 但这是有效的。我曾经劫持了肯塔基州的一个广播电台30分钟来干扰三公里外一个军事基地的通讯。他们太喜欢我了，让我做一个常规节目，但我必须在黑色直升机来抓我之前逃走。
+> 但这是有效的。我曾经劫持了肯塔基州的一个广播电台30分钟来干扰三公里外一个军事基地的通讯。他们太喜欢我了，甚至想让我做一个常规节目，但我必须在直升机来抓我之前逃走。
 
 > Kane
 
@@ -405,8 +426,10 @@ Sometimes you just don’t have the right tool for the job, and you have to do t
 [spoiler]
 [b]EMP[/b]
 An electromagnetic pulse (EMP) is a magnetic field in an intense state of flux traveling from a central point; when the field passes through an electronic device (like a power system or the lasers that read your optical chips), this can produce extreme voltages and dangerous currents that can burn out components or damage hardware. 
-The popular conception of an electromagnetic pulse as an unstoppable ultra-weapon that can send metahumanity back to the dark ages of steam power and internal combustion engines are mostly the product of the media. Optical electronic devices are mostly immune to EMPs, and our protein and optical storage media is completely able to withstand them. Don’t believe the sim that the huge EMP using the Eiffel Tower as an antenna is going to wipe every commlink and datachip in France. At the very worst, it’ll probably just fry the power linkages or the antenna, and you can swap those parts right out. 
-EMPs are generally the result of certain weapons and devices, like nukes, that you’re not going to have to deal with. Or if you do have to deal with the big bombs, the EMP is slightly less important than the megadose of radiation, heat, and oh yeah that shockwave that’s about to pummel you. Devices that just produce an EMP and nothing else are a lot more popular than nukes these days, though they’re still covered by several multinational and multicorporate agreements. Runners may encounter EMPs through EMP grenades, HERF weapons, thunderbirds, or the Pulse spell. 
+The popular conception of an electromagnetic pulse as an unstoppable ultra-weapon that can send metahumanity back to the dark ages of steam power and internal combustion engines are mostly the product of the media. Optical electronic devices are mostly immune to EMPs, and our protein and optical storage media is completely able to withstand them. Don’t believe the sim that the huge EMP using the Eiffel Tower as an antenna is going to wipe every commlink and datachip in France. At the very worst, it’ll probably just fry the power linkages or the antenna, and you can swap those parts right out.
+
+EMPs are generally the result of certain weapons and devices, like nukes, that you’re not going to have to deal with. Or if you do have to deal with the big bombs, the EMP is slightly less important than the megadose of radiation, heat, and oh yeah that shockwave that’s about to pummel you. Devices that just produce an EMP and nothing else are a lot more popular than nukes these days, though they’re still covered by several multinational and multicorporate agreements. Runners may encounter EMPs through EMP grenades, HERF weapons, thunderbirds, or the Pulse spell.
+
 Just to make it clear, you’re never going to see an EMP. They aren’t flashes of light or slowly expanding spherical energy waves like you see in anime. An EMP lasts for all of about a second, is completely invisible, and unless you’ve got cyberware you probably won’t even feel it. What you can bank on is that it will completely disrupt all wireless and radio communication for a brief moment, and it can burn out unshielded electronics—not optical electronics, but the parts with actual bits of metal.
 
 > I heard that if you have a cortex bomb and you’re dead center when an EMP goes off, it’ll fry the bomb without going off. Truth or not? 
