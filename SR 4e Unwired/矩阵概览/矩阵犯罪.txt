@@ -244,7 +244,7 @@ You can’t talk about Matrix crime without talking about Matrix pirates and hac
 
 • 在西雅图，包装材料中的RFID标签使西雅图的废物管理承包商能够监测每个家庭的回收水平，以更高效率对可回收材料进行机械分类，并对不当丢弃可回收材料的家庭征收高昂的费用。
 
-• 网格链接系统将车辆与车辆登记信息联系起来，计算并自动收取道路使用费，监测交通情况，并使用复杂的程序重新安排车辆路线以管理高峰期交通。
+• 网域链接系统将车辆与车辆登记信息联系起来，计算并自动收取道路使用费，监测交通情况，并使用复杂的程序重新安排车辆路线以管理高峰期交通。
 
 • 城市内的空中交通系统与空中交通情况相连接，提供自动化空中交通控制，验证执照，监测非法空中交通，派遣无人机、警察或自动发出警告，并减少空中碰撞。
 
@@ -367,7 +367,7 @@ Most data havens already had been sending old and outdated data to the Nexus, th
 
 > Slamm-0!
 
-在随后的几年里，CCMA进行了全面改革。他们已经拥抱了无线世界，并认真追查任何试图阻碍它的人。他们对企业舞蹈的关心减少了很多，而更多的是对企业本身进行监督。为了维持治安，他们依靠网格监督部门。
+在随后的几年里，CCMA进行了全面改革。他们已经拥抱了无线世界，并认真追查任何试图阻碍它的人。他们对企业舞蹈的关心减少了很多，而更多的是对企业本身进行监督。为了维持治安，他们依靠网域监督部门。
 
 [spoiler]
 [size=14pt][b]MATRIX LAW AND POLICE[/b][/size]
@@ -384,13 +384,13 @@ The CCMA took a huge hit after the Crash in terms of personnel and reputation. S
 In the years that have followed, the CCMA has been overhauled. They’ve embraced the wireless world and seriously pursue anyone who tries to hamper it. They care a lot less about doing the corporate dance and a lot more about policing the corps themselves. To do the policing, they rely on the Grid Overwatch Division.
 [/spoiler]
 
-[b]网格监督部门[/b]
+[size=12pt][b]网域监督部门[/b][/size]
 
 我们黑客有能力同时违反多个司法管辖区的多项法律，因此造成了很多问题。通过适当地使用代理或网精，黑客可以造成比任何经过改装的街头萨满更严重的破坏，至少在跨越矩阵边界和违反法律方面是如此的。在一次行动中，你可以非法入侵西雅图的MSP供应商，入侵新网的卫星网络，访问KITT的人力资源数据存储器，并闯入地平线的研发设施。如果地平线公司的安保黑客试图追踪你，他们也将不得不通过新网的卫星系统进行黑客攻击。这和派武装的地平线公司人员进入新网的财产是一样的。换句话说，这不会是好事。
 
 更糟糕的是，许多司法管辖区对矩阵犯罪有完全不同的法律。在加拉加斯，黑客行为根本算不上是犯罪。因此，除非一个公司能派他们自己的人去找你，否则向当地请求援助的结果只会是被嘲笑。
 
-为了帮助规范矩阵法治，CCMA创建了网格监督部门(GRID OVERWATCH DIVISION)，也被巧妙地称之为GOD。他们的工作人员都是从十大超企中借调来的企业安保黑客，负责监管无线矩阵的混乱局面。他们追踪黑客，并在企业需要有人协助裁决调查时解决跨辖区的犯罪。如果有必要，他们也会自己调查犯罪，特别是当公司的黑客行动有点过火的时候。他们被称为网探(G-men)，通常限于公共节点。然而，在调查犯罪时，他们会请求许可进入私人空间。如果没有得到许可，他们可以获得授权以允许他们进入。十大超企均以“矩阵犯罪伤害了我们所有人”为标准，为帮助网探们做了一场表演。
+为了帮助规范矩阵法治，CCMA创建了网域监督部门(GRID OVERWATCH DIVISION)，也被巧妙地称之为GOD。他们的工作人员都是从十大超企中借调来的企业安保黑客，负责监管无线矩阵的混乱局面。他们追踪黑客，并在企业需要有人协助裁决调查时解决跨辖区的犯罪。如果有必要，他们也会自己调查犯罪，特别是当公司的黑客行动有点过火的时候。他们被称为网探(G-men)，通常限于公共节点。然而，在调查犯罪时，他们会请求许可进入私人空间。如果没有得到许可，他们可以获得授权以允许他们进入。十大超企均以“矩阵犯罪伤害了我们所有人”为标准，为帮助网探们做了一场表演。
 
 现实情况是，在表面之下，合作经常受限或被拖延，特别是当你把网探那神一样的态度和CCMA相当严格的执行结合起来。这一点，再加上企业利用狂奔者来打击他们的竞争对手，以及他们需要时间来确保没有证据将他们与那些“可否认的资产”联系起来，意味着网探会发现他们的调查受到阻碍。
 
@@ -401,7 +401,7 @@ In the years that have followed, the CCMA has been overhauled. They’ve embrace
 > Pistons
 
 [spoiler]
-[b]GRID OVERWATCH DIVISION[/b]
+[size=12pt][b]GRID OVERWATCH DIVISION[/b][/size]
 We hackers cause so many problems with our ability to break multiple laws in multiple jurisdictions at the same time. With the appropriate use of agents—or sprites—a hacker can cause more havoc than any souped-up street sam, at least in terms of Matrix borders crossed and laws broken. On a single run, you can illegally hack access to a Seattle MSP provider, hack a NeoNET sat network, access a KITT HR data storage, and break into a Horizon R&D facility. If the Horizon corporate security hackers try to trace you, they’ll have to hack through NeoNET’s sat system, too. Which is rather the same as sending armed Horizon goons onto NeoNET’s property. In other words, it ain’t gonna be pretty. 
 
 To make matters worse, many jurisdictions have completely different laws regarding Matrix crimes. Hacking in Caracas isn’t much of a crime at all. So unless a corp can send their own goons after you, requests for local assistance are going to get laughed at. 
@@ -483,7 +483,7 @@ Frequently, the G-men like to patrol public nodes, looking for hackers, trying t
 > Dr. Spin
 [/spoiler]
 
-[b]其他执法机构[/b]
+[size=12pt][b]其他执法机构[/b][/size]
 
 如果你做的事情大到足以中断商业活动，那么可以预计到会有网探来敲门。对于其他的事情，还有当地的执法部门--公司、政府或签约机构。公司调查影响其底线的矩阵犯罪，如软件盗版、ID盗窃，或使用/盯上公司资产的黑客。一些政府有自己的执法部门，比如PCC，他们的执法部门是国家化的，对黑客的看法非常不宽容。其他大多数司法管辖区则依靠签约的执法部门，如孤星。
 
@@ -496,7 +496,7 @@ Frequently, the G-men like to patrol public nodes, looking for hackers, trying t
 > Glitch
 
 [spoiler]
-[b]OTHER LAW ENFORCEMENT AGENCIES[/b]
+[size=12pt][b]OTHER LAW ENFORCEMENT AGENCIES[/b][/size]
 If you do something big enough to interrupt commerce, expect the G-men to come knocking. For everything else, there’s your local law enforcement—corporate, government, or contracted. Corporations investigate Matrix crimes that affect their bottom line, like software piracy, ID theft, or hackers that use or target corporate assets. Some governments have their own law enforcement—like the PCC, with their nationalized law enforcement and their very intolerant views on hackers. Most other jurisdictions rely on contracted law enforcement, such as Lone Star. 
 
 Lone Star’s Matrix Crimes Division, MCD, is tasked with patrolling public Matrix spaces and providing rapid response, investigation, and incarceration of Matrix criminals for areas they’re contracted to protect. The overworked Lone Star detectives have to deal with everything from Matrix gangs running BTLs to reining in organized crime. In between, they get stuck trying to police hackers, ID thieves, warez dealers, and all the other riff-raff that make a living off the Matrix. Lone Star also will provide Matrix security to customers, including IC and on-call combat hackers. 
