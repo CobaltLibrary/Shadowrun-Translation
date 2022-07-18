@@ -261,7 +261,7 @@ Like any other device, implants are susceptible to viruses and other malware. Th
 
 > Sticks
 
-> 因为不管你有多少通讯链，你只有一个大脑。如果你尝试同时使用两个通讯链，你会感到头痛，产生多感官幻觉，你的图标会尝试同时在两个通讯链上做同样的事情。解决这个问题的方法是将通讯链链接在一起——如我所说，是一个菊花链[color=green](注：即A连B，B连C的线性拓扑结构)[/color]——这样你每次只需关注一个图标(即使每个图标都在一堆不同的节点中)，在栈中切换它们。
+> 因为不管你有多少通讯链，你只有一个大脑。如果你尝试同时使用两个通讯链，你会感到头痛，产生多感官幻觉，你的图标会尝试同时在两个通讯链上做同样的事情。解决这个问题的方法是将通讯链链接在一起——如我所说，是一个菊花链[color=green](注：即A连B，B连C，C连A的环形拓扑结构)[/color]——这样你每次只需关注一个图标(即使每个图标都在一堆不同的节点中)，在栈中切换它们。
 
 > Slamm-0!
 
@@ -327,18 +327,18 @@ They key to social engineering is fitting in—which usually means knowing the l
 
 [size=14pt][b]机师技巧[/b][/size]
 
-作为黑客的一个子集，机师拥有独特的硬件、软件，以及与其相关的亚文化意识形态和文学。大多数机师都是典型的机械工程师，他们对无人机和车辆——硬件和无线通信协议——更感兴趣，而不是支持这些方面的虚拟环境。但这并不意味着他们会忽视矩阵其余部分所发生的事情; 他们负担不起。恶意软件和欺骗是机师最可怕的两个噩梦。
+作为黑客的一个子集，机师拥有独特的硬件、软件，以及与其相关的亚文化意识形态和文学。大多数机师都是典型的机械脑袋，他们对无人机和载具——硬件和无线通信协议——更感兴趣，而不是支持这些事物的虚拟环境。但这并不意味着他们会忽视矩阵其余部分所发生的事情；他们负担不起。恶意软件和欺骗是机师最可怕的两个噩梦。
 
-> 黑客和机师可能是同一类计算机罪犯，但他们是非常不同的品种，每个人都有自己利用的漏洞。尽管如此，它还是让黑客和机师知道对方能做什么，哪怕只是留意他们的漏洞并想出如何反击他们——或者在情况需要时能够利用他们。入侵一个机师安保系统和入侵一个节点并没有什么不同。
+> 黑客和机师可能是同一类计算机罪犯，但他们是非常不同的品种，每个人都有自己利用的漏洞。尽管如此，让黑客或机师知道对方能做什么还是很有价值的，哪怕只是留意他们的漏洞并想出如何反击他们——或者当情况需要时能够利用他们。骇入一个机师的安保系统和骇入一个节点并没有什么不同。
 
 > Turbo Bunny
 
-> 侵入一个节点。通常情况下，蜘蛛会把注意力分散在几十个设备上，但每个节点都是一样的。
+> 好吧，那是骇入一个节点。在那个节点上，蜘蛛的注意力通常分散在几十台设备之间上，但同样是一个节点。
 
 > Pistons
 
 [spoiler]
-[size=12pt][b]RIGGER TRICKS[/b][/size]
+[size=14pt][b]RIGGER TRICKS[/b][/size]
 While properly a subset of hackers, riggers have unique hardware, software, and subcultural ideologies and literature surrounding them. Most riggers are typical gearheads, more interested in drones and vehicles—the hardware and the wireless communication protocols—than the virtual environment those aspects support. That doesn’t mean they ignore what’s happening in the rest of the Matrix; they can’t afford to. Malware and spoofing are two of a rigger’s worst nightmares.
 
 > Hackers and riggers might be the same genus of computer criminals, but they’re very different breeds, and each one has their own exploits. Still, it pays for hackers and riggers to be aware of what the other side can do, if only to keep an eye out for their exploits and figure out how to counter them—or be able to use them if the situation calls for it. Hacking a rigged security system isn’t all that different from hacking a node.
@@ -350,24 +350,24 @@ While properly a subset of hackers, riggers have unique hardware, software, and 
 > Pistons
 [/spoiler]
 
-[b]劫持无人机[/b]
+[size=12pt][b]劫持生物无人机和赛博格[/b][/size]
 
-虽然所谓的生物无人机和电子机械人不是一般的暗影狂奔者可能遇到的东西，但大多数机师至少知道它们。这两种“无人机”(我使用这个术语比较宽松)都是被操纵的，因此它们都可以被劫持。劫持生物无人机最简单的方法是劫持它和它的处理器之间的通信，然后伪造命令并干扰它，以防止它收到任何进一步的命令。
+虽然所谓的生物无人机和赛博格不是一般的暗影狂奔者可能遇到的东西，但大多数机师至少应该知道它们。这两种“无人机”(我使用这个术语比较宽松)都是被操纵的，因此它们都可以被劫持。劫持生物无人机最简单的方法是劫持它和它的操纵者之间的通信，然后伪造指令并干扰它，以防止它收到任何进一步的指令。
 
-> 你这是经验之谈，还是理论之谈? 因为我认为大多数人会注意到如果他们失去了一个生物无人机，即使那样，你也必须停止干扰它，给它更多的指令。
+> 你这是经验之谈，还是理论之谈? 因为我认为大多数人会注意到如果他们失去了一个生物无人机，即使那样，你也必须停止干扰它，以便给它发送更多的指令。
 
 > Rigger X
 
-> 正如我所描述的那样，我做过一次——等待这个东西离开它的控制器范围，然后做了一些更严重的黑客操作来消除所有者的痕迹。我认为某些接口可能会使生物无人机更能抵抗黑客攻击，但我还没有证实这一点。
+> 正如我所描述的那样，我做过一次——等待这个东西离开它的控制者的范围，然后做了一些更严重的骇入操作来消除所有者的痕迹。我认为某些接口可能会使生物无人机更能抵抗骇入攻击，但我还没有证实这一点。
 
 > Pistons
 
-你也可以——虽然我不推荐这么做——尝试直接侵入生物无人机的植入物，并以你的方式从那里控制它，但我不知道有多少人想要接近一个活跃的生物无人机三米之内。
+你也可以——虽然我不推荐这么做——尝试直接骇入生物无人机的植入物，并以你的方式从那里控制它，但我不知道有多少人想要进入一个活跃的生物无人机三米之内。
 
-赛博格也可能被劫持，但在这种情况下，机师用他们的能力对付熟练的黑客。由于赛博格只不过是一架带有集成通讯链的无人机，在许多情况下，它成为直接的网络战斗。显而易见的切入点是赛博格的集成通讯链——完美地发送欺骗命令或无线侵入赛博格的无人机身体，你可以肯定赛博格会抵抗。在最可怕的情况下，我想象一个赛博格可以关掉它的通讯链，但我从未听说过这种情况发生过。你也可以尝试在赛博格身体的维护停机期间劫持它，尽管你必须非常精确地把握时间，而且赛博格设施的安全性不容小觑。
+赛博格也可能被劫持，但在这种情况下，机师使用他们的能力对付熟练的黑客。由于赛博格只不过是一架带有内置机师的无人机，在许多情况中这会变成直接的矩阵战斗。显而易见的切入点是赛博格的集成通讯链——完美地发送伪造指令或无线侵入赛博格的无人机身体，但是你可以确定赛博格会做出抵抗。在最可怕的情况下，我想象一个赛博格可以关掉它的通讯链，但我从未听说过这种情况发生。你也可以尝试在赛博格身体的维护停机期间劫持它，尽管你必须非常精确地把握时间，而且赛博格设施的安保不容小觑。
 
 [spoiler]
-[b]JACKING BIODRONES AND CYBORGS[/b]
+[size=12pt][b]JACKING BIODRONES AND CYBORGS[/b][/size]
 While the so-called biodrones and cyborgs aren’t things the average shadowrunner is likely to run into, most riggers are at least aware of them. Both of these "drones" (and I use the term loosely) are rigged, so it follows that they can both be jacked. The easiest way to jack a biodrone is to intercept the traffic between it and its handler, and then spoof commands and jam it to prevent it from receiving any further orders.
 
 > Are you speaking from experience, or is this all theoretical? Because I think most people would notice if they lost a biodrone, and even then you’d have to stop jamming it at some point to give the thing more commands. 
@@ -379,19 +379,20 @@ While the so-called biodrones and cyborgs aren’t things the average shadowrunn
 > Pistons
 
 You can also—though I don’t recommend this—try to hack the biodrone’s implants directly and work your way up to taking control of it from there, but I don’t know many people that want to get within three meters of an active biodrone. 
+
 Cyborgs may also be jacked, but in this case the rigger is setting their abilities against a skilled hacker. As a cyborg is little more than a drone with an integral rigger, it becomes straight-up cybercombat in many cases. The obvious point of entry is the cyborg’s integral commlink—perfect for sending spoofed commands or hacking the cyborg’s drone body wirelessly, which you can be damn sure the cyborg is going to resist. In the direst situations, I imagine a cyborg could turn off its commlink, but I’ve never heard of that happening. You could also try and jack a cyborg body during its maintenance downtime, though your timing would have to be pretty exact, and the security on cyborg facilities is nothing to sneeze at.
 [/spoiler]
 
-[b]即兴干扰[/b]
+[size=12pt][b]即兴干扰[/b][/size]
 
-有时候，你只是没有合适的工具来做这件事，你必须用手头的东西做到最好。即兴干扰是当你真的非常需要干扰器而你没有的时候，但你有一个通讯链，或者一个收音机，或者其他你可以编程把噪音传输到另一个机师的带宽的东西。和大多数技术一样，即兴干扰介于科学和艺术之间;通常情况下，这是在不理想的情况下的最后努力，从定义上来说，你不会使用首选的设备来完成它。
+有时候，你只是没有合适的工具来做这件事，你必须用手头的东西做到最好。即兴干扰发生在当你真的非常需要一个干扰器而你没有，但你有一个通讯链，或者一个收音机，或者其他你可以通过编程把噪音传输到另一个机师的带宽的东西的时候。和大多数技巧一样，即兴干扰介于科学和艺术之间；通常情况下，这是在不理想的情况下的最后努力，从定义上来说，你不会使用首选的设备来完成它。
 
-> 但这是有效的。我曾经劫持了肯塔基州的一个广播电台30分钟来干扰三公里外一个军事基地的通讯。他们太喜欢我了，甚至想让我做一个常规节目，但我必须在直升机来抓我之前逃走。
+> 但这是有效的。我曾经劫持了肯塔基州的一个广播电台30分钟来干扰三公里外一个军事基地的通讯。他们太喜欢我了，甚至想让我做一个常规节目，但我必须在黑色行动直升机来抓我之前逃走。
 
 > Kane
 
 [spoiler]
-[b]JAMMING ON THE FLY[/b]
+[size=12pt][b]JAMMING ON THE FLY[/b][/size]
 Sometimes you just don’t have the right tool for the job, and you have to do the best you can with what’s at hand. Jamming on the fly is when you really really need a jammer and you don’t have one—but you do have a commlink, or a radio, or something that you can program to spit noise into the other rigger’s bandwidth. Like most techniques, jamming on the fly is somewhere between a science and an art; more often than not it’s a last-ditch effort in a non-ideal situation, and by definition you’re not going to be using the preferred equipment to get it done.
 
 > Can be effective, though. I once took a radio station in Kentucky hostage for thirty minutes to jam the comms on a military base three klicks away. They liked me so much they asked me to do a regular show, but I had to make my getaway before the black copters came for me.
@@ -401,31 +402,32 @@ Sometimes you just don’t have the right tool for the job, and you have to do t
 
 [size=12pt][b]EMP[/b][/size]
 
-电磁脉冲(EMP)是一种从中心点出发的强通量磁场;当磁场通过电子设备(比如电力系统或读取光学芯片的激光器)时，就会产生极端的电压和危险的电流，烧毁元件或损坏硬件。
+电磁脉冲(EMP)是一种从中心点出发的强通量磁场；当磁场通过电子设备(比如电力系统或读取光学芯片的激光器)时，就会产生极端的电压和危险的电流，烧毁元件或损坏硬件。
 
-人们普遍认为，电磁脉冲是一种不可阻挡的超级武器，可以把泛人类送回蒸汽动力和内燃机的黑暗时代，这主要是媒体的产物。光学电子设备大多不受电磁脉冲的影响，而我们的蛋白质和光学存储介质完全能够承受它们。不要相信模拟说使用埃菲尔铁塔作为天线的巨大电磁脉冲会抹去法国所有的通讯链和数据芯片。最坏的情况是，它可能只会把电源连接线或天线烧毁，你就可以把那些部件换掉。
+人们普遍认为，电磁脉冲是一种不可阻挡的超级武器，可以把泛人类送回蒸汽动力和内燃机的黑暗时代，这主要是媒体宣传的产物。光学电子设备大多不受电磁脉冲的影响，而我们的蛋白质和光学存储介质完全能够承受它们。不要相信拟感影片说使用埃菲尔铁塔作为天线的巨型电磁脉冲会抹去法国所有的通讯链和数据芯片。最坏的情况是，它可能只会把电源连接线或天线烧毁，你可以之后把那些部件换掉。
 
-电磁脉冲通常是某些武器和设备的结果，比如核武器，你不需要去处理。或者，如果你确实要对付大炸弹，电磁脉冲的重要性略低于超大剂量的辐射，热量，还有即将袭击你的冲击波。这些天来，只产生电磁脉冲的设备比核武器更受欢迎，尽管它们仍然受到一些跨国和多公司协议的保护。跑步者可能会通过EMP手榴弹，HERF武器，雷鸟或脉冲法术遇到EMP。
+电磁脉冲通常是某些武器和设备的结果，比如核武器，你不会有机会去处理它们。或者说，如果你不得不要对付那些大炸弹，电磁脉冲的重要性略低于超大剂量的辐射，热量，以及哦，对了，还有即将扑向你的冲击波。如今，只产生电磁脉冲而不产生其他东西的装置比核武器更受欢迎，尽管它们仍然被一些跨国和跨公司的协议所覆盖。狂奔者可能会通过EMP手榴弹，HERF武器，雷鸟或脉冲法术遇到EMP。
 
-明确地说，你永远不会看到电磁脉冲。它们不是闪光或缓慢膨胀的球形能量波，就像你在动画中看到的那样。电磁脉冲持续大约一秒钟，是完全看不见的，除非你有赛博殖装，否则你可能感觉不到它。你可以指望的是，它会在短时间内完全中断所有的无线和无线电通信，它会烧毁无屏蔽的电子产品——不是光学电子产品，而是有实际金属块的部件。
+明确地说，你永远不会看到EMP。它们不是像你在动画中看到的那样的闪光或缓慢膨胀的球形能量波。电磁脉冲持续大约一秒钟，是完全看不见的，除非你有赛博殖装，否则你甚至可能完全感觉不到它。你可以确信的是，它会在短时间内完全中断所有的无线和无线电通信，会烧毁无屏蔽的电子产品——不是光学电子产品，而是有实际金属碎片的部分。
 
-> 我听说如果你有一个皮质炸弹当电磁脉冲爆炸时你正好在中心位置，炸弹就会被炸掉而并不会爆炸。是真的吗?
+> 我听说如果你有一个皮质炸弹并且当电磁脉冲爆发时你正好在中心位置，炸弹就会被炸掉而不会爆炸。这是真的吗？
 
 > Black Mamba
 
-> 也许有用，如果皮质炸弹能被短路。
+> 也许有用，如果皮质炸弹被短路了的话。
 
 > Beaker
 
-> 不过，电磁脉冲产生的级联电压和电流可能会引爆炸弹，或者皮质炸弹可能会在信号中断时爆炸，这种情况下，很高兴认识你。然而，大多数皮质炸弹都有足够的屏蔽(特别是当它们在一个赛博头骨中)，这不是一个问题。
+> 然后，电磁脉冲产生的级联电压和电流可能会引爆炸弹，或者皮质炸弹可能会在信号中断时爆炸，这种情况下，很高兴认识你。然而，大多数皮质炸弹都有足够的屏蔽(特别是当它们在赛博头骨中)，这就不是一个问题了。
 
 > Butch
 
-抵御电磁脉冲的最佳防护是在法拉第笼内——粗略地说，任何完全被固体金属或金属丝网包围的空间。我听说一些部队和军事组织也在研究纳米技术服，但我从未见过或听说过这种服能起作用。
+抵御电磁脉冲的最佳防护是在法拉第笼内——粗略地说，任何完全被固体金属或金属丝网包围的空间。我听说一些部队和军事组织也在研究纳米技术防护服，但我从未见过或听说过这种防护服能起作用。
 
 [spoiler]
-[b]EMP[/b]
-An electromagnetic pulse (EMP) is a magnetic field in an intense state of flux traveling from a central point; when the field passes through an electronic device (like a power system or the lasers that read your optical chips), this can produce extreme voltages and dangerous currents that can burn out components or damage hardware. 
+[size=12pt][b]EMP[/b][/size]
+An electromagnetic pulse (EMP) is a magnetic field in an intense state of flux traveling from a central point; when the field passes through an electronic device (like a power system or the lasers that read your optical chips), this can produce extreme voltages and dangerous currents that can burn out components or damage hardware.
+
 The popular conception of an electromagnetic pulse as an unstoppable ultra-weapon that can send metahumanity back to the dark ages of steam power and internal combustion engines are mostly the product of the media. Optical electronic devices are mostly immune to EMPs, and our protein and optical storage media is completely able to withstand them. Don’t believe the sim that the huge EMP using the Eiffel Tower as an antenna is going to wipe every commlink and datachip in France. At the very worst, it’ll probably just fry the power linkages or the antenna, and you can swap those parts right out.
 
 EMPs are generally the result of certain weapons and devices, like nukes, that you’re not going to have to deal with. Or if you do have to deal with the big bombs, the EMP is slightly less important than the megadose of radiation, heat, and oh yeah that shockwave that’s about to pummel you. Devices that just produce an EMP and nothing else are a lot more popular than nukes these days, though they’re still covered by several multinational and multicorporate agreements. Runners may encounter EMPs through EMP grenades, HERF weapons, thunderbirds, or the Pulse spell.
