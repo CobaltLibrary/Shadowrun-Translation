@@ -1,0 +1,584 @@
+[color=brown][size=16pt][b]游戏信息[/b][/size][/color]
+
+[i]黑客手册[/i] 为玩家角色在游戏中使用矩阵提供了更多的选择，为黑客和非黑客角色通过矩阵进行互动提供了更多的机会。本章中的规则和材料可以增加战役的深度，让暗影狂奔对机智的玩家和GM来说更具挑战性和奖励性。
+
+[spoiler]
+[color=brown][size=16pt][b]GAME INFORMATION[/b][/size][/color]
+[i]The Hacker’s Handbook[/i] is designed to give player characters more options for using the Matrix with their games, expanding the opportunities for both hackers and non-hackers to interact through the Matrix. The rules and material presented in this chapter can add depth to a campaign, making shadowruns more challenging and rewarding for clever players and gamemasters.
+[/spoiler]
+
+---
+
+[size=14pt][b]雇一个更好的黑客[/b][/size]
+
+不是每个角色都适合做黑客，也不是每个黑客都有时间和业力在矩阵的每个可能角落都做到最好。付钱给另一个黑客去做你不能做的事情，或者如果你有时间和设备你也可以做的事情，这没什么好羞愧的(好吧，也许有一点)。下面是一份常见的雇佣黑客服务清单，以及他们通常的街头花费和可获得性。如果玩家的黑客角色想要在狂奔的间歇时间做一些自由职业，也可以会自己寻找其中的一些工作。
+
+[spoiler]
+[size=14pt][b]BUYING A BETTER HACKER[/b][/size]
+Not every character is cut out to be a hacker, and not every hacker has the time and Karma to be the best in every possible corner of the Matrix. There’s no shame (well, okay, maybe a little) in paying another hacker to do what you can’t do, or what you could do if you had the time and equipment. What follows below is a list of common services hackers are hired to perform and the usual street costs and availability for them. A hacker player character looking to do a little freelancing in the downtime between runs might look for some of these jobs herself.
+[/spoiler]
+
+[size=12pt][b]匿名化[/b][/size]
+
+在2070年，当有人想给朋友打电话时，他只需拨打朋友的通讯码。然后，通讯链连接到签发通讯码的MSP，并检索接收方的访问ID。使用该访问ID，它同收讯通讯链建立起数据请求连接。在这个过程中，收讯通讯链可以获取到发讯通讯链的访问ID(参见数据交换，第53页)。
+
+匿名化服务可以作为通讯链通信或任何其他数据请求的两个参与者之间的中介。数据包由匿名节点接收，然后使用匿名者的访问ID作为发送ID转发给接收方(参见代理服务器，第104页)。追踪不能显示最初发送方的访问ID，而是中介的访问ID。要检索真实的访问ID就必须骇入代理服务器节点。如果使用了多个代理服务器，则每个服务器都必须被骇入。
+
+[spoiler]
+[size=12pt][b]ANONYMIZATION[/b][/size]
+When somebody in 2070 wants to call a friend, he simply dials his friend’s commcode. The commlink then connects to the MSP that issued the commcode and retrieves the access ID of the receiver. Using that access ID, it establishes the data request connection to the commlink receiving the call. In this process, the receiving commlink is aware of the access ID of the sending commlink (see Data Exchange, p. 53).
+
+Anonymization services work as mediators between the two participants of a commcall or any other data request. The data package is received by the anonymizing node and then forwarded to the receiver using the anonymizer’s access ID as sending ID (see Proxy Servers, p. 104). A trace will not reveal the access ID of the original sender, but rather the access ID of the mediator. To retrieve the real access ID, one must hack the proxy server node. If multiple proxy servers are used, each must be hacked.
+[/spoiler]
+
+[size=12pt][b]一次性通讯码[/b][/size]
+
+一些暗影MSP提供一次性通讯码，即预先出售的，一旦激活，只能使用一次(用于一条消息或一次通话)的通讯码。一旦通话/消息结束，所有的通讯码记录和它使用的访问ID将被安全删除。任何追踪它的尝试都将指向MSP的节点(许多未公开且经常更改的节点之一)，但即使该节点被骇入，也无法找到最初调用者的数据轨迹。
+
+[spoiler]
+[size=12pt][b]ONE-TIME COMMCODES[/b][/size]
+Some shadow MSPs offer one-time disposable commcodes—commcodes sold in advance that, once activated, can be used only once (for a single message or call). As soon as the call/message ends, all record of the commcode and the access ID that used it are securely deleted. Any attempt to track it will lead to the MSP’s node (one of many that are unadvertised and changed often), but even if this node is hacked no data trail to the original caller can be found.
+[/spoiler]
+
+[size=12pt][b]编号信用账户[/b][/size]
+
+想要保密自己的金融交易的角色可能会利用众多灰市和黑市的矩阵银行提供的编号信用账户。这些机构承诺完全匿名和保密；所有的帐户交易都是通过帐户号码、帐户代号和高度加密处理的。尽管这些银行由于为洗钱和逃税提供便利而经常受到政府和超企的压力，它们在妨碍执法方面通常是可靠的。
+
+[spoiler]
+[size=12pt][b]NUMBERED CREDIT ACCOUNTS[/b][/size]
+Characters who are looking to keep their financial transactions confidential may take advantage of a numbered credit account offered by numerous grey and black-market Matrix banks. These institutions promise complete anonymity and confidentiality; all account transactions are handled via account number, an account code name, and heavy encryption. Though often pressured by governments and megacorps for facilitating money laundering and tax evasion, these banks are usually reliable at deflecting law enforcement.
+[/spoiler]
+
+[size=12pt][b]一次性信用账户[/b][/size]
+
+像编号信用账户一样，一次性账户被设置为仅限一次存款和一次取款，完全保密，并会立即删除所有交易记录。
+
+[spoiler]
+[size=12pt][b]ONE-TIME CREDIT ACCOUNTS[/b][/size]
+Like numbered credit accounts, one-time accounts are arranged as a single deposit and single withdrawal, completely confidential and with all records of the transaction immediately erased.
+[/spoiler]
+
+[size=12pt][b]第三方托管账户[/b][/size]
+
+暗影矩阵银行也提供第三方托管服务，在狂奔者队伍和约翰逊先生这互不信任的双方之间充当可靠的中间人。托管服务持有一方的信用额度(有时是货物)，直到另一方完成其部分的交易，使前者满意，然后将持有的钱/货物发送给后者。如果任何一方未能履行他们的协议，第三方保管服务将保留这笔钱/货物，最终在交易失败时将它们返还。
+
+[spoiler]
+[size=12pt][b]ESCROW ACCOUNTS[/b][/size]
+Escrow services, also offered by shadow Matrix banks, act as a secure middle-man between two parties who don’t trust each other—such as a runner team and Mr. Johnson. The escrow service holds on to one party’s credit (or sometimes, goods) until the other party completes its part of the deal to the first party’s satisfaction, then sends the held money/goods on to the second party. If either party fails to follow through on their end of the bargain, the escrow service holds on to the money/goods, eventually returning them if the deal falls through.
+[/spoiler]
+
+[quote]
+[table]
+[tr][td][b]黑客服务[/b][/td][td][b]可获得性[/b][/td][td][b]花费[/b][/td][/tr]
+[tr][td]破解密码[/td][td]12R[/td][td]骇入技能 x 500¥[/td][/tr]
+[tr][td]建立隐藏账户[/td][td]16F[/td][td]骇入技能 x 1000¥[/td][/tr]
+[tr][td]复制经认证的信用棒[/td][td]24F[/td][td]一半金额(真实新元)[/td][/tr]
+[tr][td]欺骗生活方式[/td][td]16F[/td][td]一个月生活方式花费的一半[/td][/tr]
+[tr][td]劫持车辆或无人机[/td][td]8R[/td][td]骇入技能 x 200¥[/td][/tr]
+[tr][td]对个人DOS攻击(1小时)[/td][td]8F[/td][td]骇入技能 x 200¥[/td][/tr]
+[tr][td]追踪数据轨迹[/td][td]6R[/td][td]骇入技能 x 100¥[/td][/tr]
+[tr][td]租用僵尸网络[/td][td]10F[/td][td]僵尸机数量 x 机器成本 x 0.5¥ 每小时[/td][/tr]
+[tr][td]购买僵尸网络[/td][td]15F[/td][td]僵尸机数量 x 机器成本 x 5¥[/td][/tr]
+[tr][td]匿名代理服务[/td][td]4[/td][td]重定向次数 x 10¥ 每天[/td][/tr]
+[tr][td]匿名通讯码(短信/通话)[/td][td]4[/td][td]重定向次数 x 5¥ 每天[/td][/tr]
+[tr][td]一次性即弃通讯码[/td][td]4[/td][td]10¥[/td][/tr]
+[tr][td]编号信用账户[/td][td]4R[/td][td]100¥ / 月[/td][/tr]
+[tr][td]一次性即弃信用账户[/td][td]6R[/td][td]存款金额的10%[/td][/tr]
+[tr][td]第三方托管账户[/td][td]8R[/td][td]存款金额的10%[/td][/tr]
+[/table]
+
+[spoiler]
+[table]
+[tr][td][b]Hacker Services[/b][/td][td][b]Availability[/b][/td][td][b]Cost[/b][/td][/tr]
+[tr][td]Hacking a passcode[/td][td]12R[/td][td]Hacking skill x 500¥[/td][/tr]
+[tr][td]Setting up a hidden account[/td][td]16F[/td][td]Hacking skill x 1000¥[/td][/tr]
+[tr][td]Copying a certified credstick[/td][td]24F[/td][td]Half the amount (in real nuyen)[/td][/tr]
+[tr][td]Spoofing a lifestyle (1 month)[/td][td]16F[/td][td]Half cost of lifestyle for 1 month[/td][/tr]
+[tr][td]Jacking a vehicle or drone[/td][td]8R[/td][td]Hacking skill x 200¥[/td][/tr]
+[tr][td]DOS attack on an individual (1 hour)[/td][td]8F[/td][td]Hacking skill x 200¥[/td][/tr]
+[tr][td]Tracing a datatrail[/td][td]6R[/td][td]Hacking skill x 100¥[/td][/tr]
+[tr][td]Renting a botnet[/td][td]10F[/td][td]Number of bots x Cost of bots x 0.5¥ an hour[/td][/tr]
+[tr][td]Buying a botnet[/td][td]15F[/td][td]Number of bots x Cost of bots x 5¥[/td][/tr]
+[tr][td]Anonymizing proxy service[/td][td]4[/td][td]Number of reroutes x 10¥ per day[/td][/tr]
+[tr][td]Anonymized commcode (calls/messaging)[/td][td]4[/td][td]Number of reroutes x 5¥ per day[/td][/tr]
+[tr][td]One-time disposable commcode[/td][td]4[/td][td]10¥[/td][/tr]
+[tr][td]Numbered credit account[/td][td]4R[/td][td]100¥/month[/td][/tr]
+[tr][td]One-time disposable credit account[/td][td]6R[/td][td]10% of the deposited amount[/td][/tr]
+[tr][td]Escrow service[/td][td]8R[/td][td]10% of the deposited amount[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]盗版[/b][/size]
+
+对合法购买的软件的拷贝保护破解涵盖在SR4的第228页(参见破解拷贝保护表的建议阈值)。然而，非法软件，无论是自行编码的骇入工具还是破解程序的复制版本，都有其自身的问题。第六纪的程序不断变化以跟上前沿技术，定期打补丁和更新是常态，而不是例外情况。不幸的是，这些补丁和更新只适用于程序的合法购买者和许可者——或者对于黑客软件可能根本不存在合法许可——没有它们，程序就会慢慢地走向被淘汰。黑客可以通过自己修补代码、找到补丁或在矩阵的其他地方进行更新，或是简单地下载同一个程序的更新版本，来延缓这种退化。(参见正规软件与盗版软件，第108页)
+
+[spoiler]
+[size=14pt][b]PIRACY[/b][/size]
+Cracking copy protection on legally purchased software is covered on p. 228 of SR4 (see the Cracking Copy Protection table for suggested thresholds). Illegal software, however, be it home-coded hacking utilities or a copy of a cracked program, has difficulties all its own. Programs in the Sixth World are constantly changing to keep up with the cutting edge of technology, and periodic patches and updates are the norm rather than the exception. Unfortunately, these patches and updates are only for legal purchasers and licensers of the program—or in the case of hacker software, may not exist at all—and without them a program slowly slides into obsolescence. A hacker can stall this degeneration either by fixing the code herself, finding the patch or update somewhere else on the Matrix, or by simply downloading a newer, updated version of the same program. (See Legal vs. Pirated Software, p. 108.)
+[/spoiler]
+
+[quote]
+[table]
+[tr][td][b]破解拷贝保护表[/b][/td][/tr]
+[tr][td][b]程序种类[/b][/td][td][b]阈值(时间间隔 1h)[/b][/td][/tr]
+[tr][td]通用程序[/td][td]9+等级[/td][/tr]
+[tr][td]骇入程序[/td][td]13+等级[/td][/tr]
+[tr][td]代理/IC/自驾程序[/td][td]13+等级[/td][/tr]
+[tr][td]系统软件[/td][td]10+等级[/td][/tr]
+[tr][td]防火墙软件[/td][td]13+等级[/td][/tr]
+[tr][td]自动软件[/td][td]12+等级[/td][/tr]
+[/table]
+
+[spoiler]
+[table]
+[tr][td][b]CRACKING COPY PROTECTION[/b][/td][/tr]
+[tr][td][b]Program Type[/b][/td][td][b]Thresold(interval 1 hour)[/b][/td][/tr]
+[tr][td]Common[/td][td]9+rating[/td][/tr]
+[tr][td]Hacking[/td][td]13+rating[/td][/tr]
+[tr][td]Agents/IC/Pilots[/td][td]13+rating[/td][/tr]
+[tr][td]System[/td][td]10+rating[/td][/tr]
+[tr][td]Firewall[/td][td]13+rating[/td][/tr]
+[tr][td]Autosoft[/td][td]12+rating[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[size=12pt][b]发现盗版网络[/b][/size]
+
+在开放矩阵上的常规数据搜索永远不会揭示黑客在哪里可以免费下载一个高等级程序或它的更新补丁，狂奔者在哪里可能会找到最新天才科技玩具的详细AR蓝图，或者在哪里可以找到用于赛博殖装的驱动程序。这些信息发布后的几分钟内，执法黑客就会出现在这个节点上，调查所有这些发讯者，追踪并逮捕任何发出讯息或提出要求的人。然而，只要做一点工作，黑客就可以访问地下破解者的P2P文件共享网络(见下面的虚拟专用网络)，在那里她可以找到并下载程序，并且只需要象征性的费用。
+
+查找并访问合适的网络需要一个数据搜索+浏览(8，1天)延续检定。一旦连接到这样的网络，角色就不需要再去找另一个网络，除非网络关闭了，或者没有她要找的程序(这两种情况都取决于GM)。
+
+[spoiler]
+[size=12pt][b]FINDING PIRATE NETWORKS[/b][/size]
+A regular Data Search on the open Matrix never reveals where a hacker can download a rated program or its updates patch for free, where a runner might find the detailed AR schematics for the latest wiz tech toy, or where the drivers for that used piece of cyberware are. Within minutes of such information being posted, law enforcement hackers appear in the node to investigate all such claims and trace and arrest whoever is making the claims or offers. However, with a little work a hacker can gain access to the peer-to-peer file sharing networks of the Cracker Underground (see Virtual Private Networks, below), where she can find and download programs for a nominal fee. 
+
+Finding and getting access to an appropriate network requires an Extended Data Search + Browse (8, 1 day) Test. Once connected to such a network, the character doesn’t need to find another one unless the network gets shut down, or if it doesn’t have the program she’s looking for (both at the gamemaster’s discretion).
+[/spoiler]
+
+[size=12pt][b]下载软件[/b][/size]
+
+一旦一个角色与地下破解者取得联系，他就可以开始寻找一些东西下载了。要在文件共享网络中找到一个特定的程序，需要进行数据搜索+浏览(可获得性+期望的程序等级，1个战斗轮)延续检定。将程序下载到通讯链或终端的费用是该程序市价的10%(参见程序成本和可获得性，第228页，SR4)。搜索检定的失误表明该程序不在网络上，黑客必须找到另一个网络并再次尝试；一个严重失误表明该角色下载了一个感染了一种或多种病毒的虚假程序。
+
+程序更新和补丁也可以在秘密文件共享网络上使用，并且可以用同样的方式定位。程序补丁和更新(将降级程序恢复到完整级别)的成本是程序当前(降级)级别与其完整级别之间街头成本差的10%。所有来自秘密文件共享网络的程序、更新等都被破解了，如果他们一开始有的话。
+
+[spoiler]
+[size=12pt][b]DOWNLOADING PROGRAMS[/b][/size]
+Once a character has made contact with the Cracker Underground, he can start looking for something to download. To find a specific program on the file sharing network, make an Extended Data Search + Browse (Availability + Desired rating, 1 Combat Turn) Test. Downloading the program to your commlink or terminal costs 10 percent of the street price of the program (see Program Costs and Availability, p. 228, SR4). A glitch on the Search Test indicates the program is not on the network, and the hacker must find another network and try again; a critical glitch indicates the character has downloaded a bogus program infected with one or more viruses.
+
+Program updates and patches are also available on underground file sharing networks and may be located in the same way. The cost for program patches and updates (which restore the degraded program to its full rating) is 10 percent of the difference in street cost between the program’s current (degraded) rating and its full rating. All programs, updates, etc. from an underground file-sharing network have their copy protection cracked, if they ever had any to begin with.
+[/spoiler]
+
+---
+
+[size=14pt][b]虚拟专用网络[/b][/size]
+
+虚拟专用网络(VPN)是一个无等级的P2P程序, 允许用户在缺少拟感信息的层面进行交流并共享文件与信息，通常使用不超过一个AR或VR的窗口，并因此在订阅列表方面不被计算为到节点的连接，除非它们经过加密。这类网络存在的目的有很多，从旨在让社交群体成员保持联系的简单移动社交软件(MoSoSo)，到交易破解软件和自由数据的盗版网络。
+
+VPN的安全性能差别很大，一端是隐匿、密码保护和经过加密的网络，另一端则是完全开放的网络。一般来说，VPN对匿名性的依赖程度不亚于任何其他保护措施，因为它们最脆弱的地方是登录它们的用户。发现一个黑客使用VPN需要一个简单动作仔细观察(参见仔细观察，第136页，SR4)和一个成功的对抗检定，投计算机+分析对抗目标的防火墙+隐匿。如果你确定目标连接到VPN，你可以尝试拦截流量(参见拦截流量，p. 224, SR4)。安全和隐秘的VPN大部分都是加密通信。
+
+罕见的是，虚拟专用网络可能会使用一个节点来进行实时的面对面交流，或者作为一个共同的匿名投递箱来转储文件，以便其他用户以后可以访问、下载或注解。这些节点通常位于矩阵中的偏僻角落，而且几乎都是隐藏的，需要用户的VPN密码才能访问。这种节点会使得VPN非常脆弱，因为它通常包含网络中所有成员的通讯码和密码，因此使用它们的网络经常定期更换节点。
+
+[spoiler]
+[size=14pt][b]VIRTUAL PRIVATE NETWORKS[/b][/size]
+A virtual private network (VPN) is an unrated peer-to-peer program that allows users to communicate and share files and information on a less-than-simsense level, typically no more than just another window in AR or VR, and as such not counting as a connection to a node in terms of subscription lists unless they are encrypted. Networks of this kind exist for many purposes, from simple mobile social software (MoSoSo) designed to keep members of a social group in touch to pirate networks trading cracked software and liberated data. 
+
+Security for VPNs varies considerably, from secretive, passcode-protected, and encrypted networks on the one end to completely open networks on the other. Generally, VPNs depend on anonymity as much as anything else to protect them, as their most vulnerable points are the users logged on to them. Spotting a hacker using a VPN requires a Simple Action to Observe in Detail (see Observe in Detail, p. 136, SR4) and a successful Opposed Test, rolling Computer + Analyze against the target’s Firewall + Stealth. If you determine the target is connected to a VPN, you can attempt to Intercept Traffic (see Intercept Traffic, p. 224, SR4). Secure and secretive VPNs are almost always encrypted communications. 
+
+Rarely, a virtual private network may make use of a node to facilitate real-time face-to-face communications, or as a common dropbox to dump files that other users may access and download or annotate later. Such nodes are usually in out-of-the-way corners of the Matrix and almost always hidden, requiring the user’s VPN passcode to access. A node makes a VPN very vulnerable as it often contains the commcode and passcodes of all members of the network, and networks that make use of them often change nodes on a regular basis.
+[/spoiler]
+
+---
+
+[size=14pt][b]值钱数据[/b][/size]
+
+转手值钱数据的一般规则见SR4第303页。可以在值钱数据街头成本表中找到适用于值钱数据的其他修正。
+
+[spoiler]
+[size=14pt][b]PAYDATA[/b][/size]
+General rules for fencing paydata are found on p. 303 of SR4. Additional modifiers that apply to paydata can be found on the Paydata Street Costs table.
+[/spoiler]
+
+[quote]
+[table]
+[tr][td][b]值钱数据街头成本[/b][/td][/tr]
+[tr][td][b]状况[/b][/td][td][b]成本调整[/b][/td][/tr]
+[tr][td]数据损坏了，但大部分可以挽救[/td][td]–20%到–50%[/td][/tr]
+[tr][td]数据只能在过时的介质上读取[/td][td]–20%[/td][/tr]
+[tr][td]数据是公开的，但却模糊不清[/td][td]–10%[/td][/tr]
+[tr][td]数据采用了专有文件格式[/td][td]+10%[/td][/tr]
+[tr][td]经过认证的数据[/td][td]+50%[/td][/tr]
+[tr][td]数据的唯一残留副本[/td][td]+100%[/td][/tr]
+[tr][td]独有法术公式[/td][td]+200%[/td][/tr]
+[tr][td]纳米原理图[/td][td]+400%[/td][/tr]
+[tr][td]精魂公式[/td][td]+400% [/td][/tr]
+[/table]
+
+[spoiler]
+[table]
+[tr][td][b]PAYDATA STREET COSTS[/b][/td][/tr]
+[tr][td][b]Situation[/b][/td][td][b]Cost Adjustment[/b][/td][/tr]
+[tr][td]Data is damaged, but mostly salvageable[/td][td]–20% to –50%[/td][/tr]
+[tr][td]Data is only available on an obsolete medium[/td][td]–20%[/td][/tr]
+[tr][td]Data is publicly available but obscure[/td][td]–10%[/td][/tr]
+[tr][td]Data is in a Proprietary File Format[/td][td]+10%[/td][/tr]
+[tr][td]Certified data[/td][td]+50%[/td][/tr]
+[tr][td]Sole remaining copy of data[/td][td]+100%[/td][/tr]
+[tr][td]Unique enchantment formula[/td][td]+200%[/td][/tr]
+[tr][td]Nanoschematics[/td][td]+400%[/td][/tr]
+[tr][td]Spirit formula[/td][td]+400% [/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[size=12pt][b]专有文件格式[/b][/size]
+
+超企和一些国家的军事和研究机构利用专有文件格式(PFF)来保护不向公众发布的数据。PFF格式的程序和文件仅供内部发布，通常只与该大公司的特定软件或操作系统兼容，这意味着角色只能使用同一公司制作的操作系统来打开PFF文件或运行PFF程序。专业的仿真程序(或胡乱拼凑的黑客变种)可以用来在其他操作系统上以最小的数据损失打开PFF文件或运行PFF程序。此程序的成本或获取难度视为与一个补丁相同。虽然特定公司的操作系统足以读取PFF文件，但黑客需要激活操作系统中的正确软件模块来创建或编辑PFF文件。如果角色拥有与操作系统制造商相匹配的合法的企业SIN，这需要一个成功的逻辑+软件检定；没有有效的合法SIN的角色需要成功的骇入+编辑(3)检定。
+
+[i]Pistons从联络系统下载了一个PFF数据文件。不幸的是，Pistons的操作系统是新星科技·导航，不能直接读取这份文件。通常情况下，她必须找到并下载一个联络PFF阅读程序，或者自己编写一个。值得庆幸的是，Pistons仍然有一个运行着联络·第一的旧通讯链，她可以把文件发送到那个通讯链，然后从那里读取。当然，如果她想编辑一些细节并保存下来，她必须先激活软件模块。[/i]
+
+[spoiler]
+[b]PROPRIETARY FILE FORMAT[/b][/size]
+Megacorporations and some national military and research institutions make use of proprietary file formats (PFF) to safeguard data not meant for release to the general public. The programs and files in PFF are for internal release only and typically are only compatible with that megacorporation’s specific software or operating systems, meaning a character can only open PFF files or run PFF programs from the same corporation that made their OS. Specialist emulator programs (or cobbled-together hacker variants of the same) can be used to open or run PFF files or programs on other OSs, with minimal data loss. Treat this program as a patch in terms of cost or difficulty of acquisition. While a company-specific OS is enough to read a PFF file, hackers need to activate the correct software modules in the OS to create or edit a PFF file. If the character has a valid corporate SIN that matches the maker of the OS, this requires a successful Logic + Software Test; a character without a valid corporate SIN requires a successful Hacking + Edit (3) Test.
+
+[i]Pistons has downloaded a PFF datafile from a Renraku system. Unfortunately, Pistons is running Novatech Navi as her OS and can’t read the file directly. Normally she would have to find and download a Renraku PFF reader program, or else write her own. Thankfully, Pistons still has an older commlink running Renraku Ichi—she can just send the file over to that commlink and read it from there. Of course, if she wants to edit a few details and save it, she’ll have to activate the software modules first.[/i]
+[/spoiler]
+
+[size=12pt][b]认证数据[/b][/size]
+
+矩阵用户可以选择通过将任何文件烧录到经过认证的数据芯片中来进行认证；在此过程中，用户系统中该文件的所有其他副本都会自动删除。经过认证的数据芯片包括文件创建、访问、复制和编辑的完整日志。此日志会被传送到从经过认证的数据芯片生成的数据的任何副本。试图编辑日志通常会损坏数据，无法修复。
+
+通过成功的骇入+编辑(4)检定，认证数据芯片上的日志可以被清除，而不会破坏数据。
+
+[spoiler]
+[size=12pt][b]CERTIFIED DATA[/b][/size]
+Matrix users can choose to certify any file by burning it to a certified datachip; all other copies of the file on the user’s system are deleted automatically during this process. Certified datachips include an integral log of when a file is created, accessed, copied, and edited. This log is carried over to any copy of the data made from the certified datachip. Attempting to edit the log typically corrupts the data irreparably. 
+
+The log on a certified datachip can be wiped without corrupting the data with a successful Hacking + Edit (4) Test.
+[/spoiler]
+
+---
+
+[size=14pt][b]伪造者的艺术[/b][/size]
+
+由于流通中的新元被不断追踪和监控，伪造新元的唯一方法是复制一个现有的认证信用棒。这需要一个正余额的认证信用棒，一个用于放置非法信用的相同类型的空认证信用棒(称为空白信用棒)，然后进行伪造+编辑延续检定(时间间隔和阈值见伪造阈值表)。角色每试图伪造等于或少于5000新元，对伪造检定施加1个骰子的负面修正。
+
+[i]Kat o’ Nine Tales有一个带有6000新元的认证信用棒，并决定复制它。她去了当地一家正规银行，得到了一个空白信用棒，然后她把这两个信用棒和她的通讯链链接起来，开始工作。Kat有伪造3 (信用棒伪造+2)和一个等级4的编辑程序，她由于信用棒上的金额获得2个骰子的罚值，所以她掷7个骰子。她决定她的伪造等级将是2，使阈值为48。在20天的时间里，Kat成功地积累了她需要的成功数，现在她有了两根认证信用棒：一根是6000新元的真货，另一根是伪造等级2的6000新元的假货。[/i]
+
+角色试图将假币转移到线上银行账户或用于购买商品时，使用假币的等级与验证系统的等级(通常为1-6)进行对抗检定。如果赝品赢了，系统就会将其视为真品；如果赝品对抗失败，它立即被标记为伪造，交易中止，并通知地方当局。平局被裁定为利于验证系统。
+
+[i]Kat用她的假信用棒在Aces付了300新元的账单。伪造等级是2级，Aces有一个2级的验证系统。Kat的玩家得到3和6; GM替验证系统掷出2和4。看来Kat的假信用棒通过了这次检查...[/i]
+
+[spoiler]
+[size=12pt][b]THE FORGER’S ART[/b][/size]
+Since nuyen in circulation are constantly being tracked and monitored, the only way to counterfeit nuyen is to copy an existing certified credstick. This requires a certified credstick with a positive balance, an empty certified credstick (called a blank) of the same type in which to place the illicit cred and an Extended Forgery + Edit Test (see the Forgery Table for Interval and Threshold). For every 5,000 nuyen or part thereof the character is attempting to counterfeit, apply a 1 die penalty to the Forging Test.
+
+[i]Kat o’ Nine Tales has a certified credstick for 6,000¥ and decides to copy it. A visit to her local and above-board bank gets her a blank, and she connects the two credsticks to her commlink and gets to work. Kat has Forgery 3 (Credstick Forgery +2) and a Rating 4 Edit program, and she receives a 2 dice penalty for the amount of nuyen on the credstick, so she rolls seven dice. She decides that the rating of her forgery will be 2, making the threshold 48. In twenty days, Kat manages to accumulate the hits she needs and now has two certified credsticks: one with 6,000¥ in real nuyen, and a Rating 2 forgery with 6,000¥ in fake nuyen.[/i]
+
+When the character attempts to transfer the counterfeit nuyen (either to an online bank account or when making a purchase), make an Opposed Test between the rating of the counterfeit nuyen and the rating of the verification system (typically 1–6). If the counterfeit wins, the system accepts it as genuine; if not, it is immediately flagged as counterfeit, the transaction aborts, and local authorities are alerted. Ties are ruled in favor of the verification system.
+
+[i]Kat uses her fake credstick to pay her 300¥ bar tab at Aces. The rating of the forgery is 2, and Aces has a Rating 2 verification system. Rolling for her character, Kat’s player scores a 3 and a 6; the gamemaster rolls a 2 and 4 for the verification system. Looks like Kat’s faux cred passes… this time.[/i]
+[/spoiler]
+
+[table]
+[tr][td][b]伪造阈值表[/b][/td][/tr]
+[tr][td][b]伪造种类[/b][/td][td][b]阈值[/b][/td][td][b]时间间隔[/b][/td][/tr]
+[tr][td]伪造公司券[/td][td](等级 x 20)[/td][td]1天[/td][/tr]
+[tr][td]伪造游戏币[/td][td](等级 x 16)[/td][td]1小时[/td][/tr]
+[tr][td]伪造执照[/td][td](等级 x 16)[/td][td]1小时[/td][/tr]
+[tr][td]伪造国家货币[/td][td](等级 x 18)[/td][td]1天[/td][/tr]
+[tr][td]伪造新元[/td][td](等级 x 24)[/td][td]1天[/td][/tr]
+[tr][td]伪造SIN[/td][td](等级 x 32)[/td][td]1周[/td][/tr]
+[/table]
+
+[spoiler]
+[table]
+[tr][td][b]FORGERY TABLE[/b][/td][/tr]
+[tr][td][b]Forgery[/b][/td][td][b]Threshold[/b][/td][td][b]Interval[/b][/td][/tr]
+[tr][td]Fake Corpscrip[/td][td](Rating x 20)[/td][td]1 day[/td][/tr]
+[tr][td]Fake Game Credits[/td][td](Rating x 16)[/td][td]1 hour[/td][/tr]
+[tr][td]Fake License[/td][td](Rating x 16)[/td][td]1 hour[/td][/tr]
+[tr][td]Fake National Currency[/td][td](Rating x 18)[/td][td]1 day[/td][/tr]
+[tr][td]Fake Nuyen[/td][td](Rating x 24)[/td][td]1 day[/td][/tr]
+[tr][td]Fake SIN[/td][td](Rating x 32)[/td][td]1 week[/td][/tr]
+[/table]
+[/spoiler]
+
+[quote]
+[size=12pt][b]伪造其他货币[/b][/size]
+
+除了新元，第六纪还有其他种类的电子货币，黑客也可以伪造它们。典型的例子包括国家货币(加美国美元)和公司券(阿兹特科技公司比索)。这些钱通常比新元更容易伪造，但更难通过验证(验证系统在对抗检定中得到+4DP修正来检测伪造品)。玩家角色还可以制作游戏币，即矩阵游戏中用于购买虚拟装备的货币(小钢珠[color=green](注：pikucredu，柏青哥机使用的代币)[/color])；游戏币可以在游戏内用新元购买，但不能在购买后再兑换成新元。
+
+在第六纪，一些非常罕见，落后的地方仍然依靠硬币或纸币等实物交换媒介(参见使用伪造品，第124页，SR4)。
+
+[spoiler]
+[size=12pt][b]COUNTERFEITING OTHER CURRENCIES[/b][/size]
+There are other kinds of electronic money in the Sixth World besides nuyen, and hackers can counterfeit those too. Typical examples include national currencies (UCAS dollars) and corpscrip (Aztechnology corporate pesos). These monies are usually easier to counterfeit than nuyen but are much more difficult to pass as authentic (verification systems get +4 dice on Opposed Tests to detect counterfeits). Player characters can also generate game currencies such as those used in Matrix games to buy virtual equipment (pikucredu); game cred can be purchased with nuyen inside the game but cannot (legally) be exchanged for nuyen after purchase. 
+
+A very few backward places in the Sixth World even rely on physical mediums of exchange in the form of coins or bills (see Using Forgery, p.124, SR4).
+[/spoiler]
+[/quote]
+
+[size=12pt][b]可选规则：伪造SIN或ID[/b][/size]
+
+伪造系统识别码(SIN)需要大量的资源，而这是大多数暗影狂奔者所没有的；伪造者必须生成确证数据并将其插入若干政府和企业的数据库，而这些数据库的名称和地址不为公众所知。从事假SIN和假ID交易的中间人与团体已经建立了在发行机构工作的渠道和联系，从而拥有多个进入必要数据库的后门。即便如此，制作高等级的假SIN也是一个冗长而昂贵的过程，而且这也是一个非常私人化的过程，涉及到根据假SIN的等级添加个人信息和生物特征数据的程度。独立的黑客和超链者可以伪造他们自己的SIN，但如果没有联系人和后门，这个过程比买一个假SIN要长得多，也更加困难。GM在允许玩家的黑客角色尝试制造SIN之前应该三思，因为这可能会导致失衡。以下规则由GM自行决定。
+
+创建一个假SIN或假执照(参见合法性，第303页，SR4)需要矩阵访问(通过通讯链，终端，或超链者的先天能力)和伪造+编辑的延续检定(参见伪造表，第95页)。假SIN和假执照有一个从1到6的等级，这决定了它们在验证系统中的表现(参见假身份证，第260页，SR4)。一旦创建，假SIN或执照及其确证数据必须被官方数据库接受，这需要一系列的系统入侵和同节点的骇入+编辑(系统等级，1小时)的对抗检定；由GM决定目标系统的等级，他可以选择一一执行这些对抗检定，或者用骇入+编辑(假SIN等级 x 系统等级，1小时)的延续检定对它们进行快速结算。
+
+[spoiler]
+[size=12pt][b]OPTIONAL RULE: FORGING SINS AND IDS[/b][/size]
+Creating a fake system identification number (SIN) requires extensive resources that most shadowrunners just don’t have; the forger must generate and insert corroborating data into a number of government and corporate databases, the names and addresses of which are not available to the general public. The fixers and syndicates who deal in false SINs and IDs have established channels and contacts that work in the issuing institutions and have multiple backdoors into the necessary databanks. Even then it can be a tedious, expensive process to produce a high-rating false SIN, and also a very personal one involving increasing degrees of personal information and biometric data depending on the rating of the fake SIN. Solo hackers and technomancers can forge their own SINs, but without the apparatus of contacts and backdoors in place the process is much longer and more difficult than buying a fake SIN. Gamemasters should think very carefully before allowing their player character hackers to dabble in forging SINs, as it can prove unbalancing. The following rules are for use at the gamemaster’s discretion.
+
+Creating a fake SIN or fake license (see Legality, p. 303, SR4) requires Matrix access (through a commlink, terminal, or a technomancer’s innate ability) and an Extended Forgery + Edit Test (see the Forgery Table, p. 95, for Interval and Threshold). Fake SINs and licenses have a rating from 1 to 6 that determines how well they stand up to verification systems (see Fake ID, p. 260, SR4). Once created, the fake SIN or license and its corroborating data must be accepted by official databases, which requires a series of system intrusions and Hacking + Edit (System, 1 hour) Extended Tests on challenging nodes; the gamemaster decides on the target system ratings and can choose to play these out or summarize them quickly with an Extended Hacking + Edit (Rating of fake SIN x System, 1 hour) Extended Test.
+[/spoiler]
+
+[size=12pt][b]烧毁或剥离SIN[/b][/size]
+
+当一个SIN被发现是伪造的，或者因为与之相关的犯罪而不再可用时，就被称为SIN被烧毁了。SIN包含了生物特征和识别数据，如果角色不想它们落入坏人之手，就只能剥离这些负罪数据。购买假SIN(参见转卖商品，第303页，SR4)的中间人和销赃者通常会自动剥离原SIN，但有些角色可能不想冒个人数据被记录的风险。角色可以通过一系列的系统入侵和同节点的入侵+编辑(系统，1小时)的对抗检定来剥离原SIN；由GM决定目标系统的等级，他可以选择一一执行这些对抗检定，或者用骇入+编辑(假SIN等级 x 系统等级，1小时)的延续检定对它们进行快速结算。
+
+当一个SIN被焚烧或剥离时，角色将失去所有线上账户、执照、医疗马车合同、租赁协议、财产契约以及与该SIN相关的合法债务。
+
+[spoiler]
+[size=12pt][b]BURNT AND STRIPPED SINS[/b][/size]
+When a SIN is exposed as a fake or is no longer usable because of crimes connected to it, it is said the SIN is burnt. A SIN contains biometric and identifying data that a character doesn’t want to fall into the wrong hands, and can only be stripped of such incriminating data. Fixers and fences who buy fake SINs (see Fencing Goods, p. 303, SR4) typically strip them automatically, but some characters might not want to take the chance that their personal data is recorded first. A character can strip a SIN with a series of system intrusions and Hacking + Edit (System, 1 hour) Tests on challenging nodes; the gamemaster decides the target system ratings and can choose to play these out or summarize them quickly with an Extended Hacking + Edit (Rating of fake SIN x System, 1 hour) Test. 
+When a SIN is burnt or stripped, the character loses all on-line accounts, licenses, DocWagon contracts, rental agreements, deeds for property, and legal debts tied to that SIN.
+[/spoiler]
+
+[size=12pt][b]可选规则：伪造密钥[/b][/size]
+
+一个密钥(参见Passkeys，第64页)包含一条加密代码，它与一个有效的密码组合在一起，允许用户访问系统。每次访问系统时，加密代码都会递增或打乱，这意味着加密代码会随着每次使用而改变。专业的角色可以制作一个密钥的伪造副本，但他至少需要密钥的原理图和它的固件副本。伪造的密钥(如果正确制作)只能使用一次，并且必须在使用真实密钥之前使用，否则加密代码将无法工作。如果有人使用伪造密钥访问帐户，原始密钥将不再正常工作，蜘蛛或管理员用户将知道帐户的最后一次激活是用伪造密钥完成的。
+
+鉴于这些限制，大多数暗影狂奔者选择窃取或“借用”密钥；特别是更先进的纳米技术密钥和炼金密钥，这需要特殊的设施和设备来制造。
+
+[spoiler]
+[size=12pt][b]OPTIONAL RULE: FORGING PASSKEYS[/b][/size]
+A passkey (see Passkeys, p. 64) contains an encrypted code that, combined with a valid passcode, allows a user access to a system. The encrypted code is incremented or scrambled every time it accesses the system, which means the code changes with every use. A dedicated character could forge a copy of a passkey, but it would require at least a schematic of the passkey and a copy of its firmware. The forged passkey (if made correctly) would be good for one use only—and it would have to be used before the actual passkey is used, or the code won’t work. If someone uses a forged passkey to access an account, the original passkey no longer functions correctly, and spiders or admin users will know that the last time the account was activated, it was done with a forged passkey. 
+
+Given these limitations, most shadowrunners choose to steal or "borrow" passkeys; especially more advanced nanotech and alchemical passkeys, which require special facilities and equipment to manufacture.
+[/spoiler]
+
+---
+
+[size=14pt][b]漏洞[/b][/size]
+
+不要和利用漏洞程序相混淆，漏洞是黑客可以利用的空当、代码缺陷或其他软件错误(换句话说，漏洞是利用漏洞程序被设计用来从其内置的安保漏洞数据库中查找并加以利用的东西)。当一个黑客发现了一个新漏洞(即一个软件和安保供应商不知道的，还没有修补的，甚至还没有通过地下黑客传播的漏洞)，他在处理该漏洞相关的问题时将具有决定性的优势。黑客对特定的有漏洞可利用的软件(特定品牌的代理，程序，防火墙，或操作系统)为目标的骇入或矩阵战斗检定获得一个+2骰池修正。
+
+找到一个新的漏洞需要研究现有的漏洞，并详细分析代码本身，同时需要进行一个成功的逻辑+骇入(10 + 等级，1天)延续检定。每次新的漏洞被利用时，都可能发现漏洞已经被修复了，无法加以利用——黑客无法事先确定，直到他们试图使用该漏洞但失败了。
+
+漏洞并不局限于单个系统，所以即使一个系统上的漏洞被修复了，它仍然有可能在其他系统上运行，直到它存在的消息被传播开来。已知的新漏洞总是在软件的新补丁发行时被修复。
+
+[i]Pistons正在研究新网宙斯盾Ⅱ型程序(一个2级的护甲程序)。她掷4个骇入骰子和4个逻辑骰子对抗12的阈值; 六天之后，她发现了一个适用于那个特定程序的新漏洞。Pistons将在崩溃特定的护甲程序时在她的矩阵战斗技能检定上享受2骰子的奖励修正[/i]
+
+[spoiler]
+[size=12pt][b]EXPLOITS[/b][/size]
+
+Not to be confused with the Exploit program, an exploit is a loophole, a code flaw, or other software error that a hacker can take advantage of (in other words, an exploit is what the Exploit program is designed to find, from a built-in database of security flaws, and take advantage of). A hacker that discovers a new exploit (i.e., one that software and security vendors don’t know about and haven’t plugged yet, and that hasn’t even circulated through the hacker underground) has a decided advantage when dealing with the subject of that exploit. The hacker gains a +2 dice pool modifier for a Hacking or Cybercombat Test targeting that specific exploitable software (a particular brand of agent, program, firewall, or operating system). 
+
+Finding a new exploit requires research into the already existing exploits available for that piece of code and detailed analysis of the code itself, while also requiring a successful Extended Logic + Hacking (10 + rating, 1 day) Test. Every time the new exploit is used, there is a chance that the exploit is plugged and no longer works—the hacker won’t know for sure until they try to use the exploit and it fails. 
+
+Exploits aren’t restricted to a single system, so even if an exploit is plugged in one system, there’s a chance it will still work on other systems, until news of its existence spreads at least. Known new exploits are always plugged when a new patch arrives for the software.
+
+[i]Pistons is researching the NeoNET Aegis-II Armor program (a Rating 2 armor program). She rolls her 4 Hacking dice and 4 Logic dice against a threshold of 12; in six days she has discovered a new exploit that applies to that particular program. Pistons will enjoy a 2 dice bonus to her Cybercombat Skill Test to crash that particular armor program.[/i]
+[/spoiler]
+
+---
+
+[size=12pt][b]骇入账户[/b][/size]
+
+仅仅因为黑客绕过了防火墙一次，并不意味着他可以随时访问该节点，或者他可以与他的所有黑客伙伴共享访问权限。首先必须考虑几个因素(每个因素都需要经过GM的审核)。
+
+如果某个节点在运行过程中被黑客攻击，黑客就会发现系统安全漏洞，从而可以访问该节点上的一个账户。然而，黑客实际上还没有获得该帐户的密码，而且在不久的将来，安全检查和/或修补程序可能会注意到该漏洞。这意味着如果黑客想再次访问该节点，他将不得不再次入侵。黑客无法与其他黑客或矩阵实体共享被骇入的账户，即使黑客正在访问该账户。
+
+但是，如果在攻击之前仔细探测了目标节点，黑客就有更好的机会在以后使用相同方法重新获得访问权限。要么黑客确定了一个可以让他在未来合法访问帐户的密码，要么他发现了一个可重复使用的漏洞(第96页)——GM决定哪一个。在任何一种情况下，这种访问都可以与其他人共享，允许他们使用帐户或利用漏洞。然而，最终，密码可能会过期或被更改，漏洞可能会被发现并修补。没有什么是永恒不变的。
+
+无论如何获取访问权限，如果黑客触发警报，他们访问节点的方法很可能在未来被关闭，以防止未来的入侵。
+
+黑客当然可以在一个节点内进行安排一些措施，以确保他们可以在以后访问该节点。可用的选项包括插入一个可重用的漏洞，创建一个“合法的”帐户，或者创建一个隐藏的帐户或访问点。这些方法被称为后门。
+
+[spoiler]
+[b]HACKED ACCOUNTS[/b]
+Just because a hacker has bypassed a Firewall once doesn’t mean he has an open pass to access the node whenever he pleases, or that he can share that access with all of his hacker buddies. Several factors must be taken into consideration first (each subject to gamemaster review).
+If a node has been hacked on-the-fly, the hacker has found some gaping hole in the system security that allows him to access an account on that node. The hacker has not actually acquired the passcode for the account, however, and the exploit is likely to be noticed in a security audit and/or patched in the immediate future. This means that if the hacker wants to access the node again, he will have to hack in again. There is no way for the hacker to share the hacked account with another hacker or Matrix entity, even while the hacker is accessing the account. 
+If the target node was carefully probed before the hack, however, there is a better chance that the hacker can use the same method to regain access at a later point. Either the hacker has ascertained a passcode that will allow him to access the account legitimately in the future, or he has discovered a re-usable exploit (p. 96)—the gamemaster determines which. In either case, this access may be shared with others, allowing them to use the account or re-usable exploit. Eventually, however, passcodes may expire or be changed, and exploits may be discovered and patched. Nothing lasts forever.
+No matter how access was obtained, if a hacker triggers an alert, their method for accessing the node will likely be closed off in the future, to prevent future intrusions. 
+Hackers may of course make arrangements while within a node to ensure that they can access it at a later point. Options include inserting a re-usable exploit, creating a "legitimate" account, or creating a hidden account or access point. These methods are referred to as backdoors.
+[/spoiler]
+
+---
+
+[size=12pt][b]后门[/b][/size]
+后门是黑客或超链者获得重复访问节点的一种手段，比每次入侵更省力;这意味着它通常对网站管理员来说是隐藏的，尽管在重复使用合法账户的情况下，这可能意味着隐藏在显而易见的地方。一些黑客在离开一个他们可能会回来的节点之前，会花时间在一个帐户中编码，或者利用这个帐户来再次访问节点。一般来说，后门有四种类型:可重用漏洞、合法账户、隐藏账户和隐藏访问点。
+
+[spoiler]
+[b]BACKDOORS[/b]
+A backdoor is a means for a hacker or technomancer to gain repeated access to a node with less effort than hacking their way in every time; this means it is typically hidden from the site administrators, though in the case of repeated use of legitimate accounts this might mean hiding in plain sight. Before leaving a node they’re likely to come back to, some hackers will take the time to code in an account or exploit that will let them access the node again. In general there are four types of backdoors: reusable exploits, legitimate accounts, hidden accounts, and hidden access points.
+[/spoiler]
+
+[b]可重用漏洞[/b]
+在刺探目标的过程中(第221页，SR4页)，一些被探测到的漏洞可能会被反复使用，如果黑客没有做什么事情来暴露它们或者它们没有被发现的话。这种“开放的”后门的缺点是每次使用时系统都会进行一个分析+防火墙检定。
+
+已经侵入节点的黑客也可以创建自己的可重用漏洞; 一个在节点防火墙中精心设计的漏洞，可以让那些知道它的人非常容易地黑进节点。如果你在节点上至少有安保级别的访问权限，那么创建一个可重用的漏洞需要一个成功的软件+利用漏洞(防火墙+系统，1 Initiative Pass)延续检定——否则就需要用骇入替换软件进行检定。一旦创建，这就提供了一个隐藏的漏洞，给黑客一个+6的骰池修正来使用利用漏洞程序访问该节点。
+
+像这样的一个已知漏洞的细节也可以被卖给其他黑客，他们也将获得+6骰池修正，直到该漏洞被发现和移除(参见检测后门，下文)
+
+[spoiler]
+[b]REUSABLE EXPLOITS[/b]
+As noted under Probing the Target (p. 221, SR4), some probed exploits may be used repeatedly if the hacker doesn’t do something to give them away or it they aren’t discovered. The drawback to this “open hole” sort of backdoor is that the system gets an Analyze + Firewall Test every time you use it. 
+Hackers who have hacked their way into the node can also create their own reusable exploit; a specially crafted flaw in the node’s firewall that allows those who know about it to hack the node with extreme ease. Creating a reusable exploit requires a successful Extended Software + Exploit (Firewall + System, 1 Initiative Pass) Test if you have at least security-level access on the node—otherwise replace Software with Hacking. Once created, this provides a hidden exploit that gives the hacker a +6 dice pool modifier to gain access to that node using the Exploit program. 
+The details of a known exploit like this may also be traded/sold to other hackers, who will also receive the +6 dice pool bonus until the exploit is discovered and removed (see Detecting Backdoors, below)
+[/spoiler]
+
+[b]合法帐户[/b]
+
+节点期望来自正常用户的流量，并且对于许多与工作相关的节点，甚至一些从家庭或私有终端的非工作时间访问也是典型的或符合预期的。如果黑客窃取了合法账户的密码，他可以小心地继续使用该账户一段时间，直到蜘蛛发现任何情况(如果他们会发现的话)。
+
+黑进该节点的黑客也可以在系统上创建一个“合法”帐户(参见黑客与编辑，第225页，SR4)，然后隐藏他们创建了这个帐户的事实。如果你至少有节点上的安保级别的访问权限，这需要一个成功的软件+编辑检定，或如果你没有的话，黑客+编辑(2)检定，。对于安保级别的访问权限，将阈值增加到3; 对于管理员级别的访问权限，将其增加到4。新账户当然会出现在安全检查中，并且通常会被仔细审查其合法性。该帐户的所有操作都被记录在案——它不是隐藏的，因为它是用合法帐户的外观创建的。一个公司系统上的可验证账户，加上一个假的SIN和/或该黑客受雇于该公司的记录，可以为渗透提供一个非常有说服力的掩饰故事。
+
+[spoiler]
+[b]LEGITIMATE ACCOUNTS[/b]
+Nodes expect a certain amount of traffic from normal users, and for many work-related nodes even some off-hours access from home or private terminals is typical or expected. A hacker who steals the passcode to a legitimate account can, with care, continue to make use of that account for some time before a spider notices anything, if they ever do. 
+A hacker who has hacked the node may also create a "legit" account on the system (see Hackers & Editing, p. 225, SR4) and then hide the fact that they created it. This requires a successful Software + Editing Test if you have at least security privileges on the node, or a Hacking + Edit (2) Test if you do not. For securitylevel access, increase the threshold to 3; for admin access, increase it to 4. New accounts of course show up on security audits and are usually carefully scrutinized for legitimacy. All of the account’s actions are also logged—it’s not hidden, as it was created with the façade of a legitimate account. A verifiable account on a corporate system combined with a fake SIN and/or records that the hacker is employed by that corporation can make a very convincing cover story for an infiltration.
+[/spoiler]
+
+[b]隐藏帐户[/b]
+隐藏帐户对蜘蛛或管理员是不可见的，只能被系统识别到。虽然这个账号允许黑客自由访问该节点，但它仍然受到账号权限限制，蜘蛛会认为他们是非法入侵的，因为他们看起来没有账号。
+
+要创建一个隐藏帐户，你必须已经能够访问该节点(合法的或骇入的)，并且必须遵循上面提到的创建合法帐户的步骤。在接下来的行动中，合法帐户必须通过进行一个骇入+隐藏(防火墙，10分钟)延续检定来隐藏。和其他账户一样，这个隐藏账户有一个唯一的密码; 有这个密码的人都可以访问账户。以前存在的合法帐户也可以通过这种方式转换为隐藏帐户，但访问日志必须修改，否则安全检查将发现帐户神秘地消失了。
+
+[spoiler]
+[b]HIDDEN ACCOUNTS[/b]
+A hidden account is not visible to spiders or administrators, being discernible only by the system. While this account allows the hacker to access the node freely, it is still subject to account privilege limitations and spiders who perceive the character will assume them to be trespassing as they will not appear to have an account. 
+To create a hidden account, you must already have access to the node (either legit or hacked) and must follow the procedure for creating a legitimate account noted above. On the next action, the legitimate account must then be hidden with a Hacking + Stealth (Firewall, 10 minutes) Extended Test. As with any other account, this hidden account has a unique passcode; anyone with that passcode may access that account. Previously existing legitimate accounts may also be transformed into hidden accounts this way, but the access log must also be modified or a security audit will show an account mysteriously disappeared.
+[/spoiler]
+
+[b]隐藏访问点[/b]
+隐藏的接入点类似于可重用漏洞，只是黑客利用了一个软件漏洞，允许他在没有实际授予他账号的情况下访问某个节点。要创建一个隐藏的访问点，黑客必须事先访问系统，并必须进行黑骇入+利用漏洞(防火墙+系统，1分钟)延续检定。
+
+其优点是，这种隐藏的访问点使它非常容易渗透系统，只需要一个骇入+利用漏洞(1)简单检定，而防火墙没有检测入侵者的检定。由于没有账户被使用，只要入侵的黑客仍然在巡逻IC的雷达下，访问不会被发现。
+
+因为没有获得密码,黑客没有账户权限,只要他以这种方式连接到节点，黑客必须依靠骇入进行所有检定(这是常见的做法，通过隐藏访问点访问系统, 然后创建一个账户, 离开系统, 然后用假账号“合法”登录)。察觉到黑客的IC或安保黑客会立即识别他为入侵者。
+
+请注意，使用隐藏访问点的黑客的操作仍然记录在访问日志中，但它们被掩盖和混淆了，因为它们没有绑定到一个帐户。然而，黑客的数据轨迹仍可能被追踪。
+
+[spoiler]
+[b]HIDDEN ACCESS POINTS[/b]
+A hidden access point is similar to a reusable exploit, except the hacker exploits a software flaw that allows him access to a node without actually granting him an account. To create a hidden access point, the hacker must have previous access to the system and must make a Hacking + Exploit (Firewall + System, 1 minute) Extended Test. 
+The advantage is that such hidden access points make it very easy to penetrate the system, requiring only a simple Hacking + Exploit (1) Test, and the Firewall gets no test to detect the intruder. As no account is being used, access won’t be noticed as long as the intruding hacker remains under the radar of patrolling IC. 
+Since no passcodes have been obtained, however, the hacker has no account privileges at all and must rely on Hacking for all tests as long as he is connected to the node in this manner (it is common practice to access the system via the hidden access point and then create an account, leave the system, and do a "legal" log on with the fake account). IC or security hackers that perceive the hacker will immediately recognize him as an intruder. 
+Note that the actions of a hacker who uses a hidden access point are still recorded in the access log, but they are obscured and confusing because they are not tied to an account. The hacker’s datatrail may still be tracked, however.
+[/spoiler]
+
+[b]检测后门[/b]
+
+具有安保或管理员权限的用户可以进行帐户检查和安全扫描，以寻找已知或可疑的后门。当然，拥有对节点的安保或管理员访问权限的黑客可以自行进行搜索，利用其他黑客的辛勤工作，并将搜索结果保密。一些超链者黑客已经知道在他们的后门上打上水印(见第237页，SR4)，以便其他超链者黑客或网精找到。
+
+[b]可重用漏洞和骇入账户：[/b]执行例行检查的蜘蛛或黑客将在成功的数据搜索+浏览(黑客使用的利用漏洞程序或账户的最低等级，1天)延续检定中发现可重用漏洞或非法使用的合法账户; 通过成功的软件+编辑(防火墙，1分钟)延续检定，可以立即修复该漏洞，而合法帐户通常被锁定，等待官方审查。如果日志显示合法帐号没有从事任何非法或可疑的活动，该帐号将被解锁;否则，用户将面临逮捕和/或审问。受到这种审查的黑客创建的账户通常会被删除，除非黑客有一个好的掩饰故事，并一直小心翼翼地通过编辑日志来隐藏她的活动。
+
+[b]隐藏账户和隐藏访问点：[/b]隐藏账户和隐藏访问点不出现在安保权限和管理员权限的常规检查种, 但如果蜘蛛意识到它们(通过一个草率的日志编辑或看到黑客使用它们), 一场彻底的帐户检查——数据搜索+浏览(黑客使用的隐藏访问点或隐藏帐户的最低等级x2,1天)的延续检定将揭示它们，在这之后他们可能被修改或正常删除。
+
+[b]探测目标：[/b]在GM的判断下，正在探测目标(第221页，SR4)的黑客可能会发现一个后门，而不是可利用的漏洞。
+
+[spoiler]
+[b]DETECTING BACKDOORS[/b]
+Users with security or admin privileges can conduct account audits and security sweeps to look for known or suspected backdoors. Of course, hackers with security or admin access to a node can conduct their own searches and keep the results to themselves, making use of the hard work of their fellow hackers. Some technomancer hackers have been known to watermark their backdoors (see p. 237, SR4), so that other technomancer or sprite hackers can find them.
+
+[b]Reusable Exploits and Hacked Accounts: [/b]A spider or hacker conducting a routine audit will detect a reusable exploit or unauthorized use of a legitimate account on a successful Extended Data Search + Browse (lowest Stealth rating of hacker using exploit or account, 1 day) Test; the exploit may be immediately fixed with a successful Extended Software + Edit (Firewall, 1 minute) Test, while the legitimate account is typically locked pending an official review. If the logs show the legitimate account has not been engaging in any illegal or questionable activity, the account will be unlocked; otherwise the user will face arrest and/or questioning. Hacker-created accounts subject to this review are typically deleted unless the hacker has taken care to have a good cover story and has been editing the logs to hide her activities.
+
+[b]Hidden Accounts and Access Points: [/b]Hidden accounts and access points do not show up on routine inspections by securitylevel and admin users, but if a spider becomes aware of them (either through a sloppy log edit or seeing the hacker use them), a thorough account audit—a successful Extended Data Search + Browse (lowest Stealth Rating of hacker using access point or account x 2, 1 day) Test—will reveal them, after which they may be edited or erased as normal.
+
+[b]Probing the Target: [/b]At the gamemaster’s discretion, a hacker who is probing the target (p. 221, SR4) may discover a backdoor rather than a flaw to exploit.
+[/spoiler]
+
+---
+
+[size=12pt][b]进阶电子欺骗[/b][/size]
+
+SR4规则手册详细介绍了欺骗程序的几个好用途: 重定向追踪，伪造数据流，假冒代理，无人机和网精的命令。一个常见的误解是，伪造是利用和控制代理、无人机或相关设备的黑客入侵的简化版本——毕竟，如果目标做了你想要的，你就黑了它，对吗? 不完全对。电子欺骗是一个很棒的工具，但它有其局限性。以下规则对电子欺骗选项进行了扩展，并提供了一些新的选项。
+
+[spoiler]
+[b]ADVANCED SPOOFING[/b]
+The SR4 rulebook details several good uses for the Spoof program: redirecting traces, spoofing the datatrail, and spoofing commands to agents, drones, and sprites. A common misconception is that spoofing is a simplified version of hacking in with an exploit and controlling the agent, drone, or device in question—after all, if the target does what you want, you’ve hacked it, right? Not really. Spoofing is a great tool, but it has its limitations. The following rules expand on spoofing options and provide a few new ones.
+[/spoiler]
+
+[b]扩展命令[/b]
+
+正如伪造指令(224页，SR4)中所描述的，黑客可以使用欺骗程序向目标发送命令，这些命令看起来像是由具有控制或访问权限的人发送的。这个技巧可以用来伪造无人机、代理、网精(仅限超链者)、电子设备和从属节点的命令。
+
+伪造指令看起来像是来自你要假冒的授权用户(这就是为什么你需要他们的访问ID)，因此将被视为具有与你所模拟的用户相同的访问权限(个人、安保或管理员)。由GM决定哪些命令对哪些访问权限是正当的。例如，伪造对烤箱的命令来开始烹饪火鸡是任何可能访问烤箱的人都被允许做的事情。如果你伪造对无人机的指令，假装自己是控制的机师，你当然可以让无人机注销那个机师或者把无人机转移到你的通讯链控制下(因为控制的机师有权限这样做)。要添加、修改或删除帐户，你肯定需要伪造一条从具有管理员权限的人那里发出的命令。许多合法用户对他们的账户设置了限制，那些安全意识强的安保蜘蛛会设置代理程序、无人机和节点来忽略某些特定命令。毕竟，安保黑客最不想要的就是成为自己IC的目标。
+
+伪造来自具有安保或管理权限的用户的指令更加困难，就像入侵并获得具有此类权限的帐户一样。对黑客的对抗检定应用一个等于-3(伪造安保权限)或-6(伪造管理员权限)的骰池修正。
+
+那些对于访问权限来说是非法的操作，伪造指令是不可能的。要绕过访问限制，你就必须骇入。
+
+请注意，黑客一次只能伪造一个指令，而且必须在她拥有合法用户的访问ID的情况下(参见伪造指令，第224页，SR4)。一旦命令被发送，她就无法控制该代理、无人机或节点，直到她伪造下一个指令。如果你的黑客需要给出多个命令——或者告诉目标做一些合法用户无法命令它做的事情——你最好入侵节点，而不是一次伪造一个指令。
+
+[spoiler]
+[b]EXPANDED COMMAND[/b]
+Spoofing As described under Spoof Command, p. 224, SR4, a hacker can use Spoof software to send commands to a target that look like they were sent by someone with control or access privileges. This trick may be used to falsify commands to drones, agents, sprites (technomancers only), electronic devices, and slaved nodes. 
+Spoofed commands will seem to come from the authorized user you are spoofing (why you need their access ID), and so will be treated as having the same access privileges (personal, security, or admin) as that impersonated user. It is up to the gamemaster to decide what commands are legitimate for which access privileges. For example, spoofing a command to an oven to start cooking the turkey is something anyone accessing the oven is likely allowed to do. If you are spoofing commands to a drone, pretending to be the controlling rigger, youcould certainly instruct the drone to log that rigger off or slave that drone to your commlink instead (since the controlling rigger would have privileges to do that). To add, alter, or delete an account, you would almost certainly need to spoof a command from someone with admin privileges. Many legitimate users have limits on what they can do with their accounts, and security- or safety-conscious spiders can and do program agents, drones, and nodes to ignore certain orders. After all, the last thing a security hacker wants is to be the target of their own IC.
+Spoofing commands from a user with security or admin privileges is more difficult, just as is with hacking in and obtaining an account with such privileges. Apply a dice pool modifier to the hacker for the Opposed Test equal to –3 for spoofing security privileges or –6 for spoofing admin privileges. 
+Spoofing commands for actions that are illegal for those access privileges is simply not possible. To bypass access restrictions, you have to hack in. 
+Note that a hacker can only spoof one command at a time, and only if she has the access ID of a legitimate user (see Spoof Command, p.224, SR4). Once a command is sent, she has no control over that agent, drone, or node until she spoofs the next command. If your hacker needs to give multiple commands—or tells the target to do something that a legitimate user can’t order it to do—you’re much better off hacking the node than spoofing commands one at a time.
+[/spoiler]
+
+[b]伪造数据流[/b]
+由于节点在允许连接之前需要访问ID，因此在实际访问其他节点之前伪造你的数据流(如果你愿意的话)非常重要。一旦你登录到另外的节点，访问ID的更改将自动关闭与其他节点的连接——毕竟，你不再是你所说的那个人。在某些情况下，这可能是关闭多个连接的一种权宜之计。例如，如果你在另一个节点上受到黑IC的攻击，你可以尝试伪造你的数据流，以更改你的访问ID并注销该节点。如果黑IC干扰你的连接，这将需要执行一个骇入+欺骗与黑IC等级+响应等级的对抗检定。
+
+你也可以使用这个技巧来避免被直接追踪。如果有人使用追踪程序跟踪你，你可以照常伪造你的数据流并改变你的访问ID。虽然这将切断你所有的连接，但这意味着追踪程序只能跟踪到你的连接碰巧经过的最近的节点。追踪你的黑客仍然可以获取你的旧访问ID，但无法精确定位你的具体位置——尽管他知道你离最近的节点很近。
+
+[spoiler]
+[b]SPOOFING A DATATRAIL ONLINE[/b]
+Since nodes require an access ID before they will allow a connection, it is important to spoof your datatrail (if you are so inclined) before you actually access other nodes. Once you have logged onto other nodes, a change in access ID will automatically close your connection to other nodes—after all, you are no longer who you said you were. Under some circumstances, this may be an expedient way of closing multiple connections. For example, if you are under attack by Black IC in another node, you can try to spoof your datatrail in order to change your access ID and log off that node. If the Black IC is jamming your connection, however, this will require an Opposed Test pitting your Hacking + Spoofing versus the Black IC rating + Response.
+You can also use this trick to try and avert a direct trace. If someone is using Track to trace you, you can spoof your datatrail and change your access ID as normal. While this will sever all of your connections, it means that the Track will only be able to trace you to the nearest node that your connection happened to have been routed through. The tracking hacker can still acquire your old access ID, but will not be able to pinpoint your exact physical location—though he will know that you are close to that nearest node.
+[/spoiler]
+
+[b]伪造生活方式[/b]
+一个黑客可以通过骇入+欺骗延续检定将她的生活方式提高到一个给定的水平一个月。查看伪造生活方式表，第99页，了解阈值;时间间隔为1天。对于一个流浪街头的黑客来说，这相当于让自动售货机提供免费食物，打开公用设施和浴室锁住的门让他们睡觉。对其他人来说，这意味着重新安排自动账单支付，或者告诉公用事业和服务机构该黑客是付费用户。一个角色可以在一个月内进行多次检定来改善生活方式。
+
+[i]Dogbody厌倦了和父母住在一起，决定搬出去住。在街头流浪了一个星期后，他决定找个地方歇脚，并试图升级到低端生活方式。他的骰池构成为骇入5和欺骗4，Dogbody投了9个骰子以达到4的阈值，但他在第一天出现失误，不得不重新开始。两天后，Dogbody正在享受他呆在棺材旅馆的30天的第一天，同时大嚼着粘乎乎的巧克力棒。生活在好转。[/i]
+
+[spoiler]
+[b]SPOOFING LIFE[/b]
+A hacker can improve her lifestyle to a given level for one month by making a Hacking + Spoof Extended Test. See the Spoofing Life table, p. 99, for threshold; the interval is 1 day. For a hacker living on the streets, this equates to making vending machines give out free eats and opening locked doors to utility sheds and bathrooms for them to sleep in. For anyone else, it means redirecting automated bill payments or telling utilities and services that the hacker is a subscriber. A character can make multiple tests to improve their lifestyle more than once during a given month.
+
+[i]Dogbody is tired of living with his parents and decides to move out. After living on the streets for a week, he decides he needs someplace to crash and tries to upgrade to a low lifestyle. With Hacking 5 and Spoof 4, Dogbody is rolling 9 dice to meet a threshold of 4, but he glitches it on the first day and has to start over again. Two days later, Dogbody is enjoying day one of his thirty-day stay in a coffin motel while chomping down on a Gooey Bar. Life is looking up.[/i]
+[/spoiler]
+
+[quote]
+[table]
+[tr][td][b]伪造生活方式[/b][/td][/tr]
+[tr][td][b]生活方式[/b][/td][td][b]阈值[/b][/td][/tr]
+[tr][td]街头[/td][td]2[/td][/tr]
+[tr][td]低端[/td][td]4[/td][/tr]
+[tr][td]中端[/td][td]12[/td][/tr]
+[tr][td]高端[/td][td]48[/td][/tr]
+[tr][td]奢华[/td][td]100+[/td][/tr]
+[tr][td]住院基本看护[/td][td]15[/td][/tr]
+[tr][td]住院重症看护[/td][td]30[/td][/tr]
+[/table]
+
+[spoiler]
+[table]
+[tr][td][b]SPOOFING LIFE[/b][/td][/tr]
+[tr][td][b]Life Style[/b][/td][td][b]Threshold[/b][/td][/tr]
+[tr][td]Squatter[/td][td]2[/td][/tr]
+[tr][td]Low[/td][td]4[/td][/tr]
+[tr][td]Middle[/td][td]12[/td][/tr]
+[tr][td]High[/td][td]48[/td][/tr]
+[tr][td]Luxury[/td][td]100+[/td][/tr]
+[tr][td]Hospitalized Standard Care[/td][td]15[/td][/tr]
+[tr][td]Hospitalized Intensive Care[/td][td]30[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[b]伪造防护[/b]
+如果黑客面对的对手使用的是带有限制选项的攻击性程序(第114页)，他可能会试图伪造自己的化身，使限制程序不会对他不利。要做到这一点，黑客必须通过适当的矩阵侦察检定意识到程序有特定的选项。然后，他就可以试图伪造自己的化身，让它看起来像是事实并非如此。例如，联络的安保黑客可能会使用带有限制的攻击程序，以防止其被用于已认证的联络角色。知道这一点的黑客可能会伪造自己的化身，让自己看起来像是通过了联络认证，从而使自己不受该程序的攻击。这需要一个对抗检定，使用黑客的骇入+欺骗对抗对手的分析+响应等级。
+
+[spoiler]
+[b]SPOOFING PROTECTION[/b]
+If the hacker is facing an opponent that is wielding an offensive program with the Limitation option (p. 114), he may attempt to spoof his persona in a way that the limited program will not work against him. To do this, the hacker must be aware that the program has that specific option, via an appropriate Matrix Perception Test. He can then attempt to spoof his persona so that it appears to be something it’s not. For example, a Renraku security hacker may be wielding an Attack program with a Limitation that prevents it from being used on certified Renraku personas. A hacker who has learned this may spoof his persona to appear Renraku-certified, thus making himself invulnerable to the program. This requires an Opposed Test pitting the hacker’s Hacking + Spoof against the opponent’s Analyze + Response.
+[/spoiler]
