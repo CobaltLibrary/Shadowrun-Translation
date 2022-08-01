@@ -335,7 +335,7 @@ You attempt to disarm a data bomb that you have detected (usually with a Matrix 
 Edit allows you to create, change, or delete any kind of file. A Complex Action is required to alter one detail of a file: about a sentence of text or a detail of an image or about a second of video or audio (gamemaster’s discretion). This requires a successful Computer + Edit Test with a threshold set by the gamemaster using the Success Test Difficulties Table (p. 62) based on the extent, quality, and complexity of the edits being made. Continuous editing of a device’s output requires the expenditure of a Simple Action every Initiative Phase for the duration. Note that controlling the device (via the Control Device action, p. 229) may allow you simple control similar to Edit (i.e., by freezing image capture at source or turning off audio reception).
 [/spoiler]
 
-[size=14pt][b]后台入侵(利用漏洞)[/b][/size]
+[size=14pt][b]即时入侵(利用漏洞)[/b][/size]
 
 你试图在另一个节点上为自己创建一个账户。这是一个骇入+利用漏洞(目标的防火墙，复杂动作)延续检定。当你达到阈值时，你在目标节点上获得一个账户。这个过程在《骇入矩阵》第235页有更详细的描述。
 
