@@ -12,8 +12,8 @@
 在任何特定的战役中，什么是独特风格都有很大的不同；玩家的选择是否符合要求，取决于GM。独特风格的特质旨在提供足够的灵活性，使GM能够轻松决定它是否适用。
 
 [spoiler]
-[color=brown][size=16pt][b]XXXXXXXXXXXXX[/b][/size][/color]
-WHAT IS A Distinctive Style? 
+[color=brown][size=16pt][b]WHAT IS A Distinctive Style?[/b][/size][/color]
+
 The Sixth World setting as depicted in Shadowrun, Fourth Edition game materials is a vibrant, multi-cultural society, one pervaded (and to a certain extent jaded) by a global media culture that constantly floods the market with new trends and styles. While megacorporate monoculture and approved dress codes dominate a wage slave’s workplace and living enclave, personal dress style, body art and modification, and even cosmetic augmentation is increasingly popular in all circles of society as a form of selfexpression. What is distinctive also varies with the local culture and sub-culture; something that stands out in a Seattle nightclub, might be unremarkable in feral Chicago. 
 
 In 2070, cybernetic modification and replacement is not uncommon. Bioware, genetech and nanotech are seen as the modern solutions, while cybernetics are often seen as slightly crass and the poor man’s option. That said, most augmentations don’t carry a social stigma, and are even viewed as a sign of ambition and self-improvement. Nonetheless, any augmentation that significantly deviates from the human norm, any blatantly transhuman modification, or excessive amounts of visible augmentation, are still frowned upon and will draw attention. 
@@ -26,4 +26,4 @@ What constitutes a Distinctive Style in any given campaign varies significantly;
 [/spoiler]
 [/quote]
 
-* 摘自SR4e RunnerCompanion New qualities
+* 摘自SR4e RunnerCompanion New Qualities

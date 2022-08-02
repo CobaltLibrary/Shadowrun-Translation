@@ -37,7 +37,7 @@ Is it true? Are "they" really watching, all the time, everywhere, everyone? Well
 
 > Glitch
 
-> RFID标签可以被放置在任何东西上。是的，任何东西。这包括你中午吃的黏糊糊的营养棒和你大口畅饮的豆咖。你就是你所食用的东西......
+> RFID标签可以被放置在任何东西上。是的，任何东西。这包括你中午吃的奶油棒和你大口畅饮的豆咖。你就是你所食用的东西......
 
 > Netcat
 

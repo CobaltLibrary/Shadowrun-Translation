@@ -435,7 +435,7 @@ Hackers may of course make arrangements while within a node to ensure that they 
 
 [size=14pt][b]后门[/b][/size]
 
-后门是黑客或超链者能够重复访问节点的一种手段，这比每次访问都要骇入更省力；这意味着它通常对网站管理员来说是隐藏的，尽管在重复使用合法账户的情况下，这可能意味着隐藏在显而易见的地方。一些黑客在离开某个他们可能会回来的节点之前，会花时间编码一个帐户或漏洞，允许他们再次访问该节点。一般来说，后门有四种类型：可重用漏洞、合法账户、隐藏账户和隐藏访问点。
+后门是黑客或超链者能够重复访问节点的一种手段，这比每次访问都要骇入更省力；这意味着它通常对网站管理员来说是隐藏的，尽管在重复使用合法账户的情况下，这可能意味着黑客是隐藏在显而易见的地方。一些黑客在离开某个他们可能会回来的节点之前，会花时间编码一个帐户或漏洞，这允许他们再次访问该节点。一般来说，后门有四种类型：可重用漏洞、合法账户、隐藏账户和隐藏访问点。
 
 [spoiler]
 [size=14pt][b]BACKDOORS[/b][/size]
@@ -445,72 +445,85 @@ A backdoor is a means for a hacker or technomancer to gain repeated access to a 
 
 [size=12pt][b]可重用漏洞[/b][/size]
 
-在探查目标的过程中(第221页，SR4页)，一些被探查到的漏洞可能会被反复使用，如果黑客没有做什么事情来暴露它们或者它们没有被发现的话。这种“开放的”后门的缺点是每次使用时系统都会进行一个分析+防火墙检定。
+正如在探查目标(第221页，SR4页)中所指出的，如果黑客没有做什么事情来暴露它们，或者它们没有被发现的话，一些被探查到的漏洞可能会被反复使用。这种“开放式”后门的缺点是每次使用时系统都会进行一个分析+防火墙检定。
 
-已经侵入节点的黑客也可以创建自己的可重用漏洞; 一个在节点防火墙中精心设计的漏洞，可以让那些知道它的人非常容易地黑进节点。如果你在节点上至少有安保级别的访问权限，那么创建一个可重用的漏洞需要一个成功的软件+利用漏洞(防火墙+系统，主动性流程)延续检定——否则就需要用骇入替换软件进行检定。一旦创建，这就提供了一个隐藏的漏洞，给黑客一个+6的骰池修正来使用利用漏洞程序访问该节点。
+已经骇入节点的黑客也可以创建自己的可重用漏洞；一个在节点防火墙中精心设计的漏洞，可以让那些知道它的人极其容易地骇入节点。如果你在节点上至少有安保级别的访问权限，那么创建一个可重用的漏洞需要一个成功的软件+利用漏洞(防火墙+系统，主动性流程)延续检定——否则就需要用骇入技能替换软件技能进行检定。一旦成功创建，这就提供了一个隐藏漏洞，给黑客+6DP修正来使用利用漏洞程序访问该节点。
 
-像这样的一个已知漏洞的细节也可以被卖给其他黑客，他们也将获得+6骰池修正，直到该漏洞被发现和移除(参见检测后门，下文)
+像这样的一个已知漏洞的细节也可以被交易/出售给其他黑客，他们也将获得+6DP修正，直到该漏洞被发现并移除(参见检测后门，下文)
 
 [spoiler]
 [size=12pt][b]REUSABLE EXPLOITS[/b][/size]
+
 As noted under Probing the Target (p. 221, SR4), some probed exploits may be used repeatedly if the hacker doesn’t do something to give them away or it they aren’t discovered. The drawback to this “open hole” sort of backdoor is that the system gets an Analyze + Firewall Test every time you use it. 
 
 Hackers who have hacked their way into the node can also create their own reusable exploit; a specially crafted flaw in the node’s firewall that allows those who know about it to hack the node with extreme ease. Creating a reusable exploit requires a successful Extended Software + Exploit (Firewall + System, 1 Initiative Pass) Test if you have at least security-level access on the node—otherwise replace Software with Hacking. Once created, this provides a hidden exploit that gives the hacker a +6 dice pool modifier to gain access to that node using the Exploit program. 
+
 The details of a known exploit like this may also be traded/sold to other hackers, who will also receive the +6 dice pool bonus until the exploit is discovered and removed (see Detecting Backdoors, below)
 [/spoiler]
 
 [size=12pt][b]合法帐户[/b][/size]
 
-节点期望来自正常用户的流量，并且对于许多与工作相关的节点，甚至一些从家庭或私有终端的非工作时间访问也是典型的或符合预期的。如果黑客窃取了合法账户的密码，他可以小心地继续使用该账户一段时间，直到蜘蛛发现任何情况(如果他们会发现的话)。
+节点期望获得来自正常用户的一定数量的流量，并且对于许多与工作相关的节点，甚至一些从家庭或私有终端的非工作时间访问也是典型的或符合预期的。如果黑客窃取了合法账户的密码，只要足够小心谨慎，他就可以继续使用该账户一段时间，直到蜘蛛发现任何状况(如果他们会发现的话)。
 
-黑进该节点的黑客也可以在系统上创建一个“合法”帐户(参见黑客与编辑，第225页，SR4)，然后隐藏他们创建了这个帐户的事实。如果你至少有节点上的安保级别的访问权限，这需要一个成功的软件+编辑检定，或如果你没有的话，黑客+编辑(2)检定，。对于安保级别的访问权限，将阈值增加到3; 对于管理员级别的访问权限，将其增加到4。新账户当然会出现在安全检查中，并且通常会被仔细审查其合法性。该帐户的所有操作都被记录在案——它不是隐藏的，因为它是用合法帐户的外观创建的。一个公司系统上的可验证账户，加上一个假的SIN和/或该黑客受雇于该公司的记录，可以为渗透提供一个非常有说服力的掩饰故事。
+骇入节点的黑客也可以在系统上创建一个“合法”帐户(参见黑客与编辑，第225页，SR4)，然后隐藏他们创建了这个帐户的事实。如果你至少有节点上的安保级别的访问权限，这需要一个成功的软件+编辑检定，或如果你没有权限的话，骇入+编辑(2)检定。对于安保级别的访问权限，将阈值增加到3；对于管理员级别的访问权限，将其增加到4。新账户当然会出现在安保检查中，并且通常会仔细审查其合法性。该帐户的所有操作都被记录在案——它不是隐藏的，因为它是用合法帐户的外观创建的。一个公司系统上的可验证账户，加上一个假SIN和/或该黑客受雇于该公司的记录，可以为渗透提供一个非常有说服力的掩饰故事。
 
 [spoiler]
 [size=12pt][b]LEGITIMATE ACCOUNTS[/b][/size]
+
 Nodes expect a certain amount of traffic from normal users, and for many work-related nodes even some off-hours access from home or private terminals is typical or expected. A hacker who steals the passcode to a legitimate account can, with care, continue to make use of that account for some time before a spider notices anything, if they ever do. 
+
 A hacker who has hacked the node may also create a "legit" account on the system (see Hackers & Editing, p. 225, SR4) and then hide the fact that they created it. This requires a successful Software + Editing Test if you have at least security privileges on the node, or a Hacking + Edit (2) Test if you do not. For securitylevel access, increase the threshold to 3; for admin access, increase it to 4. New accounts of course show up on security audits and are usually carefully scrutinized for legitimacy. All of the account’s actions are also logged—it’s not hidden, as it was created with the façade of a legitimate account. A verifiable account on a corporate system combined with a fake SIN and/or records that the hacker is employed by that corporation can make a very convincing cover story for an infiltration.
 [/spoiler]
 
 [size=12pt][b]隐藏帐户[/b][/size]
-隐藏帐户对蜘蛛或管理员是不可见的，只能被系统识别到。虽然这个账号允许黑客自由访问该节点，但它仍然受到账号权限限制，蜘蛛会认为他们是非法入侵的，因为他们看起来没有账号。
 
-要创建一个隐藏帐户，你必须已经能够访问该节点(合法的或骇入的)，并且必须遵循上面提到的创建合法帐户的步骤。在接下来的行动中，合法帐户必须通过进行一个骇入+隐藏(防火墙，10分钟)延续检定来隐藏。和其他账户一样，这个隐藏账户有一个唯一的密码; 有这个密码的人都可以访问账户。以前存在的合法帐户也可以通过这种方式转换为隐藏帐户，但访问日志必须修改，否则安全检查将发现帐户神秘地消失了。
+隐藏帐户对蜘蛛或管理员是不可见的，只能被系统识别到。虽然这个账户允许黑客自由访问该节点，但它仍然受到账户权限限制，蜘蛛会认为他们是在非法入侵，因为他们看起来没有账户。
+
+要创建一个隐藏帐户，你必须已经能够访问该节点(合法的或骇入的)，并且必须遵循上面提到的创建合法帐户的步骤。在接下来的行动中，合法帐户必须通过进行一个骇入+隐匿(防火墙，10分钟)延续检定来隐藏。和其他账户一样，这个隐藏账户有一个独特密码；拥有这个密码的人都可以访问该账户。以前存在的合法帐户也可以通过这种方式转换为隐藏帐户，但访问日志必须被修改，否则安保检查将显示帐户神秘地消失了。
 
 [spoiler]
 [size=12pt][b]HIDDEN ACCOUNTS[/b][/size]
+
 A hidden account is not visible to spiders or administrators, being discernible only by the system. While this account allows the hacker to access the node freely, it is still subject to account privilege limitations and spiders who perceive the character will assume them to be trespassing as they will not appear to have an account. 
+
 To create a hidden account, you must already have access to the node (either legit or hacked) and must follow the procedure for creating a legitimate account noted above. On the next action, the legitimate account must then be hidden with a Hacking + Stealth (Firewall, 10 minutes) Extended Test. As with any other account, this hidden account has a unique passcode; anyone with that passcode may access that account. Previously existing legitimate accounts may also be transformed into hidden accounts this way, but the access log must also be modified or a security audit will show an account mysteriously disappeared.
 [/spoiler]
 
 [size=12pt][b]隐藏访问点[/b][/size]
-隐藏的接入点类似于可重用漏洞，只是黑客利用了一个软件漏洞，允许他在没有实际授予他账号的情况下访问某个节点。要创建一个隐藏的访问点，黑客必须事先访问系统，并必须进行黑骇入+利用漏洞(防火墙+系统，1分钟)延续检定。
 
-其优点是，这种隐藏的访问点使它非常容易渗透系统，只需要一个骇入+利用漏洞(1)简单检定，而防火墙没有检测入侵者的检定。由于没有账户被使用，只要入侵的黑客仍然在巡逻IC的雷达下，访问不会被发现。
+隐藏访问点类似于可重用漏洞，只是黑客利用了一个软件缺陷，允许他在没有实际授予他账户的情况下访问某个节点。要创建一个隐藏访问点，黑客必须事先访问系统，并必须进行骇入+利用漏洞(防火墙+系统，1分钟)的延续检定。
 
-因为没有获得密码,黑客没有账户权限,只要他以这种方式连接到节点，黑客必须依靠骇入进行所有检定(这是常见的做法，通过隐藏访问点访问系统, 然后创建一个账户, 离开系统, 然后用假账号“合法”登录)。察觉到黑客的IC或安保黑客会立即识别他为入侵者。
+这样做的好处是，这种隐藏访问点使渗透系统变得非常容易，只需要一个骇入+利用漏洞(1)简单检定，而防火墙不会进行检测入侵者的检定。由于没有账户被使用，只要骇入黑客保持在巡逻IC的雷达之下，访问就不会被发现。
 
-请注意，使用隐藏访问点的黑客的操作仍然记录在访问日志中，但它们被掩盖和混淆了，因为它们没有绑定到一个帐户。然而，黑客的数据轨迹仍可能被追踪。
+然而，因为没有获得密码，黑客没有账户权限，只要他以这种方式连接到节点，黑客就必须依靠骇入技能进行所有检定(常见的做法是，通过隐藏访问点访问系统，然后创建一个账户，离开系统，然后用假账户“合法”登录)。察觉到黑客的IC或安保黑客会立即识别他为入侵者。
+
+请注意，使用隐藏访问点的黑客的操作仍然记录在访问日志中，但它们由于没有和账户挂钩而被掩盖和混淆了。然而，黑客的数据轨迹仍可能被追踪。
 
 [spoiler]
 [size=12pt][b]HIDDEN ACCESS POINTS[/b][/size]
-A hidden access point is similar to a reusable exploit, except the hacker exploits a software flaw that allows him access to a node without actually granting him an account. To create a hidden access point, the hacker must have previous access to the system and must make a Hacking + Exploit (Firewall + System, 1 minute) Extended Test. 
-The advantage is that such hidden access points make it very easy to penetrate the system, requiring only a simple Hacking + Exploit (1) Test, and the Firewall gets no test to detect the intruder. As no account is being used, access won’t be noticed as long as the intruding hacker remains under the radar of patrolling IC. 
-Since no passcodes have been obtained, however, the hacker has no account privileges at all and must rely on Hacking for all tests as long as he is connected to the node in this manner (it is common practice to access the system via the hidden access point and then create an account, leave the system, and do a "legal" log on with the fake account). IC or security hackers that perceive the hacker will immediately recognize him as an intruder. 
+
+A hidden access point is similar to a reusable exploit, except the hacker exploits a software flaw that allows him access to a node without actually granting him an account. To create a hidden access point, the hacker must have previous access to the system and must make a Hacking + Exploit (Firewall + System, 1 minute) Extended Test.
+
+The advantage is that such hidden access points make it very easy to penetrate the system, requiring only a simple Hacking + Exploit (1) Test, and the Firewall gets no test to detect the intruder. As no account is being used, access won’t be noticed as long as the intruding hacker remains under the radar of patrolling IC.
+
+Since no passcodes have been obtained, however, the hacker has no account privileges at all and must rely on Hacking for all tests as long as he is connected to the node in this manner (it is common practice to access the system via the hidden access point and then create an account, leave the system, and do a "legal" log on with the fake account). IC or security hackers that perceive the hacker will immediately recognize him as an intruder.
+
 Note that the actions of a hacker who uses a hidden access point are still recorded in the access log, but they are obscured and confusing because they are not tied to an account. The hacker’s datatrail may still be tracked, however.
 [/spoiler]
 
 [size=12pt][b]检测后门[/b][/size]
 
-具有安保或管理员权限的用户可以进行帐户检查和安全扫描，以寻找已知或可疑的后门。当然，拥有对节点的安保或管理员访问权限的黑客可以自行进行搜索，利用其他黑客的辛勤工作，并将搜索结果保密。一些超链者黑客已经知道在他们的后门上打上水印(见第237页，SR4)，以便其他超链者黑客或网精找到。
+具有安保或管理员权限的用户可以进行帐户检查和安保扫描，以寻找已知或可疑的后门。当然，拥有节点的安保或管理员访问权限的黑客可以自行进行搜索，利用他们同伴的辛勤工作，并将结果留给自己。一些超链者黑客已经知道在他们的后门上打上水印(见第237页，SR4)，以便其他超链者黑客或网精找到它们。
 
-[b]可重用漏洞和骇入账户：[/b]执行例行检查的蜘蛛或黑客将在成功的数据搜索+浏览(黑客使用的利用漏洞程序或账户的最低等级，1天)延续检定中发现可重用漏洞或非法使用的合法账户; 通过成功的软件+编辑(防火墙，1分钟)延续检定，可以立即修复该漏洞，而合法帐户通常被锁定，等待官方审查。如果日志显示合法帐号没有从事任何非法或可疑的活动，该帐号将被解锁;否则，用户将面临逮捕和/或审问。受到这种审查的黑客创建的账户通常会被删除，除非黑客有一个好的掩饰故事，并一直小心翼翼地通过编辑日志来隐藏她的活动。
+[b]可重用漏洞和骇入账户：[/b]执行例行检查的蜘蛛或黑客将在成功的数据搜索+浏览(黑客使用的利用漏洞程序或账户的最低等级，1天)延续检定中发现可重用漏洞或非法使用的合法账户；通过成功的软件+编辑(防火墙，1分钟)延续检定，可以立即修复该漏洞，而合法帐户通常被锁定，等待官方审查。如果日志显示合法帐号没有从事任何非法或可疑的活动，该帐号将被解锁；否则，用户将面临逮捕和/或审问。受到这种审查的黑客创建的账户通常会被删除，除非黑客有一个很好的故事做掩饰，并一直小心翼翼地通过编辑日志来隐藏她的活动。
 
-[b]隐藏账户和隐藏访问点：[/b]隐藏账户和隐藏访问点不出现在安保权限和管理员权限的常规检查种, 但如果蜘蛛意识到它们(通过一个草率的日志编辑或看到黑客使用它们), 一场彻底的帐户检查——数据搜索+浏览(黑客使用的隐藏访问点或隐藏帐户的最低等级x2,1天)的延续检定将揭示它们，在这之后他们可能被修改或正常删除。
+[b]隐藏账户和隐藏访问点：[/b]隐藏账户和隐藏访问点不出现在安保权限和管理员权限的常规检查中, 但如果蜘蛛意识到它们(通过草率的日志编辑或看到黑客使用它们)，一场彻底的帐户检查——数据搜索+浏览(黑客使用的隐藏访问点或隐藏帐户的最低等级 x 2, 1天)的延续检定将揭示它们，在这之后它们可能被编辑或正常删除。
 
-[b]探测目标：[/b]在GM的判断下，正在探测目标(第221页，SR4)的黑客可能会发现一个后门，而不是可利用的漏洞。
+[b]探查目标：[/b]在GM的判断下，正在探查目标(第221页，SR4)的黑客可能会发现一个后门，而不是可利用的漏洞。
 
 [spoiler]
 [size=12pt][b]DETECTING BACKDOORS[/b][/size]
+
 Users with security or admin privileges can conduct account audits and security sweeps to look for known or suspected backdoors. Of course, hackers with security or admin access to a node can conduct their own searches and keep the results to themselves, making use of the hard work of their fellow hackers. Some technomancer hackers have been known to watermark their backdoors (see p. 237, SR4), so that other technomancer or sprite hackers can find them.
 
 [b]Reusable Exploits and Hacked Accounts: [/b]A spider or hacker conducting a routine audit will detect a reusable exploit or unauthorized use of a legitimate account on a successful Extended Data Search + Browse (lowest Stealth rating of hacker using exploit or account, 1 day) Test; the exploit may be immediately fixed with a successful Extended Software + Edit (Firewall, 1 minute) Test, while the legitimate account is typically locked pending an official review. If the logs show the legitimate account has not been engaging in any illegal or questionable activity, the account will be unlocked; otherwise the user will face arrest and/or questioning. Hacker-created accounts subject to this review are typically deleted unless the hacker has taken care to have a good cover story and has been editing the logs to hide her activities.
@@ -522,54 +535,65 @@ Users with security or admin privileges can conduct account audits and security 
 
 ---
 
-[size=12pt][b]进阶电子欺骗[/b][/size]
+[size=14pt][b]进阶欺骗[/b][/size]
 
-SR4规则手册详细介绍了欺骗程序的几个好用途: 重定向追踪，伪造数据流，假冒代理，无人机和网精的命令。一个常见的误解是，伪造是利用和控制代理、无人机或相关设备的黑客入侵的简化版本——毕竟，如果目标做了你想要的，你就黑了它，对吗? 不完全对。电子欺骗是一个很棒的工具，但它有其局限性。以下规则对电子欺骗选项进行了扩展，并提供了一些新的选项。
+SR4规则手册详细介绍了欺骗程序的几个好用途；重定向追踪，欺骗数据轨迹，伪造对代理，无人机和网精的指令。一个常见的误解是，欺骗是利用和控制代理、无人机或相关设备的骇入攻击的简化版本——毕竟，如果目标做了你想要它做的，你就骇入了它，对吗？不完全对。欺骗是一个很棒的工具，但它有其局限性。以下规则对欺骗选项进行了扩展，并提供了一些新的选项。
 
 [spoiler]
-[b]ADVANCED SPOOFING[/b]
+[size=14pt][b]ADVANCED SPOOFING[/b][/size]
+
 The SR4 rulebook details several good uses for the Spoof program: redirecting traces, spoofing the datatrail, and spoofing commands to agents, drones, and sprites. A common misconception is that spoofing is a simplified version of hacking in with an exploit and controlling the agent, drone, or device in question—after all, if the target does what you want, you’ve hacked it, right? Not really. Spoofing is a great tool, but it has its limitations. The following rules expand on spoofing options and provide a few new ones.
 [/spoiler]
 
-[b]扩展命令[/b]
+[size=12pt][b]指令扩展[/b][/size]
 
-正如伪造指令(224页，SR4)中所描述的，黑客可以使用欺骗程序向目标发送命令，这些命令看起来像是由具有控制或访问权限的人发送的。这个技巧可以用来伪造无人机、代理、网精(仅限超链者)、电子设备和从属节点的命令。
+正如伪造指令(224页，SR4)中所描述的，黑客可以使用欺骗程序向目标发送指令，这些指令看起来像是由具有控制或访问权限的人发送的。这个技巧可以用来对伪造无人机、代理、网精(仅限超链者)、电子设备和从属节点的指令。
 
-伪造指令看起来像是来自你要假冒的授权用户(这就是为什么你需要他们的访问ID)，因此将被视为具有与你所模拟的用户相同的访问权限(个人、安保或管理员)。由GM决定哪些命令对哪些访问权限是正当的。例如，伪造对烤箱的命令来开始烹饪火鸡是任何可能访问烤箱的人都被允许做的事情。如果你伪造对无人机的指令，假装自己是控制的机师，你当然可以让无人机注销那个机师或者把无人机转移到你的通讯链控制下(因为控制的机师有权限这样做)。要添加、修改或删除帐户，你肯定需要伪造一条从具有管理员权限的人那里发出的命令。许多合法用户对他们的账户设置了限制，那些安全意识强的安保蜘蛛会设置代理程序、无人机和节点来忽略某些特定命令。毕竟，安保黑客最不想要的就是成为自己IC的目标。
+伪造指令看起来像是来自于你所冒充的授权用户(这就是为什么你需要他们的访问ID)，因此将被视为具有于该被冒充用户相同的访问权限(用户、安保或管理员)。由GM决定哪些指令对哪些访问权限是正当的。例如，伪造对烤箱的指令来开始烹饪火鸡是任何可能访问烤箱的人都被允许做的事情。如果你伪造对无人机的指令，假装自己是控制它的机师，你当然可以让无人机注销那个机师或者把无人机转移到你的通讯链从属控制下(因为控制它的机师有权限这样做)。要添加、修改或删除帐户，你肯定需要伪造一条从具有管理员权限的人那里发出的指令。许多合法用户对他们的账户设置了限制，那些安全意识强的安保蜘蛛会设置代理程序、无人机和节点来忽略某些特定指令。毕竟，安保黑客最不想要的就是成为自己IC的目标。
 
-伪造来自具有安保或管理权限的用户的指令更加困难，就像入侵并获得具有此类权限的帐户一样。对黑客的对抗检定应用一个等于-3(伪造安保权限)或-6(伪造管理员权限)的骰池修正。
+伪造来自具有安保或管理权限的用户的指令更加困难，就像入侵并获得具有此类权限的帐户一样。对黑客的对抗检定应用一个-3(伪造安保权限)或-6(伪造管理员权限)的骰池修正。
 
 那些对于访问权限来说是非法的操作，伪造指令是不可能的。要绕过访问限制，你就必须骇入。
 
-请注意，黑客一次只能伪造一个指令，而且必须在她拥有合法用户的访问ID的情况下(参见伪造指令，第224页，SR4)。一旦命令被发送，她就无法控制该代理、无人机或节点，直到她伪造下一个指令。如果你的黑客需要给出多个命令——或者告诉目标做一些合法用户无法命令它做的事情——你最好入侵节点，而不是一次伪造一个指令。
+请注意，黑客一次只能伪造一个指令，而且必须在她拥有合法用户的访问ID的情况下(参见伪造指令，第224页，SR4)。一旦指令被发送，她就无法控制该代理、无人机或节点，直到她伪造下一个指令。如果你的黑客需要给出多个指令——或者告诉目标做一些合法用户无法指示它做的事情——你最好骇入节点，而不是一次又一次地伪造指令。
 
 [spoiler]
-[b]EXPANDED COMMAND[/b]
-Spoofing As described under Spoof Command, p. 224, SR4, a hacker can use Spoof software to send commands to a target that look like they were sent by someone with control or access privileges. This trick may be used to falsify commands to drones, agents, sprites (technomancers only), electronic devices, and slaved nodes. 
+[size=12pt][b]EXPANDED COMMAND[/b][/size]
+
+Spoofing As described under Spoof Command, p. 224, SR4, a hacker can use Spoof software to send commands to a target that look like they were sent by someone with control or access privileges. This trick may be used to falsify commands to drones, agents, sprites (technomancers only), electronic devices, and slaved nodes.
+
 Spoofed commands will seem to come from the authorized user you are spoofing (why you need their access ID), and so will be treated as having the same access privileges (personal, security, or admin) as that impersonated user. It is up to the gamemaster to decide what commands are legitimate for which access privileges. For example, spoofing a command to an oven to start cooking the turkey is something anyone accessing the oven is likely allowed to do. If you are spoofing commands to a drone, pretending to be the controlling rigger, youcould certainly instruct the drone to log that rigger off or slave that drone to your commlink instead (since the controlling rigger would have privileges to do that). To add, alter, or delete an account, you would almost certainly need to spoof a command from someone with admin privileges. Many legitimate users have limits on what they can do with their accounts, and security- or safety-conscious spiders can and do program agents, drones, and nodes to ignore certain orders. After all, the last thing a security hacker wants is to be the target of their own IC.
-Spoofing commands from a user with security or admin privileges is more difficult, just as is with hacking in and obtaining an account with such privileges. Apply a dice pool modifier to the hacker for the Opposed Test equal to –3 for spoofing security privileges or –6 for spoofing admin privileges. 
-Spoofing commands for actions that are illegal for those access privileges is simply not possible. To bypass access restrictions, you have to hack in. 
+
+Spoofing commands from a user with security or admin privileges is more difficult, just as is with hacking in and obtaining an account with such privileges. Apply a dice pool modifier to the hacker for the Opposed Test equal to –3 for spoofing security privileges or –6 for spoofing admin privileges.
+
+Spoofing commands for actions that are illegal for those access privileges is simply not possible. To bypass access restrictions, you have to hack in.
+
 Note that a hacker can only spoof one command at a time, and only if she has the access ID of a legitimate user (see Spoof Command, p.224, SR4). Once a command is sent, she has no control over that agent, drone, or node until she spoofs the next command. If your hacker needs to give multiple commands—or tells the target to do something that a legitimate user can’t order it to do—you’re much better off hacking the node than spoofing commands one at a time.
 [/spoiler]
 
-[b]伪造数据流[/b]
-由于节点在允许连接之前需要访问ID，因此在实际访问其他节点之前伪造你的数据流(如果你愿意的话)非常重要。一旦你登录到另外的节点，访问ID的更改将自动关闭与其他节点的连接——毕竟，你不再是你所说的那个人。在某些情况下，这可能是关闭多个连接的一种权宜之计。例如，如果你在另一个节点上受到黑IC的攻击，你可以尝试伪造你的数据流，以更改你的访问ID并注销该节点。如果黑IC干扰你的连接，这将需要执行一个骇入+欺骗与黑IC等级+响应等级的对抗检定。
+[size=12pt][b]欺骗数据轨迹[/b][/size]
 
-你也可以使用这个技巧来避免被直接追踪。如果有人使用追踪程序跟踪你，你可以照常伪造你的数据流并改变你的访问ID。虽然这将切断你所有的连接，但这意味着追踪程序只能跟踪到你的连接碰巧经过的最近的节点。追踪你的黑客仍然可以获取你的旧访问ID，但无法精确定位你的具体位置——尽管他知道你离最近的节点很近。
+由于节点在允许连接之前需要一个访问ID，因此在实际访问其他节点之前，欺骗你的数据轨迹(如果你有这个意向的话)非常重要。一旦你登录到其他节点，访问ID的改变将自动关闭你与其他节点的连接——毕竟，你不再是你所说的那个人了。在某些情况下，这可能是关闭多个连接的一种权宜之计。例如，如果你在另一个节点上受到黑IC的攻击，你可以尝试欺骗你的数据轨迹，以更改你的访问ID并注销该节点。如果黑IC干扰了你的连接，这将需要执行一个骇入+欺骗与黑IC等级+响应能力的对抗检定。
+
+你也可以使用这个技巧来尝试和避免被直接追踪。如果有人使用追踪程序来追踪你，你可以照常欺骗你的数据轨迹并改变你的访问ID。虽然这将切断你所有的连接，但这意味着追踪程序只能追踪到你的连接碰巧经过的最近的节点。追踪你的黑客仍然可以获取你的旧访问ID，但无法精确定位你的具体位置——尽管他知道你离那个最近的节点很近。
 
 [spoiler]
-[b]SPOOFING A DATATRAIL ONLINE[/b]
+[size=12pt][b]SPOOFING A DATATRAIL ONLINE[/b][/size]
+
 Since nodes require an access ID before they will allow a connection, it is important to spoof your datatrail (if you are so inclined) before you actually access other nodes. Once you have logged onto other nodes, a change in access ID will automatically close your connection to other nodes—after all, you are no longer who you said you were. Under some circumstances, this may be an expedient way of closing multiple connections. For example, if you are under attack by Black IC in another node, you can try to spoof your datatrail in order to change your access ID and log off that node. If the Black IC is jamming your connection, however, this will require an Opposed Test pitting your Hacking + Spoofing versus the Black IC rating + Response.
+
 You can also use this trick to try and avert a direct trace. If someone is using Track to trace you, you can spoof your datatrail and change your access ID as normal. While this will sever all of your connections, it means that the Track will only be able to trace you to the nearest node that your connection happened to have been routed through. The tracking hacker can still acquire your old access ID, but will not be able to pinpoint your exact physical location—though he will know that you are close to that nearest node.
 [/spoiler]
 
-[b]伪造生活方式[/b]
-一个黑客可以通过骇入+欺骗延续检定将她的生活方式提高到一个给定的水平一个月。查看伪造生活方式表，第99页，了解阈值;时间间隔为1天。对于一个流浪街头的黑客来说，这相当于让自动售货机提供免费食物，打开公用设施和浴室锁住的门让他们睡觉。对其他人来说，这意味着重新安排自动账单支付，或者告诉公用事业和服务机构该黑客是付费用户。一个角色可以在一个月内进行多次检定来改善生活方式。
+[size=12pt][b]欺诈生活方式[/b][/size]
 
-[i]Dogbody厌倦了和父母住在一起，决定搬出去住。在街头流浪了一个星期后，他决定找个地方歇脚，并试图升级到低端生活方式。他的骰池构成为骇入5和欺骗4，Dogbody投了9个骰子以达到4的阈值，但他在第一天出现失误，不得不重新开始。两天后，Dogbody正在享受他呆在棺材旅馆的30天的第一天，同时大嚼着粘乎乎的巧克力棒。生活在好转。[/i]
+一个黑客可以通过骇入+欺骗的延续检定将她的生活方式提高到某个特定水平一个月。查看欺诈生活方式表，第99页，了解检定的阈值；时间间隔为1天。对于一个流浪街头的黑客来说，这相当于让自动售货机提供免费食物，打开公用设施和浴室锁住的门让他们睡觉。对其他人来说，这意味着重新定向自动支付账单，或者告诉公用事业和服务机构该黑客是付费用户。一个角色可以在一个月内进行多次检定来改善生活方式。
+
+[i]Dogbody厌倦了和父母住在一起，并决定搬出去住。在街头流浪了一个星期后，他决定找个地方歇脚，并试图升级到低端生活方式。他的骰池构成为骇入5和欺骗4，Dogbody投了9个骰子以达到4的阈值，但他在第一天出现失误，不得不重新开始。两天后，Dogbody正在享受他呆在棺材旅馆的30天的第一天，同时大嚼奶油棒。生活正在向好的方向发展。[/i]
 
 [spoiler]
-[b]SPOOFING LIFE[/b]
+[size=12pt][b]SPOOFING LIFE[/b][/size]
+
 A hacker can improve her lifestyle to a given level for one month by making a Hacking + Spoof Extended Test. See the Spoofing Life table, p. 99, for threshold; the interval is 1 day. For a hacker living on the streets, this equates to making vending machines give out free eats and opening locked doors to utility sheds and bathrooms for them to sleep in. For anyone else, it means redirecting automated bill payments or telling utilities and services that the hacker is a subscriber. A character can make multiple tests to improve their lifestyle more than once during a given month.
 
 [i]Dogbody is tired of living with his parents and decides to move out. After living on the streets for a week, he decides he needs someplace to crash and tries to upgrade to a low lifestyle. With Hacking 5 and Spoof 4, Dogbody is rolling 9 dice to meet a threshold of 4, but he glitches it on the first day and has to start over again. Two days later, Dogbody is enjoying day one of his thirty-day stay in a coffin motel while chomping down on a Gooey Bar. Life is looking up.[/i]
@@ -577,7 +601,7 @@ A hacker can improve her lifestyle to a given level for one month by making a Ha
 
 [quote]
 [table]
-[tr][td][b]伪造生活方式[/b][/td][/tr]
+[tr][td][b]欺诈生活方式[/b][/td][/tr]
 [tr][td][b]生活方式[/b][/td][td][b]阈值[/b][/td][/tr]
 [tr][td]街头[/td][td]2[/td][/tr]
 [tr][td]低端[/td][td]4[/td][/tr]
@@ -603,10 +627,533 @@ A hacker can improve her lifestyle to a given level for one month by making a Ha
 [/spoiler]
 [/quote]
 
-[b]伪造防护[/b]
-如果黑客面对的对手使用的是带有限制选项的攻击性程序(第114页)，他可能会试图伪造自己的化身，使限制程序不会对他不利。要做到这一点，黑客必须通过适当的矩阵侦察检定意识到程序有特定的选项。然后，他就可以试图伪造自己的化身，让它看起来像是事实并非如此。例如，联络的安保黑客可能会使用带有限制的攻击程序，以防止其被用于已认证的联络角色。知道这一点的黑客可能会伪造自己的化身，让自己看起来像是通过了联络认证，从而使自己不受该程序的攻击。这需要一个对抗检定，使用黑客的骇入+欺骗对抗对手的分析+响应等级。
+[size=12pt][b]假冒防护[/b][/size]
+
+如果黑客面对的对手使用的是带有限制选项的攻击性程序(第114页)，他可能会试图假冒自己的化身，使限制程序不会对他不利。要做到这一点，黑客必须通过适当的矩阵侦察检定，意识到该程序有特定的选项。然后，他就可以尝试假冒自己的化身，让它看起来像是并非如此的事物。例如，联络的安保黑客可能会使用带有限制选项的攻击程序，以防止其被用于已认证的联络化身。了解到这一点的黑客可能会假冒自己的化身，让自己看起来像是通过了联络认证的，从而使自己不受该程序的攻击。这需要进行一个对抗检定，使用黑客的骇入+欺骗对抗对手的分析+响应能力。
 
 [spoiler]
-[b]SPOOFING PROTECTION[/b]
+[size=12pt][b]SPOOFING PROTECTION[/b][/size]
+
 If the hacker is facing an opponent that is wielding an offensive program with the Limitation option (p. 114), he may attempt to spoof his persona in a way that the limited program will not work against him. To do this, the hacker must be aware that the program has that specific option, via an appropriate Matrix Perception Test. He can then attempt to spoof his persona so that it appears to be something it’s not. For example, a Renraku security hacker may be wielding an Attack program with a Limitation that prevents it from being used on certified Renraku personas. A hacker who has learned this may spoof his persona to appear Renraku-certified, thus making himself invulnerable to the program. This requires an Opposed Test pitting the hacker’s Hacking + Spoof against the opponent’s Analyze + Response.
+[/spoiler]
+
+---
+
+[size=14pt][b]大规模探查[/b][/size]
+
+黑客有时候希望快速获得一份看起来容易受到攻击的节点列表。大规模探查的功能非常类似于探查(参见探查目标，第221页，SR4)，但前者可以非常迅速地查询大量节点以找到最常见的系统缺陷。许多黑客在他们离线的时候使用代理自动化完成这个过程。大规模探查通常是创建僵尸网络的第一步；在获得对防御薄弱的节点的访问权限后，黑客使用病毒或蠕虫渗入系统并建立僵尸机。
+
+大规模探查是一个骇入+利用漏洞(4，1天)的延续检定。每一个超过阈值的成功都相当于5个节点上的一个可重用漏洞(参见上文的后门)；如果你想获得相当于一个合法账户的用户访问权限，将阈值增加3；如果你想要安保级别的访问权限，将阈值增加9，对于管理员级别访问权限，将阈值增加16。检定中出现失误则表明其中一个节点是蜜罐节点(见第73页)。GM决定这些具体的节点是什么；通常情况是，它们是防御不力的系统，没有什么东西可以提供的，比如低等级的通讯链、公共终端和小型工作站。然而，后门不会永远存在，每周至少有2D6个账户会在安保升级或定期系统检查中被关闭。
+
+与常规的探查不同，当黑客进行实际入侵时，目标节点得到两次免费的分析+防火墙检定，阈值等于入侵者的隐匿程序等级(或在代理或网精的情况下，他们的隐匿程序等级)；这个额外的检定代表了可能记录了探查的蜘蛛，在探查和入侵企图之间的时间内软件安全补丁的更新，以及防止大规模探查的其他安保措施的额外关注。
+
+大规模探查永远不会发现隐藏的节点。
+
+[spoiler]
+[size=14pt][b]MASS PROBES[/b][/size]
+
+Sometimes hackers want to quickly obtain a list of nodes that appear vulnerable to their exploits. Mass probing functions a great deal like probing (see Probing the Target, p. 221, SR4) but queries a large number of nodes very quickly to find the most common system flaws. Many hackers automate this process using an agent while they are offline. Mass probing is typically the first step in the creation of a botnet; after gaining access to poorly defended nodes, the hacker uses viruses or worms to infiltrate the system and set up the bots.
+
+A Mass Probing Test is an Extended Hacking + Exploit (4, 1 day) Test. Every hit over the threshold is equivalent to a reusable exploit (see Backdoors, above) in five nodes; for the equivalent of a legitimate account with personal access privileges, increase the threshold by +3; if you want security-level access, increase the threshold by +9, and for admin access increase the threshold by +16. Glitches on the test indicate that one of the nodes is a honeypot (see p. 73). The gamemaster decides what these specific nodes are; more often then not they are poorly defended systems without much to offer, such as low-rating commlinks, public terminals, and minor workstations. Backdoors don’t last forever, however, and every week at least 2D6 accounts are closed off in security updates or regular system audits.
+
+Unlike regular probing, when a hacker makes the actual intrusion, the target node gets two free Analyze + Firewall Tests with a threshold equal to the intruder’s Stealth program rating (or in the case of an agent or sprite, their Stealth program); this extra test represents the additional attention of spiders who might have logged the probe, security patches updating software in the time between the probe and the intrusion attempt, and other security measures to protect against mass probing.
+
+Mass probing never reveals hidden nodes.
+[/spoiler]
+
+[quote]
+[size=12pt][b]黑客簿记[/b][/size]
+
+僵尸网络和大规模探查的一个问题是，玩家角色可以迅速积累大量被破解节点和大量的僵尸机——比GM打算要详细描述的要多得多。避免不必要的簿记和游戏拖延的关键是GM要提前计划，让玩家自己去操心大量的簿记工作。列出5个(或10个、15个)节点，这些节点可能是黑客特别感兴趣的，与任务特别相关的，或特别有趣的虚假线索；大多数被大规模探查破解的剩余节点将是家庭终端、学生通讯链，以及其他仅用于存储僵尸机或获取访问ID的节点。
+
+[spoiler]
+[size=12pt][b]HACKER BOOKKEEPING[/b][/size]
+
+One issue with botnets and mass probes is that player characters can quickly accumulate a lot of compromised nodes and a lot of bots— more than a gamemaster can be expected to fully detail at the table. The key to avoiding unnecessary bookkeeping and holding up the game is for the gamemaster to plan ahead and let the player worry about the bulk of the bookkeeping. Make up a list of five (or ten or fifteen) nodes that would be of particular interest to the hacker, are specifically relevant to the campaign, or are particularly amusing false leads; the majority of the rest of the nodes compromised by mass probing will be home terminals, student commlinks, and other nodes only useful as a place to store a bot or rip an access ID from.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]僵尸网络[/b][/size]
+
+僵尸网络就像一个专门的VPN，允许黑客通过它来维护和管理大量的代理(或蠕虫)，而不会使她的订阅列表过载。代理程序与它们的有效负载的其余部分加载了无等级的僵尸网络程序的副本，并被加载到单独的节点以独立运行。从那时起，代理(或僵尸机)仅作为你订阅列表中的单个订阅者计算，它的活动程序不计入你化身的活跃程序限制。然而，与代理通信的唯一方式是通过僵尸网络。
+
+僵尸网络程序包含一个所有在线并通过僵尸网络连接的代理的列表，用简单的状态符号表明它们的有效矩阵属性、当前矩阵CM、有效载荷、位置和它们正在采取的行动。通过一个简单动作，黑客可以向僵尸网络中的任意数量的僵尸机发出命令(参见发出指令，第220页，SR4)。
+
+僵尸网络可以像VPN一样被拦截、攻击或伪造指令(见第94页)。一个被入侵的僵尸网络会迅速导致另一个黑客“偷走”你的僵尸网络，将你锁定在自己的僵尸网络之外，甚至让它们攻击你。出于这个原因，僵尸机通常有一个加密程序以保护他们的通信，也可通过编程当如果遭受不成功的伪造指令或骇入时进行报告或直接关闭(由玩家自由决定)。你也可以通过进行一个你的骇入+分析对抗入侵黑客的骇入+隐匿的检定来检查你的僵尸网络是否被入侵；成功后你可以切断受影响的僵尸机，并拒绝入侵黑客使用僵尸网络的其余部分。
+
+僵尸网络程序包含其处理者的访问id，理论上允许其他程序追踪你(参见追踪，p.219，SR4)到你的源节点；大多数黑客使用代理服务器(第104页)或一次性通讯链来消除这种潜在威胁。僵尸机缺乏其他代理的独立性和适应性，其通信能力也比较有限——通常只会表示工作是否完成，是否受到损害，或者是否有人试图入侵它们而失败。
+
+如果黑客使用大规模探查来放置僵尸机，由于安保升级和系统检查而丢失的帐户通常也会导致僵尸机被删除。僵尸网络还可以协助黑客进行大规模探查；僵尸网络中每一个携带利用漏洞程序的僵尸机添加1DP的正面修正到黑客的大规模探查检定中，最高加值等于该角色的骇入技能。
+
+[spoiler]
+[size=14pt][b]BOTNETS[/b][/size]
+
+A botnet is like a specialized VPN that allows a hacker to maintain and manage large numbers of agents (or worms) without overloading her subscription list. The agents are loaded with a copy of the unrated botnet program along with the rest of their payload and loaded into separate nodes to run independently. From that point on, the agent (or bot) counts as only a single subscriber on your subscription list, and its active programs do not count toward your persona’s active program limits. However, the only way to communicate with the agent is through the botnet.
+
+The botnet program contains a list of all the agents online and connected through the botnet, with simple status symbols communicating their effective Matrix attributes, current Matrix Condition Monitor, payload, location, and what action they are undertaking. With a Simple Action, the hacker can issue a command (see Issuing Commands, p. 220, SR4) to any number of bots in the botnet.
+
+Botnets can be intercepted, hacked, or spoofed in the same manner as virtual private networks (see p. 94). A compromised botnet can quickly lead to another hacker "stealing" your bots by locking you out of your own botnet, or even turning them against you. For this reason, bots typically feature an Encrypt program that protects their communications or can be programmed to report in or shut down if subjected to an unsuccessful Spoof or Hacking attempt (player’s discretion). You may also check to see if your botnet is compromised with an Opposed Test, putting your Hacking + Analyze versus the intruding hacker’s Hacking + Stealth; success allows you to cut off the compromised bots and deny the intruding hacker the use of the rest of the botnet.
+
+Botnet programs contain access IDs for their handlers, theoretically allowing others to trace you (see Track, p. 219, SR4) back to your originating node; most hackers use proxy servers (p. 104) or disposable commlinks to negate this potential threat. Bots lack some of the independence and adaptability of other agents and have a more limited ability to communicate—usually only to signify if a job is done, if they take damage, or if someone has attempted to hack them and failed. 
+
+If a hacker is using mass probing to place bots, accounts lost to security upgrades and system audits will usually remove the bots as well. A botnet can also assist a hacker in performing a mass probe; add a 1 die positive modifier to the hacker’s Mass Probing Test for every bot in the botnet carrying an Exploit program, up to a maximum bonus equal to the character’s Hacking skill.
+[/spoiler]
+
+---
+
+[size=14pt][b]代理脚本[/b][/size]
+
+像IC一样，代理(包括傻瓜代理、僵尸机和无人机自驾)可以设定脚本(见脚本，第69页)，即当特定条件适用时他们所采取的行动列表。脚本可以让黑客(和GM)的生活更轻松，因为黑客可以花更少的时间来微观管理他们的代理或僵尸机。玩家和GM应该意识到，无论脚本有多长、多复杂或多详细，都无法处理代理可能遇到的所有情况。一些事件，比如遇到一个AI，可能是没有先例的，代理程序可能什么都不做——或者把这个事件错当成脚本中的另一个触发器。当不确定代理是否应该遵循脚本时(或在脚本建议两种相反行动的情况下)，让代理对由GM决定的阈值进行自驾+响应能力检定；如果成功，玩家将选择代理的行动，如果不成功，则GM将进行选择(参见发布指令，第214页)。适应性自动软件(第113页)可以协助进行这个检定。
+
+[spoiler]
+[size=14pt][b]AGENT SCRIPTS[/b][/size]
+
+Like IC, agents—including mooks, bots, and drone pilots can have scripts (see Scripting, p. 69), a list of actions that they take when certain conditions apply. Scripts can make a hacker’s (and a gamemaster’s) life much easier, as hackers can spend less time micromanaging their agents or bots. Players and gamemasters should be aware that no script—no matter how ridiculously long, complex, or detailed—can handle every situation in which an agent might find itself. Some events, like encountering an AI, might be without precedent, and the agent will do nothing—or mistake the event for a different trigger on the script. When in doubt about whether an agent should follow a script or not (or in a situation where the script suggests two contrary courses of action), have the agent make a Pilot + Response Test against a threshold determined buy the gamemaster; if successful the player chooses the agent’s action, if not the gamemaster does (see Issuing Commands, p. 214, SR4). The Adaptability autosoft (p. 113) may aid in this test.
+[/spoiler]
+
+[quote]
+[table]
+[tr][td][b]傻瓜代理[/b][/td][td][b]花费乘数[/b][/td][td][b]可获得性修正[/b][/td][/tr]
+[tr][td]非受限代理[/td][td]1.2[/td][td]+2[/td][/tr]
+[/table]
+
+[spoiler]
+[table]
+[tr][td][b]Mook[/b][/td][td][b]Cost Multiplier[/b][/td][td][b]Availability Modifier[/b][/td][/tr]
+[tr][td]Unrestricted Agent[/td][td]1.2[/td][td]+2[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]是否使用傻瓜代理？[/b][/size]
+
+对于某些角色来说，特别是那些刚刚起步的角色，投资一个高等级的通讯链、操作系统和代理(傻瓜代理)来满足你所有的黑客需求可能更加划算。使用傻瓜代理并不违反规则，也不会破坏游戏规则，但玩家和GM都应该意识到这种情况的利弊。
+
+当傻瓜代理被大量使用，或与僵尸网络相结合时，一个非黑客角色可能会维持一小支代理军队，并在相对安全的AR界面上恐吓矩阵。然而，由于几个原因，傻瓜代理并不是黑客的完美替代品。对于初学者来说，代理实际上只擅长服从命令——即所谓的代理脚本(第100页)——而在独立处理决策方面不是很有用。有关这方面的更多细节，请参阅代理能力，第111页。
+
+尽管如此，傻瓜代理还是很有用的，就像一只训练有素的狗——只需要指着目标，说“上”。它们在本质上也是可替换的——一个被毁掉了，装载另一个。然而，即使是一个高等级的傻瓜代理也不会像一个拥有良好技能、程序和正确殖装的黑客那样掷出那么多骰子。然而，作为第二梯队或后备计划，傻瓜代理当然是有意义的。但是，不要期望用一群复制的代理来围攻一个目标，因为它们内置的访问id将使钞国一个的所有代理都处于节点之外(参见自主程序，第110页)。
+
+需要注意的是，商业上购买的合法代理具有内置的限制，这将阻止它们采取任何非法的行动--这意味着即使它们加载了正确的程序，它们也不会执行任何需要骇入检定的行动，尽管GM可能会规定对任何公然非法的矩阵活动的更广泛的限制。黑客可以通过进行软件+逻辑(13+等级，1小时)延续检定移除这些限制，也可以在没有限制的条件下自行编码代理，或者从其他黑客那里购买不受限制的代理。
+
+傻瓜代理的主要缺点是，依赖它们的角色几乎永远不会发展他们团队的破解技能组，并将错过矩阵的大部分乐趣。
+
+值得记住的是，玩家角色并不是唯一可以使用傻瓜代理的角色；如果非玩家角色缺乏矩阵技能，他们也会使用傻瓜代理，GM可以利用这一点。
+
+[spoiler]
+[size=12pt][b]TO MOOK OR NOT TO MOOK?[/b][/size]
+
+For some characters, particularly those just starting out, it may look like a better deal to invest in a high-rated commlink, OS, and an agent (the mook) to take care of all of your hacking needs. Using a mook isn’t against the rules, nor is it gamebreaking, but players and gamemaster should both be aware and the advantages and disadvantages of the situation.
+
+When mooks are used en masse, or combined with botnets, a non-hacker character could potentially maintain a small army of agents and terrorize the Matrix from the relative safety of an AR interface. Mooks aren’t a perfect replacement for hackers, however, for several reasons. For starters, agents are really only adept at following orders— so-called agent scripts (p. 100)—and are not very useful at handling decisions on their own. For more details on this, see Agent Competency, p. 111.
+
+Still, mooks are useful as a trained dog—just point at the target and say go. They are also inherently replaceable—one gets trashed, load up another. Even a high-rating mook won’t roll as many dice as a hacker with good skills, programs, and right implants, however. As a second-string team or backup plan, however, mooks certainly make sense. Don’t expect to use a mob of copied agents to gang up on a target, though, as their built-in access IDs will keep all but one out of node (see Autonomous Programs, p. 110).
+
+Note that commercially-bought legal agents have built-in limitations that prevent them from taking any illegal action—broadly, this means they won’t perform any action that requires a Hacking Test, even if they have the correct program loaded, though gamemasters may rule this is a much broader restriction on any blatantly illegal Matrix activity. Hackers can remove these limitations with an Extended Software + Logic (13 + Rating, 1 hour) Test, code agents without them, or buy unrestricted agents from other hackers.
+
+The main drawback to a mook is that a character that relies on them will almost never develop their Cracking group skills and will miss out on most of the fun of Matrix.
+
+It’s worth keeping in mind that player characters aren’t the only ones that could use mooks; non-player characters are as likely to use a mook if they lack Matrix skills, and gamemasters can use that to their advantage.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]拒绝服务攻击[/b][/size]
+
+拒绝服务(DOS)攻击是一种阻止合法用户访问特定节点，甚至整个矩阵的方法。切断特定节点的通信可能是一个敲诈勒索计划的开始，也可能是在黑客忙于处理某个节点时，试图阻止外部增援进入该节点的努力。更简单的情况，DOS攻击可以阻止某人使用他们的通讯链呼救，或者在他们的载具中时获取导航。合法用户无法访问的设备更容易受到欺骗，因为合法用户无法抵消给它们的指令。
+
+大多数DOS攻击的焦点是节点的活跃帐户列表；通过编辑列表，黑客可以切断连接(参见终止连接，第223页，SR4)。黑客还可以指示节点阻止来自特定节点或访问ID(或一系列节点/访问ID)的未来访问连接请求，将目标锁定在外面。为了做到这一点，黑客必须访问节点，如果他们有安保或管理员权限则并必须进行计算机+编辑(1)检定；或者如果没有，一个骇入+编辑(2)检定。假设你有安保或管理员权限，在软件+编辑(1)检定成功的情况下，也可以删除账户(如果是活跃账户，则必须先终止该用户的连接)；或者如果你没有的话，骇入+编辑(2)检定。
+
+有许多其他的方式来完成DOS攻击：干扰无线设备，切断物理网络上的硬线，或改变路由以阻止进入或离开目标节点的流量，都可以完成相同的任务。导致系统崩溃也可以达到同样的效果，尽管只能影响系统重新启动所花费的时间。
+
+[spoiler]
+[size=14pt][b]DENIAL OF SERVICE ATTACKS[/b][/size]
+
+A denial of service (DOS) attack is a method of keeping legitimate users from accessing a specific node, or even the Matrix at large. Cutting off traffic to a specific node could be the beginning of a plan for extortion, or an effort to prevent outside reinforcements from entering a node while a hacker is busy working with it. More simply, a DOS attack can prevent someone from calling for help using their commlink or from getting directions while in their vehicle. Devices that a legitimate user cannot access are much more susceptible to spoofing because legitimate users cannot counteract the orders given them.
+
+The central focus of most DOS attacks is a node’s active account list; by editing the list a hacker can sever a connection (see Terminate Connection, p. 223, SR4). A hacker can also instruct the node to block future access connection requests from a particular node or access ID (or a range of nodes/access IDs), locking the target out. To accomplish this, the hacker must have access to the node and must make a Computer + Edit (1) Test if they have security or admin privileges; or a Hacking + Edit (2) Test if he does not. Accounts may also be deleted (if active, the user’s connection must be terminated first) with a successful Software + Editing (1) Test, assuming you have security or admin privileges; Hacking + Edit (2) Test if you do not.
+
+There are many other ways to accomplish a DOS attack: jamming a wireless device, cutting the hardlines on a physical network, or changing the routing to prevent traffic in or out of the target node all accomplishes the same task. Causing the system to crash can also achieve the same effect, though only for the amount of time it takes the system to reboot.
+[/spoiler]
+
+[size=12pt][b]分布式拒绝服务攻击[/b][/size]
+
+黑客也可以使用僵尸网络(第100页)来执行一种拒绝服务攻击，这通常比直接入侵目标节点更容易完成。即使在2070年，节点可以同时处理的数据传输和访问请求的数量依然是有限的，尽管这很少成为问题。执行分布式拒绝服务攻击(DDOS)攻击的黑客试图通过僵尸网络以各种流量淹没节点。
+
+大多数情况下，DDOS攻击需要一个大规模僵尸网络。对于标准节点，每有系统等级x4个试图用流量淹没它的僵尸机，将目标节点的响应能力减少1。例如，一个拥有系统等级5和响应能力5的节点，如果受到来自一个拥有100个僵尸机的僵尸网络的DDOS攻击，它的响应能力将被减少为0，冻结该节点上的所有活动。即使该节点被重新启动，它也会在再次启动后受到流量的猛烈攻击，直到DDOS攻击结束。
+
+受到DDOS攻击的节点有三种选择。首先，它可以欺骗自己的访问ID，这样DDOS攻击就再也找不到目标了。该节点必须处于离线状态(未与其他节点链接)，才能切换访问ID。其次，它可以尝试阻止僵尸网络访问id的访问，或尝试过滤掉所有洪水流量。后面这些选项的成功与否主要取决于GM的判断。
+
+[spoiler]
+[size=12pt][b]DISTRIBUTED DENIAL OF SERVICE ATTACKS (DDOS)[/b][/size]
+
+Hackers can also use botnets (p. 100) to perform a form of denial of service attack that is generally easier to accomplish than hacking the target node directly. Even in the 2070s, nodes have limits to the number of data transfers and access requests they can handle at once, though this is rarely an issue. A hacker performing a DDOS attempts to overload the node by having a botnet flood it with traffic of all kinds.
+
+In most cases, DDOS attacks require massively large botnets. For standard nodes, reduce the target node’s Response by 1 for every System x 4 bots flooding it with traffic. A node with System 5 and Response 5, for example, hit by a DDOS attack from a botnet with 100 bots, would have its Response reduced to 0, freezing all activity on the node. Even if the node is rebooted, it will be slammed with traffic as soon as it starts again, until the DDOS attack ends.
+
+A node under DDOS attack has three options. First, it can spoof its access ID, so that the DDOS can no longer find its target. The node must be offline (not meshed with other nodes) to switch access ID. Second, it can try to block access from botnet access IDs or attempt to filter out all flooding traffic. The success of these latter options is largely up to the gamemaster’s discretion.
+[/spoiler]
+
+---
+
+[size=14pt][b]团体袭击[/b][/size]
+
+团体袭击是指一队黑客集中他们的资源来入侵一个特定的系统。从功能上讲，团体袭击是通过团队协作检定探查目标(参见探查目标，第221页，SR4)。黑客和超链者可以一起进行团体袭击。如果检定成功，所有参与检定的黑客都可以访问该节点。代理和网精不能直接参与团队检定，但每个协助的代理或网精可以在主要角色的骰池中添加1个骰子(最多+5)。
+
+[spoiler]
+[size=14pt][b]MASS ATTACKS[/b][/size]
+
+A mass attack refers to a team of hackers pooling their resources to hack a particular system. Functionally, a mass attack is Probing the Target (see Probing the Target, p. 221, SR4) with a Teamwork Test. Hackers and technomancers can work together on mass attacks. If the test is successful, all of the participating hackers gain access to the node. Agents and sprites cannot participate directly in Teamwork Tests, but add +1 die to the prime character’s dice pool for each agent or sprite assisting (maximum +5).
+[/spoiler]
+
+[quote]
+[size=12pt][b]代码僵尸大军！[/b][/size]
+
+通过僵尸网络和团体袭击，玩家可能想知道为什么黑客不简单地派遣一个又一个代理去攻击一个节点。从统计学上讲，在某一时刻，骰子会掷出6，你就可以自由了。所以为什么要浪费时间和精力策划一次骇入呢?
+
+首先，具有相同访问ID的僵尸机将被阻止同时进入同一个节点(参见自主程序，第110页)。即使他们有不同的访问id，安保黑客也不傻。虽然前两到三个代理可能会被当作小孩子的玩耍或试图突破防火墙的垃圾邮件发送者而不予理会，但重复的尝试(特别是如果代理是相同的副本或来自同一节点)将引起怀疑，进而触发主动警报或吸引安保黑客调查并可能会追踪违规代理的来源，这些代理将被从节点的订阅账户列表中删除，两者之间的所有连接都将被拒绝。
+
+暴力破解方法——在矩阵战斗中派出一组代理强行通过一个节点——很少有效。大多数节点会迅速终止代理的连接和/或引入大量的IC来应对入侵者。因为它们缺乏真正的智能，代理通常容易受到简单策略的影响，比如破坏他们正在使用的程序。一旦解除武装，代理就会成为安保黑客和IC容易对付的目标。
+
+那么掌握大量的代理有什么意义呢？代理可以方便地同时出现在比您的通讯链所允许的更多的地方，可以帮助应对DOS攻击，还可以自动执行大规模探查和数据搜索等操作。精明的黑客更喜欢在使用自己的额叶上线来骇入节点之前，先看看代理对节点的表现如何。在必要时刻，代理也是确保你在矩阵战斗中拥有数量优势的好方法。
+
+[spoiler]
+[size=12pt][b]ARMY OF CODEZOMBIES![/b][/size]
+
+With botnets and mass attacks, players are probably wondering why hackers don’t simply send agent after agent to hack a node. Statistically, at some point the dice will roll sixes and you’ll be home free. So why waste the time and energy planning a hack?
+
+First, bots that have the same access ID will be blocked from entering the same node at the same time (see Autonomous Programs, p. 110). Even if they have different access IDs, security hackers aren’t stupid. While the first two or three agents might be dismissed as kids playing around or spammers trying to break through a firewall, repeated attempts (especially if the agents are identical copies or from the same node) will rouse suspicion, triggering an active alert or drawing a security hacker to investigate and possibly trace the source of the offending agents, which will be removed from the node’s subscriber list and all connections between the two refused.
+
+Brute force methods—sending a group of agents to force their way through a node in cybercombat—are rarely effective. Most nodes will quickly terminate the agents’ connections and/or bring in large numbers of IC to deal with the intruders. Because they lack true intelligence, agents are usually susceptible to simple tactics like crashing the programs they are using. Once disarmed, agents are easy game for security hackers and intrusion countermeasures.
+
+So what’s the point in having massive numbers of agents on hand? Agents are handy for being in more places at once than your commlink allows, for helping with denial of service attacks, and for automating actions like mass probing and data searches. Savvy hackers prefer to see how well an agent does against a node before they put their own frontal lobes on the line trying to hack it. In a pinch, agents are also a good way to ensure you have numbers on your side in cybercombat.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]黑客技巧[/b][/size]
+
+以下规则扩展了SR4和其他暗影狂奔产品中关于黑客的选项，着眼于回答关于访问赛博殖装、电子设备、纳米机器人和其他设备的挥之不去的问题。
+
+[spoiler]
+[b]HACKER TRICKS[/b]
+
+The following rules expand on the options presented in SR4 and other Shadowrun products on hacking, with an eye to answering lingering questions on accessing cyberware, electronics, nanites, and other devices.
+[/spoiler]
+
+[size=12pt][b]骇入赛博殖装[/b][/size]
+
+并不是所有的赛博殖装都是可以被破解的，尽管它足够让黑客感兴趣。要确定一个特定的赛博殖装是否可以被黑客入侵，必须满足以下条件(注意这些条件实际上适用于几乎所有设备，而不仅仅是赛博殖装):
+
+首先，赛博殖装必须计算机化——并非所有的殖装都需要一台内置电脑。然而，大多数赛博殖装要么是计算机化的(或至少配备了RFID传感标签)，以便它可以查询诊断，远程控制或通过直接的神经接口，或与其他殖装/设备通信。参见DNI和无线功能，第31页，Augmentation。
+
+其次，殖装必须能够被黑客通过有线或无线连接访问。大多数外部殖装(比如赛博义肢)只有有线连接，需要黑客物理接入才能访问设备。数据插口提供了一个直接的神经接口，可以立即访问所有的赛博殖装。许多内部殖装都有无线连接，以帮助医务人员进行诊断(如跳线反射)或连接到其他设备(如智能链)。内部殖装的信号等级往往很低(通常为0)，这意味着黑客需要在近距离攻击。这些殖装通常从属于角色的通讯链，所以黑客潜入主节点就可以访问其从属殖装。一些内部殖装(如皮质炸弹)没有无线或DNI连接，因此与其他系统隔离，黑客需要通过手术来进入并访问设备。
+
+如果满足了这些条件，黑客就可以按照正常的规则来攻击或欺骗赛博殖装。标准类型的赛博殖装的设备等级在第214页SR4中给出。一些殖装节点/数据传输可能被加密以获得额外的保护，黑客需要先解密它们(参见加密，第65页)。和其他设备一样，赛博殖装可以在其编程和功能的限制内进行操作。在大多数情况下，此类操作不需要对具有适当访问权限的人进行检定。对于超出操作参数或访问权限的命令，可能需要一个命令+骇入与系统+防火墙的对抗检定。提供一份详尽的可能性列表可能会占用太多空间，但以下是一些例子(游戏鼓励玩家和GM在设计其他选择时发挥创造性——通常情况下，GM拥有最终决定权):
+
+•赛博眼可以被关闭或崩溃，使目标失明。
+
+•以在黑客的赛博耳里播放预先录制或自行创建(使用计算机+编辑)的声音可，让目标听到东西。
+
+•可以将犯罪证据(例如伪造的枪击视频)下载到殖装的存储中，将被攻击者陷害为犯罪者。
+
+•殖装可能被激活(例如，触发足部锚殖装以防止某人逃跑)或关闭(关闭内部气罐，迫使他们呼吸)。
+
+•目标人物可能会因为停用DNI或被更改帐户权限(需要骇入+编辑检定)而无法控制自己的殖装。
+
+•控制一个殖装武器，并利用它攻击其他人，甚至是利用那个有赛博义肢的角色。
+
+[spoiler]
+[size=12pt][b]HACKING CYBERWARE[/b][/size]
+
+Not all cyberware is hackable, though enough is to make a hacker’s interest worthwhile. To determine if a particular cyber-implant can be hacked, the following criteria must be met (note that these criteria actually apply to almost all devices, not just cyberware): 
+
+First, the cyberware must be computerized—not all implants need a built-in computer. Most cyberware, however is either computerized (or at least equipped with RFID sensor tags) so that it may be queried for diagnostics, controlled remotely or via direct neural interface, or communicate with other implants/devices. See DNI and Wireless Functionality, p. 31, Augmentation.
+
+Second, the implant must be accessible by the hacker, via wired or wireless connection. Most external implants (like cyberlimbs) only have wired connections, requiring the hacker to physically jack in to access the device. A datajack provides immediate access to all cyberimplants with a direct neural interface. Many internal implants have wireless links to aid medical staff in running diagnostics (like wired reflexes) or to link to other devices (like a smartlink). The Signal rating of internal implants tends to be low (usually 0), meaning that a hacker needs to be in close range. Such implants are often slaved to the character’s commlink, however, so a hacker who infiltrates the master node can access slaved implants (see Slaving, p. 55). Some internal implants (such as cortex bombs) have no wireless or DNI connection and so are isolated from other systems, requiring surgery to allow a hacker to jack in and access the device.
+
+If these criteria are met, the hacker can attempt to hack or spoof the implant following normal rules. Device ratings for standard types of cyberware are given on p. 214, SR4. Some implant nodes/transmissions may be encrypted for extra protection, requiring that the hacker decrypt them first (see Encryption, p. 65). Like other devices, cyberware can be manipulated within the limits of its programming and functionality. In most cases, such actions require no test to someone with the proper access privileges. In the case of commands that exceed operational parameters or access privileges, an Opposed Test pitting Command + Hacking Test versus System + Firewall may be required. It would take too much space to provide an exhaustive list of possibilities, but here are a few examples (players and gamemasters are encouraged to be creative when devising other options—as always, the gamemaster has final say):
+
+• Cybereyes can be shut down or crashed to make the target blind.
+
+• Pre-recorded or self-created (using Computer + Edit) sounds could be played within hacked cyberears to make the target hear things.
+
+• Incriminating evidence (for example, forged smartlink footage of a shooting) could be downloaded into an implant’s memory, framing the victim for a crime.
+
+• The implant may be activated (for example, triggering foot anchor implants to keep someone from running away) or shut down (turning an internal air tank off, to force them to breathe).
+
+• The target character may be shut out of controlling his own implants by deactivating DNI or altering the account privileges (requiring a Hacking + Editing Test).
+
+• Seizing control of a cyberarm and using it to attack others, or even the cyberlimbed character.
+[/spoiler]
+
+[quote]
+[size=12pt][b]赛博殖装防护[/b]
+
+一个角色该如何保护他的赛博殖装免受黑客攻击?
+
+1.) 关闭或移除任何无线连接(见第31页，Augmentation)。
+
+2.) 使用直接的物理连接而不是无线连接(仅外部殖装)。
+
+3.) 保持低信号等级这样黑客就会在近距离攻击。
+
+4.) 使用一个好的防火墙程序。
+
+5.) 使用一个好的加密程序。
+
+6.) 保持静默模式。
+
+7.) 让殖装从属于你的安全通讯链(参见从属，第55页)。
+
+8.) 安装数据炸弹、ECCM或IC程序。
+
+[spoiler]
+[size=12pt][b]CYBERWARE DEFENSES[/b][/size]
+
+How can a character protect his cyberware from hacking? 
+
+1.) Turn off or remove any wireless links (see p. 31, Augmentation).
+
+2.) Use a direct physical connection rather than wireless (externally-accessible implants only).
+
+3.) Keep the Signal rating low so a hacker would have to be within close range.
+
+4.) Use a good Firewall program. 
+
+5.) Use a good Encryption program. 
+
+6.) Stay in hidden mode. 
+
+7.) Slave the implant to your secure commlink (see Slaving, p. 55).
+
+8) Install Data Bomb, ECCM, or IC programs.
+[/spoiler]
+[/quote]
+
+[size=12pt][b]骇入智能链和智能枪[/b][/size]
+
+智能枪和智能链都是低级的无线设备(信号等级为0)，智能枪的默认模式是私人访问——仅当购买枪支时注册的私人用户账户，用户也可以为他的朋友和盟友建立访客账户，而不是让任何人访问智能链和/或使用设备开火。为了防止他们的智能枪被黑，一些用户将智能枪设置为静默模式或禁用无线接入，并使用手腕内侧的皮肤链接或数据插口连接智能枪(光纤线也有助于在角色掉落枪支时更容易恢复)。
+
+通过智能链向智能枪发出命令是一个不需要检定的自由动作; 通过通讯链或任何其他无线设备向智能枪发出命令是一个简单动作，需要成功的计算机+命令(1)检定。如果两个角色想要操控同一个的智能枪，那就进行一个计算机+命令的对抗检定，获胜者将决定智能枪在这一轮中的作用。一些街头武士在他们的智能链中存储了一份命令程序的副本，专门用于这些检定。
+
+[spoiler]
+[size=12pt][b]HACKING SMARTLINKS AND SMARTGUNS[/b][/size]
+
+Smartguns and smartlinks are both low-level wireless devices (Signal 0), and the default mode for smartguns is private access—a primary user account is registered when the gun is purchased, and that user can set up guest accounts for friends and allies instead of letting anyone pick up the gun and access the smartgun link and/ or fire the device. To prevent their smartguns from being hacked, some users place the smartgun in hidden mode or disable the wireless access and use a skinlink or datajack located on the inside of the wrist to connect to the smartgun (the fiber optic cord also serves to make the gun easier to recover if the character drops it).
+Issuing commands to a smartgun through a smartlink is a Free Action that requires no test; issuing commands to a smartgun through a commlink or any other wireless device is a Simple Action and requires a successful Computer + Command (1) Test. If two characters are attempting to command the same smartgun, make an Opposed Computer + Command Test, with the winner determining what the smartgun does that round. Some street samurai store a copy of the Command program in their smartlinks specifically for these tests.
+[/spoiler]
+
+[size=12pt][b]错误诊断[/b][/size]
+
+默认情况下，赛博殖装(和其他配置为开放读取的电子设备)提供有关设备当前状态的信息，包括设备的官方名称和序列号、所有者、许可号、运行的操作系统版本、剩余的燃料或电力(如果适用)、关键温度、故障和上次维护、升级或修改的日期。黑客可以通过成功的软件+编辑检定更改部分个人数据(所有者，许可证号码); 改变任何其他信息需要黑客+编辑检定(难度阈值由GM决定)。在低安保级别的环境中，守卫不能准确地说出殖装是什么，一个带有有效许可证的错误诊断读数就足以让角色在没有太多检查的情况下通过。
+
+[spoiler]
+[size=12pt][b]FALSE DIAGNOSTICS[/b][/size]
+
+By default, cyberware (and other electronic devices configured for open access) provide information on the current state of the device, including the official designation and serial number for the device, the owner, the license number, the version of the operating system it is running, fuel or power remaining (if applicable), critical temperatures, malfunctions, and the date of the last maintenance, upgrade, or modification. A hacker can change some of the personal data (owner, license number) with a successful Software + Edit Test; changing any of the other information requires a Hacking + Edit Test (difficulty threshold determined by the gamemaster). In low-security settings where the guards cannot tell exactly what an implant is, a false diagnostic reading with a valid license can be enough to get the character through without too much scrutiny.
+[/spoiler]
+
+[size=12pt][b]骇入电子设备[/b][/size]
+
+一个角色可以识别一个不熟悉的电子设备，并通过成功的计算机+逻辑检定知道如何打开它。一旦设备启动，角色就可以访问它。大多数设备只有一个具有管理员权限的单一帐户，并且被配置为开放访问——任何人都可以访问并使用它们。更复杂和昂贵的设备可能有多个帐户和更有限的公共访问。
+
+设备通常具有有线接入(需要黑客物理接入)、无线接入或两者兼而有之。因为大多数硬件设备配置为开放存取，限制通常是固有的或预先编程的。绕过或修改设备上的硬件限制需要进行硬件+逻辑延续检定。参考SR4第125页的建设/修理表中的阈值和修正，间隔时间通常是10分钟(对于更大或更复杂的设备，间隔时间更长，这取决于GM的判断)。通常需要电子学工具箱(参见工具，第323页，SR4)或更好的工具。
+
+通常，电子设备只有一个单一的等级，设备等级(p. 212, SR4)，这是用来代替它的所有矩阵属性。GM可能会选择为特别重要的设备指定矩阵属性，而不是依赖于这种包罗万象的方法。当玩家角色试图在合法使用范围内操作设备时，他们会使用计算机+逻辑(用于设备的一般功能)，或计算机+程序等级(如果是在正常参数但不寻常的任务内); 如果玩家想让设备在合法参数之外发挥作用，那么就使用骇入+程序等级。
+
+[spoiler]
+[size=12pt][b]HACKING ELECTRONICS[/b][/size]
+
+A character can identify an unfamiliar electronic device and figure out how to turn it on with a successful Computer + Logic Test. Once the device is powered up, characters can access it. Most devices only have a single account with admin privileges and are configured for open access—anybody can come by and use them. More complicated and expensive devices may have multiple accounts and more limited public access.
+Devices generally feature wired access (requiring the hacker to physically jack in), wireless access, or both. Because most hardware devices are configured for open access, limitations are generally hardwired or preprogrammed in. Bypassing or modifying hardware limitations on a device requires a Hardware + Logic Extended Test. Refer to the Build/Repair Table on p. 125 of SR4 for the Threshold and modifiers, the Interval is usually 10 minutes (longer for larger or more complex devices, at the gamemaster’s discretion). A microtronics tool kit (see Tools, p.323, SR4) or better is typically required. 
+Generally, electronics only have a single rating, the Device rating (p. 212, SR4), which is used in place of all of its Matrix attributes. Gamemasters may choose to specify the Matrix attributes for particularly important device rather than rely on this catch-all. When a player character is attempting to manipulate the device within the bounds of legitimate use, they use Computer + Logic (for the general function of the device), or Computer + Program rating (if within the normal parameters but an unusual task); if the player wants to get the device to act outside of legitimate parameters, roll Hacking + Program rating.
+[/spoiler]
+
+[quote]
+[size=12pt][b]关于控制设备的说明[/b][/size]
+
+操控无人机的方法不止一种。其他通过矩阵控制的设备也是如此。这里有一个快速和方便的参考指南。
+
+[b]发出远程命令[/b]
+
+你可以使用一个简单动作(参见发布命令，第221,SR4页)远程命令你已订阅到你的化身(p. 221, SR4)的任何设备。你不需要和设备在同一个节点，只要它被订阅并且你的命令可以发送到它们。可以将多个设备控制为一个订阅，但这意味着它们都只能接收相同的命令。节点、设备、代理、无人机、网精等都可以通过这种方式进行命令。
+
+在这种情况下，被命令的设备独立地对指令进行操作。自驾+自动软件用于任何相关检定。如果命令很复杂，GM可以投自驾+响应等级来查看设备是否理解它们(参见第111页)。更复杂的命令可以通过脚本的方式发出(参见代理脚本，第105页)。
+
+[b]远程遥控[/b]
+
+与让设备自己操作相比，你也可以使用命令程序直接通过AR或VR访问它(参见遥控设备，第220页)。你必须登录到设备或订阅它到你的化身。该程序为你提供了一个虚拟界面，让你可以像玩视频游戏一样遥控设备。大多数设备都有内置的命令程序，如果你没有自己的，也可以运行它。
+
+远程遥控设备使用你的主动性。所有的检定都是由你使用命令+一个适当的技能。例如，要使用挂载位武器开火，你可以使用命令+自动枪械。要操控旋翼无人机绕树飞行，你可以使用命令+飞行驾驶加/减操控性。
+
+设备、代理和无人机都可以被远程遥控。
+
+[b]跳入[/b]
+
+你最后也是最直接的选择是通过全沉浸式VR使用简单动作“跳入”设备(参见跳入无人机，第239页，SR4)。这只可能发生在有机师适配的设备上(第341页，SR4)，通常是无人机和车辆。在罕见的情况下，其他设备也具有机师适配功能。
+
+以这种方式操纵的设备将根据机师的主动性行动，并使用机师的技能+适当的载具属性进行检定(参见通用机师/无人机检定，第105页)。
+
+[spoiler]
+[size=14pt][b]A NOTE ON COMMANDING DEVICES[/b][/size]
+There’s more than one way to rig a drone. The same is true for other devices controlled through the Matrix. Here’s a quick and handy reference guide.
+[b]ISSUE REMOTE COMMANDS[/b]
+You may remotely command any device that you have subscribed to your persona (p. 221, SR4) with a Simple Action (see Issuing Commands, p. 221, SR4). You do not need to be in the same node as the device, as long as it is subscribed and your command can reach them. Multiple devices may be controlled as a single subscription, but this means they all receive the same command. Nodes, devices, agents, drones, sprites, etc. may all be commanded this way. 
+In this case, the commanded device acts on the orders independently on its own action. Pilot + autosofts are used for any relevant tests. If the orders are complex, the gamemaster can roll Pilot + Response to see if the device comprehends them (see p. 111). More complicated orders can be issued in the way of scripts (see Agent Scripts, p. 105).
+[b]REMOTE CONTROL[/b]
+Rather than letting the device operate on its own, you may access it directly via AR or VR, using the Command program (see Controlling Devices, p. 220). You must either log in to the device or subscribe it to your persona. The program provides you with a virtual interface, allowing you to control the device like a video game. Most devices have built-in Command programs, which you can run if you lack your own. 
+A remote-controlled device acts on your Initiative. All tests are made by you, using Command + an appropriate skill. For example, to fire a gun emplacement, you would roll Command + Automatics. To maneuver a rotordrone around a tree, you would use Command + Pilot Aircraft +/– Handling. 
+Devices, agents, and drones may all be remote controlled
+this way.
+[b]JUMP IN[/b]
+Your final, and most direct, option is to “jump into” the device with a Simple Action via full-immersion VR (see Jumping Into Drones, p. 239, SR4). This is only possible with devices that have rigger adaptation (p. 341, SR4), typically drones and vehicles. In rare occasions, other devices will feature rigger adaptation. 
+Devices rigged this way act on the rigger’s Initiative, and tests are made using the rigger’s skill + appropriate vehicle attribute (see Common Rigger/Drone Tests, p. 105).
+[/spoiler]
+[/quote]
+
+---
+
+[size=12pt][b]骇入纳米体[/b][/size]
+
+单个的纳米机器人太小太简单，很难被单独攻击——或者如果你能成功控制它，也没有多大用处——整个纳米机器人集群太复杂了，甚至对于最复杂的群体操纵程序也是如此。相反，黑客们专注于访问和重编程纳米巢, 纳米传真系统，纳米锻炉，或开启和关闭纳米殖装(参见开启和关闭纳米殖装，第108页，Augmentation)。
+
+纳米体通常很大程度上不能被控制，但是硬纳米改造系统可以通过支持他们的纳米巢重编程。个人纳米巢可以通过无线访问(信号等级0)，并使用标准规则被黑客攻击或欺骗(参见骇入赛博殖装，第102页); 然后黑客就可以重编程纳米机器人(参见重编程硬纳米机器人，第107页，Augmentation)。为了节省时间，如果黑客有一个纳米系统的样本和一个电子商店，她可以提前编写程序，然后简单地使用伪造指令上传。
+
+纳米传真系统和桌面纳米锻炉具有广泛的防骇入保护。从理论上讲，这两种纳米制造设备都不会连接到矩阵上，除非它们期望进行软件升级或获得新的纳米结构图。与其他设备不同，纳米传真系统和桌面纳米锻炉通常像高级安保节点一样受到良好的保护，具有多级访问、链接密码或纳米技术密钥、加密、设置在非工作时间激活的数据炸弹和主动式IC。如果黑客成功访问了纳米传真系统或纳米锻炉，他们只能生产他们有正确原料的纳米制造设备和纳米结构图的产品。纳米传真系统还受到了进一步的限制，因为它们只能制造一种特定类型的设备，比如个人电子设备或手枪。如果一个纳米传真系统或桌面纳米锻炉遭到损坏(一个主动警报)，而不是关闭，那么它将自毁。被偷的纳米传真系统和桌面纳米锻炉通常会被以无线命令的方式自毁，或者当它们离开它们所在建筑物的wifi网络范围时自动自毁。
+
+纳米结构图保存在高等级的安保节点中，合法用户使用密码登录节点，然后节点会发送一个有效的许可号来验证他们的登录，该许可号被硬编码到纳米传真系统处理器中，进而下载结构图。从安保节点下载纳米结构图时会进行加密。如果角色可以访问纳米传真系统，找到许可号需要硬件+逻辑(4)检定。纳米传真系统许可号只适用于适当的匹配帐户。纳米结构图非常昂贵，而且很少出现在点对点文件共享网络上(参见盗版，第94页)。
+
+[spoiler]
+[size=12pt][b]HACKING NANITES[/b][/size]
+
+Individual nanites are too small and simple to be hacked individually—or for there to be much use if you managed it— and entire nanite colonies are too complex, even for the most sophisticated swarm-rigging programs. Instead, hackers focus on accessing and reprogramming nanohives, nanofaxes, and desktop forges, or triggering and shutting down nanoware (see Triggered and Shutting Down Nanoware, p. 108, Augmentation). 
+Nanites cannot normally be controlled to a great extent, but hard nanite systems can be reprogrammed from their supporting nanohive. Individual nanohives can be accessed wirelessly (Signal 0) and hacked or spoofed using the standard rules (see Hacking Cyberware, p. 102); the hacker can then get cracking reprogramming the nanites (see Reprogramming Hard Nanites, p. 107, Augmentation). To save time, if the hacker has a sample of the nanite system and a microtronics shop, she can write the program in advance and simply upload it using Spoof. 
+Nanofaxes and desktop forges have extensive protections against hacking. Typically, neither sort of nanomanufacturing device connects to the Matrix unless they are expecting a software upgrade or new nanoschematics. Unlike other devices, nanofaxes and desktop nanoforges are usually as well-protected as high-security nodes with multiple levels of access, linked passcodes or nanotech passkeys, encryption, data bombs set to activate during off-hours, and proactive IC. If a hacker does manage to access a nanofax or nanoforge, they’re limited to producing items that the nanomanufacturing device that they have the correct feedstocks to produce, and has nanoschematics for. Nanofaxes are further limited in that they can only create a specific type of gear, such as personal microtronics or pistols. If a nanofax or desktop nanoforge is compromised (an Active Alert) instead of shutting down it will self-destruct. Stolen nanofaxes and desktop nanoforges are typically ordered to self-destruct wirelessly, or do so automatically when they leave the range of the wifi network of the building they are in. 
+Nanoschematics are kept in high-level security nodes, and legitimate users download them by logging onto the node with their passcodes and then verify their log-on by sending a valid license number that is hard-coded into the nanofax processor. The nanoschematics are encrypted when downloaded from the secure node. Provided the character has access to a nanofax, finding the license number requires a Hardware + Logic (4) Test. A nanofax license number only works with the appropriate matching account. Nanoschematics cost serious nuyen, and few show up on peer-to-peer file sharing networks (see Piracy, p. 94)
+[/spoiler]
+
+[size=12pt][b]代理服务器[/b][/size]
+
+“代理服务器”是一个充当中间人的程序例程，将数据从用户(客户端)传输到另一个用户或节点。代理的优点是由它们作为中介，因此数据似乎来自代理而不是客户端。黑客和暗影狂奔者发现代理非常有用，无论是作为匿名邮件转发服务(混淆原始消息源)，还是挫败追踪企图。
+
+几乎任何节点都可以配置为代理服务器，尽管这通常需要管理员访问权限和计算机+编辑(10,1主动性流程)检定来设置(如果你没有管理员权限，使用骇入代替计算机)。一旦设置好，从客户端通过代理服务器节点发送的消息看起来将来自代理节点。为了确定消息的来源，黑客需要追踪消息到代理服务器节点，然后攻击该节点的访问日志(或者从该节点的管理员/所有者请求它，如果他们合作的话)。匿名代理服务器通常设置为不保留或删除消息传输日志。
+
+黑客也可以通过代理服务器进行链接，以此作为一种阻止追踪的手段。使用的每个代理服务器将追踪检定阈值增加4。但缺点是，每个代理服务器减少黑客的响应等级1。
+
+[spoiler]
+[size=12pt][b]PROXY SERVERS[/b][/size]
+
+A “proxy server” is a program routine that acts as a go-between, transferring data from a user (the "client") to another user or node. The advantage to proxies is that they act as an intermediary, so the data seems to be coming from the proxy rather than the client. Hackers and shadowrunners find proxies very useful both as anonymous remailers (obfuscating the original message source) and to foil tracking attempts. 
+Almost any node can be configured to act as a proxy server, though this typically requires admin access and a Computer + Edit (10, 1 Initiative Pass) Test to set-up (use Hacking in place of Computer if you do not have admin privileges). Once set up, messages that are sent from a client through the proxy server node will seem to have originated from the proxy node. In order to determine the source of a message, a hacker would need to trace the message back to the proxy server node and then hack that node’s access log (or request it from the admin/owner of the node, if they are cooperating). Anonymizing proxy servers are often set to not keep or to delete message transfer logs. 
+A hacker can also route his connection through a proxy server as a means of hindering traces. This increases the threshold by +4 for Tracking Tests for each proxy server used. The drawback, however, is that each proxy server reduces the hacker’s Response by 1.
+[/spoiler]
+
+[size=12pt][b]发现追踪[/b][/size]
+
+及时发现有人试图追踪你的数据轨迹(请参阅track, p. 219, SR4)有助于你重定向追踪或立即采用其他措施。为了发现追踪，你必须和启动追踪的尝试位于同一节点(例如，如果有人试图从你不在的节点的访问日志追踪你的数据轨迹，你将无法得知)。发现追踪需要一个矩阵侦察简单检定(1)。然而，如果追踪者试图保持隐匿追踪，你必须在一个分析+计算机对抗他们的追踪+隐藏的检定中击败他们。
+
+[spoiler]
+[size=12pt][b]SPOTTING TRACES[/b][/size]
+
+It can be advantageous to know when someone is trying to track your datatrail (see Track, p. 219, SR4), so that you can redirect the trace or otherwise make haste. In order to spot a trace, you must be in the same node that the track attempt is launched in (if someone is attempting to track your datatrail from the access log of a node you are no longer in, for example, you will not know). Spotting the trace requires a simple Matrix Perception Test (1) Test. However, if the tracker is trying to keep the trace discreet, you must beat them in an Opposed Test pitting your Analyze + Computer versus their Track + Stealth.
+[/spoiler]
+
+---
+
+[size=14pt][b]机师技巧[/b][/size]
+
+就像黑客一样，机师也有他们自己的小把戏。以下规则扩展了SR4和其他暗影狂奔产品中机师的选项，着眼于回答关于赛博殖装、干扰、生物无人机和赛博格的挥之不去的问题。
+
+[spoiler]
+[size=14pt][b]RIGGER TRICKS[/b][/size]
+
+Like hackers, riggers have their own bag of tricks. The following rules expand on the options presented in SR4 and other Shadowrun products on rigging, with an eye to answering lingering questions on cyberware, jamming, biodrones, and cyborgs.
+[/spoiler]
+
+[b]劫持生物无人机和赛博格[/b]
+
+生物无人机的控制软件(参见生物无人机控制软件，第152页，Augmentation)有一个设备等级(参见设备等级，第213页，SR4)，作为其防火墙，但玩家可能想知道缺乏自驾程序(除了那些有一个马镫界面的生物无人机)是否使它们更容易被黑客攻击或欺骗。答案是: 是的。生物无人机在抵制伪造指令或黑客攻击时只投它的设备等级对抗。
+
+赛博格也可能被劫持，但在这种情况下，机师用他们的技能对付熟练的黑客。一个明显的切入点是这个赛博格的集成通讯链——最好是发送伪造指令或通过无线方式入侵赛博格的无人机机体，你可以非常肯定这个赛博格会做出抵抗，而且很可能是通过矩阵战斗(参见骇入，第161页，Augmentation)。如果赛博格觉得受到了足够的威胁而关闭了它的通讯链，机师别无选择，只能靠近并强行物理接入——准备面对一个在肉界里被激怒的赛博格。
+
+更安全的做法是尝试在停机维护期间劫持赛博格的身体。在短时间内，当颅骨密封装置没有连接到它的时候，无人机的身体可以像平常一样被线连插入(把它当作普通的无人机，自驾等级为0)，尽管大多数情况下都需要机师物理接入无人机。
+
+[spoiler]
+[b]JACKING BIODRONES AND CYBORGS[/b]
+A biodrone’s control ‘ware (see Biodrone Control ‘Ware, p. 152, Augmentation) has a Device rating (see Device Rating, p. 213, SR4) that serves as its firewall, but players may wonder if the lack of a Pilot program (except for biodrones including a stirrup interface) makes them easier to hack or spoof. The answer: yes it does. A biodrone only rolls its Device rating when resisting spoofed commands or hacking. 
+Cyborgs may also be jacked, but in this case the rigger is setting their skills against a skilled hacker. The obvious point of entry is the cyborg’s integral commlink—perfect for sending spoofed commands or to hack the cyborg’s drone body wirelessly, which you can be damn sure the cyborg is going to resist, probably through cybercombat (see Hacking, p. 161, Augmentation). If the cyborg feels sufficiently threatened to shut off its commlink, the rigger has no option but to get in close and physically jack in—and face the prospect of a pissed-off cyborg in meat-space. 
+A safer bet is to try and jack a cyborg body during its maintenance downtime. For the brief period when the cranial containment unit isn’t attached to it, the drone body can be jacked as normal (treat it as a regular drone with a Pilot of 0), though most require the rigger to physically jack in to the drone body.
+[/spoiler]
+
+[b]即兴干扰[/b]
+
+机师几乎比其他任何角色都更依赖于无线信号来使用他们的专长，这意味着很少有机师是电子战的新手。有时你需要关闭另一个机师或黑客的链接，但没有可用的干扰器; 在这种情况下，你可以尽你所能地使用手边的无线电或无线发射器，把静电干扰注入对方使用的任何频道或波段。
+
+即兴干扰往往是一个嘈杂和困难的事情，但它可以工作——这是最重要的事情。即兴干扰是一个复杂动作，需要一些具有信号等级的设备(如通讯链、无线电或无人机)来充当即兴干扰器。使用机师的电子战技能+信号等级与目标的电子战+信号等级进行对抗检定，目标将她运行的任何ECCM程序的等级添加到她的骰池中进行检定。如果对抗检定成功，信号被干扰; 否则不受影响。即兴干扰是区域干扰，影响的是一个球形区域——每远离中心5米，即兴干扰者的信号等级降低1。
+
+一个被用作即兴干扰器的设备不能将其无线能力用于其他任何事情。例如，一个通讯链不能在被用作即兴干扰器的同时连接到矩阵。
+
+[spoiler]
+[b]JAMMING ON THE FLY[/b]
+More than almost any other character, riggers are dependent on wireless signals in order to use their specialty, which means that few riggers are strangers to electronic warfare. Sometimes you need to shut down another rigger or hacker and don’t have a jammer available; in such circumstances you do the best that you can with whatever radio or wireless transmitter you have on hand, spitting static into whatever channels or bands the opposition is using. 
+Jamming on the fly tends to be a noisy and difficult affair, but it can work—and that’s the important thing. Jamming on the fly is a Complex Action and requires some device with a Signal rating (such as a commlink, radio, or drone) to act as an impromptu jammer. Make an Opposed Test between the rigger’s Electronic Warfare skill + Signal rating and the target’s Electronic Warfare + Signal rating; the target adds the rating of any ECCM program she has running to her dice pool for the test. If the Opposed Test is successful, the signal is jammed; otherwise it is unaffected. Jamming on the fly is area jamming and affects a spherical area—the impromptu jammer’s Signal rating is reduced by 1 for every five meters from the centre. 
+A device being used as an impromptu jammer cannot use its wireless capability for anything else. A commlink, for example, could not connect to the Matrix at the same time it is being used as an impromptu jammer.
+[/spoiler]
+
+[quote]
+[size=14pt][b]常见机师/无人机检定表[/b][/size]
+
+[table]
+[tr][td][b]动作类型[/b][/td][td][b]机师跳入骰池[/b][/td][td][b]自驾无人机骰池[/b][/td][td][b]遥控设备骰池[/b][/td][/tr]
+[tr][td]主动性[/td][td]同机师[/td][td]自驾+响应能力[/td][td]同机师[/td][/tr]
+[tr][td]攻击[/td][td]传感器+炮术[/td][td]自驾+瞄准[/td][td]指令+炮术[/td][/tr]
+[tr][td]近战防御[/td][td]响应能力+近战技能[/td][td]自驾+防御[/td][td]指令+近战技能[/td][/tr]
+[tr][td]远程防御[/td][td]响应能力[/td][td]响应能力[/td][td]指令[/td][/tr]
+[tr][td]全防御[/td][td]同上+闪避[/td][td]同上+防御[/td][td]同上+闪避[/td][/tr]
+[tr][td]伤害抵抗[/td][td]机体+护甲[/td][td]机体+护甲[/td][td]机体+护甲[/td][/tr]
+[tr][td]潜行[/td][td]响应能力+潜行[/td][td]自驾+隐秘行动[/td][td]指令+潜行[/td][/tr]
+[tr][td]机动[/td][td]响应能力+载具技能[/td][td]自驾+机动[/td][td]指令+载具技能[/td][/tr]
+[tr][td]侦察[/td][td]传感器+侦察[/td][td]传感器+清晰视像[/td][td]传感器+侦察[/td][/tr]
+[/table]
+
+[spoiler]
+[size=14pt][b]COMMON RIGGER/DRONE TESTS[/b][/size]
+
+[table]
+[tr][td][b]Action[/b][/td][td][b]Jumped-In Rigger Dice Pool[/b][/td][td][b]Autonomous Drone Dice Poo[/b]l[/td][td][b]Remote-Controlled Dice Pool[/b][/td][/tr]
+[tr][td]Initiative[/td][td]as rigger[/td][td]Pilot + Response[/td][td]as rigger[/td][/tr]
+[tr][td]Attack[/td][td]Sensor + Gunnery[/td][td]Pilot + Targeting[/td][td]Command + Gunnery[/td][/tr]
+[tr][td]Melee Defense[/td][td]Response + Melee skill[/td][td]Pilot + Defense[/td][td]Command + Melee skill[/td][/tr]
+[tr][td]Ranged Defense[/td][td]Response[/td][td]Response[/td][td]Command[/td][/tr]
+[tr][td]Full Defense[/td][td]as above + Dodge[/td][td]as above + Defense[/td][td]as above + Dodge[/td][/tr]
+[tr][td]Damage Resistance[/td][td]Body + Armor[/td][td]Body + Armor[/td][td]Body + Armor[/td][/tr]
+[tr][td]Infiltration[/td][td]Response + Infiltration[/td][td]Pilot + Covert Ops[/td][td]Command + Infiltration[/td][/tr]
+[tr][td]Maneuvering[/td][td]Response + Vehicle skill[/td][td]Pilot + Maneuver[/td][td]Command + Vehicle skill[/td][/tr]
+[tr][td]Perception[/td][td]Sensor + Perception[/td][td]Sensor + Clearsight[/td][td]Sensor + Perception[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+---
+
+[color=brown][size=16pt][b]电磁脉冲[/b][/size][/color]
+
+电磁脉冲(EMP)对电子设备的运行是如果不是破坏性的也是有害的。EMP会擦除标准RFID标签，但不会擦除数据芯片等基于光的存储媒体。在影响范围内的任何非光学和非硬化电路也将被中断或损坏。2070年的大多数电子设备都是基于光学的，但接口、电力系统等可能仍然很脆弱，特别是在陈旧的系统上。基于GM的判断，受影响的系统可能遭受数据丢失，断电，或被完全烧坏。无线接收和无线电通信也将短暂中断，这将影响该地区的任何无线节点、通讯链和超链者。
+
+电磁脉冲有一个等级，决定了它们的强度和影响范围。为了确定对特定设备的损害，对EMP等级和受到攻击的电子设备的设备等级(参见设备等级，第213页，SR4)进行对抗检定。如果角色将EMP瞄准特定的设备，在进行对抗检定时，将角色的电子战技能添加到EMP等级中。利用净成功来衡量对设备造成的损害。比较EMP的等级与SR4第212页的信号等级表，以确定影响面积。受EMP影响的无人机和载具也可能撞车(见撞车，第161页，SR4)。
+
+无线中断的瞬间不足以从矩阵中删除一个图标；它的实时持续时间不到一秒。然而，受影响的图标不能在被脉冲击中的战斗回合中行动(或被影响)。许多旧的赛博殖装和车辆很容易受到电磁脉冲的攻击，应该进行损伤检定。法拉第笼(完全围绕人物或装置的金属盒或金属网)内的个人和设备受到电磁脉冲的完全保护；因此，一个赛博格的CCU是完全受保护的，但它驾驶的无人机身体可能不是。如果一个人或设备在一个被无线抑制油漆或墙纸包围的容器中，将与其等级相等的骰子加到对抗检定的设备等级上。
+
+[spoiler]
+[size=16pt][b]EMP[/b][/size]
+
+An electromagnetic pulse (EMP) is detrimental, if not destructive, to the operation of electronics. An EMP erases standard RFID tags but not optical-based storage media like datachips. Any non-optical and non-hardened electronic circuits within the area of effect will also be disrupted or damaged. Most "electronics" in 2070 are optical-based, but interfaces, power systems, and the like may still be vulnerable, especially on archaic systems. Affected systems may suffer data loss, power outages, or burn out entirely at the gamemaster’s discretion. Wireless reception and radio communication will also be disrupted for a brief instant, which affects any wireless-only nodes, commlinks, and technomancers in the area. 
+EMPs have a rating that determines their intensity and area of effect. To determine the damage to a specific device, make an Opposed Test between the EMP’s rating and the Device rating (see Device Rating, p. 213, SR4) of the vulnerable electronic device. If a character is aiming the EMP at a specific device, add the character’s Electronic Warfare skill to the EMP’s rating when making the Opposed Test. Use the number of hits garnered to gauge the damage done to the device. Compare the EMP’s rating to the Signal Rating Table on p. 212 of SR4 to determine the area of effect. Flying drones and vehicles affected by an EMP may also crash (see Crashing, p. 161, SR4). 
+
+The moment of wireless disruption is not sufficient to drop an icon from the Matrix; it lasts less than a second in real-time. However, the affected icons cannot act (or be affected) during the Combat Turn that the pulse hits. Many older cyberware implants and vehicles are vulnerable to EMPs and should test for damage. Individuals and devices within a Faraday cage (a metal box or wire mesh that completely surrounds the character or device) are completely protected from an electromagnetic pulse; a cyborg’s CCU is thus completely protected, but the drone body it drives may not be. If an individual or device is in a volume surrounded by wireless-inhibiting paint or wallpaper, add dice equal to their rating to the Device rating on the Opposed Test.
 [/spoiler]
