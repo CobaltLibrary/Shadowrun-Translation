@@ -1,0 +1,102 @@
+[color=brown][size=16pt][b]虫群生物无人机[/b][/size][/color]
+
+虫群不是典型意义上的生物无人机，即机师可以跳入的实体。相反，虫群是由大量单独的、经过殖装强化的昆虫组成，它们被生产出来以完成特定的任务。虫群可以作为一个整体被控制，单个成员由一个群体思维指挥，这是一个分布式计算系统，同时处理每个成员的输入并分享结果。虫群的处理方式也与其他动物不同，因为它们由成千上万的个体昆虫组成，与它们互动或与它们战斗与遇到其他对手非常不同。
+
+[spoiler]
+[size=14pt][b]BIODRONE SWARMS[/b][/size]
+
+Swarms are not biodrones in the typical sense of an entity that a rigger can jump into. Rather, a swarm consists of large numbers of individual cybernetically-enhanced insects that are produced to fulfill a specific task. The swarm can be controlled as a whole, but the individual members are guided by a group mind, a distributed computing system that processes the input from each member and shares results. Swarms are also treated differently from other critters in that they consist of thousands of individual insects, and interacting with them or fighting them is very different from encountering other opponents.
+
+[/spoiler]
+
+[size=14pt][b]虫群规则[/b][/size]
+
+为简单起见，整个虫群被作为一个单一的动物个体进行统计，尽管它的体质属性不是对应于质量和身体大小，而是对应于虫群规模的相对大小。每增加一点体质属性，虫群中的昆虫数量就增加一倍，体质属性为1的虫群大约有5只昆虫，体质属性为9的虫群略多于1250只(作为指导，体质属性也代表一个飞行虫群在完全伸展的情况下所能覆盖的立方米空间的数量)。虫群对非区域效应的攻击是有效免疫的。枪击、近战武器和徒手攻击可以在这里和那里压死一只昆虫，但总的来说，对虫群的伤害是可以忽略不计的。虫群生物无人机也对单一目标的法术免疫，但它们仍然很容易受到区域法术的影响。
+
+虫群不具备正常的CM。相反，受到区域攻击伤害的虫群会正常使用其体质属性来抵御伤害。任何剩余的伤害都会直接减少虫群的体质属性。例如：一个体质属性9的虫群被卷入6P的手榴弹爆炸中，掷了3个成功以减少伤害。剩下3P的DV直接从虫群的体质属性中减去，留下一个体质属性为6的虫群。
+
+一个虫群可以分裂成两个较小的虫群，其体质属性比母虫群低一点，或四个虫群，其体质属性比母虫群低两点，以此类推。同样地，两个相同体质属性的虫群可以合并成一个大一点体质属性的虫群。为了简单起见，不具备相同体质属性的虫群会合并成一个体质属性较低的虫群。
+
+使用VGI技术培育的虫群通常在被称为虫巢的容器中运输，直到它们被部署。根据虫群的类型，虫巢可以是一个简单的容器，为昆虫提供养料，也可以是一个复杂的中继和控制站，指挥虫群的行动。有些虫巢足够稳固，可以通过导弹、迫击炮或无人机将它们送到目标区域。
+
+虫群中的每只昆虫通常都配备了一个信号强度为0的收发器(3米范围)，尽管每只昆虫都作为信号中继站工作，使得虫群有可能覆盖比单个信号强度更大的区域。虫群还可以利用其他友好的中继设备，如配备通讯链的无人机或士兵，或配备通信设备的虫巢。
+
+[spoiler]
+[size=14pt][b]SWARM RULES[/b][/size]
+
+For simplicity, an entire swarm is given stats as a single animal, though its Body attribute corresponds not to mass and body size, but the relative size of the swarm. Each Body increment doubles the number of insects in a swarm, with a Body 1 swarm numbering about 5 insects and a Body 9 slightly more than 1250 (as a guideline, Body also represents the number of cubic meters of space an airborne swarm can cover if fully extended). Swarms are effectively immune to non-area effect attacks. Gunfire, melee weapons and unarmed attacks can squash an insect here and there, but on the whole damage to the swarm will be negligible. Biodrone swarms are also immune to single target spells, though they remain vulnerable to area spells.
+
+Swarms do not possess normal damage boxes. Instead, a swarm that suffers damage from an area attack uses its Body attribute to reduce the damage as normal. Any damage that remains directly reduces the swarm’s Body. For example: a Body 9 Swarm is caught in a 6P grenade blast, rolling 3 hits to reduce damage. The remaining DV of 3P is subtracted directly from the Swarm’s Body, leaving a Swarm with Body 6. 
+
+A swarm can split up into two smaller swarms with a Body rating one lower than the parent swarm, or four swarms with a Body rating 2 lower than the parent swarm, and so on. Similarly, two swarms of the same Body can merge to form a swarm one Body point larger. For simplicity’s sake, swarms that don’t possess the same Body merge into a swarm with the lesser of the two Body values. 
+
+VGI-grown swarms are usually transported in containers called hives, until they are deployed. Depending on the swarm type, the Hive can be a simple container that supplies sustenance to the insects, or it can be a complicated relay- and control station that guides the actions of the swarms. Some hives are robust enough to deliver them to a target zone by missile, mortar, or drone. 
+
+Each insect in a swarm is typically equipped with a Signal Rating 0 transceiver (3 meter range), though each insect works as a signal relay, making it possible for a swarm to cover a much larger area than the individual Signal rating suggests. The swarm can also make use of other friendly relay devices, such as drones or soldiers equipped with commlinks or hives with communication equipment.
+[/spoiler]
+
+[size=14pt][b]虫群范例[/b][/size]
+
+以下是目前企业和军队最常见的生物无人机虫群。
+
+[b]嗅探虫群：[/b] 嗅探虫群中的每只昆虫都配备了一个微型传感器，如化学嗅探器、辐射探测器、光电二极管或寻声麦克风。如果有信号中继器(如装有通讯链的虫巢或普通无人机)，嗅探虫群的工作效果最好，可以提高范围。嗅探虫群在其感知的任何空间内形成精确的大范围体积地图，可用于绘制化学品浓度和精确定位来源(如炸药)，通过视觉或听觉准确定位和识别人群中的每个人，也可以分散开来快速搜索大片区域。
+
+嗅探虫群的作用就像一个传感器，其等级等于虫群的体质属性，同时覆盖一个10米×10米的方形区域。覆盖范围每增加一倍，传感器等级就减少1，但覆盖范围每减少一半，传感器等级就增加1。目标区域内的任何东西都算作直接接近传感器。
+
+嗅探虫群也可以用来指导间接射击。获取目标需要进行体质(3)检定，每超过阈值一点，间接攻击检定就增加1DP。嗅探虫群通常有3个月的寿命，是最长寿的虫群类型。
+
+[b]毒刺虫群：[/b] 毒刺虫群是攻击型虫群。每只昆虫(通常是改良过的黄蜂或蚊子)都携带一个传递系统(咬伤或刺伤)和一个可注射毒素的储存器。最受欢迎的毒药往往是肉毒杆菌毒素或类似的生物毒素。另外，毒刺虫群可以携带任何种类的血液制剂，包括疾病和纳米技术。
+
+当虫群攻击时，将其视为单一动物使用适当的近战技能。防御者可以像往常一样闪避。如果角色穿着化学密封的衣服或盔甲，虫群就不能影响他。虫群每获得一个净成功，就会注射一剂量的毒素；咬伤或刺伤本身的伤害可以忽略不计。根据GM的决定，穿着厚重衣服的角色可以在他们的抗毒检定中额外获得1到3DP。
+
+毒刺虫群的指令集非常简单：要么虫群会攻击所有具有特定特征(通常是一种气味或一种颜色)的人，要么会避开具有该特征的人而攻击其他所有人。一个典型的瞄准关键是目标的信息素特征。通常情况下，毒刺虫群的指令被硬编码进昆虫的神经系统，减轻了沟通的需要。更复杂的毒刺虫群则保留了它们的网络，以更快地猎杀目标，并以更高的效率对威胁作出反应。
+
+[b]萤火虫群：[/b] 萤火虫群，也被称为“爆炸虫群”，会在胃囊中储存一种二元炸药(通常是一种燃料空气炸药)。一旦它们到达目的地，在点燃之前，化学品会被分配到最大的效果。萤火虫很难用标准的化学嗅探器发现。虫群的集体有效载荷以DV(2 x 虫群当前体质属性)P的区域效应引爆。对于大型萤火虫群来说，最受欢迎的战术是在点火前分成多个小的萤火虫群包围目标，从而达到最大的效果。
+
+[spoiler]
+[size=14pt][b]Swarm Examples[/b][/size]
+ 
+The following represent the most common biodrone swarms currently fielded by corporations and militaries: 
+
+[b]Sniffer Swarm:[/b] Each insect in a sniffer swarm is equipped with a single microsensor such as a chem sniffer, rad detector, photodiode, or microphone. The sniffer swarm works best if signal relays (such as commlink-equipped hives or regular drones) are available to boost the range. The sniffer swarm creates an accurate large area volume map of whatever space it is sensing, which can be used to map out chemical concentrations and pinpoint sources (such as explosives), accurately locate and identify every individual in a crowd either by sight or by sound, or it can be spread out to rapidly search large areas. 
+
+A sniffer swarm acts like a sensor with a rating equal to the Body rating of the swarm, while covering a 10 meter x 10 meter square area. For every doubling of the area, reduce the rating by 1, but for every halving of the area, increase it by 1. Anything in the target area counts as being in direct proximity to the sensor. 
+
+The sniffer swarm can also be used to direct indirect fire. A Body (3) Test is required to acquire the target, with every additional hit over the threshold adding one die to the indirect attack roll. Sniffer swarms usually have a lifetime of 3 months and are the most long-lived swarm type. 
+
+[b]Stinger Swarm:[/b] Stinger swarms are attack swarms. Every insect (typically a modified wasp or mosquito) carries a delivery system (bite or sting) and a reservoir of an injectable toxin. Favored poisons tend to be botulin toxin or similar biotoxins. Alternately stinger swarms can carry any kind of blood agent, including diseases and nanites. 
+
+When the swarm attacks, treat it as single critter using the appropriate Melee skill. The defender may Dodge as usual. If the character wears environmentally-sealed clothing or armor, the swarm cannot affect him. For every net hit the swarm scores, 1 dose of the toxin is injected; the bite or sting itself does negligible damage. At the gamemaster’s discretion, characters wearing heavy clothing may gain 1 to 3 dice on their Toxin Resistance Test. 
+
+The command set for stingers is very simple: either the swarm will attack all people with a specific characteristic (usually a smell or a color), or it will avoid the people with that characteristic and attack everyone else. A typical targeting key will be the target’s pheromone signature. Frequently, the command for a stinger swarm is hard-wired into the insects’ nervous systems, alleviating the need for communication. More sophisticated stingers retain their networking to hunt down targets quicker and react to threats with greater efficiency. 
+
+[b]Fireflies:[/b] Fireflies, also called "boom swarms" store a binary explosive (typically a fuel-air explosive) in stomach sacs. Once they reach their destination, the chemicals are distributed for maximum effect before ignition. Fireflies are very difficult to detect with standard chemsniffers. The swarm’s collective payload detonates with DV of (2 x swarm’s current Body attribute)P area effect. A favored tactic for large firefly swarms is to split into multiple smaller swarms that surround the target before ignition, thus hitting it for maximum effect.
+[/spoiler]
+
+[size=14pt][b]飞行虫群范例[/b][/size]
+
+[table]
+[tr][td][b]体质[/b][/td][td][b]敏捷[/b][/td][td][b]反应[/b][/td][td][b]力量[/b][/td][td][b]魅力[/b][/td][td][b]直觉[/b][/td][td][b]逻辑[/b][/td][td][b]意志[/b][/td][td][b]极限[/b][/td][td][b]精华[/b][/td][td][b]主动性[/b][/td][td][b]主动性流程[/b][/td][/tr]
+[tr][td]变量[/td][td]8[/td][td]8[/td][td]0[/td][td]1[/td][td]4[/td][td]2[/td][td]3[/td][td]2[/td][td]变量[/td][td]10[/td][td]2[/td][/tr]
+[/table]
+[table]
+[tr][td][b]嗅探虫群：[/b][/td][td]方向指示器，单个传感器[/td][/tr]
+[tr][td][b]毒刺虫群：[/b][/td][td]自动注射器，赛博腺体，方向指示器[/td][/tr]
+[tr][td][b]萤火虫群：[/b][/td][td]炸药(见描述)，方向指示器[/td][/tr]
+[/table]
+
+[spoiler]
+[size=14pt][b]TYPICAL FLYING SWARM[/b][/size]
+
+[table]
+[tr][td][b]B[/b][/td][td][b]A[/b][/td][td][b]R[/b][/td][td][b]S[/b][/td][td][b]C[/b][/td][td][b]I[/b][/td][td][b]L[/b][/td][td][b]W[/b][/td][td][b]EDG[/b][/td][td][b]ESS[/b][/td][td][b]Init[/b][/td][td][b]IP[/b][/td][/tr]
+[tr][td]Variable[/td][td]8[/td][td]8[/td][td]0[/td][td]1[/td][td]4[/td][td]2[/td][td]3[/td][td]2[/td][td]Variable[/td][td]10[/td][td]2[/td][/tr]
+[/table]
+[table]
+[tr][td][b]Sniffer Cyberware:[/b][/td][td]Orientation Goad, one sensor[/td][/tr]
+[tr][td][b]Stinger Cyberware:[/b][/td][td]Autoinjector, Cybergland, Orientation Goad[/td][/tr]
+[tr][td][b]Firefly Cyberware:[/b][/td][td]Bomb (see description), Orientation Goad[/td][/tr]
+[/table]
+[/spoiler]
+
+* 摘自SR4e ARGUMENTATION BIODRONE SWARMS
