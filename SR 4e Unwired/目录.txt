@@ -46,7 +46,7 @@ PAN的拓扑结构 P.58-59
 
 [b][size=12pt]黑客手册[/size][/b]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=134187.0]黑客手册 章首故事 P.80 [/url]
-[b]设定[/b]
+[b]背景设定[/b]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128342.0]灰与黑 P.82-84 [/url]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128343.0]专业工具 P.85-88 [/url]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128344.0]战争艺术 P.88-92 [/url]
@@ -68,10 +68,10 @@ PAN的拓扑结构 P.58-59
 软件套组 P.127-128
 
 [b][size=12pt]超链者[/size][/b]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=128332.0]超链者 章首故事 P.129 [/url] [color=green] [待修正] [/green]
-[b]浮现[/b]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=128333.0]浮现：背景设定 P.130-135 [/url] [color=green] [待修正] [/green]
-[b]新的超链者规则[/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128332.0]超链者 章首故事 P.129 [/url]
+[b]背景设定[/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128333.0]浮现 P.130-135 [/url]
+[b]进阶超链者规则[/b]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128334.0]生体PAN、生物节点、新复合程式 P.135-136 [/url] [color=green] [待修正] [/green]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128337.0]共鸣支流 P.136-140 [/url] [color=green] [待修正] [/green]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128338.0]深潜、深潜任务、超链者网络 P.140-144 [/url] [color=green] [待修正] [/green]
