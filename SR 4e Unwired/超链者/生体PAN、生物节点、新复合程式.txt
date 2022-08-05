@@ -36,7 +36,7 @@ When a technomancer goes online, his living persona acts as a biological commlin
 
 [b]运行模式和扫描检测[/b]
 
-超链者的有机节点一直被认为是静默模式;它们不能以主动或被动模式运行。生物节点很难用标准的无线节点扫描来检测，因为它们不遵循标准的无线设备应答协议。然而，它们确实会发射无线电信号，所以它们可以像静默模式下的节点一样被定位(参见探测无线节点，第225页，SR4)。一个希望“静默运行“的超链者可以关闭他的无线电发射，使他自己不被无线电扫描仪检测到，尽管大多数超链者发现这种状态是不舒服的，特别是长时间运行。他还可以进入”接收模式”，这允许他接收无线电传输，但仍然不被扫描仪检测到，但这禁止任何需要订阅的连接(记住，大多数数据交易是双向的)。
+超链者的有机节点一直被认为是静默模式：它们不能以主动或被动模式运行。生物节点很难用标准的无线节点扫描来检测，因为它们不遵循标准的无线设备应答协议。然而，它们确实会发射无线电信号，所以它们可以像静默模式下的节点一样被定位(参见探测无线节点，第225页，SR4)。一个希望“静默运行“的超链者可以关闭他的无线电发射，使他自己不被无线电扫描仪检测到，尽管大多数超链者发现这种状态是不舒服的，特别是长时间运行。他还可以进入”接收模式”，这允许他接收无线电传输，但仍然不被扫描仪检测到，但这禁止任何需要订阅的连接(记住，大多数数据交易是双向的)。
 
 超链者与任何电子设备一样容易受到干扰(225页，SR4)。
 
@@ -57,7 +57,7 @@ Like mobile wireless devices, the biological node of a technomancer is difficult
 
 [b]订阅和流量[/b]
 
-超链者按照正常规则订阅和连接无线设备(例如无人机)到他们的生物节点。超链者的订阅列表可以无限制，但其可在任何时间主动订阅(访问)的节点、代理或无人机数量上限为其系统x2; 这是超链者的基础神经一次能处理的最大流量。网精不需要由超链者订阅。
+超链者按照正常规则订阅和连接无线设备(例如无人机)到他们的生物节点。超链者的订阅列表大小不受限制，但其可在任何时间主动订阅(访问)的节点、代理或无人机数量上限为其系统x2; 这是超链者的基础神经一次能处理的最大流量。网精不需要由超链者订阅。
 
 尽管对方的黑客不能扫描或进入超链者的生物节点，他可以感知和拦截超链者和电子节点(像无人机或设备)之间的无线通信，如第225页SR4中提到的。黑客甚至可以伪造超链者发出的信号，因为来自生物节点的通信必须是设备能够理解的电子格式，因此很容易被伪造。然而，黑客不能伪造对网精的命令(尽管超链者可能伪造这些命令)。
 
@@ -88,8 +88,7 @@ While sleeping, technomancers may decide to stay connected to the Matrix—for e
 
 [spoiler]
 HACKING THE BIOLOGICAL NODE 
-While the biological node is impenetrable to hackers, it is
-vulnerable to technomancers and sprites, who are “on the same wavelength,“ wirelessly speaking. Technomancers and sprites can locate and hack other technomancers’ biological nodes per normal rules, although one cannot probe a technomancer for weakness. Hacking a technomancer is always considered to be a hacking in on the fly for an ”admin account” (+6 threshold modifier). 
+While the biological node is impenetrable to hackers, it is vulnerable to technomancers and sprites, who are “on the same wavelength,“ wirelessly speaking. Technomancers and sprites can locate and hack other technomancers’ biological nodes per normal rules, although one cannot probe a technomancer for weakness. Hacking a technomancer is always considered to be a hacking in on the fly for an ”admin account” (+6 threshold modifier). 
 If the technomancer possesses the Analyze complex form, he subconsciously tries to recognize the intruder. He can send compiled or registered sprites on "patrol" in his biological node. This expends one task. Alarms caused by the technomancer (or sprite) have the same in-game effect as in a normal node, as the technomancer’s electroimmune system attempts to shut out the intruder. The technomancer can also project into his biological node and engage an intruder in cybercombat (and most will). 
 Note that biological nodes may not be encrypted.
 [/spoiler]
@@ -136,7 +135,7 @@ In theory, a technomancer can adapt any piece of software by mimicking the progr
 
 复合程式与程序选项:复合程式的选项必须以每个程序选项或每程序选项等级2业力的价格购买(每个选项在角色创建时的点数为1BP)。一个复合程式可以配备相当于其等级一半数量的选项。有关程序选项的线程化，请参阅第148页。一旦购买了选项，超链者就可以在每次使用复合程式时选择是否使用该选项。
 
-护盾:由于矩阵伤害总是直接影响他们的活体化身，超链者比普通矩阵使用者更依赖防御措施。护盾复合程式使超链者能够避开和反击针对他的战斗的代码攻击。护盾复合程式的每一个等级都给矩阵防御骰池增加1个骰子。
+护盾复合程式：由于矩阵伤害总是直接影响他们的活体化身，超链者比普通矩阵使用者更依赖防御措施。护盾复合程式使超链者能够避开和反击来自战斗设施的针对他的代码攻击。护盾复合程式的每一个等级都给矩阵防御骰池增加1个骰子。
 
 [spoiler]
 [size=12pt][b]ADVANCED COMPLEX FORMS[/b][/size]
