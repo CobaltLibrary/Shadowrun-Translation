@@ -99,4 +99,4 @@ The command set for stingers is very simple: either the swarm will attack all pe
 [/table]
 [/spoiler]
 
-* 摘自SR4e ARGUMENTATION BIODRONE SWARMS
+* 摘自SR4e Argumentation Biodrone Swarms
