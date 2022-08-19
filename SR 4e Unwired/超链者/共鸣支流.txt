@@ -1,239 +1,300 @@
-[size=12pt][b]共鸣支流[/b][/size]
+[color=brown][size=16pt][b]共鸣支流[/b][/size][/color]
 
-虽然超链者的浮现在某些方面与法师的觉醒相似，但超链者不会为了形象化他们的能力而求助于巫术、萨满教等神话概念。在很大程度上，古老的宗教和文化未能融入数字领域。相反，超链者发明了他们自己的新理念系统，被一些人称为“支流”，似乎提供了关于他们本质的一些答案，并帮助他们在第六纪找到并获得一个新的位置。
+虽然超链者的浮现在某些方面与法师的觉醒类似，但超链者不会为了形象化他们的能力而求助于巫术、萨满教或其他迷信或深奥的教义等神话概念。在大多数情况下，古老的宗教和文化都未能融入数字领域。相反，超链者发明了他们自己的新信仰系统，被一些人称之为“支流”，这似乎提供了关于他们本质的一些答案，并帮助他们在第六纪找到并占据一个新位置。
 
-支流仍然在发展，还没有像觉醒社区的范例那样定型。遵循着同样的参数的超链者——正如一些人所说的“搭乘同一条支流”——已经开始将他们的信念编纂和精简，为刚刚浮现的超链者铺平了道路。
+支流仍然在发展中，还没有像觉醒者社区的范式那样定型。遵循着同一套参数的超链者——正如一些人所说的“追随同一条支流”——已经开始将他们的信仰编纂和精简，为刚刚浮现的超链者铺平了道路。
 
 [spoiler]
-RESONANCE STREAMS
+[color=brown][size=16pt][b]RESONANCE STREAMS[/b][/size][/color]
+
 Though a technomancer’s Emergence is similar in some ways to a magician’s Awakening, technomancers do not resort to mythical concepts like witchcraft, shamanism, or other ermetic or esoteric teachings in order to visualize their abilities. For the most part, ancient religions and cultural practices have failed to incorporate the digital realm. Instead, technomancers invented their own new belief systems, referred to by some as streams, that seem to offer some answers about their nature and help them find and take a new place in the Sixth World.
 
 Streams are still evolving and are not yet as stereotyped as the paradigms of the Awakened community. Technomancers following the same set of parameters—“riding the same stream,” as some say—have started to codify and streamline their beliefs, paving the way for currently Emerging technomancers.
 [/spoiler]
 
-[b]理性的数字化思维[/b]
+[size=12pt][b]理性的数字化思维[/b][/size]
 
-尽管许多超链者不喜欢被归类，也不容易接受预先定义好的原则，但许多新浮现的超链者发现，采用其他人设计的、符合他们自己的想法和对虚拟世界的看法的做法和技术，是一件令人舒适的事情。由于浮现的过程是一个改变生活的巨大事件，挑战了他们的信念，颠覆了他们的生活，成为超链者的个体往往会改变他们的观点，甚至他们的性格，这就可以解释为什么即使是最理性的头脑也可能成为代码神秘本质的信徒。
+尽管许多超链者不喜欢被归类，也不容易接受预先定义好的教义，但许多新浮现的超链者发现，采用其他人设计的、符合他们自己想法和对虚拟世界看法的做法和技术，是一件令人舒适的事情。由于浮现的过程是一个改变人生，挑战了他们的信念，颠覆了他们的生活的重大事件，成为超链者的个体往往会改变他们的观点，甚至他们的性格，这就可以解释为什么即使是最理性的头脑也可能成为代码神秘本质的信徒。
 
 [spoiler]
-rationalizating the digital Mind 
+[size=12pt][b]RATIONALIZATING THE DIGITAL MIND[/b][/size]
+
 Though many technomancers do not like being pigeonholed or do not easily accept pre-defined doctrines, many of the newly Emerged find it comforting to adopt practices and techniques devised by others that fit with their own ideas and perceptions of the virtual world. As the process of Emergence is a life-changing event, challenging beliefs and turning one’s life upside down, individuals who become technomancers often change their outlook and even their personality, which can explain why even the most rational mind might turn into a believer in the mystic nature of code.
 [/spoiler]
 
-[b]创建支流[/b]
+[size=12pt][b]创建支流[/b][/size]
 
 要创建一个新支流，玩家必须选择以下内容:
 
 1. 支流的核心理念。
 
-2. 可以由遵循支流的超链者编译的网精类型
+2. 可以由追随该支流的超链者编译的网精类型
 
-3. 该支流中的超链者抵抗衰褪的方法。
+3. 追随该支流的超链者抵抗衰褪的方法。
 
-支流的定义对超链者来说至关重要，因为它定义了他的基本哲学，即他如何对现实世界和虚拟世界做出反应并与之互动。虽然超链者的理念不像基于已知宗教或魔法理念的魔法流派那么有形(尤其是从角色扮演的角度来看)，GM和玩家应该共同努力，在他们的特定游戏和《暗影狂奔》世界观范围内创造一个有意义的支流。
+支流的定义对超链者来说至关重要，因为它定义了他的基本哲学，即他如何对现实世界和虚拟世界做出反应并与之互动。虽然超链者的理念不像基于已知宗教或魔法理念的魔法流派那么具体(尤其是从角色扮演的角度来看)，GM和玩家应该共同努力，在他们的特定游戏和《暗影狂奔》世界观范围内创造一个有意义的支流。
 
 [spoiler]
-creating a Stream 
+[size=12pt][b]CREATING A STREAM[/b][/size]
+
 To create a new stream, the player must choose the following:
+
 1. The core concept of the Stream. 
-2. The type of sprites that can be compiled by technomancers riding the stream. 
+
+2. The type of sprites that can be compiled by technomancers riding the stream.
+
 3. The means by which technomancers on the stream resist Fading.
+
 The definition of a stream is vital for a technomancer, as it defines his underlying philosophy, how he reacts to and interacts with both the real and the virtual worlds. While the beliefs of a technomancer stream are less tangible (especially from the roleplaying point of view) than magical traditions that are based on known religious or magical concepts, the gamemaster and the player should work together to create a stream that makes sense within the scope of their specific game and the Shadowrun universe as a whole.
 [/spoiler]
 
-[b]理念[/b]
+[size=12pt][b]理念[/b][/size]
 
-支流的核心是它关于矩阵和共鸣的哲学。这是一名超链者解释矩阵在崩溃2.0中是如何改变的，共鸣是什么，以及她如何操纵矩阵的过程。虽然支流的基本理念没有游戏效果，但它影响了超链者看待矩阵、节点和虚拟现实的方式。因此，在详细描述支流在游戏中的运作方式之前，先勾勒出流的核心理念是很重要的。你的超链者是否对网络世界有一种天生的亲和力，把它当成她真正的家? 如何用复合程式来定义超链者与矩阵进程的相互作用? 她是主动地强迫代码执行她的命令，还是有说服力地要求活着的矩阵按照她的意愿改变? 她是否将自己的存在合理化为人类所采用的一个进化分支，还是一切都是更高力量的结果? 这些想法都是角色在现实和数字世界中如何感知自己的垫脚石。
+支流的核心是它关于矩阵和共鸣的哲学。它是一名超链者解释矩阵在崩溃2.0中是如何改变的方式，共鸣是什么，以及她如何操纵矩阵的过程。虽然支流的基本理念没有游戏效果，但它影响了超链者看待矩阵、节点和虚拟现实的方式。因此，在详细描述支流在游戏中的运作方式之前，先勾勒出支流的核心理念是很重要的。你的超链者是否对网络世界有一种天生的亲和力，把它当成她真正的家？如何用复合程式来定义超链者与矩阵进程的相互作用？她是主动地强迫代码执行她的命令，还是有说服力地要求活的矩阵按照她的意愿改变？她是否将自己的存在合理化为人类的一个进化分支，还是一切都由更高的力量所决定？这些想法都是角色在现实和数字世界中对自己看法的垫脚石。
 
 [spoiler]
-concept
+[size=12pt][b]CONCEPT[/b][/size]
 
 The core of a stream is its philosophy of the Matrix and the Resonance. It is a technomancer’s way of explaining how the Matrix changed with Crash 2.0, what Resonance is, and how she can manipulate the processes of the Matrix. While the fundamental belief of a stream has no game effects, it affects the way a technomancer views the Matrix, nodes, and virtual reality. It is therefore important to sketch out a stream’s core concepts before detailing how it works in game terms. Does your technomancer have a natural affinity for the cyberworld, perceiving it as her real home? How is the technomancer’s interaction with Matrix processes defined in terms of complex forms? Does she actively force the code to do her bidding or persuasively ask the living Matrix to change as she desires? Does she rationalize her existence as an evolutionary branch that mankind has taken, or is everything the result of higher forces? Each of these ideas is a stepping stone toward fleshing out how the character perceives herself in relation to both reality and the digital realm.
 [/spoiler]
 
-[b]网精[/b]
+[size=12pt][b]网精[/b][/size]
 
-每个支流可以编译5种网精，他们代表了支流对矩阵的某些方面影响的焦点。超链者总是认为网精是什么(与法师对精魂的看法相反)，即使网精由于编译它的支流而看起来不同，诱错网精总是被称为诱错网精，不管它看起来像机械驭者的机械拆卸者、赛博修士的赛博格碎纸机，还是电子逸客的虚拟旋风。
+每条支流可以编译5种网精，他们代表了支流对矩阵的某些方面影响的焦点。超链者总是把网精看作是它们的本体(与法师对精魂的看法相反)，即使网精由于编译它的支流而看起来有所不同，诱错网精总是被称为诱错网精，不管它看起来像机械驭手的机械拆解者、赛博修士的生物机械碎纸机，还是网逸逋客的虚拟龙卷风。
 
 [spoiler]
-Sprites 
+[size=12pt][b]SPRITES[/b][/size]
+
 Each stream can compile five sprites that represent the focus of the stream to certain aspects of the Matrix. Technomancers always perceive sprites as what they are (as opposed to magicians’ views of spirits), even if a sprite looks different based on the stream of its compiler. A fault sprite will always be called a fault sprite, whether it looks like the mechanoid disassembler of a dronomancer, the bio-mecha shredder of a cyberadept, or the virtual cyclone of an e-scapist.
 [/spoiler]
 
-[b]衰褪[/b]
+[size=12pt][b]衰褪[/b][/size]
 
-每一条支流都依赖于共鸣来抵抗衰褪。此外每个支流使用一种精神属性(魅力、直觉、逻辑或意志力)来帮助减弱衰褪。所使用的属性是该流的所有成员都是相同的，以后也不会更改。
+每一条支流都依赖共鸣属性来抵抗衰褪。此外每条支流使用一种精神属性(魅力、直觉、逻辑或意志)来协助抵抗衰褪。所使用的属性对该支流的所有成员都是相同的，以后也不能更改。
 
 [spoiler]
-Fading
+[size=12pt][b]FADING[/b][/size]
+
 Every stream relies on Resonance to resist Fading. In addition, each stream uses one Mental attribute (Charisma, Intuition, Logic, or Willpower) to assist in Fading resistance. The ttribute used is the same for all members of that Stream and may not be changed later.
 [/spoiler]
 
 ---
 
-[b]支流示例[/b]
+[size=14pt][b]支流示例[/b][/size]
 
-在《暗影狂奔》中，赛博修士和技术萨满这两种类型的角色在游戏中占有重要地位，因为它们是在崩溃2.0导致的虚拟世界崩溃之前由作为矩阵之子的第一代宅客创造的。许多超链者被前宅客的工作方式所吸引，接受了这些道路的基本原则，并将它们塑造成成熟的支流。这些和其他支流的例子如下所示。
+赛博修士和技术萨满这两条支流的角色在《暗影狂奔》中占有重要地位，因为它们是在由崩溃2.0导致的虚拟世界崩溃之前由第一代矩阵之子——宅客——所创造的。许多超链者被前宅客的工作方式所吸引，接受了这些道路的基本原则，并将其塑造为成熟的支流。这些和其他支流的例子如下所示。
 
 [spoiler]
-SAMPLE STREAM 
-Two streams, the cyberadepts and technoshamans, have a significant presence in Shadowrun, as they were developed by the first Children of the Matrix—the otaku—before the virtual landscape quaked during Crash 2.0. Many technomancers, drawn to the workings of the former otaku, have embraced the basic principles of these paths and shaped them into full-fledged streams. These and other examples of streams are shown below.
+[size=14pt][b]SAMPLE STREAM[/b][/size]
+
+Two streams, the cyberadepts and Technoshamans, have a significant presence in Shadowrun, as they were developed by the first Children of the Matrix—the otaku—before the virtual landscape quaked during Crash 2.0. Many technomancers, drawn to the workings of the former otaku, have embraced the basic principles of these paths and shaped them into full-fledged streams. These and other examples of streams are shown below.
 [/spoiler]
 
-[b]赛博修士[/b]
+[size=12pt][b]赛博修士[/b][/size]
 
-衰褪抵抗：意志+共鸣
+衰褪抵抗：意志 + 共鸣
+
 网精类型：情报网精、破解网精、数据网精、诱错网精、机械网精
 
-备注：“标准”的超链者描述在pp. 232–238,SR4，是赛博修士支流的一部分
-大多数超链者都是赛博修士，尽管他们可能称自己为代码玩家、矩阵驾驭者或虚拟脑动患者。他们认为自己的能力是泛人类和技术之间的自然融合，由共鸣(Resonance)推动，他们认为共鸣是一种独特的力量或能量(e-Qi)。对他们来说，共鸣是一种必须被积极地操纵和控制以影响数据和矩阵的纯粹意志的能量形式。赛博修士不认同技术萨满或信息专家的精神观点，他们通常不太关心自己能力的来源和网精的本质，只把网精看作是由共鸣激活的智能工具，而不是生命。他们的网精通常是物体的形状，而不是生物。由于他们对矩阵的实用主义观点——以及他们经常以自我为中心的行为——赛博修士经常在他们浮现之前的职位或工作中使用他们的超链者能力，从而将他们的现实世界技能与虚拟技能结合起来。
+备注：“通常”的超链者在SR4第232–238页进行了描述，是赛博修士支流的一部分
+
+大多数超链者都是赛博修士，尽管他们可能称自己为代码玩家、矩阵骑师或虚拟脑动者。他们认为自己的能力是由共鸣推动的泛人类和技术之间的自然融合，他们认为共鸣是一种独特的力量或能量(电子化的“气”)。对他们来说，共鸣是一种必须被积极操纵和控制以通过他们的意志力影响数据和矩阵的能量形式。赛博修士不认同技术萨满或信息先知的精神观点，而且他们通常不太关心自己能力的来源和网精的本质，只把网精看作是由共鸣激活的智能工具，而不是生命。他们的网精通常是物体，而不是生物的形状。由于他们对矩阵的实用主义观点——以及他们经常以自我为中心的行为——赛博修士经常在他们浮现之前的职位或工作中使用他们的超链者能力，从而将他们现实世界的技能与虚拟技能相结合。
 
 [spoiler]
-Cyberadepts
+[size=12pt][b]Cyberadepts[/b][/size]
+
 Fading: Willpower + Resonance 
+
 Sprites: Courier, Crack, Data, Fault, and Machine 
+
 Note: The "standard" technomancer described on pp. 232–238,SR4, is part of the cyberadept stream.
-The majority of technomancers are cyberadepts, though they may call themselves code-dealers, trix-jockeys, or virtuakinetics. They view their abilities as a natural fusion between metahumanity and technology, fueled by Resonance, which they view as a unique force or energy (e-Qi). To them, Resonance is an energy form that must be actively manipulated and controlled in order to affect data and impact the Matrix by the sheer force of their wills. Cyberadepts do not share the spiritual views of technoshamans or info savants, and usually care less about the origin of their abilities and the nature of sprites. They see sprites merely as intelligent tools, animated by Resonance, rather than as beings, and their sprites often take the shape of objects rather than creatures. Because of their pragmatic view of the Matrix—and their frequent egocentric behavior—cyberadepts often use their technomancer abilities in the positions or jobs they had before their Emergence, combining their real-world skills with their virtual ones.
+
+The majority of technomancers are cyberadepts, though they may call themselves code-dealers, trix-jockeys, or virtuakinetics. They view their abilities as a natural fusion between metahumanity and technology, fueled by Resonance, which they view as a unique force or energy (e-Qi). To them, Resonance is an energy form that must be actively manipulated and controlled in order to affect data and impact the Matrix by the sheer force of their wills. Cyberadepts do not share the spiritual views of Technoshamans or Info Savants, and usually care less about the origin of their abilities and the nature of sprites. They see sprites merely as intelligent tools, animated by Resonance, rather than as beings, and their sprites often take the shape of objects rather than creatures. Because of their pragmatic view of the Matrix—and their frequent egocentric behavior—cyberadepts often use their technomancer abilities in the positions or jobs they had before their Emergence, combining their real-world skills with their virtual ones.
 [/spoiler]
 
-[b]机械驭者[/b]
+[size=12pt][b]机械驭手[/b][/size]
 
-衰褪抵抗：意志+共鸣
+衰褪抵抗：意志 + 共鸣
+
 网精类型：破解网精、数据网精、诱错网精、机械网精、引导网精
 
-那些起源于日本テケノフェト（技术狂热）文化，或遵循与机器人、无人机、车辆或其他电子设备相关的其他技术拜物教的学者，被称为机械驭者、人偶师或智械掌控者。对于一名机械驭者来说，矩阵是一个由他可以与之交谈的机器互联组成的世界。与其他被代码和信息所吸引的超链者不同，机械驭者更青睐于控制机器和其他电子设备。机械驭者将无人机和代理的狗脑子视为宠物般的实体，而网精则是它们所显现的机器灵魂的化身。由机械驭者编译的网精通常会显示被编译的对象或节点的某些特征，通常看起来像机器。由于他们与机器的融洽关系，机械驭者喜欢通过他们控制的无人机和设备的电子眼(即传感器)来体验世界。
+那些起源于日本テケノフェト（技术狂热）文化，或拥有与机器人、无人机、载具或其他电子设备相关的其他技术癖好的超链者，被称为机械驭手、操偶师或智械掌控者。对于一名机械驭手来说，矩阵是一个由他可以与之交谈的机器彼此互联组成的世界。与其他被代码和信息所吸引的超链者不同，机械驭手更青睐于受控机械和其他电子设备。机械驭手将无人机和代理的狗脑子视为宠物般的实体，而网精则是它们所显现的机械灵魂的化身。由机械驭手编译的网精通常会显示被编译时所在的物体或节点的某些特征，并通常看起来更像机械。由于他们与机械的融洽关系，机械驭手喜欢通过他们控制的无人机和设备的电子眼(即传感器)来体验世界。
 
 [spoiler]
-dronomancers 
-Fading: Intuition + Resonance 
-Sprites: Crack, Data, Fault, Machine, and Tutor 
+[size=12pt][b]Dronomancers[/b][/size]
+
+Fading: Intuition + Resonance
+
+Sprites: Crack, Data, Fault, Machine, and Tutor
+
 Technomancers who originate from the Japanese tekeno-feto culture, or who possess some other kind of techno-fetishism associated with robots, drones, vehicles, or other electronic devices, are known as dronomancers, puppeteks, or robomancers. For a dronomancer, the Matrix is a world of connected machines that he can talk with. Unlike other technomancers, who are drawn to the code and information, dronomancers are drawn to slaved machines and other electronic devices. Dronomancers see the dog brains of drones and agents as pet-like entities, and sprites as embodiments of the spirits of the machines from which they manifest. Sprites compiled by dronomancers typically display some feature of the object or node in which they are compiled, often appearing machine-like. Because of their rapport with machines, dronomancers enjoy experiencing the world through the electronic eyes (i.e., sensors) of their slaved drones and devices.
 [/spoiler]
 
-[b]电子逸客[/b]
+[size=12pt][b]网逸逋客[/b][/size]
 
-衰褪抵抗：意志+共鸣
+衰褪抵抗：意志 + 共鸣
+
 网精类型：情报网精、破解网精、数据网精、诱错网精、坦克网精
 
-并非所有的超链者都深深扎根于现实世界。70年代的第六纪对很多人来说是一个不友好的地方，一些被称为电子逸客或矩阵雕塑家的超链者认为，网络空间是一个更美好的世界，用户可以将其塑造成自己的乌托邦。尽管仍然被他们的肉体束缚，电子逸客试图尽可能地逃避现实，全心全意地拥抱虚拟现实，认为这是他们真正适合的唯一世界。现实世界变成了第二个家(将自己的真实生活视为21世纪头十年使用的虚拟化身), 身体可以轻易丢弃并逃进虚拟现实的深处, 电子逸客擅长通过他们的创造力和想象力创建虚拟环境和实现奇迹。网精被想象成具有自己个性的真正伴侣，并倾向于采取独特的形式，并且据说比其他超链者的网精更“有活力”。
+并非所有的超链者都深深扎根于现实世界。70年代的第六纪对很多人来说是一个不友好的地方，一些被称为网逸逋客或矩阵塑师的超链者认为，网络空间是一个更美好的世界，用户可以将其塑造成自己的乌托邦。尽管仍然被他们的凡人肉体束缚，网逸逋客试图尽可能地逃避现实，全心全意地拥抱虚拟现实，将其视为唯一真正适合他们的世界。由于现实世界变成了他们的第二个家(将他们的真实生活视为21世纪头十年所使用的虚拟化身), 他们可以轻易丢弃自己的身体以冒险进入虚拟现实的深处, 网逸逋客擅长通过他们的创造力和想象力创建虚拟环境和实现奇迹。网精被想象成具有自己个性的真实伴侣，并倾向于采取独特的形式，并且据说比其他超链者的网精更“有活力”。
 
 [spoiler]
-e-scapists 
+[size=12pt][b]E-scapists[/b][/size]
+
 Fading: Willpower + Resonance
+
 Sprites: Courier, Crack, Data, Fault, and Tank
-Not all technomancers are deeply rooted in the real world. With the Sixth World being an inhospitable place for a lot of people in the ’70s, some technomancers, called e-scapists or sculptors, consider cyberspace a better world that users can shape into their own utopias. Although still bound by their mortal bodies, e-scapists try to escape reality as often as possible, embracing virtual reality wholeheartedly as the only world where they truly fit in. As the real world becomes a second home (viewing their real lives as virtual avatars like those used in the first decade of the 21st century) with a body that can be easily discarded to venture the depths of virtual reality, e-scapists excel in creating virtual environments and achieving wonders with creativity and imagination. Sprites are envisioned as true companions with their own personalities and tend to take unique forms that are reported to be more "alive" than those of other technomancers.
+
+Not all technomancers are deeply rooted in the real world. With the Sixth World being an inhospitable place for a lot of people in the ’70s, some technomancers, called E-scapists or sculptors, consider cyberspace a better world that users can shape into their own utopias. Although still bound by their mortal bodies, E-scapists try to escape reality as often as possible, embracing virtual reality wholeheartedly as the only world where they truly fit in. As the real world becomes a second home (viewing their real lives as virtual avatars like those used in the first decade of the 21st century) with a body that can be easily discarded to venture the depths of virtual reality, E-scapists excel in creating virtual environments and achieving wonders with creativity and imagination. Sprites are envisioned as true companions with their own personalities and tend to take unique forms that are reported to be more "alive" than those of other technomancers.
 [/spoiler]
 
-[b]信息专家[/b]
+[size=12pt][b]信息先知[/b][/size]
 
-衰褪抵抗:直觉+共鸣
+衰褪抵抗:直觉 + 共鸣
+
 网精类型：编码网精、情报网精、数据网精、机械网精、守卫网精
 
-信息专家认为矩阵是一个神奇的地方。与技术萨满相似，他们的方法更注重精神和直觉，但他们不相信更高的力量，只相信数据。信息专家——也被称为信息法师或数据占卜者——将原始形态的矩阵视为在无尽的虚拟世界中向各个方向流动的信息长河。人们，以及他们的通讯链和pan，被视为信息之井，消费者的习惯、兴趣和社交网络形成了信息专家能够感知的模式。有些人甚至更进一步，认为现实世界中的事件同样以数据的模式发生，并根据事件的影响和积累的数据量进行组装和分解。信息专家通过重定向虚拟的“气”与节点交互，使用某种数字风水来改变数据的流动，要么是通过复合程式，要么是通过网精。他们把网精当作编码的信条来崇拜，召唤他们并请求他们的帮助，而不是命令他们服从。一些人将信息专家视为遵循矩阵的数字地脉的超链者版的风水师。
+信息先知认为矩阵是一个充满奇迹的地方。与技术萨满相似，他们的方法更注重精神和直觉，但他们不相信更高的力量，只相信数据。信息先知——也被称为信息法师或数据占卜家——认为矩阵的原始形态是在无尽的虚拟世界中向各个方向流动的信息长河。人们，以及他们的通讯链和PAN，被视为信息之井，消费者的习惯、兴趣和社交网络形成了信息先知能够感知的模式。有些人甚至更进一步，认为现实世界中的事件同样表现为数字上的模式，根据事件的影响和积累的数据量进行组合和分解。信息先知通过重定向虚拟的“气”与节点交互，使用某种数字风水来改变数据的流动，要么是通过复合程式，要么是通过网精。他们把网精当作代码的灵魂来崇拜，召唤它们并向它们请求帮助，而不是命令它们服从。有些人将信息先知视为遵循矩阵数字地脉的超链者版的风水师。
 
 [spoiler]
-info Savants 
-Fading: Intuition + Resonance 
-Sprites: Code, Courier, Data, Machine, and Paladin 
-Info savants view the Matrix as a place of wonders. Similar to technoshamans, their approach is more spiritual and intuitive, but they don’t believe in higher forces, just in data. Info savants—also called infomancers or datamancers—perceive the Matrix in its raw form as rivers of information that flow in all directions within the endless virtual landscape. People, with their commlinks and PANs, are seen as information wells in which consumer habits, interests, and social networking form patterns that info savants can perceive. Some go even further, believing that events in the real world manifest as patterns on the digital, assembling and disassembling depending on the impact of the event and the amount of data accumulated. Info savants interact with a node by redirecting the virtual chi, using some kind of digital feng shui to alter the flow of data, either with their complex forms or through sprites. They venerate sprites as spirits of the code, calling them and asking them for assistance rather than commanding them into obedience. Some see info savants as the technomancer version of geomancers, following the digital ley lines of the Matrix.
+[size=12pt][b]Info Savants[/b][/size]
+
+Fading: Intuition + Resonance
+
+Sprites: Code, Courier, Data, Machine, and Paladin
+
+Info Savants view the Matrix as a place of wonders. Similar to Technoshamans, their approach is more spiritual and intuitive, but they don’t believe in higher forces, just in data. Info Savants—also called infomancers or datamancers—perceive the Matrix in its raw form as rivers of information that flow in all directions within the endless virtual landscape. People, with their commlinks and PANs, are seen as information wells in which consumer habits, interests, and social networking form patterns that Info Savants can perceive. Some go even further, believing that events in the real world manifest as patterns on the digital, assembling and disassembling depending on the impact of the event and the amount of data accumulated. Info Savants interact with a node by redirecting the virtual chi, using some kind of digital feng shui to alter the flow of data, either with their complex forms or through sprites. They venerate sprites as spirits of the code, calling them and asking them for assistance rather than commanding them into obedience. Some see Info Savants as the technomancer version of geomancers, following the digital ley lines of the Matrix.
 [/spoiler]
 
-[b]网络织者[/b]
+[size=12pt][b]网络织匠[/b][/size]
 
-衰褪抵抗：魅力+共鸣
+衰褪抵抗：魅力 + 共鸣
 网精类型：编码网精、情报网精、破解网精、数据网精、侦查网精
 
-对网络织者来说，矩阵是一个复杂的数字蛛网，交流和通信沿着蜘蛛网向各个方向移动，就像神经上的电位移动一样。这些遍及现代世界的织线连接和影响任何地方，任何时间的每一个角落。网络织者认为自己是这些网中的蜘蛛，能够真正看到并影响它的模式。通过纺新线或删除旧线，网络织者操纵网络。根据20世纪蝴蝶效应、多米诺骨牌效应和雪球效应的理念，一些人认为即使是很小的变化也会导致深远的、剧烈的变化。共鸣只不过是把网粘在一起的胶水，超链者在“织网“时利用它。网精被认为是“有机”的助手，是用来帮助超链者服务网络的先天辅助程序。网络织者的网精通常被认为是智能的共鸣程序(在复合程式和超链者本身之间排名)，没有太多的个性或动机，他们往往有外来的或任务导向的枯燥图标，通常基于”编织”隐喻，如蜘蛛或织网者。
+对网络织匠来说，矩阵是一个复杂的数字蛛网，流量和通讯沿着它的线路向各个方向移动，就像神经上的电位迁移一样。这些遍及现代世界的织线连接并影响任何地方，任何时间的每一个角落。网络织匠认为自己是这些网中的蜘蛛，是能够真正看到并影响它的模式的人。通过纺织新线或删除旧线，网络织匠操纵着网络。根据20世纪的蝴蝶效应、多米诺骨牌效应和雪球效应的理念，即使是很小的变化也会导致深远的、剧烈的变化。共鸣只不过是把网粘在一起的胶水，超链者在“织网“时利用它。网精被认为是“有机”的助手，是用来帮助超链者服务网络的天生的辅助程序。网络织匠的网精通常被认为是智能的共鸣程序(介于复合程式和超链者本身之间)，没有太多它们自身的个性或动机，它们往往有外来的或任务导向的枯燥图标，通常基于”编织”隐喻，如蜘蛛或纺足目昆虫。
 
 [spoiler]
-networkers 
+[size=12pt][b]Networkers[/b][/size]
+
 Fading: Charisma + Resonance 
+
 Sprites: Code, Courier, Crack, Data, and Sleuth 
+
 To networkers, the Matrix is a complex digital cobweb, a plethora of threads along which traffic and communication travel in every direction like an electric potential migrating on a nerve. Pervading the modern world, these threads connect and affect every place, anywhere, at any time. Networkers think of themselves as the spiders of these webs, the ones who can truly see and influence its patterns. By spinning new threads or removing old ones, networkers manipulate the web. Some believe that even small changes can lead to far-reaching, drastic changes, based on the Twentieth Century concepts of the butterfly, domino, and snowball effects. Resonance is nothing but the glue that holds the web together, which the technomancer draws upon when “weaving.” Sprites are perceived as "organic" helpers, innate auxiliary programs designed to help technomancers service the web. Networkers’ sprites are usually viewed as intelligent Resonance programs (ranking between complex forms and technomancers themselves) without much personality or motivation of their own, They tend to have alien or task-oriented sterile iconographies, often based on the"weaving" metaphor, such as spiders or webspinners.
 [/spoiler]
 
-[b]奇点主义者[/b]
+[size=12pt][b]奇点信徒[/b][/size]
 
-衰褪抵抗：逻辑+共鸣
+衰褪抵抗：逻辑 + 共鸣
+
 网精类型：情报网精、破解网精、数据网精、引导网精、坦克网精
 
-这一领域的超链者相信，他们是将通过引导人类自身的进化使活着的矩阵转变为超智能(甚至超越之前强大的AI，如Deus)的必要发展的下一步，。他们称自己为奇点主义者或电子革命者，他们将矩阵中的每个人都视为这个蓬勃发展的智能超级计算机的一部分，这台超级计算机将在同一时刻觉醒(引发比崩溃2.0更大的奇点事件)，并在一个尚未想象到的水平上改变世界。共鸣被认为是制作这台计算机的基础构造，而超链者，普通矩阵用户，甚至网精都是自我进化的子程序，他们必须学习在矩阵中增加自己的能力和可能性，直到他们进化到足以达到奇点的关键水平。
-虽然奇点主义者通常与超人类主义者有很多共同点，但许多超人类主义者和超链者都认为他们的哲学非常抽象和深奥，并担心奇点事实上不会对泛人类友好。
+这条支流的超链者相信，他们是使有生命的矩阵转变为机械超智能(甚至超越之前的强大AI，如Deus)所必需的下一步发展，他们将引导人类完成自身的进化。他们称自己为奇点信徒或电子革命者，他们将矩阵中的每个人都视为这个蓬勃发展的智能超级计算机的一部分，他们将在同一时刻觉醒(引发比崩溃2.0规模更大的奇点事件)，并在一个尚无法想象的水平上改变世界。共鸣被认为是制作这台计算机的基础构造，而超链者，普通矩阵用户，甚至网精都是自我进化的子程序，他们必须学习提高自己在矩阵中的能力和可能性，直到他们进化到足以达到奇点的关键水平。
+
+虽然奇点信徒往往与超人类主义者有很多共同点，但许多超人类主义者和超链者也认为他们的哲学非常抽象和深奥，并担心奇点事实上对泛人类并不友好。
 
 [spoiler]
-Singularitarians 
-Fading: Logic + Resonance 
+[size=12pt][b]Singularitarians[/b][/size]
+
+Fading: Logic + Resonance
+
 Sprites: Courier, Crack, Data, Tutor, and Tank
-The technomancers on this stream are convinced that they are the next step in the development that is necessary to transform the living Matrix into a machine super-intelligence (something beyond even previously powerful AIs such as Deus) that will guide mankind through their own evolution. Calling themselves singularitarians or e-volutionsts, they view everyone in the Matrix as a part of this flourishing intelligent supercomputer that will at same point awaken (causing a bigger singularity event than the Crash 2.0) and change the world on a not-yet-conceivable level. Resonance is perceived as the fabric from which this computer is made, while technomancers, normal Matrix users, and even sprites are self-evolving subroutines that have to learn to increase their abilities and possibilities in the Matrix (over generations) until they have evolved enough to reach the critical level of a singularity. 
-While singularitarians often have a lot in common with transhumanists, even many transhumanists and technomancers view their philosophy as quite abstract and esoteric, and worry that the singularity will in fact not be friendly to metahumanity.
+
+The technomancers on this stream are convinced that they are the next step in the development that is necessary to transform the living Matrix into a machine super-intelligence (something beyond even previously powerful AIs such as Deus) that will guide mankind through their own evolution. Calling themselves Singularitarians or e-volutionsts, they view everyone in the Matrix as a part of this flourishing intelligent supercomputer that will at same point awaken (causing a bigger singularity event than the Crash 2.0) and change the world on a not-yet-conceivable level. Resonance is perceived as the fabric from which this computer is made, while technomancers, normal Matrix users, and even sprites are self-evolving subroutines that have to learn to increase their abilities and possibilities in the Matrix (over generations) until they have evolved enough to reach the critical level of a singularity.
+
+While Singularitarians often have a lot in common with transhumanists, even many transhumanists and technomancers view their philosophy as quite abstract and esoteric, and worry that the singularity will in fact not be friendly to metahumanity.
 [/spoiler]
 
-[b]源码术士[/b]
+[size=12pt][b]源码术士[/b][/size]
 
-衰褪抵抗：逻辑+共鸣
+衰褪抵抗：逻辑 + 共鸣
+
 网精类型：编码网精、情报网精、破解网精、数据网精、机械网精
 
-许多在崩溃2.0之后成为超链者的人都是拥有普通工作的普通人，他们并不关心魔法或数字魔力，直到他们在自己的浮现中亲身体验。因此，源码术士以一种非常理性的方式处理共鸣，让人联想到数学逻辑或计算机科学。就像那些将魔法视为具有可预测的规律和结果的物理力量的赫尔墨斯法师一样，源码术士将共鸣视为矩阵的真正机器代码，只有他们能够理解。从他们的角度来看，他们使用复合程式作为接口来编写机器代码。网精被认为是有感知能力的程序，具有类似于代理的副程式，可以像任何其他程序一样被命令和指导。由源码术士编译的网精通常类似于商业上可用的代理程序。
+许多在崩溃2.0之后成为超链者的人都是拥有普通工作的普通人，他们并不关心魔法或数字魔力，直到他们在自己的浮现过程亲身体验这一切。因此，源码术士以一种非常理性的方式处理共鸣，让人联想到数理逻辑或计算机科学。就像那些将魔法视为具有可预测性的规律和结果的物理力的赫尔墨斯法师一样，源码术士将共鸣视为只有他们能够理解的矩阵的真正机器代码。从他们的角度来看，他们使用复合程式作为编写机器代码的接口。网精被认为是有感知能力的程序，体现为类似于代理的子程式，可以像任何其他程序一样被命令和指引。由源码术士编译的网精通常类似于商用代理程序的塑模。
 
 [spoiler]
-Sourcerors 
+[size=12pt][b]Sourcerors[/b][/size]
+
 Fading: Logic + Resonance
-Sprites: Code, Courier, Crack, Data, and Machine 
+
+Sprites: Code, Courier, Crack, Data, and Machine
+
 Many of those who became technomancers in the wake of Crash 2.0 were ordinary people with ordinary jobs who did not care much about magic or digital mojo before they experienced it themselves during their Emergence. Sourcerors, therefore, deal with resonance in a very rational way, reminiscent of mathematical logic or computer science. Similar to those hermetic magicians who view magic as a physical force with predictable laws and consequences, sourcerors view Resonance as the true machine code of the Matrix, which only they are able to understand. From their perspective, they use complex forms as interfaces to program the machine code. Sprites are thought of as sentient programs, embodied subroutines similar to agents that can be commanded and directed like any other program. Sprites compiled by sourcerors often resemble sculpts of commercially available agent programs.
 [/spoiler]
 
-[b]技术萨满[/b]
+[size=12pt][b]技术萨满[/b][/size]
 
-衰褪抵抗：魅力+共鸣
+衰褪抵抗：魅力 + 共鸣
+
 网精类型：破解网精、数据网精、机械网精、守卫网精、引导网精
 
-技术萨满教义是对矩阵的一种精神观点。这个支流的成员认为矩阵是更大的，活着的，一个他们可以交流的更高的存在。虽然一些以前是宅客的超链者相信共鸣是由某种更高层次的存在或机器的灵魂创造的，许多新出现的超链者被这种基于他们与虚拟世界的联系的数字灵性所吸引，因此，技术萨满与矩阵有着一种感情上的、近乎宗教的关系，他们经常与矩阵内的奇怪生物结盟，包括新的AI。作为数字朝圣者，传教士和活共鸣的先知在矩阵中漫游，他们的超链者技能的实践是仪式化的，可以与现实世界中的神秘萨满相媲美。他们编写和记录网精的方法通常与神秘的魔法相似，他们尊重网精，把它们当作矩阵的自然居民。技术萨满编译的网精经常显示出空灵或幽灵般的特征，反映出他们的超凡脱俗的本性。
-技术萨满通常有一个范式。
+技术萨满教义是对矩阵的一种精神观点。这条支流的成员认为矩阵是更大的，有生命的，一个他们可以沟通的更高位的存在。一些前宅客的超链者相信共鸣是由某种更高层次的存在或机械灵魂创造的，许多新浮现的超链者被这种基于他们与虚拟世界的联系的数字灵性所吸引，因此，技术萨满与矩阵有着一种感情上的、近乎宗教的关系，他们经常与矩阵内的奇怪生物结盟，包括新的AI。作为数字朝圣者，传教士和活体共鸣的先知在矩阵中漫游，他们的超链者技能的实践是仪式化的，可以与现实世界中的神秘萨满相媲美。他们编译和注册网精的方法通常与神秘的魔法相似，他们尊重网精，把它们当作矩阵的原住民。技术萨满编译的网精经常显示出空灵或鬼魂般的特征，进而反映出他们异于世界的本性。
+
+技术萨满通常有一个范式(第149页)。
 
 [spoiler]
-technoshamans 
+[size=12pt][b]Technoshamans[/b][/size]
+
 Fading: Charisma + Resonance
-Sprites: Crack, Data, Machine, Paladin, and Sleuth 
-Technoshamanism is a spiritual view of the Matrix. Members of this stream think of the Matrix as something bigger, something alive, a higher being they can communicate with. While some technoshamans are former otaku who believe that Resonance was created by some sort of higher beings or spirits of the machine, many newly Emerged technomancers are attracted to this digital spirituality based on a connection they feel with the virtual world. Technoshamans have a sympathetic, nearly religious relationship with the Matrix, and often ally themselves with the strange beings that reside within, including new AIs. Wandering the Matrix as digital pilgrims, preachers, and prophets of the living Resonance, their practice of technomancer skills is ritualized, comparable to arcane shamans in the real world. Their methods of compiling and registering sprites often bear similarities with arcane conjurations, and they treat sprites with respect, as natural denizens of the Matrix. Sprites compiled by technoshamans frequently display ethereal or ghost-like features that reflect their otherworldly nature.
+
+Sprites: Crack, Data, Machine, Paladin, and Sleuth
+
+Technoshamanism is a spiritual view of the Matrix. Members of this stream think of the Matrix as something bigger, something alive, a higher being they can communicate with. While some Technoshamans are former otaku who believe that Resonance was created by some sort of higher beings or spirits of the machine, many newly Emerged technomancers are attracted to this digital spirituality based on a connection they feel with the virtual world. Technoshamans have a sympathetic, nearly religious relationship with the Matrix, and often ally themselves with the strange beings that reside within, including new AIs. Wandering the Matrix as digital pilgrims, preachers, and prophets of the living Resonance, their practice of technomancer skills is ritualized, comparable to arcane shamans in the real world. Their methods of compiling and registering sprites often bear similarities with arcane conjurations, and they treat sprites with respect, as natural denizens of the Matrix. Sprites compiled by Technoshamans frequently display ethereal or ghost-like features that reflect their otherworldly nature.
+
 Technoshamans usually have a paragon (p. 149).
 [/spoiler]
 
 ---
 
-[b]边栏: 无支流 - 狂野超链者[/b]
+[quote]
+[size=14pt][b]边栏：无支流 - 迷途超链者[/b][/size]
 
-新兴的超链者可能只能逐渐认识到自己的真实本性。虽然每个人都知道魔法，只要看了战斗法师卡尔(Karl Kombatmage)或赤花翠辉(Suki Redflower)的最新冒险，或三重天的纪录片和新闻，超链者缺乏来自神话、历史甚至科学的榜样可以依赖。尽管2070年超链者得到了广泛的媒体报道和关注，但新兴超链者通常需要更多的时间来理解他们可以做的“奇怪的事情”，并找到自己的支流，以应对这些能力。
+刚浮现的超链者可能只是逐渐认识到自己的真实本性。虽然每个人都知道魔法，只要看了战斗法师卡尔(Karl Kombatmage)或赤花翠辉(Suki Redflower)的最新冒险，或三维全息视频上的纪录片和新闻，超链者缺乏来自神话、历史甚至科学的榜样可以依赖。尽管在2070年超链者得到了广泛的媒体报道和关注，但刚浮现的超链者通常需要更多的时间来理解他们能做的“奇怪的事情”，并找到自己的支流，以处理这些能力。
 
-然而，一些超链者可能永远无法掌握自己的特殊性质，也无法找到一条帮助他们控制自己的能力并以有序的方式引导它们的途径。这些野蛮的超链者无法控制自己的能力，也无法有意识地编译精灵。他们不受控制的活体化身和与电子系统和节点的不稳定交互经常使他们成为不可预测的存在，对他们自己和他们的环境是一种威胁，特别是如果他们在因为恐惧或愤怒而情绪紧张的情况下易于失去控制的能力。
+然而，一些超链者可能永远都无法掌握自己的特殊性质，也无法找到一条帮助他们控制自己的能力并以有序的方式引导他们的支流。这些迷途超链者无法控制自己的能力，也无法有目的地编译网精。他们不受控制的活体化身以及与电子系统和节点的不稳定交互经常使他们变成不可预测的存在，这对他们自己和他们周遭的环境构成了威胁，尤其是当他们因为恐惧或愤怒而情绪紧张时容易失去对自己能力的控制。
 
-有关狂野超链者的更多细节，请参阅第38页的特质。
+有关迷途超链者的更多细节，请参阅第38页的特质。
 
 [spoiler]
-[b]WITHOUT A STREAM — WILD TECHNOMANCERS[/b]
-Emerging technomancers may only gradually realize their true nature. While magic is publicly known to everyone watching the latest adventures of Karl Kombatmage or Suki Redflower, or documentaries and news on the trideo, technomancers lack role models from mythology, history, or even science to rely on. Despite the extensive media coverage and attention technomancers received in 2070, it often takes Emerging technomancers more time to understand the “strange things“ they can do and find their own stream in order to deal with those abilities. 
-Some technomancers, however, may never grasp their special nature or find a stream that helps them control their abilities and channel them in ordered ways. These wild technomancers don’t have much control over their abilities and cannot purposely compile sprites. Their uncontrolled living personas and erratic interaction with electronic systems and nodes often turn them into unpredictable beings that are a threat to themselves and their environment, especially if they are prone to lose control over their abilities in emotionally intense situations because of fear or anger. 
+[size=14pt][b]WITHOUT A STREAM — WILD TECHNOMANCERS[/b][/size]
+
+Emerging technomancers may only gradually realize their true nature. While magic is publicly known to everyone watching the latest adventures of Karl Kombatmage or Suki Redflower, or documentaries and news on the trideo, technomancers lack role models from mythology, history, or even science to rely on. Despite the extensive media coverage and attention technomancers received in 2070, it often takes Emerging technomancers more time to understand the “strange things“ they can do and find their own stream in order to deal with those abilities.
+
+Some technomancers, however, may never grasp their special nature or find a stream that helps them control their abilities and channel them in ordered ways. These wild technomancers don’t have much control over their abilities and cannot purposely compile sprites. Their uncontrolled living personas and erratic interaction with electronic systems and nodes often turn them into unpredictable beings that are a threat to themselves and their environment, especially if they are prone to lose control over their abilities in emotionally intense situations because of fear or anger.
+
 For more details on wild technomancers, see the quality on p. 38.
 [/spoiler]
 
 [quote]
-特质：狂野超链者
+[size=12pt][b]特质：迷途超链者[/b][/size]
+
 奖励：10BP
-从学术上讲，这个角色是个超链者。不像大多数超链者，这个角色仍然对他的能力感到困惑或害怕，并且还不能找到一条支流(第136页)。由于缺乏适合自己才能的框架，他很难发展和控制自己的才能。
 
-只有购买了超链者特质的角色才能获得特质。这一特质不能与任何其他赋予共鸣或魔法属性的特质一起使用。
+从学术上讲，这个角色是一名超链者。但与大多数超链者不同，这个角色仍然对他的能力感到困惑或恐惧，而且还没能找到一条支流(第136页)。由于缺乏适合自己才能的框架，他很难控制和发展自己的天赋。
 
-具有这种特质的角色是一个狂野超链者。他从共鸣属性1开始，可以像其他属性一样增加它，最大为6。他有一个活体化身，但不会选择一条支流。他不能具备范式品质(第37页)。狂野超链者也不能从任务调度技能组学习技能，也不能编译、注册或反编译网精。他用他的共鸣x 2来抵抗衰褪。
+只有购买了超链者特质的角色才能获得该特质。这一特质不能与任何其他赋予共鸣或魔法属性的特质一起使用。
 
-狂野超链者在紧张的时候会失去对自己能力的控制。每当他经历强烈的情绪时——例如，当他感到恐惧，达到情绪高潮，勃然大怒，或者紧拥他的孩子——GM可以要求进行意志(3)检定。如果检定成功，角色就会控制自己的能力和情绪。如果没有，他的能力就会爆发出无法控制的共鸣，产生不可预测和危险的影响。这些效果是由GM决定的，但可能包括对附近节点的攻击、发送到订阅设备的破坏性命令、创建一个狂野网精、回声的临时产生和使用，或任何适合超链者的其他效果。这些影响对疯狂的超链者从来没有好处，但几乎总是有害的，甚至危及他和任何旁观者的生命。每一次爆发所造成的衰褪相当于狂野超链者的共鸣。
+具有这个特质的角色是一名迷途超链者。他从共鸣属性1开始，并可以像其他属性一样提高它，最高为6。他有一个活体化身，但不能选择支流。他不能拥有范式特质(第37页)。迷途超链者不能从任务调度技能组学习技能，也不能编译、注册或反编译网精。他用他的共鸣属性x2来抵抗衰褪。
 
-GM应该注意的是，这种品质不能被滥用为“免费”成为超链者并获得额外BP的一种方式。它应该只允许那些真正想要扮演超链者的玩家，以及那些已经准备好迎接RP挑战的超链者的玩家。
+迷途超链者在紧张的时候会失去对自己能力的控制。每当他经历强烈的情绪时——例如，当他因生命危机而感到恐惧，达到情绪高潮，勃然大怒，或是紧拥他的孩子——GM可以要求进行意志(3)检定。如果检定成功，角色就能控制住他自己的能力和情绪。如果未能成功，他的能力就会在一阵无法控制的共鸣中爆发，产生不可预测的危险影响。这些效果由GM决定，但可能包括对附近节点的攻击、发送到订阅设备的破坏性指令、创建一个迷途网精(第160页)、回声的临时产生和使用，或任何适合超链者的其他效果。这些影响对迷途超链者从来没有好处，但几乎总是有害的，甚至危及他和任何其他旁观者的生命。每一次爆发所造成的衰褪相当于迷途超链者的共鸣属性。
+
+GM应该注意的是，这个特质不能被滥用为“免费”成为超链者并获得额外BP的一种方式。它应该只允许那些真正想要扮演超链者的玩家，以及那些已经准备好迎接角色扮演挑战的超链者玩家。
+
 [spoiler]
-WILD TECHNOMANCER 
-Bonus: 10 BP 
-The character is technically a technomancer. Unlike most technomancers, this character is still confused or afraid of his abilities, and has not yet been able to find a stream (p. 136). Lacking a framework for his talent, he has some difficulty developing and controlling it. 
-This quality may only be taken by a character who has purchased the Technomancer quality. This quality may not be taken with any other quality that confers a Resonance or Magic attribute. 
-The character with this quality is a wild technomancer (p.140). He starts with a Resonance attribute of 1 and may increase it like any other attribute, to a maximum of 6. He has a living persona, but does not choose a stream. He may not take the Paragon quality (p. 37). The wild technomancer also may not learn skills from the Tasking skill group, nor may he compile, decompile, or register sprites. He uses his Resonance x 2 to resist Fading. 
-The wild technomancer can lose control of his abilities in times of stress. Anytime he experiences great emotion—for example, when in fear for his life, having an orgasm, flying into a rage, or holding his baby child—the gamemaster may call for a Willpower (3) Test. If this test is successful, the character keeps his abilities and emotions in check. If not, his abilities flare in a burst of uncontrolled Resonance that has unpredictable and dangerous effects. These effects are determined by the gamemaster, but may include attacks on nearby nodes, destructive commands sent to subscribed devices, the creation of a wild sprite (p. 160), the temporary manifestation and use of an echo, or any other effect appropriate for a technomancer. These effects are never beneficial to the wild technomancer, but are almost always harmful or even life-threatening to him and any bystanders. Each outburst causes Fading equal to the wild technomancer’s Resonance. 
+[size=12pt][b]Quality: Wild Technomancer[/b][/size]
+
+Bonus: 10 BP
+
+The character is technically a technomancer. Unlike most technomancers, this character is still confused or afraid of his abilities, and has not yet been able to find a stream (p. 136). Lacking a framework for his talent, he has some difficulty developing and controlling it.
+
+This quality may only be taken by a character who has purchased the Technomancer quality. This quality may not be taken with any other quality that confers a Resonance or Magic attribute.
+
+The character with this quality is a wild technomancer (p.140). He starts with a Resonance attribute of 1 and may increase it like any other attribute, to a maximum of 6. He has a living persona, but does not choose a stream. He may not take the Paragon quality (p. 37). The wild technomancer also may not learn skills from the Tasking skill group, nor may he compile, decompile, or register sprites. He uses his Resonance x 2 to resist Fading.
+
+The wild technomancer can lose control of his abilities in times of stress. Anytime he experiences great emotion—for example, when in fear for his life, having an orgasm, flying into a rage, or holding his baby child—the gamemaster may call for a Willpower (3) Test. If this test is successful, the character keeps his abilities and emotions in check. If not, his abilities flare in a burst of uncontrolled Resonance that has unpredictable and dangerous effects. These effects are determined by the gamemaster, but may include attacks on nearby nodes, destructive commands sent to subscribed devices, the creation of a wild sprite (p. 160), the temporary manifestation and use of an echo, or any other effect appropriate for a technomancer. These effects are never beneficial to the wild technomancer, but are almost always harmful or even life-threatening to him and any bystanders. Each outburst causes Fading equal to the wild technomancer’s Resonance.
+
 Gamemaster’s should be careful that this quality is not abused as a way of becoming a technomancer “for free” and getting extra BP to boot. It should only be allowed for players who are serious about playing a technomancer and who are ready for the roleplaying challenge of a technomancer that is not in control of—and endangered by—his own abilities.
 [/spoiler]
+[/quote]
 [/quote]
