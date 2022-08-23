@@ -1,8 +1,361 @@
-[b][size=12pt]INTRODUCTION P.5[/size][/b]
+[color=brown][size=12pt][b]引言 P.5[/b][/size][/color]
 
-[b][size=12pt]MOONLIGHTING P.6[/size][/b]
+[color=brown][size=12pt][b]私活 P.6[/b][/size][/color]
 
-[b][size=12pt]WILD & FREE P.10[/size][/b]
+[color=brown][size=12pt][b]迷途或是自由 P.10[/b][/size][/color]
+
+[b]Perspectives P.11[/b]
+对浮现者和AI的管控 P.11
+The First Box P.11
+Inside the Box (The Free) P.12
+New Boxes P.12
+
+[b]Reading the Fine Print (Inside the Box) P.13[/b]
+Old Boxes p.15
+Along the Edges P.16 
+Finding Faults P.17
+The Wild Matrix (Outside the Box) P.18 
+This Side Up (Side A) P.19
+Handle with Care (Side B) P.19
+
+[b]Telling Them Apart P.20[/b]
+
+[color=brown][size=12pt][b]A FIELD GUIDE TO HACKING P.23[/b][/size][/color]
+
+[b]Why Preserve Any of It? P.22[/b]
+
+[b]游戏信息 P.26[/b]
+物理位置和矩阵侦察 P.26
+远程矩阵监察 P.27
+所有权 P.27
+团队协作成就梦想 P.27 
+社会工程和网络钓鱼 P.27
+Matrix Legwork P.28
+增强现实对象 P.28
+冷模，热模，还是AR？ P.28
+矩阵动作 P.28
+极限动作 P.31
+荧幕上的矩阵魔法！ P.31
+
+[color=brown][size=12pt][b]GADCETS & GIZMOS P.33[/b][/size][/color]
+
+[b]Cyberhacks P.33[/b]
+
+[b]定制赛博碟板 P.34[/b]
+获取定制赛博碟板 P.34 
+打造你专属的碟板 P.34
+
+[b]着手工作 P.35[/b]
+核心 P.35
+核心插槽 P.35
+攻击模块 P.35
+隐匿模块 P.36
+Case P.36
+Case Modifications P.37
+可选组件 P.38
+配件 P.38
+
+[b]Gizmos P.40[/b]
+Data Taps P.40
+Matrix Relay P.41
+
+[b]通讯链骇入 P.43[/b]
+
+[color=brown][size=12pt][b]ELEGANT ARCHITECTURE P.45[/b][/size][/color]
+
+[b]How We Got Here P.45[/b]
+
+主机种类 P.46
+Host Architecture P.46
+
+[b]游戏信息 P.47[/b]
+The Virtual Horizon P.47
+建造主机的花费 P.52
+计算机 P.52
+砖瓦 P.53
+紫外光主机 P.53
+
+[color=brown][size=12pt][b]DICITAL TOOL BOX P.55[/b][/size][/color]
+
+[b]编写代码 P.55[/b]
+
+[b]编程检定 P.55[/b]
+
+[b]编程工具 P.56[/b]
+
+[b]通讯链应用 P.56[/b]
+
+[b]新赛博程序 P.57[/b]
+普通赛博程序 P.57
+骇入赛博程序 P.57
+
+[b]代理 P.59[/b]
+Agent Box P.60
+远程任务 P.60
+
+[color=brown][size=12pt][b]超链者工具 P.62[/b][/size][/color]
+
+[b]新复合程式 P.62[/b]
+New Fade Value P.62
+新回声 P.67
+Data Structures P.69
+
+[color=brown][size=12pt][b]POINTS OF SPRITE P.72[/b][/size][/color]
+
+[b]新网精种类 P.72[/b]
+Assassin Sprite P.72
+Defender Sprite P.72
+Modular Sprite P.72
+Music Sprite P.72
+Primal Sprite P.73
+
+[b]新网精能力 P.73[/b]
+Captivate Audience P.73
+Death Mark P.74
+Digital Scream P.74
+Fractal Dream P.74
+Harmonize P.74
+Shield P.74
+
+[b]New Sprite Commands P.74[/b]
+Courier Sprite Tasks P.75
+Crack Sprite P.75
+Data Sprite P.75
+Fault Sprite P.75
+Machine Sprite P.75
+
+[b]网精声誉 P.75[/b]
+正面网精声誉 P.76
+负面网精声誉 P.76
+赎罪 P.76
+失谐与网精声誉 P.76
+
+[b]Sprite Teamwork P.76[/b]
+
+[b]Permanent Sprite Creation P.77[/b]
+第一步：获得源代码 P.77
+第二步：编译和注册 P.78
+第三步：永久注册 P.78
+第四步：释放自由网精或绑定盟约网精 P.78
+
+[b]网精共生 P.79[/b]
+
+[color=brown][size=12pt][b]骇入特质 P.80[/b][/size][/color]
+
+[b]正面特质 P.80[/b]
+At Home in the Matrix P.80
+Brilliant Heuristics P.80
+Data Anomaly P.80
+Data Haven Membership  P.81
+Deck Builder P.81
+Fade to Black P.81
+Fractal Blast P.81
+Golden Screwdriver P.81
+Hacker Combo P.81
+Hold the Door P.81
+ICU P.81
+Impenetrable Logic P.82
+Jack Jockey P.82
+Loner P.82
+Matrix Attribute Advancement P.82
+Natural Hacker P.83
+Online Fame P.83
+Profiler P.83
+Quick Config P.83
+Reverberant P.83
+Satisfaction P.83
+Surgical Strike P.84
+Voider of Warranties P.84
+
+[b]Negative Qualities P.84[/b]
+Achilles' Heel P.84
+Binary Mentality P.84
+Buddy System P.84
+Bull in a Ceramics Store P.84
+Compulsive Archivist P.84
+Curiosity Killed the Cat P.85
+Data Liberator P.85
+Defective Attribute P.85
+Like a Boss P.85
+Mode Lock P.85
+Program Dependency P.85
+Simsense Dependency P.86
+Resonance Burn (Emerged-only) P.86
+Sloppy Coder P.86
+Wanted by GOD P.86
+
+[b]Quality Path: Cyberadept P.86[/b]
+Risking Burnout P.86
+
+[b]Quality Path Creation P.88[/b]
+
+[color=brown][size=12pt][b]JNION FOREVER P.89[/b][/size][/color]
+
+[b]人多势众 P.89[/b]
+混合用户小组(MUGS) P.90
+
+[b]Surviving Veterans P.90[/b]
+Denver Collective P.91
+Hacker House P.91
+The Walking People P.93
+
+[b]Neobytes and Startups P.94[/b]
+The (Everett) 811s P.94
+Freebooters P.95
+Light of Spirits P.96
+The Deceased P.97
+
+[b]Game Mechanics P.100[/b]
+Groups, a Collective Effort P.100
+Player Characters and NPC Groups P.101
+
+[color=brown][size=12pt][b]VIRTUAL LIFE P.102[/b][/size][/color]
+
+[b]Protosapients P.103[/b]
+Cyberwerewolf P.104
+Daemon P.104
+Frobnitz P.104
+Glitch P.105
+Grue P.106
+Heavyweight P.106
+Noisestorm P.106
+Power Munger P.106
+Sense Eater P.107
+Sin Eater P.107
+Sintax P.108
+Tentacle P.108
+Yantra P.108
+
+[b]Xenosapients P.109[/b]
+Null Sect Entities P.109
+Null Sect Constructs/Golems P.110
+
+[b]Technocritters P.112[/b]
+Bastet P.112
+Flipper P.113
+G33ko P.113
+Libertine P.113
+Pachyderm P.114
+
+[b]Inherent Virtual Life Form Qualities P.114[/b]
+Authority P.114
+Entropic Conversion P.114
+Fnord P.114
+Malleable Icon P.114
+Munge P.114
+Munge Spark P.115
+Noiseless P.115
+Primal Rage P.116
+Special Protosapient Attack: Noisestorm P.116
+Special Null Attack: Psychotropic Biofeedback P.116
+Virtual Processing P.116
+
+[b]Intelligence Revealed P.116[/b]
+Step One: Define Your Role and History P.116
+Step Two: Select Character Priorities P.117
+Step Three: Select Qualities P.118
+Step Four: Spend Customization Karma P.118
+Step Five: Buy Gear P.118
+Step Six: Finishing Touches P.119
+Positive Virtual Life Form Qualities P.119
+Negative Virtual Life Form Qualities P.120
+AI and EI Character Advancement P.121
+Lifestyles: Strings Attached P.122
+Host, Device, or Free P.122
+Damage, Healing, Disruption, and Dying P.123
+AI and EI Actions P.124
+Codesmithing and Codemods P.125
+Atribute Codemods P.125
+Core Codemods P.126
+Processor Codemods P.127
+Input/Output Codemods P.127
+Digital Weapon Codemods P.128
+Paragons P.129
+Sample Paragons P.129 
+New Technomancer Qualities: Resonant Stream P.130
+
+[color=brown][size=12pt][b]AT THE BASE P.133[/b][/size][/color]
+
+[b]A Brave New World P.133[/b]
+The Grim Secret of the New Matrix P.134
+Unintended Consequences P.134
+The Future is the Past P.135
+What is Foundation-Tech? P.136 
+
+[b]Game Information P.140[/b]
+Using Foundations and Paradigms P.140
+
+[color=brown][size=12pt][b]INFINITIE MEMOR P.147[/b][/size][/color]
+Technomancers Shouldn't Exist (According to Physics) P.147
+Known Resonance Realms P.148
+
+[b]Game Information P.156[/b]
+Entering the Resonance Realms P.156
+
+[color=brown][size=12pt][b]了解你的敌人 P.160[/b][/size][/color]
+
+[b]GOD之息 P.160[/b]
+
+[b]GOD之言 P.162[/b]
+
+[b]GOD之道 P.163[/b]
+
+[b]Burning Down Divinity P.163[/b]
+Detecting the Presence of GOD P.163
+
+[b]The IC Man Cometh P.164[/b]
+ 
+[b]Game Information P.165[/b]
+Alternate Forms of Convergence P.165
+Matrix Security Operatives P.166
+Dominion Response Teams P.167
+Additional Types of IC P.168
+New Matrix Statuses P.169
+IC Specalizations P.169
+
+[color=brown][size=12pt][b]MATRIX BUSINESS P.171[/b][/size][/color]
+
+[b]Edge of the World P.171[/b]
+Hook P.171
+The Job P.172
+Breadcrumbs P.172
+Opposition P.173
+
+[b]It's a Races! P.173[/b]
+Not in Kansas P.174
+Hot Spots P.174
+Who's Who P.175
+Notes P.176
+
+[b]Marianne's Neuro(n)sis P.176[/b]
+Hook P.176
+The Job P.176
+Multi-pass! P.177
+The Pâté Has Hit the Fan! P.177
+The Foundation P.177
+Back to the real world P.177
+Hotspots P.178
+Who's Who P.179
+
+[b]THROwB@cK P.180[/b] 
+Hook P.180 
+The Job P.180 
+Legwork on the "Hell Village" P.180 
+The secret war P.181 
+The truth behind the job P.181 
+Who are the runners working for? P.181 
+And Now What? P.182 
+To See Berlin and Die P.182 
+Picking up the pieces P.182 
+Hotspots P.182 
+Who's Who P.183 
+
+[spoiler]
+[color=brown][size=12pt][b]INTRODUCTION P.5[/b][/size][/color]
+
+[color=brown][size=12pt][b]MOONLIGHTING P.6[/b][/size][/color]
+
+[color=brown][size=12pt][b]WILD & FREE P.10[/b][/size][/color]
 
 [b]Perspectives P.11[/b]
 Control Over the Emerged and AI P.11
@@ -20,24 +373,24 @@ Handle with Care (Side B) P.19
 
 [b]Telling Them Apart P.20[/b]
 
-[b][size=12pt]A FIELD GUIDE TO HACKING P.23[/size][/b]
+[color=brown][size=12pt][b]A FIELD GUIDE TO HACKING P.23[/b][/size][/color]
 
 [b]Why Preserve Any of It? P.22[/b]
 
 [b]Game Information P.26[/b]
-Physical Location and Perception P.26
-Remote Matrix Observation P.27
-Ownership P.27
-Teamwork Makes the Dream P.27 
-Social Engineering and Phishing P.27
-Matrix Legwork P.28
-Augmented Reality Objects P.28
-Hot-sim, Cold-sim, or AR? P.28
-Matrix Actions P.28
-Edge Actions P.31
-Movie Matrix Magic! P.31
+Physical Location and Perception P.26 
+Remote Matrix Observation P.27 
+Ownership P.27 
+Teamwork Makes the Dream P.27  
+Social Engineering and Phishing P.27 
+Matrix Legwork P.28 
+Augmented Reality Objects P.28 
+Hot-sim, Cold-sim, or AR? P.28 
+Matrix Actions P.28 
+Edge Actions P.31 
+Movie Matrix Magic! P.31 
 
-[b][size=12pt]GADCETS & GIZMOS P.33[/size][/b]
+[color=brown][size=12pt][b]GADCETS & GIZMOS P.33[/b][/size][/color]
 
 [b]Cyberhacks P.33[/b]
 
@@ -59,9 +412,9 @@ Accessories P.38
 Data Taps P.40
 Matrix Relay P.41
 
-[b]Commlink Hacks P.43[/]
+[b]Commlink Hacks P.43[/b]
 
-[b][size=12pt]ELEGANT ARCHITECTURE P.45[/size][/b]
+[color=brown][size=12pt][b]ELEGANT ARCHITECTURE P.45[/b][/size][/color]
 
 [b]How We Got Here P.45[/b]
 
@@ -75,7 +428,7 @@ Computers P.52
 Bricks P.53
 UV Hosts P.53
 
-[b][size=12pt]DICITAL TOOL BOX P.55[/size][/b]
+[color=brown][size=12pt][b]DICITAL TOOL BOX P.55[/b][/size][/color]
 
 [b]Writing Code P.55[/b]
 
@@ -93,287 +446,260 @@ Hacking Cyberprograms P.57
 Agent Box P.60
 Remote Missions P.60
 
-[b][size=12pt]TECHNO TOOLS P.62[/size][/b]
+[color=brown][size=12pt][b]TECHNO TOOLS P.62[/b][/size][/color]
 
 [b]New Complex Forms P.62[/b]
 New Fade Value P.62
 New Echoes P.67
 Data Structures P.69
 
----
+[color=brown][size=12pt][b]POINTS OF SPRITE P.72[/b][/size][/color]
 
-POINTS OF SPRITE 
-New Sprite Types 
-Assassin Sprite
-Defender Sprite 
-Modular Sprite 
-Music Sprite 
-Primal Sprite
-New Sprite owe
-Captivate Audience 
-Death Mark 
-Digital e
-Fractal Dream 
-H
-New Sprite Commands  
-Courier Sprite a
-Crack Sprite 
-Data Sprite 
+[b]New Sprite Types P.72[/b]
+Assassin Sprite P.72
+Defender Sprite P.72
+Modular Sprite P.72
+Music Sprite P.72
+Primal Sprite P.73
 
-Fault Sprite 
-Machine Sprite 
-Sprite Rep 
-Positive Sprite 
-Negative Sprite Rep 
-Atonement 
-Dissonance and Sprite Rep 
-Sprite Teamwork 
-Permanent
-Sprite Creation 
-Step One:
-Get the Source 
-Step TwO:
-Compile and eee
-Step Three:
-Permanent Registration 
-Step Four:
-Release Free Sprite
-or Bond Ally e
-Sprite Symbiosis 
-UALITY HACKING 
-Positive Qualities 
-At Home in the 
-Brilliant Heuristics 
-Data Anomaly 
+[b]New Sprite Powers P.73[/b]
+Captivate Audience P.73
+Death Mark P.74
+Digital Scream P.74
+Fractal Dream P.74
+Harmonize P.74
+Shield P.74
 
-Data Haven Membership 
-Deck 
-Fade to Black 
-Fractal 
-Golden Screwdriver 
-Hacker 
-Hold the 
+[b]New Sprite Commands P.74[/b]
+Courier Sprite Tasks P.75
+Crack Sprite P.75
+Data Sprite P.75
+Fault Sprite P.75
+Machine Sprite P.75
 
-Impenetrable Logic 
-Jack Jockey 
+[b]Sprite Rep P.75[/b]
+Positive Sprite Rep P.76
+Negative Sprite Rep  P.76
+Atonement P.76
+Dissonance and Sprite Rep P.76
 
-Loner 
-Matrix Attribute Advancement 
-Natural Hacker 
-Online Fame 
-Profiler 
-Quick Config 
-Reverberant 
-ae
-Surgical 
-Voider of Warranties 
-Negative Qualities 
-Achilles' Heel 
-Binary Mentality 
-Buddy System 
-Bull in a Ceramics Store 
-Compulsive Archivist 
-Curiosity Killed the Cat 
+[b]Sprite Teamwork P.76[/b]
 
-Data e
-Defective Attribute 
-Like a Boss 
-Mode Lock 
-Program Dependency 
-Simsense Dependency 
-Resonance Burn
-(Emerged-only) 
-Sloppy Coder 
+[b]Permanent Sprite Creation P.77[/b]
+Step One: Get the Source P.77
+Step Two: Compile and Register P.78
+Step Three: Permanent Registration P.78
+Step Four: Release Free Sprite or Bond Ally Sprite P.78
 
-Wanted by GOD 
-Quality Path: eyber
-Risking Burnout 
-Quality Path Creation  
-JNION FOREVER 
+[b]Sprite Symbiosis P.79[/b]
 
-Strength in Numbers 
-Mixed-User Groups U 
-Surviving verere
-Denver Collective 
-Hacker 
-The walking 
-Neobytes and aru
-The (Everett) s  
-Freebooters 
-Light of Spirits 
-The Deaae
+[color=brown][size=12pt][b]QUALITY HACKING P.80[/b][/size][/color]
 
-Game Mechanics 
-Groups, a
-Collective Effort 
-Player Characters
-and NPC Groups 
-VIRTUAL LIFE 
-Prossap
-Cyberwerewolf 
+[b]Positive Qualities P.80[/b]
+At Home in the Matrix P.80
+Brilliant Heuristics P.80
+Data Anomaly P.80
+Data Haven Membership  P.81
+Deck Builder P.81
+Fade to Black P.81
+Fractal Blast P.81
+Golden Screwdriver P.81
+Hacker Combo P.81
+Hold the Door P.81
+ICU P.81
+Impenetrable Logic P.82
+Jack Jockey P.82
+Loner P.82
+Matrix Attribute Advancement P.82
+Natural Hacker P.83
+Online Fame P.83
+Profiler P.83
+Quick Config P.83
+Reverberant P.83
+Satisfaction P.83
+Surgical Strike P.84
+Voider of Warranties P.84
 
-ro
+[b]Negative Qualities P.84[/b]
+Achilles' Heel P.84
+Binary Mentality P.84
+Buddy System P.84
+Bull in a Ceramics Store P.84
+Compulsive Archivist P.84
+Curiosity Killed the Cat P.85
+Data Liberator P.85
+Defective Attribute P.85
+Like a Boss P.85
+Mode Lock P.85
+Program Dependency P.85
+Simsense Dependency P.86
+Resonance Burn (Emerged-only) P.86
+Sloppy Coder P.86
+Wanted by GOD P.86
 
-Heavyweight 
-w
-Power M
-Sense Eater 
+[b]Quality Path: Cyberadept P.86[/b]
+Risking Burnout P.86
 
-SIN Eater 
-e
-e
-Yantra 
-Xenosapients 
-Null Sect t
-Null Sect Constructs/Golems  
-Technocritters 
+[b]Quality Path Creation P.88[/b]
 
+[color=brown][size=12pt][b]JNION FOREVER P.89[/b][/size][/color]
 
+[b]Strength in Numbers P.89[/b]
+Mixed-User Groups (MUGS) P.90
 
+[b]Surviving Veterans P.90[/b]
+Denver Collective P.91
+Hacker House P.91
+The Walking People P.93
 
+[b]Neobytes and Startups P.94[/b]
+The (Everett) 811s P.94
+Freebooters P.95
+Light of Spirits P.96
+The Deceased P.97
 
-Libertine 
+[b]Game Mechanics P.100[/b]
+Groups, a Collective Effort P.100
+Player Characters and NPC Groups P.101
 
-rar
+[color=brown][size=12pt][b]VIRTUAL LIFE P.102[/b][/size][/color]
 
-Inherent virtualLife
-Form Qualities 
+[b]Protosapients P.103[/b]
+Cyberwerewolf P.104
+Daemon P.104
+Frobnitz P.104
+Glitch P.105
+Grue P.106
+Heavyweight P.106
+Noisestorm P.106
+Power Munger P.106
+Sense Eater P.107
+Sin Eater P.107
+Sintax P.108
+Tentacle P.108
+Yantra P.108
 
-Athor
+[b]Xenosapients P.109[/b]
+Null Sect Entities P.109
+Null Sect Constructs/Golems P.110
 
-Entropic oevs
+[b]Technocritters P.112[/b]
+Bastet P.112
+Flipper P.113
+G33ko P.113
+Libertine P.113
+Pachyderm P.114
 
+[b]Inherent Virtual Life Form Qualities P.114[/b]
+Authority P.114
+Entropic Conversion P.114
+Fnord P.114
+Malleable Icon P.114
+Munge P.114
+Munge Spark P.115
+Noiseless P.115
+Primal Rage P.116
+Special Protosapient Attack: Noisestorm P.116
+Special Null Attack: Psychotropic Biofeedback P.116
+Virtual Processing P.116
 
+[b]Intelligence Revealed P.116[/b]
+Step One: Define Your Role and History P.116
+Step Two: Select Character Priorities P.117
+Step Three: Select Qualities P.118
+Step Four: Spend Customization Karma P.118
+Step Five: Buy Gear P.118
+Step Six: Finishing Touches P.119
+Positive Virtual Life Form Qualities P.119
+Negative Virtual Life Form Qualities P.120
+AI and EI Character Advancement P.121
+Lifestyles: Strings Attached P.122
+Host, Device, or Free P.122
+Damage, Healing, Disruption, and Dying P.123
+AI and EI Actions P.124
+Codesmithing and Codemods P.125
+Atribute Codemods P.125
+Core Codemods P.126
+Processor Codemods P.127
+Input/Output Codemods P.127
+Digital Weapon Codemods P.128
+Paragons P.129
+Sample Paragons P.129 
+New Technomancer Qualities: Resonant Stream P.130
 
-Malleable 
+[color=brown][size=12pt][b]AT THE BASE P.133[/b][/size][/color]
 
-Munge 
+[b]A Brave New World P.133[/b]
+The Grim Secret of the New Matrix P.134
+Unintended Consequences P.134
+The Future is the Past P.135
+What is Foundation-Tech? P.136 
 
-Munge 
-Noiseless 
+[b]Game Information P.140[/b]
+Using Foundations and Paradigms P.140
 
-Primal Rage 
+[color=brown][size=12pt][b]INFINITIE MEMOR P.147[/b][/size][/color]
+Technomancers Shouldn't Exist (According to Physics) P.147
+Known Resonance Realms P.148
 
-Special Protosapient
-Attack: Noisestorm 
+[b]Game Information P.156[/b]
+Entering the Resonance Realms P.156
 
-Special Null Attack:
-Psychotropic Biofeedback 
+[color=brown][size=12pt][b]KNOW YOUR ENEMY P.160[/b][/size][/color]
 
-Virtual ressn
+[b]The Breath of GOD P.160[/b]
 
-Intelligence Revealed 
-Step One: Define
-Your Role and History 
-Step TWO: Select
-Character Priorities 
-Step Three:
-Select Qualities 
-Step Four: Spend
-Customization Karma  
-Step Five: BuY Gear 
-Step Six: Finishing Touece 
-Positive Virtual
-Life Form Qualities 
+[b]The Word of GOD P.162[/b]
 
-Negative Virtual
-Life Form Qualities 
-AI and EI Character
-Advancement 
-Lifestyles:
-Strings Attached 
-Host, Device, or F
-Damage, Healing, Disruption,
-and Di
-AI and EI A
+[b]The Path of GOD P.163[/b]
 
-Codesmithing
-and Codemods 
-， 
-Atribute codemods 
+[b]Burning Down Divinity P.163[/b]
+Detecting the Presence of GOD P.163
 
-Core Codemods 
-
-Processor Codemods 
-
-Input/output codemods 
-Digital Weapon codemods 
-Paragons 
-
-Sample Paragons 
-
-New Technomancer Qualities:
-Resonant e
-,
-AT THE BASE 
-A Brave New w
-The Grim Secret
-of the New Matrix 
-Unintended Consequences 
-The Future is the 
-What is Foundation-Tech? 
-Game Information 
-Using Foundations
-and Paradigms 
-INFINITIE MEMOR
-Technomancers Shouldn't Exist
-(According to Physics) 
-Known Resonance Realms 
-Game Information 
-Entering the
-Resonance Realms 
-KNOW YOUR ENEMY 
-The Breath of GOD
-The Word of 
-The Path of 
-Burning Down Divinity
-
-Detecting the
-Presence of GOD
-
-The IC Man Cometh
+[b]The IC Man Cometh P.164[/b]
  
-Game Information 
+[b]Game Information P.165[/b]
+Alternate Forms of Convergence P.165
+Matrix Security Operatives P.166
+Dominion Response Teams P.167
+Additional Types of IC P.168
+New Matrix Statuses P.169
+IC Specalizations P.169
 
-Alternate Forms
-of Convergence 
+[color=brown][size=12pt][b]MATRIX BUSINESS P.171[/b][/size][/color]
 
+[b]Edge of the World P.171[/b]
+Hook P.171
+The Job P.172
+Breadcrumbs P.172
+Opposition P.173
 
-Matrix Security Operatives 
-Dominion Response Teams 
-Additional Types of IC 
-New Matrix Statuses 
-IC Specalizations 
-MATRIX BUSINESS 
-Edge of the  
+[b]It's a Races! P.173[/b]
+Not in Kansas P.174
+Hot Spots P.174
+Who's Who P.175
+Notes P.176
 
-The 
-Breadcrumbs 
+[b]Marianne's Neuro(n)sis P.176[/b]
+Hook P.176
+The Job P.176
+Multi-pass! P.177
+The Pâté Has Hit the Fan! P.177
+The Foundation P.177
+Back to the real world P.177
+Hotspots P.178
+Who's Who P.179
 
-It's a 
-Not in Kansas 
-Hot Spots 
-Who's 
-Notes 
-Marianne's
-Neuro(n)sis 
-Hook 
-The 
-Multi-pass! 
-The Pate Has Hit the Fan!  
-The on
-Back to the real w
-oo
-Who's 
-THROwB@cK 
-Legwork on the
-"Hell Village"
-
-The secret war  
-The truth behind the 
-Who are the runners
-And Now h
-To See Berlin and Die 
-Picking up the pieces 
-
-Who's 
+[b]THROwB@cK P.180[/b] 
+Hook P.180
+The Job P.180
+Legwork on the "Hell Village" P.180
+The secret war P.181
+The truth behind the job P.181
+Who are the runners working for? P.181
+And Now What? P.182
+To See Berlin and Die P.182
+Picking up the pieces P.182
+Hotspots P.182
+Who's Who P.183
+[/spoiler]
