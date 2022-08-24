@@ -62,7 +62,7 @@ Submersion Task: Base cost – 20% (round up)*
 
 [size=12pt][b]网络深潜[/b][/size]
 
-虽然角色可以很容易地自行深潜(第238页，SR4页)，但她也可以作为一个共鸣网络的一部分这样做。出于对矩阵和链接彼此的共鸣的共同兴趣和理解，有着相同兴趣的深潜超链者经常会进行虚拟的连接。虽然一些临时网络(昵称为聚会)的存在只是为了共享知识或共同的深潜过程，但大多数网络(昵称为公会)是稳定和长期的协会，为分享和交换信息与知识提供了基础，即使这些公会仅在虚拟世界存在。
+虽然角色可以很容易地自行深潜(第238页，SR4页)，但她也可以作为一个共鸣网络的一部分这样做。出于对矩阵和链接彼此的共鸣的共同兴趣和理解，有着相同兴趣的深潜超链者经常会进行虚拟的连接。虽然一些临时网络(昵称为集会)的存在只是为了共享知识或共同的深潜过程，但大多数网络(昵称为公会)是稳定和长期的协会，为分享和交换信息与知识提供了基础，即使这些公会仅在虚拟世界存在。
 
 [spoiler]
 [size=12pt][b]NETWORK SUBMERSION[/b][/size]
@@ -220,17 +220,11 @@ However, if all versions of a source code are somehow deleted, the programmer wi
 
 [size=14pt][b]超链者网络[/b][/size]
 
-With the omnipresence of the Matrix and the high frequency of commlinks, social networking of like-minded people has become an important factor in the global society in the ’70s. New Matrix-mediated social environments form every day, disappear, and rise again a week later. The participation of people in online circles, forums, chats, or folksonomy has drastically increased with the introduction of the wireless Matrix. Technomancers draw a huge advantage from this connectivity, which allows technomancers from anywhere on the globe to get in contact who probably would never have the chance to meet in person.
+通过无所不在的矩阵和随处可见的通讯链，由志同道合者组成的社交网络成为70年代全球社会的一个重要组成部分。以矩阵为媒介的新社会环境每天都在形成，消失，在一周后又再次崛起。随着无线矩阵的引入，人们对在线圈子、论坛、聊天室或门户的参与急剧增加。超链者从这种连接中取得了巨大的优势，因为全球各地的超链者都能够借此与可能永远没有机会见面的人取得联系。
 
-通过无所不在的矩阵和随处可见的通讯链，由志同道合者组成的社交网络成为70年代全球社会的一个重要组成部分。新的以矩阵为媒介的社会环境每天都在形成，消失，在一周后再次出现。随着无线矩阵的引入，人们对在线圈子、论坛、聊天室或门户的参与急剧增加。全球任何地方的超链者都可以联系到可能从来没有机会见面的人，这使得超链者从这种连接中获得了巨大的优势。
+随着2070年超链者的正式“登场“，人们对他们的能力变得更加”了解”。尽管遭到了其他网络用户的排斥和偏见，以及企业和猎头所采取的防范措施，但那些想要分享知识、教导他人或从其他经验丰富的超链者那里寻求启发的超链者正在利用矩阵——他们的自然环境——作为彼此交流的媒介。
 
-With the official “coming out“ of technomancers in 2070, people have been more ”free-giving” with their abilities. Despite rejection and prejudice by other online users and precautions taken by corporations and head-hunters, technomancers who want to share knowledge, teach others, or seek enlightenment from experienced technomancers are using the Matrix—their natural environment—as a medium to communicate with each other.
-
-随着2070年超链者的正式“登场“，人们对他们的能力变得更加”了解”。尽管遭到了其他网络用户的拒绝和偏见，企业和猎头也采取了预防措施，但想要分享知识、教导他人或从其他经验丰富的超链者那里寻求启发的超链者正在利用矩阵——他们的自然环境——作为彼此交流的媒介。
-
-Technomancer networks are virtual social platforms on which technomancers can interact via dedicated sites, SIGs, chatboards, and sometimes even eye-to-eye meetings. While these sites don’t have to be strictly technomancer-related and can focus on any other topic (trid, clubs, guns) or feature databases with a great number of normal (non-technomancer) members, they always have a special members area, often marked by a resonance signature or link that only technomancers and resonance beings can see, where technomancers can communicate in privacy without hackers and corporate henchmen snooping around. This members-only area is where the true resonance network meets.
-
-超链者网络是一种虚拟的社交平台，超链者可以通过专门的网站、兴趣小组、聊天板，有时甚至是面对面的会议进行互动。虽然这些网站不需要严格超链者相关, 可以专注于其他主题(交易、俱乐部、枪)或特征数据库与大量的正常(非超链者)成员, 他们总是有一个特殊的成员区域, 通常由共鸣签名或共鸣链接标记, 只有超链者和其他共鸣实体的人可以看到, 在那里，超链者可以在没有黑客和公司下属窥探的情况下私下交流。这个会员专区是真正的共鸣网络的交汇处。
+超链者网络是一种虚拟的社交平台，超链者可以通过专门的网站、兴趣小组、聊天板，有时甚至是面对面的会议进行互动。虽然这些网站不需要严格地与超链者相关, 也可以专注于其他主题(交易、俱乐部、枪)或具有大量正常(非超链者)成员的特征数据库，但它们总有一个特殊的成员区, 通常由只有超链者和其他共鸣实体可以看到的共鸣签名或共鸣链接来进行标记，在那里，超链者可以在没有黑客和公司下属窥探的情况下私密交流。这个会员专区是真正的共鸣网络的交汇处。
 
 [spoiler]
 [size=14pt][b]TECHNOMANCER NETWORKS[/b][/size]
@@ -242,15 +236,15 @@ With the official “coming out“ of technomancers in 2070, people have been mo
 Technomancer networks are virtual social platforms on which technomancers can interact via dedicated sites, SIGs, chatboards, and sometimes even eye-to-eye meetings. While these sites don’t have to be strictly technomancer-related and can focus on any other topic (trid, clubs, guns) or feature databases with a great number of normal (non-technomancer) members, they always have a special members area, often marked by a resonance signature or link that only technomancers and resonance beings can see, where technomancers can communicate in privacy without hackers and corporate henchmen snooping around. This members-only area is where the true resonance network meets.
 [/spoiler]
 
-[size=12pt][b]团体和公会[/b][/size]
+[size=12pt][b]集会和公会[/b][/size]
 
-一般来说，有两种不同类型的共鸣网络：团体和公会。
+一般来说，有两种不同类型的共鸣网络：集会和公会。
 
-临时的网络，没有固定成员，称为团体。参与者的数量和特定的个人可能每次聚会都有所不同。它们通常是出于参与人员的共同兴趣而临时形成的(例如，由于深潜、共享的深潜任务或回声学习过程)，并且通常是自发建立的。其成员不一定有任何相似的观点或社会约束。团体聚会通常在一个只有超链者才能找到的专用网站上，距离聚会实际举行很短的时间前公布。
+没有固定成员的临时网络被称为集会。参与者的数量和特定的个人可能每次集会都有所不同。它们通常是出于参与者的共同利益而临时形成的(例如，由于深潜、共享的深潜任务或回声学习的过程)，而且往往是自发成立的。其成员不一定有任何相似的观点或社会约束。集会的举办信息通常在一个只有超链者才能找到的专门网站上，距离集会实际举行前很短的时间内公布。
 
-公会是类似于魔法团体的稳定协会。尽管公会成员仅在网上见面，可能生活在不同的大陆，并且可能从未见过对方，但他们觉得彼此联系不仅是因为他们的能力，还因为他们拥有相似的目标或理念。公会是超链者社区的中心，允许超链者分享经验和资源、使用共鸣练习并寻找指导。
+公会是类似于魔法组织的稳定协会。尽管公会成员仅在网上见面，可能生活在不同的大陆，并且可能从未见过对方，但他们感到彼此联系，这不仅是因为他们的能力，还因为他们拥有相似的目标或理念。公会是超链者社区的中心，允许超链者分享经验和资源、练习共鸣能力并寻求指导。
 
-虽然所有公会主要致力于促进对共鸣的理解，但大多数网络也有一个推动议程，无论是虚拟的还是其他的，它将新兴的和思想开放的用户团结在一个共同的目标下。除了超链者，共鸣网络还包括一些非超链者的支持者，他们因为共同的议程而与网络保持一致。众所周知，一些非超链者的超人类主义者或觉醒团体和网络成瘾者会帮助超链者找到出路。
+虽然所有公会都主要致力于促进对共鸣的了解，但大多数网络也有一个驱动性的议程，不管是虚拟的还是其他的，它将思想开放的已浮现用户团结在一个共同的目标下。除了超链者，共鸣网络还包括一些非超链者的支持者，他们因为共同的议程而与网络结盟。众所周知，一些非超链者的超人类主义者或觉醒集会和网络成瘾者会帮助超链者找到他们的道路。
 
 [spoiler]
 [size=12pt][b]PARTIES AND GUILDS[/b][/size]
@@ -264,18 +258,18 @@ Guilds are stable associations similar to magical groups. Although a guild’s m
 While all guilds are primarily devoted to furthering an understanding of Resonance, most networks also have a driving agenda, virtual or otherwise, that unites Emerged and open-minded users under a common purpose. Apart from technomancers, resonance networks also include a number of non-technomancer supporters who have aligned themselves with the network because of a shared agenda. Some non-technomancer transhumanist or Awakened groups and online junkies have been known to help technomancers find their way.
 [/spoiler]
 
-[b]限制[/b]
+[size=12pt][b]限制[/b][/size]
 
-虽然一些网络倾向于对他们的成员和他们所在的支流非常挑剔，取决于他们的议程，重点和方向，共鸣网络一般倾向于更自由和较少的限制。当事人——因为他们的临时联系——没有限制，但除了之道和网络深潜之外没有提供任何好处(第141页)。
+尽管一些网络倾向于对他们的成员和他们追随的支流较为挑剔，具体取决于他们的议程，重点和方向，但共鸣网络一般倾向于更多的自由和更少的限制。集会——由于他们是临时组织的——没有任何限制，但除了教导和网络深潜之外也没有提供任何益处(第141页)。
 
-为了简单起见，公会网络的限制和资源应该按照《街头魔术》第62-74页所介绍的规则来处理，尽管这些在线团体的性质、目的和结构在本质上是不同的。为了反映这些差异，我们提出了以下基本规则的变体，但我们鼓励GM处理这些关联，因为它们适合自己的游戏和玩家。
+为了简单起见，公会网络的限制和资源应该按照 Street Magic 第62-74页所介绍的规则来处理，尽管这些在线团体的性质、目的和结构在本质上是不同的。为了反映这些差异，我们提出了以下基本规则的变化，但我们鼓励GM与玩家一起处理这些关联，使这些规则适配他们的游戏。
 
-超链者公会网络中常见的限制包括出席、理念、服务、保密和有限会员(第66-67页，《街头魔术》)。保密应该被视为隐私，这是由于政府和公司对超链者的迫害而采取的预防措施，反映出该网站或网络并没有被公开知道是由超链者运行的。
+超链者公会网络中常见的限制包括出席、理念、服务、保密和有限成员(第66-67页，Street Magic)。然而，保密应被视为隐私，这是由于政府和公司对超链者的迫害而采取的预防措施，反映出该网站或网络不为公众所知是由超链者运营的。
 
-更隐秘或有组织的网络，虽然很少，也可能包括契据、服从和物质链接，后者是每个超链者自己的源代码的储存，被创建作为深潜任务的一部分(第141页)。
+更隐秘或组织化的网络，虽然较为少见，但也可能包括契约、服从和物质链接的限制，后者是每个超链者为深潜任务创建的源代码(第141页)的一部分的抵押性存储。
 
 [spoiler]
-[b]STRICTURES[/b]
+[size=12pt][b]STRICTURES[/b][/size]
 
 While some networks tend to be very selective about their members and the streams they ride, depending on their agenda, focus, and orientation, resonance networks tend in general to be more liberal and less restrictive. Parties—because of their temporary association—have no limitations but provide no benefits except for instruction and network submersion (p. 141).
 
@@ -286,30 +280,30 @@ Typical strictures that can be encountered in technomancer guild networks are At
 More secretive or organized networks, though rare, might also include Deed, Obedience, and Material Link, the latter of which is the deposit of each technomancer’s own piece of source code, created as part of a submersion task (p. 141).
 [/spoiler]
 
-[b]资源[/b]
+[size=12pt][b]资源[/b][/size]
 
-大多数网络都有一定程度的资源，这些资源来自于每个成员的小额捐款(而不是会费)，但网络通常不需要太多的钱、设备或软件来维护网站或为他们的议程提供燃料。将大多数网络视为拥有中低资源的群体(第68页，Street Magic)。如果这个网络是一个巨大的数据天堂，或者由于其他原因需要更多的资源，那么可以收取捐款或会员费来获得这些信息。
+虽然大多数网络都有一定程度的资源，这些资源是由每个成员的小额捐款(而不是会费)汇集而成，但网络通常不需要太多的资金、设备或软件来维护网站或推动议程。将大多数网络视为拥有低到中等资源的团体(第68页，Street Magic)。如果这个网络是一个大型数据港，或由于其他原因需要更多的资源，那么可以收取捐款或会员费以允许访问其信息。
 
 [spoiler]
-[b]RESOURCES[/b]
+[size=12pt][b]RESOURCES[/b][/size]
 
 While most networks have certain level of resources, pooled from small contributions (but not dues) that each member makes, networks usually don’t require much money, equipment, or software to maintain the site or to fuel their agenda. Treat most networks as groups with Low to Middle Resources (p. 68, Street Magic). If the network is a vast data haven or requires more resources for some other reason, donations or membership fees could be charged to grant access to this information.
 [/spoiler]
 
-[b]网络的好处[/b]
+[size=12pt][b]网络的益处[/b][/size]
 
-作为超链者网络的一部分，有几个固有的好处。虽然所有的好处都对公会开放，但只有一些对临时团队网络开放。
+成为超链者网络的一部分可以获得几个固有的益处。虽然公会拥有所有的益处，但临时的集会网络只能获得其中一部分。
 
-网络深潜:想要接受深潜的成员可以向网络申请援助。根据第141页(和第238页，SR4)的规则，网络深潜给予深潜的正常业力成本降低20%(整数)。必须预先准备一个适当的穿越仪式，并至少有三名其他成员出席。网络中超链者的数量等于通过网络深潜所能达到的最高等级。
+网络深潜：想要进行深潜的成员可以向网络申请援助。根据第141页(和第238页，SR4)的规则，网络深潜给予深潜的正常业力成本20%(向上取整)的减免。必须预先准备一个恰当的穿越仪式，并至少有三名其他成员出席。网络中超链者的数量等于超链者通过网络深潜所能达到的最高等级。
 
-指导:从定期的互动和密切的意见交换中获得的熟悉，使网络成员在涉及共鸣技能、复合程式或技巧的指导检定中获得+3骰池修正，无论超链者的支流是什么。当使用学习回声规则(第145页)时，超链者也可以从网络成员不深潜地学习回声。
+教导：通过定期互动和密切的意见交流中获得的熟悉程度，使网络成员在涉及共鸣技能、复合程式或技术的教导检定中获得+3骰池修正，无论超链者的支流是什么。当使用学习回声规则(第145页)时，超链者也可以从网络成员处无需深潜地学习回声。
 
-共鸣域搜寻(仅限公会):如果成员在共鸣网络中被链接(参见第143页)，共鸣链接允许网络成员在共鸣域搜寻期间访问一个实例时相互陪伴和帮助。成员必须通过相同的后门进入共鸣领域，但可能在共鸣领域的不同区域结束。
+共鸣域搜寻(仅限公会)：如果成员链接到一个共鸣网络中(参见第143页)，共鸣链接允许网络成员在共鸣域搜寻期间访问一个实例时相互陪伴和彼此帮助。成员必须通过相同的后门进入共鸣域，否则可能在共鸣域的不同区域结束。
 
-网络编织(仅公会，仅当链接在一个共鸣网络中):如果链接在一个共鸣网络中(第143页)，网络成员可以帮助彼此抵抗在小组的网络环境中执行检定的衰褪。与执行检定的超链者在同一节点中出现的每个成员向抵抗衰褪的骰池中添加1个骰子。
+网络编织(仅公会，仅当链接在一个共鸣网络中)：如果链接到一个共鸣网络中(第143页)，网络成员可以帮助彼此抵抗在团体网络环境中执行检定的衰褪。与执行检定的超链者在同一节点中出现的每个成员向抵抗衰褪的骰池中添加1个骰子。
 
 [spoiler]
-[b]NETWORK BENEFITS[/b]
+[size=12pt][b]NETWORK BENEFITS[/b][/size]
 
 There are several benefits intrinsic to being part of a technomancer network. While all are available to guilds, only some are available to temporary party networks.
 
@@ -322,125 +316,126 @@ Resonance Realm Search (Guilds only): If the members are linked in a resonance m
 Netweaving (Guilds only, only if linked in a resonance mesh): If linked in a resonance mesh (p. 143), network members may help each other resist Fading for tests performed in the network environment of the group. Add +1 die to the dice pool to resist Fading for each member who is present in the same node as the technomancer performing the test.
 [/spoiler]
 
-[b]共鸣网络[/b]
+[size=12pt][b]共鸣网络[/b][/size]
 
-与神秘联系相反，超链者网络的成员之间并不是通过业力联系，而是通过更复杂的方法来相互联系。在GM的批准下，超链者可以在深潜后建立与网络的共鸣连接(第238页，SR4)，而不是与另一个超链者。这意味着一个超链者有一个双向的共鸣链接到所有的超链者成员，他们也通过一个共鸣链接进入网络。通过高级回声强化共鸣链接(147页)和共鸣交换(148页)将共鸣链接升级到网络，可以进一步提高共鸣网络的能力。
+与魔法协会不同，超链者网络的成员之间并非通过业力纽带相联系，而是通过更复杂的方法来链接到彼此。在得到GM的批准后，超链者可以在深潜后建立与网络的共鸣链接(第238页，SR4)，而不是与另一个超链者的链接。这意味着超链者与所有也使用共鸣链接将自己纳入网络的超链者有一个双向的共鸣链接。通过进阶回声强化共鸣链接(147页)和共鸣交换(148页)将共鸣链接升级到网络，可以进一步提高共鸣网络的能力。
 
 [spoiler]
-[b]RESONANCE MESHES[/b]
+[size=12pt][b]RESONANCE MESHES[/b][/size]
 
 Contrary to arcane associations, members of a technomancer network don’t bind to each other via karmic bonds but have more sophisticated methods to connect to each other. With the gamemaster’s approval, technomancers may establish a resonance link (p. 238, SR4) to the network instead to another technomancer upon submersion. This means a technomancer has a two-way resonance link to all technomancer members who have also meshed themselves into the network with a resonance link. The abilities of the resonance mesh can further be improved by upgrading the resonance link to the network through the advanced echoes Enhanced Resonance Link (p. 147) and Resonance Exchange (p. 148).
 [/spoiler]
 
-[b]搜索并加入网络[/b]
+[size=12pt][b]搜索并加入网络[/b][/size]
 
-虽然加入一个超链者网络不需要检定，也不需要花费业力，但实际上找到这个群体可能很棘手。由于超链者在人口中所占比例很小，而且在矩阵中存在的网络数量庞大，超链者网络相对稀少，所以很难找到。游戏鼓励玩家和GM在游戏过程中进行超链者的搜寻，让超链者的角色利用他的联系人和虚拟跟踪能力来收集线索，以确定网络的位置。
+虽然加入一个超链者网络既不需要检定，也不需要花费业力，但真正找到这个群体却很困难。由于超链者在人口中所占的比例很小，而矩阵中存在的网络数量庞大，所以超链者网络相对来说较为稀少，很难找到。我们鼓励玩家和GM在游戏中扮演超链者寻找这些团体的成员，让超链者角色利用他的人脉和虚拟追踪能力来收集网络位置的线索。
 
-临时的团队网络更容易找到，如果合适的团队正在组建或正在组建(游戏备注:由GM决定)，则需要进行共鸣+数据搜索(8,1天)延续检定。
+临时的集会网络更容易找到，如果合适的集会已经成立或正在组建(游戏备注：由GM决定)，则可以进行共鸣+数据搜索(8，1天)延续检定来发现它。
 
 [spoiler]
-[b]FINDING AND JOINING A NETWORK[/b]
+[size=12pt][b]FINDING AND JOINING A NETWORK[/b][/size]
 
-While joining a technomancer network neither requires a test nor costs karma, actually finding the group can be tricky. Due to the small fraction of technomancers within a population, and the sheer number of networks that exist in the Matrix, technomancer networks are comparatively rare and hard to find. Players and gamemasters are encouraged to play out the technomancer’s search for these groups during the game, letting the technomancer’s character draw on his contacts and virtual tracking abilities to assemble clues to the location of the network. 
+While joining a technomancer network neither requires a test nor costs karma, actually finding the group can be tricky. Due to the small fraction of technomancers within a population, and the sheer number of networks that exist in the Matrix, technomancer networks are comparatively rare and hard to find. Players and gamemasters are encouraged to play out the technomancer’s search for these groups during the game, letting the technomancer’s character draw on his contacts and virtual tracking abilities to assemble clues to the location of the network.
+
 Temporary party networks are easier to find and require a Resonance + Data Search (8, 1 day) Extended Test, if an appropriate party is currently set up or is being formed (gamemaster’s discretion).
 [/spoiler]
 
 ---
 
-[b]网络样例[/b]
+[size=14pt][b]网络样例[/b][/size]
 
-以下是一些可供玩家使用或GM适应自己游戏的网络示例。
+以下是一些可供玩家或GM使用或适配自己游戏的网络示例。
 
 [spoiler]
-[b]SAMPLE NETWORKS[/b]
+[size=14pt][b]SAMPLE NETWORKS[/b][/size]
 
 Here are some sample networks for players or gamemasters to use or adapt for their own games.
 [/spoiler]
 
 [quote]
-[b]协作[/b]
+[size=12pt][b]协作[/b][/size]
 
-目的：协作是一个出于共同利益而合作的超链者网络。虽然每个超链者都利用该组织和该组织对超链者“艺术”的综合知识来达到自己的目的，但该网络也作为一个集体反对超链者的敌人，反对和惩罚迫害新兴势力的企业和政府组织。
+[b]目的：[/b]协作是一个出于共同利益而合作的超链者网络。虽然每个超链者都利用该组织和该组织对超链者“艺术”的综合知识来达到自己的目的，但该网络也作为一个集体反对超链者的敌人，对迫害浮现者的企业和政府组织采取行动并予以惩罚。
 
-成员：7人(均为来自不同支流的超链者)
+[b]成员：[/b]7人(均为来自不同支流的超链者)
 
-束缚：会费，隐私
+[b]限制：[/b]会费，隐私
 
-资源/会费：中等。会费为每月600新元，用于维护和扩展在线资源，包括为会员提供无限的存储容量，以及在网络安全和保护会员数据库方面提供足够的隐私。一些钱在需要的时候被用于“可否认的资产”(暗影狂奔者);在这种情况下，其中一名成员会扮演约翰逊先生的虚拟角色。
+[b]资源/会费：[/b]中等。会费为每月600新元，用于维护和扩展线上资源，包括为会员提供无限的存储容量，以及在网络安全和保护会员数据库方面提供更充分地隐私。一些资金被用来在需要时购买“可否认的资产”(雇佣暗影狂奔者)；在这种情况下，其中一名组织成员会出演使用约翰逊先生化身的虚拟角色。
 
-描述与特点：协作(也被称为Co-op)是一个超链者网络，在“崩溃”事件后不久，政治迫害开始之前就已经成立了，由三个名叫Cortex、Wizbyte和Slashdot的前黑客创建，他们试图了解发生在自己身上的事情。他们的结论是，他们可以通过合作和汇集自己的能力方面的知识来实现更多的目标，他们是最早形成的超链者网络之一。在超链者出现期间，他们利用自己的能力和网络资源来对抗企业阴谋，招募有前途的成员来对抗超链者敌人，并雇佣狂奔者来保护超链者或进行破坏活动。尽管从那时起，女巫狩猎已经减少，但协作并没有忘记这些公司使公众反对超链者，并导致数人死亡。那些以超链者实验闻名的公司和机构(如MCT或地平线)经常成为协作行动和骇入的目标，向他们的主机发送网精或从共鸣领域诅咒他们的枢纽。
+[b]描述与特点：[/b]协作(The Cooperative，也被称为Co-op)是一个超链者网络，在“崩溃”事件后不久，女巫狩猎开始之前就已经成立了，由三位名叫Cortex、Wizbyte和Slashdot的前黑客创建，他们试图了解发生在自己身上的事情。他们的结论是，通过合作和汇集关于自身能力的知识，他们可以实现更多的目标，他们是最早形成的超链者网络之一。在超链者浮现期间，他们利用自身能力和网络资源来对抗企业阴谋，招募有前途的成员来对抗超链者的敌人，并雇佣狂奔者来保护超链者或进行破坏活动。尽管从那时起女巫狩猎有所减少，但协作并没有忘记这些公司让公众反对超链者，并导致数人死亡。那些以超链者实验闻名的公司和机构(如MCT或地平线)经常成为协作行动和骇入的目标，他们向他们的主机发送网精或从共鸣域诅咒他们的节点。
 
 [spoiler]
-[b]THE COOPERATIVE[/b]
+[size=12pt][b]THE COOPERATIVE[/b][/size]
 
-Purpose: The Cooperative is a technomancer network that works together out of mutual interest. While each technomancer uses the group and the group’s combined knowledge of technomancer "arts" for his own purposes, the network also stands up as a collective against the enemies of technomancers, acting against and punishing corporate and governmental organizations that persecute the Emerged. 
+[b]Purpose:[/b] The Cooperative is a technomancer network that works together out of mutual interest. While each technomancer uses the group and the group’s combined knowledge of technomancer "arts" for his own purposes, the network also stands up as a collective against the enemies of technomancers, acting against and punishing corporate and governmental organizations that persecute the Emerged. 
 
-Members: 7 (all technomancers of different streams) 
+[b]Members:[/b] 7 (all technomancers of different streams) 
 
-Strictures: Dues, Privacy 
+[b]Strictures:[/b] Dues, Privacy 
 
-Resources/Dues: Middle. Dues are 600 nuyen per month, which are used to maintain and expand online resources, including unlimited storage capacity for its members plus more-than-sufficient privacy in terms of network security and protection of the members’ data vaults. Some money is used for “deniable assets” (shadowrunners) when they are needed; on these occasions, one of the group members takes the virtual role of a Mr. Johnson avatar. 
+[b]Resources/Dues:[/b] Middle. Dues are 600 nuyen per month, which are used to maintain and expand online resources, including unlimited storage capacity for its members plus more-than-sufficient privacy in terms of network security and protection of the members’ data vaults. Some money is used for “deniable assets” (shadowrunners) when they are needed; on these occasions, one of the group members takes the virtual role of a Mr. Johnson avatar. 
 
-Description and Customs: The Cooperative (also known as Co-op) is a technomancer network that was already founded before the witch-hunts began shortly after the Crash, by three former hackers known as Cortex, Wizbyte, and Slashdot who met when they were trying to understand what was happening to them. Coming to the conclusion that they could achieve more by cooperating and pooling their knowledge about their abilities, they were among the first technomancer networks to be formed. During the Emergence of technomancers, they used their abilities and their network’s resources against corporate machinations, recruiting promising members in their fight against technomancer enemies and hiring shadowrunners to protect technomancers or commit sabotage. Although witch-hunts have declined since then, the Cooperative has not forgotten the corporations’ methods that turned the public against technomancers, resulting in the deaths of several. Those corporations and institutions with reputations for technomancer experimentation (like MCT or NeoNET) have become frequent targets of Cooperative action and hacks, sending out sprites against their nexi or cursing their nodes from the resonance realm.
+[b]Description and Customs:[/b] The Cooperative (also known as Co-op) is a technomancer network that was already founded before the witch-hunts began shortly after the Crash, by three former hackers known as Cortex, Wizbyte, and Slashdot who met when they were trying to understand what was happening to them. Coming to the conclusion that they could achieve more by cooperating and pooling their knowledge about their abilities, they were among the first technomancer networks to be formed. During the Emergence of technomancers, they used their abilities and their network’s resources against corporate machinations, recruiting promising members in their fight against technomancer enemies and hiring shadowrunners to protect technomancers or commit sabotage. Although witch-hunts have declined since then, the Cooperative has not forgotten the corporations’ methods that turned the public against technomancers, resulting in the deaths of several. Those corporations and institutions with reputations for technomancer experimentation (like MCT or NeoNET) have become frequent targets of Cooperative action and hacks, sending out sprites against their nexi or cursing their nodes from the resonance realm.
 [/spoiler]
 [/quote]
 
 [quote]
-[b]奇瓦网[/b]
+[size=12pt][b]奇瓦网[/b][/size]
 
-目的:奇瓦网倡导超链者融入现实社会，致力于成为超链者与普通矩阵用户通过矩阵进行开放交流和沟通的平台。
+[b]目的：[/b]奇瓦网倡导超链者融入现实社会，致力于成为超链者与普通矩阵用户通过矩阵进行开放交流和沟通的平台。
 
-会员:130人(约10名超链者，主要是技术萨满)。
+[b]会员：[/b]130人(约10名超链者，主要是技术萨满)。
 
-限制:出席、理念、限制会员(NAN公民)、服务
+[b]限制：[/b]出席、理念、限制会员(NAN公民)、服务
 
-资源/会费:奢华，无需会费(全额赞助)。该网络拥有大量节点，并可访问奇瓦网中根深蒂固并受到保护的共鸣井(等级为5)。
+[b]资源/会费：[/b]奢华，无需会费(全额赞助)。该网络拥有大量节点，并可访问奇瓦网中根深蒂固并受到保护的共鸣井(能级5)。
 
-赞助人:普韦布洛公司理事会
+[b]赞助人：[/b]普韦布洛公司理事会
 
-描述和特点:2070年秋天，普韦布洛公司理事会基于多个萨满的建议创建了奇瓦网，它是一个被称为"奇瓦"(圣地)的虚拟节点网络，朝着一个共同的目标工作，即全球社会对超链者的接受。在PCC的支持下，奇瓦网致力于在PCC的超链者和部落社区(以及那些想要参与的NAN社区)之间建立沟通。虽然奇瓦网对非超链者开放，但它有一个核心小组，主要是技术萨满，他们负责kiva节点，教授新出现的超链者，并主持或参与公开论坛或讨论小组，以教育公众。大多数技术萨满追随某种范式，并对理解和与他们结盟的实体和思想进行沟通感兴趣，利用网络的共鸣作为通往共鸣领域的门户，与他们的范式交流或探索不同的共鸣领域。
+[b]描述和特点：[/b]2070年秋天，普韦布洛公司理事会(Pueblo Corporate Council，PCC)基于多个萨满的建议创建了奇瓦网，它是一个被称为"奇瓦"(圣地)的虚拟节点网络，致力于实现一个共同目标，即全球社会对超链者的接纳。在PCC的支持下，奇瓦网致力于在PCC的超链者之间和部落社区(以及那些想要参与的NAN社区)之间建立沟通。虽然奇瓦网对非超链者开放，但它有一个核心小组，主要由技术萨满组成，他们负责维护奇瓦节点，教导新浮现的超链者，并主持公开论坛或参与讨论小组以教育公众。大多数技术萨满都追随某种范式，并对理解和与他们结盟的实体和意识进行沟通感兴趣，他们利用网络的共鸣井作为通往共鸣域的门户，与他们的范式交流或探索不同的共鸣域。
 
 [spoiler]
-[b]KIVANET[/b]
+[size=12pt][b]KIVANET[/b][/size]
 
-Purpose: The KivaNet advocates the integration of technomancers into tribal society and has dedicated itself to act as a platform for open exchange and communication between technomancers and normal Matrix users via the Matrix. 
+[b]Purpose:[/b] The KivaNet advocates the integration of technomancers into tribal society and has dedicated itself to act as a platform for open exchange and communication between technomancers and normal Matrix users via the Matrix. 
 
-Members: 130 (~10 technomancers, mainly technoshamans) 
+[b]Members:[/b] 130 (~10 technomancers, mainly technoshamans) 
 
-Strictures: Attendance, Belief, Limited Membership (NAN citizens), Service 
+[b]Strictures:[/b] Attendance, Belief, Limited Membership (NAN citizens), Service 
 
-Resources/Dues: Luxury, no dues (fully sponsored). The network possesses a plethora of nodes and has access to a resonance well (Rating 5) that is deeply entrenched and safeguarded in the Kiva network.
+[b]Resources/Dues:[/b] Luxury, no dues (fully sponsored). The network possesses a plethora of nodes and has access to a resonance well (Rating 5) that is deeply entrenched and safeguarded in the Kiva network.
 
-Patron: Pueblo Corporate Council
+[b]Patron:[/b] Pueblo Corporate Council
 
-Description and Customs: Created by the Pueblo Corporate Council on the advice of various shamanic interests in the autumn of 2070, the KivaNet is a network of virtual nodes called "kivas" (holy places) that work toward a common goal, the acceptance of technomancers within global society. Supported by the PCC, the KivaNet works to establish communication among technomancers and between the tribal communities of the PCC (and those of the NAN who want to participate). While the KivaNet is open to nontechnomancers, it has a core group of, mostly, technoshamans, who take care of the kiva nodes, teach newly Emerged technomancers, and moderate or participate in open forums or discussion groups to educate the public. Most technoshamans follow some sort of paragon and are interested in understanding and communication with the entities and ideas they are aligned with, using the network’s resonance well as gateways to the resonance realms to commune with their paragon or explore different resonance realms.
+[b]Description and Customs:[/b] Created by the Pueblo Corporate Council on the advice of various shamanic interests in the autumn of 2070, the KivaNet is a network of virtual nodes called "kivas" (holy places) that work toward a common goal, the acceptance of technomancers within global society. Supported by the PCC, the KivaNet works to establish communication among technomancers and between the tribal communities of the PCC (and those of the NAN who want to participate). While the KivaNet is open to nontechnomancers, it has a core group of, mostly, technoshamans, who take care of the kiva nodes, teach newly Emerged technomancers, and moderate or participate in open forums or discussion groups to educate the public. Most technoshamans follow some sort of paragon and are interested in understanding and communication with the entities and ideas they are aligned with, using the network’s resonance well as gateways to the resonance realms to commune with their paragon or explore different resonance realms.
 [/spoiler]
 [/quote]
 
 [quote]
-[b]行者[/b]
+[size=12pt][b]行者[/b][/size]
 
-目的:“行者“也被一些人称为”导路者”或数字吉普赛，是一个来自伦敦的前宅客部落，在崩溃2.0之后分散在欧洲各地，但在2070年的活动中已经改革为一个虚拟网络。
+[b]目的：[/b]“行者“也被一些人称为”导路者”或数字吉普赛，是一个来自伦敦的前宅客部落，在崩溃2.0之后分散在欧洲各地，但在2070年的事件中已经改革为一个虚拟网络。
 
-成员:24人(13名超链者)
+[b]成员：[/b]24人(13名超链者)
 
-束缚:会费、博爱
+[b]束缚：[/b]会费、友爱
 
-资源/会费:低。会员每年捐款50元。该网络拥有很少的会议中心节点，主要在英国。
+[b]资源/会费：[/b]低。会员每年捐款50元。该网络拥有很少的会议中心节点，主要在英国。
 
-描述和特点:由于部落不得不面对的损失(网络崩溃，成员死亡，能力和资源的损失)，导路者在崩溃2.0中解散。虽然一些成员之间保持着松散的联系，但大多数成员采用了游牧的生活方式，为了更好的未来离开了英国，在柏林、阿姆斯特丹、华沙或GeMiTo(热那亚、米兰、图卢兹)等欧洲主要大都市的贫瘠地区，在快速变化的世界中挣扎着生存。尽管仍然存在的微弱联系在随后的几年里开始瓦解，但2070年的事件导致了部落的改革，虽然只是在数字世界。一些留在伦敦的成员复活了部落的前节点，超链者和非超链者开始再次访问系统，更新旧的习俗，并成长为一个更现代的版本的前部落。从那时起，“行者“就开始松散地合作，帮助彼此在新的地理家园中生存，形成了一个横跨欧洲的连接网络。超链者主要照顾部落的数字需求，而”普通人”，黑客、电子专家和技术奇才往往照顾世俗需求，充当超链者的保护者。
+[b]描述和特点：[/b]受硝烟影响，由于部落不得不面对的损失(网络崩溃，成员死亡，能力和部落资源的损失)，导路者在崩溃2.0中解散。虽然一些成员之间保持着松散的联系，但大多数成员采用了游牧的生活方式，为了更好的未来离开了英国，在柏林、阿姆斯特丹、华沙或GeMiTo(热那亚、米兰、图卢兹)等欧洲主要大都市的贫瘠地区，在快速变化的世界中挣扎求生。尽管仍然存在的微弱联系在随后的几年里开始瓦解，但2070年的事件导致了部落的改革，虽然仅发生在数字世界。一些留在伦敦的成员复活了部落的前节点，超链者和非超链者开始再次访问系统，重新认识以前的情况，并成长为一个更现代版本的前部落。从那时起，“行者”就开始松散地合作，帮助彼此在新的地理家园中生存，形成了一个横跨欧洲的连接网络。超链者主要负责部落的数字需求，而“凡俗人”，黑客、电子专家和技术奇才经常负责世俗需求，并充当超链者的保护者。
 
 [spoiler]
-[b]THE WALKING PEOPLE[/b]
+[size=12pt][b]THE WALKING PEOPLE[/b][/size]
 
-Purpose: Also called "Routers" or Digital Gypsies by some people, the Walking People is a former otaku tribe, originally from London, that scattered all over Europe in the wake of Crash 2.0 but has reformed virtually as a network during the events in 2070. 
+[b]Purpose:[/b] Also called "Routers" or Digital Gypsies by some people, the Walking People is a former otaku tribe, originally from London, that scattered all over Europe in the wake of Crash 2.0 but has reformed virtually as a network during the events in 2070. 
 
-Members: 24 (13 technomancers) 
+[b]Members:[/b] 24 (13 technomancers) 
 
-Strictures: Dues, Fraternity 
+[b]Strictures:[/b] Dues, Fraternity 
 
-Resources/Dues: Low. Members contribute 50 nuyen annu- ally. The network possesses few central nodes for meetings, mainly in the UK.
+[b]Resources/Dues:[/b] Low. Members contribute 50 nuyen annu- ally. The network possesses few central nodes for meetings, mainly in the UK.
 
-Description and Customs: Originating from the Smoke, the Routers disbanded during Crash 2.0 due to the losses (net destruction, deaths, loss of abilities and the tribe’s resources) the tribe had to face. While some members remained in loose contact with each other, most members adopted a nomadic lifestyle and left the United Kingdom for a better future, struggling for survival in a fast-changing world in barren areas of Europe’s major metroplexes like Berlin, Amsterdam, Warsaw, or GeMiTo. While the faint associations that still existed began to crumble over the years that followed, the events of 2070 led to a reformation of the tribe, albeit only in the digital world. When some members who had stayed in London resurrected the tribe’s former node, both technomancers and non-technomancers began visiting the system again, renewing the old familiarities and growing into a more modern version of the former tribe. Since then the Walking People have been loosely working together to help each other survive in their new geographical homes, forming a connected network that spans Europe. While the technomancers mainly take care of the tribe’s digital needs, the “mundanes,” hackers, electronics specialists, and tech-wizards often take care of worldly needs and act as the technomancers’ protectors.
+[b]Description and Customs:[/b] Originating from the Smoke, the Routers disbanded during Crash 2.0 due to the losses (net destruction, deaths, loss of abilities and the tribe’s resources) the tribe had to face. While some members remained in loose contact with each other, most members adopted a nomadic lifestyle and left the United Kingdom for a better future, struggling for survival in a fast-changing world in barren areas of Europe’s major metroplexes like Berlin, Amsterdam, Warsaw, or GeMiTo. While the faint associations that still existed began to crumble over the years that followed, the events of 2070 led to a reformation of the tribe, albeit only in the digital world. When some members who had stayed in London resurrected the tribe’s former node, both technomancers and non-technomancers began visiting the system again, renewing the old familiarities and growing into a more modern version of the former tribe. Since then the Walking People have been loosely working together to help each other survive in their new geographical homes, forming a connected network that spans Europe. While the technomancers mainly take care of the tribe’s digital needs, the “mundanes,” hackers, electronics specialists, and tech-wizards often take care of worldly needs and act as the technomancers’ protectors.
 [/spoiler]
 [/quote]

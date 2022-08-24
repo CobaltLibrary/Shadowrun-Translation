@@ -344,7 +344,7 @@ A character may learn echoes from any free sprite that knows the technique, alth
 
 ---
 
-[size=12pt][b]线程化的新应用[/b][/size]
+[size=12pt][b]线程化能力扩展[/b][/size]
 
 超链者能力的一个关键方面是他通过线程化即兴创作助记算法和临时共鸣程序的能力，这赋予了他经常被低估的通用性和适应性。随着超链者对自己能力的不断理解，一些人发现了线程化的更多用途。其中许多都需要通过深潜和获取回声来对特定的矩阵过程获得更深入的了解。
 
