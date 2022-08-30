@@ -1,4 +1,5 @@
-[color=brown][size=12pt][b]暗影狂奔4E 无线[/b][/size][/color]
+[color=brown][size=14pt][b]暗影狂奔4E 无线[/b][/size][/color]
+
 [spoiler]Shadowrun 4E UNWIRED[/spoiler]
 
 [quote]
@@ -79,12 +80,12 @@ PAN的拓扑结构 P.58-59
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128341.0]超链者范式 P.149-151 [/url]
 
 [b][size=12pt]网精[/size][/b]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=128717.0]网精 章首故事 P.152 [/url] [color=green] [待修正] [/green]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128717.0]网精 章首故事 P.152 [/url]
 [b]新的网精规则[/b]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=128727.0]新的网精规则 P.154 [/url] [color=green] [待修正] [/green]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128727.0]新网精规则 P.154 [/url]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128747.0]新网精类型、新网精能力 P.154-157 [/url] [color=green] [待修正] [/green]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128865.0]自由网精 P.157-160 [/url] [color=green] [待修正] [/green]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=128905.0]荒野网精 P.160 [/url] [color=green] [待修正] [/green]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128905.0]迷途网精 P.160 [/url] [color=green] [待修正] [/green]
 
 [b][size=12pt]矩阵现象[/size][/b]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128913.0]章首故事 P.161 [/url] [color=green] [待修正] [/green]
