@@ -2,11 +2,11 @@
 
 几个世纪前，一些聪明的家伙想出了一个聪明的主意，建造可以自我监视的监狱。该怎么做？通过让安保人员一直监视所有的囚犯。他的想法是，如果囚犯认为他们被监视着，他们就会乖乖听话，不管实际上有没有人在监视。好在他们没有微型无人机和微型摄像机，嗯？
 
-好吧，看起来他的想法终于实现了。而且不仅仅是在监狱里--事实上，那相当失败，因为罪犯们往往不在乎他们在监狱里是否被监视--毕竟，他们已经在监狱里了，所以还能发生什么？而那些诚实的公民，那些薪奴和企业的绵羊，他们高兴地稳步而行，相信有善良的牧羊人在注视着他们。大多数人对在公共场所公布他们的SIN和ID的要求不加思索。无处不在的无人机呼啸而过并被忽略，它们被认为只是风景的一部分。人们认为，无处不在的摄像头注视着所有地方。没有人想到他们每次访问公共场所的ARO、购买豆咖、乘坐公交车或进入公共/私人区域时留下的数据痕迹。在全球无线矩阵计划之前，不留下数据痕迹是可能的。见鬼，这甚至一点也不难；使用信用棒，在马来西亚独立银行或其他私人机构开设匿名银行账户，通过黑市服务注册一个通讯码......所有这些加上一套漂亮的西装，你几乎可以去任何地方而不会引起注意。
+好吧，看起来他的想法终于实现了。而且不仅仅是在监狱里--事实上，那相当失败，因为罪犯们往往不在乎他们在监狱里是否被监视--毕竟，他们已经在监狱里了，所以还能发生什么？而那些诚实的公民，那些薪奴和企业的绵羊，他们高兴地稳步而行，相信有善良的牧羊人在注视着他们。大多数人对在公共场所公布他们的SIN和ID的要求不加思索。无处不在的无人机呼啸而过并被忽略，它们被认为只是风景的一部分。人们认为，无处不在的摄像头注视着所有地方。没有人想到他们每次访问公共场所的ARO、购买豆咖、乘坐公交车或进入公共/私人区域时留下的数据痕迹。在全球无线矩阵计划之前，不留下数据痕迹是可能的。见鬼，这甚至一点也不难；使用信用棒，在马来西亚独立银行或其他私人机构开设匿名银行账户，通过黑市服务注册一个通讯码……所有这些加上一套漂亮的西装，你几乎可以去任何地方而不会引起注意。
 
 现在，要在蔓城区活动，你必须有一个SIN，一个ID，和一个通讯链。你所到之处，每一个图标、店面或公共终端都会创建一个记录。无人机在街上巡逻，扫描人们，以确保他们的通讯链正在广播正确的数据。摄像机随处可见，记录并分析每一个动作。无线流量被拦截、分析和记录。或者说，我们是如此被告知的。所以我们这么相信。
 
-这是真的吗？“他们”真的一直在监视，监视所有地方，监视所有人吗？嗯......是也不是。从心理学上讲，这并不重要--如果人们相信他们被监视，他们就会像被监视那样行动。在企业的领域，如办公楼等，可能有人在监视。然而在公共场所，没有足够的人力或资金来真正配备所有这些监控系统，所以他们依靠程序和代理，然而它们并不特别擅长在其编程参数之外运作。现在，如果他们正在寻找特定的人，那么他们可以进行追踪。如果犯罪发生，他们已经将其记录下来了。祝你好运。
+这是真的吗？“他们”真的一直在监视，监视所有地方，监视所有人吗？嗯……是也不是。从心理学上讲，这并不重要--如果人们相信他们被监视，他们就会像被监视那样行动。在企业的领域，如办公楼等，可能有人在监视。然而在公共场所，没有足够的人力或资金来真正配备所有这些监控系统，所以他们依靠程序和代理，然而它们并不特别擅长在其编程参数之外运作。现在，如果他们正在寻找特定的人，那么他们可以进行追踪。如果犯罪发生，他们已经将其记录下来了。祝你好运。
 
 > 我想指出的是，许多研究表明，这一理论是行不通的，无处不在的摄像头监控对减少犯罪几乎没有任何作用，它所做的唯一事情是帮助破坏公民自由，并给当局提供无限的滥用机会。
 
@@ -37,7 +37,7 @@ Is it true? Are "they" really watching, all the time, everywhere, everyone? Well
 
 > Glitch
 
-> RFID标签可以被放置在任何东西上。是的，任何东西。这包括你中午吃的奶油棒和你大口畅饮的豆咖。你就是你所食用的东西......
+> RFID标签可以被放置在任何东西上。是的，任何东西。这包括你中午吃的奶油棒和你大口畅饮的豆咖。你就是你所食用的东西……
 
 > Netcat
 
@@ -153,7 +153,7 @@ On the bright side, if you’re trying to run surveillance on a mark or just sta
 
 任何人都可以进行数据搜索。在搜索框中输入一个名字和SIN，然后点击确定。即使是最笨拙的用户也可以对某些东西或某些人进行搜索，而后返回惊人的信息量。对一个人进行基本搜索可以发现他的姓名、出生日期、出生地、父母姓名、雇主、工作经历、犯罪历史、教育、婚姻，甚至是SIN。深入的搜索可以发现更多信息。而这只是一个普通人办到的；黑客和超链者可以挖掘出连当事人都不知道的信息。确保你的隐私的唯一方法是脱离网络，成为无SIN人。但对大多数人来说(不包括狂奔者)，这代价太高了。
 
-数据搜索只是薪奴生活中的一个事实。学校检索他们，雇主检索他们，政府检索他们。像我们这样的狂奔者可能会有稍微不同的看法，这取决于你开始时有或没有SIN。如果你有一个真SIN(即使你不使用它)，你就会在系统中。聪明的狂奔者会想删除与自己有关的数据。删除SIN的成本高，耗时长，而且非常复杂，只有大型集团和黑客团队才有能力和资源来做这件事。这是一项大工程--进入并摆脱冷存储备份，检查每个SIN数据库并删除记录，删除医疗文件(包括那些硬拷贝备份和存储的DNA样本)，教育记录，犯罪记录......提供SIN删除服务的机构收取高额费用，但是一分钱一分货。
+数据搜索只是薪奴生活中的一个事实。学校检索他们，雇主检索他们，政府检索他们。像我们这样的狂奔者可能会有稍微不同的看法，这取决于你开始时有或没有SIN。如果你有一个真SIN(即使你不使用它)，你就会在系统中。聪明的狂奔者会想删除与自己有关的数据。删除SIN的成本高，耗时长，而且非常复杂，只有大型集团和黑客团队才有能力和资源来做这件事。这是一项大工程--进入并摆脱冷存储备份，检查每个SIN数据库并删除记录，删除医疗文件(包括那些硬拷贝备份和存储的DNA样本)，教育记录，犯罪记录……提供SIN删除服务的机构收取高额费用，但是一分钱一分货。
 
 如果你没有SIN，警察可能会对你进行搜索，但他们会发现你的SIN完全是空白的，或者是假SIN，如果你用过某个的话(或者更糟糕的是，如果你没有注意删除这些SIN，就会发现有多个假SIN)。这完全取决于他们使用什么标准来搜索，以及什么生物识别数据与你的SIN(或多个SIN)相联系，无论是真是假。如果他们在搜索中没有发现什么--因为你到现在为止一直很小心--并不意味着他们不会开始汇编数据。在工作现场留下一根头发或一些皮肤细胞，你的DNA就会出现在某个数据库中，即使它只是标有“未知"。最终，如果你继续狂奔，他们有可能会抓到一个或另一个ID，所有这些"未知”的数据比特将最终有一个名字联系到它们。
 
@@ -235,7 +235,7 @@ For the rest of the world, the average wageslave, privacy is a very valuable ill
 
 由于人们对视频日记、博客和公民记者的痴迷，反监视的流行也就不足为奇了。观察别人几乎和发布关于自己的信息一样有趣。对一些人来说，这只是另一种连接社交网络或通过另一个人的观点观察世界的时髦方式。通过加入Sous-MoSoSo，如Diaries，网络成员被配备了一个持续的记录设备(通常通过赛博眼的内部摄像头或嵌入AR眼镜/护目镜的链接摄像头)，记录佩戴者看到的一切(24/7/365)。它允许观看者成为窥视者--不是某个特定的人，而是他们周围的人。你不是在过他们的生活或感受他们的情绪，只是通过另一双眼睛看世界。
 
-另一些人使用反监视来发表声明，试图监督那些通常提供监督的人(如公司、政府和其他权威人士)，并试图在一个不诚实的世界中实践某种程度的诚实。例如，通过记录警察的行为，他们希望给那些认为自己凌驾于法律之上的官员带来责任。这是一个很好的理论，而且偶尔会奏效--可以提供一些非常好的勒索材料--但企业权力往往会封锁负面新闻。为了应对这种情况，反监视网络已经兴起，与社交网络相结合，在公司或政府能够阻止信息流动之前，将突发新闻一次性带给数百万人。当然，这就是为什么企业有他们的企业宣传部门......
+另一些人使用反监视来发表声明，试图监督那些通常提供监督的人(如公司、政府和其他权威人士)，并试图在一个不诚实的世界中实践某种程度的诚实。例如，通过记录警察的行为，他们希望给那些认为自己凌驾于法律之上的官员带来责任。这是一个很好的理论，而且偶尔会奏效--可以提供一些非常好的勒索材料--但企业权力往往会封锁负面新闻。为了应对这种情况，反监视网络已经兴起，与社交网络相结合，在公司或政府能够阻止信息流动之前，将突发新闻一次性带给数百万人。当然，这就是为什么企业有他们的企业宣传部门……
 
 [spoiler]
 [size=14pt][b]SOUSVEILLANCE: WHO WILL WATCH THE WATCHERS?[/b][/size]
@@ -244,46 +244,48 @@ As obsessed with video-diaries, blogging, and citizen-journal-ists as folks are,
 Other people use sousveillance to make a statement, to try to police those who normally provide policing (like corporations, governments, and other authority figures) and try to enforce some level of honesty in an otherwise dishonest world. By recording the actions of police, for example, they hope to bring accountability to the officers who believe they’re above the law. It’s a nice theory and it works on occasion—and can provide some very nice blackmail material—but corporate powers tend to blackout negative press. Sousveillance networks have sprung up to counter that, combining with social networks to bring breaking news to millions of people at once before a corporation or government can stop the flow of information. Of course, that’s why corps have their corp spin departments … .
 [/spoiler]
 
+[quote]
 [size=14pt][b]西雅图资源检索：反监视[/b][/size]
 
 指非权威人士对权威人士的记录和审查，尤其是来自那些被监视的人。另一种含义指在泛人的视线水平上，从泛人的角度记录数据。
 
-你想观看反监视录像吗？[链接]
+你想观看反监视录像吗？[color=brown][链接][/color]
 
-你想进入一个反监视聊天室吗？[链接]
+你想进入一个反监视聊天室吗？[color=brown][链接][/color]
 
-你想发布你自己的反监视视频吗？[链接]
+你想发布你自己的反监视视频吗？[color=brown][链接][/color]
 
-你想加入一个反监视论坛，社交网络，或移动社交网络吗？[链接]
+你想加入一个反监视论坛，社交网络，或移动社交网络吗？[color=brown][链接][/color]
 
 [spoiler]
 [size=14pt][b]SEASOURCE SEARCH: SOUSVEILLANCE[/b][/size]
 The recording and scrutiny of authority figures by those under their authority, particularly those who are the subject of surveillance. Also, the recording of data from metahuman point-of-view at metahuman eye-level. 
 
-Do you want to watch sousveillance videos? [Link]
+Do you want to watch sousveillance videos? [color=brown][Link][/color]
 
-Do you want to enter a sousveillance Chat Room? [Link]
+Do you want to enter a sousveillance Chat Room? [color=brown][Link][/color]
 
-Do you want to post your own sousveillance video? [Link]
+Do you want to post your own sousveillance video? [color=brown][Link][/color]
 
-Do you want to join a sousveillance forum, social network, or mobile social network? [Link]
+Do you want to join a sousveillance forum, social network, or mobile social network? [color=brown][Link][/color]
 [/spoiler]
+[/quote]
 
 [quote]
 [size=14pt][b]热门反监视视频[/b][/size]
 
-[b]骑士袭击无罪男子[/b]--观看三名身穿制服的警官走近一名正在睡觉的兽人，对该男子拳打脚踢，并使用电击枪。请看KE的官方回应，该男子是“拒捕”。[链接]
+[b]骑士袭击无罪男子[/b]--观看三名身穿制服的警官走近一名正在睡觉的兽人，对该男子拳打脚踢，并使用电击枪。请看KE的官方回应，该男子是“拒捕”。[color=brown][链接][/color]
 
-[b]学生在哈佛面临种族歧视[/b]--观看招生院长将兽人申请者淘汰，指示招生顾问“鼓励獠牙者”申请州立大学。[链接］
+[b]学生在哈佛面临种族歧视[/b]--观看招生院长将兽人申请者淘汰，指示招生顾问“鼓励獠牙者”申请州立大学。[color=brown][链接][/color]
 
-[b]揭秘人道主义警察俱乐部成员[/b]-观看一组人道主义警察火烧当地巨魔家庭的行动，然后他们回到自己家里并揭下面具。让我们听听警察的回应。[链接］
+[b]揭秘人道主义警察俱乐部成员[/b]-观看一组人道主义警察火烧当地巨魔家庭的行动，然后他们回到自己家里并揭下面具。让我们听听警察的回应。[color=brown][链接][/color]
 
 [spoiler]
 [size=14pt][b]POPULAR SOUSVEILLANCE VIDEOS[/b][/size]
-[b]Knight Errant Attacks SINless Man[/b]—Watch three uniformed officers approach a sleeping ork and kick, punch, and taser the man. See official KE response that man was “resisting arrest.” [Link]
+[b]Knight Errant Attacks SINless Man[/b]—Watch three uniformed officers approach a sleeping ork and kick, punch, and taser the man. See official KE response that man was “resisting arrest.” [color=brown][Link][/color]
 
-[b]Students Face Racial Discrimination at Harvard[/b]—Watch as the dean of admissions culls out ork applicants, instructs admissions counselors to “encourage the tuskers” to apply to a state university. [Link]
+[b]Students Face Racial Discrimination at Harvard[/b]—Watch as the dean of admissions culls out ork applicants, instructs admissions counselors to “encourage the tuskers” to apply to a state university. [color=brown][Link][/color]
 
-[b]Humanis Policlub Members, Revealed[/b]—Catch the action as a group of HP torch a local troll family’s home, then return to their homes and unmask. Hear police response. [Link]
+[b]Humanis Policlub Members, Revealed[/b]—Catch the action as a group of HP torch a local troll family’s home, then return to their homes and unmask. Hear police response. [color=brown][Link][/color]
 [/spoiler]
 [/quote]

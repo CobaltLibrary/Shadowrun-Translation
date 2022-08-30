@@ -177,10 +177,11 @@ Of the two remaining Seoulpa Rings in Seattle, the Choson Ring is almost entirel
 
 与此相关的是，盗版软件或黑市程序是犯罪领域的大生意。盗版软件有各种不同的口味--从专门为黑客设计的定制的利用漏洞程序到一些有进取心的黑客为个人使用或转售而释出的合法程序。盗版软件可以通过大型零售商购买，如黑客之家(当然，你需要成为一名黑客才能进入他们的销售节点)或从本地经销商处购买。
 
-比方说，你想要联络-肖最新的搜索助手Fetch。假设你有有效的SIN，ID和银行账户，你可以去虚拟商场花129新元买一个。或者你可以查找你最喜欢的盗版商--可能是一个黑客朋友，友好的三合会，或当地的矩阵团伙--并以10新元的价格购买一份拷贝。当然，你不会得到所有那些漂亮的企业更新......但你对10新元还有什么期望？盗版软件每年使企业损失数十亿新元。
+比方说，你想要联络-肖最新的搜索助手Fetch。假设你有有效的SIN，ID和银行账户，你可以去虚拟商场花129新元买一个。或者你可以查找你最喜欢的盗版商--可能是一个黑客朋友，友好的三合会，或当地的矩阵团伙--并以10新元的价格购买一份拷贝。当然，你不会得到所有那些漂亮的企业更新……但你对10新元还有什么期望？盗版软件每年使企业损失数十亿新元。
 
 [spoiler]
 [size=14pt][b]WAREZ[/b][/size]
+
 On a related note, warez—pirated software or blackmarket programs—are big business in the crime world. Warez come in a variety of flavors—from the customized Exploit program specifically designed by and for hackers to legitimate programs that some enterprising hacker has liberated for personal use or resale. Warez can be bought through a major retailer, like Hacker House (‘course, you’re going to need to be a hacker to get into their sales node) or from local dealers. 
 
 Let’s say you want Xiao-Renraku’s newest search assistant, Fetch. Assuming you have a valid SIN, ID, and bank account, you could go to the virtual mall and pick up a copy for 129¥. Or you could look up your favorite warez dealer—maybe a hacker friend, a friendly Triad, or a local matrix gang—and buy a copy for 10¥. ‘Course, you won’t get all those nice corporate updates … but what do you expect for 10¥? Software piracy costs corps billions of nuyen every year.
@@ -207,6 +208,7 @@ Let’s say you want Xiao-Renraku’s newest search assistant, Fetch. Assuming y
 > Netcat
 
 [spoiler]
+
 > Warez tend to be more prone to problems and glitches. Personally, I think the corps purposely build their software to be glitchy. Legally purchased software gets all the necessary updates. Pirated warez don’t, and eventually all those bugs make them unusable. Who needs copyright protection when you know a hacker only gets a few weeks or months out of your prog before wanting to unload a couple of bullets into his ‘link? 
 
 > Glitch
@@ -234,6 +236,7 @@ Let’s say you want Xiao-Renraku’s newest search assistant, Fetch. Assuming y
 
 [spoiler]
 [b]PIRATE AND HACKER CREWS[/b]
+
 You can’t talk about Matrix crime without talking about Matrix pirates and hacker crews. Pirate crews frequently violate copyright laws and hijack intellectual property. Chances are, if you’ve picked up one of those "free" copies of the latest “Nathan Never” sims or used a multi-user access code for Rocky Mountain Avatar posted on a filesharing network, you’ve benefited from a pirate crew. Hacker crews are a bit more profit oriented and delve deeper into the realm of Matrix crimes—but we’ll talk more about them later.
 [/spoiler]
 
@@ -301,7 +304,7 @@ Data havens work along the same lines. Some charge a fee to access data. As a ru
 
 > FastJack
 
-> 免费的数据港也同样有用。黑客应该做的第一件事是在Nexus、Helix、ShadowSea......该死，在每一个你能找到的数据港获得他或她自己的账户。是否拥有良好的情报是在狂奔中幸存下来或愚蠢地死去的区别。你可以找到关于某人的传言，从狂奔者那里得到他们在热门研究机构看到的安保漏洞的笔记，关于帮派联盟和领土变化的最新信息...你需要它，你可以找到它。
+> 免费的数据港也同样有用。黑客应该做的第一件事是在Nexus、Helix、ShadowSea……该死，在每一个你能找到的数据港获得他或她自己的账户。是否拥有良好的情报是在狂奔中幸存下来或愚蠢地死去的区别。你可以找到关于某人的传言，从狂奔者那里得到他们在热门研究机构看到的安保漏洞的笔记，关于帮派联盟和领土变化的最新信息...你需要它，你可以找到它。
 
 > The Smiling Bandit
 
@@ -437,7 +440,7 @@ Don’t let that lull you into a false sense of security. The G-men are good. Re
 
 > Mr. Bonds
 
-> 是的，但有些薪奴就是这么该死的容易信任，很难抗拒......所有这些可支配收入，他们会相信任何东西。
+> 是的，但有些薪奴就是这么该死的容易信任，很难抗拒……所有这些可支配收入，他们会相信任何东西。
 
 > Snopes
 
