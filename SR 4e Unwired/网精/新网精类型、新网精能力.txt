@@ -1,268 +1,298 @@
-[color=brown][size=16pt][b]新网精类型[/b][/size][/color]
+[size=14pt][b]新网精类型[/b][/size]
 
-暗影狂奔第四版规则只展示了一些可以在矩阵中编译的网精类型。《Unwired》引入了5种新的网精类别，它们可以由遵循恰当支流的超链者编译。除非另有说明，网精遵循在SR4第234-236页上找到的编译、注册和反编译的一般规则。
+暗影狂奔第四版规则仅展示了部分可以在矩阵中编译的网精类型。《Unwired》引入了5种新类别的网精，它们可以由追随适当支流的超链者编译。除非另有说明，网精遵循可以在SR4第234-236页上找到的编译、注册和反编译的常规规则。
 
 [spoiler]
-[size=16pt][b]NEW SPRITES[/b][/size]
+[size=14pt][b]NEW SPRITES[/b][/size]
+
 The Shadowrun, Fourth Edition, rules present just some of the sprites than can be compiled in the Matrix. Unwired introduces five new categories of sprites that can be compiled by technomancers riding an appropriate stream (see Resonance Streams, p. 136). Unless otherwise stated, sprites follow the general rules for compiling, registering, and decompiling found on pp. 234–236, SR4.
 [/spoiler]
  
 [quote]
-[b]编码网精[/b]
+[size=12pt][b]编码网精[/b][/size]
 
-编码网精在机械代码层面与矩阵交互。他们的专长是观察和改变能量与数据流。
+编码网精在机器码层面与矩阵交互。他们的专长是观察和改变能量与数据流。
 
 [table]
-[tr][td][b]自驾[/b][/td][td][b]响应等级[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td][b]自驾[/b][/td][td][b]响应能力[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
 [tr][td]R[/td][td]R[/td][td]R + 2[/td][td]R x 2[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
 
-[b]技能：[/b]计算机、数据搜索、电子战
-
-[b]复合程式：[/b]利用漏洞、解密、编辑、加密
-
-[b]能力：[/b]信息占卜、概率分布
-
-[b]可选复合程式：[/b]分析、破坏、数据炸弹、扫描
+[table]
+[tr][td][b]技能：[/b]计算机、数据搜索、电子战[/td][/tr]
+[tr][td][b]复合程式：[/b]浏览、解密、编辑、加密[/td][/tr]
+[tr][td][b]能力：[/b]信息占卜、概率分布[/td][/tr]
+[tr][td][b]可选复合程式：[/b]分析、破坏、数据炸弹、扫描[/td][/tr]
+[/table]
 
 [spoiler]
-[b]CODE SPRITE[/b]
+[size=12pt][b]CODE SPRITE[/b][/size]
+
 Code sprites interact with the Matrix on the machine code level. Their specialty is watching and changing the flow of data and energy resources.
+
 [table]
 [tr][td][b]Pilot[/b][/td][td][b]Response[/b][/td][td][b]Firewall[/b][/td][td][b]Matrix INIT[/b][/td][td][b]IP[/b][/td][td][b]EDGE[/b][/td][td][b]RES[/b][/td][/tr]
 [tr][td]R[/td][td]R[/td][td]R + 2[/td][td]R x 2[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
-[b]Skills:[/b] Computer, Data Search, Electronic Warfare 
-[b]Complex Forms:[/b] Browse, Decrypt, Edit, Encrypt 
-[b]Powers:[/b] Info Sortilege, Probability Distribution
-[b]Optional CFs:[/b] Analyze, Corrupt, Data Bomb, Scan
+[tr][td][b]Skills:[/b] Computer, Data Search, Electronic Warfare[/td][/tr]
+[tr][td][b]Complex Forms:[/b] Browse, Decrypt, Edit, Encrypt[/td][/tr]
+[tr][td][b]Powers:[/b] Info Sortilege, Probability Distribution[/td][/tr]
+[tr][td][b]Optional CFs:[/b] Analyze, Corrupt, Data Bomb, Scan[/td][/tr]
+[/table]
 [/spoiler]
 [/quote]
 
 [quote]
-[b]守卫网精[/b]
+[size=12pt][b]圣卫网精[/b][/size]
 
-守卫网精是守护者，擅长吸收矩阵伤害，保护超链者免受敌方代理、化身或AI的伤害。
+圣卫网精是守护者，擅长吸收矩阵伤害，保护超链者免受敌对代理、化身或AI的伤害。
 
 [table]
-[tr][td][b]自驾[/b][/td][td][b]响应等级[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td][b]自驾[/b][/td][td][b]响应能力[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
 [tr][td]R[/td][td]R + 2[/td][td]R + 2[/td][td]R x 1[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
 
-[b]技能：[/b]计算机、矩阵战斗、骇入
-
-[b]复合程式：[/b]矩阵护甲，缴械，医疗，护盾
-
-[b]能力：[/b]王车易位、装甲硬化
-
-[b]可选复合程式：[/b]分析，攻击，断片，专家防御(等级÷2，最高三级)
+[table]
+[tr][td][b]技能：[/b]计算机、矩阵战斗、骇入[/td][/tr]
+[tr][td][b]复合程式：[/b]矩阵护甲，缴械，医疗，护盾[/td][/tr]
+[tr][td][b]能力：[/b]王车易位、装甲硬化[/td][/tr]
+[tr][td][b]可选复合程式：[/b]分析，攻击，断片，专家防御(网精能级÷2，最高3级)[/td][/tr]
+[/table]
 
 [spoiler]
-[b]PALADIN SPRITE[/b]
+[size=12pt][b]PALADIN SPRITE[/b][/size]
+
 Paladin sprites are protectors, adept in soaking Matrix damage and protecting the technomancer from hostile agents, personas, or AI.
+
 [table]
 [tr][td][b]Pilot[/b][/td][td][b]Response[/b][/td][td][b]Firewall[/b][/td][td][b]Matrix INIT[/b][/td][td][b]IP[/b][/td][td][b]EDGE[/b][/td][td][b]RES[/b][/td][/tr]
 [tr][td]R[/td][td]R + 2[/td][td]R + 2[/td][td]R x 1[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
-[b]Skills:[/b]Computer, Cybercombat, Hacking 
-[b]Complex Forms:[/b]Armor, Disarm, Medic, Shield
-[b]Powers:[/b]Castling, Hardening
-[b]Optional CFs:[/b]Analyze, Attack, Blackout, Expert Defense (Rating ÷ 2, max. 3)
+
+[table]
+[tr][td][b]Skills:[/b]Computer, Cybercombat, Hacking[/td][/tr]
+[tr][td][b]Complex Forms:[/b]Armor, Disarm, Medic, Shield[/td][/tr]
+[tr][td][b]Powers:[/b]Castling, Hardening[/td][/tr]
+[tr][td][b]Optional CFs:[/b]Analyze, Attack, Blackout, Expert Defense (Rating ÷ 2, max. 3)[/td][/tr]
+[/table]
 [/spoiler]
 [/quote]
 
 [quote]
-[b]侦探网精[/b]
+[size=12pt][b]侦探网精[/b][/size]
 
 侦探网精是优秀的追踪者，据说它们可以通过追踪哪怕是最微小的数据轨迹找到矩阵中的任何人。
 
 [table]
-[tr][td][b]自驾[/b][/td][td][b]响应等级[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td][b]自驾[/b][/td][td][b]响应能力[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
 [tr][td]R[/td][td]R - 1[/td][td]R + 2[/td][td]R x 3[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
 
-[b]技能：[/b]计算机、数据搜索、电子战、骇入
-
-[b]复合程式：[/b]分析、浏览、嗅探，欺骗，隐藏，追踪
-
-[b]能力：[/b]饼干标签、路由跟踪
-
-[b]可选复合程式：[/b]命令、解码、利用漏洞、扫描
+[table]
+[tr][td][b]技能：[/b]计算机、数据搜索、电子战、骇入[/td][/tr]
+[tr][td][b]复合程式：[/b]分析、浏览、嗅探，欺骗，隐匿，追踪[/td][/tr]
+[tr][td][b]能力：[/b]饼干标签、路由追踪[/td][/tr]
+[tr][td][b]可选复合程式：[/b]指令、拆除、利用漏洞、扫描[/td][/tr]
+[/table]
 
 [spoiler]
-[b]SLEUTH SPRITE[/b]
+[size=12pt][b]SLEUTH SPRITE[/b][/size]
+
 Sleuth sprites are excellent trackers, rumored to be able to find anyone in the Matrix by following even the tiniest traces of datatrails.
+
 [table]
 [tr][td][b]Pilot[/b][/td][td][b]Response[/b][/td][td][b]Firewall[/b][/td][td][b]Matrix INIT[/b][/td][td][b]IP[/b][/td][td][b]EDGE[/b][/td][td][b]RES[/b][/td][/tr]
 [tr][td]R[/td][td]R - 1[/td][td]R + 2[/td][td]R x 3[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
-[b]Skills:[/b]Computer, Data Search, Electronic Warfare, Hacking
-[b]Complex Forms:[/b]Analyze, Browse, Sniffer, Spoof, Stealth, Track
-[b]Powers:[/b]Cookies, Traceroute
-[b]Optional CFs:[/b]Command, Decrypt, Exploit, Scan
+
+[table]
+[tr][td][b]Skills:[/b]Computer, Data Search, Electronic Warfare, Hacking[/td][/tr]
+[tr][td][b]Complex Forms:[/b]Analyze, Browse, Sniffer, Spoof, Stealth, Track[/td][/tr]
+[tr][td][b]Powers:[/b]Cookies, Traceroute[/td][/tr]
+[tr][td][b]Optional CFs:[/b]Command, Decrypt, Exploit, Scan[/td][/tr]
+[/table]
 [/spoiler]
 [/quote]
 
 [quote]
-[b]坦克网精[/b]
+[size=12pt][b]坦克网精[/b][/size]
 
-坦克网精有时也被称为领袖网精，它们是矩阵战斗中令人恐惧的对手，以通过暴力破解对抗恶意程序或化身和使用代码渗透攻击程序而闻名。
+坦克网精有时也被称为首领网精(Boss sprites)，它们是矩阵战斗中令人恐惧的对手，以使用武力与锐利代码的攻击程序对抗恶意程序/化身而闻名。
 
 [table]
-[tr][td][b]自驾[/b][/td][td][b]响应等级[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td][b]自驾[/b][/td][td][b]响应能力[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
 [tr][td]R[/td][td]R + 1[/td][td]R + 1[/td][td]R x 2[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
 
-[b]技能：[/b]矩阵战斗
-
-[b]复合程式：[/b]攻击(AP-2)、攻击(腐蚀)、断片、核打击
-
-[b]能力：[/b]猛烈袭击
-
-[b]可选复合程式：[/b]护甲、黑锤头、级联(等级÷2，最高三级)、医疗、护盾
+[table]
+[tr][td][b]技能：[/b]矩阵战斗[/td][/tr]
+[tr][td][b]复合程式：[/b]攻击(AP-2)、攻击(锈蚀)、断片、核打击[/td][/tr]
+[tr][td][b]能力：[/b]强力猛袭[/td][/tr]
+[tr][td][b]可选复合程式：[/b]矩阵护甲、黑锤头、级联(网精能级÷2，最高3级)、医疗、护盾[/td][/tr]
+[/table]
 
 [spoiler]
-[b]TANK SPRITE[/b]
+[size=12pt][b]TANK SPRITE[/b][/size]
+
 Sometimes called Boss sprites, Tank sprites are feared opponents in Matrix combat, known to fight hostile programs or personas with brute force and code-penetrating attack programs.
+
 [table]
 [tr][td][b]Pilot[/b][/td][td][b]Response[/b][/td][td][b]Firewall[/b][/td][td][b]Matrix INIT[/b][/td][td][b]IP[/b][/td][td][b]EDGE[/b][/td][td][b]RES[/b][/td][/tr]
 [tr][td]R[/td][td]R + 1[/td][td]R + 1[/td][td]R x 2[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
-[b]Skills:[/b]Cybercombat
-[b]Complex Forms:[/b]Attack (AP –2), Attack (Rust), Blackout, Nuke
-[b]Powers:[/b]Assault
-[b]Optional CFs:[/b]Armor, Black Hammer, Cascading (Rating ÷ 2, max. 3), Medic, Shield
+
+[table]
+[tr][td][b]Skills:[/b]Cybercombat[/td][/tr]
+[tr][td][b]Complex Forms:[/b]Attack (AP–2), Attack (Rust), Blackout, Nuke[/td][/tr]
+[tr][td][b]Powers:[/b]Assault[/td][/tr]
+[tr][td][b]Optional CFs:[/b]Armor, Black Hammer, Cascading (Rating ÷ 2, max. 3), Medic, Shield[/td][/tr]
+[/table]
 [/spoiler]
 [/quote]
 
 [quote]
-[b]引导网精[/b]
+[size=12pt][b]向导网精[/b][/size]
 
-引导网精是虚拟导师和助手程序的活体显现，它们对特定的技术、交通工具或知识技能有天生的理解。他们能够帮助别人使用、修理或理解特定的设备或程序。
+向导网精是虚拟导师和帮助程序的活体显现，它们对特定的技术、载具或知识技能有着天生的理解。它们能够帮助别人使用、修理或理解某个特定的设备或程序。
 
 [table]
-[tr][td][b]自驾[/b][/td][td][b]响应等级[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td][b]自驾[/b][/td][td][b]响应能力[/b][/td][td][b]防火墙[/b][/td][td][b]矩阵主动性[/b][/td][td][b]主动性流程[/b][/td][td][b]极限[/b][/td][td][b]共鸣[/b][/td][/tr]
 [tr][td]R[/td][td]R + 1[/td][td]R[/td][td]R x 2[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
 
-[b]技能：[/b]计算机、硬件、教导、软件
-
-[b]复合程式：[/b]分析、浏览、技能软件(引导网精可以获得技术、载具或知识技能的技能软件作为复合程式，由超链者在编译时选择)
-
-[b]能力：[/b]精通教导、稳定维持
-
-[b]可选复合程式：[/b]命令、编辑、技能软件(可选择多次)
+[table]
+[tr][td][b]技能：[/b]计算机、硬件、教导、软件[/td][/tr]
+[tr][td][b]复合程式：[/b]分析、浏览、技能软件(向导网精可以获得技术、载具或知识技能的技能软件作为复合程式，由超链者在编译时选择)[/td][/tr]
+[tr][td][b]能力：[/b]精通教导、稳定维持[/td][/tr]
+[tr][td][b]可选复合程式：[/b]指令、编辑、技能软件(可选择多次)[/td][/tr]
+[/table]
 
 [spoiler]
-[b]TUTOR SPRITE[/b]
+[size=12pt][b]TUTOR SPRITE[/b][/size]
+
 Tutor sprites are living emanations of virtual instructor and helper programs that possess a native understanding of a particular technical, vehicle, or knowledge skill. They are able to help some-one to use, repair, or understand a particular device or program.
+
 [table]
 [tr][td][b]Pilot[/b][/td][td][b]Response[/b][/td][td][b]Firewall[/b][/td][td][b]Matrix INIT[/b][/td][td][b]IP[/b][/td][td][b]EDGE[/b][/td][td][b]RES[/b][/td][/tr]
 [tr][td]R[/td][td]R[/td][td]R + 2[/td][td]R x 2[/td][td]3[/td][td]R[/td][td]R[/td][/tr]
 [/table]
-[b]Skills:[/b]Computer, Hardware, Instruction, Software
-[b]Complex Forms:[/b]Analyze, Browse, Skillsoft (a Tutor sprite may be given the skillsoft of a Technical, Vehicle, or Knowledge skill as a complex form, chosen by the technomancer upon compiling)
-[b]Powers:[/b]Proficiency, Stability
-[b]Optional CFs:[/b]Command, Edit, Skillsoft (can be chosen multiple times)
+
+[table]
+[tr][td][b]Skills:[/b]Computer, Hardware, Instruction, Software[/td][/tr]
+[tr][td][b]Complex Forms:[/b]Analyze, Browse, Skillsoft (a Tutor sprite may be given the skillsoft of a Technical, Vehicle, or Knowledge skill as a complex form, chosen by the technomancer upon compiling)[/td][/tr]
+[tr][td][b]Powers:[/b]Proficiency, Stability[/td][/tr]
+[tr][td][b]Optional CFs:[/b]Command, Edit, Skillsoft (can be chosen multiple times)[/td][/tr]
+[/table]
 [/spoiler]
 [/quote]
 
 ---
 
-[color=brown][size=16pt][b]新网精能力[/b][/size][/color]
+[size=14pt][b]新网精能力[/b][/size]
 
-这里列出的是在SR4第236-237页的基础网精能力之外的能力。这些能力中的一些特定于上面描述的新网精或失谐网精; 剩下的只对自由网精开放。
+这里列出的是在SR4第236-237页的基础网精能力之外的能力。这些能力中的一部分特定于上面描述的新网精或失谐网精；其余能力仅自由网精可获取。
 
 [spoiler]
-[size=16pt][b]NEW SPRITE POWERS[/b][/size]
+[size=14pt][b]NEW SPRITE POWERS[/b][/size]
+
 The powers listed here are in addition to the sprite powers found on pp. 236–237, SR4. Some of these powers are specific to the new sprites described above or the dissonant sprite; the rest are available only to free sprites.
 [/spoiler]
 
-[b]猛烈袭击[/b]
+[size=12pt][b]强力猛袭[/b][/size]
 
-当使用猛烈袭击能力时，网精可以使用两次攻击来攻击化身或图标，就像在真正的远程战斗中使用两把武器一样(《攻击者使用第二武器》，第142页，SR4)。不用将全部骰池分成两半，只有网精的自驾等级被减半，将每个攻击复合程式分别添加到一半或另一半(它必须有两个攻击复合程式)。猛烈袭击是单次攻击，每战斗轮只能对一个图标执行一次。
+当使用强力猛袭能力时，网精可以进行两次攻击来攻击化身或图标，就像在现实世界的远程战斗中使用两把武器一样(《攻击者使用第二武器》，第142页，SR4)。不需要将全部骰池分成两半，只有网精的自驾等级被减半，将每个攻击复合程式分别添加到一半或另一半(网精必须有两个攻击复合程式)。强力猛袭是单次攻击，每战斗轮只能对一个图标执行一次。
 
 [spoiler]
-[b]ASSAULT[/b]
+[size=12pt][b]ASSAULT[/b][/size]
+
 When using the Assault power, a sprite can attack a persona or icon with two attacks as if using two weapons in real ranged combat (Attacker Uses Second Firearm, p. 142, SR4). Instead of splitting the dice pool in half, however, only the sprite’s Pilot rating is halved, adding each Attack complex form separately to one half or the other (it must have two Attack complex forms). Assault is a single attack and can only be executed against an icon once for the duration of a combat.
 [/spoiler]
 
-[b]王车易位[/b]
+[size=12pt][b]王车易位[/b][/size]
 
-该能力由国际象棋中的走法命名，网精可以用一个复杂动作使用该能力，通过临时模仿超链者的访问ID，将针对超链者的伤害重定向到自身。
+该能力由国际象棋中的走法命名，网精可以花费一个复杂动作使用该能力，通过临时模仿超链者的访问ID，将针对超链者的伤害重定向到自己身上。
 
 [spoiler]
-[b]CASTLING[/b]
+[size=12pt][b]CASTLING[/b][/size]
+
 Named after the chess move, a sprite using this power with a Complex Action can redirect damage targeted at the technomancer to itself by temporarily mimicking the technomancer’s access ID.
 [/spoiler]
 
-[b]装甲硬化[/b]
+[size=12pt][b]装甲硬化[/b][/size]
 
-拥有这种能力的网精可以暂时强化它的护甲复合程式，使其效果类似于硬化护甲(第288页，SR4)，只要网精继续使用这种能力，它就可以吸收大多数来源的伤害。使用装甲硬化视为一个复杂动作，类似于全防御。
+拥有这种能力的网精可以暂时强化它的护甲复合程式，使其效果类似于硬化护甲(第288页，SR4)，只要网精继续使用这种能力，它就可以吸收大多数来源的伤害。使用装甲硬化能力被视为一个复杂动作，类似于进行全防御。
 
 [spoiler]
-[b]Hardening[/b]
+[size=12pt][b]Hardening[/b][/size]
+
 A sprite with this power can temporarily empower its Armor complex form to become like Hardened Armor (p. 288, SR4), allowing the sprite to soak damage from most sources as long as it continues to use the power. Using Hardening counts as a Complex Action, similar to going on Full Defense.
 [/spoiler]
 
-[b]信息占卜[/b]
+[size=12pt][b]信息占卜[/b][/size]
 
-类似146页描述的回声，但是网精使用它的能级代替共鸣进行检定
+类似于146页描述的回声，但是网精使用它的能级代替共鸣进行检定
 
 [spoiler]
-[b]INFO SORTILEGE[/b]
+[size=12pt][b]INFO SORTILEGE[/b][/size]
+
 Like the echo described on p. 146, except that the sprite uses its rating instead of Resonance.
 [/spoiler]
 
-[b]概率分布[/b]
+[size=12pt][b]概率分布[/b][/size]
 
-拥有这种能力的网精可以通过提升或降低用于执行矩阵动作的系统资源数量来改变矩阵动作的概率分布。为了使用这一能力，以节点响应等级的一半(向上取整)作为阈值，网精投一个能级x2的检定。如果它成功了，增加或减少目标检定骰池等于网精等级的一半(向上取整)的骰子数量。因为这个检定需要一个复杂动作，网精必须延迟它的行动来使用这个能力，以便影响其他检定。
+拥有这种能力的网精可以通过提升或降低用于执行矩阵动作的系统资源数量来改变矩阵动作的概率分布。为了使用这一能力，以节点响应能力的一半(向上取整)作为阈值，网精进行一个能级x2的检定。如果该检定成功，则可增加或减少目标检定骰池等于网精能级的一半(向上取整)的骰子数量。因为这个检定需要花费一个复杂动作，网精必须延迟它的行动来使用这个能力，从而影响其他检定。
 
 [spoiler]
-[b]PROBABILITY DISTRIBUTION[/b]
+[size=12pt][b]PROBABILITY DISTRIBUTION[/b][/size]
+
 A sprite with this power can change the probability distribution of a Matrix action by raising or lowering the amount of system resources allocated to perform it. To use this power, the sprite rolls a test of its Rating x 2 against half the node’s Response (round up) as a threshold. If it succeeds, either increase or decrease the dice pool of the targeted test by a number of dice equal to half the sprite’s rating (round up). As this test requires a Complex Action, the sprite must have delayed its action to use this power in order to affect another’s test.
 [/spoiler]
 
-[b]精通教导[/b]
+[size=12pt][b]精通教导[/b][/size]
 
-引导网精拥有技能软件，可以让他们理解一种或多种技术、载具或知识技能，这些技能是在编译时选择的。虽然它可以向任何人传授这些技能，类似一个教导或交互式辅导软件，但它也可以作为某种虚拟助手在AR或VR中使用这种技能来协助角色，通过使用精通教导能力，类似于医疗包的自动医生程序或用于人类的自动软件。当网精引导角色完成一项复杂的任务时(不一定是超链者)，如果该角色并不拥有相关技能，角色可以在没有任何修正的情况下执行技能检定，并将网精等级的一半计算为技能等级。由于网精扮演的是一种聪明的向导和老师的角色，以这种方式帮助别人通常比普通检定更耗时，因此需要根据情况(即GM要求)进行延续或复杂动作。
+向导网精拥有技能软件，可以让他们理解一种或多种技术、载具或知识技能，这些技能是在编译时选择的。虽然它能够以类似教师或交互式辅导软件的方式向任何人传授这些技能，但它也可以通过使用精通教导能力作为某种虚拟助手以类似医疗包的自动医生程序或自动软件的方式来在AR或VR中使用这些技能来协助角色。当网精引导角色完成一项复杂任务时(不一定是超链者)，如果该角色并不拥有相关技能，角色可以在没有任何修正的情况下将网精能级的一半(向上取整)作为技能等级执行技能检定。由于网精扮演的是一种智能向导和老师的角色，以这种方式协助别人通常比普通的检定更耗时，因此需要根据情况(即GM要求)进行延续或复杂动作。
 
 [spoiler]
-[b]PROFICIENCY[/b]
+[size=12pt][b]PROFICIENCY[/b][/size]
+
 Tutor sprites possess skillsofts that grant them an understanding of one or more Technical, Vehicle, or Knowledge skills, chosen upon compiling. While it can teach these skills to any person, like an instructor or interactive tutorsoft, it can also use this skill to assist a person in AR or VR as some kind of virtual assistant, with a proficiency power similar to a medkit’s autodoc program or an autosoft for humans. When the sprite guides a user through a complex task (not necessarily only the technomancer) who does not possess the skill in question, the character may perform the skill test without any modifiers, counting half the sprite’s rating (round up) as the level of the skill. Since the sprite acts as a kind of smart tutorial and teacher, assisting someone in this manner is usually more time-consuming than the normal test would be, and therefore requires an Extended or Complex Action depending on the situation (gamemaster’s call).
 [/spoiler]
 
-[b]路由跟踪[/b]
+[size=12pt][b]路由追踪[/b][/size]
 
-路由跟踪能力允许网精嗅出一个人日常与虚拟世界的交互所留下的数据轨迹——信用交易、电话、视频监控镜头、电子邮件、借助网格导航驾驶汽车，甚至使用密钥通过公司飞地的安全大门。在2070年，几乎每个人每次使用他们的通讯链都会在矩阵中留下自己的日常生活痕迹。路由跟踪为网精提供了追踪最新交互的能力。
+路由追踪能力允许网精嗅探出某个人日常与虚拟世界的交互所留下的数据轨迹——信用交易、电话、摄像头、电子邮件、借助网格导航驾驶汽车，甚至是使用密钥通过公司飞地的安保大门。在2070年代，几乎每个人每次使用他们的通讯链都会在矩阵中留下自己的日常生活痕迹。路由追踪为网精提供了追踪最新交互的能力。
 
-为了使用路由跟踪，网精“嗅到”一些与目标相关的数据，并根据路由跟踪表所确定的可变阈值进行延续检定(以1小时为基准)。如果它成功了，网精可以定位目标当前所在的节点(如果那个人在线)，或者目标与矩阵交互的最近物理位置。
+为了使用路由追踪能力，网精“嗅到”一些与目标相关的数据，并根据路由追踪表所确定的可变阈值进行延续检定(以1小时为基准)。如果该检定成功，网精可以定位目标当前所在的节点(如果那个人在线)，或者目标与矩阵交互的最近物理位置。
 
 [spoiler]
-[b]TRACEROUTE[/b]
-The Traceroute power allows a sprite to sniff out the datatrail left by an individual’s daily interactions with the virtual world—credit transactions, phone calls, video surveillance shots, email, driving a car with GridGuide, or even using a passkey to get through a corporate enclave’s security gate. In 2070, almost everyone leaves a constant trace of themselves within the Matrix on a daily basis, every time they access their commlinks. Traceroute gives a sprite the ability to home in on the most recent interactions. 
+[size=12pt][b]TRACEROUTE[/b][/size]
+
+The Traceroute power allows a sprite to sniff out the datatrail left by an individual’s daily interactions with the virtual world—credit transactions, phone calls, video surveillance shots, email, driving a car with GridGuide, or even using a passkey to get through a corporate enclave’s security gate. In 2070, almost everyone leaves a constant trace of themselves within the Matrix on a daily basis, every time they access their commlinks. Traceroute gives a sprite the ability to home in on the most recent interactions.
+
 To use Traceroute, the sprite "sniffs" some data relating to the target and makes an Extended Test pitting its Rating + Track against a variable threshold as determined by the Traceroute Table (p. 157) with a base time of 1 hour. If it succeeds, the sprite can locate the node that the target is currently in, if that person is online, or the most recent physical location from which the target interacted with the Matrix.
 [/spoiler]
 
+[quote]
+[size=12pt][b]路由追踪表[/b][/size]
+
 [table]
-[tr][td][size=12pt][b]路由跟踪表[/b][/size][/td][/tr]
-[tr][/tr]
-[tr][td]目标与矩阵互动:[/td][td]阈值[/td][/tr]
+[tr][td][b]目标与矩阵互动：[/b][/td][td][b]阈值[/b][/td][/tr]
 [tr][td]总是[/td][td]4[/td][/tr]
 [tr][td]偶尔(一天几小时)[/td][td]8[/td][/tr]
 [tr][td]不经常(一天一次)[/td][td]12[/td][/tr]
 [tr][td]几乎不(少于一天一次)[/td][td]16[/td][/tr]
 [tr][td]复杂情况[/td][td]阈值修正[/td][/tr]
 [tr][td]目标最近的行为/登录已被记录[/td][td]–1[/td][/tr]
-[tr][td]目标在行动期间使用了隐藏程序[/td][td]+隐藏程序等级[/td][/tr]
+[tr][td]目标在行动期间使用了隐匿程序[/td][td]+隐匿程序等级[/td][/tr]
 [tr][td]SIN, 通讯链, MSP地址已知[/td][td]–3[/td][/tr]
 [/table]
 
 [spoiler]
+[size=12pt][b]TRACEROUTE TABLE[/b][/size]
+
 [table]
-[tr][td][size=12pt][b]TRACEROUTE TABLE[/b][/size][/td][/tr]
 [tr][/tr]
-[tr][td]Subject Interacts with the Matrix:[/td][td]Threshold[/td][/tr]
+[tr][td][b]Subject Interacts with the Matrix:[/b][/td][td][b]Threshold[/b][/td][/tr]
 [tr][td]Constantly[/td][td]4[/td][/tr]
 [tr][td]Infrequently (a few hours a day)[/td][td]8[/td][/tr]
 [tr][td]Rarely (once a day)[/td][td]12[/td][/tr]
@@ -273,12 +303,14 @@ To use Traceroute, the sprite "sniffs" some data relating to the target and make
 [tr][td]SIN, commcode, MSP address known[/td][td]–3[/td][/tr]
 [/table]
 [/spoiler]
+[/quote]
 
-[b]赐予[/b]
+[size=12pt][b]赐予[/b][/size]
 
-网精赋予目标使用其能力的能力。当目标获得能力时，网精不会失去该能力的使用，而且网精可以将能力授予与其等级相等数量的多个目标。任何角色都不能以这种方式一次从网精获得超过一个能力。
+网精赋予目标使用其能力的能力。当目标获得能力时，网精不会失去该能力的使用，而且网精可以将能力授予与其能级相等数量的多个目标。任何角色都不能以这种方式同时从网精处获得超过一个能力。
 
 [spoiler]
 [b]TRANSFER[/b]
+
 The sprite grants the use of one of its powers to the subject. The sprite does not lose the use of the power while the subject gains it, and the sprite can grant a power to a number of subjects equal to its rating. No character may gain more than one power from a sprite in this way at a time.
 [/spoiler]
