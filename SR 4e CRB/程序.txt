@@ -258,7 +258,7 @@ Stealth is a clever hacker program that attempts to hide the hacker from other s
 
 [size=14pt][b]追踪(计算机)[/b][/size]
 
-追踪程序系统地分析用户的连接，跟踪数据轨迹，回到其源节点。追踪程序通常被IC使用，目的是识别/定位黑客或发起反击，但它也被用来监视自动出租车和紧急服务电话。追踪程序用于追踪用户的动作(第232页)。
+追踪程序系统地分析用户的连接，跟踪数据踪迹，回到其源节点。追踪程序通常被IC使用，目的是识别/定位黑客或发起反击，但它也被用来监视自动出租车和紧急服务电话。追踪程序用于追踪用户的动作(第232页)。
 
 [spoiler]
 [size=14pt][b]TRACK (COMPUTER)[/b][/size]

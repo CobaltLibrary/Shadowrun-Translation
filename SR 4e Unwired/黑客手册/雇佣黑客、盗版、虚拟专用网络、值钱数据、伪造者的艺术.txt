@@ -36,7 +36,7 @@ Anonymization services work as mediators between the two participants of a commc
 
 [size=12pt][b]一次性通讯码[/b][/size]
 
-一些暗影MSP提供一次性通讯码，即预先出售的，一旦激活，只能使用一次(用于一条消息或一次通话)的通讯码。一旦通话/消息结束，所有的通讯码记录和它使用的访问ID将被安全删除。任何追踪它的尝试都将指向MSP的节点(许多未公开且经常更改的节点之一)，但即使该节点被骇入，也无法找到最初调用者的数据轨迹。
+一些暗影MSP提供一次性通讯码，即预先出售的，一旦激活，只能使用一次(用于一条消息或一次通话)的通讯码。一旦通话/消息结束，所有的通讯码记录和它使用的访问ID将被安全删除。任何追踪它的尝试都将指向MSP的节点(许多未公开且经常更改的节点之一)，但即使该节点被骇入，也无法找到最初调用者的数据踪迹。
 
 [spoiler]
 [size=12pt][b]ONE-TIME COMMCODES[/b][/size]
@@ -83,7 +83,7 @@ Escrow services, also offered by shadow Matrix banks, act as a secure middle-man
 [tr][td]欺骗生活方式[/td][td]16F[/td][td]一个月生活方式花费的一半[/td][/tr]
 [tr][td]劫持车辆或无人机[/td][td]8R[/td][td]骇入技能 x 200¥[/td][/tr]
 [tr][td]对个人DOS攻击(1小时)[/td][td]8F[/td][td]骇入技能 x 200¥[/td][/tr]
-[tr][td]追踪数据轨迹[/td][td]6R[/td][td]骇入技能 x 100¥[/td][/tr]
+[tr][td]追踪数据踪迹[/td][td]6R[/td][td]骇入技能 x 100¥[/td][/tr]
 [tr][td]租用僵尸网络[/td][td]10F[/td][td]僵尸机数量 x 机器成本 x 0.5¥ 每小时[/td][/tr]
 [tr][td]购买僵尸网络[/td][td]15F[/td][td]僵尸机数量 x 机器成本 x 5¥[/td][/tr]
 [tr][td]匿名代理服务[/td][td]4[/td][td]重定向次数 x 10¥ 每天[/td][/tr]

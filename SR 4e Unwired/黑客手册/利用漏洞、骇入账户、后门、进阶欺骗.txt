@@ -114,7 +114,7 @@ To create a hidden account, you must already have access to the node (either leg
 
 然而，因为没有获得密码，黑客没有账户权限，只要他以这种方式连接到节点，黑客就必须依靠骇入技能进行所有检定(常见的做法是，通过隐藏访问点访问系统，然后创建一个账户，离开系统，然后用假账户“合法”登录)。察觉到黑客的IC或安保黑客会立即识别他为入侵者。
 
-请注意，使用隐藏访问点的黑客的操作仍然记录在访问日志中，但它们由于没有和账户挂钩而被掩盖和混淆了。然而，黑客的数据轨迹仍可能被追踪。
+请注意，使用隐藏访问点的黑客的操作仍然记录在访问日志中，但它们由于没有和账户挂钩而被掩盖和混淆了。然而，黑客的数据踪迹仍可能被追踪。
 
 [spoiler]
 [size=12pt][b]HIDDEN ACCESS POINTS[/b][/size]
@@ -154,7 +154,7 @@ Users with security or admin privileges can conduct account audits and security 
 
 [size=14pt][b]进阶欺骗[/b][/size]
 
-SR4规则手册详细介绍了欺骗程序的几个好用途；重定向追踪，欺骗数据轨迹，伪造对代理，无人机和网精的指令。一个常见的误解是，欺骗是利用和控制代理、无人机或相关设备的骇入攻击的简化版本——毕竟，如果目标做了你想要它做的，你就骇入了它，对吗？不完全对。欺骗是一个很棒的工具，但它有其局限性。以下规则对欺骗选项进行了扩展，并提供了一些新的选项。
+SR4规则手册详细介绍了欺骗程序的几个好用途；重定向追踪，欺骗数据踪迹，伪造对代理，无人机和网精的指令。一个常见的误解是，欺骗是利用和控制代理、无人机或相关设备的骇入攻击的简化版本——毕竟，如果目标做了你想要它做的，你就骇入了它，对吗？不完全对。欺骗是一个很棒的工具，但它有其局限性。以下规则对欺骗选项进行了扩展，并提供了一些新的选项。
 
 [spoiler]
 [size=14pt][b]ADVANCED SPOOFING[/b][/size]
@@ -188,11 +188,11 @@ Spoofing commands for actions that are illegal for those access privileges is si
 Note that a hacker can only spoof one command at a time, and only if she has the access ID of a legitimate user (see Spoof Command, p.224, SR4). Once a command is sent, she has no control over that agent, drone, or node until she spoofs the next command. If your hacker needs to give multiple commands—or tells the target to do something that a legitimate user can’t order it to do—you’re much better off hacking the node than spoofing commands one at a time.
 [/spoiler]
 
-[size=12pt][b]欺骗数据轨迹[/b][/size]
+[size=12pt][b]欺骗数据踪迹[/b][/size]
 
-由于节点在允许连接之前需要一个访问ID，因此在实际访问其他节点之前，欺骗你的数据轨迹(如果你有这个意向的话)非常重要。一旦你登录到其他节点，访问ID的改变将自动关闭你与其他节点的连接——毕竟，你不再是你所说的那个人了。在某些情况下，这可能是关闭多个连接的一种权宜之计。例如，如果你在另一个节点上受到黑IC的攻击，你可以尝试欺骗你的数据轨迹，以更改你的访问ID并注销该节点。如果黑IC干扰了你的连接，这将需要执行一个骇入+欺骗与黑IC等级+响应能力的对抗检定。
+由于节点在允许连接之前需要一个访问ID，因此在实际访问其他节点之前，欺骗你的数据踪迹(如果你有这个意向的话)非常重要。一旦你登录到其他节点，访问ID的改变将自动关闭你与其他节点的连接——毕竟，你不再是你所说的那个人了。在某些情况下，这可能是关闭多个连接的一种权宜之计。例如，如果你在另一个节点上受到黑IC的攻击，你可以尝试欺骗你的数据踪迹，以更改你的访问ID并注销该节点。如果黑IC干扰了你的连接，这将需要执行一个骇入+欺骗与黑IC等级+响应能力的对抗检定。
 
-你也可以使用这个技巧来尝试和避免被直接追踪。如果有人使用追踪程序来追踪你，你可以照常欺骗你的数据轨迹并改变你的访问ID。虽然这将切断你所有的连接，但这意味着追踪程序只能追踪到你的连接碰巧经过的最近的节点。追踪你的黑客仍然可以获取你的旧访问ID，但无法精确定位你的具体位置——尽管他知道你离那个最近的节点很近。
+你也可以使用这个技巧来尝试和避免被直接追踪。如果有人使用追踪程序来追踪你，你可以照常欺骗你的数据踪迹并改变你的访问ID。虽然这将切断你所有的连接，但这意味着追踪程序只能追踪到你的连接碰巧经过的最近的节点。追踪你的黑客仍然可以获取你的旧访问ID，但无法精确定位你的具体位置——尽管他知道你离那个最近的节点很近。
 
 [spoiler]
 [size=12pt][b]SPOOFING A DATATRAIL ONLINE[/b][/size]
