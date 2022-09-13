@@ -1,9 +1,9 @@
-[size=14pt][b]新网精类型[/b][/size]
+[color=brown][size=16pt][b]新网精类型[/b][/size][/color]
 
 暗影狂奔第四版规则仅展示了部分可以在矩阵中编译的网精类型。《Unwired》引入了5种新类别的网精，它们可以由追随适当支流的超链者编译。除非另有说明，网精遵循可以在SR4第234-236页上找到的编译、注册和反编译的常规规则。
 
 [spoiler]
-[size=14pt][b]NEW SPRITES[/b][/size]
+[color=brown][size=16pt][b]NEW SPRITES[/b][/size][/color]
 
 The Shadowrun, Fourth Edition, rules present just some of the sprites than can be compiled in the Matrix. Unwired introduces five new categories of sprites that can be compiled by technomancers riding an appropriate stream (see Resonance Streams, p. 136). Unless otherwise stated, sprites follow the general rules for compiling, registering, and decompiling found on pp. 234–236, SR4.
 [/spoiler]

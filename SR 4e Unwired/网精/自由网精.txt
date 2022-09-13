@@ -1,24 +1,28 @@
 [color=brown][size=16pt][b]自由网精[/b][/size][/color]
 
-矩阵中还包含一些网精，它们已经与自己的超链者操纵者断开了连接。这些网精自由地漫游在网络空间中，发展出它们自己的动机，适应它们新的自由程度，并重写自身的代码。尽管一些矩阵塑模的研究者、AI和超链者将它们的存在与觉醒世界中的自由精魂类比，因为它们有某些很明显的相似之处，另一些人则认为这些相似之处只是进化上的巧合(遵循万物理论的基本原理)，这些自由网精是机械世界的独特产物。
+矩阵中还包含一些已经与操纵它们的超链者断开了连接的网精。这些网精自由地漫游在网络空间中，发展出它们自己的动机，适应它们新的自由程度，并重写自身的代码。尽管一些矩阵塑模的研究者、AI和超链者将它们的存在与觉醒世界中的自由精魂相类比，因为它们有某些很明显的相似之处，另一些人则认为这些相似之处只是进化上的巧合(遵循万物理论的基本原理)，这些自由网精是机械世界的独特产物。
 
 [spoiler]
-[size=16pt][b]FREE SPRITES[/b][/size]
+[color=brown][size=16pt][b]FREE SPRITES[/b][/size][/color]
+
 The Matrix also contains sprites that have become unlinked from their technomancer operators. Free to roam cyberspace, these sprites develop their own motivations, adapt to their new degree of freedom, and rewrite their own code. Although some investigators of Matrix metaphysics, synthetic intelligences, and technomancers have compared their existence to the free spirits of the Awakened world, because of certain similarities, others believe that these parallels are just an evolutionary coincidence (following the fundamental Theory of Everything) and that these free sprites are a unique outgrowth of the machine world.
 [/spoiler]
 
 [size=14pt][b]独立[/b][/size]
 
-大多数网精认为它们的独立是从为超链者承担任务的压力中解脱出来。有些甚至把它看作是从压迫的枷锁中解放出来，而另一些则把它看作是脱离它们的既定目标。
+大多数网精认为它们的独立是从为超链者承担任务的压力中解脱出来。有些网精甚至把它看作是从压迫的枷锁中解放出来，而另一些则把这看作是脱离了它们的既定目标。
 
-每当一个网精变得不受控制时(236页，SR4)，GM决定它是否会成为一个自由网精，如果这适合它的游戏和战役的话。作为指导原则，大多数能级大于6的注册网精将成为自由网精，而能级较小的网精则会被反编译成为代码的尘埃。与超链者或其它在线用户有长期联系，或受到某种动机驱使的网精往往更容易变得自由。未经注册的网精几乎不会变成自由网精(这可能是矩阵的安全机制)。
+每当一个网精变得不受控制时(第236页，SR4)，GM根据是否适合她的游戏和战役来决定它是否会成为一个自由网精。作为指导原则，大多数能级大于6的注册网精将成为自由网精，而能级较低的网精则会被反编译为代码尘埃。与超链者或其它在线用户有长期联系，或受到某种动机驱使的网精往往更容易成为自由网精。未注册的网精几乎都不会变成自由网精(这可能是矩阵的安保机制)。
 
-为了随机判断一个网精是否会成为自由网精，为网精投掷极限(3)简单检定。成功意味着网精现在成为了自由网精，极限为1。每一个净成功都会增加自由网精的初始极限。如果检定失败，网精就会消失(它是否会进入共鸣域只是一个猜想)。未注册的网精很少成为自由网精，它们极限检定的骰池受到-4的负面修正。与矩阵用户(不一定只是超链者)有过特别难忘或频繁遭遇的网精将获得+2骰池奖励，它们可能会选择燃烧一点极限以进一步增加这种奖励。
+为了随机决定一个网精是否会成为自由网精，为网精进行极限(3)简单检定。成功则意味着该网精现在成为了自由网精，极限为1。每个净成功都会增加自由网精的初始极限。如果检定失败，网精就会消失(它是否会进入共鸣域只是一个猜想)。未注册的网精很少成为自由网精，它们极限检定的骰池受到-4的负面修正。与矩阵用户(不一定只是超链者)有过特别难忘或频繁遭遇的网精将获得+2骰池奖励，它们可能会选择燃烧一点极限以进一步增加这种奖励。
 
 [spoiler]
 [size=14pt][b]INDEPENDENCE[/b][/size]
-Most sprites consider their independence a relief from the strain of undertaking tasks for technomancers. Some even view it as a liberation from an oppressive yoke, whereas others view it as a separation from their intended purpose. 
+
+Most sprites consider their independence a relief from the strain of undertaking tasks for technomancers. Some even view it as a liberation from an oppressive yoke, whereas others view it as a separation from their intended purpose.
+
 Whenever a sprite becomes uncontrolled (p. 236, SR4), the gamemaster decides whether it becomes a free sprite, as it fits her game and campaign. As a guideline, most registered sprites with a rating greater than 6 become free, whereas lesser sprites simply de-rez to code dust. Sprites with a long history of association with technomancers or other online users, or that are driven by some kind of motivation, tend to become free more often. Unregistered sprites almost never go free (probably as a safety mechanism of the Matrix).
+
 To determine randomly if a sprite goes free, roll an Edge (3) Test for the sprite. Success means that the sprite is now free, with an Edge of 1. Every net hit increases the free sprite’s initial Edge. If the test fails, the sprite simply vanishes (whether it goes to a resonance realm is a matter of conjecture). Unregistered sprites rarely go free and suffer a –4 dice pool penalty to the Edge Test. Sprites that have had especially memorable or frequent encounters with Matrix users (not necessarily only technomancers) receive a +2 dice pool bonus, and may even elect to burn a point of Edge to increase this bonus further.
 [/spoiler]
 
@@ -26,13 +30,13 @@ To determine randomly if a sprite goes free, roll an Edge (3) Test for the sprit
 
 每当一个网精在矩阵中变为自由网精时，它的“源代码”就会被打乱。在游戏规则中，这将阻止网精被轻易地反编译，并赋予自由网精否决的能力。除此之外，网精代码的混乱产生了一些数量等同于其剩余极限属性的新能力。由于网精的独立依赖于偶然性，所以它的代码进化与机械世界的巧合和概率联系在一起。同样地，自由网精的能力只有在其极限属性增加时才会增加，使其每次在重组时获得新能力。注意，如果网精燃烧或失去极限，这些能力不会消失; 然而，网精不会获得新的力量，直到它的极限超过旧的水平。
 
-这些新的能力可以来自以下方面:
+这些新的能力可以来自以下方面：
 
-•网精可用的任何能力(第156页和236-237页，SR4)。
+• 网精可用的任何能力(第156页和236-237页，SR4)。
 
-•任何对泛人类超链者可用的回声都可能作为自由网精的力量显现。自由网精使用极限属性来代替深潜等级。重组过程可能会产生超链者所未知的回声和力量，为GM提供将新元素引入游戏的机会。
+• 任何对泛人类超链者可用的回声都可能作为自由网精的力量显现。自由网精使用极限属性来代替深潜等级。重组过程可能会产生超链者所未知的回声和力量，为GM提供将新元素引入游戏的机会。
 
-•一些只提供给自由网精的独特能力，选择自《自由网精能力》(第159页)。
+• 一些只提供给自由网精的独特能力，选择自《自由网精能力》(第159页)。
 
 [spoiler]
 [size=14pt][b]NEW POWERS[/b][/size]
@@ -156,17 +160,17 @@ To recode his source code, the free sprite merges with a registered sprite that 
 
 被吸收网精的能级等于可以用于自由网精进化的共鸣能量的数量。每次吸收网精时，它都可以通过下列一种可能选项来增强自己的能力:
 
-•只要被吸收的网精拥有一项新技能或复合程式，它就能够以等级1学习。
+• 只要被吸收的网精拥有一项新技能或复合程式，它就能够以等级1学习。
 
-•它可以将一个已经拥有的复合程式提升相当于被吸收网精能级的一半的等级，最高提升到等于被吸收网精的能级的等级。被吸收的网精必须也拥有该复合程式。
+• 它可以将一个已经拥有的复合程式提升相当于被吸收网精能级的一半的等级，最高提升到等于被吸收网精的能级的等级。被吸收的网精必须也拥有该复合程式。
 
-•它可以将一个已经拥有的技能提高相当于被吸收网精能级的三分之一的等级，最大提高到等于被吸收网精能级的等级。被吸收的网精也必须拥有这种技能。
+• 它可以将一个已经拥有的技能提高相当于被吸收网精能级的三分之一的等级，最大提高到等于被吸收网精能级的等级。被吸收的网精也必须拥有这种技能。
 
-•如果网精的能级等于或大于它自己的能级，它可以将其极限提升1，赋予它一个新的能力。
+• 如果网精的能级等于或大于它自己的能级，它可以将其极限提升1，赋予它一个新的能力。
 
-•它可以提高1能级，从而增加它的自驾和防火墙属性，只要被吸收网精的能级大于或等于它自己的能级。
+• 它可以提高1能级，从而增加它的自驾和防火墙属性，只要被吸收网精的能级大于或等于它自己的能级。
 
-•它可能会改变其源代码，以防止被获得其源代码的超链者追踪和注册(第159页)。
+• 它可能会改变其源代码，以防止被获得其源代码的超链者追踪和注册(第159页)。
 
 [spoiler]
 [b]RECODING ITSELF[/b]

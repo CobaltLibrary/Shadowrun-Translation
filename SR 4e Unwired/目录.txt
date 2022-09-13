@@ -3,33 +3,33 @@
 [spoiler]Shadowrun 4E UNWIRED[/spoiler]
 
 [quote]
-[b][size=12pt]接入点[/size][/b]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=133792.0]接入点 P.5[/url]
+[size=12pt][b]接入点[/b][/size]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=133792.0]接入点 P.5 [/url]
 
-[b][size=12pt]矩阵概览[/size][/b]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=133809.0]章首故事 P.6[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=130285.0]矩阵与日常生活 P.8-12[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=133887.0]扩增世界 P.12-13[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=133888.0]矩阵社区与文化 P.13-18[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=133992.0]蔓城区管理 P.18[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=133994.0]边栏：2071年最值得关注的五大矩阵企业 P.19-20[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=134017.0]矩阵犯罪 P.19-24[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=134122.0]圆形监狱：他们在监视吗？ P.24-27[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=134144.0]缩小的地球村 P.27-30[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=134147.0]黑客、机师和安保蜘蛛 P.30-31[/url]
+[size=12pt][b]矩阵概览[/b][/size]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=133809.0]章首故事 P.6 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=130285.0]矩阵与日常生活 P.8-12 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=133887.0]扩增世界 P.12-13 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=133888.0]矩阵社区与文化 P.13-18 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=133992.0]蔓城区管理 P.18 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=133994.0]边栏：2071年最值得关注的五大矩阵企业 P.19-20 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=134017.0]矩阵犯罪 P.19-24 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=134122.0]圆形监狱：他们在监视吗？ P.24-27 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=134144.0]缩小的地球村 P.27-30 [/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=134147.0]黑客、机师和安保蜘蛛 P.30-31 [/url]
 
-[b][size=12pt]矩阵用户[/size][/b]
+[size=12pt][b]矩阵用户[/b][/size]
 章首故事 P.32
 创建基于矩阵的角色 P.34-36
 新的矩阵特质 P.36-38
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128329.0]新的生活方式选项 P.38 [/url]
 边栏：规则调整 P.39
 
-[b][size=12pt]傻瓜式矩阵指南[/size][/b]
+[size=12pt][b]傻瓜式矩阵指南[/b][/size]
 章首故事 P.40
 在矩阵利用你之前利用它 P.42-46
 
-[b][size=12pt]矩阵的拓扑结构[/size][/b]
+[size=12pt][b]矩阵的拓扑结构[/b][/size]
 章首故事 P.47
 硬件 P.48-51
 软件和数据 P.51-52
@@ -37,7 +37,7 @@
 塑模 P.55-58
 PAN的拓扑结构 P.58-59
 
-[b][size=12pt]系统安保[/size][/b]
+[size=12pt][b]系统安保[/b][/size]
 章首故事 P.60
 物理安保 P.62-63
 矩阵安保 P.63-72
@@ -45,7 +45,7 @@ PAN的拓扑结构 P.58-59
 系统设计 P.74-79
 安保行动 P.79
 
-[b][size=12pt]黑客手册[/size][/b]
+[size=12pt][b]黑客手册[/b][/size]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=134187.0]黑客手册 章首故事 P.80 [/url]
 [b]背景设定[/b]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128342.0]灰与黑 P.82-84 [/url]
@@ -55,9 +55,9 @@ PAN的拓扑结构 P.58-59
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128347.0]雇佣黑客、盗版、虚拟专用网络、值钱数据、伪造者的艺术 P.93-96 [/url]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128349.0]利用漏洞、骇入账户、后门、进阶欺骗 P.96-99 [/url]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128641.0]大规模探查、僵尸网络、代理脚本、拒绝服务攻击、团体袭击 P.100-102 [/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=128648.0]黑客技巧、机师技巧、EMP P.102-105[/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128648.0]黑客技巧、机师技巧、EMP P.102-105 [/url]
 
-[b][size=12pt]软件[/size][/b]
+[size=12pt][b]软件[/b][/size]
 章首故事 P.106
 新软件规则 P.108-111
 新程序与动作 P.111-112
@@ -68,7 +68,7 @@ PAN的拓扑结构 P.58-59
 战术AR软件 P.124-127
 软件套组 P.127-128
 
-[b][size=12pt]超链者[/size][/b]
+[size=12pt][b]超链者[/b][/size]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128332.0]超链者 章首故事 P.129 [/url]
 [b]背景设定[/b]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128333.0]浮现 P.130-135 [/url]
@@ -79,15 +79,15 @@ PAN的拓扑结构 P.58-59
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128340.0]新回声与进阶回声、线程化能力扩展 P.145-148 [/url]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128341.0]超链者范式 P.149-151 [/url]
 
-[b][size=12pt]网精[/size][/b]
+[size=12pt][b]网精[/b][/size]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128717.0]网精 章首故事 P.152 [/url]
 [b]新网精规则[/b]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128727.0]新网精规则 P.154 [/url]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128747.0]新网精类型、新网精能力 P.154-157 [/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=128865.0]自由网精 P.157-160 [/url] [color=green] [待修正] [/green]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=128865.0]自由网精 P.157-160 [/url]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128905.0]迷途网精 P.160 [/url] [color=green] [待修正] [/green]
 
-[b][size=12pt]矩阵现象[/size][/b]
+[size=12pt][b]矩阵现象[/b][/size]
 [url=http://www.goddessfantasy.net/bbs/index.php?topic=128913.0]章首故事 P.161 [/url]
 [b]论坛体[/b]
 矩阵传闻 P.162-164
@@ -98,14 +98,14 @@ UV节点 P.171-172
 失谐、失谐支流、失谐范式、失谐能力及回声 P.175-179
 熵网精 P.179-181
 
-[b][size=12pt]拟感和技能软件[/size][/b]
+[size=12pt][b]拟感和技能软件[/b][/size]
 章首故事 P.182
 拟感：体验一切 P.184-187
 无法约束：比真实更加真实 P.187-189
 洗脑：可编程辅助生物反馈 P.189-192
 技能软件：你需要的技能 P.192-194
 
-[b][size=12pt]矩阵装备[/size][/b]
+[size=12pt][b]矩阵装备[/b][/size]
 章首故事 P.195
 装备列表 P.196-207
 [/quote]
