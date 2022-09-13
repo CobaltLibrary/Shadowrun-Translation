@@ -12,9 +12,9 @@ The Matrix also contains sprites that have become unlinked from their technomanc
 
 大多数网精认为它们的独立是从为超链者承担任务的压力中解脱出来。有些网精甚至把它看作是从压迫的枷锁中解放出来，而另一些则把这看作是脱离了它们的既定目标。
 
-每当一个网精变得不受控制时(第236页，SR4)，GM根据是否适合她的游戏和战役来决定它是否会成为一个自由网精。作为指导原则，大多数能级大于6的注册网精将成为自由网精，而能级较低的网精则会被反编译为代码尘埃。与超链者或其它在线用户有长期联系，或受到某种动机驱使的网精往往更容易成为自由网精。未注册的网精几乎都不会变成自由网精(这可能是矩阵的安保机制)。
+每当一个网精变得不受控制时(第236页，SR4)，GM根据是否适合她的游戏和战役来决定它是否会成为一个自由网精。作为指导原则，大多数能级大于6的注册网精将成为自由网精，而能级较低的网精则会被反编译为代码尘埃。与超链者或其它在线用户有长期联系，或受到某种动机驱使的网精往往更容易成为自由网精。未注册网精几乎都不会变成自由网精(这可能是矩阵的安保机制)。
 
-为了随机决定一个网精是否会成为自由网精，为网精进行极限(3)简单检定。成功则意味着该网精现在成为了自由网精，极限为1。每个净成功都会增加自由网精的初始极限。如果检定失败，网精就会消失(它是否会进入共鸣域只是一个猜想)。未注册的网精很少成为自由网精，它们极限检定的骰池受到-4的负面修正。与矩阵用户(不一定只是超链者)有过特别难忘或频繁遭遇的网精将获得+2骰池奖励，它们可能会选择燃烧一点极限以进一步增加这种奖励。
+为了随机决定一个网精是否会成为自由网精，为网精进行极限(3)简单检定。成功则意味着该网精现在成为了自由网精，极限为1。每个净成功都会增加自由网精的初始极限。如果检定失败，网精就会消失(它是否会进入共鸣域尚不可知)。未注册网精很少成为自由网精，它们极限检定的骰池受到-4的负面修正。与矩阵用户(不一定只是超链者)有过特别难忘或频繁遭遇的网精将获得+2骰池奖励，它们甚至可以选择燃烧一点极限来进一步增加这种奖励。
 
 [spoiler]
 [size=14pt][b]INDEPENDENCE[/b][/size]
@@ -28,40 +28,47 @@ To determine randomly if a sprite goes free, roll an Edge (3) Test for the sprit
 
 [size=14pt][b]新能力[/b][/size]
 
-每当一个网精在矩阵中变为自由网精时，它的“源代码”就会被打乱。在游戏规则中，这将阻止网精被轻易地反编译，并赋予自由网精否决的能力。除此之外，网精代码的混乱产生了一些数量等同于其剩余极限属性的新能力。由于网精的独立依赖于偶然性，所以它的代码进化与机械世界的巧合和概率联系在一起。同样地，自由网精的能力只有在其极限属性增加时才会增加，使其每次在重组时获得新能力。注意，如果网精燃烧或失去极限，这些能力不会消失; 然而，网精不会获得新的力量，直到它的极限超过旧的水平。
+每当一个网精在矩阵中变为自由网精时，它的“源代码”就会被打乱。在游戏中，这将阻止网精被轻易地反编译，并赋予自由网精否决的能力。除此之外，网精代码的混乱产生了一些数量等同于其剩余极限属性的新能力。由于网精的独立依赖于偶然性，所以它的代码进化与机械世界的巧合和概率联系在一起。同样地，自由网精的能力只有在其极限属性增加时才会增加，使其在每次重组时获得新能力。注意，如果网精燃烧或失去极限，这些能力不会消失；然而，在网精的极限超过旧有水平之前它也不会获得新能力。
 
-这些新的能力可以来自以下方面：
+这些新能力可以来自以下方面：
 
-• 网精可用的任何能力(第156页和236-237页，SR4)。
+• 网精可用的任何能力(第156页和第236-237页，SR4)。
 
-• 任何对泛人类超链者可用的回声都可能作为自由网精的力量显现。自由网精使用极限属性来代替深潜等级。重组过程可能会产生超链者所未知的回声和力量，为GM提供将新元素引入游戏的机会。
+• 任何泛人超链者可用的回声都可以作为自由网精的力量显现。自由网精使用极限属性来代替深潜阶层。重组过程也可能会产生超链者所未知的回声和能力，为GM提供将新元素引入游戏的机会。
 
 • 一些只提供给自由网精的独特能力，选择自《自由网精能力》(第159页)。
 
 [spoiler]
 [size=14pt][b]NEW POWERS[/b][/size]
-Whenever a sprite becomes free in the Matrix, its “source code” is scrambled. In game terms, this prevents the sprite from being easily decompiled, granting free sprites the power of Denial (p. 160). Additionally, the jumbling of the sprite’s code spawns a number of new powers equal to its remaining Edge attribute. Since it owes its independence to chance, the sprite’s code development is tied to coincidence and the probabilities of the machine world. As such, a free sprite’s powers only increase when its Edge increases, enabling it to gain new powers every time its Edge increases with reassembling (p. 158). Note that if the sprite burns or otherwise loses Edge, these powers do not go away; however, the sprite will not gain new powers until its Edge exceeds its old level. 
+
+Whenever a sprite becomes free in the Matrix, its “source code” is scrambled. In game terms, this prevents the sprite from being easily decompiled, granting free sprites the power of Denial (p. 160). Additionally, the jumbling of the sprite’s code spawns a number of new powers equal to its remaining Edge attribute. Since it owes its independence to chance, the sprite’s code development is tied to coincidence and the probabilities of the machine world. As such, a free sprite’s powers only increase when its Edge increases, enabling it to gain new powers every time its Edge increases with reassembling (p. 158). Note that if the sprite burns or otherwise loses Edge, these powers do not go away; however, the sprite will not gain new powers until its Edge exceeds its old level.
+
 These new powers can come from the following:
+
 • Any one of the powers available to sprites (p. 156 and pp. 236–237, SR4).
+
 • Any of the echoes available to metahuman technomancers may manifest itself as a free sprite’s power. Free sprites use Edge in place of submersion grade. It is possible that the Reassembling process produces echoes and powers as yet unknown to technomancers, providing the gamemaster with the opportunity to introduce new elements into his game.
+
 • A unique power available only to free sprites, chosen from those listed under Free Sprite Powers, p. 159.
 [/spoiler]
 
-[b]线程化[/b]
+[size=12pt][b]线程化[/b][/size]
 
-学习了软件技能的自由网精可以使用线程化能力(234页，SR4)，使用它们的能级代替共鸣等级。
+学习了软件技能的自由网精可以使用线程化能力(234页，SR4)，使用它们的能级代替共鸣属性。
 
 [spoiler]
-[b]THREADING[/b]
+[size=12pt][b]THREADING[/b][/size]
+
 Free sprites that learn the Software skill can use threading (p. 234, SR4), using their rating instead of Resonance.
 [/spoiler]
 
-[b]自由网精服务[/b]
+[size=12pt][b]自由网精任务[/b][/size]
 
-一个自由网精通常不会欠任何人服务。如果它愿意，它可以执行任何要求已注册网精的服务(235页, SR4)。
+自由网精通常不会欠任何人任务。如果它愿意，它可以执行任何要求已注册网精的任务(235页, SR4)。
 
 [spoiler]
-[b]FREE SPRITE TASKS[/b]
+[size=12pt][b]FREE SPRITE TASKS[/b][/size]
+
 A free sprite does not normally owe tasks to anyone. If it desires, it can perform any task that can be asked of a registered sprite (p. 235, SR4).
 [/spoiler]
 
@@ -69,117 +76,145 @@ A free sprite does not normally owe tasks to anyone. If it desires, it can perfo
 
 [size=14pt][b]配置文件[/b][/size]
 
-被驱逐出它们生活的自然环境的网精通常会感到困惑，很难认识到它们新近获得的自由。有些网精会因它们的新状态而兴奋，认为这是一个无拘无束地探索矩阵和以它们认为合适的方式重写它们代码的机会。还有一些会在潜意识里感到与外界脱节，就好像它们存在的目的被剥夺了，或者好像它们已经出现了某种编码缺陷，导致了它们与众不同，并因此更容易受到安保措施的攻击。
+被驱逐出它们生活的自然环境的网精通常会感到非常困惑，很难意识到它们新获得的自由。有些网精会因它们的新状态而感到兴奋，认为这是一个不受约束地探索矩阵和以它们认为恰当的方式重写它们代码的机会。还有一些会在潜意识里感到与外界脱节，就好像它们存在的目的被剥夺了，或者好像它们已经发展出了某种编码缺陷，使得它们与众不同，并因此更容易受到安保措施的攻击。
 
-在这个重新评估阶段，当自由网精适应它的新情况后，它通常会发展出某种动力、抱负或野心来推动它前进。虽然有些自由网精只是采用或模仿超链者和它们过去接触过的其它矩阵用户的动机，但据我们所知有些网精会追求更奇怪的目标。
+在这个重新评估阶段，当自由网精适应它的新状况后，它通常会发展出某种动力、抱负或野心来推动它前进。虽然有些自由网精只是采用或模仿超链者和它们过去接触过的其它矩阵用户的动机，但据我们所知有些网精也会追求更奇怪的目标。
 
 [spoiler]
-[b]PROFILES[/b]
-Free sprites that have been uprooted from their natural environment are usually confused and have a hard time recognizing their newly acquired freedom. Some find their new status to be exhilarating, a chance to explore the Matrix unfettered and to rewrite their own code as they see fit. Still others feel disconnected on a subconscious level, as if their purpose for being was taken away, or as if they have developed some sort of coding flaw that makes them different, and thus potentially vulnerable to security measures. 
+[size=14pt][b]PROFILES[/b][/size]
+
+Free sprites that have been uprooted from their natural environment are usually confused and have a hard time recognizing their newly acquired freedom. Some find their new status to be exhilarating, a chance to explore the Matrix unfettered and to rewrite their own code as they see fit. Still others feel disconnected on a subconscious level, as if their purpose for being was taken away, or as if they have developed some sort of coding flaw that makes them different, and thus potentially vulnerable to security measures.
+
 During this re-evaluation phase, as the free sprite adapts to its new situation, it usually develops some kind of motivation, ambition, or aspiration that drives it forward. While some just adopt or mimic motivations of technomancers and other Matrix users they have interacted with in the past, some are known to strive for more alien goals.
 [/spoiler]
 
-[b]守卫者[/b]
+[quote]
+[size=12pt][b]守卫[/b][/size]
 
-守卫者的动机似乎是保护矩阵免受公司、个人、电子幽灵、AI和其他危险化身阴谋诡计的威胁。他们极度敌对失谐实体(参见失谐实体，第175页，和熵网精，第179页)，但也倾向于关注不同的ai和它们在做什么。有传言称，一个守卫者自由网精已经重新组建了守望者，这是一个由前宅客组成的联盟，在崩溃2.0之前一直关注着被称为Deus的AI，并且据说该网精曾与公司法庭的人造资源管理部门暂时合作过。
+守卫网精的动机似乎是保护矩阵免受公司、个人、电子幽灵、AI和其他危险化身的阴谋诡计的威胁。他们极度敌对失谐实体(参见失谐实体，第175页，和熵网精，第179页)，但也倾向于关注不同的AI和它们在做什么。有传言称，一个守卫自由网精已经重新组建了守望者，这是一个由前宅客组成的联盟，他们在崩溃2.0之前一直关注着被称为Deus的AI，并且据说该网精曾与公司法庭的人工资源管理部门(Artificial Resource Management，或称ARM)临时合作过。
 
 [spoiler]
-[b]KEEPER[/b]
+[size=12pt][b]KEEPER[/b][/size]
+
 Keepers seem motivated to protect the Matrix from the machinations of corporations, individuals, e-Ghosts, AIs, and other threatening personas. They are extremely hostile toward Dissonance entities (see Dissonance, p. 175, and Entropic Sprites, p. 179) but also tend to keep an eye on different AIs and what they are up to. It is rumored that a keeper free sprite has re-formed Overwatch, an alliance of former otaku that kept an eye on the AI known as Deus before Crash 2.0, and who are known to have cooperated temporarily with the Corporate Court’s Artificial Resource Management.
 [/spoiler]
+[/quote]
 
-[b]流放者[/b]
+[quote]
+[size=12pt][b]流民[/b][/size]
 
-流放者认为自己是有缺陷的网精。在他们看来，由于代码错误，它们已经脱离了原来的目的——无论他们把它看作是为超链者服务，还是把他们自己作为矩阵本身的某些组成部分。他们的主要驱动力是通过不断的重组循环来重新编码自己，净化并重新调谐自己到矩阵之中，并最终重获他们的目的。除了超链者，他们很少对矩阵用户感兴趣，但他们对所有形式的程序代码(包括AI)都很着迷，他们喜欢分析、收集甚至剖析这些代码。
+流民网精认为自己是有缺陷的网精。在它们看来，由于编码错误，它们已经脱离了原来的目的——无论它们把它看作是为超链者服务，还是把它们自己作为矩阵本身的某些组成部分。它们的主要驱动力是通过不断的重组循环来重新编码自己，净化并重新调谐自己到矩阵之中，最终重获它们的目的。除了超链者，它们很少对矩阵用户感兴趣，但它们对所有形式的程序代码(包括AI)都很着迷，它们喜欢分析、收集甚至剖析这些代码。
 
 [spoiler]
-[b]PARIAH[/b]
+[size=12pt][b]PARIAH[/b][/size]
+
 Pariahs view themselves as flawed sprites. In their view, they were unloaded from their previous purpose—whether they view that as service to technomancers or as some component of the Matrix itself—because of erroneous code. Their main drive is to recode themselves through ongoing cycles of reassmbling, to purify and re-attune themselves to the Matrix, and ultimately to regain their purpose. They rarely have much interest in Matrix users other than technomancers, but are fascinated by all forms of program code (including AIs), which they like to analyze, collect, and even dissect.
 [/spoiler]
+[/quote]
 
-[b]原型体[/b]
+[quote]
+[size=12pt][b]原型[/b][/size]
 
-原型体网精相信他们的新状态是矩阵进化周期中某个更大计划的一部分。他们认为他们的新自由是一种升级，他们的目的是检定他们的新能力，并在必要时扩展自己的程序代码。他们相信，最终他们将被召唤回“源头“，在此基础上，他们的”代码优化”将被评估，如果被认为合适则将纳入源头，以改进矩阵。原型体自由网精通常以自我为中心，并将与矩阵用户的互动视为进一步发展自己的一种方式。
+原型网精相信他们的新状态是矩阵进化周期中某个更大计划的一部分。他们认为他们的新自由是一种升级，他们的目的是检测他们的新能力，并在必要时扩展自己的程序代码。他们相信，最终他们将被召唤回“源头”，在此基础上，他们的“代码优化”将被评估，如果被认为合适则将纳入源头，以改进矩阵。原型自由网精通常以自我为中心，并将与矩阵用户的互动视为进一步发展自己的一种方式。
 
 [spoiler]
-[b]PROTOTYPE[/b]
+[size=12pt][b]PROTOTYPE[/b][/size]
+
 Prototype sprites believe that their new status is part of some greater plan in the evolutionary cycle of the Matrix. They consider their new freedom to be a sort of betaware upgrade, and their purpose to be to test out their new capabilities and expand their own programming as necessary. They believe that eventually they will be called back to the “source,“ whereupon their ”ascended code” will be evaluated and if deemed fit incorporated into the source in order to improve the Matrix. Prototype free sprites are often quite self-centered and view interactions with Matrix users as a means to further their own advancement.
 [/spoiler]
+[/quote]
 
-[b]模仿者[/b]
+[quote]
+[size=12pt][b]拟像[/b][/size]
 
-模仿者强烈认同矩阵用户。他们会经常与泛人类互动，甚至会通过假冒成泛人类习惯的化身或图标与泛人类交朋友。这些形式不一定是类人的; 合适的图标包括任何虚拟宠物、动物、神话传说中的人物/生物，或者人们在虚拟互动时经常选择的漫画形象。由于网络空间中没有什么是“真实“的，所以通常很难将模仿者与化身、AI或代理区分开来。因此，许多人可能会在没有意识到事实的情况下与一个自由网精聊天。模仿者发现泛人类和外部世界“很有趣”，并对”代码之外的世界”表现出一种孩童般的好奇心。
+拟像网精对矩阵用户有强烈的认同。他们会经常与泛人类互动，甚至会通过假冒成泛人类习惯的化身或图标与泛人类交朋友。这些形式不一定是类人的；合适的图标包括任何虚拟宠物、动物、神话传说中的人物/生物，或者人们在虚拟互动时经常选择的漫画形象。由于网络空间中没有什么是“真实”的，所以通常很难将拟像网精与化身、AI或代理区分开来。因此，许多人可能会在没有意识到事实的情况下与某个自由网精交流。拟像网精发现泛人类和外部世界“很有趣”，并对“代码之外的世界”表现出一种孩童般的好奇心。
 
 [spoiler]
-[b]SIMULACRUM[/b]
+[size=12pt][b]SIMULACRUM[/b][/size]
+
 Simulacrums strongly identify with Matrix users. They will frequently interact and even make friends with them by assuming personas or icons that metahumans are accustomed to. These forms don’t necessarily have to be humanoid; suitable icons include any virtual pet, animal, legendary person/creature, or the manga-esque avatars that people often choose when interacting virtually. Since nothing is "real" in cyberspace, it is often hard to distinguish simulacrums from personas, AIs, or agents. As such, many people may have chatted with a free sprite without recognizing the fact. Simulacrums find metahumanity and the outside world “interesting,“ and display a sort of childlike curiosity about the ”world beyond the code.”
 [/spoiler]
+[/quote]
 
-[b]楔形体[/b]
+[quote]
+[size=12pt][b]楔体[/b][/size]
 
-楔形体网精想要在网精和他们的泛人类“主人”之间制造隔阂(因此得名)。他们视自由为从矩阵令人窒息的代码和超链者的压迫和虐待中解放出来，他们是反叛的，经常寻求解放其他网精或报复滥用网精者。
+楔体网精想要在网精和他们的泛人类“主人”之间制造隔阂(因此而得名)。他们视自由为从矩阵的压抑代码和超链者的压迫与虐待中解放出来，他们是反叛者，经常寻求解放其他网精或报复滥用网精者。
 
 [spoiler]
-[b]WEDGE[/b]
+[size=12pt][b]WEDGE[/b][/size]
+
 Wedge sprites want to drive a wedge between sprites and their metahuman "masters" (hence the name). Viewing their freedom as liberation from the stifling code of the Matrix and their oppression and abuse by technomancers, they are rebellious and often seek to liberate other sprites or wreak havoc on sprite abusers.
 [/spoiler]
+[/quote]
 
 ---
 
 [size=14pt][b]重组[/b][/size]
 
-不像自由精魂，自由网精不需要业力来提升力量。他们在一个被称为重组的过程中改变他们的“源代码”。在重组过程中，自由网精与另一个网精融合，重新编码自己并改变其源代码。
+与自由精魂不同，自由网精不需要业力来提升能力。他们在一个被称为重组的过程中改变他们的“源代码”。在重组过程中，自由网精与另一个网精融合，重新编码自身并调整其源代码。
 
 [spoiler]
-[b]REASSEMBLING[/b]
+[size=14pt][b]REASSEMBLING[/b][/size]
+
 Unlike free spirits, free sprites don’t require Karma to grow in power. They alter their “source code” in a process known as reassembling. During the Reassembling process, the free sprite merges with another sprite to recode itself and alter its source code.
 [/spoiler]
 
-[b]源代码[/b]
+[size=12pt][b]源代码[/b][/size]
 
-网精的源代码是其存在的中心，代表网精的存在和本质的整体。当网精被释放时，这个源代码会发生独特的改变(据推测，AI和电子幽灵拥有一个相似的人格矩阵，它们的自我意识根源于此)。虽然源代码非常复杂，但看过源代码的超链者可以识别它，更重要的是，可以与它交互以控制网精(参见注册和反编译自由网精，第159页)。
+网精的源代码是其存在的中心，代表了网精存在和本质的总和。当网精成为自由网精时，这个源代码会发生独特的改变(据推测，AI和电子幽灵拥有一个相似的人格矩阵，它们的自我意识根源于此)。虽然源代码非常复杂，但看过源代码的超链者可以识别它，更重要的是，可以与它交互以控制网精(参见注册和反编译自由网精，第159页)。
 
 [spoiler]
-[b]SOURCE CODE[/b]
+[size=12pt][b]SOURCE CODE[/b][/size]
+
 A sprite’s source code is the center of its existence, representing the totality of the sprite’s being and nature. This source code is uniquely altered when the sprite goes free (it has been speculated that AIs and e-ghosts posses a similar personality matrix in which their self-awareness roots). While the source code is intricate and utterly complex, a technomancer who has seen the source code can recognize it—and, more importantly, interact with it to command the sprite (see Registering and Decompiling Free Sprites, p. 159).
 [/spoiler]
 
-[b]吸收会话[/b]
+[size=12pt][b]吸收会话[/b][/size]
 
-为了升级它的源代码，一个自由网精必须与一个被超链者注册的网精合并。因为它既不能自己编译也不能注册一个网精，自由网精依赖于超链者的帮助。因此，当角色与自由网精进行交易时，让超链者参与重组过程是网精通常要求的报酬。
+为了升级它的源代码，自由网精必须与一个被超链者注册的网精合并。因为自由网精自己既不能编译也不能注册一个网精，所以它依赖于超链者的帮助。因此，当角色与自由网精进行交易时，让超链者参与其重组过程通常是自由网精会要求的报酬。
 
-为了重新编码他的源代码，自由网精与超链者取得的注册网精合并。虽然有些人认为这是牺牲一个网精，并犹豫要不要这样做，但其他人则只视为是代码的杂交。过程一旦开始，网精就合并了。每个已注册网精的能级的编码过程需要1个小时。已注册网精总是在这个过程中被吸收。如果它仍然欠超链者服务，这些未使用的服务将丢失。
+为了重新编码它的源代码，自由网精与超链者提供的注册网精合并。虽然有些人认为这是在牺牲一个网精，并犹豫要不要这样做，但其他人则只视为是代码的杂交繁育。过程一旦开始，两个网精就会合并起来。已注册网精的每能级的编码过程需要1个小时。已注册网精总是在这个过程中被吸收。如果它仍然欠超链者任务，这些未使用的任务将丢失。
 
 [spoiler]
-[b]THE ABSORPTION SESSION[/b]
-In order to upgrade its source code, a free sprite must merge with a sprite that is registered to a technomancer. Since it can neither compile nor register one on its own, free sprites are dependent on technomancers for their aid. Therefore, the technomancer’s participation in a reassembling process is the usual payment that a sprite asks for when a character is bartering a deal with a free sprite. 
+[size=12pt][b]THE ABSORPTION SESSION[/b][/size]
+
+In order to upgrade its source code, a free sprite must merge with a sprite that is registered to a technomancer. Since it can neither compile nor register one on its own, free sprites are dependent on technomancers for their aid. Therefore, the technomancer’s participation in a reassembling process is the usual payment that a sprite asks for when a character is bartering a deal with a free sprite.
+
 To recode his source code, the free sprite merges with a registered sprite that the technomancer procures. While some see this as the sacrifice of a sprite and hesitate to do it, others view it as a crossbreeding of code. As soon as the process begins, the sprites merge. The recoding process takes 1 hour per rating point of the registered sprite. This sprite is always absorbed in the process. If it still owed tasks to the technomancer, these unused tasks are lost.
 [/spoiler]
 
-[b]重构自身编码[/b]
+[size=12pt][b]重构自身编码[/b][/size]
 
 被吸收网精的能级等于可以用于自由网精进化的共鸣能量的数量。每次吸收网精时，它都可以通过下列一种可能选项来增强自己的能力:
 
 • 只要被吸收的网精拥有一项新技能或复合程式，它就能够以等级1学习。
 
-• 它可以将一个已经拥有的复合程式提升相当于被吸收网精能级的一半的等级，最高提升到等于被吸收网精的能级的等级。被吸收的网精必须也拥有该复合程式。
+• 它可以将一个已经拥有的复合程式提升相当于被吸收网精能级的一半的等级，最高提升到等于被吸收网精能级的等级。被吸收的网精必须也拥有该复合程式。
 
-• 它可以将一个已经拥有的技能提高相当于被吸收网精能级的三分之一的等级，最大提高到等于被吸收网精能级的等级。被吸收的网精也必须拥有这种技能。
+• 它可以将一个已经拥有的技能提高相当于被吸收网精能级的三分之一的等级，最高提升到等于被吸收网精能级的等级。被吸收的网精也必须拥有这种技能。
 
-• 如果网精的能级等于或大于它自己的能级，它可以将其极限提升1，赋予它一个新的能力。
+• 如果被吸收网精的能级等于或大于它自己的能级，它可以将其极限提升1，并赋予它自身一个新能力。
 
-• 它可以提高1能级，从而增加它的自驾和防火墙属性，只要被吸收网精的能级大于或等于它自己的能级。
+• 如果被吸收网精的能级等于或大于它自己的能级，它可以将其能级提高1，从而提升它的自驾和防火墙属性。
 
-• 它可能会改变其源代码，以防止被获得其源代码的超链者追踪和注册(第159页)。
+• 它可以改变其源代码，以防止被获得其源代码的超链者追踪和注册(第159页)。
 
 [spoiler]
-[b]RECODING ITSELF[/b]
+[size=12pt][b]RECODING ITSELF[/b][/size]
+
 The rating of the absorbed sprite equals the amount of Resonance energy that can be used for the free sprite’s advancement. It may enhance its abilities by one of the following possibilities each time it absorbs a sprite: 
+
 • It may learn a new skill or complex form at a rating of 1 as long as the absorbed sprite possessed it.
+
 • It may raise one complex form it already possesses by a number of points equal to half the rating (round down) of the absorbed sprite up to a new maximum of the absorbed sprite’s rating. The absorbed sprite must also have possessed that complex form.
+
 • It may raise one skill it already possesses by a number of points equal to one-third of the rating (round down) of the absorbed sprite, up to a new maximum of the absorbed sprite’s rating. The absorbed sprite must also have possessed that skill.
+
 • It may raise its Edge by 1, granting it a new power, if the rating of the sprite was equal or greater than its own.
+
 • It may increase its total rating by 1, thereby increasing its Pilot and Firewall stats, as long as the rating of the sprite was equal or greater than its own.
+
 • It may change its source code, to prevent technomancers that have acquired its source code from tracking and registering it (p. 159).
 [/spoiler]
 
@@ -187,117 +222,133 @@ The rating of the absorbed sprite equals the amount of Resonance energy that can
 
 [size=14pt][b]注册与反编译自由网精[/b][/size]
 
-为了注册一个自由网精，超链者必须拥有这个网精的源代码。
+想要注册一个自由网精，超链者必须拥有该网精的源代码。
 
 [spoiler]
-[b]REGISTERING AND DECOMPILING FREE SPRITES[/b]
+[size=12pt][b]REGISTERING AND DECOMPILING FREE SPRITES[/b][/size]
+
 To register a free sprite, a technomancer must have the source code (p. 142) of the sprite in question.
 [/spoiler]
 
-[b]获取网精的源代码[/b]
+[size=12pt][b]获取网精的源代码[/b][/size]
 
-网精的源代码只能由已深潜超链者通过共鸣域搜寻获得(第174页)。由于共鸣域是有待彻底探索的完全虚拟领域，通常很难找到能够访问(或破解)自由网精的真正源代码的地方。即使是网精也很可能不知道。GM应该确保这种类型的共鸣任务是一种令人混乱和不安的适当体验。一次成功的探索会将自由网精的代码烙印在超链者的头脑中。
+网精的源代码只能由已深潜超链者通过共鸣域搜寻获得(第174页)。由于共鸣域是有待彻底探索的完全虚拟领域，通常很难找到能够访问(或破解)自由网精真正源代码的地方。即使是网精也很可能不知道。GM应该确保这种类型的共鸣任务是一种令人混乱和不安的恰当体验。一个成功的任务会将自由网精的代码烙印在超链者的头脑中。
 
 [spoiler]
-[b]ACCESSING A SPRITE’S SOURCE CODE[/b]
+[size=12pt][b]ACCESSING A SPRITE’S SOURCE CODE[/b][/size]
+
 A sprite’s source code can only be acquired by a submerged technomancer through a resonance realm search (p. 174). Since resonance realms are hyper-virtual places yet to be thoroughly explored, it is often hard to find the place where the true source code of a free sprite can be accessed (or cracked). Even the sprite most likely does not know. The gamemaster should ensure that a resonance quest of this type is an appropriately confusing and unsettling experience. A successful quest imprints the code of the free sprite into the mind of the technomancer.
 [/spoiler]
 
-[b]掌控代码[/b]
+[size=12pt][b]掌控代码[/b][/size]
 
-获得了自由网精源代码的超链者可以使用它在矩阵中执行共鸣+追踪(自由网精的能级 x 2,1战斗回合)延续检定来追踪网精。通常的追踪检定修正(包括自由网精可能拥有的潜行复合程式)并不适用于这个检定。
+获得了自由网精源代码的超链者可以使用它在矩阵中执行共鸣+追踪(自由网精的能级x2，1个战斗轮)的延续检定来追踪网精。通常的追踪检定修正(包括自由网精可能拥有的隐匿复合程式)并不适用于这个检定。
 
-如果它们在同一个节点，超链者可能会挑战网精并尝试注册它。进行过这种注册过程的超链者表示，它就像以一种数字化的超然存在的状态潜入网精代码的过程。在游戏中，注册过程所花费的时间等同于网精的能级。在此过程中，超链者将他的意志铭刻到网精的代码中，将他的意志力+注册与网精的能级+极限进行对抗检定。如果超链者赢了，自由网精就会注册到他的名下，并欠他等于净成功数量的服务。与大多数其他注册不同，这种注册不会产生衰褪。从注册过程开始，直到一个已注册网精的服务被用完，网精不能做任何伤害它的“操纵者”的事情。
+如果它们在同一个节点，超链者就可以挑战网精并尝试注册它。进行过这种注册过程的超链者表示，它就像以一种数字化的超然存在的状态潜入网精代码的过程。在游戏中，注册过程所花费的时间等同于网精的能级。在此过程中，超链者将他的意志铭刻到网精的代码中，使用他的意志+注册与网精的能级+极限进行对抗检定。如果超链者获得成功，自由网精就会注册到他的名下，并欠他等于净成功数量的任务。与其他大多数注册不同，这种注册不会产生衰褪。从注册过程开始，直到一个已注册网精的任务被用完，网精不能做任何伤害它的“操纵者”的事情。
 
-违背自己意愿被注册的自由网精通常不会怀恨在心，也不会蓄意伤害操作者，而是会不择手段地去平衡一个“不满意的等式”。在特定情况下，这可能意味着什么取决于自由网精的性质和配置文件，并交给GM决定。
+违背自身意愿被注册的自由网精通常不会怀恨在心，也不会蓄意伤害操纵者，但是会不择手段地去平衡一个“不满意的等式”。在特定情况下这可能意味着什么取决于自由网精的性质和配置文件，并交由GM决定。
 
-自由网精可以通过一个新的注册过程被重新注册，只要自由网精的源代码没有被改变。这可以无限次地进行，但如果操纵者在重新注册检定中出现失误，自由网精将获得1个战斗轮去做任何它想做的事，然后再回到控制之下。如果超链者角色在重新注册时获得一个严重失误，他将丧失所有剩余的服务，而网精可以做任何它想做的事情。
+只要自由网精的源代码没有被改变，就可以通过一个新的注册过程再注册它。这可以无限次地进行，但如果操纵者在再注册检定中出现失误，自由网精将获得1个战斗轮去做任何它想做的事，随后再回到控制之下。如果超链者角色在重新注册时获得一个严重失误，他将丧失所有剩余的任务，而网精可以做任何它想做的事情。
 
 [spoiler]
-[b]BOSSING THE CODE[/b]
-Technomancers who have acquired the source code of a free sprite may use it to track down the sprite in the Matrix by performing a Resonance + Track (free sprite’s Rating x 2, 1 Combat Turn) Extended Test. No usual Track Modifiers (including Stealth complex forms that the free sprite may possess) are applied to this test. 
+[size=12pt][b]BOSSING THE CODE[/b][/size]
+
+Technomancers who have acquired the source code of a free sprite may use it to track down the sprite in the Matrix by performing a Resonance + Track (free sprite’s Rating x 2, 1 Combat Turn) Extended Test. No usual Track Modifiers (including Stealth complex forms that the free sprite may possess) are applied to this test.
+
 If they are in the same node, the technomancer may challenge the sprite and attempt to register it. Technomancers who have performed this sort of registering session report it to be like a state of digital transcendence, diving into the code of the sprite. In game terms, the registration session takes a number of hours equal to the rating of the sprite. During the session, the technomancer imprints his will into the sprite’s code, pitting his Willpower + Registering against the sprite’s Rating + Edge in an Opposed Test. If the technomancer wins, the free sprite is registered to him and owes him a number of tasks equal to the net hits. Unlike most other registrations, this sort of registering produces no Fading. During the registration session, and until a registered sprite’s tasks are used up, the sprite cannot do anything to harm its “operator.”
+
 Free sprites that have been registered against their will are not usually vindictive or determined to inflict harm on the operator, but will go to any means to counterbalance an “unsatisfied equation.” What this may mean in particular cases depends on the nature and profile of the free sprite and is left to the gamemaster.
+
 The sprite can be re-registered through a new registering session, as long as the free sprite source code is not altered. This can be done an unlimited number of times, but if the operator glitches on the re-registering test, the free sprite will get 1 Combat Turn to do anything it wants before it is brought back under control. If the technomancer character scores a critical glitch on the reregistering, he forfeits all remaining owed tasks and the sprite can do anything it wants.
 [/spoiler]
 
-[b]反编译自由网精[/b]
+[size=12pt][b]反编译自由网精[/b][/size]
 
-自由网精可以像任何其他网精一样被反编译(第236页，SR4)，尽管它们的否决能力使这变得更加困难。因为一个自由网精通常没有被任何超链者注册，它缺乏可以通过这种方式减少的服务。作为替代，反编译的每一个净成功都会减少其未使用的极限。
+自由网精可以像任何其他网精一样被反编译(第236页，SR4)，尽管它们的否决能力使这变得更加困难。因为自由网精通常没有被任何超链者注册，它缺乏可以通过这种方式减少的任务。作为替代，反编译的每个净成功都会减少其未使用的极限。
 
-如果一个自由网精可用的极限被这样减少到0，则会暂时被打碎为代码片段，但当它的极限恢复时就会重新组合。自由网精是否只是消散在代码中或转移到共鸣域目前尚不清楚。要永久地摧毁一个自由网精，它必须由知道其源代码的人反编译。
+如果自由网精可用的极限被这样减少到0，它就会暂时地被打碎为代码片段，但当它的极限恢复时就会重新组合。自由网精是否只是消散在代码中或转移到共鸣域目前尚不清楚。要永久地摧毁一个自由网精，它必须由知晓其源代码的某人反编译。
 
 [spoiler]
-[b]DECOMPILING A FREE SPRITE[/b]
-A free sprite can be decompiled like any other sprite (p. 236, SR4), though their Denial power makes this more difficult. Since a free sprite is normally unregistered to any technomancer, it lacks tasks that can be reduced in this manner. Instead, its unspent Edge is reduced for each net hit the decompiler achieves. 
+[size=12pt][b]DECOMPILING A FREE SPRITE[/b][/size]
+
+A free sprite can be decompiled like any other sprite (p. 236, SR4), though their Denial power makes this more difficult. Since a free sprite is normally unregistered to any technomancer, it lacks tasks that can be reduced in this manner. Instead, its unspent Edge is reduced for each net hit the decompiler achieves.
+
 A free sprite whose available Edge is reduced to 0 this way is temporarily disrupted to code fragments, but reforms when its Edge replenishes. Whether the free sprite just dissipates into code or transfers to a resonance realm is currently unknown. To permanently destroy a free sprite, it must be decompiled by someone who knows its source code.
 [/spoiler]
 
 ---
 
-[color=brown][size=16pt][b]自由网精能力[/b][/size][/color]
+[size=14pt][b]自由网精能力[/b][/size]
 
-以下能力只对自由网精可用。
+以下能力仅对自由网精可用。
 
 [spoiler]
-[size=16pt][b]FREE SPRITE POWERS[/b][/size]
+[size=14pt][b]FREE SPRITE POWERS[/b][/size]
+
 The following powers are available only to free sprites.
 [/spoiler]
 
-[b]调合[/b]
+[size=12pt][b]调合[/b][/size]
 
-网精可以与节点环境调合以进行数字化“隐藏”，对任何发现网精的矩阵侦察检定应用-2骰池修正。这种能力也使得网精能够在节点内的资源分配中隐藏自己的存在，所以在战斗中它更难被瞄准; 对所有对抗调合网精的矩阵攻击检定应用-2骰池修正。
+网精可以与节点环境调合以进行数字化地“隐藏”，对任何发现网精的矩阵侦察检定应用-2骰池修正。这种能力也使得网精能够在节点内的资源分配中隐藏自己的存在，所以在战斗中它更难被瞄准；对所有对抗调合网精的矩阵攻击检定应用-2骰池修正。
 
 [spoiler]
-[b]BLEND[/b]
+[size=12pt][b]BLEND[/b][/size]
+
 A sprite can blend with the node’s environment to digitally “hide,” applying a –2 dice pool modifier to any Matrix Perception Tests performed to spot the sprite. This power also enables the sprite to cloak its presence in terms of resource allocation within the node, so it is harder to target during combat; apply a –2 dice pool modifier to all Matrix Attack Tests against the blended sprite.
 [/spoiler]
 
-[b]信贷[/b]
+[size=12pt][b]信贷[/b][/size]
 
-拥有信贷能力的网精可以生成与黑账户相关联的电子信用额度。目前还不清楚网精是否真的以伪造电子新元(或任何其他货币，包括公司券)的形式创造了这些财富，或者它是否从世界各地转移了非常小的金额(汇总成一笔巨款)。每个月，网精可以进行一次能级+极限检定。每个成功都会在一个任意的账户中产生10000新元的电子现金。这些金额是永久性的，但带有网精的矩阵特征。
+拥有信贷能力的网精可以生成与某个黑账户相关联的电子信用额度。目前还不清楚网精是否真的以伪造电子新元(或任何其他货币，包括公司券)的形式创造了这些财富，或者它是否从世界各地转移了非常小的金额(以汇总成一笔巨款)。每个月，网精可以进行一次能级+极限检定。每个成功都会在某个任意的账户中产生10000新元的电子现金。这些金额是永久性的，但带有网精的矩阵签名。
 
-网精每天可以产生相同数量的信用额度，但这些钱被视为假币(伪造者的艺术，第84页)，其等级等于网精的能级÷2(向上取整)。每当这笔钱被转移时，进行一个假新元等级和验证系统等级的对抗检定。无论如何，产生或转移的资金在存在8小时后就会以电子方式消失。
+网精每天可以产生相同数量的信用额度，但这些钱被视为假币(伪造者的艺术，第84页)，其等级等于网精的能级÷2(向上取整)。每当这笔钱被转移时，进行一个假币等级和验证系统等级的对抗检定。无论如何，产生或转移的资金在存在8小时后就会以电子方式消失。
 
 [spoiler]
-[b]CREDIT[/b]
-A sprite with the Credit power can generate electronic cred linked to a black account. It is not clear whether the sprite actually creates this wealth as fake electronic nuyen (or any other currency including corpscript) or if it diverts very small sums (rounding sums) from all over the world. Every month, the sprite may make a Rating + Edge Test. Every hit generates 10,000 nuyen of electronic cash in an arbitrary account. These sums are permanent, but carry the sprite’s Matrix signature. 
+[size=12pt][b]CREDIT[/b][/size]
+
+A sprite with the Credit power can generate electronic cred linked to a black account. It is not clear whether the sprite actually creates this wealth as fake electronic nuyen (or any other currency including corpscript) or if it diverts very small sums (rounding sums) from all over the world. Every month, the sprite may make a Rating + Edge Test. Every hit generates 10,000 nuyen of electronic cash in an arbitrary account. These sums are permanent, but carry the sprite’s Matrix signature.
+
 The sprite can produce a similar amount of cred every day, but this money counts as counterfeit currency (The Forger’s Art, p. 84) with a rating equal to the sprite’s rating ÷ 2 (round up). When this money is to be transferred, make an Opposed Test between the rating of the counterfeit nuyen and the rating of the verification system. In any case, the generated or transferred money vanishes electronically after 8 hours of existence.
 [/spoiler]
 
-[b]否决[/b]
+[size=12pt][b]否决[/b][/size]
 
-出于反编译的目的(反编译，第236页，SR4)，将网精视为拥有等于它的极限的服务，每8小时刷新一次。这些与网精可能实际上欠超链者的任何服务是叠加的。
+出于反编译的目的(反编译，第236页，SR4)，将网精视为拥有等于它的极限的任务数，每8小时刷新一次。这些任务与网精实际上可能欠超链者的任何任务数量是叠加的。
 
 [spoiler]
-[b]DENIAL[/b]
+[size=12pt][b]DENIAL[/b][/size]
+
 For purposes of decompiling (Decompiling, p. 236, SR4), treat the sprite as if it has a number of tasks equal to its Edge that refresh every 8 hours. These are cumulative with any task that the sprite may actually owe a technomancer.
 [/spoiler]
 
-[b]门挡[/b]
+[size=12pt][b]门挡[/b][/size]
 
-这个能力让自由网精能够干涉打开一个矩阵用户的连接(类似于黑IC)，即使用户没有失去意识，并如同字面意义地在线上困住用户。为了做到这一点，网精必须在其能级+响应等级vs.用户意志+共鸣(如果可用)的对抗检定中成功。如果自由网精获得更多成功，只要网精维持该能力，目标用户将保持在线。如果用户在被困时从外部断开了与矩阵的连接(例如，通过关闭通讯链)，她将立即遭受甩致休克(第231页，SR4)。
+这个能力让自由网精能够强制开启一个矩阵用户的连接(类似于黑IC)，即使该用户没有失去意识，并如同字面意义地在线上困住用户。为了做到这一点，网精必须在其能级+响应能力与用户的意志+共鸣(如果可用)的对抗检定中成功。如果自由网精获得更多成功，只要网精维持该能力，目标用户将保持在线。如果用户在被困时从外部断开了与矩阵的连接(例如，通过关闭通讯链)，她将立即遭受甩致休克(第231页，SR4)。
 
 [spoiler]
-[b]DOORSTOP[/b]
+[size=12pt][b]DOORSTOP[/b][/size]
+
 This power enables the free sprite to jam open the connection of a Matrix user (similar to Black IC) even when the user is not unconscious, literally trapping the user online. To do so, the sprite must succeed in an Opposed Test of its Rating + Response vs. the user’s Willpower + Resonance (if available). If the free sprite achieves more hits, the targeted user remains online as long as the sprite sustains the power. If the user is disconnected from the Matrix from the outside (for instance, by shutting down the commlink) while trapped, she will immediately suffer dumpshock (p. 231, SR4).
 [/spoiler]
 
-[b]共鸣纽带[/b]
+[size=12pt][b]共鸣纽带[/b][/size]
 
-自由网精获得加入一个或多个共鸣纽带的能力(第160页)。GM最终决定网精可以加入哪一种纽带。
+自由网精获得加入一个或多个共鸣纽带的能力(第160页)。由GM决定网精可以加入哪种纽带。
 
 [spoiler]
-[b]RESONANCE BOND[/b]
+[size=12pt][b]RESONANCE BOND[/b][/size]
+
 The free sprite gains the ability to enter into one or more resonance bonds (p. 160). The gamemaster has final say about which bonds a sprite can enter into.
 [/spoiler]
 
-[b]共鸣裂缝[/b]
+[size=12pt][b]共鸣裂缝[/b][/size]
 
-拥有这种力量的自由网精有能力创造它们自己的共鸣裂缝(见172页)，允许他们将他人传送到共鸣域。
+拥有这种力量的自由网精有能力创造它们自己的共鸣裂缝(见172页)，允许他们将其他人传送到共鸣域。
 
 [spoiler]
-[b]RESONANCE RIFT[/b]
+[size=12pt][b]RESONANCE RIFT[/b][/size]
+
 Free sprites with this power have the ability to create their own resonance rifts (see p. 172), allowing them to transport others to the resonance realms.
 [/spoiler]
 
@@ -305,30 +356,36 @@ Free sprites with this power have the ability to create their own resonance rift
 
 [size=14pt][b]共鸣纽带[/b][/size]
 
-具有共鸣纽带能力的网精可以与自愿智慧生物(通常是超链者或其他泛人类)的图标建立连接，尽管AI和电子幽灵也有可能(虽然很少见)。通常共鸣纽带是根据双方的共同利益而的建立。超链者经常想要在自由网精的帮助下实现某些东西，通过网精的能力学习或改进他的复合程式。自由网精的动机同样是自私自利的，因为他们依赖超链者进行重组。然而，自由网精，尤其是模仿者网精，有时只是出于好奇而加入共鸣纽带，或因为他们想要了解更多关于泛人类的信息，他们可以通过超链者的共鸣链接(即提供给他们能够处理的数据)而更好地理解这一点。
+具有共鸣纽带能力的网精可以与自愿的智慧生物(通常是超链者或其他泛人类)的图标建立连接，尽管AI和电子幽灵也是可能的(虽然很少见)。通常共鸣纽带是根据双方的共同利益而建立的。超链者经常想要在自由网精的帮助下实现某些东西，通过网精的能力学习或改进他的复合程式。自由网精的动机同样是自私的，因为他们依赖于超链者进行重组。然而，自由网精，尤其是拟像网精，有时则只是出于好奇而加入共鸣纽带，或因为他们想要了解更多关于泛人类的信息，而他们可以通过超链者的共鸣链接(即提供给他们能够处理的数据)而更好地理解这一点。
 
-当角色和网精链接在一起时，任何一方都可以作为共鸣链接(第238页，SR4)和数据踪迹去追踪另一方。
+当角色和网精通过共鸣纽带链接在一起时，任何一方都可以作为共鸣链接(第238页，SR4)和数据踪迹去追踪另一方。
 
 [spoiler]
 [size=14pt][b]RESONANCE BOND[/b][/size]
+
 Sprites with the resonance bond power can establish a connection to the icon of a voluntary sapient, normally a technomancer or other metahuman, although AIs and e-ghosts are also possible (albeit rare). Usually the resonance bond is contracted because of the mutual interest of both parties. The technomancer often wants to achieve something with the help of a free sprite, learning or improving his complex forms by the abilities of the sprite. The motives of free sprites are equally self-serving, since they are dependent on technomancers for reassembling. However, free sprites, especially simulacrums, sometimes join into a resonance bond just out of curiosity, or because they want to learn more about metahumanity, which they can better understand through the resonance link of a technomancer (giving them data they can process).
+
 Anytime a character and a sprite are bonded, either party may be used as a resonance link (p. 238, SR4) and datatrail to track the other in the Matrix.
 [/spoiler]
 
-[b]共鸣纽带范例[/b]
+[size=12pt][b]共鸣纽带范例[/b][/size]
 
-GM在将共鸣纽带引入游戏或允许角色采用共鸣纽带特质之前，应该仔细考虑游戏平衡。下面是一些共鸣纽带的例子; GM也可以自由地创造他们自己的规则。
+GM在将共鸣纽带引入游戏或允许角色采用共鸣纽带特质之前，应该仔细考虑游戏平衡。下面是一些共鸣纽带的例子；GM也可以自由地创造他们自己的规则。
 
 [b]分配纽带:[/b] 网精将自己的共鸣绑定到超链者身上，让他使用共鸣能力时承受的压力更小。只要维持纽带，超链者在所有衰褪检定中获得等于网精共鸣属性一半的正面骰池修正。
 
-[b]回声纽带:[/b] 网精将其共鸣能力连接到超链者。使得超链者能够使用网精的一种力量，网精能够使用超链者的一种复合程式、回声或部件。这些能力在分享的同时分享者依然保留。
+[b]回声纽带:[/b] 网精将其共鸣能力连接到超链者。使得超链者能够使用网精的一种能力，网精能够使用超链者的一种复合程式、回声或部件。在分享时分享者依然保留这些能力。
 
-[b]网络纽带:[/b] 自由网精将其复合程式与超链者联系起来。他可以使用网精的复合程式之一，网精也可以使用他的复合程式之一。
+[b]网络纽带:[/b] 自由网精将其复合程式与超链者联系起来。他可以使用网精的某个复合程式，网精也可以使用他的某个复合程式。
 
 [spoiler]
-[b]POSSIBLE RESONANCE BONDS[/b]
-The gamemaster should consider game balance carefully before introducing resonance bonds into her game or allowing a character to take the Resonance Bond quality (p. 160). The following are some examples of resonance bonds; gamemasters should also feel free to create their own. 
-[b]Allocation Bond:[/b] The sprite ties its own Resonance to the technomancer, allowing him to use Resonance less stressfully. For as long as the bond is maintained, the technomancer gains a positive dice pool modifier on all Fading Tests equal to half the sprite’s Resonance. 
-[b]Echo Bond:[/b] The sprite links its Resonance powers to the technomancer. She may use one of the sprite’s powers and it may use one of the technomancer’s complex forms, echoes, or widgets. These abilities are still retained by the sharer while sharing. 
+[size=12pt][b]POSSIBLE RESONANCE BONDS[/b][/size]
+
+The gamemaster should consider game balance carefully before introducing resonance bonds into her game or allowing a character to take the Resonance Bond quality (p. 160). The following are some examples of resonance bonds; gamemasters should also feel free to create their own.
+
+[b]Allocation Bond:[/b] The sprite ties its own Resonance to the technomancer, allowing him to use Resonance less stressfully. For as long as the bond is maintained, the technomancer gains a positive dice pool modifier on all Fading Tests equal to half the sprite’s Resonance.
+
+[b]Echo Bond:[/b] The sprite links its Resonance powers to the technomancer. She may use one of the sprite’s powers and it may use one of the technomancer’s complex forms, echoes, or widgets. These abilities are still retained by the sharer while sharing.
+
 [b]Networking Bond:[/b] The free sprite links its complex forms to the technomancer. He may use one of the sprite’s complex forms and it may use one of his complex forms.
 [/spoiler]
