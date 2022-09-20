@@ -325,7 +325,7 @@ The major limitations on agents are the number of active subscriptions they take
 
 > Turbo Bunny
 
-> 除非，像香港那样，所有的交通灯都从属于中央节点，在这种情况下，你别无选择，只能骇入它。在纽约，为了更好地控制交通流量，交通灯都被链接到了网格导航系统上。
+> 除非，像香港那样，所有的交通灯都从属于中央节点，在这种情况下，你别无选择，只能骇入它。在纽约，为了更好地控制交通流量，交通灯都被链接到了网域导航系统上。
 
 > Traveler Jones
 

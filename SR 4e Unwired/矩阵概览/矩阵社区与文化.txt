@@ -99,7 +99,7 @@ Matrix gangs, unlike their physical world counterparts, can be based anywhere in
 Most Matrix gangs rely on numbers and brute strength, not talent, but that’s enough to harass and exploit small time mom-and-pop virtual storefronts and be a nuisance to normal Matrix users. A popular gang trick is a take on the old protection racket, where the gang offers "protection" to a business—often from a homemade virus—and then unleashes the virus if the business refuses to pay. These gangs trade on their victims’ lack of Matrix knowledge to keep them cowed. Organized crime gets into the picture, too—several Seoulpa rings are entirely virtual or focused on virtual crimes, like the Choson Ring in Seattle. 
 [/spoiler]
 
-矩阵部落是光谱的另一端，由寻求保护、友谊、联系和归属感的人--黑客、超链者和崇拜者组成。部落可以是简单的，基于宗教、民族或种族而建立。他们甚至可以基于共同的兴趣，如位于西雅图的家庭游戏部落，其成员加入后为他们的孩子安排虚拟游戏聚会，或者基于特殊的能力，如渡鸦，一个基于PCC网格(PCC：普韦布洛公司理事会 Pueblo Corporate Council)的超链者部落。在短短几年内，有时甚至只有几个月，部落们就会发展出自己的习俗、图标，甚至语言。大多数部落至少有一个专属节点，只有其成员才能进入。例如，渡鸦有一个私有的奇瓦节点，可以通过PCC的公开奇瓦网络访问。
+矩阵部落是光谱的另一端，由寻求保护、友谊、联系和归属感的人--黑客、超链者和崇拜者组成。部落可以是简单的，基于宗教、民族或种族而建立。他们甚至可以基于共同的兴趣，如位于西雅图的家庭游戏部落，其成员加入后为他们的孩子安排虚拟游戏聚会，或者基于特殊的能力，如渡鸦，一个基于PCC网域(PCC：普韦布洛公司理事会 Pueblo Corporate Council)的超链者部落。在短短几年内，有时甚至只有几个月，部落们就会发展出自己的习俗、图标，甚至语言。大多数部落至少有一个专属节点，只有其成员才能进入。例如，渡鸦有一个私有的奇瓦节点，可以通过PCC的公开奇瓦网络访问。
 
 > 在PCC创建奇瓦网之前，渡鸦早就已经建立了他们的节点。我听说那实际上是一个共鸣井，与他们的部落相调谐。
 
@@ -119,7 +119,7 @@ Matrix tribes are on the other end of the spectrum, formed by people—hackers, 
 
 我们都听说过地平线的P2.0，他们高度推销的声誉“明星系统”。但是，地平线公司并没有发明这个想法--尽管他们似乎从这个想法中赚取了最多的钱。早在在线社交网络刚刚开始的时候，人们就开始拼凑声誉系统来配合它们。网上市场让买家为卖家提供信誉评分，以帮助鼓励诚实的销售行为。在线社交网络允许用户推荐或将其他用户列入黑名单。我们自己的接入点使用一个基本的声誉系统，每个人都可以增加或减少其他用户的声誉分。如果我们中的任何一个人失控了，其他人可以通过降低他们的声誉分来惩罚他/她。在某些时候，Jack甚至可能将他们从网络中移除。
 
-> 除非他们违反规则，否则没有人会被移除。我不是警察。不过，你当然可以根据某人的声誉分来决定你的交互。同辈压力是一件美妙的事情。
+> 除非有人违反规则，否则没有人会被移除。我不是警察。不过，你当然可以根据某人的声誉分来决定你的交互方式。同辈压力是一件美妙的事情。
 
 > FastJack
 
