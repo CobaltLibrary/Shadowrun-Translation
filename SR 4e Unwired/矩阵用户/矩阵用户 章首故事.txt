@@ -1,0 +1,47 @@
+[color=brown][size=16pt][b]矩阵用户 章首故事[/b][/size][/color]
+
+那个穿着黑色商务套装的女人将一个装满纸张的塑料文件夹递到了桌子对面。“球队、教练和后勤人员的档案，以及他们的比赛手册。一切都在这儿了。”
+
+Ajax用他的赛博臂将文件夹递给坐在他左边那个满脸雀斑的年轻精灵，反射出一道金属光。
+
+“硬拷贝？”女孩难以置信地说道，“呃！”
+
+他的客户怀疑地看了一眼这个年轻的黑客，Ajax翻了个白眼。“Ajax先生，”她直截了当地说，“我确实对你团队的组成有些疑问。虽然我已经得到保证，你已经证实了你过去的能力，但你在这种情况下雇用未成年人未免有些缺乏专业水平……”
+
+"专业水平？"精灵激动地尖声说，"你想要专业，女士？让我告诉你一些东西，然后你就可以判断我们的专业性了。
+
+"当我们在这里完成后，我要花大部分时间来扫描这些硬拷贝的狗屎，从而评估体育场防御电子攻击和社会工程攻击最薄弱的地方。然后，我要建立一些后门，而我的专业同伴们则利用我明天在学校假装成是个普通孩子时创建的证书渗透到球队和它的成员们中。我要安排递送一个箱子，用它来通过体育场的干扰器和无线屏蔽器。我将在第二节期间绕过两队的黑客，把我自己定制的病毒滑入两队的战术网络软件。然后，我会把媒体和裁判无人机的信息反馈给两支球队，并对数据流进行调整，使另一方队伍获得良好的情报。在这一过程中，Yorick和Chordae以及Lume将被部署在体育场内，冒充球队工作人员，做他们邪恶的小事情，以扼杀西雅图队今年的机会。然后，在比赛结束后，我将抹去我们存在的所有证据，并在我们准备撤离时为我的团队放哨。"
+
+"这只是——"
+
+“但你是对的。如果我真的很专业，我也会查清楚我们的雇主。我现在已经知道了她的名字，还有她的职位，甚至她的赌博史。如果我真的很专业，我就会发现，在被操纵比赛上的赌局只是一个方便的幌子，而且是为了安排某个自由球员在赛季结束时离开西雅图队，接受另一支球队报价的一个扭曲但巧妙的策略。”
+
+女人盯着那个自命不凡的年轻精灵，后者耸了耸肩。“如果我真的，真的，真的非常专业。我就已经抹去了可能导致其他人得出同样结论的数据踪迹，作为对重要客户的专业礼节。”她转向Ajax，“我想我要开始工作了，老板。”
+
+Ajax对这个女人笑了笑，“如果她不合格，请放心，我们几个月前就把她的雀斑屁股甩掉了。我们可以敲定我们的协议条款了吗？”
+
+那个女孩径直走了出去。“该死的硬拷贝……”
+
+[spoiler]
+The woman in the black business suit passed a plastic folder full of paper across the table. “The dossiers for the team, coaches, and support staff, as well as their playbook. It’s all there.”
+
+Chrome flashed as Ajax’s cyberarm passed the folder to the freckled teenage elf sitting to his left.
+
+“Hardcopy?!” the girl said incredulously, “Ew!”
+
+Ajax’s eyes rolled as his client took another disapproving look at the young hacker. “Mr. Ajax,”mshe said plainly, “I really do have my doubts as to the composition of your team. While I have been assured that you have demonstrated past competence, your employment of minors in this situation lacks the level of professionalism that ...”
+
+“Professionalism?” squeaked the elf, “You want professional, lady? Let me tell you some stuff, and then you can judge our professionalism.
+
+“When we’re done here, I’m going to spend half the time it takes to scan this hardcopy shit to evaluate the weakest areas of the stadium for electronic and social attacks. Then I’m going to build some back doors while my professional omae infiltrate the team and its families using credentials that I’ll build while I’m pretending to be a normal kid at school tomorrow. I’m going to arrange the delivery of a box that I’ll be using to get past the stadium’s jammers and wireless blockers. I’m going to sleaze past both teams’ hackers during the second quarter and slide a virus that I will customize myself into both teams’ tacnet software. Then I’m going to feed information from the media and referee drones to both teams, and tweak the data streams so that the other team gets good intel. While that’s happening, Yorick and Chordae and Lume will be deployed in the stadium posing as team staff members and doing their wicked little things to kill Seattle’s chances this year. Then, after the game, I’ll erase all evidence of our presence and provide overwatch to my team as we make our departure.”
+
+“Just a—”
+
+“But you’re right. If I was really professional, I’d have checked out our employer, too. I’d have sussed out her name by now, along with her position and maybe even her gambling history. If I was really, really professional, I’d have discovered that gambling on a fixed game is just a convenient cover for a twisted but ingenious ploy to arrange for a certain free agent to leave Seattle at the end of the season and take another team’s offer.”
+
+The woman stared at the smug little elf, who shrugged. “If I was really, really, really professional, I would have already obliterated the data trail that could lead someone else to the same conclusion, as a professional courtesy to the valued client,” she turned to Ajax, “I guess I’ll get to work, boss.”
+
+Ajax smiled at the woman, “If she wasn’t good, be assured we’d have dumped her freckled ass months ago. Shall we finalize the terms of our arrangement?”
+
+The girl stalked off. “Fuckin’ hardcopy ...”
+[/spoiler]
