@@ -1,4 +1,4 @@
-[color=brown][size=14pt][b]暗影狂奔6E HACK & SLASH[/b][/size][/color]
+[color=brown][size=14pt][b]暗影狂奔6E 骇入与杀戮[/b][/size][/color]
 
 [spoiler]Shadowrun 6E HACK & SLASH[/spoiler]
 
@@ -25,7 +25,7 @@
 
 [b]辨别它们 P.20[/b]
 
-[color=brown][size=12pt][b]骇入攻击的实操指南 P.23[/b][/size][/color]
+[color=brown][size=12pt][b]黑客实战指南 P.23[/b][/size][/color]
 
 [b]为什么保留它们？ P.22[/b]
 
@@ -68,7 +68,7 @@
 
 [color=brown][size=12pt][b]优雅架构 P.45[/b][/size][/color]
 
-[b]How We Got Here P.45[/b]
+[b]我们如何抵达这里 P.45[/b]
 主机种类 P.46
 主机架构 P.46
 
@@ -97,14 +97,14 @@
 代理盒 P.60
 远程任务 P.60
 
-[color=brown][size=12pt][b]超链者工具 P.62[/b][/size][/color]
+[color=brown][size=12pt][b]超链手段 P.62[/b][/size][/color]
 
 [b]新复合程式 P.62[/b]
 新衰褪值 P.62
 新回声 P.67
 数据结构 P.69
 
-[color=brown][size=12pt][b]POINTS OF SPRITE P.72[/b][/size][/color]
+[color=brown][size=12pt][b]网精时刻 P.72[/b][/size][/color]
 
 [b]新网精种类 P.72[/b]
 刺客网精 P.72
@@ -114,12 +114,12 @@
 原初网精 P.73
 
 [b]新网精能力 P.73[/b]
-Captivate Audience P.73
-Death Mark P.74
-Digital Scream P.74
-Fractal Dream P.74
-Harmonize P.74
-Shield P.74
+引人注目 P.73
+死亡标记 P.74
+数字尖啸 P.74
+分形之梦 P.74
+共鸣调谐 P.74
+电子护盾 P.74
 
 [b]新网精指令 P.74[/b]
 情报网精指令 P.75
@@ -147,49 +147,49 @@ Shield P.74
 [color=brown][size=12pt][b]骇入特质 P.80[/b][/size][/color]
 
 [b]正面特质 P.80[/b]
-At Home in the Matrix P.80
+矩阵如家 P.80
 天才启发者 P.80
 数据反常 P.80
 数据港成员  P.81
 碟板改装师 P.81
 匿身黑暗 P.81
-Fractal Blast P.81
+分形爆裂 P.81
 金起子 P.81
-骇客连击 P.81
-Hold the Door P.81
+骇客连招 P.81
+记得留门 P.81
 我看见你了 P.81
 颠扑不破 P.82
-Jack Jockey P.82
+直连驭手 P.82
 独行者 P.82
 矩阵属性增强 P.82
-Natural Hacker P.83
+天生黑客 P.83
 矩阵红人 P.83
 档案专家 P.83
 快速配置 P.83
 共鸣混响 P.83
-Satisfaction P.83
+满足感 P.83
 手术式打击 P.84
-Voider of Warranties P.84
+保修失效 P.84
 
-[b]Negative Qualities P.84[/b]
-Achilles' Heel P.84
-Binary Mentality P.84
+[b]负面特质 P.84[/b]
+阿喀琉斯之踵 P.84
+二元心态 P.84
 伙伴系统 P.84
-Bull in a Ceramics Store P.84
-Compulsive Archivist P.84
+陶瓷店里的公牛 P.84
+强迫症档案员 P.84
 好奇心害死猫 P.85
 信息自由论者 P.85
-Defective Attribute P.85
-Like a Boss P.85
-Mode Lock P.85
-Program Dependency P.85
-Simsense Dependency P.86
+缺陷属性 P.85
+专家行事 P.85
+模式锁定 P.85
+程序依赖 P.85
+拟感依赖 P.86
 共鸣燃尽（仅浮现者可选） P.86
 编码草率 P.86
-Wanted by GOD P.86
+GOD通缉 P.86
 
 [b]特质之路：赛博修士 P.86[/b]
-Risking Burnout P.86
+燃尽的风险 P.86
 
 [b]创建特质之路 P.88[/b]
 
@@ -198,24 +198,24 @@ Risking Burnout P.86
 [b]人多势众 P.89[/b]
 混合用户小组(MUGS) P.90
 
-[b]Surviving Veterans P.90[/b]
-Denver Collective P.91
-Hacker House P.91
-The Walking People P.93
+[b]幸存的老兵 P.90[/b]
+丹佛共同体 P.91
+黑客之家 P.91
+行者 P.93
 
-[b]Neobytes and Startups P.94[/b]
-The (Everett) 811s P.94
-Freebooters P.95
-Light of Spirits P.96
-The Deceased P.97
+[b]新兵与初创者 P.94[/b]
+811（埃弗里特市分部） P.94
+海盗 P.95
+灵魂之光 P.96
+已逝者 P.97
 
-[b]Game Mechanics P.100[/b]
-Groups, a Collective Effort P.100
-Player Characters and NPC Groups P.101
+[b]游戏机制 P.100[/b]
+组织，同心协力的共同体 P.100
+玩家角色与NPC组织 P.101
 
-[color=brown][size=12pt][b]VIRTUAL LIFE P.102[/b][/size][/color]
+[color=brown][size=12pt][b]虚拟生命体 P.102[/b][/size][/color]
 
-[b]Protosapients P.103[/b]
+[b]初智能 P.103[/b]
 Cyberwerewolf P.104
 Daemon P.104
 Frobnitz P.104
@@ -230,18 +230,18 @@ Sintax P.108
 Tentacle P.108
 Yantra P.108
 
-[b]Xenosapients P.109[/b]
+[b]超智能 P.109[/b]
 Null Sect Entities P.109
 Null Sect Constructs/Golems P.110
 
-[b]Technocritters P.112[/b]
+[b]浮现生物 P.112[/b]
 Bastet P.112
 Flipper P.113
 G33ko P.113
 Libertine P.113
 Pachyderm P.114
 
-[b]Inherent Virtual Life Form Qualities P.114[/b]
+[b]固有虚拟生命体特质 P.114[/b]
 Authority P.114
 Entropic Conversion P.114
 Fnord P.114
@@ -254,42 +254,42 @@ Special Protosapient Attack: Noisestorm P.116
 Special Null Attack: Psychotropic Biofeedback P.116
 Virtual Processing P.116
 
-[b]Intelligence Revealed P.116[/b]
-Step One: Define Your Role and History P.116
-Step Two: Select Character Priorities P.117
-Step Three: Select Qualities P.118
-Step Four: Spend Customization Karma P.118
-Step Five: Buy Gear P.118
-Step Six: Finishing Touches P.119
-Positive Virtual Life Form Qualities P.119
-Negative Virtual Life Form Qualities P.120
-AI and EI Character Advancement P.121
-Lifestyles: Strings Attached P.122
-Host, Device, or Free P.122
-Damage, Healing, Disruption, and Dying P.123
-AI and EI Actions P.124
-Codesmithing and Codemods P.125
+[b]智能显现 P.116[/b]
+第一步：定义你的角色和来历 P.116
+第二步：选择角色优先级 P.117
+第三步：选择特质 P.118
+第四步：使用自定义业力 P.118
+第五步：购买装备 P.118
+第六步：完成 P.119
+虚拟生命体正面特质 P.119
+虚拟生命体负面特质 P.120
+AI与EI角色提升 P.121
+生活方式：附加条件 P.122
+主机、设备或自由 P.122
+伤害、治疗、破坏与死亡 P.123
+AI与EI动作 P.124
+代码工匠与代码模组 P.125
 属性代码模组 P.125
 核心代码模组 P.126
-Processor Codemods P.127
-Input/Output Codemods P.127
-Digital Weapon Codemods P.128
+处理器代码模组 P.127
+输入/输出代码模组 P.127
+数字武器代码模组 P.128
 范式 P.129
 范式样例 P.129
 新超链者特质：共鸣支流 P.130
 
-[color=brown][size=12pt][b]AT THE BASE P.133[/b][/size][/color]
+[color=brown][size=12pt][b]在根基处 P.133[/b][/size][/color]
 
-[b]A Brave New World P.133[/b]
-The Grim Secret of the New Matrix P.134
-Unintended Consequences P.134
-The Future is the Past P.135
-What is Foundation-Tech? P.136
+[b]美丽新世界 P.133[/b]
+新矩阵的可怕秘密 P.134
+意外后果 P.134
+未来即是过去 P.135
+什么是结构层技术？ P.136
 
 [b]游戏信息 P.140[/b]
-Using Foundations and Paradigms P.140
+利用结构层与范式 P.140
 
-[color=brown][size=12pt][b]INFINITIE MEMOR P.147[/b][/size][/color]
+[color=brown][size=12pt][b]无限记忆 P.147[/b][/size][/color]
 
 超链者不应存在（根据物理学） P.147
 已知共鸣域 P.148
@@ -305,20 +305,20 @@ Using Foundations and Paradigms P.140
 
 [b]“神”之道 P.163[/b]
 
-[b]焚毁巨神 P.163[/b]
+[b]焚毁神像 P.163[/b]
 边栏：检测GOD是否存在 P.163
 
 [b]IC来袭 P.164[/b]
 
 [b]游戏信息 P.165[/b]
-Alternate Forms of Convergence P.165
-Matrix Security Operatives P.166
-Dominion Response Teams P.167
-Additional Types of IC P.168
-New Matrix Statuses P.169
-IC Specalizations P.169
+合围的其他形式 P.165
+矩阵安保人员 P.166
+多米尼克响应小组 P.167
+额外的IC类型 P.168
+新矩阵状态 P.169
+专业化IC P.169
 
-[color=brown][size=12pt][b]MATRIX BUSINESS P.171[/b][/size][/color]
+[color=brown][size=12pt][b]矩阵生意 P.171[/b][/size][/color]
 
 [b]世界的边缘 P.171[/b]
 引入 P.171
