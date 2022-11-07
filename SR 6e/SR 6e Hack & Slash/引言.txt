@@ -1,0 +1,29 @@
+[color=brown][size=16pt][b]引言[/b][/size][/color]
+
+矩阵是第六纪的最后一个伟大疆域，而且它只会变得更加古怪和庞大。在每个人都在使用的主机之外，还存在着结构层、共鸣域、矩阵荒野，以及更多的东西。不了解这些东西是什么？那么这本书就是为你准备的。但它并不只与矩阵的边缘部分有关。书中有为碟客准备的装备和程序，适合超链者的复合程式和回声，以及提供给任何想获得不寻常矩阵遭遇的玩家的初智能和浮现智能。
+
+与其说是总结，不如说是让我们看看这本书的每一章和它所包含的内容。在一段短篇小说把你带到矩阵荒野之后，[b]《荒野与自由》[/b]提供了有关矩阵现在状况以及其中一些更不寻常的元素如何融入的概述。[b]《黑客实战指南》[/b]为黑客们提供了一些技巧和窍门，帮助他们发现在暗影狂奔时可以做的全部工作。然后，[b]《小道具与小玩意》[/b]为他们提供了完成这些工作的新硬件工具。
+
+[b]《优雅架构》[/b]进入了主机设计的领域，展示了主机是如何被组装并成为数据流的。如果你正在使用或骇入一个主机，这是你需要了解的好东西。接下来是[b]《数字工具箱》[/b]，这里有新的程序，接着是[b]《超链手段》[/b]，这里有新的复合程式和回声。当我们在处理与超链者有关的东西时，[b]《网精时刻》[/b]讨论了新的网精类型、它们的能力，以及其他一些让它们参与你的游戏的规则，包括了如何与它们建立良好的声誉。然后，[b]《骇入特质》[/b]为骇入矩阵的任何人提供了新的特质。
+
+[b]《联盟永存》[/b]谈论了黑客们联合起来的不同方式，如何形成具有共同目标的团体，以及他们可以为其他成员做什么。[b]《虚拟生命体》[/b]探讨了黑客在矩阵中可能遇到的其他障碍，包括浮现动物、初智能、AI和浮现智能。
+
+[b]《在根基处》[/b]中，事情变得更加诡异，它讨论了如何访问矩阵的基础。[b]《无限记忆》[/b]将我们带到矩阵中另一个巨大的、未被开发的区域--共鸣域。[b]《了解你的敌人》[/b]提供了关于每个黑客的克星--网域监察部门（GOD）的细节，以及关于如何在他们向你扔来的所有东西中生存的想法。它还提供了一些矩阵操作者的游戏数据和新类型的IC。最后，[b]《矩阵商业》[/b]提供了一些冒险结构，帮助你直接跳入并开始基于矩阵的暗影狂奔。
+
+有了这一切，玩家和GM应该拥有了多种多样的选项来骇入矩阵并使其屈服于自己的意志，或者至少确保它不会征服他们。
+
+[spoiler]
+[color=brown][size=16pt][b]INTRODUCTION[/b][/size][/color]
+
+The Matrix is the last great frontier of the Sixth World, and it’s only getting weirder and larger. Beyond the hosts that everyone uses are the Foundation, the Resonance Realms, the wild Matrix, and much more. Don’t know what those things are? Then this is the book for you. But it’s not just about the fringes of the Matrix. It’s got gear and programs for deckers, complex forms and echoes for technomancers, and protosapients and technosapients for anyone who wants an unusual Matrix encounter.
+
+But rather than just summarize, let’s look at each chapter of the book and what it contains. After a piece of short fiction that takes you to the wild Matrix, Wild and Free provides an overview of the state of the Matrix today and how some of these more unusual elements fit in. The Field Guide to Hacking provides some tips and tricks for hackers, helping them see the full range of work they can do when they’re running the shadows. Then Gadgets and Gizmos gives them new hardware tools to accomplish this work.
+
+Elegant Architecture moves into the realm of host design, showing how hosts are assembled and made into a flow of data. If you’re using or hacking a host, this is good stuff to know. Next is Digital Toolbox, which has new programs, followed by Techno Tools, which has new complex forms and echoes. While we’re dealing with technomancer-related things, Points of Sprite discusses new types of sprites, powers for them, and some other rules to involve them in your game, including how to build a good reputation with them. Quality Hacking then provides new qualities for anyone hacking the Matrix.
+
+Union Forever talks about the different ways hackers band together, forming groups with common goals, and what they can do for their members. Virtual Life looks at the other obstacles hackers might encounter in the Matrix, including techno critters, protosapients, artificial intelligences, and Emergent intelligences.
+
+Things get even weirder with At the Base, which discusses how to visit the Foundations of the Matrix. Infinite Memory goes to another vast, unexplored area of the Matrix, the Resonance Realms. Know Your Enemy provides details on every hacker’s nemesis, the Grid Overwatch Division (GOD), with thoughts on how to survive all the things they have to throw at you. It also has game stats for some Matrix operatives and new types of intrusion countermeasures (IC). Finally, Matrix Business provides a few adventure structures to help you jump right in and start a Matrix-based shadowrun.
+
+With all this, players and gamemasters should have a wealth of options at their disposal to hack the Matrix and bend it to their will—or at least make sure it doesn’t conquer them.
+[/spoiler]
