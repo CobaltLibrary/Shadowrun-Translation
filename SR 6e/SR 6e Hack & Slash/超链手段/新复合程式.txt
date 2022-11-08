@@ -1,0 +1,442 @@
+[color=brown][size=16pt][b]超链手段[/b][/size][/color]
+
+虽然超链者不像碟客那样使用高科技装备，但这并不意味着他们不喜欢拥有新玩具。这里有一些他们可以带入战场的工具。
+
+[spoiler]
+[color=brown][size=16pt][b]TECHNO TOOLS[/b][/size][/color]
+
+Just because technomancers don’t use as much high-tech gear as deckers doesn’t mean they don’t like to have new toys. Here are some tools they can bring with them to the field.
+[/spoiler]
+
+[size=14pt][b]新复合程式[/b][/size]
+[size=12pt][b]新衰褪值（成功数）[/b][/size]
+
+一些新复合程式的衰褪值被列为“成功数”。在这种情况下，复合程式的衰褪值等于其相关的电子学+共鸣检定的成功数。这始终是指总成功数，而不是净成功数。你可以故意减少你的总成功数以限制衰褪。
+
+[spoiler]
+[size=14pt][b]NEW COMPLEX FORMS[/b][/size]
+[size=12pt][b]NEW FADE VALUE (HITS)[/b][/size]
+
+Some of the new complex forms have a Fade Value listed as “Hits.” In this case, the Fade Value of the complex form is equal to the number of hits rolled on its related Electronics + Resonance test. This always refers to total hits, not net hits. You may intentionally reduce your total hits in order to limit fading.
+[/spoiler]
+
+---
+
+[quote]
+[size=12pt][b]电弧反馈[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]3[/td][td]S[/td][/tr]
+[/table]
+
+当你编制这个复合程式时，进行一次电子学+共鸣检定并记录你获得的总成功数。如果当你维持电弧反馈时遭受了来自一个数据棘刺动作，共鸣棘刺或IC攻击的矩阵伤害，你对攻击来源造成等同于该电子学检定成功数的矩阵伤害。一旦电弧反馈造成了伤害，该复合程式崩溃并失效。
+
+[spoiler]
+[size=12pt][b]ARC FEEDBACK[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]3[/td][td]S[/td][/tr]
+[/table]
+
+When you thread this form, make an Electronics + Resonance test and record your total hits. If you suffer Matrix damage from a Data Spike Matrix action, Resonance Spike, or IC while sustaining Arc Feedback, the thing that hit you takes Matrix damage equal to the hits on your Electronics test. Once Arc Feedback deals damage, the complex form collapses and ends.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]攻击性赋予[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
+
+以一个自愿化身为目标，进行电子学+共鸣检定。只要你维持这个复合程式，该目标获得等于你的电子学检定成功数的攻击性属性。如果该目标已经拥有一个较低的攻击性属性，它将被该复合程式提供的攻击性属性替代。受攻击性赋予影响的目标不能被属性注入（攻击性）影响。这个化身现在可以使用需要破解技能的非法矩阵动作。
+
+[spoiler]
+[size=12pt][b]ATTACK ATTRIBUTION[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+Target a willing persona and make an Electronics + Resonance test. As long as you sustain this form, the target gains an Attack Matrix attribute equal to the total hits on your Electronics test. If the target already had a lesser Attack attribute, it is replaced by the Attack attribute provided by this form. The target under the effects of Attack Attribution cannot be affected by an Infusion (Attack) complex form. This persona may now use illegal Matrix actions that use the Cracking skill.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]泡影护盾[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
+
+泡影护盾在一个目标周围创建出保护性的共鸣屏障，该目标必须与矩阵连接。进行一个电子学+共鸣检定，并记录你的总成功数。每获得两个成功（向下取整），目标就会在所有抵抗复合程式和网精能力的检定中获得一个奖励骰。当激活时，这个复合程式呈现为一个几乎不可见的力场，随机地闪现出发光的代码行。只有具有共鸣属性的实体才能使用矩阵侦察进一步观察它。
+
+[spoiler]
+[size=12pt][b]BUBBLE SHIELD[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+Bubble Shield creates a protective Resonance barrier around one target, which must be connected to the Matrix. Make an Electronics + Resonance test and record your total hits. For every two full hits (round down), the target gains a bonus die on all tests to resist complex forms and sprite powers. While active, this complex form appears as a barely visible forcefield that randomly flares with glowing lines of code. Only an entity with a Resonance attribute is capable of observing it any further with Matrix Perception.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]BTL现实[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]4[/td][td]S[/td][/tr]
+[/table]
+
+这种复合程式增强了目标的技术感官，刺激他们的头部改造以创造一种注意力高度集中的状态，类似于植入BTL芯片的感觉——但是增强的是目标的真实体验。除了增强愉悦体验之外，它也倾向于放大可怕体验。为了创建这个复合程式，进行一个电子学+共鸣检定，阈值为6减去目标的精华。目标必须拥有某种头部改造才能受到影响，如果他们没有任何感官殖装（比如赛博眼，赛博耳，嗅觉增幅器等），你就不能在该电子学检定中获得或花费极限。在BTL现实复合程式维持期间，目标在侦察鉴定上获得等同于你检定净成功数的奖励骰，但他们也会由于明显的分心状态和芯片头[color=green](注：chipheads，BTL成瘾者)[/color]的糟糕名声而在所有的唬骗与影响检定中获得惩罚。这个复合程式的影响与BTL极为相似，以至于它们能够满足BTL成瘾者爽一把的需求。芯片头们通常愿意支付每小时至少100新元的费用来接受这种复合程式的影响，许多不良超链者正在推销他们的能力作为使用BTL的健康替代。他们错了——这和BTLs一样糟糕。如果你的目标在受到BTL现实影响时掷出了一个失误，严重失误或狂野骰掷出了1，这个复合程式就会崩溃并失效，随后目标会遭受到1D6点物理生物反馈伤害，该伤害无法被抵抗，阻止或以任何方式减少。这种伤害无法被治疗痊愈，只能通过自然恢复治愈。
+
+[spoiler]
+[size=12pt][b]BTL IRL[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]4[/td][td]S[/td][/tr]
+[/table]
+
+This complex form enhances the target’s technological senses and stimulates their headware to create a heightened state of awareness, similar to how it feels to slot a BTL chip—but enhancing the target’s real experiences. Besides enhancing pleasurable experiences, it tends also to amplify terrible ones. To establish this complex form, make an Electronics + Resonance test, with a threshold of 6 minus the target’s Essence. The target must have some headware augmentations of some kind in order to be affected, and if they don’t have any sensory augmentations (such as cybereyes, cyberears, olfactory booster, etc.), you may not gain or spend Edge on the Electronics test. The target receives a number of bonus dice on Perception tests equal to your net hits while BTL IRL is sustained, but they also receive a penalty on all Con and Influence tests due to their obvious state of distraction and the stigma attached to chipheads. The effects of this complex form are so similar to BTL chips that they satisfy a BTL addict’s need for a fix. Chipheads are often willing to pay at least 100 nuyen per hour to be affected by this form, and many unscrupulous technomancers are marketing their abilities as a healthy alternative to using BTLs. They’re wrong—it’s just as bad as BTLs. If your target ever rolls a glitch, critical glitch, or a 1 on a wild die while under the influence of BTL IRL, this complex form collapses and ends, and the target takes 1D6 boxes of Physical biofeedback damage that cannot be resisted, prevented, or reduced by any means. This damage lingers, and cannot be healed except through natural recovery.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]赛博棘刺[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]I[/td][/tr]
+[/table]
+
+这个复合程式是赛博殖装狂热者最恐怖的噩梦。尽管它不会真正意义上导致目标的身体抗拒已安装的殖装，但它确实能让人感觉这是正在发生的事情——而且它同样致命。瞄准一个拥有至少一件开启了无线模式赛博殖装的角色——或与一个拥有非无线运行赛博殖装的目标建立直连。如果你试图对一个没有任何易受攻击的赛博殖装的目标使用该复合程式，你只是在浪费动作。目标拥有越多的赛博殖装，他面对攻击就越脆弱。进行一个电子学+共鸣对抗目标的体质+精华（向下取整）检定，每获得一个净成功就会对目标造成一点物理伤害（他们可以进行体质检定来减少伤害），并且他们所有的赛博殖装都会变得紧张，等同于殖装超载了一个战斗轮。[color=green]（注：最后一句个人理解为目标进行殖装相关检定时如果出现失误或严重失误则等同于殖装超载情况）[/color]
+
+[spoiler]
+[size=12pt][b]CYBER SPIKE[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]I[/td][/tr]
+[/table]
+
+This complex form is the cyberware enthusiast’s worst nightmare. While it doesn’t truly cause the target’s body to reject installed augmentations, it sure makes it feel like that’s what’s happening— and it can be just as fatal. Target a character who has at least one cyberware augmentation that has wireless mode enabled—or establish a direct connection to a target who has ’ware that isn’t running wireless. If you attempt to use this on a target who doesn’t have any vulnerable cyberware, your action is wasted. The more augmentations a target has, the more vulnerable they are. Make an Electronics + Resonance test vs. the target’s Body + Essence (rounded down). The target suffers one box of Physical damage for every net hit against them (they may make a Body roll to reduce damage), and all of their cyberware becomes stressed as if from augmentation overdrive (p. 282, SR6) for one combat round.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]赛博插口超频[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
+
+以一个正在使用赛博插口殖装或赛博骇入器设备的化身为目标。进行电子学+共鸣检定。在维持该复合程式期间，每个成功增加目标化身的1点矩阵主动性。这增加了你叠加主动骰到的静态主动性数字。它不会增加额外的主动性骰。
+
+[spoiler]
+[size=12pt][b]CYBERJACK OVERCLOCK[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+Target a persona that is using a cyberjack augmentation or cyberhack device. Make an Electronics + Resonance test. Each hit adds 1 to the Matrix Initiative of the targeted persona while this form is sustained. This adds to the static initiative number that you add your initiative dice to; it does not add extra initiative dice.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]赛博殖装耐性[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]3[/td][td]S[/td][/tr]
+[/table]
+
+选择一个拥有殖装的角色为目标。如果目标的殖装没有无线功能，你必须通过皮肤链接或者光环链接与其建立直连。进行电子学+共鸣检定，阈值为6减去目标的精华(精华向下取整为最接近的整数)。维持这个复合程式期间，该目标的殖装对殖装超载的压力是免疫的（第282页，SR6）。当你的目标第一次被防止遭受来自殖装超载的压力时，该复合程式崩溃并失效（压力仍被阻止）。如果你的目标已经在遭受殖装超载的压力，那么当这个复合程式生效时，压力将会消失，紧接着这个复合程式失效。
+
+[spoiler]
+[size=12pt][b]CYBERWARE STAMINA[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]3[/td][td]S[/td][/tr]
+[/table]
+
+Target a character with augmentations. If the target’s augmentations are not wireless-enabled, you must establish a direct connection via Skinlink or Aura Link. Make an Electronics + Resonance test with a threshold of 6 minus the target’s Essence (round Essence down to the nearest whole number). While this complex form is sustained, the target’s augmentations are immune to stress from augmentation overdrive (p. 282, SR6). The first time that your target is prevented from suffering stress from overdrive, this complex form collapses and ends (the stress is still prevented). If your target is already suffering from augmentation overdrive stress, it goes away when this complex form takes effect, ending the complex form immediately after.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]炸弹食客[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]3[/td][td]S[/td][/tr]
+[/table]
+
+当你编制炸弹食客复合程式时，进行一次电子学+共鸣检定并记录你获得的总成功数。如果你在维持这个复合程式期间引爆了一个数据炸弹，数据炸弹会降低等同于你的总成功数的等级。如果数据炸弹的等级被降低到0或更低，它将被共鸣无害地进食掉——在这种情况下，被数据炸弹保护的文件将保持完整。在炸弹食客复合程式遭遇数据炸弹后，该复合程式将崩溃并失效。
+
+[spoiler]
+[size=12pt][b]DATA BOMB EATER[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]3[/td][td]S[/td][/tr]
+[/table]
+
+When you thread a Data Bomb Eater, make an Electronics + Resonance test and record your total hits. If you set off a Data Bomb while sustaining this form, the Data Bomb’s rating is reduced by your total hits. If the Data Bomb’s rating is reduced to zero or less, it is harmlessly eaten by the Resonance—in which case the file that was protected by the Data Bomb remains intact. After a Data Bomb Eater encounters a Data Bomb, the complex form collapses and ends.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]数据伪装[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]2[/td][td]S[/td][/tr]
+[/table]
+
+你可以使用这种复合程式来伪装任何图标，使其看起来与之前不同。可以伪装的图标类型有化身、设备、IC、文件、网精、AI或任何你能想到的图标，但同时也允许你使其呈现出虚假的矩阵属性，甚至让它看起来像是在运行特定的软件。以某个图标为目标，进行电子学+共鸣检定并记录你的总成功数。每当被伪装的图标成为矩阵侦察的目标时，侦察的结果将只能呈现你伪装成的信息，除非该矩阵侦察的总成功数超过了你的电子学检定的成功数。在这种情况下，他们会看穿伪装，并得到真正的信息。这个复合程式也可以被用于使某个没有运行化身的设备（比如一个备用的通讯链）看起来像是正在运行一个活跃的化身。
+
+[spoiler]
+[size=12pt][b]DATA DISGUISE[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]2[/td][td]S[/td][/tr]
+[/table]
+
+You can use this complex form to disguise any icon to make it appear to be different. This includes the type of icon such as persona, device, IC, file, sprite, AI, or anything else that you can think of, but also allows you to present false Matrix attributes, and even make it appear to be running specific software. Target an icon, make an Electronics + Resonance test, and record your total hits. Whenever the disguised icon is targeted with a Matrix Perception test, the results of that test will report only the information from your disguise unless the total hits exceed the hits you scored on the Electronics test. In that case, they see through the disguise and get the real scoop. This complex form can also be used to make it appear that a device that is not running a persona (such as a spare commlink) is actively running a persona.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]增强自动软件[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
+
+以一个至少在理论上能够运行自动软件的设备为目标，进行电子学+共鸣检定。每获得两个成功，在该复合程式维持期间，使用该设备上运行的自动软件进行的检定获得一个奖励骰。
+
+[spoiler]
+[size=12pt][b]ENHANCE AUTOSOFTS[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+Target a device that is at least theoretically capable of running an autosoft and make an Electronics + Resonance test. For every two hits, add one bonus die whenever a test is made using an autosoft running on the device while this complex form is sustained.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]自驾启迪[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
+
+以一个拥有自驾等级且目前没有被任何实体跳入的设备为目标，进行电子学+共鸣检定。你可以用成功数提高目标的自驾属性或传感器等级，或切分成功数根据你的选择分别提升两者。自驾属性或传感器等级都不能被提升超过原本等级的两倍。受该复合程式影响的设备看起来会更警觉、活跃并有自主意识。他们自动通过任何需要理解复杂命令或应对混乱情况的检定。有时它们也会表现出一点态度，并需要被说服来执行它们的命令。如果一个受自驾启迪影响的设备掷出了一个失误或严重失误，就需要进行唬骗或影响+魅力检定来说服它遵守它的命令。这需要一个主要动作，检定的阈值是自驾属性与传感器等级提升的总点数。你可以根据需要多次尝试，但在被说服之前，设备不会采取任何进一步的动作。如果你停止维持自驾启迪复合程式，设备会回到它的通常行为。
+
+[spoiler]
+[size=12pt][b]ENLIGHTEN AUTOMATON[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+Target a device with a Pilot rating that is not currently jumped into by any entity, and make an Electronics + Resonance test. You may increase either the Pilot or Sensor rating of the target by your hits, and you may split up your hits between Pilot and Sensors if you choose. Neither Pilot nor Sensor can be increased to more than double its original rating. Devices seem much more alert, active, and aware while under the effects of this complex form. They automatically pass any test required to understand complex orders or respond to chaotic situations. Sometimes they also show a little attitude and need to be convinced to carry out their orders. If a device affected by Enlighten Automaton rolls a glitch or critical glitch, a Con or Influence + Charisma test is required to convince it to follow its orders. This requires a Major Action, and the threshold for the test is the number of points the Pilot and Sensor ratings have been increased by. You can attempt this as many times as needed, but until convinced, the device will take no further actions. If you stop sustaining Enlighten Automaton, the device goes back to its normal behavior.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]主机模拟[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]6[/td][td]S[/td][/tr]
+[/table]
+
+[spoiler]
+[size=12pt][b]HOST EMULATOR[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]6[/td][td]S[/td][/tr]
+[/table]
+
+瞄准主机中的角色或IC，进行电子+共振vs直觉+防火墙的测试。如果你获得任何净命中，角色或IC就会被骗与他们所处的宿主的幻象进行互动。当窗体持续时，目标的下一个Matrix Actions将自动失败，目标将相信其操作是成功的。这种错觉只能持续一段时间，直到错误检查系统或目标自己的直觉导致它们挣脱束缚。每当目标失去一个Matrix Action给Host Emulator时，如果他们获得的命中数超过了电子测试的净命中数，那么复杂的表单就会崩溃并结束。黑客帝国的行动还是失败了，但目标意识到它失败了。
+
+Target a persona or IC within a host and make an Electronics + Resonance test vs Intuition + Firewall. If you score any net hits, the persona or IC is tricked into interacting with an illusion of the host they are in. The target’s next Matrix Actions will automatically fail while the form is sustained, and the target will believe that its actions are successful. This illusion can only be kept up for so long before error-checking systems or the target’s own intuition causes them to break free. Every time the target loses a Matrix Action to Host Emulator, if they score more hits than the net hits scored on your Electronics test, the complex form collapses and ends. The Matrix Action still fails, but the target realizes that it failed.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]IC革除[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]4[/td][td]I/S[/td][/tr]
+[/table]
+
+以正在主机中运行的某个IC为目标，进行电子学+共鸣对抗主机等级x2的检定。目标IC受到等同于你的攻击性加上净成功数的矩阵伤害。如果你使用该复合程式崩溃了某个IC，该复合程式的持续时间变为维持。只要你维持该复合程式，主机就不能启动另一个与你崩溃的IC相同类型的IC实例。
+
+[spoiler]
+[size=12pt][b]IC PICK[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]4[/td][td]I/S[/td][/tr]
+[/table]
+
+Target IC running on a host and make an Electronics + Resonance test vs Host Rating x 2. The IC takes Matrix damage equal to your Attack attribute plus net hits. If you crash the IC using this complex form, its duration switches to sustained. As long as you sustain the complex form, the host cannot launch another instance of the type of IC that you crashed.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]机械覆写[/b][/size]
+
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
+
+
+
+[spoiler]
+[size=12pt][b]MACHINE MERGE[/b][/size]
+
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+Target a character with a control rig (or equivalent echo) and make an Electronics + Resonance test. For every two hits, the target gains one bonus die on Piloting, Engineering, and defense tests made while jumped into a vehicle or drone while this complex form is sustained. This bonus only applies on tests made to operate the vehicle or drone and its systems.
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
