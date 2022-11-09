@@ -96,7 +96,7 @@ Bubble Shield creates a protective Resonance barrier around one target, which mu
 [tr][td]4[/td][td]S[/td][/tr]
 [/table]
 
-这种复合程式增强了目标的技术感官，刺激他们的头部改造以创造一种注意力高度集中的状态，类似于植入BTL芯片的感觉——但是增强的是目标的真实体验。除了增强愉悦体验之外，它也倾向于放大可怕体验。为了创建这个复合程式，进行一个电子学+共鸣检定，阈值为6减去目标的精华。目标必须拥有某种头部改造才能受到影响，如果他们没有任何感官殖装（比如赛博眼，赛博耳，嗅觉增幅器等），你就不能在该电子学检定中获得或花费极限。在BTL现实复合程式维持期间，目标在侦察鉴定上获得等同于你检定净成功数的奖励骰，但他们也会由于明显的分心状态和芯片头[color=green](注：chipheads，BTL成瘾者)[/color]的糟糕名声而在所有的唬骗与影响检定中获得惩罚。这个复合程式的影响与BTL极为相似，以至于它们能够满足BTL成瘾者爽一把的需求。芯片头们通常愿意支付每小时至少100新元的费用来接受这种复合程式的影响，许多不良超链者正在推销他们的能力作为使用BTL的健康替代。他们错了——这和BTLs一样糟糕。如果你的目标在受到BTL现实影响时掷出了一个失误，严重失误或狂野骰掷出了1，这个复合程式就会崩溃并失效，随后目标会遭受到1D6点物理生物反馈伤害，该伤害无法被抵抗，阻止或以任何方式减少。这种伤害无法被治疗痊愈，只能通过自然恢复治愈。
+这种复合程式增强了目标的技术感官，刺激他们的头部改造以创造一种注意力高度集中的状态，类似于植入BTL芯片的感觉——但是增强的是目标的真实体验。除了增强愉悦体验之外，它也倾向于放大可怕体验。为了创建这个复合程式，进行一个电子学+共鸣检定，阈值为6减去目标的精华。目标必须拥有某种头部改造才能受到影响，如果他们没有任何感官殖装（比如赛博眼，赛博耳，嗅觉增幅器等），你就不能在该电子学检定中获得或花费极限。在BTL现实复合程式持续期间，目标在侦察鉴定上获得等同于你检定净成功数的奖励骰，但他们也会由于明显的分心状态和芯片头[color=green](注：chipheads，BTL成瘾者)[/color]的糟糕名声而在所有的唬骗与影响检定中获得惩罚。这个复合程式的影响与BTL极为相似，以至于它们能够满足BTL成瘾者爽一把的需求。芯片头们通常愿意支付每小时至少100新元的费用来接受这种复合程式的影响，许多不良超链者正在推销他们的能力作为使用BTL的健康替代。他们错了——这和BTLs一样糟糕。如果你的目标在受到BTL现实影响时掷出了一个失误，严重失误或狂野骰掷出了1，这个复合程式就会崩溃并失效，随后目标会遭受到1D6点物理生物反馈伤害，该伤害无法被抵抗，阻止或以任何方式减少。这种伤害无法被治疗痊愈，只能通过自然恢复治愈。
 
 [spoiler]
 [size=12pt][b]BTL IRL[/b][/size]
@@ -177,14 +177,14 @@ Target a character with augmentations. If the target’s augmentations are not w
 [/quote]
 
 [quote]
-[size=12pt][b]炸弹食客[/b][/size]
+[size=12pt][b]爆弹食客[/b][/size]
 
 [table]
 [tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
 [tr][td]3[/td][td]S[/td][/tr]
 [/table]
 
-当你编制炸弹食客复合程式时，进行一次电子学+共鸣检定并记录你获得的总成功数。如果你在维持这个复合程式期间引爆了一个数据炸弹，数据炸弹会降低等同于你的总成功数的等级。如果数据炸弹的等级被降低到0或更低，它将被共鸣无害地进食掉——在这种情况下，被数据炸弹保护的文件将保持完整。在炸弹食客复合程式遭遇数据炸弹后，该复合程式将崩溃并失效。
+当你编制爆弹食客复合程式时，进行一次电子学+共鸣检定并记录你获得的总成功数。如果你在维持这个复合程式期间引爆了一个数据炸弹，数据炸弹会降低等同于你的总成功数的等级。如果数据炸弹的等级被降低到0或更低，它将被共鸣无害地进食掉——在这种情况下，被数据炸弹保护的文件将保持完整。在爆弹食客复合程式遭遇数据炸弹后，该复合程式将崩溃并失效。
 
 [spoiler]
 [size=12pt][b]DATA BOMB EATER[/b][/size]
@@ -228,7 +228,7 @@ You can use this complex form to disguise any icon to make it appear to be diffe
 [tr][td]成功数[/td][td]S[/td][/tr]
 [/table]
 
-以一个至少在理论上能够运行自动软件的设备为目标，进行电子学+共鸣检定。每获得两个成功，在该复合程式维持期间，使用该设备上运行的自动软件进行的检定获得一个奖励骰。
+以一个至少在理论上能够运行自动软件的设备为目标，进行电子学+共鸣检定。每获得两个成功，在该复合程式持续期间，使用该设备上运行的自动软件进行的检定获得一个奖励骰。
 
 [spoiler]
 [size=12pt][b]ENHANCE AUTOSOFTS[/b][/size]
@@ -272,6 +272,8 @@ Target a device with a Pilot rating that is not currently jumped into by any ent
 [tr][td]6[/td][td]S[/td][/tr]
 [/table]
 
+以主机中的某个化身或IC为目标，进行电子学+共鸣对抗目标的直觉+防火墙的检定。如果你获得了任意数量的净成功，该化身或IC会被欺骗，与他们所处主机的幻象进行互动。该复合程式持续期间，目标的下一个矩阵动作将自动失败，并且目标将相信这个动作是成功的。这种错觉只能持续一段时间，直到错误检查系统或目标自身的直觉使他们挣脱束缚。每当目标因主机模拟复合程式失去一个矩阵动作，如果他的累计成功数超过了你电子学检定的净成功数，该复合程式就会崩溃并失效。该矩阵动作依然会失败，但目标会意识到他失败了。
+
 [spoiler]
 [size=12pt][b]HOST EMULATOR[/b][/size]
 
@@ -279,8 +281,6 @@ Target a device with a Pilot rating that is not currently jumped into by any ent
 [tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
 [tr][td]6[/td][td]S[/td][/tr]
 [/table]
-
-瞄准主机中的角色或IC，进行电子+共振vs直觉+防火墙的测试。如果你获得任何净命中，角色或IC就会被骗与他们所处的宿主的幻象进行互动。当窗体持续时，目标的下一个Matrix Actions将自动失败，目标将相信其操作是成功的。这种错觉只能持续一段时间，直到错误检查系统或目标自己的直觉导致它们挣脱束缚。每当目标失去一个Matrix Action给Host Emulator时，如果他们获得的命中数超过了电子测试的净命中数，那么复杂的表单就会崩溃并结束。黑客帝国的行动还是失败了，但目标意识到它失败了。
 
 Target a persona or IC within a host and make an Electronics + Resonance test vs Intuition + Firewall. If you score any net hits, the persona or IC is tricked into interacting with an illusion of the host they are in. The target’s next Matrix Actions will automatically fail while the form is sustained, and the target will believe that its actions are successful. This illusion can only be kept up for so long before error-checking systems or the target’s own intuition causes them to break free. Every time the target loses a Matrix Action to Host Emulator, if they score more hits than the net hits scored on your Electronics test, the complex form collapses and ends. The Matrix Action still fails, but the target realizes that it failed.
 [/spoiler]
@@ -316,7 +316,7 @@ Target IC running on a host and make an Electronics + Resonance test vs Host Rat
 [tr][td]成功数[/td][td]S[/td][/tr]
 [/table]
 
-
+以某个拥有中控器殖装（或者同样作用回声）的角色为目标，进行电子学+共鸣检定。复合程式持续期间，该检定每获得两个成功，目标在跳入载具或无人机时在驾驶、工程学与防御检定上获得一个奖励骰。该奖励骰仅能用于操作该载具或无人机及其系统的检定。
 
 [spoiler]
 [size=12pt][b]MACHINE MERGE[/b][/size]
@@ -327,116 +327,233 @@ Target IC running on a host and make an Electronics + Resonance test vs Host Rat
 [/table]
 
 Target a character with a control rig (or equivalent echo) and make an Electronics + Resonance test. For every two hits, the target gains one bonus die on Piloting, Engineering, and defense tests made while jumped into a vehicle or drone while this complex form is sustained. This bonus only applies on tests made to operate the vehicle or drone and its systems.
-
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]牵线木偶[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]6[/td][td]S[/td][/tr]
+[/table]
 
+这个复合程式是街头武士们最恐怖的噩梦，它允许超链者通过他们身上的殖装来控制目标的身体。目标必须拥有至少一个身体殖装或赛博义肢并连接到他的神经系统，使其对该复合程式的影响足够脆弱。惰性殖装，比如骨骼网织层、真皮镀层与走私仓不计入这一点，而跳线反射、反应增强器与技能闭路则计入。关闭无线模式为抵抗这种复合程式提供了一些保护；为了使用该复合程式，超链者必须保持对这些目标的视线并拥有光环链接的回声。以无线模式运行的目标足够脆弱，这种情况下不需要物理视线。为了使用牵线木偶复合程式，进行电子学+共鸣对抗目标的意志+防火墙的检定。如果取得成功，记录你的净成功数量。你可以使用进一步的动作来直接控制目标的身体。如果目标只有一个赛博义肢，你只能用动作来控制他们的赛博肢体，但大多数身体殖装允许你控制目标的整个身体。你必须为你强迫目标采取的每个主要动作或次要动作花费一个主要动作与次要动作。该动作必须是目标身体能够做到的物理动作——他们的思想和情绪不受影响。每当你强迫你的目标采取一个动作时，你的净成功总数减少一个。当你所有的净成功数都用完或你停止维持，该复合程式就会崩溃并失效。
+
+如果目标采取的动作需要进行投骰，使用他们通常的骰池，但是检定中不能获得或花费极限。这个复合程式并不妨碍目标自己的动作，在他们自己的回合，目标可以采取自己的动作。虽然你可以使用这个复合程式来迫使目标采取明显不利于他们的动作，例如攻击自己，从附近的高处跳下等，但这并不是一种迅速的杀戮方式。如果你强迫目标伤害自己，他们只会承受他们正在使用的武器的基础伤害，而不会投骰进行攻击或使用净成功提高伤害。在坠落的情况下，目标有机会通过运动+敏捷的检定抓住窗台或其他东西。这种复合程式不应该用于自动杀戮，但它可以提供一个决定性的战术优势。即使在罪犯之中，这种强迫某人伤害他们自己的能力也是足够恐怖的。每次你使用这种复合程式使目标伤害自己，在狂奔结束时，团队的热度修正增加1点。
+
+请注意，你可以对一个自愿的目标使用该复合程式，从而为他们提供额外的动作。没有任何殖装是真正设计为以这种方式使用的，所以目标必须投抵抗骰。当在目标同意的情况下对其使用该复合程式时，你会获得一点极限，必须在电子学检定中花费，否则就会失去。即使是在这种情况下使用，被复合程式影响的动作也既不能获得也不能花费极限。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]MARIONETTE[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]6[/td][td]S[/td][/tr]
+[/table]
+
+This complex form is the street samurai’s worst nightmare, allowing a technomancer to take control of a target’s body through their augmentations. In order to be vulnerable to this complex form, a target must have at least one bodyware augmentation or cyberlimb that is connected to their nervous system. Inert ware such as bone lacing, dermal plating, and smuggling compartments don’t count toward this, but wired reflexes, reaction enhancers, and skillwires do. Turning off wireless mode offers some protection against this complex form; in order to use it then, the technomancer must maintain line of sight with these targets and have the Aura Link echo. Targets who are running in wireless mode are also vulnerable via the Matrix, in which case physical line of sight is not required. To use Marionette on a target, make an Electronics + Resonance test that is opposed by the target’s Willpower + Firewall. If successful, note your net hits. You may use further actions to directly control the target’s body. If they only have a cyberlimb, you can only take actions to control their cybernetic limb, but most bodyware augmentations allow control over the target’s entire body. You must spend a Major and a Minor Action for each Major or Minor Action you force the target to take. This action must be a physical action that the target is physically capable of doing—their mind and emotions are not affected. Each time you force your target to take an action, reduce your total net hits by one. When all of your net hits have been used up, or if you stop sustaining it, the complex form collapses and ends.
+
+If the target takes an action that requires a dice roll, use their normal dice pool, but no Edge may be gained or spent on the test. This complex form doesn’t prevent them from moving of their own volition. On their own turn, the target may take their own actions. While you can use this complex form to force a target to take actions that are clearly detrimental to their well-being, such as attack themselves, jump off a nearby height, etc., it’s not an instant kill. If you force a target to harm themself, they take base damage from whatever weapon they are using, with no dice roll to hit or increase damage with net hits. In the case of a fall, the target gets a chance to catch a ledge or something with an Athletics + Agility test. This complex form shouldn’t be used for an automatic kill, but it can provide a decisive tactical advantage. Even among criminals, the thought of forcing someone to harm themselves with a power such as this is horrifying. Each time you use this complex form to cause a target to damage itself, add +1 to the team’s Heat modifier at the end of the run.
+
+Note that you could use this on a willing target with the goal of providing them with extra actions. No augmentations are truly designed to be used in this manner, so the target must still roll to resist. When using this form on a target with their consent, you gain a point of Edge that must be spent on the Electronics test, or it is lost. Even when used in these circumstances, actions forced by this complex form can neither gain nor benefit from Edge.
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]蓄势待发[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
 
+通过将来自共鸣的原始力量经由你的活体化身传导出去，你可以极为强烈地增幅一个矩阵动作。当你编制蓄势待发复合程式时，进行电子学+共鸣检定并记录你的总成功数。下一次你使用矩阵动作或编制复合程式时，你在电子学检定中每得到两个成功即可获得一点极限。你可以通过这种方式获得2个以上的极限，但在你的矩阵动作或复合程式编制完成后（包括抵抗衰褪伤害），你就会失去所有剩余的极限——即便不是由该复合程式赋予的极限。存储在单独极限池里的极限不会因此耗尽，如M-TOC或追逐池。你不能在你的极限池为空时使用蓄势待发复合程式。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]Primed Charge[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+By channeling raw power from the Resonance through your living persona, you can powerfully boost a Matrix Action. When you thread Primed Charge, make an Electronics + Resonance test and record your total hits. The next time you take a Matrix Action or thread a complex form, gain a point of Edge for every two full hits you scored on your Electronics test. You may gain more than 2 Edge in this way, but after your Matrix Action or complex form is resolved (including resolving fading damage), you lose all of your remaining points of Edge—even Edge that was not granted by this complex form. Edge stored in a separate pool such as an M-TOC or Chase Pool is not drained by this. You may not use Primed Charge when your Edge pool is empty.
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]共鸣导线[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]2[/td][td]S[/td][/tr]
+[/table]
 
+比任何防火墙更强大的终极防御是完全关闭无线模式，使你不会受到任何敌对矩阵动作的影响。好吧，超链者们对这个问题有一些变通的办法。要使用这种复合程式，需要以某个你能看到的设备或角色为目标，并进行电子学+共鸣检定，阈值为2加上杂讯（如果有的话）。如果你达到了阈值，你就与该设备建立了远程直连。如果你的目标是一个角色，你就可以直连到该角色的任何或所有设备——即使是那些已经关机了的设备。你对已关机的设备唯一能做的就是启动它，但这个限制并不适用于只是关闭了无线模式的设备。只要你能保持对目标的视线，你就可以维持这个复合程式。如果你失去视线的时间超过了你眨眼的时间，它就会立刻结束。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]RESONANCE WIRES[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]2[/td][td]S[/td][/tr]
+[/table]
+
+The ultimate defense, more powerful than any firewall, is to switch off wireless mode entirely, making you completely invulnerable to hostile Matrix Actions. Well, technomancers have a few workarounds for that problem. To use this complex form, target a device or character that you can see and make an Electronics + Resonance test with a threshold of 2 plus noise (if any). If you meet the threshold, you establish a remote direct connection to the device. If your target was a character, you have a direct connection to any or all of that character’s devices — even ones that have been turned off. The only thing you can do with a device that has been turned off is to turn it on, but this limitation doesn’t apply to devices that just have wireless mode disabled. You can sustain this complex form for as long as you can maintain line of sight to the target. If you lose sight for longer than it takes you to blink, it ends immediately.
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]延续恢复[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]P[/td][/tr]
+[/table]
 
+这个复合程式允许你治愈软件受到的矩阵伤害，包括远程代理，AI，矩阵动物以及IC。进行电子学+共鸣检定，每个成功可以恢复一点矩阵伤害。这对设备和网精没有效果。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]RESTORE CONTINUITY[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]P[/td][/tr]
+[/table]
+
+This complex form allows you to heal software with Matrix damage, including remote agents, artificial intelligence, Matrix fauna, and even IC. Make an Electronics + Resonance test, which restores one box of Matrix damage per hit. This has no effect on devices and sprites.
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]历史查询[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]2[/td][td]P[/td][/tr]
+[/table]
 
+当你对一个设备使用历史查询复合程式时，进行电子学+共鸣对抗意志（或设备等级）+防火墙的检定。如果你获得了任意数量的净成功，你会立即获得一份清单，列出了该设备在过去每净成功24小时内或自从它上次重启以来（以时间最近为准）的所有矩阵动作。没有关于矩阵动作结果的具体信息，但矩阵设备的目标会被记录下来。只有被设备辨识出的目标能够被历史查询复合程式辨识。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]SEARCH HISTORY[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]2[/td][td]P[/td][/tr]
+[/table]
+
+When you target a device using Search History, make an Electronics + Resonance test vs. Willpower (or device rating) + Firewall. If you score any net hits, you immediately gain a list of all Matrix Actions taken by the device within the past twenty-four hours for each net hit or since it was last rebooted (whichever is most recent). No specifics are included about the results of the Matrix Actions, but the targets of the Matrix devices are recorded. Only targets that were identified and recognized by the device will be identified by Search History.
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]隐匿性赋予[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
 
+以一个自愿化身为目标，进行电子学+共鸣检定。只要你维持这个复合程式，该目标获得等于你的电子学检定成功数的隐匿性属性。如果该目标已经拥有一个较低的隐匿性属性，它将被该复合程式提供的隐匿性属性替代。受隐匿性赋予影响的目标不能被属性注入（隐匿性）影响。这个化身现在可以使用需要电子学技能的非法矩阵动作。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]SLEAZE ATTRIBUTION[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+Target a willing persona and make an Electronics + Resonance test. As long as you sustain this complex form, the target gains a Sleaze Matrix attribute equal to the total hits on your Electronics test. If the target already had a lesser Sleaze attribute, it is replaced by the Sleaze attribute provided by this form. The target under the effects of Sleaze Attribution cannot be affected by an Infusion (Sleaze) complex form. This persona may now use illegal Matrix actions that utilize the Electronics skill.
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]智能枪扩增[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
 
+这个复合程式扩增并强化武器系统。选择独立的装配了智能枪系统的武器或一个M-TOC设备为目标，进行电子学+共鸣检定。该复合程式持续期间，连接到M-TOC网络的武器（或独立的目标武器）的攻击等级增加等于该检定的成功数。这只会影响拥有开启了无线模式的智能枪系统的武器。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]SMARTGUN AMPLIFIER[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+This complex form amplifies and enhances weapons systems. Target either an individual smartgun-equipped weapon or an M-TOC device and make an Electronics + Resonance test. The Attack Ratings of weapons connected to the M-TOC network (or the individually targeted weapon) are increased by the number of hits rolled on this test while the form is sustained. This only affects weapons with wireless-enabled smartgun systems.
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]技术再生[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]P[/td][/tr]
+[/table]
 
+这个复合程式等同于对电子设备的治疗术。以一个设备为目标，进行电子学（硬件）+共鸣检定。每个获得的成功可以治疗一点矩阵伤害。这只对设备生效，对IC、网精或其他矩阵生物无效。当一个设备被这个复合程式修复后，它的功能往往会变得不稳定。当使用该设备进行任何检定时，用一个狂野骰替换其中一个骰子，直到可以进行更彻底的维修（这需要使用电子学工具箱花费一小时）。在这个维护完成之前，该设备不能再次通过技术再生来修复。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]TECHNOREGENERATION[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]P[/td][/tr]
+[/table]
+
+This complex form is the equivalent of a Heal spell for electronic devices. Target a device and make an Electronics (Hardware) + Resonance test. For every hit scored, restore one box of Matrix damage. This only works on devices, not IC, sprites, or other Matrix fauna. When a device has been repaired by this complex form, it tends to function erratically. When making any test using the device, replace one of the dice with a wild die until more thorough maintenance can be done (this requires one hour with an Electronics toolkit). Until this maintenance is done, the device cannot be repaired via technoregeneration again.
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]威胁分析[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]成功数[/td][td]S[/td][/tr]
+[/table]
 
+这个复合程式能强化M-TOC的战斗防御算法。以一个M-TOC设备为目标，进行电子学+硬件检定。每获得一个成功，即可增加所有连接到M-TOC的角色或设备的DR。为了获得这个DR的奖励，角色必须拥有DNI（数据插口或电极贴片）或图像链与音频通讯设备从而使他们可以看到并听到M-TOC的增强现实覆盖
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]THREAT ANALYZER[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Hits[/td][td]S[/td][/tr]
+[/table]
+
+This complex form supercharges an M-TOC’s combat defense algorithms. Target an M-TOC device and make an Electronics + Hardware test. For every hit scored, increase the DR of all characters and drones that are subscribed to the M-TOC. In order to receive this DR bonus, characters must either have DNI (a datajack or trodes will do) or have an image link and audio communication device so that they can see and hear the M-TOC’s augmented reality overlay.
 [/spoiler]
 [/quote]
 
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]加密瓦解[/b][/size]
 
+[table]
+[tr][td][b]衰褪[/b][/td][td][b]持续[/b][/td][/tr]
+[tr][td]加密等级[/td][td]P[/td][/tr]
+[/table]
 
+这个复合程式允许你在不增加OS的情况下移除某个文件的加密，并且，假设你成功了，也不会引起任何警报。进行电子学+共鸣对抗加密等级x2的检定。如果你的成功数至少与加密一致，它就会被静默地移除。如果加密以哪怕一个净成功获胜，主机或设备就会被提醒，有人在试图解密文件。这不会暴露你的身份，但这确实会让主机或设备进入高度警戒状态。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]UNRAVEL ENCRYPTION[/b][/size]
 
+[table]
+[tr][td][b]Fade Value[/b][/td][td][b]Duration[/b][/td][/tr]
+[tr][td]Encryption Rating[/td][td]P[/td][/tr]
+[/table]
+
+This complex form allows you to remove a file’s encryption without increasing your Overwatch Score and, assuming you succeed, without setting off any alarms. Make an Electronics + Resonance test vs. encryption rating x 2. If you score at least as many hits as the encryption, it is silently removed. If the encryption wins by even one net hit, the host or device is alerted that someone is attempting to decrypt the file. This doesn’t give away your persona, but it does tend to put a host or device on high alert.
 [/spoiler]
 [/quote]
