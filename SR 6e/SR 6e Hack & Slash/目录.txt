@@ -27,7 +27,7 @@
 
 [color=brown][size=12pt][b]黑客实战指南 P.23[/b][/size][/color]
 
-[b]为什么保留它们？ P.22[/b]
+[b]为什么要保留它们？ P.22[/b]
 
 [b]游戏信息 P.26[/b]
 物理位置和矩阵侦察 P.26
@@ -44,7 +44,7 @@
 
 [color=brown][size=12pt][b]小道具与小玩意 P.33[/b][/size][/color]
 
-[b]赛博骇入器 P.33[/b]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=136574][b]赛博骇入器 P.33[/b][/url]
 
 [b]定制赛博碟板 P.34[/b]
 获取定制赛博碟板 P.34
@@ -99,8 +99,8 @@
 
 [color=brown][size=12pt][b]超链手段 P.62[/b][/size][/color]
 
-[b]新复合程式 P.62[/b]
-新衰褪值 P.62
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=136549][b]新复合程式 P.62[/b][/url]
+[url=http://www.goddessfantasy.net/bbs/index.php?topic=136549.msg1200581#msg1200581]新衰褪值 P.62[/url]
 新回声 P.67
 数据结构 P.69
 
