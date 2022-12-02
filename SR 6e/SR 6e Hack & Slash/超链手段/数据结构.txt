@@ -1,0 +1,171 @@
+[color=brown][size=16pt][b]数据结构[/b][/size][/color]
+
+数据结构是编码了复杂，多层次点阵式的矩阵与共鸣信息的物理实体，超链者可以使用它来增强自身的能力。这些物体大多数都是由它们的拥有者创建的，供他们自己使用。许多超链者希望没有其他人会发现这些东西的存在，但偶尔它们中某一个会被丢失或掉落，也有些超链者正在以最快速度创建并出售这些物品。如果你有合适的联系人并且问了恰当的问题，你就可以找到正在贩售的数据结构。
+
+数据结构几乎可以被应用于任何物理实体。编码的过程发生在亚原子层面，没有人了解它是如何实现的。数据结构不能被物理或星界观察所辨识，但对任何拥有共鸣属性的人来说都可以立刻认出。在整个编码过程中超链者必须保持触摸物体，他们会在这个过程中陷入长达数小时的深度冥想状态。一旦完成，数据结构必须在被使用前由超链者进行整合。多个超链者可以整合同一个数据结构，但同时只有一个人可以使用它。
+
+[spoiler]
+[color=brown][size=16pt][b]DATA STRUCTURES[/b][/size][/color]
+
+Data structures are physical objects encoded with complex, multi-layered lattices of Matrix and Resonance information that technomancers can use to enhance their abilities. Most of these objects are created by their owner for their own use. Many technomancers would prefer that no one ever learns of the existence of such objects, but occasionally one gets lost or dropped, and there are some technomancers who are making and selling them as quickly as they can manage. If you have the right contacts and ask the right questions, you can find them for sale.
+
+A data structure may be worked into almost any physical object. The process of encoding one occurs at subatomic levels, and no one truly understands how it is achieved. Data structures cannot be detected by any physical or astral observation but are immediately recognizable to anyone with a Resonance attribute. The technomancer must touch the object throughout the encoding process, during which they fall into a deep state of meditative concentration for hours. Once complete, the data structure must be integrated by a technomancer before it can be used. Multiple technomancers can integrate the same data structure, but only one may use it at the same time.
+[/spoiler]
+
+[size=14pt][b]整合[/b][/size]
+
+为了整合一个数据结构，超链者必须物理接触该编码物体，花费一个主要动作以及等同于该数据结构能级的业力。一旦被整合，只要该超链者与编码物体有物理上的接触，他就可以使用该数据结构。整合是永久性的，不需要对同一物体重复进行。
+
+[spoiler]
+[size=14pt][b]INTEGRATION[/b][/size]
+
+To integrate a data structure, a technomancer must physically touch the encoded object, spending a Major Action along with a number of points of Karma equal to its level. Once integrated, the technomancer may use the data structure as long as they are in direct physical contact with the encoded object. Integration is permanent and need never be repeated for the same object.
+[/spoiler]
+
+[size=14pt][b]激活[/b][/size]
+
+每次你想要使用某个数据结构时，你必须花费一个次要动作来激活它，然后再采用能获得奖励的动作。当激活时，数据结构会在特定类型的检定中加入数量等于其能级的奖励骰。如果你不立即采取你所激活的数据结构对应的动作，这个奖励就会消失。在激活时，数据结构显示为一个由密集代码组成的怪异图标，在任何人使用矩阵侦察动作观察它之前就会消失。
+
+[spoiler]
+[size=14pt][b]ACTIVATION[/b][/size]
+
+Each time you wish to use a data structure, you must spend a Minor Action to activate it before taking the action that will gain the bonus. When activated, a data structure adds its level in bonus dice to a specific type of test. If you do not immediately take the action you activated the data structure for, the bonus is lost. While active, the data structure appears as a weird icon made up of dense code that vanishes before anyone can observe it using a Matrix Perception action.
+[/spoiler]
+
+[size=14pt][b]衰褪[/b][/size]
+
+数据结构的潜在种类是非常多的，尽管它们的用途是特定的，而且每次使用都会造成衰褪。如果你在一次检定中只使用一个数据结构，衰褪值等于该数据结构能级的一半（向上取整）。如果你在同一个检定中使用了一个以上的数据结构，所有的奖励都会叠加，但你的衰褪值等于所有使用的数据结构总能级的一半（向上取整）。这是眩晕伤害，除非它超过了你的共鸣属性，这种情况下将变成物理伤害。
+
+如果你使用一个或多个数据结构来获得一个导致衰褪的动作的奖励，你会单独抵抗来自数据结构和动作的衰褪，每个都要单独掷骰。
+
+如果一个数据结构在多个检定中都提供了奖励骰（比如在一个复合程式和随后的衰褪抵抗中），这两个奖励都是由一次激活产生的，所以你只从使用数据结构中受到一次衰褪伤害——尽管你获得了两次奖励骰。
+
+[spoiler]
+[size=14pt][b]FADING[/b][/size]
+
+The potential variety of data structures is considerable, though their uses are specific, and they cause fading with each use. If you just use one data structure on a test, the fade value is equal to half the data structure’s level (round up). If you use more than one data structure on the same test, all of the bonuses stack, but your fade value is equal to half of the total levels of all data structures used (rounded up). This is Stun damage unless it exceeds your Resonance attribute, in which case it becomes Physical.
+
+If you use one or more data structures to gain a bonus on an action that causes fading, you resist fading from the data structure and the action individually, with a separate roll for each.
+
+If a data structure provides bonus dice on multiple tests (such as on a complex form and the subsequent fading test), both bonuses result from a single activation, so you only take fading damage from using the data structure once — even though you gain the bonus dice twice.
+[/spoiler]
+
+---
+
+[quote]
+[size=14pt][b]数据结构种类[/b][/size]
+
+[b]谏言：[/b]你的解码网精与其衰褪抵抗检定获得奖励骰。如果你获得成功，你将获得一点极限。
+
+[b]幻想猛兽：[/b]你的伪造指令动作与人偶操师复合程式获得奖励骰。如果你在编制人偶操师复合程式时使用幻想猛兽，你也会在其衰褪抵抗检定中获得奖励骰。
+
+[b]外壳层：[/b]可以使用一个次要任意动作激活。你抵抗矩阵伤害的任意掷骰获得奖励骰。如果你使用外壳层抵抗数据棘刺或共鸣棘刺并成功抵抗全部伤害，你将获得一点极限。
+
+[b]数据刀锋：[/b]你的数据棘刺与共鸣棘刺复合程式获得奖励骰。当你使用数据刀锋崩溃某个化身或IC时，你获得一点极限。
+
+[b]无人机语者：[/b]你的任意以无人机为目标的矩阵动作或复合程式获得奖励骰。当你使用无人机语者砖化（用伤害填满其CM）或骇入无人机（暴力破解，探查，后门登录）并获得至少一个净成功时，你获得一点极限。
+
+[b]窃听者：[/b]你的窥探动作与数据幻象复合程式获得奖励骰。当你使用窃听者进行窥探动作时，你会自动算作拥有管理者权限能级，并且你不会因窥探动作产生OS。
+
+[b]回音室：[/b]你使用回声的任意检定获得奖励骰。
+
+[b]额外生命：[/b]你抵抗生物反馈伤害的检定获得奖励骰。如果你使用额外生命成功抵抗了所有生物反馈伤害，你获得一点极限。
+
+[b]接地栓：[/b]可以使用一个次要任意动作激活。你抵抗衰褪的检定获得奖励骰。如果你使用接地栓成功抵抗了全部衰褪伤害，你获得一点极限。
+
+[b]逻辑病毒：[/b]你的任意以IC为目标的矩阵动作与复合程式获得奖励骰。如果你使用逻辑病毒并且你以IC为目标的矩阵动作或复合程式获得至少一个净成功，你获得一点极限。
+
+[b]连接光：[/b]你的追踪图标动作获得奖励骰，并且对于该动作你会自动算作拥有管理者权限能级。如果你使用连接光成功追踪了一个化身，你获得一点极限。
+
+[b]主密钥：[/b]你的以下骇入动作获得奖励骰：暴力破解、探查与后门登录。如果你使用主密钥时在这些动作中获得至少一个净成功，你获得一点极限。
+
+[b]切肉刀：[/b]你以正处于VR模式下的化身为目标的数据棘刺动作与共鸣棘刺复合程式获得奖励骰。你的目标受到生物反馈伤害——热模受到物理伤害，冷模受到晕眩伤害——DV等于你的攻击性。切肉刀造成的伤害不受净成功影响。如果你使用切肉刀成功造成物理或晕眩伤害，你获得一点极限。
+
+[b]神谕：[/b]你的矩阵侦察动作与矩阵搜索动作获得奖励骰。如果你激活神谕，你的矩阵搜索延续检定的时间间隔变为一个主要动作。
+
+[b]移相器：[/b]可以使用一个次要任意动作激活。你对抗来源为IC的任意动作时获得奖励骰。如果你使用移相器时在对抗检定中获得比IC更多的成功数，你获得一点极限。
+
+[b]共鸣聚焦：[/b]你使用共鸣属性的任意检定获得奖励骰。
+
+[b]共鸣护盾：[/b]可以使用一个次要任意动作激活。你抵抗数据棘刺动作或共鸣棘刺复合程式的防御检定获得奖励骰。这对抵抗来源为IC或其他来源的矩阵伤害无效。如果你使用共鸣护盾时成功抵抗了全部来源于数据棘刺或共鸣棘刺的伤害，你获得一点极限。
+
+[b]网精传召（特定网精类型）：[/b]你对特定类型网精的编制与注册检定获得奖励骰。如果你使用网精传召时在编制网精或注册网精检定中获得成功，你获得一点极限。
+
+[spoiler]
+[size=14pt][b]TYPES OF DATA STRUCTURES[/b][/size]
+
+[b]Admonisher:[/b]Gain bonus dice on a test to decompile a sprite and on the resulting fading test. Gain a point of Edge whenever you score at least.
+
+[b]Bandersnatch:[/b]Gain bonus dice on a Spoof Command Action or Puppeteer complex form. If you use a Bandersnatch on a Puppeteer complex form, you also gain bonus dice on the fading resistance test.
+
+[b]Code Shell:[/b]May be activated with a Minor Anytime Action. Gain bonus dice on any roll to soak Matrix damage. If you use Code Shell against a Data or Resonance Spike, gain a point of Edge if you soak all of the damage.
+
+[b]Data Blade:[/b]Gain bonus dice on a Data Spike Matrix Action or Resonance Spike complex form. Gain a point of Edge whenever you crash a persona or IC while using a Data Blade.
+
+[b]Drone Whisperer:[/b]Gain bonus dice on any Matrix Action or complex form that targets a drone. Whenever you use Drone Whisperer to brick (fill up its Matrix condition monitor with damage) or hack a drone (Brute Force, Probe, or Backdoor Entry) and score at least one net hit, gain a point of Edge.
+
+[b]Eavesdropper:[/b]Gain bonus dice on a Snoop action or Static Veil complex form. When using a Snoop action that benefits from eavesdropper, you automatically count as having admin access level, and you do not generate any overwatch score from the Snoop action.
+
+[b]Echo Chamber:[/b]Gain bonus dice on any test to use an echo.
+
+[b]Extra Life:[/b]Gain bonus dice on a roll to soak biofeedback damage. If you resist all of the biofeedback damage while using Extra Life, gain a point of Edge.
+
+[b]Grounding Rod:[/b]May be activated with a Minor Anytime Action. Gain bonus dice to resist fading. If you fully resist all fading damage while using a grounding rod, gain a point of Edge.
+
+[b]Logic Virus:[/b]Gain bonus dice on any Matrix Action or complex form that targets IC. Gain a point of Edge if you score at least one net hit on a Matrix Action or complex form that targets IC, but only when you activate the Logic Virus for that action.
+
+[b]Link Light:[/b]Gain bonus dice on a Trace Icon action, and you automatically count as having admin access for that action. If you successfully trace a persona icon using a Link Light, gain a point of Edge.
+
+[b]Master Key:[/b]Gain bonus dice on a hacking action: Brute Force, Probe, or Backdoor Entry. Gain a point of Edge if you score at least one hit on the action that benefits from your activation of a Master Key.
+
+[b]Meat Cleaver:[/b]Gain bonus dice on a Data Spike Matrix Action or Resonance Spike complex form that targets a persona that is using VR mode. Your target suffers biofeedback damage—Physical damage if in hot sim, Stun damage if using cold sim— with a DV equal to your Attack attribute. Damage from a Meat Cleaver is not affected by net hits. If you deal any Physical or Stun damage using a Meat Cleaver, gain a point of Edge.
+
+[b]Oracle:[/b]Gain bonus dice on a Matrix Perception or Matrix Search test. When you activate Oracle, all of your extended Matrix Search tests have an interval of a Major Action.
+
+[b]Phase Shifter:[/b]May be activated with a Minor Anytime Action. Gain bonus dice to resist any action taken by IC. If you score more hits than IC on an Opposed test when using a Phase Shifter, gain a point of Edge.
+
+[b]Resonance Focus:[/b]Gain bonus dice on any test that uses your Resonance attribute.
+
+[b]Resonance Shield:[/b]May be activated with a Minor Anytime Action. Gain bonus dice on defense tests against a Data Spike Matrix Action or Resonance Spike complex form. Doesn’t help against IC or other sources of Matrix damage. If you completely resist all damage from a Data Spike or Resonance Spike after activating a resonance shield, gain a point of Edge.
+
+[b]Sprite Caller (specify sprite type):[/b]Gain bonus dice on a test to compile or register a sprite with the matching type. If you score at least one hit when using a Sprite Caller to compile or register a sprite, gain a point of Edge.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]创建数据结构[/b][/size]
+
+你必须拥有数据结构编码的回声才能创建数据结构。要创建一个数据结构，你必须先选择你想要创建的数据结构类型和能级。然后，你需要编制并注册一个数据网精，其能级与你希望创建的数据结构能级相同。然后，在数据网精的协助下，你必须进入深度冥想状态，同时与即将被编码的物体保持物理接触。这个物体可以是任意你希望的物体，但不能小于一个隐形标签（这已经非常小了）。进行任务调度+共鸣的延续检定，阈值为数据结构能级x2，时间间隔为一小时。每次检定中你都会获得等同于数据网精能级的奖励骰。
+
+这段时间内，你高度集中于编码过程，对物理世界或矩阵毫无意识。只有剧烈的摇晃或受到伤害能使你脱离这种状态。如果这发生了，该数据网精便会崩溃（你的网精声誉因此降低1点），该检定失败，并且你受到两倍于你尝试创建的数据结构能级的衰褪伤害。如果衰褪值超过了你的共鸣属性，那么该衰褪伤害为物理伤害。
+
+如果你在检定中产生了一个严重失误，这也会发生。每个失误都会使阈值提高2。如果你在延续检定中获得成功，你必须花费与数据结构能级相等的业力来完成这个过程。该过程会消耗掉你注册的数据网精的全部服务，并导致网精在最后崩溃。
+
+一些超链者认为，数据结构就是被绑定并转换了的数据网精，但很少有人同意这种说法。不管是什么情况，网精不喜欢被崩溃，当它因任何情况发生时，你的网精声誉都会下降1点。如果你选择立即整合该数据结构，你可以这么做并不需要再付出任何业力成本。如果其他人想要整合它（或者如果你等着以后再整合），他们必须付出与数据结构的业力成本相同的业力。
+
+这些规则假定你正在创建一个能提供奖励的数据结构。如果你是在一个物体中编码某个存储文件，那么就不会有业力成本。它只需要花费一个注册数据网精的一次服务，以及在与物体有物理接触时的一个主要和次要动作，并且不需要进行检定（次要动作用来命令网精协助，而主要动作代表实际的编码操作）。你的数据网精不会崩溃，所以你的网精声誉也不会受到影响。只有拥有数据结构编码回声的人才能访问该文件，即使如此，他们也必须物理接触到编码对象才能进行访问。你可以传输任意数量的数据，但每个文件都需要单独花费动作和服务。文件永远不会被删除，除非该对象被摧毁。
+
+[spoiler]
+[size=14pt][b]CREATING A DATA STRUCTURE[/b][/size]
+
+You must have the Data Structure Encoding echo to create data structures. To create a data structure, you must first choose what type and level you want. Next, compile and register a data sprite with a level equal to the level of the data structure you hope to create. Then, with the assistance of the data sprite, you must enter a deep meditative state while in physical contact with the object that will be encoded. This object may be any object you wish, but may be no smaller than a stealth tag (which is really fragging small). Make a Tasking + Resonance Extended test with a threshold of twice the data structure’s level and an interval of one hour. Gain bonus dice on each test equal to the level of your data sprite.
+
+During this time, you are not aware of the physical world or Matrix but are hyper-focused on the encoding process. Only a violent shake or suffering damage will snap you out of the state. If this happens, the data sprite crashes (your Sprite Rep goes down by 1 as a result), the test fails, and you suffer fading damage equal to the twice the level of the data structure you had been attempting to create. The fading damage is physical if the Fade Value exceeds your Resonance attribute.
+
+This also occurs if you get a critical glitch on any of the tests. Each glitch increases the threshold by 2. If you succeed at the Extended test, you must complete the process by spending a number of Karma equal to the data structure’s level. This process consumes all of the services from your registered data sprite and causes the sprite to crash at the end.
+
+Some technomancers believe that data structures are bound and transformed data sprites, but few agree with this. Whatever the case, sprites don’t like being crashed, and your Sprite Rep goes down by 1 when it happens for any reason. If you choose to integrate it immediately, you may do so at no further Karma cost. If anyone else integrates it (or if you wait to integrate it later), they must pay Karma equal to the data structure’s Karma cost to do so.
+
+These rules assume that you are creating a data structure that provides a bonus. If you are encoding a stored file in an object, there is no Karma cost. It only requires one service from a registered data sprite and a Major and Minor Action while in physical contact with the object, with no test required (the Minor Action is required to command the sprite to assist, and the Major Action represents the actual encoding). Your data sprite is not crashed, and so your Sprite Rep does not suffer. Only someone with the Data Structure Encoding echo will be able to access the file, and even then they must physically touch the encoded object to do so. You may transfer any amount of data, but a separate action and service are required for each file. The file may never be deleted, except when the object is destroyed.
+[/spoiler]
+
+[size=14pt][b]购买数据结构[/b][/size]
+
+数据结构的市场价通常是它的能级x5,000新元，但寻找一个在售的数据结构非常困难。你必须拥有一个矩阵与共鸣类型的联络人，其关系能级与忠诚能级大于等于你想要购买的数据结构能级。为了整合数据结构，你也必须支付业力成本。
+
+[spoiler]
+[size=14pt][b]PURCHASING A DATA STRUCTURE[/b][/size]
+
+The market price for a data structure is usually its level x 5,000 nuyen, but finding one for sale is difficult. You must have a contact with the Matrix and Resonance types with a Connection and Loyalty rating equal to or greater than the level of the data structure you wish to purchase. In order to integrate the data structure, you must also pay its Karma cost.
+[/spoiler]
