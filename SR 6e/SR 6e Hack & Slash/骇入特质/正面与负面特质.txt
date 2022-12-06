@@ -1,0 +1,490 @@
+[color=brown][size=16pt][b]骇入特质[/b][/size][/color]
+
+黑客们从多种角度使用不同的方法来进行他们的工作。本章的特质将帮助玩家根据他们的期望定义他们的骇入方式。
+
+[spoiler]
+[color=brown][size=16pt][b]QUALITY HACKING[/b][/size][/color]
+
+Hackers come at their work from a variety of angles and approaches. This chapter has qualities to help players define their hacks exactly the way they want them to be.
+[/spoiler]
+
+[size=14pt][b]正面特质 POSITIVE QUALITIES[/b][/size]
+
+[quote]
+[size=12pt][b]矩阵如归[/b][/size]
+
+你在矩阵中感觉分外地自在，就好像你出生在这个地方一样。
+
+花费：15业力
+
+效果：当你使用热模时，你每个战斗轮能够比正常情况下多获得一点极限。通常角色每个战斗轮只能获得最多两点极限。
+
+[spoiler]
+[size=12pt][b]AT HOME IN THE MATRIX[/b][/size]
+
+You feel truly at home in the Matrix, as if you were born to be there.
+
+• Cost: 15 Karma
+
+• Game Effect: Whenever you are using hot sim VR mode, you may gain one more Edge per combat round than normal. Usually characters are limited to gaining only two points of Edge per round.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]天才启发者[/b][/size]
+
+你有一个特殊的诀窍，可以有效集中你的处理能力。
+
+花费：10业力
+
+效果：如果你在进行矩阵动作前花费一个次要动作来准备并校准你的可用处理能力，将你数据处理属性的一半（向上取整）作为奖励骰加入检定。如果你在花费次要动作后没有立即进行矩阵动作，该奖励就会消失。
+
+[spoiler]
+[size=12pt][b]BRILLIANT HEURISTICS[/b][/size]
+
+You have a special knack for efficiently focusing your processing power.
+
+• Cost: 10 Karma
+
+• Game Effect: If you spend a Minor Action to prepare and calibrate your available processing power immediately before taking a Matrix Action, add half your Data Processing attribute (round up) as bonus dice on the test. If you do not immediately take a Matrix Action after doing this, the bonus is lost. This quality may only be used by a persona running on a cyberdeck.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]数据反常[/b][/size]
+
+当你在矩阵中不想被注意时，你知道几个额外的花招来让自己保持隐匿。
+
+花费：5业力
+
+效果：当你静默运行时，每当有人为了发现你或你网络中的任意图标而进行矩阵侦察检定时，你获得一点极限。
+
+[spoiler]
+[size=12pt][b]DATA ANOMALY[/b][/size]
+
+When you don’t want to be noticed on the Matrix, you know a few extra tricks that help you stay hidden.
+
+• Cost: 5 Karma
+
+• Game Effect: When you are running silent, gain a point of Edge whenever a Matrix Perception attempt is made in order to spot you
+or any icons in your network.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]数据港成员[/b][/size]
+
+你可以访问一些数据港，并在这些数据港中保持定期出席。你的用户名众所周知并受人尊敬，虽然也有些人对你感到厌恶。每当你需要寻找难以寻得的信息时，这就会很方便了。
+
+花费：5业力/级
+
+效果：对于该特质的每个等级，你都可以访问一个地下矩阵数据港，信息经纪人、掮客与暗影狂奔者们在那里存放并分享非法数据和商业机密。每当你需要进行矩阵搜索来寻找关于某个不为人知的主题的信息时，获得一点极限。根据GM的决定，你可以获取更详尽、彻底的信息，但你并不是唯一利用数据港的人。如果你在狂奔中使用了这一特质，你队伍的热度修正提高1点。
+
+[spoiler]
+[size=12pt][b]DATA HAVEN MEMBERSHIP[/b][/size]
+
+You have access to a few data havens and maintain a regular presence on them. Your username is known and respected by many, loathed by some. This comes in handy whenever you need to find information that is otherwise hard to come by.
+
+• Cost: 5 Karma/Level
+
+• Game Effect: For each level of this quality, you have access to an underground Matrix data haven where info brokers, fixers, and shadowrunners store and share illicit data and trade secrets. When you need to make a Matrix Search to find information about a topic that is kept hidden from the public, gain a point of Edge. More detailed and thorough information is available, per GM discretion, but you aren’t the only one that uses the data havens. If you make use of this quality on a run, add +1 to your team’s Heat modifier.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]碟板改装师[/b][/size]
+
+你的定制碟板永远不会完成，因为总是有空间来安装更多的升级！
+
+花费：6业力
+
+效果：当你花费业力来构建或升级你的硬件时，每点业力将价值5k新元（而不是4k）。任何由你自行构建的硬件（每个部件都花费业力而不是新元）都比常见货更加模块化。当你使用你构建的赛博碟板或赛博骇入器时你可以使用矩阵属性重配置动作来交换你的矩阵属性。
+
+[spoiler]
+[size=12pt][b]DECK BUILDER[/b][/size]
+
+Your custom cyberdeck is never finished, because there’s always room for more upgrades!
+
+• Cost: 6 Karma
+
+• Game Effect: When you spend Karma to build or upgrade your hardware, each point of Karma is worth 5,000 nuyen (instead of 4,000). Any hardware that you build yourself (by spending Karma instead of nuyen for every component) is more modular than usual. You may use the Reconfigure Device Matrix Action to swap your Matrix attributes when using a custom cyberdeck or cyberhack that you built.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]匿身黑暗[/b][/size]
+
+当你在矩阵中碰上麻烦时，你会因从它面前溜走而感到兴奋。
+
+花费：3业力
+
+效果：当你成功使用隐藏动作时，你获得一点极限。
+
+[spoiler]
+[size=12pt][b]FADE TO BLACK[/b][/size]
+
+When trouble finds you in the Matrix, you get a thrill out of giving it the slip.
+
+• Cost: 3 Karma
+
+• Game Effect: If you successfully use the Hide Matrix Action, gain a point of Edge.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]分形爆裂[/b][/size]
+
+有些黑客完全依靠于他们的攻击性，但你了解如何利用纯粹的数学运算来增强你的数据棘刺。
+
+花费：9业力
+
+效果：当你花费一个次要动作来聚焦你的处理能力从而增强你的数据棘刺时，将你的数据处理属性的一半（向下取整）增加到你数据棘刺的基础DV。如果你在这个次要动作后不立刻使用数据棘刺动作，这个奖励就会消失。这个特质只能被运行在碟板上的化身使用。
+
+[spoiler]
+[size=12pt][b]FRACTAL BLAST[/b][/size]
+
+Some hackers depend entirely on their Attack attribute, but you know how to boost your Data Spikes using sheer mathematics.
+
+• Cost: 9 Karma
+
+• Game Effect: When you spend a Minor Action to focus your processing to boost a Data Spike action, increase the base DV of your Data Spike by half your Data Processing attribute (round down). If you don’t immediately follow the Minor Action with a Data Spike action, this bonus goes away. This quality may only be used by a persona running on a cyberdeck.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]金起子[/b][/size]
+
+无论使用改锥还是烙铁，你都是硬件的行家。
+
+花费：5业力
+
+效果：当你进行检定来修复矩阵伤害时，延续检定的时间间隔变为10分钟（而不是1小时）
+
+[spoiler]
+[size=12pt][b]GOLDEN SCREWDRIVER[/b][/size]
+
+Whether using a screwdriver or a soldering iron, you are a hardware wizard.
+
+• Cost: 5 Karma
+
+• Game Effect: When you make a test to repair Matrix damage, the interval on the Extended test is 10 minutes (instead of 1 hour).
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]骇客连招[/b][/size]
+
+你已经练习了一系列的矩阵动作，以至于它们感觉就像是一个动作。
+
+花费：10业力
+
+效果：选择两个特定的矩阵动作。你可以花费一个次要动作和一个主要动作来采取这些动作。每次你使用这个组合时，你都可以选择这两个矩阵动作中哪个先被执行。你可以多次选择该特质，使你能够学习更多的组合。
+
+[spoiler]
+[size=12pt][b]HACKER COMBO[/b][/size]
+
+You’ve practiced a sequence of actions in the Matrix to the point that they feel like one action.
+
+• Cost: 10 Karma
+
+• Game Effect: Choose two specific Matrix actions. You may take these actions together using a Minor and a Major Action. Each time you use the combo, you may choose which of the two Matrix actions is resolved first. You may take this quality multiple times, allowing you to learn more combos.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]守住大门[/b][/size]
+
+你已经学会了如何把非法矩阵访问权限分享给其他化身。
+
+花费：9业力
+
+效果：当你获得非法的用户或管理员权限时，你可以将其分享给等同于你在检定中获得的净成功数量的化身。你只能将权限授予给那些自愿接受的化身，这需要花费接受者的一个次要动作。如果你把非法管理员权限分享给了一个没有隐匿性的化身，他们在每个战斗轮结束时都会增加2D6的OS。
+
+[spoiler]
+[size=12pt][b]HOLD THE DOOR[/b][/size]
+
+You have learned to share illegal Matrix access levels with other personas.
+
+• Cost: 9 Karma
+
+• Game Effect: Whenever you gain illegal user or admin access, you may share that access with a number of additional personas equal to the net hits scored on the test. You may only grant access to personas that willingly accept it, which requires a Minor Anytime Action from the recipient. If you give illegal admin access to a persona that doesn’t have a Sleaze attribute, their Overwatch Score increases by 2D6 at the end of every combat round.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]我看见你了[/b][/size]
+
+你能够从发现矩阵上的隐藏图标中获得一种快感。
+
+花费：3业力
+
+效果：当你发现某个正在静默运行的图标时，获得一点极限。这只适用于与故事相关的情况——单纯地在镇上巡视，随机发现图标并不能让你从这个特质中获得额外的极限。
+
+[spoiler]
+[size=12pt][b]ICU[/b][/size]
+
+You get a thrill out of spotting hidden icons on the Matrix.
+
+• Cost: 3 Karma
+
+• Game Effect: When you successfully spot an icon that is running silent, gain a point of Edge. This only applies when it is relevant to the story—just cruising around town spotting random icons doesn’t gain you any extra Edge from this quality.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]颠扑不破[/b][/size]
+
+你迅速且适应性强的逻辑能力有助于你识别袭击模式与潜在威胁。
+
+花费：7业力
+
+效果：当你使用矩阵全防御时，使用你的逻辑属性代替意志属性。
+
+[spoiler]
+[size=12pt][b]IMPENETRABLE LOGIC[/b][/size]
+
+Your quick and adaptable sense of logic helps you identify attack patterns and potential threats.
+
+• Cost: 7 Karma
+
+• Game Effect: When you use Full Defense, use your Logic attribute in place of Willpower
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]直连驭手[/b][/size]
+
+你了解如何利用直连的优势。
+
+花费：11业力
+
+效果：当你能够直连到你的矩阵动作/复合程式的目标时，你获得一些关键性的优势。首先，对抗你的防御检定中无法获得或花费任何极限。其次，目标不会获得任何由外部来源（例如，PAN）提供的防火墙保护——只有它自身的防火墙能够应用于防御检定。最后，如果目标关机了，你可以使用控制设备动作将其开机。
+
+[spoiler]
+[size=12pt][b]JACK JOCKEY[/b][/size]
+
+You know how to take advantage of a direct connection.
+
+• Cost: 11 Karma
+
+• Game Effect: When you have a direct connection to a target of your Matrix Action or complex form, you gain some key advantages. First, no Edge may be gained or spent on behalf of the defense test against you. Second, the target does not gain the protection of any Firewall that is provided by an external source (such as a PAN)—only its own Firewall applies to its defense test. Third, if the target is powered off, you may use a Control Device action to turn it on.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]独行者[/b][/size]
+
+你独自工作时做得更好，至少在矩阵中是这样的。狂奔时队伍里有其他人来负责其他方面的工作很不错，但你更喜欢不为别人担惊受怕。
+
+花费：5业力
+
+效果：当你使用AR或VR模式时，并且没有正在运行的代理、编制或注册的网精（包括盟约网精与待命的网精）、使用拟感分享程序的顺风客，你会充满一种自由、专注、骄傲并掌控一切的感觉。在你所有的矩阵动作与复合程式检定中获得一个狂野骰，该狂野骰掷出1时——它不会增加任何成功，并且仍旧计入失误，但不会像通常那样带走3个成功。由其他来源提供的狂野骰仍旧正常运作。
+
+[spoiler]
+[size=12pt][b]LONER[/b][/size]
+
+You work better on your own, at least in the Matrix. It’s nice to have other people on a team to cover the other aspects of a run, but you prefer not to have anyone looking over your shoulder.
+
+• Cost: 5 Karma
+
+• Game Effect: Whenever you are using AR or VR mode and do not have an agent program running, any sprites compiled or registered (including ally sprites and sprites on standby), and no SimShare hitchhikers, you’re filled with a sense of freedom, focus, pride, and mastery. Gain a wild die on all of your tests for Matrix Actions and complex forms, and ignore when that particular wild die rolls a 1—it doesn’t add any hits, and still counts toward glitches, but doesn’t take away three hits as normal. Other wild dice provided by other sources still work normally.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]矩阵属性增强[/b][/size]
+
+你在矩阵的某些方面变得相当出色，或是找到了某些非常规的方法来增强你的化身。
+
+花费：15业力/级（每个矩阵属性最高3级）
+
+效果：选择一个矩阵属性：攻击性、隐匿性、数据处理或防火墙。该矩阵属性总是提升等同于该特质等级点。该提升应用于任意交换后的矩阵属性——它不会因碟客交换矩阵属性而改变。你可以多次选择该特质从而提升多个不同的矩阵属性。任何角色都可以拥有该特质，包括碟客、超链者，甚至是只想拥有更强大的防火墙的街头武士。矩阵属性提升的等级记作未被增强的等级，以便通过复合程式、赛博程序与其他增强矩阵属性的方法来进一步提升。
+
+[spoiler]
+[size=12pt][b]MATRIX ATTRIBUTE ADVANCEMENT[/b][/size]
+
+You have become extremely good with some aspects of the Matrix or have found unconventional ways to enhance your persona.
+
+• Cost: 15 Karma/level (max level 3 per Matrix attribute)
+
+• Game Effect: Choose a Matrix attribute: Attack, Sleaze, Data Processing, or Firewall. This Matrix attribute is always increased by the level of this quality. This increase applies to Matrix attributes after any swapping is done—it does not move with the attribute if a decker changes them around. You may take this quality multiple times in order to advance multiple different Matrix attributes. This quality is available to any character, including deckers, technomancers, or even street samurai who just want a more powerful Firewall. The increased rating of the Matrix attribute counts as its unaugmented rating for the purpose of being further boosted by complex forms, cyberprograms, and other means of increasing Matrix attributes.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]天生黑客[/b][/size]
+
+你借助你与共鸣的先天联系来完成矩阵中的事情。这就是你所需要的一切。
+
+花费：15业力
+
+效果：当你使用矩阵动作或是在防御检定中对抗矩阵动作、复合程式、网精能力时，你可以选择使用你的共鸣属性替换该检定中使用的任意非矩阵属性。你不能通过该特质使用共鸣属性替换攻击性、隐匿性、数据处理或防火墙。
+
+[spoiler]
+[size=12pt][b]NATURAL HACKER[/b][/size]
+
+You use your innate connection to the Resonance to get things done in the Matrix. It’s all you need.
+
+• Cost: 15 Karma
+
+• Game Effect: Whenever you take a Matrix action or a defense test against a Matrix action, complex form, or sprite power, you may choose to use your Resonance attribute in place of any other non-Matrix attribute used on that test. You may not replace Attack, Sleaze, Data Processing, or Firewall with Resonance using this quality.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]矩阵红人[/b][/size]
+
+你的化身在矩阵中人尽皆知。奇怪的是，这对你有帮助的时候多于妨碍你的时候。
+
+花费：3业力/级（最高6级）
+
+效果：当你在矩阵中进行影响或唬骗检定时，获得等同于该特质等级的奖励骰。如果你在狂奔过程中使用了该特质，在狂奔结束时提高你的个人热度修正1点。该热度修正仅影响你个人，所以你可能会在你的同伴不获得热度时获得个人热度。
+
+[spoiler]
+[size=12pt][b]ONLINE FAME[/b][/size]
+
+Your persona is widely recognized in the Matrix. Oddly enough, this works in your favor more often than it gets in your way.
+
+• Cost: 3 Karma/level (max level 6)
+
+• Game Effect: Whenever you make an Influence or Con test while in the Matrix, gain a number of bonus dice equal to the level of this quality. If you use this quality during a run, add +1 to your Heat modifier at the end of the run. This Heat modifier increase only affects you, so it is possible for you to gain personal Heat while your fellow runners do not.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]档案专家[/b][/size]
+
+你善于收集并整理有关人们的信息以供将来参考。
+
+花费：7业力
+
+效果：你可以对任意人建立一个档案。这需要进行一个矩阵搜索检定，阈值为6，时间间隔为1小时，而后进行编程检定，阈值为6，时间间隔为1分重。这个时间间隔不能以任何方式减少——即使是通过使用神谕数据结构。一旦完成，该档案文件便永久存在——我们可以假设你在或这或那花费了几分钟时间来保证你存储的档案文件是最新的。档案中包含了GM可能提供的所有基本信息，作为成功调查的结果，但它在与个人互动时也很有用。当你拥有某人的资料时，你在对他进行的任意唬骗、影响或判断意图的检定中获得一点极限。这点极限必须花费在检定上，或是储存在档案中。每个人的档案最多可储存6点极限。这些极限只能由你自己使用，而且你只能在对目标进行的极限增益或极限动作中使用它。档案中的极限可以用于对档案中目标进行的任意检定——不仅仅是唬骗、影响或判断意图。任何储存在档案中的极限都会在下次游戏阶段开始的极限刷新时消失。
+
+[spoiler]
+[size=12pt][b]PROFILER[/b][/size]
+
+You are good at gathering and compiling information about people for future reference.
+
+• Cost: 7 Karma
+
+• Game Effect: You can build a profile on any person. This requires a Matrix Search test with a threshold of 6 and an interval of 1 hour, followed by a programming test with a threshold of 6 and an interval of 1 minute. This interval cannot be reduced by any means—even by using an oracle data structure. Once complete, the profile is permanent—we can assume that you spend a few minutes here and there keeping your stored profiles up to date. The profile contains all the basic information the GM might provide as the result of successful legwork efforts, but it’s also useful when interacting with the individual. When you have a profile on someone, you gain a point of Edge on any Con, Influence, or Judge Intentions tests made against them. This Edge must be spent on the test or banked into the profile. Each profile can store up to 6 points of Edge. This Edge may only be used by you, and you may only use it on Edge Boosts and Actions made against the target. Edge from the profile can be spent on any kind of test against the profile’s target—not just Con, Influence, and Judge Intentions. Any Edge stored within a profile goes away at the beginning of the next session when Edge refreshes.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]快速配置[/b][/size]
+
+你非常善于即时重校准你的赛博碟板。
+
+花费：3业力
+
+效果：当你使用矩阵属性重配置动作时，你可以花费一个次要动作交换任意数量的矩阵属性与程序。如果你正在矩阵战斗或战斗状态，每个战斗轮一次，当你使用矩阵属性重配置动作时，你获得一点极限。
+
+[spoiler]
+[size=12pt][b]QUICK CONFIG[/b][/size]
+
+You’re very good at recalibrating your cyberdeck on the fly.
+
+• Cost: 3 Karma
+
+• Game Effect: When you take the Reconfigure Matrix Attribute action, you can swap any number of Matrix attributes and programs around with a single Minor Action. If you are in a cybercombat or combat situation, once per round you gain a point of Edge when you use the Reconfigure Matrix Attribute action.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]共鸣混响[/b][/size]
+
+有些人似乎拥有对共鸣的感知，即使他们自己并不能使用它。
+
+花费：5业力
+
+效果：当你进行了成功的矩阵侦察检定时，你可以探测并分析共鸣中的事物，而这些事物通常只能由具有共鸣属性的实体来感知。
+
+[spoiler]
+[size=12pt][b]REVERBERANT[/b][/size]
+
+Some people seem to have a sense for the Resonance, even if they can’t use it themselves.
+
+• Cost: 5 Karma
+
+• Game Effect: With a successful Matrix Perception action, you are capable of detecting and analyzing things in the Resonance that normally can only be perceived by entities with a Resonance attribute.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]满足感[/b][/size]
+
+好奇心可能会害死猫，但是你知道它会回报什么，对吧？
+
+花费：3业力
+
+效果：当你成功地破解加密或拆除文件上的数据炸弹，你获得一点极限。如果加密或数据炸弹只是为了让你使用该特质获得一点极限，这并不适用——你只是在有意义的时候获得一点极限，而这由GM来决定。
+
+[spoiler]
+[size=12pt][b]SATISFACTION[/b][/size]
+
+Curiosity may have killed the cat, but you know what brought it back, don’t you?
+
+• Cost: 3 Karma
+
+• Game Effect: When you successfully crack encryption or defuse a data bomb on a file, gain a point of Edge. This doesn’t apply if the encryption or data bomb has been placed solely for you to get an Edge using this quality—you only get the point of Edge when it counts, per gamemaster discretion.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]手术式打击[/b][/size]
+
+你有一种巧妙骇入主机的天赋。
+
+花费：11业力
+
+效果：从拥有主机的非法用户或管理员权限导致的OS增长间隔从每战斗轮变为每分钟。
+
+[spoiler]
+[size=12pt][b]SURGICAL STRIKE[/b][/size]
+
+You have a talent for subtly hacking into hosts.
+
+• Cost: 11 Karma
+
+• Game Effect: The Overwatch Score increase from having illegal user or admin access to a host occurs once per minute instead of once
+per combat round.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]保修失效[/b][/size]
+
+如果你在现成的设备上多花一些时间，你可以做一些非常规的改进。
+
+花费：13业力
+
+效果：如果你有相关的工具箱，你可以选择任意由工厂制造的设备，并通过电子学（硬件）+逻辑或工程+逻辑检定来改进它，阈值等于其设备等级（或4，以较高者为准），时间间隔为1小时。该设备获得的“升级点”数量等于你的逻辑属性。任意时刻，当你使用一个升级后的设备进行动作时，你可以额外花费一个次要动作来启动升级，并且每花费一个升级点就增加一个狂野骰。升级点花完之后就会消失。如果任意狂野骰掷出了1，那么在该动作完成后这个设备就会停止工作。如果所有的升级点都用完了，该设备也会以同样的方式停止工作。在这两种情况下，让设备重新工作需要进行一个电子学或工程的延续检定，如上所述，但时间间隔变为1分钟。这将使设备恢复功能，同时恢复与你的逻辑属性相等的升级点。这不能用于产生化身的设备上，如通讯链、赛博碟板或RCC。殖装、无人机和载具也不符合升级的条件。根据GM判断，任何其他设备（包括武器）都可以被改进。需要说明的是，在任何设备上使用该特质的能力都会使制造商的保修失效。
+
+注：你应该准备几句方便的技术废话，从而描述你的古怪科学如何提升你用该特质改进的设备。你不必须这样做，但如果你这么做了，这对大家来说都会更有趣。
+
+[spoiler]
+[size=12pt][b]VOIDER OF WARRANTIES[/b][/size]
+
+If you spend some extra time with an off-theshelf device, you can make some unorthodox improvements.
+
+• Cost: 13 Karma
+
+• Game Effect: If you have the relevant toolkit, you can take any factory-manufactured device and improve it with an extended Electronics (Hardware) + Logic or Engineering + Logic test with a threshold equal to its Device Rating (or 4, whichever is higher) and an interval of 1 hour. The device receives a number of “upgrade points” equal to your Logic attribute. Any time you take an action using an upgraded device, you may spend an additional Minor Action to engage the upgrades and add one wild die for every upgrade point you spend. Upgrade points go away after they are spent. If any of those wild dice roll a 1, the device stops working after the action is resolved. If all of the upgrade points are spent, the device stops working in the same way. In both cases, getting the device to work again requires another extended Electronics or Engineering test as above, but with an interval of 1 minute. This restores functionality, along with a number of upgrade points equal to your Logic attribute. This cannot be used on devices that generate a persona, such as a commlink, cyberdeck, or RCC. Augmentations, drones, and vehicles are also ineligible for upgrades. Per gamemaster discretion, any other device (including weapons) can be modified. Just to be clear, using this quality on any device voids the manufacturer’s warranty.
+
+Note: You should prepare a few lines of handy technobabble to describe how your weird science boosts the equipment you upgrade with this quality. You don’t have to, but it will be much more fun for everyone if you do.
+[/spoiler]
+[/quote]
+
+---
+
+[quote]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+[/spoiler]
+[/quote]
