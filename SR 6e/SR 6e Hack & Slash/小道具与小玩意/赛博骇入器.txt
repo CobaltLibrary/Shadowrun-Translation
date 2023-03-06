@@ -30,7 +30,7 @@ revenue stream.
 [/spoiler]
 
 [quote]
-[size=12pt][b][/b][/size]
+[size=12pt][b]赛博骇入器[/b][/size]
 
 [table]
 [tr][td][b]等级[/b][/td][td][b]数据处理[/b][/td][td][b]防火墙[/b][/td][td][b]可获得性[/b][/td][td][b]成本[/b][/td][/tr]
