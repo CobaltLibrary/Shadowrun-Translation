@@ -78,7 +78,7 @@ or any icons in your network.
 
 花费：5业力/级
 
-效果：对于该特质的每个等级，你都可以访问一个地下矩阵数据港，信息经纪人、掮客与暗影狂奔者们在那里存放并分享非法数据和商业机密。每当你需要进行矩阵搜索来寻找关于某个不为人知的主题的信息时，获得一点极限。根据GM的决定，你可以获取更详尽、彻底的信息，但你并不是唯一利用数据港的人。如果你在狂奔中使用了这一特质，你队伍的热度修正提高1点。
+效果：对于该特质的每个等级，你都可以访问一个地下矩阵数据港，信息经纪人、掮客与暗影狂奔者们在那里存放并分享非法数据和商业机密。每当你需要进行矩阵搜索来寻找关于某个不为人知的主题的信息时，获得一点极限。根据GM的决定，你可以获取更详尽、彻底的信息，但你并不是唯一利用数据港的人。如果你在狂奔中使用了这一特质，你队伍的热度提高1点。
 
 [spoiler]
 [size=12pt][b]DATA HAVEN MEMBERSHIP[/b][/size]
@@ -338,7 +338,7 @@ You use your innate connection to the Resonance to get things done in the Matrix
 
 花费：3业力/级（最高6级）
 
-效果：当你在矩阵中进行影响或唬骗检定时，获得等同于该特质等级的奖励骰。如果你在狂奔过程中使用了该特质，在狂奔结束时提高你的个人热度修正1点。该热度修正仅影响你个人，所以你可能会在你的同伴不获得热度时获得个人热度。
+效果：当你在矩阵中进行影响或唬骗检定时，获得等同于该特质等级的奖励骰。如果你在狂奔过程中使用了该特质，在狂奔结束时提高你的个人热度1点。该热度调整值仅影响你个人，所以你可能会在你的同伴不获得热度时获得个人热度。
 
 [spoiler]
 [size=12pt][b]ONLINE FAME[/b][/size]
@@ -478,13 +478,304 @@ Note: You should prepare a few lines of handy technobabble to describe how your 
 
 ---
 
+[size=14pt][b]负面特质 POSITIVE QUALITIES[/b][/size]
+
 [quote]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]阿喀琉斯之踵[/b][/size]
 
+不论你是否意识到了这一点，在矩阵中你特别容易受到某种伤害。
 
+奖励：12业力
+
+效果：选择以下一项：数据棘刺动作，共鸣棘刺复合程式，共鸣实体或IC。当你遭受到来自该特定来源的矩阵伤害时，你不能通过抵抗骰来减免伤害。如果你是一名超链者，你的注册（或盟约）网精与你共享该弱点。你只能选择该特质一次。
 
 [spoiler]
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]ACHILLES’ HEEL[/b][/size]
 
+Whether or not you know it, there’s a certain kind of damage that you are especially vulnerable to in the Matrix.
+
+• Bonus: 12 Karma 
+
+• Game Effect: Choose one: Data Spike actions, Resonance Spike complex forms, Resonance entities, or IC. Whenever you suffer Matrix damage from the specified source, you may not reduce the damage with a soak roll. If you are a technomancer, your registered (and ally) sprites share your vulnerability. You may only choose this quality once.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]二元心态[/b][/size]
+
+有些人擅长某些事情，而不擅长其他事情，事情就是这样——或者你是这么认为的。你的心态限制了你的能力。
+
+奖励：10业力
+
+效果：选择电子学或破解技能。你相信无论你尝试多少次，你都不能掌握这项技能。当你使用该技能对应的矩阵动作或复合程式时，你不能使用花费超过2点极限的极限增益或极限动作。
+
+[spoiler]
+[size=12pt][b]BINARY MENTALITY[/b][/size]
+
+Some people are good at some things and not others, and that’s just the way it is—or so you believe. Your mindset limits your capabilities. 
+
+• Bonus: 10 Karma 
+
+• Game Effect: Choose either Electronics or Cracking. You believe that no matter how much you try, you’ll never quite get the hang of that skill. When using the specified skill for Matrix Actions or complex forms, you may not use Edge Boosts and Edge Actions that cost more than 2 points of Edge.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]伙伴系统[/b][/size]
+
+没有人在你身后照看，你就会感觉不够安全，难以清晰地集中注意力。
+
+奖励：7业力
+
+效果：当你独自一人时，你每个战斗轮最多只能获得一点极限。如果你在星界，只有活跃的星界盟友才视为同伴，但你只需要一个被召唤的精魂就可以免于惩罚。如果你在VR模式，只有矩阵中的盟友能让你感觉不那么孤单，但只要拥有一个代理程序或网精，甚至是使用顺风车程序的同伴在附近就足以使你免于惩罚。
+
+[spoiler]
+[size=12pt][b]BUDDY SYSTEM[/b][/size]
+
+You don’t feel safe enough to concentrate clearly without someone to watch your back. 
+
+• Bonus: 7 Karma 
+
+• Game Effect: Whenever you are alone, you may only gain a maximum of one Edge per combat round. If you are in astral space, only astrally active allies are considered company for the purpose of this quality, but a summoned spirit is all you need to prevent the penalty. If you are in VR mode, only allies in the Matrix with you make you feel less alone, but having an agent program or sprite nearby, or even a SimShare hitchhiker, is enough to prevent the penalty.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]横冲直撞[/b][/size]
+
+你是个战斗怪兽版的黑客，常陶醉于对矩阵的破坏中。
+
+奖励：8业力
+
+效果：你不能在无法造成矩阵伤害的矩阵动作或复合程式中获得或花费极限。暴力破解骇入是该特质的一个例外。
+
+[spoiler]
+[size=12pt][b]BULL IN A CERAMICS STORE[/b][/size]
+
+You are the hacker equivalent of a combat monster, reveling in Matrix destruction. 
+
+• Bonus: 8 Karma 
+
+• Game Effect: You may not gain or spend Edge on Matrix actions and complex forms that do not have the potential of causing Matrix damage. Brute Force hacking is the one exception to this.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]强迫症档案员[/b][/size]
+
+你是数据的收集狂。你不愿意删除任何东西，你在设备上保存犯罪文件的时间远超应当的时间，而且你没有删除它们，而是将其备份到离线的数据芯片上，存放到隐藏的缓存区中。你几乎从来没回头看过这些文件，但是删除或销毁它们对你来说难以置信地令人不适。这些文件不可避免地会被某些人发现，无论是某个在你通讯链上挖掘有价值数据的黑客，或是随机访问了你某块缓存的好奇小子——这是必然会发生的，只是一个时间问题了。
+
+奖励：8业力
+
+效果：当GM在狂奔结束后投热度骰时，你每累计获得50业力(向下取整)，你的个人热度就提高1点。在角色创建阶段未花费的业力不计入这一累计。该热度调整值仅适用于你个人，所以你可能会在你的同伴不获得热度时获得个人热度。
+
+[spoiler]
+[size=12pt][b]COMPULSIVE ARCHIVIST[/b][/size]
+
+You’re the data equivalent of a pack rat. Loath to delete anything, you keep incriminating files on your devices far longer than is wise, and instead of deleting them you back them up on offline data chips and stash them away in hidden caches. You almost never refer back to these files, but the very thought of deleting or destroying them seems incredibly wrong to you. Inevitably these files get found by someone, whether a random hacker digging through your ’link for paydata or a curious individual who finds one of your caches—it’s a matter of when, not if. 
+
+• Bonus: 8 Karma 
+
+• Game Effect: Whenever the gamemaster makes a Heat roll at the end of a run, your personal Heat modifier is increased by +1 for every full 50 total points of Karma that you have earned (rounded down). Unspent Karma from character creation does not count toward this total. This Heat modifier only applies to you, so it is possible that you might gain personal heat while your fellow runners do not.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]好奇心会害死猫？[/b][/size]
+
+当文件被保护时，你就会产生获得其权限的执念。
+
+奖励：5业力/级(最高3级)
+
+效果：如果你发现了一个被加密或数据炸弹保护的文件，你在破解该加密或拆除该数据炸弹并访问文件之前不能获得或花费极限。如果你不管这个文件，每过一小时，你就可以进行一次阈值为2+该特质等级的沉着检定。如果你在检定中成功，你就可以摆脱它，这种情况下你可以正常获得或花费极限。在每次检定失败后，你都会在下次克服好奇心的沉着检定中获得一个奖励骰，除了浪费的时间和大量的坏骰运气之外，以这种方式获得的奖励骰没有任何限制。但为什么不直接看看藏在文件保护里的东西呢？
+
+[spoiler]
+[size=12pt][b]CURIOSITY KILLED THE CAT ?[/b][/size]
+
+When a file is protected, you become fixated on gaining access to it. 
+
+• Bonus: 5 Karma/Level (Max Level 3) 
+
+• Game Effect: If you discover a file that is encrypted or protected by a data bomb, you may not gain or spend Edge on any tests except those made to crack the encryption, defuse the data bomb, and access the file. If you leave the file alone, after each hour passes you may make a Composure test with a threshold of 2 + the level of this quality. If you succeed, you may let it go, in which case you may gain and spend Edge normally. After each failed test, you gain a bonus die on future Composure tests to overcome your curiosity, with no limit to how many bonus dice can be gained in this way other than time and lots of bad dice luck. But why not just see what’s behind that file protection?
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]信息自由论者[/b][/size]
+
+你有一种强烈的，驱动性的个人价值观，认为所有数据都应当公之于众，至少是那些有权有势的人们想要保密的数据。
+
+奖励：2业力
+
+效果：你不能在任何与销售有价值数据相关的检定中获得或花费极限，你也不能为该目的参与团队协作检定。如果你发布了有价值数据，并获得了参与获取该数据的人的批准(这通常涉及到用新元或人情补偿他们)，你和你队伍中没有要求补偿的成员都会额外获得一点业力。该业力奖励每场狂奔仅适用一次，且该发布数据必须至少价值5000新元。
+
+[spoiler]
+[size=12pt][b]DATA LIBERATOR[/b][/size]
+
+You have a strong, driving personal value that data should be made public, or at least the data that powerful people want to keep secret. 
+
+• Bonus: 2 Karma 
+
+• Game Effect: You may not gain or spend Edge on any test related to selling valuable data, and you may not participate in a Teamwork test for the same purpose. If you release valuable data with the approval of anyone who participated in the run in which you acquired it (which usually involves compensating them with nuyen or favors), you and everyone on your team who did not request compensation gains one bonus Karma. This Karma award only applies once per run, and only if the value of the data is worth at least 5,000 nuyen.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]缺陷属性[/b][/size]
+
+你身上有某些事物，导致你的矩阵属性不那么有效。
+
+奖励：7业力
+
+效果：选择某个矩阵属性：数据处理或防火墙。无论你使用什么设备，即使是活体化身，该矩阵属性都不能被0赛博程序、复合程式、回声或网精能力增强。你不能选择该特质超过一次。
+
+[spoiler]
+[size=12pt][b]DEFECTIVE ATTRIBUTE[/b][/size]
+
+There’s just something about you that makes one of your Matrix attributes less effective. 
+
+• Bonus: 7 Karma 
+
+• Game Effect: Choose a Matrix attribute: Data Processing or Firewall. No matter what device you use—even if you have a living persona—that Matrix attribute can never be boosted by cyberprograms, complex forms, echoes, or sprite powers. You may not take this quality more than once.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]专家行事[/b][/size]
+
+你认为自己是一个有技巧的专业骇客，蔑视那些粗暴的方法。
+
+奖励：5业力
+
+效果：你不能在任何可能造成矩阵伤害的检定上获得或花费极限。
+
+[spoiler]
+[size=12pt][b]LIKE A BOSS[/b][/size]
+
+You consider yourself a professional hacker with finesse, and disdain the crude, brute force approaches. 
+
+• Bonus: 5 Karma 
+
+• Game Effect: You may neither gain nor spend Edge on any test that has the possibility of inflicting Matrix damage.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]模式锁定[/b][/size]
+
+AR模式、冷模VR还是热模VR，你有自己的明确偏好。那些倾向于冷模VR的人可能曾在它们亲近的人身上看到过生物反馈伤害的影响，也可能是自己的大脑被炸过一两次。如果AR是你的最爱，你很可能是一个不喜欢失去对物理环境感知的忙碌骇客。热模VR则是那些总是全心投入矩阵的黑客们的首选。不论你的原因是什么，你会发现使用你最喜欢的模式以外的任何模式都只会分散你的注意力，导致你变得笨拙。
+
+奖励：7业力
+
+效果：选择一个喜爱的模式：AR、冷模VR或热模VR。除非你正在使用你喜爱的模式，你不能在矩阵动作中获得极限，并且任何极限动作或协助你矩阵动作的极限增益花费都会变为双倍。
+
+[spoiler]
+[size=12pt][b]MODE LOCK[/b][/size]
+
+Whether it’s AR mode, cold sim VR, or hot sim VR, you have a clear preference. Those who prefer cold sim VR have probably seen the effects of biofeedback damage on someone they cared about, or perhaps had their own brain fried once or twice. If AR is your preference, you are most likely an onthe-go sort of hacker who dislikes losing awareness of their physical surroundings. Hot-sim VR is the preference for hackers who go all-in when it comes to the Matrix. Whatever your reasons, you find using any mode other than your preferred one unwieldy and distracting. 
+
+• Bonus: 7 Karma 
+
+• Game Effect: Choose a preferred mode: AR, cold sim VR, or hot sim VR. Unless you’re using your preferred mode, you may not gain Edge on any Matrix actions, and the cost of any Edge actions and Edge boosts to assist your Matrix actions is doubled.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]程序依赖[/b][/size]
+
+你迷信般地依赖于使用某个特定的赛博程序，最通常的情况是婴儿监控器。
+
+奖励：2业力
+
+效果：选择一个赛博程序。当你的赛博碟板没有运行该程序时，你会因它的缺席而感到不安。在每个战斗轮中，如果你想使用除了重新配置设备来加载该赛博程序之外的矩阵动作时，你必须先花费一个次要动作来集中注意力。
+
+[spoiler]
+[size=12pt][b]PROGRAM DEPENDENCY[/b][/size]
+
+You’ve become superstitiously attached to the use of a specific cyberprogram, most commonly Baby Monitor. 
+
+• Bonus: 2 Karma 
+
+• Game Effect: Choose a cyberprogram. Whenever your cyberdeck is not running that cyberprogram, you become fixated on its absence. For each combat round that you wish to take any Matrix actions other than using reconfigure device to load the cyberprogram, you must first take a Minor Action to focus.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]拟感依赖[/b][/size]
+
+你插了太多的BTL芯片。好吧，远不止“太多”。也可能是你的大脑被某些恶意IC炸掉了。现在当你通过自己的感官体验生活时，你会产生格格不入的感觉。当你没有通过某种方式使用拟感时，你就会遇到各种各样的问题。
+
+奖励：16业力
+
+效果：当使用热模VR时，你感觉很好。冷模VR则几乎一样好——虽然你仍然可以花费极限，但你不能获得它们。这并不会阻止你在每个游戏阶段开始时刷新极限。当你不得不在肉界中行动时，进入AR模式可以帮助你解决问题，但感觉不太好。当你处于AR模式时，你不能在矩阵动作上获得或花费极限。任何极限动作或对非矩阵动作的极限增益消耗的极限都会比平时多1点。当你甚至不能运行AR模式时，感觉就更糟糕了。你开始不停地颤抖，一切都变得不真实。在你重新启用AR或VR模式之前，你会获得眩晕状态。觉醒角色不能选择该特质。
+
+[spoiler]
+[size=12pt][b]SIMSENSE DEPENDENCY[/b][/size]
+
+You slotted one too many BTL chips. Okay, more than one too many. Or maybe your brain got fried real bad by some bad IC. Now you feel out of place when experiencing life through your own senses. When you are not using simsense in some way, you start having problems. 
+
+• Bonus: 16 Karma 
+
+• Game Effect: When using hot-sim VR, you feel fine. Cold-sim VR is almost as good— though you can still spend Edge, you can’t gain any. This doesn’t prevent your Edge from refreshing at the beginning of a session. AR mode helps you get by when you have to move around in meatspace, but it doesn’t feel good. While in AR mode, you can neither gain nor spend Edge on Matrix actions. Any Edge actions or boosts on non-Matrix actions cost 1 more point of Edge than usual. When you can’t even run AR mode, you’re in a bad way. You start to get the shakes, and everything starts to seem unreal. Until you can get back to using AR or VR mode, you gain the Dazed condition. Awakened characters cannot take this quality.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]共鸣燃尽（仅浮现者可选）[/b][/size]
+
+衰褪带来的伤害总是很痛苦，因此你小心翼翼地避免它。
+
+奖励：13业力
+
+效果：当你遭受衰褪伤害时，它总是物理伤害。
+
+[spoiler]
+[size=12pt][b]RESONANCE BURN (EMERGED-ONLY)[/b][/size]
+
+Fading always hurts real bad, to the point that you are incredibly careful to avoid it. 
+
+• Bonus: 13 Karma 
+
+• Game Effect: Whenever you suffer fading damage, it is always Physical damage.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]编码草率[/b][/size]
+
+你编写代码非常快，但你偷工减料。改BUG不是你会浪费时间去做的事情。
+
+奖励：3业力
+
+效果：当你无论何时，出于何种理由进行编程检定时，将时间间隔减少为正常的一半。每次使用该程序时都会引发一个失误，不管掷了多少个1。严重失误会导致运行该程序的设备重新启动，除非它正运行在主机上，这种情况下该主机会删除这个程序。
+
+[spoiler]
+[size=12pt][b]SLOPPY CODER[/b][/size]
+
+You write code fast, but you cut corners. Fixing bugs is not something you waste your time doing. 
+
+• Bonus: 3 Karma 
+
+• Game Effect: Whenever you make a programming test for any reason, reduce the interval to half the normal time. Any time the program is used, it causes a glitch regardless of how many 1s are rolled. A critical glitch causes the device running the software to reboot, unless it is being run on a host, in which case the host deletes it instead.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]GOD通缉[/b][/size]
+
+你的化身在GOD的最高通缉列表上。你可能不是第一名，但你正在向排行榜顶端努力。
+
+奖励：5业力/级（最高4级）
+
+效果：你触发合围的OS上限降低5点每级该特质。这意味着你会在35点OS，1级特质时被GOD合围；30点OS，2级特质；25点OS，3级特质；20点OS，4级特质。当你被合围时，首要响应措施是将你视为极端威胁的高危反应部队（HTR）。如果你在狂奔中采用了任何非法矩阵动作，狂奔结束时你的个人热度都会增加等同于你的该特质等级。该热度调整值仅适用于你个人，所以你可能会在你的同伴不获得热度时获得个人热度。
+
+[spoiler]
+[size=12pt][b]WANTED BY GOD[/b][/size]
+
+Your persona is on GOD’s most wanted list. You might not be number one, but you are working your way up the leader boards. 
+
+• Bonus: 5 Karma/level (max level 4) 
+
+• Game Effect: Your maximum overwatch before convergence occurs is 5 lower per level of this quality. This means that GOD converges on you when your Overwatch Score reaches 35 at level 1, 30 at level 2, 25 at level 3, and 20 at level 4. When you are converged on, the first response is a high threat response team that treats you as an extreme threat. If you take any illegal Matrix Actions during a run, increase your Heat modifier by the level of this quality at the end of the run. This Heat modifier only applies to you, so it’s possible for you to gain personal Heat while your teammates do not.
 [/spoiler]
 [/quote]
