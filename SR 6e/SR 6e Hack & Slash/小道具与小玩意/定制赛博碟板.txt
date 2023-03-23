@@ -1,0 +1,63 @@
+[color=brown][size=16pt][b]定制赛博碟板[/b][/size][/color]
+
+由于赛博碟板的制造受到超企的严格限制和监控，过了几年后未经授权的设计才开始出现。事实证明，除了一些昂贵和稀有的材料，没有什么能阻止这种技术产品在小工坊里被制造出来。设计、编程和制造赛博碟板的秘密被严密地保护着，但人们是足够机智和富有创造力的。如果你知道去哪里搜寻，你就可以在矩阵上找到自制赛博碟板组件的蓝图，这些组件可以使用3D打印机和芯片烧录器构建，而这些设备通常包含在任何正规的电子学硬件工坊内。想知道在哪里寻找这些蓝图还蛮棘手的。这些超企们雇佣它们自己的碟客和超链者们来在任何他们能找到的地方定位并删除这些蓝图。数据港和临时黑客市场似乎总是出现得比它们被关闭的次数还要多，因此，企业们似乎正在输掉这场战斗。
+
+因为这些赛博碟板组件是使用非官方手段设计的，它们往往会产生一些不可预测的效果，并且它们的OS积累得更快。使用定制赛博碟板的黑客在进行任何矩阵动作时，将一个骰子换成一个狂野骰。如果矩阵动作会增长OS，则增加等同于该狂野骰结果的OS。
+
+提供定制赛博碟板攻击性和隐匿性的硬件由特定的专用组件组成，而不是官方制造的赛博碟板所使用的更灵活的技术产品。当使用定制赛博碟板时，你不能调换你的攻击性和隐匿性属性。
+
+在所有其他方面，定制赛博碟板的功能与工厂制造的相同。它们必须连接到赛博插口(或赛博骇入器)才能运行。因为它们是拼凑而成的，它们往往被安装在各种不同的外壳中以掩盖它们的本质。许多设计看起来像一个无害的通讯链，但外壳型号的可能性是无止境的，对于碟客而言，他们选择的外壳型号的审美往往和他们在矩阵中的化身形象一样重要。
+
+定制赛博碟板不能作为头部殖装。
+
+[spoiler]
+[color=brown][size=16pt][b]CUSTOM CYBERDECKS[/b][/size][/color]
+
+Because the manufacture of cyberdecks is so heavily restricted and monitored by the megacorps, it’s taken a few years for unauthorized designs to start appearing. It turns out that with the exception of some expensive and rare materials, there’s nothing keeping such technology from being built in small shops. The secrets of designing, programming, and building cyberdecks are closely guarded, but people are inventive and resourceful. If you know where to look, you can find plans on the Matrix for homemade cyberdeck components that can be constructed using the 3D printers and chip burners commonly included in any serious electronics hardware tool shop. Knowing where to look for these plans can be tricky. The megacorporations hire their own deckers and technomancers to locate and delete plans like this wherever they can be found. Data havens and pop-up hacker markets always seem to appear more often than they can be shut down, so the corps seem to be losing this battle.
+
+Because these cyberdeck components are engineered using unofficial means, they tend to have some unpredictable effects, and their Overwatch Score builds up more quickly. When a hacker using a custom cyberdeck takes any Matrix action, replace one die with a wild die. If the Matrix action contributes to overwatch, additionally increase the Overwatch Score by the result of the wild die. 
+
+The hardware that provides a custom cyberdeck’s Attack and Slease attributes consists of specific dedicated components, rather than the more flexible tech used in officially manufactured cyberdecks. When using a custom cyberdeck, you may not rotate out your Attack and Sleaze attributes. 
+
+In all other ways, custom cyberdecks function exactly the same as their factory-made equivalents. They must be connected to a cyberjack (or cyberhack) in order to function. Because they are scratchbuilt, they tend to be installed in a variety of different cases in order to disguise their nature. Many are designed to look like an innocuous commlink, but the casemod possibilities are endless, and the chosen aesthetic is often as important to a decker as the appearance of their persona in the Matrix. 
+
+Custom cyberdecks are not available as headware augmentations.
+[/spoiler]
+
+---
+
+[size=14pt][b]获取定制赛博碟板[/b][/size]
+
+许多碟客都从人脉处购买定制碟板，比如接受特殊订单的碟板工匠。单个部件按需打印和烧录，尽管这些经销商经常保留一些更受欢迎的部件在手边。定制赛博碟板组件的新元成本假设你是在从人脉处购买它们。除任何其他可获得性限制之外，你还必须拥有矩阵类型的人脉。你可以获取的最高可获得性等同于你人脉的关系和忠诚等级的总和。在角色创建时，你也受到非法物品最高可获得性6的限制。几乎所有涉及定制赛博碟板的东西都是非法的。
+
+[spoiler]
+[size=14pt][b]ACQUIRING A CUSTOM CYBERDECK[/b][/size]
+
+Many deckers purchase their custom decks from a contact, such as a deckmeister, who takes special orders. Individual components are printed and burned on demand, though such dealers often keep some of the more popular parts on hand. The nuyen costs for the custom cyberdeck components assume that you are purchasing them from a contact. In addition to any other availability restrictions, you must have a contact with the Matrix type. The max availability you can acquire is the total of your contact’s Connection and Loyalty ratings. At character creation, you are also limited to availability 6 for illegal items. Almost everything involving a custom cyberdeck is illegal.
+[/spoiler]
+
+[size=14pt][b]打造你专属的[/b][/size]
+
+当然，最近赛博碟板技术的颠覆性进步催生了一批新的DIY碟客，他们自己打造自己的装备。要做到这一点，你需要一个硬件工坊，电子学技能，并能够获取该组件的蓝图和源代码。这样可以节省大量的新元，但会耗费你的时间和精力。
+
+在游戏过程中，这意味着你可以使用业力而不是新元来购买和升级赛博碟板。首先，您必须获得蓝图和源代码，这需要一个矩阵搜索延续检定，其阈值等于组件的可获得性，间隔为1小时。打印、烧录和安装组件需要电子学(硬件)+逻辑延续检定，间隔为1小时，阈值等于组件的等级(如果没有等级，则为4)。如果检定成功，你花费的每一个业力将替代组件成本的4000新元。这个过程中未花费的新元可以被存储用于未来的升级或添加到任何特定部件质量池或用于维修。
+
+由于这些赛博碟板的DIY性质，它们难以置信地模块化。与打印整块赛博碟板不同，你需要打印和烧毁每个组件，并将它们整合在一起，以构建你的定制碟板。
+
+你还可以通过这种方式创建自己的赛博骇入器，这将作为单个组件进行延续检定以获取源代码和构建设备。业力成本是赛博骇入器新元成本的每4,000新元比1业力。
+
+所有定制赛博碟板组件都与合法制造的赛博碟板不兼容。
+
+[spoiler]
+[size=14pt][b]BUILDING YOUR OWN[/b][/size]
+
+Of course, this recent subversive advancement in cyberdeck technology has given rise to a new crop of DIY deckers who make their own gear. To do this, you’ll need a hardware tool shop, an Electronics skill, and access to the plans and source code for the component. You can save a lot of nuyen this way, but it’s going to cost you time and effort.
+
+In game terms, this means that you can spend Karma instead of nuyen to purchase and upgrade your cyberdeck. First you must acquire the plans and source code, which requires an extended Matrix Search test with a threshold equal to the component’s availability and an interval of one hour. Printing, cooking, and installing the component requires an extended Electronics (Hardware) + Logic test with an interval of one hour and a threshold equal to the component’s rating (or 4, if it has no rating). If successful, each Karma you spend covers 4,000 nuyen of the component’s cost. Unspent nuyen from this can be banked for future upgrades or added to any special pool of parts for qualities or repairs.
+
+Because of the DIY nature of these cyberdecks, they are incredibly modular. Instead of printing off a cyberdeck, you need to print and burn each piece, and put them together to build your custom deck. 
+
+You can also create your own cyberhack in this way, which counts as a single component for the purpose of the extended tests to acquire the source code and build the device. The Karma cost is 1 per 4,000 of the cyberhack’s nuyen cost. 
+
+All custom cyberdeck components are incompatible with legally manufactured cyberdecks.
+[/spoiler]
