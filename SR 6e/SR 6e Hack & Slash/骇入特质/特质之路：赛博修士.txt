@@ -8,10 +8,9 @@
 Most technomancers avoid augmentations due to the effect of Essence loss on their connection to the Resonance, but cyberadepts take a different approach. They draw deep connections to their augmentations, some would say infusing them with Resonance energy and making them more alive than their biological components could ever be. Some of the first who tried to walk this path went too far and lost touch with the Resonance, but others found eventual success. The initial price of becoming a cyberadept is high. There are real reasons technomancers avoid Essence loss, and until you become truly attuned with the Resonance and the path of the cyberadept, your powers will suffer. Some would say it’s worth it. What will your assessment be when the time comes to look back and count the cost against what you’ve gained?
 [/spoiler]
 
-
 [size=16pt][b]燃尽的风险[/b][/size]
 
-如果你的共鸣属性降到了0，你就永远不再是超链者了。该特质之路的殖装品级改进与对未来殖装品级的要求仍然存在，但你不再能从赛博修士特质之路中获得更多特质。许多这样的燃尽者转向寻求超人类主义(SWC，p.146)
+如果你的共鸣属性降到了0，你就永远不再是超链者了。该特质之路的殖装品级改进与对未来殖装品级的要求仍然存在，但你不再能从赛博修士特质之路中获得更多特质。许多这样的燃尽者转向寻求超人类主义(SWC，第146页)
 
 [spoiler]
 [size=16pt][b]Risking Burnout[/b][/size]
@@ -22,11 +21,11 @@ If your Resonance ever gets to zero, you cease to become a technomancer forever.
 [quote]
 [size=14pt][b]赛博修士 见习者[/b][/size]
 
-你开始接受你的殖装作为你本体的一部分，而不只是某种添加到你身体上的东西。为了成为赛博修士，你必须先植入某些殖装，并且深潜来真正开启这条特质之路。你的第一次深潜必须选择赛博修士回声(p. 67)。一旦你这样做了，你就可以花费赛博修士特质之路中所列出的业力花费(不是两倍，与正常的角色创建阶段相同)来购买第一个特质。
+你开始接受你的殖装作为你本体的一部分，而不只是某种添加到你身体上的东西。为了成为赛博修士，你必须先植入某些殖装，并且深潜来真正开启这条特质之路。你的第一次深潜必须选择赛博修士回声(第67页)。一旦你这样做了，你就可以花费赛博修士特质之路中所列出的业力花费(不是两倍，与正常的角色创建阶段相同)来购买第一个特质。
 
 花费：10业力
 
-效果：当你使用殖装超载时，你可以重投一次获得的狂野骰。
+效果：当你使用殖装超载(第282页，SR6)时，你可以重投一次获得的狂野骰。重新掷骰的结果是最终的，所以除非得到1，否则你不应该重新掷骰。好吧，这取决于你。我警告过你了。如果你的任何殖装是标准级或二手货品级，它们的品级会切实地提升一级。二手货变成标准，标准变成阿尔法。你将获得一个精华空洞，这个空洞等于你的殖装品级改变所导致的精华成本减少的数量，在进一步的精华损失之前，你可以将其用于未来的殖装植入。因为超链者们本质上主要是生物，即使是生体殖装也能够受到这种特质的影响。但这是有代价的，任何新殖装必须是阿尔法级或更好，否则你的身体会排斥它们。下次你提升你的共鸣属性时，只需要一分钟——你仍然必须支付所需的业力成本。
 
 [spoiler]
 [size=14pt][b]CYBERADEPT NOVICE[/b][/size]
@@ -42,11 +41,11 @@ You have begun to accept your augmentations as part of your identity, not just a
 [quote]
 [size=14pt][b]赛博修士 门徒[/b][/size]
 
-
+当你改善与殖装的连接时，获得更多植入物的欲望也会增长。进一步增强自己是成为赛博修士道路上的必要步骤，但如果你获得太多，你就有可能摧毁你与共鸣的联系。
 
 花费：10业力
 
-
+效果：当你失去2点或更多精华后，你可以以所列的业力代价(不是双倍)来获得这个特质。你必须有赛博修士见习者特质和赛博修士回声才能获得这个该特质。你所有的阿尔法级殖装变成贝塔级，你的标准级殖装变成阿尔法级。这创造了一个精华空洞，允许你在失去更多精华之前安装更多的殖装。你获得的任何新殖装必须是贝塔级或更好的，否则你的身体会排斥它们。你可以通过你的殖装来引导共鸣，以一种类似于殖装超载的方式来增强它们。通过花费一个次要动作和集中注意力，你可以来提高你的一个殖装的等于你共鸣属性的有效等级。维持这个效果需要集中注意力，就像你在维持一个复合程式一样——尽管除了你自己，没有任何复合程式可以被任何其他人感知或瞄准。你需要在每个战斗轮结束时抵抗衰褪，衰褪值等于你共鸣属性的一半(向上取整)。此能力不能提高殖装的等级超过其正常等级的两倍，也不允许你提高被增强属性超过其最大属性增幅值。你只能对你自己的殖装使用这个能力，而且一次只能对一个殖装使用。与殖装超载不同，你不会获得额外的狂野骰或赛博殖装压力。该能力也可用于生体殖装。下次你提升你的共鸣属性时，只需要花费一分钟——你仍然需要支付所需的业力成本。
 
 [spoiler]
 [size=14pt][b]CYBERADEPT DISCIPLE[/b][/size]
@@ -62,11 +61,11 @@ As you improve your connection to your augmentations, the desire to get more ins
 [quote]
 [size=14pt][b]赛博修士 大师[/b][/size]
 
-
+你的殖装已与共鸣调谐。
 
 花费：10业力
 
-
+效果：在你失去3点精华后，你可以以其所列的业力代价(不是双倍)来获得这个特质。你必须有赛博修士门徒特质和它的先决条件才能获得这个特质。你所有的贝塔级殖装变成德尔塔级，你的阿尔法级殖装变成贝塔级。这创造了一个精华洞，允许你在失去更多精华之前安装更多的殖装。你获得的任何新殖装必须是德尔塔级或更好，否则你的身体会排斥它们。你的殖装已经很好地适应了你的身体和你的活体化身，因此即使是在打开无线模式的情况下，它们也很难被其他人注意到或进行影响。将你的深潜阶层添加到你的防御等级和任何代表你殖装的矩阵防御检定的骰池-包括保持隐藏时抵抗矩阵侦察的检定。下次你提升你的共鸣属性时，只需要花费一分钟。
 
 [spoiler]
 [size=14pt][b]CYBERADEPT MASTER[/b][/size]
@@ -82,11 +81,11 @@ Your augmentations have become accustomed to the Resonance.
 [quote]
 [size=14pt][b]赛博修士 卓越者[/b][/size]
 
-
+共鸣帮助你实现了科技只能期望有朝一日解锁的东西：伽玛级殖装。
 
 花费：25业力
 
-
+效果：在你失去4点精华后，你可以以其所列的业力代价(不是双倍)获得这个特质。你必须有赛博修士大师特质和它的先决条件才能获得这一特质。所有你的殖装成为伽玛级，无论他们目前的品级。当你获得新的德尔塔等级殖装时，你需要时间来适应和整合它。当你正在适应你的新殖装时，它们不会为启用无线模式提供任何奖励，但它们必须几乎所有时间都启用无线模式。如果你停用无线模式的时间超过一分钟则重置进行整合的周期。你需要花费一个月的时间来适应并整合一个新的殖装，在这个时候它提升到伽马级。如果你的殖装被移除，它们对任何人来说都是无用的，即使是二手货品级。每当你提高共鸣属性时，只需要花费一分钟。这只适用于将你的共鸣属性提高到6。将它提高到7或更高需要花费正常所需的时间来提高。
 
 [spoiler]
 [size=14pt][b]CYBERADEPT TRANSCENDENT[/b][/size]
