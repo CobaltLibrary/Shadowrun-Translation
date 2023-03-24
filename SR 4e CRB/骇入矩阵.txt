@@ -1,11 +1,12 @@
 [color=brown][size=16pt][b]骇入矩阵[/b][/size][/color]
 
-在矩阵中，你有三种主要的不正当行为方式。第一种是通过骇入攻击，即你在其他节点上为自己创建未经授权的账户。第二种是通过欺骗，这是一个假装授权用户向设备发送命令的过程。最后是矩阵战斗，即你直接面对IC和其他用户(通常是蜘蛛或安保黑客)，用虚拟(有时是真实)的暴力强加你的意志。
+在矩阵中有三种主要的不当行为。第一种是通过骇入攻击，在其他节点上为自己创建未经授权的账户。第二种是通过欺骗，这是一个假装授权用户向设备发送命令的过程。最后是矩阵战斗，你将直接面对IC和其他用户(通常是蜘蛛或安保黑客)，用虚拟(有时是真实)的暴力强加你的意志。
 
-黑客的锦囊妙计包括这里列出的之外的许多选项。虽然这些都不是游戏的必要条件，但《Unwired》的《黑客手册》章节中列出了一些高级技巧。
+黑客的锦囊妙计还包括了这里列出之外的许多选项。虽然这些都不是进行游戏的必要条件，但《Unwired》的《黑客手册》章节中列出了一些高级技巧。
 
 [spoiler]
 [color=brown][size=16pt][b]HACKING THE MATRIX[/b][/size][/color]
+
 There are three main ways for you to misbehave in the Matrix. The first is by hacking, whereby you create unauthorized accounts for yourself on other nodes. The second is by spoofing, which is the process of sending orders to devices while pretending to be an authorized user. Finally, there is cybercombat, where you directly confront IC and other users (usually spiders or security hackers) and impose your will with virtual (and sometimes real) violence. 
 
 A hacker’s bag of tricks includes numerous options beyond those listed here. While none are essential to play the game, advanced tricks are listed in the Hacker’s Handbook chapter of Unwired.
@@ -15,14 +16,15 @@ A hacker’s bag of tricks includes numerous options beyond those listed here. W
 
 [size=16pt][b]骇入[/b][/size]
 
-要获得一个节点的访问权，最简单的方法就是拥有权限。这不一定必须是你的授权；你可以从节点的合法用户那里获得密码、通行证或其他授权。这可以通过社会工程、恐吓、偷窃或任何其他你能支配的手段来完成。大多数时候，黑客对进入节点的认证方式束手无策，必须诉诸于骇入行为。
+访问节点的最简单方法是拥有权限。这不一定必须是对你的授权；你可以从节点的合法用户那里获得密码、密钥或其他授权。这可以通过社会工程、恐吓、偷窃或任何其他你能施用的手段来完成。大多数时候，黑客对如何通过节点的认证方式束手无策，必须诉诸于骇入行为。
 
-骇入一个节点的目的是在目标节点上创建自己的账户。为了入侵一个节点，你必须在目标节点设备的相互信号范围内，或者通过矩阵与节点有一个开启的订阅。
+骇入节点的目的是在目标节点上创建自己的账户。为了入侵一个节点，你必须在目标节点设备的相互信号范围内，或者通过矩阵与节点有一个开启的订阅。
 
 有两种方法可以入侵一个节点。即时入侵是快速的，但有很高的被检测风险。谨慎地探查目标节点的漏洞要慢得多，但所带来的风险也要小得多。
 
 [spoiler]
 [size=16pt][b]HACKING[/b][/size]
+
 The easiest way to get access to a node is to have permission. This does not necessarily have to be your permission; you can get passcodes, passkeys, or other authorization from legitimate users of the node. This can be done by social engineering, intimidation, theft, or any other means at your disposal. Most of the time, a hacker is at a loss for a certified way into a node, and must resort to hacking. 
 
 The goal of hacking into a node is to create your own account on the target node. In order to hack a node, you must either be within mutual Signal range of the target node’s device or have an open subscription with the node through the Matrix. 
@@ -32,14 +34,15 @@ There are two ways to hack a node. Hacking on the fly is fast, but has a high ri
 
 [size=14pt][b]即时入侵[/b][/size]
 
-在街上或狂奔时，你无疑会遇到这样的情况：你需要在没有任何准备的情况下骇入一些东西。在这种情况下，你会拿出你所有的黑客技巧和工具，尽你所能迅速找到一个能让你进入的漏洞。理想情况下，这不会惊动节点的安保，但如果你已经准备好战斗，你可能根本不在乎你是否触发了警报。即时入侵是粗暴的骇入：成功比精巧或细致更重要。
+在街上或狂奔时，你无疑会遇到需要在没有任何准备时骇入一些东西的情况。在这种情况下，你会拿出你所有的黑客技巧和工具，尽你所能迅速地找到一个能让你骇入的漏洞。理想情况下，这不会惊动节点的安保，但如果你已经准备好战斗，则可能根本不在乎是否触发了警报。即时入侵是粗暴的骇入：成功比精巧或细致更为重要。
 
-即时入侵是骇入+利用漏洞(目标的防火墙，复杂动作)的延续检定。达到阈值将使你在该节点上获得一个用户账户。如果你想要一个安保账户，就把阈值提高+3，如果想要一个管理员账户，就把它提高+6。当你达到阈值并获得账户时，你会自动以该级别的访问权限登录到节点上，而不需要花费登录动作(除非你注销)。
+即时入侵是骇入+利用漏洞(目标的防火墙，复杂动作)的延续检定。达到阈值将使你在该节点上获得一个用户账户。如果你需要一个安保账户，就把阈值+3，如果需要一个管理员账户，就把阈值+6。当你达到阈值并获得账户时，你会自动以该级别的访问权限登录到节点上，而不需要花费登录动作(除非你注销了)。
 
-这种即时入侵行为会引起注意。每次你采取即时入侵行动时，目标节点就会在分析+防火墙(黑客的隐匿程序等级)的延续检定中进行一次免费投骰。如果节点发现你，就会触发警报，即使你的尝试已经成功了(警报，第238页)。
+这种即时入侵行为会引起注意。每次你进行即时入侵动作时，目标节点就会在分析+防火墙(黑客的隐匿程序等级)的延续检定中进行一次免费掷骰。如果节点发现了你，即使你的尝试已经成功了，依然会触发警报(警报，第238页)。
 
 [spoiler]
 [size=14pt][b]HACKING ON THE FLY[/b][/size]
+
 On the streets or during a run, you will undoubtedly encounter situations where you need to hack into something without any sort of preparation. In circumstances like this, you pull out all of your hacker tricks and tools and do your best to quickly find an exploit that will get you in. Ideally, this will be without alerting the node’s security, but if you are ready for a fight you simply may not care if you trigger an alarm. Hacking on the fly is brute-force hacking: success is more important than subtlety or finesse. 
 
 Hacking on the fly is an Hacking + Exploit (target’s Firewall, Complex Action) Extended Test. Reaching the threshold will get you a user account on the node. If you want a security account, increase the threshold by +3, for an admin account increase it by +6. When you beat the threshold and gain the account, you are automatically logged onto the node with that level of access, and do not need to spend a Log On action (unless you log off). 
@@ -48,11 +51,11 @@ Such brute force hacks can attract attention. Each time you take a Hack on the F
 [/spoiler]
 
 [i]
-Rootkit潜入一家生物技术公司的卫生间，他需要控制大楼的节点，让他团队的其他成员进入大楼。速度是关键，所以他开始进行即时入侵。他想通过安保权限访问来获得对门锁的控制权，所以GM在阈值上加了3(节点的防火墙属性为4，但她暂时对这个属性保密)。Rootkit掷出他的骇入5+利用漏洞5，再加上2，因为他使用的是热模，总骰子数为12。他掷出的骰子成功数有4个，他还没有进入。作为回应，该节点掷出它正在运行的防火墙4+分析3，得到2个成功；这还不足以达到Rootkit等级为5的隐匿程序。
+Rootkit潜入一家生物技术公司的卫生间，他需要控制大楼的节点，让他团队的其他成员进入大楼。速度是关键，所以他开始进行即时入侵。他想通过安保权限来获得对门锁的控制权，所以GM在阈值上加了3(节点的防火墙属性为4，但她暂时对这个属性保密)。Rootkit掷出他的骇入5+利用漏洞5，再加上2，因为他使用的是热模，总骰池为12。他掷出的骰子成功数有4个，他还没有进入。作为回应，该节点掷出它正在运行的防火墙4+分析3，得到2个成功；这还不足以触及Rootkit等级为5的隐匿程序。
 
-在他的下一个行动阶段，Rootkit继续他的骇入行动，这次投骰得到了3个成功。这足以让他进入，他自动用一个闪亮的新安保账户登录到节点上。
+在他的下一个动作阶段，Rootkit继续他的骇入，这次掷骰得到了3个成功。这足以让他进入，他自动用一个崭新的安保账户登录到节点上。
 
-但是等等! 节点仍有最后一次机会来检测他的入侵。它投骰并得到了2个成功，但仍不足以检测到黑客。Rootkit为他的团队打开了大门并开始在节点周围探查。
+但是等等！节点仍有最后一次机会来检测他的入侵。它掷骰并得到了2个成功，但仍不足以检测到黑客。Rootkit为他的团队打开了大门并开始在节点周围探查。
 [/i]
 
 [spoiler]
@@ -67,14 +70,15 @@ But wait! The node still has one last chance to detect his intrusion. It rolls a
 
 [size=14pt][b]探查目标[/b][/size]
 
-如果你有时间对你的目标进行适当的调查，你的骇入尝试就更有可能成功，并且不被注意到。使用这种方法，你在一个较长的时间范围内谨慎地探查你的目标，找出可以利用的系统缺陷，以便侵入。
+如果你有时间对你的目标进行适当的分析，你的骇入尝试就更有可能成功且不被注意到。使用这种方法，你可以在较长的时间范围内谨慎地探查你的目标，识别出可利用的系统缺陷以便侵入。
 
-探查是一种骇入+利用漏洞的延续检定，其阈值等于目标的系统等级+防火墙。如果在VR中进行，检定的时间间隔为1小时，如果通过AR进行，则为1天。一旦你达到阈值，你就在系统的防御中找到了一个裂缝，你可以利用这个裂缝来获得访问权限。你不会自动获得访问权限；你已经找到了盔甲上的缝隙，但还没有用到它。这些漏洞不会永远存在，如果被节点的安保系统发现，或者节点被重新启动，就会被删除。只要它还在节点中，你就可以使用登录动作来使用你的骇入账户。这个过程授予你一个用户账户。如果你想要一个安保账户，请将阈值提高+3；如果是管理员账户，请提高+6。
+探查是骇入+利用漏洞的延续检定，其阈值等于目标的系统等级+防火墙。如果在VR中进行，检定的时间间隔为1小时，如果通过AR进行则为1天。一旦你达到阈值，你就找到了系统防御的一个裂缝，你可以利用这个裂缝来获得访问权限。你不会自动获得访问权限；你已经找到了盔甲上的缝隙，但还没有用到它。这些漏洞不会永远存在，如果被节点的安保系统发现，或者节点被重新启动，漏洞就会被删除。只要它还在节点中，你就可以使用登录动作来使用你的骇入账户。这个过程授予你一个用户账户。如果你需求一个安保账户，请将阈值+3；如果是管理员账户，请将阈值+6。
 
-当你第一次用骇入账户登录时，目标节点会得到一次免费的分析+防火墙(黑客的隐匿程序等级)检定。如果节点检测到你，就会触发一个警报(警报，第238页)。
+当你第一次用骇入账户登录时，目标节点会得到一次免费的分析+防火墙(黑客的隐匿程序等级)检定。如果节点检测到你，就会触发警报(警报，第238页)。
 
 [spoiler]
 [size=14pt][b]PROBING THE TARGET[/b][/size]
+
 If you have the time to properly case your target, your hacking attempt is more likely to be successful and unnoticed. Using this method, you discreetly probe your target over an extended time frame, identifying system flaws that can be exploited for access. 
 
 Probing is a Hacking + Exploit Extended Test with a threshold equal to the target’s System + Firewall. The interval of the test is 1 hour if done in VR, 1 day if done by AR. Once you reach the threshold, you have found a crack in the system’s defenses that you can exploit to gain access. You do not automatically gain access; you have found the chink in the armor, but have not used it yet. These exploits do not remain forever, and can be removed if found by the node’s security or if the node is rebooted. As long as it remains in the node, you may use a Log On action to use your hacked account. This process grants you a user account. If you want a security account, increase the threshold by +3; for an admin account increase it by +6. 
@@ -84,10 +88,11 @@ The target node gets one free Analyze + Firewall (hacker’s Stealth) Test when 
 
 [size=14pt][b]骇入时失误[/b][/size]
 
-在骇入一个节点时，有许多可能的失误结果。你可能需要重新开始，或者节点可能为你的利用漏洞尝试做好了准备(在其分析+防火墙检定中获得奖励骰)，或者当你达到延续检定的阈值时，你可能会自动触发警报。这并不是一份详尽的清单；GM在分配失误的后果时有自己的判断。
+在骇入一个节点时失误可能导致许多种的结果。你可能需要重新开始，或者节点可能为你的利用漏洞尝试做好了准备(在其分析+防火墙检定中获得奖励骰)，或者可能当你达到延续检定的阈值时自动触发警报。这并不是一份详尽的清单；GM在分配失误的后果时有自己的判断。
 
 [spoiler]
 [size=14pt][b]GLITCHES WHILE HACKING[/b][/size]
+
 There are a number of possible results of glitches while hacking a node. You may need to start over, or the node may be prepared for your exploit attempt (receiving a bonus on its Analyze + Firewall test), or you may automatically trigger an alert when you reach the threshold of the Extended Test. This is not an exhaustive list; the gamemaster uses her discretion when assigning the consequences of a glitch.
 [/spoiler]
 
@@ -95,18 +100,19 @@ There are a number of possible results of glitches while hacking a node. You may
 
 [size=16pt][b]欺骗[/b][/size]
 
-当骇入的速度太慢，或者你只需要向一个设备发送一条指令，那么欺骗就是你的首选武器。欺骗一个节点或设备，向目标发送一条表面上看是来自授权用户的伪造指令。
+当骇入的速度太慢，或者你只需要向一个设备发送一条指令时，欺骗就是你的首选武器。欺骗一个节点或设备会向目标发送一条表面上看是来自授权用户的伪造指令。
 
-欺骗尝试的目标必须有一个自驾属性等级或者是一个外围设备。大多数情况下，你会欺骗一架无人机或一个代理，但你也可以用欺骗来做一些事情，如开锁，获得免费的出租车，以及让麦克休的自动烹饪机按照你喜欢的方式准备你的豆堡。
+欺骗尝试的目标必须具有自驾属性或者是一个外围设备。大多数情况下，你会欺骗无人机或代理，但你也可以用欺骗来做一些事情，像是开锁，获得免费的出租车，以及让麦克休的自动烹饪机按照你喜欢的方式准备你的豆堡。
 
-在你可以欺骗之前，你必须有一个目标接受指令的访问ID。这可以通过在矩阵中找到一个授权用户并对她的图标进行矩阵侦察检定来获得她的访问ID。你也可以使用捕获无线信号动作来找到合法的指令，然后追踪通信源，这样你就可以得到访问ID。
+在你可以进行欺骗之前，你必须有一个目标接受指令的访问ID。这可以通过在矩阵中找到授权用户并对她的图标进行矩阵侦察检定来获得她的访问ID从而实现。你也可以使用捕获无线信号动作来找到合法的指令，然后追踪通信源，这将为你提供访问ID。
 
-要欺骗一个目标，选择一个指令(参考发布指令动作，第229页)，在你的骇入+欺骗和目标的自驾+防火墙或外围设备的系统等级+防火墙之间进行一个对抗检定(通常是设备等级×2)。如果该指令需要一个安保账户，则有一个-3的骰池修正，如果需要一个管理员账户，则有一个-6的骰池修正。如果你成功了，目标会接受并执行该指令。如果你失败了(或打成平手)，设备或代理只是将该指令作为一个坏的数据包丢弃，不会发出警报。
+要欺骗一个目标，选择一个指令(参考发布指令动作，第229页)，在你的骇入+欺骗和目标的自驾+防火墙或外围设备的系统等级+防火墙之间进行一个对抗检定(通常是设备等级×2)。如果该指令需要安保账户，则有-3的骰池修正，如果需要管理员账户，则有-6的骰池修正。如果你成功了，目标会接受并执行该指令。如果你失败了(或打成平手)，设备或代理只是将该指令作为一个坏的数据包丢弃，而不会发出警报。
 
 每个伪造指令动作只适用于一个指令；多个指令需要多次伪造指令尝试。
 
 [spoiler]
 [size=16pt][b]SPOOFING[/b][/size]
+
 When hacking is too slow, or you only need to send a single command to a device, then spoofing is your weapon of choice. Spoofing a node or device sends a forged command, ostensibly from an authorized user, to the target. 
 
 The target of a spoof attempt must either have a Pilot rating or be a peripheral device. Most often you will spoof a drone or an agent, but you may also use spoof to do things like unlock doors, get free cab rides, and make the McHugh’s autocooker prepare your soyburger exactly the way you like it. 
@@ -119,9 +125,9 @@ Each Spoof Command action applies only to a single command; multiple commands re
 [/spoiler]
 
 [i]
-要不是那个拿着重机枪的女孩，Clockwork的队伍就不会有事。她把他们压制在丛林里，无法动弹。他需要做点什么，而且要快！他已经有了这个士兵的访问ID，所以他需要做的就是向她的武器发出一个适当的指令。Clockwork发出信号，让他的团队做好准备，并向机枪发送一个伪造指令。
+要不是那个拿着重机枪的女孩，Clockwork的队伍就不会有事。她把他们压制在丛林里，无法动弹。他需要做点什么，而且要快！他已经有了这个士兵的访问ID，所以他需要做的就是伪造一个对她的武器的恰当指令。Clockwork发出信号让他的团队做好准备，并向机枪发送了一个伪造指令。
 
-Clockwork掷出他的骇入4加上他的欺骗程序5。该武器的设备等级为4，并在对抗检定中掷出8个骰子。Clockwork得到4个成功，而机枪得到3个。它听从了他的命令，弹出了它的弹药箱，当黑客的队友冲锋时，士兵只剩下了一把空武器。
+Clockwork掷出他的骇入4加上他的欺骗程序5。该武器的设备等级为4，并在对抗检定中掷出8个骰子。Clockwork得到4个成功，而机枪得到3个。它听从了他的命令，弹出了它的弹夹，当黑客的队友冲锋时，士兵手中只剩下了一把空武器。
 [/i]
 
 [spoiler]
@@ -136,39 +142,43 @@ Clockwork rolls his Hacking 4 plus his Spoof 5 program. The weapon has a Device 
 
 [size=16pt][b]矩阵战斗[/b][/size]
 
-有时，含蓄的做法是值得的。其余的时候，你必须诉诸于蛮力。矩阵战斗遵循与其他战斗相同的流程。它是实时发生的，并遵循与物理和星界的战斗相同的三秒战斗轮。
+有时，含蓄的做法是值得的。但其余的时间你不得不诉诸于蛮力。矩阵战斗遵循与其他战斗相同的流程。它是实时发生的，并遵循与物理世界和星界的战斗相同的三秒战斗轮。
 
 [spoiler]
 [size=16pt][b]CYBERCOMBAT[/b][/size]
+
 Sometimes it pays to be subtle. The rest of the time, you have to resort to brute force. Cybercombat follows the same procedure as other combat. It occurs in real time, and follows the same three-second Combat Turn as combat in the physical and astral worlds.
 [/spoiler]
 
 [size=14pt][b]矩阵主动性[/b][/size]
 
-矩阵战斗中的主动性和矩阵中的所有动作都与物理和星界的其他动作同时进行。
+矩阵战斗中的主动性和矩阵中的所有动作都与物理世界和星界的其他动作同时进行。
 
 [spoiler]
 [size=14pt][b]MATRIX INITIATIVE[/b][/size]
+
 Initiative in Matrix combat and all actions in the Matrix are concurrent with other actions in the physical and astral planes.
 [/spoiler]
 
 [size=14pt][b]AR主动性[/b][/size]
 
-在增强现实中，你是以正常的肉体速度行动的。正常使用你的物理主动性和主动性流程(主动性，第144页)。你可以选择使用每个动作与物理世界或增强世界(矩阵)进行互动，或在两者之间分配简单或自由行动。
+在增强现实中，你是以正常的肉体速度行动的。正常使用你的物理主动性和主动性流程(主动性，第144页)。你可以选择使用每个动作与物理世界或增强世界(矩阵)进行互动，或在两者之间分配简单或自由动作。
 
 [spoiler]
 [size=14pt][b]Augmented Initiative[/b][/size]
+
 In augmented reality, you’re acting at regular meat-body speeds. Use your physical Initiative and Initiative Passes as normal (Initiative, p. 144). You can choose to interact either with the physical world or the augmented world (the Matrix) with each action, or split Simple or Free Actions between the two.
 [/spoiler]
 
 [size=14pt][b]VR主动性[/b][/size]
 
-如果你在冷模虚拟现实中操作，你的矩阵主动性等于你的通讯链的响应能力+你的直觉；你也得到一个额外的主动性流程(总共两个)。如果你在热模中运行，你的矩阵主动性等于你的通讯链的响应能力+你的直觉+1，你还会得到两个额外的主动性流程(总共三个)。
+如果你在冷模虚拟现实中操作，你的矩阵主动性等于你的通讯链的响应能力+你的直觉；你也得到一个额外的主动性流程(总共两个)。如果你运行的是热模，你的矩阵主动性等于你的通讯链的响应能力+你的直觉+1，你还会得到两个额外的主动性流程(总共三个)。
 
-尽管矩阵主动性与物理主动性同时存在，但你使用矩阵主动性所做的任何动作都只能影响矩阵中的其他事物(除非你与物理世界互动，如操纵或控制设备时)。如果你想与物理世界而不是VR矩阵互动，你需要下线或者集中精力在你的肉体上，并花费一回合使用物理主动性(不要忘记VR中物理动作的-6骰池修正)。
+尽管矩阵主动性与物理主动性同时存在，但你使用矩阵主动性所进行的任何动作都只能影响矩阵中的其他事物(除非你与物理世界互动，如操纵或控制设备)。如果你想与物理世界而不是VR矩阵互动，你需要离线或者集中精力在你的肉体上，并使用物理主动性(不要忘记VR中物理动作的-6骰池修正)度过一个战斗轮。
 
 [spoiler]
 [size=14pt][b]Virtual Initiative[/b][/size]
+
 If you’re operating in cold sim virtual reality, your Matrix Initiative equals your commlink’s Response + your Intuition; you also get an extra Initiative Pass (two total). If you’re running with hot sim, your Matrix Initiative equals your commlink’s Response + your Intuition + 1, and you get two extra Initiative Passes (three total). 
 
 Though Matrix Initiative is concurrent with physical Initiative, any actions you take using your Matrix Initiative can only affect other things in the Matrix (unless you are interacting with the physical world, as when rigging or controlling a device). If you want to interact with the physical world rather than the VR Matrix, you need to either go offline or concentrate on your meat body and spend a turn using physical Initiative (not forgetting the –6 dice pool modifier for physical actions in VR).
@@ -180,6 +190,7 @@ Though Matrix Initiative is concurrent with physical Initiative, any actions you
 
 [spoiler]
 [size=14pt][b]AGENT, IC, AND SPRITE INITIATIVE[/b][/size]
+
 Agents, IC, and sprites have an Initiative equal to Pilot + Response. Because they act at digital speeds, they receive two extra Initiative Passes (three total).
 [/spoiler]
 
@@ -191,6 +202,7 @@ Agents, IC, and sprites have an Initiative equal to Pilot + Response. Because th
 
 [spoiler]
 [size=14pt][b]MATRIX ATTACKS[/b][/size]
+
 Icons assault each other in cybercombat by performing the Matrix Attack action with an offensive program, such as Attack, Black Hammer, or Blackout. To attack another icon, make an Opposed Test. Hackers attack using Cybercombat skill + the rating of the program they are using. Agents, IC, and sprites attack using their rating + the offensive program rating. The defending icon rolls Response + Firewall. 
 
 If the attacker scores more hits, the attack succeeds—note the net hits. Otherwise the attack fails.
@@ -198,39 +210,43 @@ If the attacker scores more hits, the attack succeeds—note the net hits. Other
 
 [size=14pt][b]矩阵全防御[/b][/size]
 
-你可以像普通战斗一样进行全防御(全防御，第160页)，既可以作为一个复杂动作，也可以作为一个打断动作。当使用矩阵全防御时，在防御骰上加上你的骇入技能。IC、代理和网精在进行全防御时要加上他们的等级。
+你可以像普通战斗一样进行全防御(全防御，第160页)，既可以作为一个复杂动作，也可以作为一个打断动作。当使用矩阵全防御时，在防御骰上加上你的骇入技能。IC、代理和网精在进行全防御时加上他们的等级。
 
 [spoiler]
 [size=14pt][b]MATRIX FULL DEFENSE[/b][/size]
+
 You can go on full defense, as with regular combat (Full Defense, p. 160), either as a Complex Action or as an interrupt action. When defending with Matrix Full Defense, add your Hacking skill to the defense roll. IC, agents, and sprites add their rating when they go on full defense.
 [/spoiler]
 
 [size=14pt][b]矩阵伤害[/b][/size]
 
-攻击程序造成的基本矩阵伤害等于它加载的等级。因此，一个攻击4的程序的基本伤害值为4。 攻击检定的净成功会加到DV上。请注意，攻击程序对目标图标造成矩阵伤害。黑IC程序通过他们的拟感链接来攻击用户，所以他们直接对用户的眩晕或物理CM造成伤害。黑IC程序也有其他效果，如下所述。
+攻击程序造成的基本矩阵伤害等于它加载的等级。因此，一个4级的攻击程序的基本伤害值为4。攻击检定的净成功会加到DV上。请注意，攻击程序对目标图标造成矩阵伤害。黑IC程序通过他们的拟感链接来攻击用户，所以他们直接对用户的眩晕或物理CM造成伤害。黑IC程序也有其他效果，如下所述。
 
 [spoiler]
 [size=14pt][b]MATRIX DAMAGE[/b][/size]
+
 The base Matrix damage inflicted by an offensive program is equal to its rating in boxes. So an Attack 4 program has a base Damage Value of 4. Net hits scored on the attack test are added to the DV. Note that Attack programs inflict Matrix damage to the target icon. Black IC programs attack users through their simsense link, so they inflict damage directly to the user’s Stun or Physical Condition Monitor. Black IC programs also have other effects, noted below.
 [/spoiler]
 
 [size=14pt][b]伤害抵抗[/b][/size]
 
-攻击程序对图标的矩阵伤害用系统等级+矩阵护甲检定来抵抗。来自黑IC攻击的伤害是用意志+生物反馈过滤器来抵抗的。从修正后的伤害值中扣除该检定的每个成功；任何剩余的DV都被应用于目标对应的CM。伤势负面调整值不适用于伤害抵抗检定。
+攻击程序对图标的矩阵伤害用系统等级+矩阵护甲检定来抵抗。来自黑IC攻击的伤害用意志+生物反馈过滤器来抵抗。从修正后的伤害值中扣除该检定的每个成功；任何剩余的DV都被应用于目标对应的CM。伤势负面调整值不适用于伤害抵抗检定。
 
 [spoiler]
 [size=14pt][b]DAMAGE RESISTANCE[/b][/size]
+
 Matrix damage to an icon from an Attack program is resisted with a System + Armor program Test. Damage from a Black IC attack is resisted with Willpower + Biofeedback Filter. Deduct each hit scored on this test from the modified Damage Value; any DV left over is applied to the target’s appropriate Condition Monitor. Negative modifiers from damage do not apply to damage resistance tests.
 [/spoiler]
 
 [size=14pt][b]矩阵状态监测器(矩阵CM)[/b][/size]
 
-矩阵状态监测器衡量了一个图标所能承受的矩阵伤害量。它的数值等于8+(系统等级÷2，四舍五入)。超链者没有矩阵状态监测器。
+矩阵状态监测器衡量了一个图标所能承受的矩阵伤害量。它的数值等于8+(系统等级÷2，向上取整)。超链者没有矩阵状态监测器。
 
-当矩阵状态监测器上的所有方框都被填满时，一个图标就会崩溃。如果你的化身图标崩溃了，你会立即与矩阵断开连接，就像弹出动作一样(第229页)。如果你是在VR中操作，当这种情况发生时，你就会遭受到甩致休克。
+当矩阵状态监测器上的所有方框都被填满时，图标就会崩溃。如果你的化身图标崩溃了，你会立即与矩阵断开连接，就像弹出动作一样(第229页)。如果你是在VR中操作，当这种情况发生时，你就会遭受到甩致休克。
 
 [spoiler]
 [size=14pt][b]MATRIX CONDITION MONITOR[/b][/size]
+
 The Matrix Condition Monitor measures the amount of Matrix damage an icon can take. It has a number of boxes equal to 8 + (System ÷ 2, rounded up). Technomancers do not have a Matrix Condition Monitor. 
 
 An icon crashes when all the boxes on its Matrix Condition Monitor are filled. If your persona icon crashes, you are immediately disconnected from the Matrix, as with the Jack Out action (p. 229). If you were operating in VR, you suffer dumpshock when this happens.
@@ -238,25 +254,27 @@ An icon crashes when all the boxes on its Matrix Condition Monitor are filled. I
 
 [size=14pt][b]甩致休克[/b][/size]
 
-任何在VR中被从矩阵中甩出的人都会遭受到令人厌恶的系统冲击，这被称为甩致休克。甩致休克的伤害值对于冷模用户是5S，对于热模用户是5P。用意志+生物反馈过滤器来抵抗甩致休克的伤害。除了伤害之外，你还会受到迷失方向的影响：在(10-你的意志)分钟内，你的所有行动都会受到-2的骰池修正。
+任何在VR中被从矩阵中甩出的人都会遭受到令人厌恶的系统冲击，这被称为甩致休克。甩致休克的伤害值对于冷模用户是5S，对于热模用户是5P。用意志+生物反馈过滤器来抵抗甩致休克的伤害。除了伤害之外，你还会受到迷失方向的影响：在(10-你的意志)分钟内，你的所有动作都会受到-2的骰池修正。
 
 [spoiler]
 [size=14pt][b]DUMPSHOCK[/b][/size]
+
 Anyone who is dumped from the Matrix while in VR suffers a nasty system shock, called dumpshock. The Damage Value for dumpshock is 5S for cold sim users, 5P for hot sim users. Resist dumpshock damage with Willpower + Biofeedback Filter rating. You also suffer disorientation in addition to the damage: you suffer a –2 dice pool modifier on all actions for (10 – your Willpower) minutes.
 [/spoiler]
 
 [size=14pt][b]黑IC攻击[/b][/size]
 
-像黑锤头和断片这样的黑IC程序以过量BTL的强度给VR用户制造危险的生物反馈。为了使效果最大化，它们还颠覆了拟感界面，将链接锁定，使用户无法注销或切换界面模式，难以弹出，也更容易被追踪。
+像黑锤头和断片这样的黑IC程序会以过量BTL的强度对VR用户产生危险的生物反馈。为了使效果最大化，它们还会颠覆拟感界面，将链接锁定，使用户无法注销或切换界面模式，难以弹出，也更容易被追踪。
 
-一旦黑IC被用来对目标进行成功的攻击(即使击中后没有造成任何伤害)，他的链接就会被锁定，在黑色IC被崩溃之前，他无法注销该节点。用户的任何弹出尝试都需要一个复杂动作。此外，用户必须在意志+生物反馈过滤器和黑IC的等级+响应能力之间进行对抗检定。如果黑IC打成平手或得到更多的成功，它就会阻止用户弹出。弹出的用户会遭受甩致休克。
+一旦黑IC被用来对目标进行成功的攻击(即使命中后没有造成任何伤害)，他的链接就会被锁定，在黑色IC被崩溃之前，他无法注销该节点。用户的任何弹出尝试都需要一个复杂动作。此外，用户必须在意志+生物反馈过滤器和黑IC的等级+响应能力之间进行对抗检定。如果黑IC打成平手或得到更多的成功，它就会阻止用户弹出。弹出的用户会遭受甩致休克。
 
-如果黑IC将用户打晕，它就会保持链接开启。在这一点上，安保系统可能会悠闲地追踪用户的连接。通常的做法是从他的通讯链上删除黑客可能窃取的任何数据，或者派一个安保黑客去搜索受害者的节点以寻找证据。
+如果黑IC将用户打晕，它就会保持链接开启。此时，系统安保可能会不紧不慢地追踪用户的连接。通常的做法是从黑客的通讯链上删除任何可能是他窃取的数据，或者派遣安保黑客去搜索受害者的节点以寻找证据。
 
-断片的伤害不会溢出到物理CM中；在使目标失去知觉后，它就不再造成伤害了。黑锤头会像其他伤害一样溢出CM。溢出的物理伤害代表脑部伤害水平的提高。根据GM的判断，如果使用者在这次经历中幸存下来，他可能会受到神经系统的伤害，产生记忆缺失、幻觉、颤抖、幻痛、偏头痛或类似的情况。
+断片造成的伤害不会溢出到物理CM；在使目标失去知觉后，它就不再造成伤害了。黑锤头会像其他伤害一样溢出CM。溢出的物理伤害代表了脑部损伤程度的提高。根据GM的判断，如果使用者在这次经历中幸存下来，他可能会遭受神经损伤，从而产生记忆衰退、幻觉、震颤、幻痛、偏头痛或类似情况。
 
 [spoiler]
 [size=14pt][b]BLACK IC ATTACKS[/b][/size]
+
 Black IC programs like Black Hammer and Blackout create dangerous biofeedback at BTL overdose intensity to VR users. In order to maximize the effect, they also subvert the sim interface and jam the connection open, making it impossible for the user to log off or switch interface modes, difficult to jack out, and easier to trace. 
 
 Once Black IC is used to make a successful attack on the target (even if the hit does no damage), his connection is jammed open and he cannot log off that node until the Black IC is crashed. Any attempt by the user to jack out takes a Complex Action. In addition, the user must engage the program in an Opposed Test between the user’s Willpower + Biofeedback Filter and the Black IC rating + Response. If the Black IC ties or scores more hits, it prevents the user from jacking out. Users who jack out suffer dumpshock.
@@ -268,21 +286,22 @@ Damage from Blackout will not overflow into the Physical Condition Monitor; it s
 
 [size=14pt][b]在多个节点上同时作战[/b][/size]
 
-一个同时访问多个节点的黑客有可能同时在不同的节点受到攻击。在这种情况下，黑客的主动性适用于所有同时进行的战斗。黑客一次只能关注一场战斗，而且必须在每个主动性流程开始时指定哪一场。在剩下的时间里，他不能防御在其他战斗中对他的化身进行的攻击。如果他进行全防御，这些奖励只适用于他当时所关注的战斗。任何在一场战斗中造成的矩阵伤害都会影响他在所有战斗中的化身。
+同时访问多个节点的黑客可能同时在不同的节点受到攻击。在这种情况下，黑客的主动性适用于所有同时进行的战斗。黑客每次只能关注一场战斗，而且必须在每个主动性流程开始时指定是哪一场。在剩下的时间里，他无法防御在其他战斗中针对他化身的攻击。如果他进行全防御，这些奖励只适用于他当时所关注的战斗。在任何一场战斗中造成的矩阵伤害都会影响他在所有战斗中的化身。
 
 [spoiler]
 [size=14pt][b]SIMULTANEOUS COMBAT IN MULTIPLE NODES[/b][/size]
+
 It is possible that a hacker who is accessing multiple nodes simultaneously may come under attack in different nodes at once. In this case, the hacker’s Initiative applies to all concurrent combats. The hacker can also only focus his attention on one combat at a time, and must designate which at the start of each Initiative Pass. For the rest of the pass, he cannot defend against attacks made against his persona in the other combat(s). If he goes on full defense, those bonuses only apply to the combat he is focused on at the time. Any Matrix damage inflicted in one combat affects his persona in all combats.
 [/spoiler]
 
 [i]
-Slamm-0!已经被一个IC程序逼到了角落。他首先攻击，使用他的矩阵战斗4+攻击程序4(8个骰子)，得到3个成功。IC掷出它的响应等级5+防火墙4，但只得到了1个成功。Slamm-0!给IC造成了6DV伤害(4DV来自程序，加上2个净成功)。IC做了一个抵抗检定，只投了它的等级4(它没有运行一个矩阵护甲程序)。它得到了1个成功，足以将伤害减少到5S。IC有10点矩阵CM，所以它已经消耗掉了一半，现在受到了-1的伤势修正值。
+Slamm-0!已经被一个IC程序逼入了绝境。他首先攻击，使用他的矩阵战斗4+攻击程序4(8个骰子)，得到3个成功。IC掷出它的响应能力5+防火墙4，但只得到了1个成功。Slamm-0!给IC造成了6DV伤害(4DV来自程序，加上2个净成功)。IC进行了一个抵抗检定，只投了它的等级4(它没有运行矩阵护甲程序)。它得到了1个成功，足以将伤害减少到5S。IC有10点矩阵CM，所以它已经消耗掉了一半，现在受到了-1的伤势修正值。
 
-IC用断片程序进行反击，掷出等级4+断片4(7个骰子加上伤口惩罚)。IC这次很幸运，得到了4个成功。掷出他的响应能力5+防火墙3(8个骰子)，Slamm-0!只得到了3个成功，所以黑IC通过了。
+IC用断片程序进行反击，掷出等级4+断片4(计入伤势惩罚后只有7个骰子)。IC这次很幸运，得到了4个成功。Slamm-0!掷出他的响应能力5+防火墙3(8个骰子)，但只得到了3个成功，所以黑IC成功了。
 
-Slamm-0!面临着来自断片的5S DV(来自程序的4次命中加上1个净成功)，仅用他的意志3来抵抗(他没有使用生物反馈过滤器程序……哎呀)。他投了1个成功，把他的伤害减少到4S。黑IC还锁定了他的链接，使Slamm-0!无法注销。
+Slamm-0!面临着来自断片的5S DV(来自程序的4DV加上1个净成功)，仅用他的意志3来抵抗(他没有使用生物反馈过滤器程序……哎呀)。他投了1个成功，把他受到的伤害减少到4S。黑IC还锁定了他的链接，阻止Slamm-0!注销。
 
-在他的下一个行动中，Slamm-0!试图弹出。在IC的断片4+响应能力3和Slamm-0!的意志3之间进行了一次对抗检定。不出所料，IC赢了，阻止了Slamm-0!拔掉插头。如果他不能在直接战斗中击败IC，他就会被烤焦。他的图标摆出了卡通式的肩膀，准备接受更多的惩罚。
+在他的下一个动作，Slamm-0!试图弹出。在IC的断片4+响应能力3和Slamm-0!的意志3之间进行一次对抗检定。不出所料，IC赢了，阻止了Slamm-0!拔掉插头。如果他不能直接在战斗中击败IC，他就会被烤焦。他的图标摆出了卡通式的肩膀，准备迎接更多的惩罚。
 [/i]
 
 [spoiler]
