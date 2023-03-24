@@ -3,7 +3,7 @@
 [spoiler]Shadowrun 6E HACK & SLASH[/spoiler]
 
 [quote]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=136535][color=brown][size=12pt][b]引言 P.5[/b][/size][/color][/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136535][color=brown][size=12pt][b]引言 P.5[/b][/size][/color][/url]
 
 [color=brown][size=12pt][b]私活 P.6[/b][/size][/color]
 
@@ -17,7 +17,7 @@
 游戏信息 P.26
 
 [color=brown][size=12pt][b]小道具与小玩意 P.33[/b][/size][/color]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=136574]赛博骇入器 P.33[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136574]赛博骇入器 P.33[/url]
 [url=https://www.goddessfantasy.net/bbs/index.php?topic=138912]定制赛博碟板 P.34[/url]
 着手组装 P.35
 小道具 P.40
@@ -36,9 +36,9 @@
 代理 P.59
 
 [color=brown][size=12pt][b]超链手段 P.62[/b][/size][/color]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=136549]新复合程式 P.62[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=136582]新回声 P.67[/url]
-[url=http://www.goddessfantasy.net/bbs/index.php?topic=136981]数据结构 P.69[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136549]新复合程式 P.62[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136582]新回声 P.67[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136981]数据结构 P.69[/url]
 
 [color=brown][size=12pt][b]网精时刻 P.72[/b][/size][/color]
 新网精种类 P.72
