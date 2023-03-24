@@ -1,9 +1,10 @@
 [color=brown][size=16pt][b]安保对措[/b][/size][/color]
 
-任何值得黑客攻击的节点都很可能拥有自己的安保对措。节点的防火墙仅仅是第一道防线，就像仓库的墙壁。有效的安保不仅仅是一堵墙和门上的锁，对节点来说也是如此。
+任何值得骇入的节点都很可能拥有自己的安保对措。节点的防火墙仅仅是第一道防线，就像仓库的墙壁一样。有效的安保不仅仅是一堵墙和门上的锁，对节点来说也是如此。
 
 [spoiler]
 [color=brown][size=16pt][b]SECURITY RESPONSE[/b][/size][/color]
+
 Any node worth hacking more than likely has its own security. The Firewall of a node is merely a first defense, like the walls of a warehouse. Effective security is more than just a wall and a lock on the door, and the same goes for nodes.
 [/spoiler]
 
@@ -11,19 +12,21 @@ Any node worth hacking more than likely has its own security. The Firewall of a 
 
 [size=16pt][b]节点安保[/b][/size]
 
-仅仅因为你在一个节点上有一个账户，并不意味着你就可以自由地乱来。在一个安保节点上有很多危险在等待着黑客，包括但不限于蜘蛛、IC和其他防御措施。
+仅仅因为你在某个节点上拥有账户，并不意味着你就可以为所欲为。在安保节点上有很多危险在等待着黑客，包括但不限于蜘蛛、IC和其他防御措施。
 
 [spoiler]
 [size=16pt][b]NODE SECURITY[/b][/size]
+
 Just because you have an account on a node does not mean you are free to run amok. There are plenty of dangers awaiting a hacker in a secure node, including but not limited to spiders, IC, and other defenses.
 [/spoiler]
 
 [size=14pt][b]蜘蛛[/b][/size]
 
-蜘蛛是一个安保黑客，他保护节点、节点所属的物理设施，或者两者都保护。高度安保的系统会雇佣蜘蛛来监视他们的网络和节点，并观察入侵的迹象。GM决定一个节点是否值得这样的监督，以及他们的数量、能力和警觉性。
+蜘蛛是一个安保黑客，他保护着节点、节点所属的物理设施，或者同时保护两者。高度安保的系统会雇佣蜘蛛来监视他们的网络和节点，并观察入侵的迹象。GM决定一个节点是否值得这样的监视，以及他们的数量、能力和警觉性。
 
 [spoiler]
 [size=14pt][b]SPIDERS[/b][/size]
+
 A spider is a security hacker who protects the node, the physical facility to which the node belongs, or both. High-security systems will employ spiders to monitor their networks and nodes and watch for signs of intrusion. The gamemaster decides if a node deserves this kind of overwatch, as well as their numbers, abilities, and alertness.
 [/spoiler]
 
@@ -33,19 +36,21 @@ A spider is a security hacker who protects the node, the physical facility to wh
 
 [spoiler]
 [size=14pt][b]PATROLLING IC[/b][/size]
+
 Secure systems might employ IC (p. 237) to wander a node, scan users, and otherwise guard against interlopers, especially since IC is far less expensive than hiring a spider. IC may be loaded with an Analyze or Track program and instructed to randomly check users to ensure they are legitimate. Patrolling IC that discovers a hacker will put the system on alert and may attack if carrying any offensive programs.
 [/spoiler]
 
 [size=14pt][b]其他防御措施[/b][/size]
 
-节点通常配备了其他内部防御措施，以防御不受欢迎的窥探者。这些措施包括但不限于加密文件(第229页)、秘密节点、数据炸弹(第233页)、“红鲱鱼”文件，以及GM设计的其他任何东西。在某些情况下，IC程序可能与敏感文件一起被加密，这样当文件被解密时，IC会验证用户的身份，如果他们没有得到授权，就会发动攻击或破坏文件。
+节点通常配备了其他内部防御措施来防范不受欢迎的窥探者。这些措施包括但不限于加密文件(第229页)、秘密节点、数据炸弹(第233页)、“红鲱鱼”文件，以及GM设计的其他任何东西。在某些情况下，IC程序可能与敏感文件一起被加密，这样当文件被解密时，IC会验证用户的身份，如果他们没有得到授权，就会发动攻击或破坏文件。
 
-有时，黑客是她自己最大的敌人。一个黑客在入侵一个节点时出现了失误，在GM的判断下，她无意中向系统的防火墙透露了自己的存在。节点可能会派IC或蜘蛛去调查，也可能立即进入警报状态，并召唤出赛博警犬。
+有时，黑客是她自己最大的敌人。若黑客在入侵一个节点时出现了失误，基于GM的判断，她无意中向系统的防火墙透露了自己的存在。节点可能会派IC或蜘蛛去调查，也可能立即进入警报状态并召唤出赛博警犬。
 
 更多的矩阵安保技术以及安保节点和系统的范例可以在《Unwired》的第60页，《系统安保》章节中找到。
 
 [spoiler]
 [size=14pt][b]OTHER DEFENSES[/b][/size]
+
 Nodes are typically equipped with other internal defenses to guard against unwanted snoopers. These include but are not limited to encrypted files (p. 229), secret nodes, data bombs (p. 233), red herring files, and anything else the gamemaster devises. In some cases, IC programs may be encrypted along with sensitive files, so that when the files are decrypted, the IC will verify the user’s identity and attack or destroy the file if they are not authorized. 
 
 Sometimes the hacker is her own worst enemy. A hacker who rolls a glitch while intruding on a node has, at the gamemaster’s discretion, inadvertently given away her presence to the system’s firewall. The node may send IC or a spider to investigate, or may immediately go on alert and call out the cyberdogs. 
@@ -57,21 +62,23 @@ More Matrix security techniques and sample secure nodes and systems can be found
 
 [size=16pt][b]警报[/b][/size]
 
-如果一个节点意识到它已经被骇入了，它将立即进入警报状态，并启动各种反制措施。这些措施包括启动IC，中断连接，以及作为一种极端措施，进行关机和重启。这种警报行动将在警报发出后立即发生。
+如果一个节点意识到它已经被骇入了，它将立即进入警报状态，并启动各种反制措施。这些措施包括启动IC，中断连接，以及作为一种极端措施，进行关机并重启。这种警报动作将在警报响起后立即进行。
 
 [spoiler]
 [size=16pt][b]ALERTS[/b][/size]
+
 If a node is aware that it has been hacked, it will immediately go on alert and initiate various countermeasures. These include launching IC, terminating connections, and—as an extreme measure—initiating a shutdown and rebooting. This alert action happens immediately upon the alert being issued.
 [/spoiler]
 
 [size=14pt][b]警报种类[/b][/size]
 
-在矩阵节点中，有两种类型的主动警报。一般警报适用于整个节点，当怀疑有涉嫌入侵行为的用户而发出警报，并不知道谁或什么在实际利用该节点。针对单个图标或一组图标的限制性警报更常见。蜘蛛尽可能地使用限制性警报，因为它们为节点提供了针对目标的奖励。当蜘蛛或IC发现他们的入侵者时，一般警报可能会变成限制性警报。
+在矩阵节点中，有两种类型的主动警报。常规警报适用于整个节点，当怀疑有涉嫌入侵行为的用户便发出警报，并不知道实际上是谁或什么在利用该节点。针对单个图标或一组图标的控制警报更常见。蜘蛛尽可能地多使用控制警报，因为它们为节点提供了针对目标的额外奖励。当蜘蛛或IC发现入侵者时，常规警报可能会变成控制警报。
 
-一般来说，由防火墙发现黑客用户或由IC或代理发现黑客引起的警报是限制性警报，而由失误或发现黑客数据或设备引起的警报是一般性警报。
+一般来说，由防火墙发现骇入账户或由IC/代理发现黑客引起的警报是控制警报，而由失误或发现被骇入数据或设备引起的警报是常规警报。
 
 [spoiler]
 [size=14pt][b]TYPES OF ALERTS[/b][/size]
+
 There are two types of active alerts in a Matrix node. A general alert applies to the entire node, and occurs when an alert is issued by a user on suspicion of intrusion, without knowing who or what is actually exploiting the node. A restricted alert is more common, and is directed at a single icon or group of icons. Spiders try to use restricted alerts as much as possible, because they offer a bonus for the node against the target. A general alert may become a restricted alert when the spiders or IC find their intruder. 
 
 Generally speaking, alerts caused by the Firewall finding a hacking user or by discovery of the hacker by IC or an agent are restricted alerts, and those caused by glitches or discovery of hacked data or devices are general alerts.
@@ -81,12 +88,13 @@ Generally speaking, alerts caused by the Firewall finding a hacking user or by d
 
 处于警报状态的节点已经验证了入侵或其他未经授权的活动。大多数节点被编程为当警报被触发时自动提醒安保人员或设备的所有者/用户。如果节点包含安保黑客(或者有任何待命的黑客)，他们会被提醒，并会来寻找入侵者。
 
-处于限制性警报的节点会收到一个针对触发警报的入侵者的防火墙+4奖励。这适用于所有由节点的防火墙进行的或针对节点的检定。一般警报不给予奖励，但仍然会通知安保人员并采取节点中配置的其他行动。
+处于控制警报的节点对触发警报的入侵者获得+4的防火墙奖励。这适用于所有由该节点防火墙进行的或针对该节点防火墙的检定。常规警报不给予奖励，但仍然会通知安保人员并进行节点中配置的其他动作。
 
-节点还可以做以下事情之一，可以由GM选择，也可以在下面的随机警报反应表中随机决定。
+节点还可以执行以下操作之一，可以由GM选择，也可以在下面的随机警报响应表中随机决定。
 
 [spoiler]
 [size=14pt][b]ALERT RESPONSE[/b][/size]
+
 A node on alert status has verified an intrusion or other unauthorized activity. Most nodes are programmed to automatically alert security personnel or the owner/user of the device when an alert is triggered. If the node contains security hackers (or if there are any on call), they will be alerted and will come looking for the interloper. 
 
 A node on a restricted alert receives a Firewall bonus of +4 against the intruder that triggered the alert. This applies to all tests made by or against the node’s Firewall. General alerts do not convey a bonus, but still notify security personnel and take other actions as configured in the node. 
@@ -96,33 +104,36 @@ The node may also do one of the following, either as chosen by the gamemaster or
 
 [size=14pt][b]启动IC程序[/b][/size]
 
-一旦警报被触发，有此反应的节点将启动一个或多个IC程序来攻击或干扰入侵者。GM决定IC装载了哪些程序，以及使用它们的顺序。公司安保系统会有整个IC库来对付黑客，而一些歹徒的矩阵武装则可能只有一个防御性程序(如果有的话)。如果入侵者已被成功追踪，该节点甚至可能发送IC，对入侵者的系统发起自己的骇入尝试。
+一旦警报被触发，具有此响应的节点将启动一个或多个IC程序来攻击或干扰入侵者。GM决定IC装载了哪些程序以及使用它们的顺序。公司安保系统将拥有完整的IC库来对付黑客，而那些歹徒的矩阵武装则可能只有一个防御程序(如果有的话)。如果入侵者已被成功追踪，该节点甚至可能会发送IC，对入侵者的系统发起自己的骇入攻击。
 
 [spoiler]
 [size=14pt][b]LAUNCH IC PROGRAM[/b][/size]
+
 Once an alert is triggered, the node with this response will launch one or more IC programs to attack or interfere with the intruder. The gamemaster determines which programs the IC has loaded, and in what order it uses them. Secure corporate systems will have an entire library of IC to throw at hackers, whereas some goon’s cyberarm is only likely to have a single defensive program (if any). If the intruder has been successfully traced, the node may even send IC to launch its own hacking attempts on the intruder’s system.
 [/spoiler]
 
 [size=14pt][b]中断连接[/b][/size]
 
-一旦识别出入侵者并发出限制性警报，具有这种反应的节点就会试图中断黑客的连接，关闭他访问该节点的端口。为了中断连接，该节点立即进行防火墙+系统等级(黑客的利用漏洞程序等级，战斗轮)延续检定。警报后启动的每个IC为系统增加一个+1的骰池修正。如果黑客使用的是安保账户，他的利用漏洞程序等级将获得+2修正，如果他使用的是管理员账户，则修正为+4。如果黑客使用密码和合法账户登录，而不是用利用漏洞程序骇入进去，那么利用漏洞程序就不适用于检定。如果节点获得了更多的成功，它就会断开黑客的连接。黑客可以尝试重新登录，但节点将处于警报状态(并且可能已经关闭了所有外部连接)。
+一旦识别出入侵者并发出控制警报，具有此响应的节点就会试图通过关闭黑客访问该节点的端口来中断他的连接。为了切断连接，该节点立即进行防火墙+系统等级(黑客的利用漏洞程序等级，战斗轮)延续检定。警报后启动的每个IC为系统添加一个+1的骰池修正。如果黑客使用的是安保账户，他的利用漏洞程序等级将获得+2修正，如果他使用的是管理员账户，则修正为+4。如果黑客使用密码和合法账户登录，而不是用利用漏洞程序骇入，那么利用漏洞程序就不适用于检定。如果节点获得了更多的成功，它就会切断黑客的连接。黑客可以尝试重新登录，但节点将处于警报状态(并且可能已经关闭了所有外部连接)。
 
 [spoiler]
 [size=14pt][b]TERMINATE CONNECTION[/b][/size]
+
 Once an intruder is identified and a restricted alert issued, a node with this response attempts to sever the hacker’s connection by shutting down the port through which he is accessing the node. In order to sever a connection, the node immediately makes a Firewall + System (hacker’s Exploit rating, Combat Turn) Extended Test. The system adds a dice pool modifier of +1 for each IC launched following the alert. The hacker’s Exploit rating is modified by +2 if he’s using a security account, or +4 if he’s using an admin account. If the hacker used a passcode and legitimate account to log on, rather than hacking his way in with an exploit program, then the Exploit program does not apply to the test. If the node achieves more hits, it disconnects the hacker. The hacker can attempt to log back on, but the node will be on alert (and may have closed down all outside connections).
 [/spoiler]
 
 [size=14pt][b]系统重启[/b][/size]
 
-作为最后的手段，许多节点会简单地重置他们的相关设备，以便在入侵者造成过大的破坏之前清除他。关机和重启需要一个系统等级+响应能力(10，1个战斗轮)的延续检定。当节点关机时，任何访问该节点的人都会被注销，已打开的文件被保存，所有激活的程序都被停用。重启的设备没有节点，直到它完全重启。
+作为最后的手段，许多节点会简单地重置其关联设备，以便在入侵者造成严重破坏之前清除入侵者。关机和重启需要一个系统等级+响应能力(10，1个战斗轮)的延续检定。当节点关机时，任何访问该节点的人都将被注销，已打开的文件将被保存，所有激活的程序都将被停用。重新启动的设备在完全重新启动之前没有节点。
 
 [spoiler]
 [size=14pt][b]SYSTEM REBOOT[/b][/size]
+
 As a last resort, many nodes will simply reset their associated device in order to purge an intruder before he wreaks too much havoc. Shutting down and rebooting takes a System + Response (10, 1 Combat Turn) Extended Test. Anyone accessing the node when it shuts down is logged off, open files are saved, and all active programs are deactivated. The rebooting device has no node until it has completely rebooted.
 [/spoiler]
 
 [quote]
-[b]随机警报反应表[/b]
+[b]随机警报响应表[/b]
 
 [table]
 [tr][td]1D6 掷骰[/td][td]反应[/td][/tr]
