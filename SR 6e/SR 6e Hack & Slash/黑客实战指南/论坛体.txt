@@ -1,0 +1,163 @@
+[color=brown][size=16pt][b]黑客实战指南[/b][/size][/color]
+
+> 我邀请了某位特邀嘉宾来提供一份黑客实战指南。我想你们已经听我们这些坏脾气的老家伙说了太多，有个新声音也许会更好。此外，我请Slamm-0!帮了个忙，让他提供摘要分析而不是直接写出来。不管怎样，我找来了Lanyap进行这次分享，他是从新奥尔良来的碟客。
+
+> Glitch
+
+> 你是说我写不出来吗？
+
+> Slamm-0!
+
+> 我不想打扰你收看城市混战…呃…孩子。
+
+> Glitch
+
+[spoiler]
+
+[color=brown][size=16pt][b]FIELD GUIDE TO HACKING[/b][/size][/color]
+
+> I’ve invited a guest to provide a field guide to hacking. I figured you had already heard too much from our old curmudgeons, and getting a fresh voice might be nice. Besides, I am doing Slamm-0! a favor by letting him provide color commentary instead of writing this up. Either way, I have Lanyap, who’s a decker out of New Orleans, up for this drop.
+
+> Glitch
+
+> Are you saying I can’t write this up? 
+
+> Slamm-0!
+
+> I didn’t want to take you away from watching urban brawl … errrr ... the kid.
+
+> Glitch
+[/spoiler]
+
+嘿，狂奔者们，最近怎么样？Glitch联系了我，问我是否愿意为你们提供一份迅捷且肮脏地针对矩阵安保的高效狂奔指南，以及如何闯入那些你们需要进去即使你们并不想的地方。他还问了我能不能简短点。这会是最难的部分。
+
+现在是2082年，距离丹妮尔•德•拉•马尔在2075年推出新矩阵已经过去很久了。我观察到矩阵协议随着旧网域分隔的精简而不断发展。当你移动到由政府、公司甚至野矩阵控制的空间时，你甚至都注意不到这一点。但不要欺骗你自己，认为自己身处一个安全的空间，因为潜在的控制实体会协助GOD注视着你。此外，不会因为你在这个开放且无缝的矩阵上就意味着你可以看到一切。大量的图标、化身会导致除了部分热门的新星主机以外的主机过载。但矩阵的底层结构仍有旧网域的残余，显示出其在看到或找到你正在寻找的东西时具有的邻近效应。
+
+如果你的目标附近有一个硬件，那么挖掘附近的设备并在矩阵上发现东西将会更容易。如果工作人员中一些狡猾的成员能把设备带到一个地方，这样我就能更容易地了解周围的情况，这对黑客真的有帮助。那为什么不把所有人都叫来呢?我不是鬼鬼祟祟的，你派的人越多，你的足迹就越大，因为你犯了错误，也因为你被那些无人机和摄像头发现了。帮我把通讯工具拿进来，这样我就可以到处看看了。当你知道你要找的是什么或者是谁，而他们正坐在街对面一家很受欢迎的大豆鸡肉和饼干餐车旁时，这就容易多了。
+
+如果你的目标附近有一个硬件，那么检索附近的设备并在矩阵上发现它们将会更容易。如果队员中某些狡猾的家伙能把设备带到一个地方，这样我就能更容易地了解周围的情况，这对黑客有很大的帮助。那为什么不把所有人都叫过来呢？
+
+> 我知道有些人要去侦察一个地点，一旦到了那里，就决定不要再破坏了。问题是你错过了离开那里所需的信息。计划，分割，征服。我之前把碟客号的通讯链和一个设施连接起来作为常规侦察的一部分，这样当你准备好真正行动的时候就容易多了。
+
+> Hard Exit
+
+[spoiler]
+
+Hey chummers, where y’at? Glitch reached out and asked if I would be willing to give y’all the quick and dirty for being effective running Matrix security, and breaking in where ya need to even if ya ain’t wanted there. And he asked if I could keep it short. That’s gonna be the hard part.
+
+So here we are in 2082 and it’s been a long time since Danielle de la Mar dropped the new Matrix in our laps back in 2075. I’ve seen the Matrix protocols continue to evolve as the old grid separations have streamlined. You don’t really even notice when you move to a space owned by a government, corp, or even the wild Matrix. But don’t fool yourself that you’re in a safe space, as the underlying controlling entity is going to be helping GOD keep an eye on ya. Also, just because you’re on this wide open and seamless Matrix, doesn’t mean that ya can see everything, everywhere. The sheer volume of icons, personas, and hosts would overload all but some nova-hot hosts. But the underlying structure still has remnants of the old grids, which show up as having a proximity effect on seeing or finding what you are looking for. 
+
+Digging into nearby devices and spotting things on the Matrix is going to be easier if ya got a piece of hardware near your target. It can really help the hacker if some of the sneakier members of the crew can bring the device to a location so that it’s easier for me to get a view of what’s around. So why not just bring everyone in? Well, I ain’t sneaky, and the more people you put on-site, the bigger your footprint is­—both for making mistakes and for getting spotted by all those drones and cameras. Just take my comm in for me so that I can check around. It’s a lot easier when you know what or who you’re looking for and they’re sitting across the street at a popular soy chicken and biscuit food truck.
+
+> I know teams that head in to do recon on a site, and once there, decide they don’t want to break in a second time. The problem with that is missing out on the information you need to get out of there. Plan, divide, and conquer. I’ve run the decker’s commlink into a facility before as part of my normal recon, which makes the run that much easier when you’re ready to go in for real.
+
+> Hard Exit
+[/spoiler]
+
+这给我带来了另一个基于团队的烦恼，当我与一个新团队合作时:假设我是必须进行所有搜索或托管的人。他们几乎忘记了他们有commlink。现在，他们自己无法获得非法访问权，但他们可以搜索并获得对时间敏感的黑客至关重要的信息。当我需要强行进入主机时，有几个队友可以帮我发现或发现paydata，这意味着我们将更有可能在我不维修硬件或湿件的情况下进出。它甚至可以走得更远。如果团队能够获得证书和生物识别，这将使获得更高权限变得更加容易。在这里，黑客攻击需要团队合作，所以戴上护目镜或踏板来帮忙。
+
+不好意思说了这么多。成为每一支球队的搜索引擎可能会变得很老。decker不仅仅是搜索引擎、相机编辑或主机黑客。当然，我们可以这么做，我将首先谈论这些事情，但我们也可以帮助在战场上瞄准敌人，保护你的装备，执行快速思考的分散注意力，从弹射剪辑到控制房间的灯光。
+
+在深入讨论技术话题之前，让我们看看另一件我喜欢的团队可以帮助解决的事情:社会工程。从碟客的角度来看，我要用网络钓鱼攻击，给员工发一条地毯式的信息，或者如果他们填了调查，就给他们发份大豆卷饼的ARO。这并不一定能让我得到我需要的权限或者击中我要找的目标。有时你需要一个更有社交倾向的人来给合适的人打电话，或者我敢说，引诱他们或吓唬他们。我的朋友总是把它称为获得某人证书的橡皮软管方法。
+
+> 虽然你可能没有时间在一个目标上实施一个很好的长期欺骗来获得访问权，但找到可利用的点是很重要的。也许他们在上班的路上和他们最喜欢的咖啡师有特殊的联系，或者他们的家人突然需要帮助。这些可以用来给目标施压，或者它们可以在目标不知情的情况下偷走你需要的东西。
+
+> Fianchetto
+
+[spoiler]
+
+That brings me another team-based pet peeve I have when I’m working with a new group: the assumption that I’m the one who has to do all the searches or host-entering. It’s almost like they forget that they have commlinks. Now, they won’t be able to gain illegal access on their own, but they can search and gain information that can be critical on a time-sensitive hack. When I need to bruteforce my way into a host, having a few teammates who can spot for me or find that paydata means that we’re going to be more likely to get in and out without me doing repairs to my hardware or wetware. And it can go even further than that. If the team is able to get credentials and biometrics, it makes gaining elevated access even easier. Hacking is a team effort here, so slap on some goggles or trodes and help out. 
+
+Sorry to go on a bit there. Being the search engine for every team that comes along can get really old. Deckers are more than just search engines, camera editors, or hackers of hosts. Sure, we can do that, and I will talk about those things first, but we can also aid in targeting enemies on the battlefield, protect your gear, and execute quick-thinking distractions ranging from ejecting clips to controlling the lights in the room.
+
+Before I dive into some of the deeper tech topics, let’s hit another of my favorite things a team can do to help out: social engineering. From a decker’s point of view, I’m gonna use a net-casting phishing attack, send out a blanket message to employees, or put up an ARO for soy-tacos if they fill out a survey. That’s not necessarily going to get me the access I need or hit the target I’m looking for. Sometimes you need someone with a more social bent to cold-call the right person, or dare I say, seduce them or scare what you need out of them. My friend always called it the rubber-hose method of getting someone’s credentials.
+
+> While you might not have the time to execute a good long con on a mark to get access, finding points of leverage is going to be important. Maybe the mark has a special connection to their favorite barista on their way into work, or maybe they have family who suddenly need help. These can be used to put pressure on the mark, or they might be able to steal what you need for you without the mark ever knowing.
+
+> Fianchetto
+[/spoiler]
+
+随着一堆新的物理主机上线，我一直在问它们是否更容易被黑客攻击，或者你是否真的能分辨出它们的区别。首先，新(或旧)主机使用与2075年上线的基础技术主机完全相同的协议和接口。基金会的技术宿主被认为是未来的方式，老实说，他们可能仍然是，但他们带来了来自基金会和共鸣领域的新威胁。因此，该公司将做他们擅长的事情:通过延长一些旧技术的寿命来适应不断变化的环境，并实际投资研究新的主机硬件。基础技术和纯硬件，或框架，主机将彼此工作得几乎一样。您不会在框架主机中找到Foundation，这确实有助于防止一些矩阵威胁从Null节点冒出来。但是在获取访问权限的方式上，查看和执行命令是一样的。我的超链者朋友告诉我，他们的复合程式和网精在框架主机中工作得很好。
+
+有了这个问题，让我们来谈谈如何访问主机或设备。我们已经讨论过使用社交技巧来获取凭证，但我们还没有讨论过你是想用蛮力来使用它，还是可以在潜行的同时利用用户的凭证。首先让我们从基础开始:做研究。在提升特权之前，应该弄清楚主机中是否有蜘蛛。如果您想使用暴力，那么无防御的主机是非常适合挑选的，因为蜘蛛将花费很长的时间登录并给您带来麻烦。拥有社会工程学的证书会给你在暴力攻击中寻找的极限。
+
+当建立一个长期的项目时，你将通过寻找未修补的软件或他们的防御漏洞来进入后门。拥有证书可以让你在入侵系统时获得优势，即使是在探测系统时。如果您很着急，那么不先进行探测就开始工作意味着您依赖于您的漏洞攻击团队，并希望其中一个能够在该主机上工作。如果你在不被探查的情况下从后门进入，那么这就给了主人比你更大的优势。但你可以通过拥有证书来抵消这种优势。就我个人而言，我总是会告诉新手花时间去寻找弱点，并通过这种方式进入宿主。说实话，大多数情况下，你进入一台主机时，都是为了让摄像机循环播放，或者是清理你的团队为降低温度而制造的混乱。这意味着不要报警你强行进入的整个碎片化主机系统。
+
+另一件重要的事情是，您甚至可能不需要访问PAN或主机来实现您的目标。快速伪造命令可以拯救你的团队的soyrizo。再加上Fork或其他一些更新的程序，在一场战斗中，你可以同时弹出四个弹匣。了解你的工具，知道你可以在不花费时间获取更高权限的情况下执行什么，以防止你的《守望先锋》分数上升到危险水平。
+
+这让我想到了程序、代理、网精和一堆你需要用到的其他工具。这些工具和网络程序对你的成功至关重要。我写了一些程序来帮助我管理我的一套网络程序和smartframes，这样我就可以用一个命令来切换它们。这种灵活性让我可以更快地改变档位，对设备或主机做出反应，这很重要，因为时间是你在矩阵中最宝贵的资产。我的典型设置是基于我要追求的东西。我有一个专门针对攻击和暴力的设置。我有一个用于探测系统，还有一个用于处理文件和设备。最后，我有了基本配置的ASDF和程序来处理AR中的设备和pan。我在运行什么?抱歉，但我不会泄露我的秘方。
+
+> 上帝总是在寻找正在运行的非法网络程序，所以如果你总是运行你最热门的软件，你就会更快地引起关注。有了能让操作系统停止运行的东西我就能在事态恶化前得到一些时间。
+
+> Pistons
+
+[spoiler]
+
+With a bunch of new physical hosts being brought online, I’ve been getting questions about whether they are easier to hack or if you can really tell the difference. First off, the new (or old) hosts use the exact same protocols and interface as Foundation-tech hosts brought online in 2075. The Foundation-tech hosts were supposed to be the way of the future, and honestly, they probably still are, but they bring new threats from the Foundation and Resonance realms. So the corps are going to do what they’re good at: adapting to the changing circumstances by extending the life of some of older tech, and actually invest in researching new host hardware. Foundation-tech and pure hardware, or framework, hosts are going to work pretty much the same as each other. You won’t find a Foundation in the framework hosts, which really helps prevent some Matrix threats bubbling up from the Null node. But in the ways that matter for gaining access, having a look around and executing commands are the same. And my technomancer friends have told me that their complex forms and sprites work just fine in framework hosts. 
+
+With that question outta the way, let’s cover a little bit about hitting a host or device. We’ve talked about using social skills to gain credentials, but we really haven’t talked about whether you want to use that with brute force or if you can expoit a user’s credentials while going stealthy. First let’s start with the basics: doing your research. Before you go and elevate privileges, you should figure out if there is a spider in the host. Undefended hosts are ripe for the picking if you want to use brute force, since it’s going to take forever for a spider to log in and give you trouble. Having credentials from social engineering is going to give you the edge you’re looking for on a brute-force attack. 
+
+When setting up something long-term, you’ll be doing a backdoor entry by looking for unpatched software or holes in their defenses. Having credentials is going to give you the advantage hacking into the system, even when probing it. If you’re in a hurry, then going in without probing first means you’re relying on your stable of exploits and hoping one of them is going to work on this host. If ya gain a backdoor entry without probing, then it’s giving the host an advantage over you. But you can negate that advantage by having credentials. Personally, I’ll always tell a new runner to spend the time to probe for a weakness and gain entry to the host that way. Let’s be honest—most of the time you enter a host, it’s going to be looping a camera or cleaning up the mess your team has made in an effort to keep heat down. This means not alerting the whole fragging host system that you bruteforced your way in.
+
+The other big thing is that you may not even need access to the PAN or host to achieve your goals. Quickly spoofing a command can save your team’s soyrizo. Couple that with Fork or some of the newer programs out there, and in a fight you can eject four magazines simultaneously. Know your tools and know what you can execute without spending time gaining elevated access to prevent your Overwatch Score from climbing to dangerous levels.
+
+This leads me to programs, agents, sprites, and the pile of other tools you need to get your hands on. These utilities and cyberprograms are critical to your success. I’ve written a few programs that help me manage my suite of cyberprograms and smartframes so that I can swap them in and out with a single command. This flexibility lets me change gears and respond to the device or host quicker, which is important since time is your most precious asset in the Matrix. My typical setups are based on what I’m going after. I have one setup specifically for attack and brute force. I have another for probing the system, and another for dealing with files and devices. Finally, I have my base configuration of ASDF and programs to deal with devices and PANs in AR. What am I running? Sorry, but I’m not giving away my secret recipes.
+
+> GOD is always looking for illegal cyberprograms being run, so you bring the heat faster if you’re always running your hottest decking software. Having something you can swap out to keep the OS down has bought me the seconds I need before it all goes critical.
+
+> Pistons
+[/spoiler]
+
+团队希望你做的另一项主要工作是保护他们的设备。没人会高兴你的街头小山姆在战斗中失去了技能。另一个碟客可能很开心，但谁他妈的在乎他们?我会尽快与团队沟通并设置控制来保护他们的装备和装备。真的，如果你不想让别人弄乱你的东西，你就连线或关掉它。就像你可以伪造命令重启某人的网络眼睛一样，你的团队也可以这样做。确保你优先考虑你的防火墙，除非你真的不在乎你的团队。为他们辩护是你们赚钱的方式。
+
+这也意味着，运行沉默将取决于你的能力隐藏你的锅。虽然机师们已经找到了隐藏RCC的方法，但这永远不会像有一个专门的碟客保护蜂群那样好。您在运行时最大的决定是使用最大的防火墙还是最大的隐匿性。
+
+比;哈!我大声奔跑，惠比特犬断开连接。
+
+比;小灵狗
+
+比;嘿，怎么了?比;边缘
+
+比;我猜?惠比特太容易找到，或者没有保护他们的甲板。
+
+比;/dev/grrl
+
+比;/dev/grrl !比;故障
+
+比;不是我，我发誓。
+
+比;/dev/grrl
+
+[spoiler]
+
+The other main job the team expects you to do is defend their devices. Nobody is happy when your street sam’s skillwires get turned off midfight. Well, the other decker is probably happy, but who fraggin’ cares about them? As soon as I can, I talk to the team and set up the controls to defend their gear and ware. And really, if you don’t want people to mess with your stuff, you go wired or turn it off. Just like you can spoof commands to reboot someone’s cybereyes, the same can be done to your team. Make sure that you prioritize your firewall unless ya really don’t care about your team. Defending them is how y’all earn your pay. 
+
+This also means that running silent is going to depend on your ability to hide your PAN. And while riggers have figured out ways to hide their RCC, that will never be as good as having a dedicated decker protecting the swarm. Your biggest decision on a run is whether to run with a maxed Firewall or maxed Sleaze.
+
+> Ha! I run loud and pro—<Whippet disconnected> 
+
+> Whippet
+
+> Hey, what happened? > Borderline
+
+> My guess? Whippet was too easy to find or wasn’t protecting their deck.
+
+> /dev/grrl
+
+> /dev/grrl! > Glitch
+
+> It wasn’t me, I swear.
+
+> /dev/grrl
+[/spoiler]
+
+另一件事，deckers通常不会考虑的是有多少活跃的人物目前在一个主机或PAN。角色越多，就越容易隐藏，巡逻IC或蜘蛛检查你是否应该访问所需的时间也就越长。通常情况下，新手们认为在半夜攻击主机会更容易，但当你是五个登录角色之一时，巡逻IC会经常检查你。
+
+最后，让我们了解一些可以让你在竞争中占据优势的新技术。让我们从我所看到的最时髦的novahot deckers开始。他们从一些老的脚本小子那里吸取经验，这些人曾经为已知的漏洞编写脚本。重要的是，当你急于进入一个主机或设备，但又不想在进入的过程中触发所有的警报时，你并不总是有一系列的选择。通常不是提前计划就是撞门而去。有了这个剧本，你就有机会悄无声息地溜进去。尽管机会渺茫。此外，我的一些朋友已经开始擅长更快地换出他们的程序，以便在试图进入主机时获得正确的负载，然后迅速切换到软件以帮助破解文件。
+
+[spoiler]
+
+Another thing that deckers don’t normally think about is how many active personas are currently on a host or PAN. The more personas there are, the easier it is to hide, and the longer it will take for any Patrol IC or spider to come by and check whether you should have access. Too often, newbs think that hitting the host in the middle of the night is going to be easier, but when you are one of five personas logging in, that Patrol IC will be checking on ya frequently. 
+
+Finally, let’s get the lowdown on some of the new techniques that are out there that can get you a leg up on the competition. Let’s start with the slickest trend I’ve been seeing out of some of the novahot deckers. They’re pulling moves from some old script-kiddies, who used to create scripts of known exploits. The big thing is that when you are in a rush to get into a host or device but don’t want to set off every alarm on the way in, you don’t always have a range of options. It’s usually either plan ahead or crash the gates. With this script, you have a chance of sneaking in fast and silent. It’s a slim chance, though. Also, some chummers of mine have been getting good at swapping out their programs faster in order to have the right loadout when trying to get into a host, and then quickly swapping to software to help crack files.
+[/spoiler]
