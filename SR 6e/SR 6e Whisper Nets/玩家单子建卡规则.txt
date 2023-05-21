@@ -1,0 +1,241 @@
+[color=brown][size=16pt][b]附录：玩家单子角色规则[/b][/size][/color]
+
+在《Whisper Nets》中遇到的某些角色是单子(Monad)，即经历认知碎片障碍(CFD)并与另一个来源于AI的人格分享他们思想的人。
+
+CFD最糟糕的时期已经过去了，治疗方法已经公布，最糟糕的疯子们要么被抓获，封锁，要么坐上了DSECI。那些留下由玩家扮演的单子则仍然在寻求与人类的平衡。他们已经与他们的多重思想达成一致，或是一个思想简单地将另一个思想从存在中抹去，只留下猜疑的记忆与困惑的爱人。
+
+成为单子并不是一份充斥着混乱的惩罚，而是一份伴随着它自己一套麻烦的礼物，与觉醒或浮现没有什么不同。有些人崇拜你，有些人害怕你，有些人追杀你，有些人甚至不相信你的存在。但你知道你存在。你知道你为什么存在，而暗影中是你觉得最好存在于的地方。
+
+[spoiler]
+[color=brown][size=16pt][b]APPENDIX: PC MONAD RULES[/b][/size][/color]
+
+Some of the characters encountered in Whisper Nets are Monads, people who experience cognitive fragmentation disorder (CFD) and are sharing their mind with another personality with AI origins.
+
+The worst of CFD is over, cures are available, and the worst of the headcases have either been captured, capped, or took a ride on the DSECI express. Those who are left behind to be portrayed by players are the ones who still seek a balance with humanity. They have come to accords with their multiple minds, or one mind has simply wiped the other from existence, leaving only jealous memories and confused loved ones.
+
+Being a Monad is not a turmoil-filled punishment, but a gift that comes with its own set of troubles, no different than being Awakened or Emerged. Some will idolize you, some will fear you, some will hunt you, and some may not even believe you exist. But you know you exist. You know why you exist, and in the shadows is where you feel it is best to exist.
+[/spoiler]
+
+[size=14pt][b]建卡花费[/b][/size]
+
+[b]优先级花费：[/b]单子加入魔法，共鸣和凡俗的优先级栏。起始NV属性与另一特殊属性相同并以相同的方式增加。单子角色开始时拥有NV个单子能力，之后每级单子能力以10业力成本进行购买。
+
+[b]购点花费：[/b]单子花费10CP，与觉醒或浮现相同。
+
+[b]生命历程花费：[/b]每个觉醒或浮现选项处均可获得一个等同的单子选项
+
+[spoiler]
+[size=14pt][b]BUILD COSTS[/b][/size]
+
+[b]Priority Build:[/b] Monad joins the column for Magic, Resonance, and Mundane. Starting NV Attribute is based on the same as the other special attributes and increased the same way. Monad PCs start with 1 Monad Ability per NV. Future Monad Abilities are bought with 10 Karma for each level. 
+
+[b]Point Build:[/b] Monad is 10 CP, just like Awakened or Emerged. 
+
+[b]Life Path:[/b] Each place there is an Awakened or Emerged option, a similar option can be gained for a Monad.
+[/spoiler]
+
+[size=14pt][b]NV基础[/b][/size]
+
+每个单子都有一个特殊的属性，称为纳米体含量(NV, Nanite Volume)。这代表了他们系统中可用于执行各种特殊任务的纳米体的数量。NV上限为单子的天生肉体属性的两倍。
+
+任何导致电颤状态的攻击都有机会炸出一些纳米体。每当单子进入电颤状态，投体质骰。体质检定中的失误意味着他们失去了2点NV，一个严重失误意味着他们失去了一半NV，这种损失永远不会使他们降低到0NV。
+
+[spoiler]
+[size=14pt][b]NANITE VOLUME BASICS[/b][/size]
+
+Every Monad has a Special Attribute called Nanite Volume (NV). This represents the quantity of nanites available in their system to perform various exceptional feats. NV is limited to double the natural Body attribute of the Monad. 
+
+Any attack that causes the Zapped status has a chance of frying out some nanites. Each time a Monad is Zapped, roll Body. A glitch on the Body test means they lose 2 NV. A critical glitch means they lose half of their NV. This loss can never bring them to 0 NV.
+[/spoiler]
+
+[size=14pt][b]单子坚韧[/b][/size]
+
+单子玩家将一半的NV添加到他们的CM，根据他们的选择进行拆分，并将所有的伤势调整值降低一级。
+
+[spoiler]
+[size=14pt][b]MONAD TOUGHNESS[/b][/size]
+
+Monad PCs add one-half their Nanite Volume to their Condition Monitors, split how they choose, and shift all Wound Modifiers down by one.
+[/spoiler]
+
+[size=14pt][b]肉体属性增幅[/b][/size]
+
+单子可以使用纳米体操纵生物化学反应，从而提高他们的物理能力，包括属性和主动性。这些尝试对纳米体带来了负担。任何掷骰中的失误都会导致NV减少。
+
+单子可以使用可用的NV来换取额外的次要动作。以这种方式使用的NV会导致单子的NV属性暂时减少。
+
+使用属性增幅需要花费一个次要动作。单子进行一个NV属性检定。对于每个净成功，单子可以增加任何物理属性1点或获取一个次要动作。可以在同一属性上花费多个净成功，并且净成功可以根据玩家的意愿分配到不同的属性上，甚至是相同的检定中。最大总增幅等于单子的NV属性，或标准+4的最大属性增幅规则限制，取较低者。
+
+任何超过种族修正最大值的增幅都会在效果消失后都会造成一格物理伤害。这些增益持续的战斗轮数等于投骰检定的净成功数。在这段时间之后，单子会暂时降低它们的NV总量，可能会使所有纳米体离线一分钟。
+
+[spoiler]
+[size=14pt][b]PHYSICAL ATTRIBUTE BOOST[/b][/size]
+
+Monads can boost their physical capabilities, including attributes and initiative, through the manipulation of their biochemistry using their nanites. These efforts are taxing on the nanites. Glitches on any roll should result in a decrease in NV.
+
+Monads can trade available NV for additional Minor Actions. The NV used in this way temporarily decreases the NV attribute of the Monad. 
+
+Using Attribute Boost requires a Minor Action. The monad makes a Nanite Volume test. For each hit, the Monad can increase any Physical Attribute by 1 or add a Minor Action. Multiple hits can be used on the same attribute, and the hits can be distributed over separate attributes as the player desires, even on the same test. The maximum total boost is equal to the Monad’s NV, or the standard +4 maximum attribute boost limit, whichever is lower.
+
+Any increase beyond the racially modified maximum results in a box of physical damage after the boost wears off. These boosts last for a number of rounds equal to the number of hits on the roll. After this time, the Monad temporarily decreases their NV by the total of the boosts, potentially knocking all the nanites offline, for one minute.
+[/spoiler]
+
+[size=14pt][b]精神属性增幅[/b][/size]
+
+单子可以使用纳米体操纵生物化学反应来提高他们的精神属性。这些尝试对纳米体带来了负担。任何掷骰中的失误都会导致NV减少。
+
+使用精神属性增幅需要花费一个次要动作。单子进行一个NV属性检定。对于每个净成功，单子可以增加任何物理属性1点。可以在同一属性上花费多个净成功，或净成功可以根据玩家的意愿分配到不同的属性上，甚至是相同的检定中。最大总增幅等于单子的NV属性，或标准+4的最大属性增幅规则限制，取较低者。
+
+任何超过种族修正最大值的增幅都会在效果消失后都会造成一格眩晕伤害。这些增益持续的战斗轮数等于投骰检定中的净成功数。在这段时间之后，单子会暂时降低它们的NV总量，可能会使所有纳米体离线一分钟。
+
+[spoiler]
+[size=14pt][b]MENTAL ATTRIBUTE BOOST[/b][/size]
+
+Monads can boost their mental attributes through the manipulation of their biochemistry using their nanites. These efforts are taxing on the nanites. Glitches on any roll should result in a decrease in NV.
+
+Using Mental Attribute Boost requires a Minor Action. The monad makes a Nanite Volume test. For each hit, the Monad can increase any Mental Attribute by 1. Multiple hits can be used on the same attribute, or the hits can be distributed over separate attributes as the player desires, even on the same test. The maximum total boost is equal to the monad’s NV, or the standard +4 maximum attribute boost limit, whichever is lower. 
+
+Any increase beyond the racial modified maximum results in a box of Stun damage after the boost wears off. These boosts last for a number of rounds equal to the number of hits on the roll. After this time, the Monad temporarily decreases their NV by the total of the boosts, potentially knocking all the nanites offline, for one minute.
+[/spoiler]
+
+[size=14pt][b]动作利用[/b][/size]
+
+单子可以用可用的NV来换取额外的次要动作。在一个战斗轮中最多可以获得两个次要动作。以这种方式获得的每个次要动作都会在5分钟内减少等同于换取数量的个人NV属性。
+
+[spoiler]
+[size=14pt][b]ACTION USE[/b][/size]
+
+Monads can trade available NV for additional Minor Actions. At most two Minor Actions can be gained in a single combat round. Each Minor Action gained in this way reduces the individual’s NV by the amount traded for five minutes.
+[/spoiler]
+
+[size=14pt][b]修正感知[/b][/size]
+
+单子可以使用他们的纳米体来模拟多种感官增强系统。花费一个次要动作，单子可以增添低光视觉，热感视觉，强化视觉(enhanced vision)，减音器，或听觉锐化。
+
+[spoiler]
+[size=14pt][b]Modify Senses[/b][/size]
+
+Monads can use their nanites to imitate various sense-enhancing systems. As a Minor Action, the Monad can add low-light vision, thermographic vision, enhanced vision, audio dampening, or audio enhancement.
+[/spoiler]
+
+[size=14pt][b]毒素抵抗[/b][/size]
+
+单子可以将其NV属性添加到任何毒素抵抗检定或对疾病、毒素或摄入物的伤害抵抗检定中。
+
+[spoiler]
+[size=14pt][b]TOXIN RESISTANCE[/b][/size]
+
+Monads can add their Nanite Volume to any Toxin Resistance Test or Damage Resistance versus a sickness, toxin, or drug.
+[/spoiler]
+
+[size=14pt][b]肾上腺控制[/b][/size]
+
+每个战斗轮，单子可以花费一个次要动作进行意志+NV(2)检定以保持意识清醒，即使他们的CM已满。他们仍然可以受到额外的伤害，并且遵循伤害溢出的标准规则(这意味着如果他们受到足够的伤害，他们可以突然从意识清醒转变为死亡)。
+
+[spoiler]
+[size=14pt][b]ADRENAL CONTROL[/b][/size]
+
+Once per combat round, Monads can use a Minor Action to make a Willpower + Nanite Volume (2) test to stay conscious even when their Condition Monitor is full. They can still take additional damage, and they follow standard rules for damage overflow (meaning that if they suffer enough damage, they could make an abrupt transition from conscious to dead).
+[/spoiler]
+
+[size=14pt][b]快速治疗[/b][/size]
+
+monad可以花费次要或主要动作来进行治疗。对于次要动作，进行NV属性检定，并通过获得的净成功数减少对CM的伤害。花费主要动作为检定提供一个情景极限点，并治疗双倍的净成功数。
+
+[spoiler]
+[size=14pt][b]RAPID HEALING[/b][/size]
+
+Monads can use a Minor or Major Action to heal. For the Minor Action, make a Nanite Volume test and reduce the damage on their Condition Monitor by the number of hits on the roll. Using a Major Action provides a situational Edge point for the test and heals double the number of hits.
+[/spoiler]
+
+[size=14pt][b]重塑[/b][/size]
+
+这种能力允许单子改变他们的肤色，声音和面部特征。这通常被用于进行永久性的改变，但这个能力也可以用来即时伪装，虽然它不会改变头发的颜色，尽管发型可以剪短(但不能变长)。这个能力不能改变身体的大小。
+
+单子可以花费一些次要动作进行直觉+欺骗(16，1战斗轮)延续检定，以改变其面部外观和肤色。然后角色在任何伪装(伪装+魅力)检定中获得+2DP。
+
+[spoiler]
+[size=14pt][b]RESCULPT[/b][/size]
+
+This ability allows the Monad to change their skin color, voice, and facial characteristics. Usually used to make a permanent change, the ability can be used on the fly as a disguise, but it doesn’t change hair color, though the cut can be modified shorter (but not longer). The ability can’t modify body size.
+
+Monads can use a series of Minor Actions to make an Intelligence + Con (16, 1 Combat Round) Extended test to change their facial appearance and skin tone. The character then gets +2 dice on any Disguise (Con + Charisma) tests.
+[/spoiler]
+
+[size=14pt][b]单子矩阵属性[/b][/size]
+
+单子可以创建类似超链者活体化身的某种东西，他们使用相同的精神属性(攻击性=魅力，隐匿性=直觉，数据处理=逻辑，防火墙=意志)。他们可以将这些属性提升与NV相等的点数，这些点数可以被添加到单个属性中，也可以被分配到多个属性中，并且可以通过一个次要动作重新分配。调整幅度不能超过其初始等级的1.5倍。单子没有任何类似回声或深潜的东西。
+
+有了这些属性，单子可以执行矩阵动作，就像他们有一个正在运行的通讯链或碟板那样。
+
+[spoiler]
+[size=14pt][b]MONAD MATRIX ATTRIBUTES[/b][/size]
+
+Monads can create something similar to the living Persona of a technomancer, and they use the same mental attributes (Attack = Charisma, Sleaze = Intuition, Data Processing = Logic, Firewall = Willpower). They can boost these attributes by a number of points equal to their NV. Points may be added to a single attribute or distributed among several, and they can be reassigned with a Minor Action. The adjustments cannot exceed an increase of 1.5 times the initial rating. Monads do not have anything like Echoes or Submersion. 
+
+With these attributes, the Monad can perform Matrix actions as if they had a commlink or deck active.
+[/spoiler]
+
+[size=14pt][b]黑曜云[/b][/size]
+
+单子可以花费一个次要动作，并分配其NV的一部分以创建一个被称为黑曜云的矩阵实体。这个实体类似于它的名字，作为单子的精神延伸而运作。黑曜云的等级等于分配给它们的NV，技能等于其等级。它们的矩阵属性与具有相等设备等级的赛博碟板相同。它们拥有自己的矩阵主动性，并且可以独立进行区别于单子动作的矩阵动作，虽然云和单子共享思想。云的矩阵主动性为(等级×2)+2D6，1个主要动作和2个次要动作。
+
+单子的有效NV(指用于所有NV检定的数量)减少等于分配给黑曜云的值。
+
+多个黑曜云可以同时被激活，但每个都会降低单子的有效NV。黑曜云可以通过一个次要动作被关闭，为其他能力提供访问这些纳米体的途径。
+
+黑曜云拥有它自身的矩阵CM，等于分配给其的NVx2。如果该CM被填满，黑曜云就会消失，运行它的纳米体就会暂时关闭，无法使用。纳米体以每战斗轮1点的速率重新启动，在战斗轮开始时立即为单子可用。
+
+即使是来自不同单子的黑曜云个体也可以合并在一起，每个都增加了整体的处理能力。黑曜云的有效NV等于所有合并云的等级之和。拥有合并黑曜云的单子可以通过这些云进行通信。
+
+[spoiler]
+[size=14pt][b]OBSIDIAN CLOUD[/b][/size]
+
+A Monad can use a Minor Action and assign a portion of its Nanite Volume to create a Matrix entity known as an Obsidian Cloud. This entity resembles its name and operates as a mental extension of the Monad. Obsidian Clouds have a rating equal to the Nanite Volume assigned to them and skills equal its rating. Their Matrix Attributes are the same as a cyberdeck of similar device rating. They get their own Matrix Initiative and can take Matrix Actions separate from the actions of the Monad, though the Cloud and the Monad share thoughts. The cloud has a Matrix Initiative of (rating x 2) + 2D6 and 1 Major Action and 2 Minor Actions. 
+
+The effective Nanite Volume of the Monad (meaning the number used for all NV tests) is decreased by the value assigned to the Obsidian Cloud.
+
+Multiple Obsidian Clouds can be active at once, but each one decreases the effective Nanite Volume of the Monad by its rating. An Obsidian Cloud can be shut down with a Minor Action, providing access to those nanites for other abilities.
+
+An Obsidian Cloud has its own Matrix Condition Monitor equal to assigned Nanite Volume x 2. If this Condition Monitor gets filled, the Obsidian Cloud is derezzed, and the nanites running it are temporarily shut down and unavailable. Nanites reboot as a rate of 1 point per combat round, becoming available to the Monad immediately at the start of the combat round. 
+
+Individual Obsidian Clouds, even those from different Monads, can merge together, each increasing the processing power of the whole. The effective Nanite Volume of the Obsidian Cloud is equal to the sum of the ratings of all merged clouds. Monads with merged Obsidian Clouds can communicate through these clouds.
+[/spoiler]
+
+[size=14pt][b]技术冲击[/b][/size]
+
+单子可以使用技术冲击，这类似于名为数据棘刺的矩阵动作。他们使用一个主要动作来攻击10米内的设备，投NV+逻辑对抗数据处理+防火墙。DV等于他们的AR/2，向上取整，加上每净成功额外1点伤害。
+
+[spoiler]
+[size=14pt][b]TECH BLAST[/b][/size]
+
+Monads can use Tech Blast, which is similar to the Data Spike Matrix Action. They use a Major Action to attack devices within 10 meters by rolling NV + Logic vs. Data Processing + Firewall. The Damage Value is equal to their Attack Rating/2, rounded up, plus 1 additional box per net hit.
+[/spoiler]
+
+[size=14pt][b]技术感染[/b][/size]
+
+单子能够使用它们的纳米体来接管和使用简单科技，如烤面包机、相机或其他具有单一的、相对简单功能的设备。单子触摸设备并决定他们想要使用的纳米体数量来分配NV到设备。这种减少持续到单子从设备处召回纳米体。从设备上装载和卸载纳米体都需要花费一个次要动作。
+
+该NV用于进行NVx2对抗防火墙x2(延续，每战斗轮)检定获得用户访问权限，再投一次用于获得管理员访问权限。这一系列的投骰类似于针对设备的刺探目标。一旦纳米体拥有管理员访问权限，该设备就可以由单子控制。
+
+[spoiler]
+[size=14pt][b]TECH INFESTATION[/b][/size]
+
+Monads are able to use their nanites to take over and use simple tech like toasters, cameras, or other devices that have a single, relatively simple function. The Monad touches the device and decides what quantity of nanites they want to use by assigning a Nanite Volume to the device. This reduction lasts until the Monad calls the nanites back from the device. A Minor Action is required both to load and unload nanites from a device. 
+
+The NV is used make an NV x 2 vs. Firewall x 2 (Extended, 1 Combat Round) test to gain User access, and another such roll is used to gain Admin access. This series of rolls is similar to a Probe hack against the device. Once the nanites have Admin access, the device can be controlled by the Monad.
+[/spoiler]
+
+[table]
+[tr][td][b]道具[/b][/td][td][b]可获得性[/b][/td][td][b]花费[/b][/td][/tr]
+[tr][td]纳米体[/td][td]5I[/td][td]1500新元/NV[/td][/tr]
+[/table]
+
+[spoiler]
+[table]
+[tr][td][b]ITEM[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Nanites[/td][td]5I[/td][td]1,500¥/NV[/td][/tr]
+[/table]
+[/spoiler]
+
+* 摘自SR6e战役书 Whisper Nets
