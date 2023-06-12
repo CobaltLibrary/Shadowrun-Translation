@@ -1,0 +1,188 @@
+[center][b][size=24pt][color=maroon]接入点 JACKPOINT[/color][/size][/b][/center]
+
+[quote]
+正在连接到Jackpoint VPN…
+…伪造矩阵访问ID
+…生成加密密钥
+…链接到洋葱路由
+>登录：************
+>输入密码：************
+…生物识别扫描确认
+已连接到<ERROR：未知节点>
+
+[spoiler]
+Connecting Jackpoint VPN... 
+...Matrix Access ID Spoofed 
+...Encryption Keys Generated 
+...Connected to Onion Routers 
+>Login 
+************
+>Enter Passcode
+************
+...Biometric Scan Confirmed 
+Connected to < ERROR: NODE UNKNOWN >
+[/spoiler]
+[/quote]
+
+[size=14pt][i]“人工智能比不上自然愚蠢”[/i][/size]
+
+[spoiler]
+“Artificial intelligence is no match for natural stupidity.”
+[/spoiler]
+
+[quote]
+[size=18pt][b][color=maroon]接入点 JackPoint[/color][/b][/size]
+
+[b]欢迎回到接入点，小子；[/b]
+
+[b]你上一次切断链接是在16小时23分钟42秒前。[/b]
+
+[b]接入点统计：[/b]
+
+[b]目前线上有57名活跃用户[/b]
+
+[b]最新消息：[/b]
+
+* <置顶> 这个私人p2p MoSoSo网络仍在beta测试中，所以请原谅混乱并向我报告任何故障。——FastJack
+
+* <080670> 本周，我与一些值得信赖的超链者朋友共同进行了一次安全审计，以了解该网络如何抵御超链者/网精攻击。请记录你遇到的任何错误并发给我。——FastJack
+
+[b]个人通知：[/b]
+
+* 你有600条新私人消息
+
+* 你有5条新的转发、匿名、已净化的消息，来自“在你的脑海中，入侵你的大脑”
+
+* 你的接入点帖子有2个新回复
+
+* 你已经下载了1667个音乐文件
+
+* 附近有一个DeathMatch3K的化身向你发起决斗挑战
+
+[b]最高等级[/b]
+
+你已向所有联系人隐身。
+
+[b]你目前的声誉分数: [/b]44 (96%积极)
+
+[b]当前时间: [/b]2070年8月2日05时27分
+
+[spoiler]
+[size=18pt][b][color=maroon]JackPoint[/color][/b][/size]
+
+Welcome back to Jackpoint, omae; 
+
+your last connection was severed: 16 hours, 23 minutes, 42 seconds ago
+
+[b]JACKPOINT STATS [/b]
+
+[b]52 users currently active in the network[/b]
+
+[b]LATEST NEWS[/b]
+
+* <sticky> This private p2p MoSoSo network is still in beta-test, so pardon the mess and report any glitches to me. — FastJack
+
+* <080670> I’m conducting a security audit this week—along with some trusted technomancer friends—to see how well this network holds up against technomancer/sprite hacks. Please log any bugs you experience and send them to me.—FastJack
+
+[b]PERSONAL ALERTS[/b]
+
+* You have 600 new private messages
+
+* You have 5 new re-routed, anonymized, sanitized messages from “In UR Head, Hacking UR Brain”
+
+* You have 2 new responses to your Jackpoint posts
+
+* You have finished downloading 1667 music files
+
+* A DeathMatch3K avatar in the immediate vicinity has challenged you to a duel
+
+[b]FIRST DEGREE[/b]
+
+You are hidden from all contacts.
+
+[b]Your Current Rep Score: [/b]44 (96% Positive)
+
+[b]Current Time: [/b]August 7, 2070, 0527
+[/spoiler]
+[/quote]
+
+[quote]
+[b]今日注意事项[/b]
+
+在过去的一年里，关于超链者引起了反反复复相当之多的争论，甚至在接入点网络中也是如此。我在Emergence标签下整理了相关的新闻条目、聊天记录和线上讨论，以便参考。[color=brown][链接][/color][color=brown][嘉宾][/color]
+
+[spoiler]
+[b]TODAY’S HEADS UP[/b]
+
+The technomancer controversy has created quite a bit of back and forth over the past year, even here among the Jackpoint network. I’ve compiled the relevant news items, chats, and flamewars under the Emergence tag for easy reference. [color=brown][Link][/color] [color=brown][Guests][/color]
+[/spoiler]
+[/quote]
+
+[quote]
+[b]传入消息[/b]
+
+* Clockwork和Picador正在收集一些关于最新枪支，玩具和载具的有趣事实。[color=brown][标签：Arsenal][/color]
+
+* 刚从一个漂亮、宁静、安全、封闭的社区结束你的工作假期归来？回顾一下你最喜欢的商务区域。[color=brown][标签：Corporate Enclaves][/color]
+
+* 准备好升级了吗？在你再次冒险拜访那个可疑的殖装医生之前，看看我们即将推出的个人科技增强入门套装。[color=brown][标签：Augmentation][/color]
+
+[spoiler]
+[b]INCOMING[/b]
+
+* Clockwork and Picador are scraping together some fun facts on the latest guns, toys, and vehicles. [color=brown][Tag: Arsenal][/color]
+
+* Just back from a working vacation in a nice, quiet, secure, gated community? Review your fave biz zones here. [color=brown][Tag: Corporate Enclaves][/color]
+
+* Ready for an upgrade? Before you risk your parts with that shady cyberdoc again, check out our upcoming primer on personal technological enhancements. [color=brown][Tag: Augmentation][/color]
+[/spoiler]
+[/quote]
+
+[quote]
+[b]头条新闻[/b]
+
+* 澳新联盟镇暴部队今天被派去镇压巴布亚新几内亚一个偏远山村的暴力骚乱。报道称，这一局面据称是由暗影狂奔者和一个以泛人类为祭品的邪教组织之间的枪战引发的。[color=brown][链接][/color]
+
+* 私人特工试图从开普敦的私掠者手中夺回一艘700英尺长的阿兹特科技速运货船，但进展不佳。虽然普洛托斯号货轮被成功夺取，但它还没来得及离开港口就遭到破坏，部分沉没了。[color=brown][链接][/color]
+
+* 普韦布洛当局正在调查在洛杉矶郊区突袭黑帮藏身处后发现的一处重要炸药仓库。警方认为，该团伙计划用炸药破坏科维纳防洪堤，该防洪堤阻止洪水进入居民区。[color=brown][链接][/color]
+
+* 安保科技国际在发现其最新的安保更新(被数十万用户下载)被特洛伊木马程序感染后，警告其客户立即更新其防火墙软件。安保科技公司正在进行内部安全审计，以确定恶意软件是如何被植入的。[color=brown][链接][/color]
+
+[spoiler]
+[b]TOP NEWS ITEMS[/b]
+
+* ANZAC counterinsurgency troops were sent to quell a violent disturbance in a remote mountainous village in Papua New Guinea today. Reports indicate the situation was allegedly sparked by a gun battle between shadowrunners and a cult practicing metahuman sacrifices. [color=brown][Link][/color]
+
+* An attempt by private operatives to repossess the Aztec Express, a 700-foot cargo vessel, from privateers in Cape Town fared poorly. Though the Proteus freighter was successfully commandeered, it was sabotaged and partially sunk before it could leave the harbor. [color=brown][Link][/color]
+
+* Pueblo authorities are investigating a significant cache of explosives discovered after a raid on a gang hideout on the outskirts of Los Angeles. Police believe the gang was planning on using the explosives to breach the Covina Floodwall, which holds floodwaters back from residential areas. [color=brown][Link][/color]
+
+* SecuriTech International is warning its customers to immediately update their firewall software after discovering that its latest security update—downloaded by hundreds of thousands of users—had been infected with a trojan horse program. SecuriTech is holding an internal security audit to determine how the malicious software was inserted. [color=brown][Link][/color]
+[/spoiler]
+[/quote]
+
+[quote]
+[b]浮现______________________[/b]
+[b]特邀嘉宾：[/b]<无>
+
+[b]带有“浮现”标签的发帖/文件：[/b]
+* 系统异常
+* 启示录
+* 魔女狩猎
+* 新生的机械之灵
+[更多]
+
+[spoiler]
+[b]Emergence___________________[/b]
+[b]Invited Guests:[/b] <none>
+
+[More]
+[b]Posts/Files tagged with "Emergence":[/b]
+* System Anomalies 
+* Revelations 
+* Witch Hunt 
+* The Soul of a New Machine
+[More]
+[/spoiler]
+[/quote]
