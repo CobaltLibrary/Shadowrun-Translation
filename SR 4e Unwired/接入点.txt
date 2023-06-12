@@ -24,7 +24,6 @@ Connected to < ERROR: NODE UNKNOWN >
 [/spoiler]
 [/quote]
 
-
 [size=14pt][i]破坏的冲动是一种创造性的冲动。[/i][/size]
 
 [spoiler]
@@ -43,7 +42,8 @@ Connected to < ERROR: NODE UNKNOWN >
 [b]目前线上有57名活跃用户[/b]
 
 [b]最新消息：[/b]
-<ERROR> 新闻当前不可用 <ERROR>
+
+<ERROR> 新闻推送当前不可用 <ERROR>
 
 [b]个人通知：[/b]
 
@@ -56,11 +56,12 @@ Connected to < ERROR: NODE UNKNOWN >
 * 你的处理器限制已达到总容量的97%
 
 [b]最高等级[/b]
+
 <ERROR> 最高等级当前不可用 <ERROR>
 
-[b]你目前的声誉分数: 57 (95%积极)[/b]
+[b]你目前的声誉分数: [/b]57 (95%积极)
 
-[b]当前时间: 2071年5月9日22时18分[/b]
+[b]当前时间: [/b]2071年5月9日22时18分
 
 [spoiler]
 [size=18pt][b][color=maroon]JackPoint[/color][/b][/size]
@@ -69,23 +70,30 @@ Welcome back to Jackpoint, omae;
 
 your last connection was severed: 1 hour, 50 minutes, 1 second ago
 
-[b]JACKPOINT STATS 57 users currently active in the network[/b]
+[b]JACKPOINT STATS [/b]
+
+[b]57 users currently active in the network[/b]
 
 [b]Latest News[/b]
+
 * <ERROR> Newsfeed currently unavailable.
 
 [b]Personal Alerts[/b]
+
 *   Your messages have all been erased.
+
 *   Your Agent Smithers has crashed. Restart? Y/N
+
 *   Your Agent Scully is reporting impaired operability.
+
 *   Your processor limit is at 97% capacity
 
 [b]First Degree[/b]
 <ERROR> First Degree currently unavailable
 
-[b]Your Current Rep Score: 57 (95% Positive)[/b]
+[b]Your Current Rep Score: [/b]57 (95% Positive)
 
-[b]Current Time: May 09, 2071, 2218[/b]
+[b]Current Time: [/b]May 09, 2071, 2218
 [/spoiler]
 [/quote]
 
@@ -100,7 +108,7 @@ your last connection was severed: 1 hour, 50 minutes, 1 second ago
 
 杰克锤头已加载。
 
-你是否希望参与？是/否
+你是否希望参与？[color=brown]是[/color]/[color=brown]否[/color]
 
 [spoiler]
 [b]ComStar Firewall Alert[/b]
@@ -113,21 +121,21 @@ Trace Initiated.
 
 Jackhammer Loaded.
 
-Do You Wish to Engage? Y/N
+Do You Wish to Engage? [color=brown]Y[/color]/[color=brown]N[/color]
 [/spoiler]
 [/quote]
 
 [quote]
 [b]追踪程序已启动[/b]
 
-... 已识别代理服务器。[详情]
+... 已识别代理服务器。[color=brown][详情][/color]
 
 ... 启动代理服务器流量分析
 
 [spoiler]
 [b]Trace Initiated[/b]
 
-... Proxy Server Identified. [Details]
+... Proxy Server Identified. [color=brown][Details][/color]
 
 ... Initiating Proxy Server Traffic Analysis
 [/spoiler]
@@ -163,18 +171,18 @@ Do You Wish to Engage? Y/N
 
 [quote]
 [b]无线______________________[/b]
-[b]特邀嘉宾：Otaku-Zuku Inbus[/b]
+[b]特邀嘉宾：[/b]Otaku-Zuku Inbus
 
 [b]带有“无线”标签的发帖/文件：[/b]
 * 傻瓜式矩阵指南
-* 黑客手册
-* 超链者 
+* [url=https://www.goddessfantasy.net/bbs/index.php?topic=128342.0]黑客手册[/url]
+* [url=https://www.goddessfantasy.net/bbs/index.php?topic=128333.0]超链者[/url]
 * 矩阵现象
-[更多]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=128321.0][更多][/url]
 
 [spoiler]
 [b]unwired___________________[/b]
-[b]Invited Guests Otaku-Zuku Inbus[/b]
+[b]Invited Guests: [/b]Otaku-Zuku Inbus
 
 [b]Posts/Files tagged with "Unwired":[/b]
 * Idiot’s Guide to the Matrix 
