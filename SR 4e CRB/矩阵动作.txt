@@ -54,7 +54,7 @@ You disconnect from your persona. In AR, this is simply a matter of shutting dow
 
 [size=14pt][b]切换界面模式(系统)[/b][/size]
 
-你将你的感知从AR切换到VR，或者相反。注意，切换到VR会导致你的身体瘫痪，所以不要在危险的地方这样做。如果你从VR切换到AR，你可能会失去一个或多个主动性流程(第145页)。如果你的链接被黑IC的攻击锁定了(第237页)，你就不能切换界面模式。
+你将你的感知从AR切换到VR，或者相反。注意，切换到VR会导致你的身体瘫痪，所以不要在危险的地方这样做。如果你从VR切换到AR，你会失去一个或多个主动性流程(第145页)。如果你的链接被黑IC的攻击锁定了(第237页)，你就不能切换界面模式。
 
 [spoiler]
 [size=14pt][b]SWITCH INTERFACE MODE (SYSTEM)[/b][/size]
