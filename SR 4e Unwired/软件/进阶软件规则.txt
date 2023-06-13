@@ -30,7 +30,7 @@ The following programs are supplemental to the ARE examples given on p. 322, SR4
 
 [size=14pt][b]塑形工坊[/b][/size]
 
-Body Shop软件包含了广泛的ARE时尚，从服装和配饰到皮肤，头发或眼睛的颜色。大多数软件的设计是为了突出和补充你的物理服装和风格。没有钱购买最新的Evo Worldware纳米版高级定制或Spin Shop body mods?Body Shop虚拟高级定制是一种让自己穿上最新款式和样式的廉价方式，保证能吸引任何使用AR的人的注意力。当然，Body Shop的设计不受物理定律的约束，因此可以兜售在现实中不可能实现的化妆、服装和发型。美体小铺软件的价格因功能不同而有所不同，从现成的服装到设计师品牌，甚至是独特的定制化妆。许多美体小卖部的软件公司还提供订阅服务，定期更新你的软件，以新的设计库，这样你就可以跟上时尚达人的步伐。
+塑形工坊软件包含了广泛的ARE时尚，从服装、配饰到皮肤，头发或眼睛的颜色。大多数软件被设计用于突出和补充你的现实服装与风格。没钱购买最新的天演环球纳米定制时装或斯宾拉德工坊身体塑形？塑形工坊的虚拟时装是一种让自己穿上最新款式的廉价方式，保证能吸引使用AR的任何人的注意。当然，塑形工坊的设计不受物理定律的约束，因此可以兜售在现实中不可能实现的化妆、服装和发型。塑形工坊软件的价格因功能不同而有所不同，从现成的服装到设计师品牌，甚至是独特的定制外观。许多塑形工坊的软件公司还提供订阅服务，定期更新你的ARE软件来获取最新的设计库，这样你就可以跟上时尚达人的步伐。
 
 [spoiler]
 [size=14pt][b]BODY SHOP[/b][/size]
@@ -38,9 +38,9 @@ Body Shop软件包含了广泛的ARE时尚，从服装和配饰到皮肤，头�
 Body Shop software incorporates a wide range of ARE fashion, from clothing and accessories to skin, hair, or eye color. Most software is designed to accentuate and complement your physical clothing and style. Don’t have the cash for the latest Evo Worldware nanofaxed haute couture or Spin Shop body mods? Body Shop virtual couture is a cheap way to clothe oneself with the latest styles and mods, guaranteed to draw attention from anyone using AR. Body Shop designs are not bound by the laws of physics, of course, so it is possible to tout makeup, clothing, and hairstyles that wouldn’t be possible in reality. Body Shop software varies in price depending on the features and can range from off-the-shelf outfits to designer labels or even unique, customized makeovers. Many Body Shop software houses also offer subscription services that regular update your ARE software with a new library of fresh designs, so you can keep up with the fashionistas.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]字形[/b][/size]
 
-字形是特定的软件“物品”或艺术品。普通的符号包括你不可能在其他AE软件包中找到的对象-例如，一个虚拟武器的军火库，一组虚拟的飞行剪刀，围绕你周围，或你自己的虚拟太阳系轨道世界和卫星。字形通常作为其他程序的附加组件出售，例如为你的虚拟宠物设计的皮带或为你的墙壁空间软件设计的毕加索。一个不断发展的行业提供专门设计的字形艺术作品，通常是根据用户的需求定制的，或提供有限数量的收藏，通常带有设计艺术家的水印签名。
+字形是特定的软件“物品”或艺术品。普通的字形包括你不太可能在其他AE软件包中找到的对象-例如，一个虚拟武器的军火库，一组环绕在你周围的虚拟飞行剪刀，或是你专属的虚拟太阳系轨道世界和卫星。字形通常作为其他程序的附加组件出售，例如为你的虚拟宠物设计的皮带或为你的墙壁空间软件设计的毕加索艺术。一个不断发展的行业提供专门设计的字形艺术作品，通常是根据用户的愿望进行定制，或提供有限数量的收藏，通常带有设计艺术家的水印签名。
 
 [spoiler]
 [size=14pt][b]GLYPHS[/b][/size]
@@ -48,9 +48,9 @@ Body Shop software incorporates a wide range of ARE fashion, from clothing and a
 Glyphs are specific software “items” or artwork. Ordinary glyphs include objects that you are unlikely to find available in other AE software packages—for example, an arsenal of virtual weaponry, a pack of virtual flying scissors that follow you around, or your own personal virtual solar system of orbiting worlds and moons. Glyphs are often sold as add-ons for other ARE programs, such as a designer leash for your Virtual Pet or a Picasso for your Wall Space software. A growing industry offers specially designed glyph art pieces, often customized to the user’s desire or offered in collectable limited amounts, typically carrying a watermark signature from the designing artist.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]否决[/b][/size]
 
-Negator软件试图“编辑”掉任何“不需要的”用户程序。对于古怪的人，患有某些恐惧症的人，或不喜欢被小人打扰的势利者来说，Negator软件将隐藏，面具，或用其他AR感官输入涂抹他们想要否定的任何东西。
+否决软件试图“编辑”掉任何“非必要的”用户程序。对于那些古怪的人，患有某些恐惧症的人，或不喜欢被小人打扰的势利者来说，否决软件将隐藏，遮盖，或用其他AR感官输入涂抹掉他们想要否定的任何东西。
 
 [spoiler]
 [size=14pt][b]NEGATOR[/b][/size]
@@ -58,9 +58,9 @@ Negator软件试图“编辑”掉任何“不需要的”用户程序。对于�
 Negator software seeks to “edit out” anything the user programs in as “undesirable.” Perfect for eccentrics, people suffering from certain phobias, or snobs who don’t like to be bothered by the little people, Negator software will hide, mask, or blot out with other AR sensory input whatever they wanted negated.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]伶[/b][/size]
 
-Ractives是“interactive”的常用缩写。一般来说，这些都是虚拟角色或宠物的编程外壳，可以由增强感官的演员(所谓的“演员”)控制，并以订阅的方式扮演它们。虽然该软件还不够复杂，还不能真正“跳到”外壳中，但“主人”和“互动者”之间的即时环境和社会数据交换，使现实主义达到了一个新的水平，这超越了普通虚拟宠物和虚拟人的编程，它们的反应和行为模式有限。
+伶是“交互”一词的常用缩写。[color=green](注：此处指原文)[/color]一般来说，这些都是虚拟化身或宠物的编程外壳，可以由拟感增强的演员(所谓的“伶”)实际控制，并以订阅的方式扮演它们。虽然该软件还没有复杂到可以实际“跳入”外壳中，但“主人”和“伶”之间的即时环境和社交数据交换，使得真实性达到了一个新的水平，这超越了普通虚拟宠物和虚拟伴侣的编程，它们的反应和行为模式有限。
 
 [spoiler]
 [size=14pt][b]RACTIVES[/b][/size]
@@ -68,9 +68,9 @@ Ractives是“interactive”的常用缩写。一般来说，这些都是虚拟�
 Ractives is a common used abbreviation for “interactives.” In general, these are programmed shells of virtual persona or pets that can are actually controlled by simsense-boosted actors (so-called “ractors”) that play them in a subscription-based manner. Although the software is not sophisticated enough yet to actually “jump into” the shell, the instant exchange of environmental and social data between the “host” and the ractive allows a new level of realism that goes beyond the programming of ordinary virtual pets and virtual persons, which have a limited array of responses and behavioral patters.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]香神[/b][/size]
 
-有没有想过无论你走到哪里都是玫瑰的芬芳?嗅觉软件将实现这一梦想。一个令人愉快、舒适和微妙的气味库将为任何具有能够处理嗅觉数据的AR界面的人带来欢乐。知名度较低的软件公司一直在出售气味软件，以满足更不寻常的口味和恋物癖，从某些食物的气味到动物的气味再到内衣的气味。
+有没有想过无论你走到哪里都是玫瑰的芬芳？香神软件将实现这一梦想。一个令人愉快、舒适和含蓄的气味库将为任何拥有能够处理嗅觉数据的AR界面的人带来欢乐。知名度较低的软件公司一直在出售香神软件以满足更不寻常的口味和恋物癖，从某些食物的气味到动物的气味再到内衣的气味。
 
 [spoiler]
 [size=14pt][b]Scentsation[/b][/size]
@@ -82,11 +82,11 @@ Ever wished that everywhere you went smelled like roses? Scentsation software wi
 
 [table]
 [tr][td][b]AR环境软件[/b][/td][td][b]可获得性[/b][/td][td][b]花费[/b][/td][/tr]
-[tr][td]Body Shop[/td][td]——[/td][td]50-500¥ + 10-100¥/月[/td][/tr]
-[tr][td]Glyphs[/td][td]——[/td][td]20-5,000¥[/td][/tr]
-[tr][td]Negator[/td][td]4[/td][td]100¥[/td][/tr]
-[tr][td]Ractives[/td][td]4[/td][td]1,000¥ + 200¥/月[/td][/tr]
-[tr][td]Scentsation[/td][td]——[/td][td]50¥[/td][/tr]
+[tr][td]塑形工坊[/td][td]——[/td][td]50-500¥ + 10-100¥/月[/td][/tr]
+[tr][td]字形[/td][td]——[/td][td]20-5,000¥[/td][/tr]
+[tr][td]否决[/td][td]4[/td][td]100¥[/td][/tr]
+[tr][td]伶[/td][td]4[/td][td]1,000¥ + 200¥/月[/td][/tr]
+[tr][td]香神[/td][td]——[/td][td]50¥[/td][/tr]
 [/table]
 
 [spoiler]
@@ -103,200 +103,220 @@ Ever wished that everywhere you went smelled like roses? Scentsation software wi
 
 ---
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=16pt][b]合法软件vs盗版软件[/b][/size]
 
+从软件供应商或在线市场以正常的商业方式购买的软件被认为是合法软件。虽然购买软件通常不需要买方进行验证，但实际安装程序需要接受许可协议、注册和在制造商的矩阵站点激活软件组件，其中涉及SIN验证和真实性交叉对照。由于盗版和非法文件共享的威胁，基于SIN的软件注册是一种通用的安全特性。
 
+在游戏中，合法注册的软件同时配备了拷贝保护和注册程序选项(见第115页)。请注意，所有常见程序(分析、浏览、指令、编辑、加密、杀毒、现实过滤器和扫描)、代理、自动软件、技能软件和根据基本软件规则与价格购买的商业操作系统(见第225-228页和320-322页，SR4)都被认为是默认包含这些选项的合法软件。如果在游戏中通过通讯链购买合法软件时使用了一个伪造的ID，GM可以要求进行ID检查(第260页，SR4)，验证系统等级为2-4。
+
+除了黑客之外，蜘蛛和矩阵安全专家使用的合法受限软件(主要是矩阵护甲，生物反馈过滤器，攻击，数据炸弹，解密，拆除，ECCM, 医疗, 核打击, 嗅探, 欺骗, 隐匿和追踪)通常通过特殊的在线供应商出售。同样的情况也发生在使用火器或重武器的准军事自动软件和技能软件上。除了正常的ID检查外，用户还必须出示合法的执照。如果角色想要使用假执照合法地获得软件，GM可以要求对执照进行额外的验证检定。
+
+正版软件的优势在于它会定期更新和打补丁。这些补丁包括安全功能(常规漏洞修复和补丁)、反病毒和广告软件保护(病毒和垃圾邮件库更新)，以及任何其他增强功能(软件更新、新版本、AR界面和图标改进)，使它们的当前编程和安全状态保持最新。
+
+在游戏中，正版软件不会像盗版软件那样降级(见第109页)，但当用于非法骇入攻击时，会留下数据踪迹(见注册，第115页)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=16pt][b]LEGAL VS. PIRATED SOFTWARE[/b][/size]
 
+Software purchased by normal, commercial means from software vendors or online market places is considered legal software. Although the purchase of software usually does not require verification by the buyer, the actual installation of the program requires the acceptance of license agreements, registration, and activation of software components by the manufacturer’s Matrix site that involves SIN validation and authenticity cross-referencing. Due to the threat of piracy and illegal filesharing, SIN-based software registry is a universal security feature. 
+
+In game-terms, legal registered software is equipped with both the Copy Protection and the Registration program options (see p. 115). Note that all Common programs (Analyze, Browse, Command, Edit, Encrypt, Purge, Reality Filter, and Scan), agents, autosofts, skillsofts, and commercial operating systems acquired by the basic software rules and prices (see pp. 225–228 and 320–322, SR4) are considered legal software that include these options by default. If bought during the game with a commlink that is linked to a forged ID, gamemasters may call for an ID check (p. 260, SR4) with a verification system rating of 2–4. 
+
+Legal restricted software (mostly Armor, Biofeedback Filter, Attack, Data Bomb, Decrypt, Defuse, ECCM, Medic, Nuke, Sniffer, Spoof, Stealth, and Track) that is used by spiders and Matrix security specialists in addition to hackers is usually sold via special online vendors. The same is true for paramilitary autosofts and skillsofts that involve the use of firearms or heavy weaponry. In addition to the normal ID check, users must produce a legal license. The gamemaster may call on an additional verification test for the license if the character wants to acquire the software legally using a fake license. 
+
+The advantage of legal software is that it is regularly updated and patched. These patches include security features (regular exploit fixes and patches), anti-virus and adware protection (virus and spam library updates), and any other enhancements (updates, new versions, AR interface and iconography improvements) that bring them up-to-date with the current state of programming and security.
+
+In game terms. legal software does not degrade in the way as pirated software (see p. 109), but leaves a datatrail when used illegally for hacking (see Registration, p. 115).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]盗版软件[/b][/size]
 
+盗版软件，也就是拷贝保护和激活/验证反盗版机制被破解绕过的程序通常经由盗版厂商站点进行分发(见盗版，第94页)。虽然盗版软件的优点是没有链接到注册的SIN，但它们不会像正版软件那样自动更新和打补丁。未经注册和确认副本是合法和许可的，该软件不被授权连接到制造商的更新站点。
 
+在游戏中，非法和盗版软件——以及角色自己编写的程序(第118页)——随着时间的推移而退化，反映出程序正在慢慢过时。骇入程序和恶意软件以每月1级的速度退化；其他所有项目每2个月降低1级。
+
+要规避或防止其实用程序退化，黑客有三种选择。首先，有编程资源的熟练黑客可以自己给程序打补丁(参见第118页)。其次，那些与盗版厂商站点有联系的人可以去寻找更新的盗版拷贝。第三，胆大的黑客当然总是可以选择直接攻击公司的补丁节点，为自己和他们的人脉窃取补丁。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]PIRATED SOFTWARE[/b][/size]
 
+Pirated software—i.e. programs whose copy-protection and activation/validation anti-piracy mechanisms have been bypassed through cracking—are usually distributed by warez sites (see Piracy, p. 94). While pirated programs have the advantage of not being linked to a registered SIN, they are not automatically updated and patched in the same manner as legal software. Without registration and the confirmation that the copy is legitimate and licensed, the software is not authorized to connect to the manufacturer’s update sites. 
+
+In game terms, illegal and pirated software—and also programs that a character has coded himself (p. 118)—degrade over time, reflecting that the program is slowly becoming outdated. Hacking and malware programs degrade at the rate of 1 rating point per month; all other programs degrade 1 rating point per 2 months. 
+
+To circumvent or prevent degradation of their utilities, hackers have three options. First, skilled hackers with programming resources can patch programs (see Patching, p. 118) on their own. Second, those that have connections to warez sites can go looking for an updated pirated copy. Third, daredevil hackers of course always have the option of hacking the corporate patching nodes directly to steal the patch for themselves and their contacts.
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[quote]
+[size=14pt][b]服务器端程序[/b][/size]
 
+服务器端程序是从一个节点、网络或枢纽加载和运行的程序，它可以被大量有帐户权限的人同时使用。例如，任何访问公共图书馆枢纽的用户都可以运行枢纽的服务器端浏览程序来进行数据检索，而办公环境中的大多数帐户都可以访问常见的程序，如浏览、编辑，可能还有指令。
 
+对于节点或枢纽安全至关重要的常用程序(如分析或杀毒)通常仅限于安保或管理员帐户，以防止黑客从容易被攻击的基本帐户中干预它们。骇入程序或安保软件同样受到限制。
+
+在游戏中，具有适当帐户权限的用户可以使用这些程序而无需运行自己的程序。在这种情况下，软件不会计入用户的处理器限制(参见第48页)，但会计入节点的处理器限制。如果这些程序被用于任何非法企图，它会留下相同的数据踪迹，与黑客使用合法注册的软件一样。
+
+虽然服务器端程序的每个应用程序都可以被单独崩溃，但黑客也可以通过骇入+攻击(防火墙+系统，1分钟)延续检定使枢纽安装的整个套件崩溃，尽管当程序出现系统故障时通常都会引起怀疑。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]SERVER-SIDE PROGRAMS[/b][/size]
 
+Server-side programs are programs loaded and run from a node, network, or nexus, which can be used at the same time by a large number of people that have the account privileges to do so. Any user who is, for instance, accessing a public library nexus is able to run the nexus’s server-side browse routine to do data searches, while most accounts in an office environment have access to common programs such as Browse, Edit, and possibly Command. 
+
+Common use programs that are vital for node or nexus security (like Analyze or Purge) are often limited to security or admin accounts, to prevent hackers from meddling with them from an easilyhacked basic account. Hacking or security software is similarly restricted. 
+
+In game terms, a user with the appropriate account privileges can use these programs without running their own. In this case, the software does not count towards the user’s processor limit (see p. 48), but it does count towards the node’s processor limit. If these programs are used in any illegal attempt, it leaves the same datatrail as if the hacker was using legal registered software. 
+
+While each application of a server-side program can be crashed individually, hackers can also crash the whole nexus-installed suite with a Hacking + Attack (Firewall + System, 1 minute) Extended Test, though this usually raises suspicions when programs start to malfunction systemically.
+[/spoiler]
+[/quote]
+
+---
+
+[size=16pt][b]检测软件[/b][/size]
+
+如果一个角色不小心，他购买到的东西可能会比他所期望的更多，特别是从不值得信任的黑市商人或公司走狗那里得到的一些代码。非法(有时是合法的)购买的软件可能带有未宣传或不想要的程序选项，被病毒感染，或可能是他要求的实用程序的过时或故障版本。
+
+为了检测一个程序是否为角色所认为的，或者确定他正在处理的是哪种程序，角色必须分析它，这需要一个软件+分析的简单检定。成功数决定了他在问题中获得了多少关于程序的信息，如检测程序表中所指出的。
+
+为了检测程序中的病毒，必须获得等于病毒等级一半的成功数(见病毒，第120页)。
+
+[spoiler]
+[size=16pt][b]VERIFYING SOFTWARE[/b][/size]
+
+If a character is not careful, he may purchase more than what he bargained for, especially if scoring some code from an untrustworthy black marketeer or corporate lackey. Illegally (and sometimes legally) purchased software may come with unadvertised and unwanted program options, be infested with viruses, or may be an outdated or glitchy version of the utility he asked for. 
+
+To verify that a program is what the character thinks it is or to determine what kind of program he is dealing with, he must analyze it, requiring a simple Software + Analyze Success Test. The number of hits determines how much information he gains about the program in questions, as noted on the Verifying Programs Table, p. 109. 
+
+In order to detect a virus in a program, a number of hits equal to half the virus’s rating must be scored (see Viruses, p. 120).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[quote]
+[b]检测程序表[/b]
 
-
+[table]
+[tr][td][b]成功数[/b][/td][td][b]获悉信息[/b][/td][/tr]
+[tr][td]1[/td][td]程序的性质和类型[/td][/tr]
+[tr][td]2[/td][td]程序等级[/td][/tr]
+[tr][td]3[/td][td]是否存在程序选项(每额外成功数+1)，包括选项等级[/td][/tr]
+[tr][td]4[/td][td]检测代码错误和BUG[/td][/tr]
+[tr][td]5+[/td][td]制造商或程序员(如果存在署名)加上程序可能提供的任何进一步信息[/td][/tr]
+[/table]
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[b]VERIFYING PROGRAMS TABLE[/b]
 
+[table]
+[tr][td][b]HITS[/b][/td][td][b]INFORMATION LEARNED[/b][/td][/tr]
+[tr][td]1[/td][td]The nature and type of the program[/td][/tr]
+[tr][td]2[/td][td]The program’s rating[/td][/tr]
+[tr][td]3[/td][td]Existence of program options (+1 per additional hit) including option ratings[/td][/tr]
+[tr][td]4[/td][td]Detect code error and bugs[/td][/tr]
+[tr][td]5+[/td][td]Manufacturer or programmer (if signed) plus any further information that the program may provide[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+---
+
+[quote]
+[size=14pt][b]可选规则：开源软件与自由软件[/b][/size]
+
+[size=12pt][b]开源软件[/b][/size]
+
+尽管超企们正在积极地发动一场反开源运动的矩阵战争，试图将其打压为一种边缘现象，但开源软件确实存在。开源软件基本上是指在某种许可证下源代码可以随时获得的计算机软件，该许可证允许用户使用、更改和改进软件，并以修改或未修改的形式重新发布软件。它通常以一种公开的、协作的方式开发，尽管来自开源的程序不像那些大规模营销和大量宣传的企业同行那样为人所知。由于企业法庭矩阵管理局拒绝共享矩阵基础设施的某些代码元素(隐藏在大型企业专利之后长达数十年)，而这些代码元素是程序应当与之交互的，借此企业有效地减少了开源软件的频率。
+
+在游戏中，开源软件被认为是合法软件，能够以50%的价格低价购买，既没有拷贝保护，也没有注册程序选项。开源软件降级的方式与盗版软件相同，因为它往往不能定期更新。
+
+或者，由盗版厂商组织生产的开源软件可以免费交易或更定期地进行修补，只要黑客角色保持与盗版厂商的联系并为该组织做出贡献。对于他的每份贡献，黑客都可以下载一些程序，其数量等于该人脉的忠诚等级。
+
+GM可以通过裁定某些程序选项不可用于这些程序来进一步限制开源软件，通过将这些程序的最高等级限制在4级，或通过使该等级取决于与盗版厂商接触的联系等级。
+
+[size=12pt][b]自由软件[/b][/size]
+
+自由软件是一种受版权保护的计算机软件，可以无限制地免费使用，不过创作者通常保留对程序源代码的控制权以备将来开发使用。
+
+在游戏中，自由软件带有拷贝保护程序选项，但没有注册程序选项，玩家角色可以免费获得它们。由于自由软件是基于非营利的基础编写的，而单个程序员或小型编程组织的资源是有限的，自由软件程序的最高等级被限制为4。自由软件也会像盗版软件一样退化。
+
+与开源软件类似，GM可以通过禁止某些程序选项来进一步限制这些程序。
+
+[spoiler]
+[size=14pt][b]OPTIONAL RULE: FREEWARE AND OPEN SOURCE PROGRAMS[/b][/size]
+
+[size=12pt][b]OPEN SOURCE PROGRAMS[/b][/size]
+
+Though the megacorporations are actively waging a Matrix war against the open source movement, knocking it down to a fringe phenomenon, open source programs do exist. Open source software is basically computer software whose source code is readily available under a certain license that permits users to use, change, and improve the software, and to redistribute it in modified or unmodified form. It is often developed in a public, collaborative manner, though programs originating from open source are less commonly known than their corporate counterparts that are massmarketed and heavily advertised. With the Corporate Court Matrix Authority refusing to share certain code elements of the Matrix infrastructure (hiding behind megacorporate patents for decades) with which programs are supposed to interact, corporations have effectively reduced the frequency of open source programs. 
+
+In game terms, open source programs are considered legal software that can be cheaply bought with a 50% reduction in price and which have neither the Copy Protection nor the Registration program options. Open source software degrades in the same manner as pirated software, as it tends to be updated on an irregular basis. 
+
+Alternatively, open source programs produced by warez groups might be traded for free or patched up more regularly, as long as the hacker character maintains a warez contact and contributes to the group. For each piece he contributes, the hacker may download a number of programs equal to the contact’s Loyalty rating. 
+
+Gamemasters may further limit open source programs by ruling that certain program options are not available for these programs, by capping the maximum limits of these programs at a rating of 4, or by making the rating dependent on the warez contact’s Connection rating.
+
+[size=12pt][b]FREEWARE[/b][/size]
+
+Freeware is copyrighted computer software that is made available for use free of charge for an unlimited time, though creators often retain control of the program’s source code for future development. 
+
+In game terms, freeware programs carry the Copy Protection program option but not the Registration option and they can be acquired by player characters at no cost. Since freeware is coded on a non-profit basis, and the resources of single programmers or small programming groups are limited, freeware programs are limited to a maximum rating of 4. Freeware also degrades like pirated software.
+
+Similar to open source programs, gamemasters may further limit these programs by disallowing certain program options.
+[/spoiler]
+[/quote]
+
+---
+
+[size=16pt][b]自主程序[/b][/size]
+
+与其他软件不同的是，在矩阵中，代理具有独立于控制化身的独特能力。这种自主运作产生了几个问题，这里要解决这些问题。虽然我们在大多数情况下指的是代理，但除非另有说明，否则这些规则也适用于其他自主实体，如网精、AI(第165页)和电子幽灵(第170页)。
+
+[spoiler]
+[size=16pt][b]AUTONOMOUS PROGRAMS[/b][/size]
+
+Unlike other software, agents have the unique ability to operate independently of their controlling persona in the Matrix. This sort of autonomous operation raises several issues which are addressed here. Though we refer to agents in most cases, unless otherwise noted these rules also apply to other autonomous entities such as sprites, AIs (p. 165), and e-ghosts (p. 170).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]节点移动与账户[/b][/size]
 
+为了使代理独立于控制其的化身进行运作，它必须加载到化身可以访问的节点中。代理像任何矩阵用户一样登录到一个帐户(使用密码或利用漏洞)，并拥有该帐户应用的任何权限。代理的程序实际上运行在这个节点上(不再运行在化身的节点上)，因此计算到该节点的处理器限制(第48页)。同样，代理在其有效载荷中携带的任何其他程序也必须运行，因此也将计入处理器限制。
 
+与任何矩阵用户一样，代理可以同时访问多个节点。根据通常规则，其他节点必须通过密码访问或被骇入。代理只加载在一个节点上，尽管它与其他节点交互，但不需要复制和加载。事实上，未经修改的合法代理无法以这种方式复制自己。
+
+代理可以移动到另一个节点，这被视为将自己加载到新节点上，并将自己从旧的节点上卸载并注销。取代移动的是，具有复制自动软件且没有拷贝保护的代理可以将自己复制到它所访问的另一个节点上，产生一个新版本的代理(请注意，网精，AI和电子幽灵，作为“活”数字实体，无法以这种方式复制自己)。由于拷贝保护，合法的和未经修改的代理不能复制自己(移动到另一个节点不计入复制，因为作为移动过程的一部分，代理在以前的节点上被删除)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]NODE MOVEMENT AND ACCOUNTS[/b][/size]
 
+For an agent to operate independently of its controlling persona, it must be loaded into a node the persona has access to. The agent logs into an account like any Matrix user (either using passcodes or exploits) and has whatever privileges that account applies. The agent’s software is actually running on this node (not on the persona’s node any more), and so counts towards the node’s processor limit (p. 48). Likewise, any other programs the agent is carrying in its payload must also be running, and so also count towards the processor limit. 
+
+Like any Matrix user, the agent can access multiple nodes at once. Other nodes must be accessed with passcodes or hacked, per normal rules. The agent remains loaded on only one node, however—though it interacts with other nodes, it does not need to be copied and loaded on them. In fact, legal unmodified agents are incapable of copying themselves in this manner. 
+
+The agent may move to another node, which constitutes loading itself onto the new node and unloading itself and logging off from the old one. Rather than moving, an agent with the Replicate autosoft and without copy protection may copy itself onto another node it has accessed, spawning a new version of the agent (note that sprites, AIs, and eghosts, as “living” digital entities, are incapable of copying themselves this way). Legal and unmodified agents are not capable of copying themselves due to copy protection (moving to another node does not count as copying because the agent is erased from the previous node as part of the moving procedure).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]访问ID[/b][/size]
 
+与矩阵用户不同，代理和其他自主程序不通过设备访问矩阵，因此不会为它们分配访问ID。相反，每个自主程序都有一个内置的访问ID，类似于软件序列号。当登录到节点并与其他程序交互时使用此ID，因此该访问ID也可以被用于通过矩阵追踪代理的活动，就像黑客的数据踪迹一样。
 
+代理的访问ID可以被欺骗(参见欺骗数据踪迹，第224页，SR4)，但只有当它被加载到节点上时才会被欺骗。一旦运行，即使代理移动并加载到另一个节点上，也不能切换访问ID(因为代理必定已经在此过程中使用其访问ID访问了新节点)。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]ACCESS ID[/b][/size]
 
+Unlike Matrix users, agents and other autonomous programs do not access the Matrix via a device, and so they are not assigned an access ID. Instead, each autonomous program has a built-in access ID, sort of a software serial number. This ID is used when logging into nodes and interacting with other programs, and so it may be used to track the agent’s activity through the Matrix, just like a hacker’s datatrail. 
+
+An agent’s access ID may be spoofed (see Spoofing the Datatrail, p. 224, SR4), but only when it is being loaded onto a node. Once running, the access ID may not be switched, not even if the agent moves and loads onto another node (as the agent must already have accessed the new node, using its access ID in the process).
 [/spoiler]
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]复制代理与ID[/b][/size]
 
+请注意，当复制代理程序时，内置到代理中的访问ID也会被复制。这意味着代理的任何副本都将具有相同的访问ID。当黑客从他的化身同时运行这样的副本时(因为在这种情况下使用了他的访问ID)，或者副本在独立节点中自主操作时，这都不是问题。但是，如果副本试图访问一个节点，而该节点上已经运行了具有相同访问ID的代理，则该节点将自动拒绝访问(即使代理试图以骇入方式访问，尝试也将自动失败)。这种安保特性既可以阻止盗版，也可以防止傻瓜代理的大规模入侵(即所谓的“代理史密斯”场景)。
 
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
+复制的代理可以通过进行逻辑+软件(评级x 3,1周)延续检定来打补丁，以便给它一个单独的唯一访问ID。
 
 [spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=14pt][b]COPIED AGENTS AND IDS[/b][/size]
 
-[/spoiler]
+Note that when an agent program is copied, the access ID built into the agent is copied as well. This means that any copies of the agent will have the same access ID. This is not a problem when a hacker is running such copies simultaneously from his persona (as his access ID is used in that case), or if the copies are operating autonomously in independent nodes. If a copy tries to access a node on which an agent with the same access ID is already running, however, the node will automatically refuse access (even if the agent tries to hack his way in, the attempt will automatically fail). This security feature both deters piracy and prevents mass invasions by agent mooks (the so-called “Agent Smith” scenario). 
 
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-[/spoiler]
-
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
-
-
-[spoiler]
-[size=14pt][b]XXXXXXXXXXXXX[/b][/size]
-
+A copied agent may be patched in order to give it a separate unique access ID with a Logic + Software (Rating x 3, 1 week) Extended Test.
 [/spoiler]
