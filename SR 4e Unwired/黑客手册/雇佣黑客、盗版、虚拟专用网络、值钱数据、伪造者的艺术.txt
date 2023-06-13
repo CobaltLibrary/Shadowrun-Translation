@@ -298,8 +298,10 @@ When the character attempts to transfer the counterfeit nuyen (either to an onli
 [i]Kat uses her fake credstick to pay her 300¥ bar tab at Aces. The rating of the forgery is 2, and Aces has a Rating 2 verification system. Rolling for her character, Kat’s player scores a 3 and a 6; the gamemaster rolls a 2 and 4 for the verification system. Looks like Kat’s faux cred passes… this time.[/i]
 [/spoiler]
 
+[quote]
+[size=12pt][b]伪造阈值表[/b][/size]
+
 [table]
-[tr][td][b]伪造阈值表[/b][/td][/tr]
 [tr][td][b]伪造种类[/b][/td][td][b]阈值[/b][/td][td][b]时间间隔[/b][/td][/tr]
 [tr][td]伪造公司券[/td][td](等级 x 20)[/td][td]1天[/td][/tr]
 [tr][td]伪造游戏币[/td][td](等级 x 16)[/td][td]1小时[/td][/tr]
@@ -310,8 +312,9 @@ When the character attempts to transfer the counterfeit nuyen (either to an onli
 [/table]
 
 [spoiler]
+[size=12pt][b]FORGERY TABLE[/b][/size]
+
 [table]
-[tr][td][b]FORGERY TABLE[/b][/td][/tr]
 [tr][td][b]Forgery[/b][/td][td][b]Threshold[/b][/td][td][b]Interval[/b][/td][/tr]
 [tr][td]Fake Corpscrip[/td][td](Rating x 20)[/td][td]1 day[/td][/tr]
 [tr][td]Fake Game Credits[/td][td](Rating x 16)[/td][td]1 hour[/td][/tr]
@@ -321,6 +324,7 @@ When the character attempts to transfer the counterfeit nuyen (either to an onli
 [tr][td]Fake SIN[/td][td](Rating x 32)[/td][td]1 week[/td][/tr]
 [/table]
 [/spoiler]
+[/quote]
 
 [quote]
 [size=12pt][b]伪造其他货币[/b][/size]
@@ -340,7 +344,7 @@ A very few backward places in the Sixth World even rely on physical mediums of e
 
 [size=12pt][b]可选规则：伪造SIN或ID[/b][/size]
 
-伪造系统识别码(SIN)需要大量的资源，而这是大多数暗影狂奔者所没有的；伪造者必须生成确证数据并将其插入若干政府和企业的数据库，而这些数据库的名称和地址不为公众所知。从事假SIN和假ID交易的中间人与团体已经建立了在发行机构工作的渠道和联系，从而拥有多个进入必要数据库的后门。即便如此，制作高等级的假SIN也是一个冗长而昂贵的过程，而且这也是一个非常私人化的过程，涉及到根据假SIN的等级添加个人信息和生物特征数据的程度。独立的黑客和超链者可以伪造他们自己的SIN，但如果没有联系人和后门，这个过程比买一个假SIN要长得多，也更加困难。GM在允许玩家的黑客角色尝试制造SIN之前应该三思，因为这可能会导致失衡。以下规则由GM自行决定。
+伪造系统识别号码(SIN)需要大量的资源，而这是大多数暗影狂奔者所没有的；伪造者必须生成确证数据并将其插入若干政府和企业的数据库，而这些数据库的名称和地址不为公众所知。从事假SIN和假ID交易的中间人与团体已经建立了在发行机构工作的渠道和联系，从而拥有多个进入必要数据库的后门。即便如此，制作高等级的假SIN也是一个冗长而昂贵的过程，而且这也是一个非常私人化的过程，涉及到根据假SIN的等级添加个人信息和生物特征数据的程度。独立的黑客和超链者可以伪造他们自己的SIN，但如果没有人脉和后门，这个过程比买一个假SIN要长得多，也更加困难。GM在允许玩家的黑客角色尝试制造SIN之前应该三思，因为这可能会导致失衡。以下规则由GM自行决定。
 
 创建一个假SIN或假执照(参见合法性，第303页，SR4)需要矩阵访问(通过通讯链，终端，或超链者的先天能力)和伪造+编辑的延续检定(参见伪造表，第95页)。假SIN和假执照有一个从1到6的等级，这决定了它们在验证系统中的表现(参见假身份证，第260页，SR4)。一旦创建，假SIN或执照及其确证数据必须被官方数据库接受，这需要一系列的系统入侵和同节点的骇入+编辑(系统等级，1小时)的对抗检定；由GM决定目标系统的等级，他可以选择一一执行这些对抗检定，或者用骇入+编辑(假SIN等级 x 系统等级，1小时)的延续检定对它们进行快速结算。
 
