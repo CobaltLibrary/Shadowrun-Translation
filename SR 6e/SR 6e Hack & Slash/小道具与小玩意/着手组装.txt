@@ -1,0 +1,487 @@
+[color=brown][size=16pt][b]着手组装[/b][/size][/color]
+
+当设计一个定制赛博碟板时，需要以下组件:
+
+[spoiler]
+[color=brown][size=16pt][b]GETTING DOWN TO WORK[/b][/size][/color]
+
+When designing a custom cyberdeck, the following components are required:
+[/spoiler]
+
+[size=14pt][b]核心[/b][/size]
+
+核心代表了一个由相互连接的处理器和数据存储芯片组成的错综复杂的集群，它完成了所有的繁重工作，并将赛博碟板的所有组件连接在一起。该组件提供赛博碟板的设备等级。单独的攻击性或隐匿性模块的等级不能高于碟板的设备等级×2。
+
+[spoiler]
+[size=14pt][b]CORE[/b][/size]
+
+The core represents a tangled cluster of interconnected processor and data storage chips that do all the hard work and tie all of a cyberdeck’s components together. This component provides the cyberdeck’s Device Rating. The rating of an individual Attack or Sleaze module cannot be higher `than the deck’s Device Rating x 2.
+[/spoiler]
+
+[size=14pt][b]核心插槽[/b][/size]
+
+赛博碟板有许多可用的核心插槽，数量等于它的设备等级x3。每个自定义组件占用一个或多个核心插槽，任何连接的其他设备也是如此。注意有多少核心插槽被你赛博碟板的组件所占据，因为这减少了你可以连接到你碟板的PAN的无线(和有线)设备数量。
+
+[spoiler]
+[size=14pt][b]CORE SLOTS[/b][/size]
+
+A cyberdeck has a number of available core slots equal to its Device Rating x 3. Each custom component takes up one or more core slots, but so do any connected devices. Note how many core slots are taken up by all of your cyberdeck’s components, because this reduces how many wireless (and wired) devices you can connect to your deck’s PAN.
+[/spoiler]
+
+[size=14pt][b]攻击性模块[/b][/size]
+
+[color=purple][b]核心插槽：等级/3 (向上取整)[b][/color]
+
+攻击性模块是一套处理器和芯片，装载了所有最新的——以及久经考验的——硬件工具，用于破解代码，压溃防火墙，产生数量惊人的虚假数据。这个组件提供了与它等级相等的攻击性。
+
+[spoiler]
+[size=14pt][b]ATTACK MODULE[/b][/size]
+
+[color=purple][b]Core Slots: Rating/3 (round up)[b][/color]
+
+The attack module is a suite of processors and chips loaded with all the latest—as well as tried-and-true—hardware tools for cracking codes, overwhelming firewalls, and generating obscene amounts of false data. This component provides an Attack attribute equal to its rating.
+[/spoiler]
+
+[size=14pt][b]隐匿性模块[/b][/size]
+
+[color=purple][b]核心插槽：等级/3 (向上取整)[b][/color]
+
+隐匿性模块是一套包含有密码库、防火墙漏洞攻击和隐形工具的芯片套件。这个组件提供了与它等级相等的隐匿性。
+
+[spoiler]
+[size=14pt][b]SLEAZE MODULE[/b][/size]
+
+Core Slots: Rating/3 (round up)
+
+The sleaze module is a kit of chips prepped with password libraries, firewall exploits, and stealth tools. This component provides a Sleaze attribute equal to its rating.
+[/spoiler]
+
+---
+
+[size=14pt][b]机箱[/b][/size]
+
+每个赛博骇入器和赛博碟板都需要一个机箱来容纳和保护其内部组件。这些东西都是不合法的，所以大多数设计都是为了掩盖其本质。一些碟客喜欢让他们的碟板尽可能紧凑，而另一些人则使用RCC、通讯链或更有创意的机箱设计来将它们隐藏在明处。因此存在大量的非常规机箱改造。极具时髦感的键他正是为此目的，但有些甚至会进一步添加武器或其他设备。通常，较大的机箱是为了同时容纳赛博骇入器和赛博碟板而设计的，而拥有赛博插口殖装的碟客只需随身携带较小的设备即可。
+
+[spoiler]
+[size=14pt][b]CASES[/b][/size]
+
+Every cyberhack and cyberdeck needs a case to house and protect its internal components. None of these things are legal, and so most are designed to disguise their nature. Some deckers prefer to make their cyberdeck as compact as possible, while others hide them in plain sight using a case design from an RCC, a commlink, or a more creative option. And then there are the gonzo case mods. Keytars are in high fashion for this purpose, but some go even further to add weapons and other devices. Usually the larger cases are designed to house both a cyberhack and a cyberdeck, while deckers who have the cyberjack augmentation can get away with only having to carry around the smaller device.
+[/spoiler]
+
+[size=14pt][b]机箱容量[/b][/size]
+
+机箱容纳了赛博碟板或赛博骇入器的所有组件，但这不会耗尽所有容量。此外，机箱还集成了电源系统、简易触摸屏和键盘手控界面，以及两个通用数据接口(其中一个必须用于将设备连接到数据接口、赛博插口、赛博骇入器或赛博碟板)。任何进一步的机箱改造都会占用容量。机箱的类型决定了改造的可用容量。最常见的机箱改造是添加额外的通用数据接口从而允许更多直连。
+
+[spoiler]
+[size=14pt][b]CASE CAPACITY[/b][/size]
+
+A case contains all of the cyberdeck or cyberhack’s components, which do not use up capacity. Also incorporated into the case automatically are the power supply system, a simple touchscreen and keypad manual interface, and two universal dataports (one of which must be used to connect the device to a datajack, cyberjack, cyberhack, or cyberdeck). Any further case modifications take up capacity. The type of case determines the available capacity for modifications. The most common case modification adds additional universal dataports, which allow for more direct connections.
+[/spoiler]
+
+[size=12pt][b]面包盒机箱[/b][/size]
+
+“面包盒”是一个俚语，指的是使用较廉价或过时的组件组装而成的赛博碟板或赛博骇入器，将所有组件以有线连接与黑客技术组装在一起，用数量大于质量的方法使它们发挥作用。面包盒机箱的赛博碟板或赛博骇入器是不便于携带的。它占用的空间至少和一台旧台式电脑一样多，但大多是占据整个房间的杂乱无章的设备。设置或拆卸一个面包盒单元需要一个小时，如果设置不正确，它就完全无法使用。面包盒机箱的优势是，任意赛博碟板或赛博骇入器的硬件新元成本降低50%。你还可以进行实际上无限容量地机箱改造。这个选项也适用于家庭通讯链系统(通常称为数据终端)，而巨型企业通常将赛博碟板安装在更大的终端上，以降低其被盗的风险(通常称为赛博终端)。
+
+[spoiler]
+[size=12pt][b]BREADBOX CASE[/b][/size]
+
+A breadbox case is a slang term for a cyberdeck or cyberhack built with cheaper or out-of-date components, wired and hacked together to make them functional using a quantity-over-quality approach. A breadbox case cyberdeck or cyberhack is not portable. It takes up at least as much space as an old desktop computer, but most are sprawling affairs of devices that take up a whole room. It takes an hour to set up or break down a breadbox unit, and it’s utterly useless when not properly set up. The advantage of a breadbox case is that the nuyen cost for any of the cyberhack and cyberdeck hardware is reduced by fifty percent. You also have effectively unlimited capacity for case modifications. This option can also apply to home commlink systems (commonly called dataterms), and megacorporations often use cyberdecks installed into larger terminals to make them less vulnerable to theft (commonly called cyberterms).
+[/spoiler]
+
+[size=12pt][b]公文包机箱[/b][/size]
+
+一个大型公文包大小的机箱有时可以融入周围环境，但它也很显眼，不容易隐藏。选用这种机箱的最常见原因是它可以充裕地容纳赛博骇入器和赛博碟板。在商业环境中通过成功的影响(礼仪)+魅力(2)检定，它们就不会被注意到。如果你的着装适合该场合，你就可以在这个检定中获得极限。在其他环境中，大多数人都会对包里的东西感到好奇。大多数人会放它通过，但警卫、黑帮或狂奔者肯定会起疑心。
+
+如果公文包机箱里只有一个赛博碟板，它的可用容量为12。
+
+[b]赛博骇入器：[/b]该类型机箱可以容纳一个赛博骇入器，一个赛博碟板和剩余的6可用容量。
+
+[spoiler]
+[size=12pt][b]BRIEFCASE[/b][/size]
+
+A large briefcase-sized case can sometimes blend in, but it also stands out and is not easily concealed. The most common reason to go with this type of case is that it can comfortably house both a cyberhack and a cyberdeck. In a business environment, they easily go without notice with a successful Influence (Etiquette) + Charisma (2) test. You gain an Edge on this test if you are dressed to fit the role. In other environments, most people will become curious about what’s in the case. Most people will let it go, but guards, gangers, and runners are bound to be suspicious.
+
+If the briefcase houses only a cyberdeck, its available capacity is 12. 
+
+[b]Cyberhacks: [/b]This type of case can house a cyberhack, with room for a cyberdeck and 6 capacity.
+[/spoiler]
+
+[size=12pt][b]通讯链机箱[/b][/size]
+
+标准机箱通常是由废弃通讯链重新改造利用的，尽管如果手头没有现成的话，它也可以轻松地打印出来并组装而成。这种机箱选项已成为大多数定制赛博碟板的标准规格。它便宜，易得，具有合理的容量，并且是最简单的伪装方式。标准机箱的容量是4。除非碟客通过可疑行为或非法矩阵动作引起注意，否则即使是最警惕的保安也不会对这些机箱眨一下眼睛。通讯链机箱通常小到可以装进你的口袋，甚至可以放在赛博义肢的走私仓里。
+
+[b]赛博骇入器：[/b]这种机箱对于容纳赛博骇入器来说太小了。
+
+[spoiler]
+[size=12pt][b]COMMLINK CASE[/b][/size]
+
+The standard case is commonly repurposed from a discarded commlink, though they’re easy enough to print off and put together if none is on hand. This case option has become the standard for most custom cyberdecks. It’s cheap, easy to acquire, has a reasonable capacity, and is the simplest way to disguise them. A standard case has a capacity of 4. Unless a decker draws attention through suspicious behavior or illegal Matrix actions, not even the most alert security guard will bat an eye at one of these. A commlink case is typically small enough to fit in your pocket, or even a cyberlimb smuggling compartment.
+
+[b]Cyberhacks: [/b]This type of case is much too small to house a cyberhack.
+[/spoiler]
+
+[size=12pt][b]非常规机箱[/b][/size]
+
+非常规机箱是一种古怪的定制事物，通常是一种不明智的骇入设备与装备的组合，如火焰喷射器或战斗斧。实际上你可以将赛博骇入器或赛博碟板机箱构建到，或者更确切地说，任何你喜欢的东西内部或表面，而代价是容量和隐蔽性。赛博碟板机箱几乎可以安装在任何重型手枪大小或更大的设备上。赛博骇入器较大，只适用于笨重的物体，如双手武器。无论哪种情况，你都不能在潜行或欺骗检定中获得或花费极限来隐藏你的非法技术设备，甚至不能试图将其伪装成任何合法的东西。
+
+不论该机箱是用于赛博骇入器、赛博碟板还是赛博骇入器/赛博碟板组合，可用容量都为2。该容量几乎总是分配给非常规机箱硬化改造。
+
+[spoiler]
+[size=12pt][b]GONZO CASE[/b][/size]
+
+Gonzo cases are bizarre custom jobs, usually an unwise hacked-together combination of devices such as a flamethrower or combat axe. You can effectively build a cyberhack or cyberdeck case into, or rather more onto, pretty much anything you like at the expense of capacity and concealability. A cyberdeck case can be worked into nearly any device roughly the size of a heavy pistol or larger. A cyberhack is big and only works with bulky objects such as two-handed weapons. Whatever the case, you cannot gain or spend Edge on a Stealth or Con test to conceal your illicit tech, and don’t even bother trying to pass one off as anything remotely legal. 
+
+Whether or not this case is for a cyberhack, cyberdeck, or cyberhack/cyberdeck combo, the available capacity is 2. This capacity is almost always allocated for the gonzo hardening case mod.
+[/spoiler]
+
+[size=12pt][b]键他机箱[/b][/size]
+
+键他(Keytar)是呆子和坏蛋的结合体，这使它们成为那些有态度的碟客的完美选择。这些机箱既可以容纳赛博骇入器，也可以容纳赛博碟板，但更重要的是包括一套音乐键盘、合成器和高清晰度扬声器系统。这些东西在觉醒之前就已经存在了，并且是第一批便携式赛博碟板的流行灵感。更多的变化，对吧，狂奔者？
+
+赛博碟板专用的键他机箱有10的可用容量。
+
+[b]赛博骇入器：[/b]这种情况是指赛博骇入器/赛博碟板组合。可用容量为4，如果你去掉合成器组件，它会增加到8。但说真的，你为什么要这么做？
+
+[spoiler]
+[size=12pt][b]KEYTAR CASE[/b][/size]
+
+Keytars are equal parts dorky and badass, which makes them the perfect fit for deckers with attitude. These cases are designed to house both a cyberhack and a cyberdeck, but more importantly include a musical keyboard, synthesizer, and high-definition speaker system. These things have been around since before the Awakening and were a popular inspiration for some of the first portable cyberdecks. Plus ça change, eh, chummer? 
+
+A keytar case just for a cyberdeck has an available capacity of 10.
+
+[b]Cyberhacks: [/b]This type of case was meant for a cyberhack/cyberdeck combo. Available capacity is 4, but if you remove the synthesizer components, it goes up to 8. But seriously, why would you do that?
+[/spoiler]
+
+[size=12pt][b]RCC机箱[/b][/size]
+
+使用来自RCC的机箱具有通讯链机箱的一些优点，但它们往往更笨重。你可以把它挂在你的外套下或放在一个挎包里，但它们不像通讯链那样适合放在口袋里。也就是说，额外的体积为配件和机箱改造提供了较多的容量。然而，人们会认为你有无人机可用。如果保安起了疑心，你将必须通过欺骗+魅力的判断意图对抗检定，才能把它无害化。RCC机箱的可用容量为8。然而，如果你希望在机箱中也容纳一个功能性RCC(因为无人机也很有趣！)，则可用容量减少到2。
+
+[b]赛博骇入器：[/b]这种类型的机箱几乎装不下赛博骇入器。如果你使用RCC机箱来容纳赛博骇入器，那么它将没有空间容纳功能性RCC或赛博碟板，也没有剩余空间进行机箱改造。
+
+[spoiler]
+[size=12pt][b]RCC CASE[/b][/size]
+
+Using a case from an RCC has some of the advantages of a commlink case, but they tend to be bulkier. You can sling one under your jacket or carry it in a satchel, but they don’t exactly fit in your pocket like a commlink can. That said, the extra bulk provides a lot of capacity for accessories and case mods. However, people will think you have drones available. If security becomes suspicious, you may have to pass a Con + Charisma test opposed by Judge Intentions to pass it off as harmless. An RCC case has a capacity of 8. However, if you would like the case to include a functional RCC (because drones are fun, too!), the capacity is reduced to 2. 
+
+[b]Cyberhacks: [/b]This type of case can barely fit a cyberhack. If you use an RCC case to house a cyberhack instead, it will have no room for a functional RCC or cyberdeck and no capacity for case mods.
+[/spoiler]
+
+[size=12pt][b]可穿戴机箱[/b][/size]
+
+与其将你的赛博碟板组件都放在一个紧凑的机箱中，还不如将它们分解成许多较小的模块，通过数据线进行连接。这引发了服装和装甲的创新设计，包含了数据线、连接端口和组件屏蔽口袋。赛博碟板可以设计为一个特殊的护甲改造，缺点是额外的可用容量为0。这样做的好处是，除非你被彻底搜查，否则你的非法赛博碟板就会被完全隐藏起来。即使在传感器扫描中，这也不会被认为是不寻常或可疑的技术，通常都会被误认为是常见的生物监测系统。这种机箱需要对衣服或盔甲进行特殊的改造。对于服装机箱，将新元成本加到全套服装成本上。如果你想把它内置到你的护甲中，它占用1容量(护甲容量)。
+
+[b]赛博骇入器：[/b]该类型机箱不适用于赛博骇入器。可穿戴式赛博骇入器是一个塞进背包的赛博骇入器。
+
+[spoiler]
+[size=12pt][b]WEARABLE CASE[/b][/size]
+
+Instead of having your cyberdeck components all together within a compact case, you can break them up into a number of smaller modules that are designed to connect via data cables. This has led to the innovation of designing clothing and armor with cables, connection ports, and shielded pockets for components. A cyberdeck can be designed to slot into a special armor modification with the drawback of zero additional capacity. The benefit is that unless you are thoroughly searched, your illegal cyberdeck gains complete concealment. Even on sensor scans, this does not stand out as unusual or suspicious technology, usually mistaken for commonly worn biomonitor systems. This case requires specially modified clothing or armor. In the case of clothing, add the nuyen cost to any outfit. If you’d like to have it built into your armor, it takes up 1 capacity (armor capacity). 
+
+[b]Cyberhacks: [/b]This case type is not available for cyberhacks. A wearable cyberhack is a cyberhack stuffed into a backpack.
+[/spoiler]
+
+---
+
+[size=14pt][b]机箱改造[/b][/size]
+
+机箱改造是完全可选的，但你打算如何使用可用容量呢？
+
+[spoiler]
+[size=14pt][b]CASE MODIFICATIONS[/b][/size]
+
+Case modifications are completely optional, but what else are you going to use that capacity for?
+[/spoiler]
+
+[size=12pt][b]额外接口[/b][/size]
+
+每个额外的通用数据接口花费1可用容量
+
+[spoiler]
+[size=12pt][b]ADDITIONAL JACKS[/b][/size]
+
+Each additional universal dataport takes up 1 capacity.
+[/spoiler]
+
+[size=12pt][b]内置配件[/b][/size]
+
+如果你想要一个内置配件，如3D投影仪、打印机、传感器或其他配件，则所需的容量为其等级或2，以较高者为准。如果该物品有列出的容量要求，如赛博义肢或护甲改造，则适用于机箱改造。请注意，这些设备中大多数仍可以通过无线或直接连接的方式连接到你的设备，但内置配件的优点是不计入设备限制或核心插槽。
+
+[spoiler]
+[size=12pt][b]BUILT-IN ACCESSORY[/b][/size]
+
+If you want a built-in accessory such as a trid projector, printer, sensor, or other gadget, the capacity required is its rating or 2, whichever is higher. If the item has a listed capacity requirement, such as for cyberlimb or armor mods, that applies instead. Note that many of these devices can still be connected and used by your device wirelessly or via direct connection, but built-in devices have the advantage of not counting against the device limit or core slots of a cyberdeck.
+[/spoiler]
+
+[size=12pt][b]飞镖发射器[/b][/size]
+
+一个隐蔽的飞镖发射器可以被安装在机箱内，每发射击只占用1可用容量。该发射器可以装填一发普通的注射镖来发射摄入物或毒素，一发泰瑟镖造成4S(e)伤害，甚至一发数据阀(见下文的阀箭)。使用飞镖发射器需要异种远程武器技能，并使用与其他飞镖发射器相同的专精。攻击等级:8/8/-/-/-。
+
+[spoiler]
+[size=12pt][b]DART LAUNCHER[/b][/size]
+
+A concealed dart-launcher can be installed in a case for only one capacity per shot. This launcher can be loaded with a normal injection dart to deliver a drug or toxin, a taser dart that deals 4S(e) damage, or even a data tap (see arrow tap below). Using the dart launcher requires the Exotic Weapons skill and is covered under the same specialization as other dart launchers. Attack Rating: 8/8/—/—/—.
+[/spoiler]
+
+[size=12pt][b]非常规硬化[/b][/size]
+
+这种修改通常只用于将武器和赛博骇入器结合在一起的非常规机箱。它具有与硬化改造相同的效果，此外，你可以自由地使用你的箱子进行近战攻击和格挡，而不会有损坏内部电子器件的危险。这需要占用2可用容量。
+
+[spoiler]
+[size=12pt][b]GONZO HARDENING[/b][/size]
+
+This modification is usually only used for gonzo cases incorporating weapons and cyberhacks together. It has the same effect as the hardening modification, with the addition that you can freely make melee attacks and blocks using your case with no danger of damage to internal electronics. This takes up 2 capacity.
+[/spoiler]
+
+[size=12pt][b]硬化[/b][/size]
+
+你的硬件受到很好的保护，不会受到物理伤害。除非你的硬件被特意攻击或被用作近战武器，否则你永远不必担心它受到物理伤害，即使是来自爆炸或极限坠落。此项改造占用1可用容量。
+
+[spoiler]
+[size=12pt][b]HARDENING[/b][/size]
+
+Your hardware is well-protected from physical harm. Unless your hardware is specifically targeted by an attack or used as a melee weapon, you never have to worry about it taking Physical damage, even from explosions or extreme falls. This modification takes up 1 capacity.
+[/spoiler]
+
+[size=12pt][b]电击盾[/b][/size]
+
+花费一个次要动作，或满足预编程条件时，你的机箱会放出剧烈电击，影响任何接触它的东西。当这种情况发生时你的系统会瞬间关机，如果你正在接入，这就会导致甩致休克(如果你正在接触设备，情况会更糟)。内部屏蔽与自动关机相结合，可以防止对内部电子设备的损坏，而数据线的外部屏蔽可以防止将电击传输回你的硬件或其他连接设备。任何接触外壳的人或事物将受到6S的电击伤害。更高功率的系统和更大容量的电容器能够产生更强的电击。基本系统占用4可用容量。系统每增加1占用容量，就增加2S(e)的伤害，最多增加到14S(e)。每次使用后系统必须充电，通过矩阵无线充电需要1小时，通过电源线充电需要1分钟。
+
+[spoiler]
+[size=12pt][b]SHOCK SHIELD[/b][/size]
+
+With a Minor Action, or under pre-programmed conditions, your case will discharge a powerful electric shock affecting anything touching it. When this occurs, your system will shut down abruptly, causing dumpshock if you are jacked in (and worse if you are touching the device). Internal shielding combined with the auto shutdown prevents damage to internal electronics, and the outer shielding of your data cable prevents transmission of the shock back to your headware or other connected devices. Anyone or anything touching the outer case will take 6S electrical damage. More powerful systems with larger capacitors are capable of dealing a stronger shock. The basic system takes up 4 capacity. For each additional 1 capacity allocated to this system, increase the damage by +2S(e), to a maximum of 14S(e). After each use, the system must be recharged, which requires one hour via wireless Matrix recharge or one minute via power cable.
+[/spoiler]
+
+---
+
+[size=14pt][b]可选组件[/b][/size]
+
+[size=12pt][b]内置程序位[/b][/size]
+
+[b]核心插槽：1/每个[/b]
+
+程序位是一种数据存储设备和处理器芯片，它增强了赛博碟板运行赛博程序的能力。定制赛博碟板一开始就拥有数量与其设备等级相等的程序位，但你能够以牺牲核心插槽为代价增加更多程序位。每个额外的内部程序位占用一个CPU端口。[color=green](前后文均未出现CPU端口，此处应为核心插槽)[/color]
+
+[spoiler]
+[size=14pt][b]OPTIONAL COMPONENTS[/b][/size]
+
+[size=12pt][b]INTERNAL PROGRAM SLOT[/b][/size]
+
+[b]Core Slots: 1 each[/b]
+
+A program slot is a data storage device and processor chip that augments a cyberdeck with the ability to run a cyberprogram. A custom cyberdeck starts with a number of program slots equal to its device rating, but you can add more at the expense of core slots. Each additional internal program slot takes up one CPU port.
+[/spoiler]
+
+[size=12pt][b]专用程序位[/b][/size]
+
+[b]核心插槽：0.5/每个[/b]
+
+专用程序位被设计用于存储和运行一某个特定赛博程序，如果不更换组件就无法更改。专用程序位运行效率更高，占用空间更少，但你不能用它来运行除它设计的那个程序以外的任何赛博程序。它们最常用于婴儿监控器或代理软件。
+
+[spoiler]
+[size=12pt][b]DEDICATED PROGRAM SLOT[/b][/size]
+
+[b]Core Slots: 0.5 each[/b]
+
+A dedicated program slot is designed to store and run a specific cyberprogram, which cant be altered without changing out the components. A dedicated program slot runs more efficiently and takes up less space, but you can’t use it to run any cyberprograms other than the one it’s designed for. These are most often used for Baby Monitor or Agent software.
+[/spoiler]
+
+[size=12pt][b]响应提升[/b][/size]
+
+[b]核心插槽：等级x2(最高3级)[/b]
+
+响应提升模块包含额外的处理器芯片，以及防止你碟板过热所需的冷却系统。它们会变得更热，但它们能提高你在矩阵上的速度，有时这就是你所需的一切。
+
+该模块每个等级都会增加你在VR模式下的主动性骰。但存在一些限制与缺陷。这些东西只有在与赛博骇入器一起使用时才能发挥作用，并且与赛博插口殖装不兼容。此外，这些东西运行时很热。当它处于激活状态时，你的任意主动性骰每掷出一个1，你的碟板就会受到一点矩阵伤害。你可以用一个次要行动来开启或关闭它，这将导致它在下一个战斗轮开始时被激活或被停用。
+
+[spoiler]
+[size=12pt][b]RESPONSE INCREASE[/b][/size]
+
+[b]Core Slots: Rating x 2 (max rating 3)[/b]
+
+A response increase module includes additional processor chips, along with the cooling systems required to prevent your deck from combusting. They get hot, but they boost your speed on the Matrix, and sometimes that’s all you need. 
+
+Each rating increases your initiative dice in VR mode. There are some limitations and drawbacks. These only function when used with a cyberhack and are incompatible with the cyberjack augmentation. Also, these things run hot. Your deck takes one box of Matrix damage for every 1 rolled on any of your initiative dice while it is active. You can turn it on or off with a Minor Action, which will cause it to activate or deactivate at the start of the next combat round.
+[/spoiler]
+
+[size=12pt][b]现实过滤器[/b][/size]
+
+[b]核心插槽：2[/b]
+
+现实过滤器被设计用于翻译所有的矩阵图像以符合程序化的审美。除了允许你使矩阵看起来像你选择的幻想世界之外，你还可以设置关键图标，让你可以更快地处理和响应你所看到的事物。如果你有一个激活的现实过滤器，并且正在使用赛博骇入器，你可以使用通常需要植入赛博插口才能使用的矩阵极限动作。这项技术的其他可能影响是通过正面或负面特质来解锁的。
+
+[spoiler]
+[size=12pt][b]REALITY FILTER[/b][/size]
+
+[b]Core Slots: 2[/b]
+
+A reality filter is designed to translate all Matrix iconography to fit a programmed aesthetic. In addition to allowing you to make the Matrix look like the fantasy world of your choosing, you’re able to set up key iconography that allows you to more quickly process and respond to what you’re seeing. If you have an active reality filter and are using a cyberhack, you may use the Matrix Edge actions that normally require an implanted cyberjack. Other possible effects of this tech are unlocked through positive and negative qualities.
+[/spoiler]
+
+[size=12pt][b]涡轮增压器[/b][/size]
+
+[b]核心插槽：1[/b][color=green](根据下方规则及表格，此处应为核心插槽：1/每级)[/color]
+
+定制碟板工匠可以在不受制造商规格或安全条例限制的情况下自由地进行实验，并且已经出现了一些设计，允许在短时间内显著提升赛博碟板的能力，但代价是可能会导致整个东西融化。那些疯狂地把这些改造加诸于他们的碟板之上的碟客们，要么非常谨慎地少量使用，要么愿意将自身投入烈火。你可以通过花费次要动作激活或停用涡轮增压器。激活或停用涡轮增压器立即生效。在激活状态下，在你的任意矩阵动作骰池中加入与涡轮增压器等级相等数量的狂野骰。每当任意一个狂野骰掷出1、5或6时，你的碟板承受一点矩阵伤害。
+
+[spoiler]
+[size=12pt][b]TURBO-CHARGER[/b][/size]
+
+[b]Core Slots: 1[/b]
+
+Custom deckmeisters have the freedom to experiment without the restrictions of manufacturer specifications or safety regulations, and a number of designs have popped up that allow for significant short-term increases to a cyberdeck’s capabilities at the expense of potentially melting the whole thing. Deckers crazy enough to strap these mods onto their deck are either very careful to use them sparingly or willing to set themselves on fire. You may activate or deactivate the turbo-charger with a Minor Action. Activating and deactivating the turbo-charger takes effect immediately. While active, add a number of wild dice to your dice pool equal to the turbo-charger’s rating on any Matrix Actions. Your cyberdeck takes one box of Matrix damage every time any of the wild dice roll a 1, 5, or 6.
+[/spoiler]
+
+---
+
+[size=14pt][b]配件[/b][/size]
+
+[size=12pt][b]外部程序载体[/b][/size]
+
+外部程序载体提供运行一个赛博程序的能力，但不足以运行代理(见下文的代理盒)。外部程序载体可以无线连接到任何赛博碟板，但大多数黑客更喜欢通过数据线直接连接它们。
+
+[spoiler]
+[size=14pt][b]ACCESSORIES[/b][/size]
+
+[size=12pt][b]EXTERNAL PROGRAM CARRIER[/b][/size]
+
+An external program carrier provides the capability to run one cyberprogram but is not powerful enough to run an agent (see agent box below). External program carriers can wirelessly connect to any cyberdeck, but most hackers prefer to connect them directly via data cable.
+[/spoiler]
+
+[size=12pt][b]赛博插口增幅器[/b][/size]
+
+如果你不介意在脑子里装一个赛博插口，为什么不更进一步呢？黑客们已经设计出了能够增强赛博插口能力的设备。它们以一种特定的方式增幅了赛博插口殖装的能力，但体积太大，无法植入。每个赛博插口增幅器必须通过数据线直连数据插口。它们的大小和常规通讯链差不多，所以它们大多都被内置在通讯链机箱中以掩盖它们的真实用途。即便如此，大多数人不会在他们拥有的通讯链间来回切换，更不用说同时连接几个了。当接入并接通电源时，赛博插口增幅器根据其类型提供奖励。数据处理或防火墙赛博插口增幅器来提高等于其等级的矩阵属性。矩阵主动性增幅器在VR模式时额外增加主动性骰，最多可增加五个主动性骰。矩阵主动性增幅器存在热积聚问题，使用五分钟后自动关闭。使用后需要一个小时才能冷却，在此期间它的温度会让人感觉不适。如果你将你的矩阵属性中的任何一项进行轮换，来自赛博插口增幅器的奖励仍会提升数据处理或防火墙属性。它不会跟随轮换以提高攻击性或隐匿性。赛博插口增幅器只对赛博插口殖装有效。它与赛博骇入器不相容。
+
+[spoiler]
+[size=12pt][b]CYBERJACK BOOSTERS[/b][/size]
+
+If you aren’t squeamish about getting a cyberjack installed in your head, why not take it even further? Hackers have designed devices that are capable of enhancing a cyberjack’s capabilities. They augment the power of a cyberjack augmentation in a specific way, but are bulky objects too large to be implanted. Each cyberjack booster must be plugged into a datajack directly via cable. They’re roughly the size of your average commlink, so most of them are built into commlink cases to disguise their true purpose. That said, most people don’t walk around jacked into the one commlink they own, let alone several at the same time. When jacked in and powered on, a cyberjack booster provides a bonus based on its type. A Data Processing or Firewall cyberjack booster improves that Matrix attribute by its rating. A Matrix Initiative booster adds its rating in additional initiative dice when in VR, up to a maximum of five initiative dice. The Matrix Initiative booster has a problem with heat build-up and shuts itself off after five minutes of use. It takes one hour for the device to cool off after use, during which time it is uncomfortably warm to the touch. If you rotate out any of your Matrix attributes, the bonus from the cyberjack booster still modifies the Data Processing or Firewall attribute. It does not rotate out to boost Attack or Sleaze. Cyberjack boosters only work with the cyberjack augmentation. They are incompatible with cyberhacks.
+[/spoiler]
+
+---
+
+[quote]
+[size=14pt][b]赛博碟板关键组件[/b][/size]
+
+[table]
+[tr][td][b]组件[/b][/td][td][b]等级[/b][/td][td][b]核心插槽[/b][/td][td][b]可获得性[/b][/td][td][b]花费[/b][/td][/tr]
+[tr][td]核心[/td][td]1-4[/td][td]-[/td][td]等级(I)[/td][td]等级 x 5,000¥[/td][/tr]
+[tr][td]核心[/td][td]5[/td][td]-[/td][td]5(I)[/td][td]50,000¥[/td][/tr]
+[tr][td]核心[/td][td]6[/td][td]-[/td][td]6(I)[/td][td]150,000¥[/td][/tr]
+[tr][td]攻击性模块[/td][td]1-4[/td][td]等级/3[/td][td]等级(I)[/td][td]等级 x 2,000¥[/td][/tr]
+[tr][td]攻击性模块[/td][td]5–8[/td][td]等级/3[/td][td]等级(I)[/td][td]等级 x 5,000¥[/td][/tr]
+[tr][td]攻击性模块[/td][td]9[/td][td]3[/td][td]9(I)[/td][td]90,000¥[/td][/tr]
+[tr][td]隐匿性模块[/td][td]1-4[/td][td]等级/3[/td][td]等级(I)[/td][td]等级 x 2,000¥[/td][/tr]
+[tr][td]隐匿性模块[/td][td]5–8[/td][td]等级/3[/td][td]等级(I)[/td][td]等级 x 5,000¥[/td][/tr]
+[tr][td]隐匿性模块[/td][td]9[/td][td]3[/td][td]9(I)[/td][td]90,000¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]机箱种类[/b][/td][td][b]可用容量 (赛博碟板/赛博骇入器)[/b][/td][td][b]可获得性[/b][/td][td][b]花费[/b][/td][/tr]
+[tr][td]面包盒机箱[/td][td]无限/无限[/td][td]2(I)[/td][td]0¥(硬件获得50%折扣)[/td][/tr]
+[tr][td]公文包机箱[/td][td]12/4 (包括赛博骇入器与碟板)[/td][td]2(I)[/td][td]200¥[/td][/tr]
+[tr][td]通讯链机箱[/td][td]4/不可用[/td][td]2(I)[/td][td]100¥[/td][/tr]
+[tr][td]非常规机箱[/td][td]2/2[/td][td]5(I)[/td][td]赛博碟板 1,000¥/赛博骇入器 5,000¥[/td][/tr]
+[tr][td]键他机箱[/td][td]10/4 (包括赛博骇入器与碟板)[/td][td]3(I)[/td][td]2,000¥[/td][/tr]
+[tr][td]RCC机箱[/td][td]8/0 (剩余空间不足以容纳碟板)[/td][td]4(I)[/td][td]500¥[/td][/tr]
+[tr][td]可穿戴机箱[/td][td]2/不可用[/td][td]4(I)[/td][td]500¥[/td][/tr]
+[/table]
+
+[size=14pt][b]可选赛博碟板组件与配件[/b][/size]
+
+[table]
+[tr][td][b]机箱改造[/b][/td][td][b]占用容量[/b][/td][td][b]可获得性[/b][/td][td][b]花费[/b][/td][/tr]
+[tr][td]额外接口[/td][td]1[/td][td]2(I)[/td][td]250¥[/td][/tr]
+[tr][td]飞镖发射器[/td][td]1/dart[/td][td]5(I)[/td][td]2,000¥ (+500¥ 每发额外飞镖)[/td][/tr]
+[tr][td]非常规硬化[/td][td]2[/td][td]4(I)[/td][td]2,000¥[/td][/tr]
+[tr][td]硬化[/td][td]1[/td][td]2(I)[/td][td]1,000¥[/td][/tr]
+[tr][td]电击盾[/td][td]4–8[/td][td]5(I)[/td][td]750¥ (+250¥ 每额外占用容量)[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]内部组件[/b][/td][td][b]等级[/b][/td][td][b]核心插槽[/b][/td][td][b]花费[/b][/td][/tr]
+[tr][td]内置程序位[/td][td]-[/td][td]1[/td][td]2,000¥[/td][/tr]
+[tr][td]专用程序位[/td][td]-[/td][td]1/2[/td][td]1,000¥ + 程序花费[/td][/tr]
+[tr][td]响应提升[/td][td]1-3[/td][td]等级 x 2[/td][td]等级 x 10,000¥[/td][/tr]
+[tr][td]现实过滤器[/td][td]-[/td][td]2[/td][td]10,000¥[/td][/tr]
+[tr][td]涡轮增压器[/td][td]1-3[/td][td]等级[/td][td]等级 x 5,000¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]配件[/b][/td][td][b]可获得性[/b][/td][td][b]花费[/b][/td][/tr]
+[tr][td]外部程序载体[/td][td]1[/td][td]150¥[/td][/tr]
+[tr][td]赛博插口增幅器[/td][td] [/td][td] [/td][/tr]
+[tr][td]数据处理[/td][td] [/td][td] [/td][/tr]
+[tr][td]等级 1[/td][td]4(I)[/td][td]5,000¥[/td][/tr]
+[tr][td]等级 2[/td][td]6(I)[/td][td]10,000¥[/td][/tr]
+[tr][td]防火墙[/td][td] [/td][td] [/td][/tr]
+[tr][td]等级 1[/td][td]4(I)[/td][td]5,000¥[/td][/tr]
+[tr][td]等级 2[/td][td]6(I)[/td][td]10,000¥[/td][/tr]
+[tr][td]矩阵主动性[/td][td] [/td][td] [/td][/tr]
+[tr][td]等级 1[/td][td]4(I)[/td][td]10,000¥[/td][/tr]
+[tr][td]等级 2[/td][td]6(I)[/td][td]25,000¥[/td][/tr]
+[/table]
+
+[spoiler]
+[size=14pt][b]CRITICAL CYBERDECK COMPONENTS[/b][/size]
+
+[table]
+[tr][td][b]COMPONENT[/b][/td][td][b]RATING[/b][/td][td][b]CORE SLOTS[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Core[/td][td]1-4[/td][td]-[/td][td]Rating(I)[/td][td]Rating x 5,000¥[/td][/tr]
+[tr][td]Core[/td][td]5[/td][td]-[/td][td]5(I)[/td][td]50,000¥[/td][/tr]
+[tr][td]Core[/td][td]6[/td][td]-[/td][td]6(I)[/td][td]150,000¥[/td][/tr]
+[tr][td]Attack Module[/td][td]1-4[/td][td]RATING/3[/td][td]Rating(I)[/td][td]Rating x 2,000¥[/td][/tr]
+[tr][td]Attack Module[/td][td]5–8[/td][td]RATING/3[/td][td]Rating(I)[/td][td]Rating x 5,000¥[/td][/tr]
+[tr][td]Attack Module[/td][td]9[/td][td]3[/td][td]9(I)[/td][td]90,000¥[/td][/tr]
+[tr][td]Sleaze Module[/td][td]1-4[/td][td]RATING/3[/td][td]Rating(I)[/td][td]Rating x 2,000¥[/td][/tr]
+[tr][td]Sleaze Module[/td][td]5–8[/td][td]RATING/3[/td][td]Rating(I)[/td][td]Rating x 5,000¥[/td][/tr]
+[tr][td]Sleaze Module[/td][td]9[/td][td]3[/td][td]9(I)[/td][td]90,000¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]CASE TYPE[/b][/td][td][b]CAPACITY (CYBERDECK/CYBERHACK)[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Breadbox Case[/td][td]Unlimited/Unlimited[/td][td]2(I)[/td][td]0¥(50% discount on hardware)[/td][/tr]
+[tr][td]Briefcase[/td][td]12/4 (includes cyberhack and deck)[/td][td]2(I)[/td][td]200¥[/td][/tr]
+[tr][td]Commlink Case[/td][td]4/Not Available[/td][td]2(I)[/td][td]100¥[/td][/tr]
+[tr][td]Gonzo Case[/td][td]2/2[/td][td]5(I)[/td][td]1,000¥ for cyberdeck/5,000¥ for cyberhack[/td][/tr]
+[tr][td]Keytar Case[/td][td]10/4 (includes cyberhack and deck)[/td][td]3(I)[/td][td]2,000¥[/td][/tr]
+[tr][td]RCC Case[/td][td]8/0 (with no room for a cyberdeck)[/td][td]4(I)[/td][td]500¥[/td][/tr]
+[tr][td]Wearable Case[/td][td]2/Not Available[/td][td]4(I)[/td][td]500¥[/td][/tr]
+[/table]
+
+[size=14pt][b]OPTIONAL CYBERDECK COMPONENTS AND ACCESSORIES[/b][/size]
+
+[table]
+[tr][td][b]CASE MODIFICATION CAPACITY[/b][/td][td][b]CAPACITY[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Additional Jacks[/td][td]1[/td][td]2(I)[/td][td]250¥[/td][/tr]
+[tr][td]Dart Launcher[/td][td]1/dart[/td][td]5(I)[/td][td]2,000¥ (+500¥ per additional dart)[/td][/tr]
+[tr][td]Gonzo Hardening[/td][td]2[/td][td]4(I)[/td][td]2,000¥[/td][/tr]
+[tr][td]Hardening[/td][td]1[/td][td]2(I)[/td][td]1,000¥[/td][/tr]
+[tr][td]Shock Shield[/td][td]4–8[/td][td]5(I)[/td][td]750¥ (+250¥ per additional capacity used)[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]INTERNAL COMPONENT[/b][/td][td][b]RATING[/b][/td][td][b]CORE SLOTS[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Internal Program Slot[/td][td]-[/td][td]1[/td][td]2,000¥[/td][/tr]
+[tr][td]Dedicated Program Slot[/td][td]-[/td][td]1/2[/td][td]1,000¥ + program’s cost[/td][/tr]
+[tr][td]Response Increase[/td][td]1-3[/td][td]Rating x 2[/td][td]Rating x 10,000¥[/td][/tr]
+[tr][td]Reality Filter[/td][td]-[/td][td]2[/td][td]10,000¥[/td][/tr]
+[tr][td]Turbo-Charger[/td][td]1-3[/td][td]Rating[/td][td]Rating x 5,000¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]ACCESSORIES[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]External Program Carrier[/td][td]1[/td][td]150¥[/td][/tr]
+[tr][td]Cyberjack Boosters[/td][td] [/td][td] [/td][/tr]
+[tr][td]Data Processing[/td][td] [/td][td] [/td][/tr]
+[tr][td]Rating 1[/td][td]4(I)[/td][td]5,000¥[/td][/tr]
+[tr][td]Rating 2[/td][td]6(I)[/td][td]10,000¥[/td][/tr]
+[tr][td]Firewall[/td][td] [/td][td] [/td][/tr]
+[tr][td]Rating 1[/td][td]4(I)[/td][td]5,000¥[/td][/tr]
+[tr][td]Rating 2[/td][td]6(I)[/td][td]10,000¥[/td][/tr]
+[tr][td]Matrix Initiative[/td][td] [/td][td] [/td][/tr]
+[tr][td]Rating 1[/td][td]4(I)[/td][td]10,000¥[/td][/tr]
+[tr][td]Rating 2[/td][td]6(I)[/td][td]25,000¥[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]

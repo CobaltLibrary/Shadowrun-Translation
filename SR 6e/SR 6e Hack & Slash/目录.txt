@@ -3,32 +3,32 @@
 [spoiler]Shadowrun 6E HACK & SLASH[/spoiler]
 
 [quote]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136535][color=brown][size=12pt][b]引言 P.5[/b][/size][/color][/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136535.0][size=12pt][b]引言 P.5[/b][/size][/url]
 
-[color=brown][size=12pt][b]私活 P.6[/b][/size][/color]
+[size=12pt][b]私活 P.6[/b][/size]
 
-[color=brown][size=12pt][b]荒野与自由 P.10[/b][/size][/color]
+[size=12pt][b]荒野与自由 P.10[/b][/size]
 观点 P.11
 读懂文字细节（盒子内的东西） P.13
 辨别它们 P.20
 为什么要保留它们？ P.22
 
-[color=brown][size=12pt][b]黑客实战指南 P.23[/b][/size][/color]
+[size=12pt][b]黑客实战指南 P.23[/b][/size]
 论坛体 P.23
 游戏信息 P.26
 
-[color=brown][size=12pt][b]小道具与小玩意 P.33[/b][/size][/color]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136574]赛博骇入器 P.33[/url]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=138912]定制赛博碟板 P.34[/url]
-着手组装 P.35
+[size=12pt][b]小道具与小玩意 P.33[/b][/size]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136574.0]赛博骇入器 P.33[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=138912.0]定制赛博碟板 P.34[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=140826.0]着手组装 P.35[/url]
 小道具 P.40
 通讯链骇入 P.43
 
-[color=brown][size=12pt][b]优雅架构 P.45[/b][/size][/color]
+[size=12pt][b]优雅架构 P.45[/b][/size]
 我们如何抵达这里 P.45
 游戏信息 P.47
 
-[color=brown][size=12pt][b]数字工具箱 P.55[/b][/size][/color]
+[size=12pt][b]数字工具箱 P.55[/b][/size]
 编写代码 P.55
 编程检定 P.55
 编程工具 P.56
@@ -36,12 +36,12 @@
 新赛博程序 P.57
 代理 P.59
 
-[color=brown][size=12pt][b]超链手段 P.62[/b][/size][/color]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136549]新复合程式 P.62[/url]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136582]新回声 P.67[/url]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136981]数据结构 P.69[/url]
+[size=12pt][b]超链手段 P.62[/b][/size]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136549.0]新复合程式 P.62[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136582.0]新回声 P.67[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=136981.0]数据结构 P.69[/url]
 
-[color=brown][size=12pt][b]网精时刻 P.72[/b][/size][/color]
+[size=12pt][b]网精时刻 P.72[/b][/size]
 新网精种类 P.72
 新网精能力 P.73
 新网精指令 P.74
@@ -50,34 +50,34 @@
 创建永久网精 P.77
 网精共生 P.79
 
-[color=brown][size=12pt][b]骇入特质 P.80[/b][/size][/color]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=137050]正面与负面特质 P.84[/url]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=138585]特质历程：赛博修士 P.86[/url]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=138907]创建特质历程 P.88[/url]
+[size=12pt][b]骇入特质 P.80[/b][/size]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=137050.0]正面与负面特质 P.84[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=138585.0]特质历程：赛博修士 P.86[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=138907.0]创建特质历程 P.88[/url]
 
-[color=brown][size=12pt][b]联盟永存 P.89[/b][/size][/color]
+[size=12pt][b]联盟永存 P.89[/b][/size]
 人多势众 P.89
 幸存的老兵 P.90
 新兵与初创者 P.94
 游戏机制 P.100
 
-[color=brown][size=12pt][b]虚拟生命 P.102[/b][/size][/color]
+[size=12pt][b]虚拟生命 P.102[/b][/size]
 初智能 P.103
 超智能 P.109
 浮现生物 P.112
 固有虚拟生命特质 P.114
 智能显现 P.116
 
-[color=brown][size=12pt][b]在根基处 P.133[/b][/size][/color]
+[size=12pt][b]在根基处 P.133[/b][/size]
 美丽新世界 P.133
 游戏信息 P.140
 
-[color=brown][size=12pt][b]无限记忆 P.147[/b][/size][/color]
+[size=12pt][b]无限记忆 P.147[/b][/size]
 超链者不应存在（根据物理学） P.147
 已知共鸣域 P.148
 游戏信息 P.156
 
-[color=brown][size=12pt][b]了解你的敌人 P.160[/b][/size][/color]
+[size=12pt][b]了解你的敌人 P.160[/b][/size]
 “神”之息 P.160
 “神”之言 P.162
 “神”之道 P.163
@@ -85,38 +85,38 @@
 IC来袭 P.164
 游戏信息 P.165
 
-[color=brown][size=12pt][b]矩阵生意 P.171[/b][/size][/color]
+[size=12pt][b]矩阵生意 P.171[/b][/size]
 世界的边缘 P.171
 这是场竞赛！ P.173
 玛丽安系统 P.176
 回到过去 P.180
 
 [spoiler]
-[color=brown][size=12pt][b]INTRODUCTION P.5[/b][/size][/color]
+[size=12pt][b]INTRODUCTION P.5[/b][/size]
 
-[color=brown][size=12pt][b]MOONLIGHTING P.6[/b][/size][/color]
+[size=12pt][b]MOONLIGHTING P.6[/b][/size]
 
-[color=brown][size=12pt][b]WILD & FREE P.10[/b][/size][/color]
+[size=12pt][b]WILD & FREE P.10[/b][/size]
 Perspectives P.11
 Reading the Fine Print (Inside the Box) P.13
 Telling Them Apart P.20
 
-[color=brown][size=12pt][b]A FIELD GUIDE TO HACKING P.23[/b][/size][/color]
+[size=12pt][b]A FIELD GUIDE TO HACKING P.23[/b][/size]
 Why Preserve Any of It? P.22
 Game Information P.26
 
-[color=brown][size=12pt][b]GADCETS & GIZMOS P.33[/b][/size][/color]
+[size=12pt][b]GADCETS & GIZMOS P.33[/b][/size]
 Cyberhacks P.33
 Custom Cyberdecks P.34
 Getting Down to Work P.35
 Gizmos P.40
 Commlink Hacks P.43
 
-[color=brown][size=12pt][b]ELEGANT ARCHITECTURE P.45[/b][/size][/color]
+[size=12pt][b]ELEGANT ARCHITECTURE P.45[/b][/size]
 How We Got Here P.45
 Game Information P.47
 
-[color=brown][size=12pt][b]DICITAL TOOL BOX P.55[/b][/size][/color]
+[size=12pt][b]DICITAL TOOL BOX P.55[/b][/size]
 Writing Code P.55
 Programming Test P.55
 Programming Tools P.56
@@ -124,12 +124,12 @@ Commlink Apps P.56
 New Cyberprograms P.57
 Agents P.59
 
-[color=brown][size=12pt][b]TECHNO TOOLS P.62[/b][/size][/color]
+[size=12pt][b]TECHNO TOOLS P.62[/b][/size]
 New Complex Forms P.62
 New Echoes P.67
 Data Structures P.69
 
-[color=brown][size=12pt][b]POINTS OF SPRITE P.72[/b][/size][/color]
+[size=12pt][b]POINTS OF SPRITE P.72[/b][/size]
 New Sprite Types P.72
 New Sprite Powers P.73
 New Sprite Commands P.74
@@ -138,35 +138,35 @@ Sprite Teamwork P.76
 Permanent Sprite Creation P.77
 Sprite Symbiosis P.79
 
-[color=brown][size=12pt][b]QUALITY HACKING P.80[/b][/size][/color]
+[size=12pt][b]QUALITY HACKING P.80[/b][/size]
 Positive Qualities P.80
 Negative Qualities P.84
 Quality Path: Cyberadept P.86
 Quality Path Creation P.88
 
-[color=brown][size=12pt][b]JNION FOREVER P.89[/b][/size][/color]
+[size=12pt][b]JNION FOREVER P.89[/b][/size]
 Strength in Numbers P.89
 Surviving Veterans P.90
 Neobytes and Startups P.94
 Game Mechanics P.100
 
-[color=brown][size=12pt][b]VIRTUAL LIFE P.102[/b][/size][/color]
+[size=12pt][b]VIRTUAL LIFE P.102[/b][/size]
 Protosapients P.103
 Xenosapients P.109
 Technocritters P.112
 Inherent Virtual Life Form Qualities P.114
 Intelligence Revealed P.116
 
-[color=brown][size=12pt][b]AT THE BASE P.133[/b][/size][/color]
+[size=12pt][b]AT THE BASE P.133[/b][/size]
 A Brave New World P.133
 Game Information P.140
 
-[color=brown][size=12pt][b]INFINITIE MEMOR P.147[/b][/size][/color]
+[size=12pt][b]INFINITIE MEMOR P.147[/b][/size]
 Technomancers Shouldn't Exist (According to Physics) P.147
 Known Resonance Realms P.148
 Game Information P.156
 
-[color=brown][size=12pt][b]KNOW YOUR ENEMY P.160[/b][/size][/color]
+[size=12pt][b]KNOW YOUR ENEMY P.160[/b][/size]
 The Breath of GOD P.160
 The Word of GOD P.162
 The Path of GOD P.163
@@ -174,7 +174,7 @@ Burning Down Divinity P.163
 The IC Man Cometh P.164
 Game Information P.165
 
-[color=brown][size=12pt][b]MATRIX BUSINESS P.171[/b][/size][/color]
+[size=12pt][b]MATRIX BUSINESS P.171[/b][/size]
 Edge of the World P.171
 It's a Races! P.173
 Marianne's Neuro(n)sis P.176
