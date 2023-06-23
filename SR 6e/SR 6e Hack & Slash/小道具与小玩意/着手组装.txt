@@ -70,7 +70,7 @@ Every cyberhack and cyberdeck needs a case to house and protect its internal com
 
 [size=14pt][b]机箱容量[/b][/size]
 
-机箱容纳了赛博碟板或赛博骇入器的所有组件，但这不会耗尽所有容量。此外，机箱还集成了电源系统、简易触摸屏和键盘手控界面，以及两个通用数据接口(其中一个必须用于将设备连接到数据接口、赛博插口、赛博骇入器或赛博碟板)。任何进一步的机箱改造都会占用容量。机箱的类型决定了改造的可用容量。最常见的机箱改造是添加额外的通用数据接口从而允许更多直连。
+机箱容纳了赛博碟板或赛博骇入器的所有组件，但这不会耗尽所有容量。此外，机箱还集成了电源系统、简易触摸屏和键盘手控界面，以及两个通用数据端口(其中一个必须用于将设备连接到数据插口、赛博插口、赛博骇入器或赛博碟板)。任何进一步的机箱改造都会占用容量。机箱的类型决定了改造的可用容量。最常见的机箱改造是添加额外的通用数据端口从而允许更多直连。[color=green](此处的“通用数据端口”原文为"universal dataports"，疑似与5e的"universal data connector"，即“通用数据连接器”为同一个东西的不同叫法)[/color]
 
 [spoiler]
 [size=14pt][b]CASE CAPACITY[/b][/size]
@@ -194,7 +194,7 @@ Case modifications are completely optional, but what else are you going to use t
 
 [size=12pt][b]额外接口[/b][/size]
 
-每个额外的通用数据接口花费1可用容量
+每个额外的通用数据端口花费1可用容量
 
 [spoiler]
 [size=12pt][b]ADDITIONAL JACKS[/b][/size]
@@ -214,7 +214,7 @@ If you want a built-in accessory such as a trid projector, printer, sensor, or o
 
 [size=12pt][b]飞镖发射器[/b][/size]
 
-一个隐蔽的飞镖发射器可以被安装在机箱内，每发射击只占用1可用容量。该发射器可以装填一发普通的注射镖来发射摄入物或毒素，一发泰瑟镖造成4S(e)伤害，甚至一发数据阀(见下文的阀箭)。使用飞镖发射器需要异种远程武器技能，并使用与其他飞镖发射器相同的专精。攻击等级:8/8/-/-/-。
+一个隐蔽的飞镖发射器可以被安装在机箱内，每发射击只占用1可用容量。该发射器可以装填一发普通的注射镖来发射摄入物或毒素，一发泰瑟镖造成4S(e)伤害，甚至一发数据阀(见下文的箭型阀)。使用飞镖发射器需要异种远程武器技能，并使用与其他飞镖发射器相同的专精。攻击等级:8/8/-/-/-。
 
 [spoiler]
 [size=12pt][b]DART LAUNCHER[/b][/size]
