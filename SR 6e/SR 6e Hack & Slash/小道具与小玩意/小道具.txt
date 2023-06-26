@@ -1,0 +1,217 @@
+[color=brown][size=16pt][b]小道具[/b][/size][/color]
+
+[size=14pt][b]数据阀[/b][/size]
+
+数据阀是小型的手持设备，带有各种连接器，被设计用于允许使用者直连访问另一个设备或网络。标准数据阀是合法技术人员的常用工具，但黑客会将其用于更邪恶的目的。众所周知，直连设备更容易被骇入。
+
+[spoiler]
+[color=brown][size=16pt][b]GIZMOS[/b][/size][/color]
+
+[size=14pt][b]DATA TAPS[/b][/size]
+
+Data taps are small, handheld devices with a variety of connectors designed to allow direct access to another device or network. Standard data taps are a common tool used by legitimate technicians, but hackers have adapted them for more nefarious purposes. It’s a widely known fact that directly connecting to a device makes it much easier to hack.
+[/spoiler]
+
+[size=12pt][b]标准数据阀[/b][/size]
+
+标准数据阀是合法且易于获取的。除非你用它来连接你不应该连接的东西，否则没有人会因为你有一个数据阀而来打扰你。安装标准数据阀需要你足够接近你要连接的设备足够近，这样你才能触碰到它。如果没有暴露的电线或数据端口，你可能需要撬开机箱或其他东西，而某些安保系统被设计用于检测这种破坏行为。一旦你有一个准备好的数据阀和对设备的访问，连接它需要一个主要动作并通过电子学+逻辑(2)检定。这将创建一个连接，但不授予访问权限。一旦成功连接，数据阀可以通过通用数据端口直连访问或启用无线连接。除非你花费动作来隐藏它，否则侦察检定发现数据阀的阈值是1。你可以做一个隐匿(手上功夫)+敏捷检定来隐藏数据阀，在这种情况下，你的成功数将被设置为发现它的阈值。
+
+[spoiler]
+[size=12pt][b]STANDARD DATA TAP[/b][/size]
+
+The standard data tap is legal and widely available. Unless you’re using it to connect to something you aren’t supposed to, no one is going to bother you about having one. Installing a standard data tap requires you to be close enough to touch the device you’re connecting to. If there are no exposed wires or dataports, you might need to pry open a case or something, and some security systems are designed to detect such tampering. Once you have a ready data tap and access to a device, attaching it requires a Major Action and an Electronics + Logic (2) test. This creates a connection but does not grant access. Once connected, the data tap can be accessed directly via the universal dataport or enabled for wireless connection. Unless you take action to conceal it, the threshold for a Perception test to notice the data tap is 1. You may make a Stealth (Palming) + Agility test to conceal a data tap, in which case your hits set the threshold to discover it.
+[/spoiler]
+
+[size=12pt][b]箭型阀[/b][/size]
+
+如果你不能靠近设备安装数据阀，为什么不把它绑在箭头或弩箭上呢？嗯，事情没那么简单。为了使这些东西发挥作用，已经进行了相当多的创新。这些神奇的弹丸将一个微型无人机改造成用于数据阀的传输装置，并将其全部装入超大的箭头中。使用这些东西需要相当的准确性。它需要一个主要动作来使箭型阀连接矩阵，并指定你希望连接到的设备。然后，你必须在攻击检定中取得至少3个净成功才能命中目标。如果成功，箭头会刺穿机箱或刺入旁边的墙壁(实际上不会造成任何伤害)，然后因化学反应而溶解，这种化学反应类似于隐匿抓钩线所使用的技术。随后微型无人机将被激活，连接数据阀(不需要进一步掷骰)，然后自行砖化。只要没有人看到或听到你射击目标，该数据阀就不会比标准数据阀更明显。然而，不允许进行使它更难被发现的隐藏检定。
+
+箭型阀可以作为弩螺栓、箭头、手里剑、飞刀或飞镖弹。如果用作武器，减少其基础伤害1P。
+
+箭型阀是一次性使用的道具。如果发射失败，弹丸就会溶解，微型无人机自毁。
+
+箭型阀的内部电池非常有限，由于隐形的要求，它不能无线充电。一旦激活，箭型阀只能持续运行5分钟。还有一款价格更高、电池续航时间更长的版本，可以持续运行30分钟。
+
+[spoiler]
+[size=12pt][b]ARROW TAP[/b][/size]
+
+If you can’t get close to a device to install a data tap, why not strap one onto an arrow or crossbow bolt? Well, it’s not that simple. Quite a lot of innovation has gone into making these things work. These marvelous projectiles repurpose a micro-drone into a data tap delivery system and fits it all within an oversized arrowhead. Using these requires considerable accuracy. It takes a Major Action to bring the arrow tap online and designate the device you wish to have it connect to. Then you must score at least 3 net hits on an attack test to hit your target. If successful, the arrowhead pierces the case or sticks into the wall next to it (doing effectively zero damage), then dissolves due to a chemical reaction similar to that used in stealth grapple line technology. The microdrone activates, connects the data tap (no further rolls required), and bricks itself. As long as no one saw or heard you shoot the target, the tap is not any more obvious than a standard one. No Stealth test is allowed to make it harder to spot, though. 
+
+These are available as crossbow bolts, arrowheads, shuriken, throwing knives, or dart rounds. If used as a weapon, reduce base damage to 1P. 
+
+Arrow taps are one-use items. If you fire one and miss, the projectile will dissolve, and the microdrone will self-destruct. 
+
+An arrow tap has a very limited internal battery, and due to the requirements of stealth is not designed to be able to recharge wirelessly. Once activated, an arrow tap will only function for five minutes. A more expensive version with longer battery life is available, which lasts for thirty minutes.
+[/spoiler]
+
+[size=12pt][b]抓钩阀[/b][/size]
+
+有人注意到了射钩枪的概念，并产生了使用它来建立直接有线连接的灵感。这些射钩枪是在原始基础上完全重新设计的，而且要小得多。大致上是一把大型左轮手枪的大小，用数据线轴代替装有弹丸的弹膛，末端以金属吊舱封口。
+
+为了使用抓钩阀，首先要花费一个次要动作来激活金属吊舱。为了连接到目标，进行运动(弓)+敏捷(3)检定。如果你的目标是载具或无人机，自驾可以对你的攻击进行防御检定，你需要3个净成功才能建立连接。发射后，吊舱会射出它的抓钩并抓住目标，然后分泌出某种导电凝胶，用来为数据阀建立粗略的数据连接。如果攻击成功，连接就会通过射勾枪的缆线自动建立。这就建立了一个直接有线连接。移除抓钩需要花费一个主要动作，不需要检定。如果缆线被切断，连接就会被切断。缆线在使用后可以收回，但该数据阀是一次性物品，不可回收。
+
+值得注意的是，虽然数据阀本身没有无线连接，但射钩枪的无线功能可以被启用，以便无线访问它所连接的任何设备。
+
+[spoiler]
+[size=12pt][b]GRAPPLE TAPPER[/b][/size]
+
+Someone looked at the concept of a grapple gun and had the inspiration to use it to establish direct wired connections. These grapple guns are a complete redesign of the original and are much smaller. Roughly the size of a large revolver with a data cable spool in place of a cylinder with bullets, the end is capped with a small metallic pod. 
+
+In order to use one, first take a Minor Action to activate the pod. To connect to the target, make an Athletics (Bows) + Agility (3) test. If you target a vehicle or drone, the pilot may make a defense test against your attack, and you require 3 net hits to make a connection. When fired, the pod extends its grapple claws and latches onto the target, then secretes a conductive gel that is used to establish a crude connection for the data tap. If it attack is successful, the connection is automatically established through the grapple gun’s cable. This establishes a direct wired connection. Removing the grapple takes a Major Action and does not require a test. If the cable is cut, the connection is severed. The cable can be retracted after use, but the data tap is a one-use item that is not recoverable. 
+
+It’s worth noting that while the data tap has no wireless connection of its own, the grapple gun’s wireless function can be enabled for wireless access to any device it connects to.
+[/spoiler]
+
+[size=12pt][b]激光接口[/b][/size]
+
+对于那些需要足够安全、不可骇入的无线连接的人来说，激光接口是个不错的选择。这种微小的激光发射器/接收器模块用于在视线可及的设备之间建立直接连接。两个设备都必须有激光接口才能进行连接。通常的杂讯等级不适用。视线的任意中断都会完全切断连接，但雾、雨或其他大气微粒都会使其效果减弱。小雨或烟尘每50米距离增加1点杂讯；大雨或轻雾每20米增加1点杂讯，而浓雾每10米增加1点杂讯。任何形式的降噪对减少来自这一来源的杂讯都没有任何效果。在晴朗的天气，大气干扰将有效范围限制在大约2公里。这些设备通过直接的激光束建立通信，所以除非有人用自己的发射器直接拦截激光束，否则不可能检测到或以无线方式访问这些设备。激光对红外传感器(包括具有热感视觉的角色)是隐约可见的。发现它需要仔细观察动作，阈值为3。
+
+这种无法破解的技术的主要缺点是，它无法提供VR模式所需的带宽。如果单纯依靠激光接口，则只能使用无线设备功能和AR模式。出于这个原因该技术很少被规律使用，除非是需要隐匿行动或慎重行事。
+
+[spoiler]
+[size=12pt][b]LASER JACK[/b][/size]
+
+For those requiring a secure, unhackable wireless connection, there’s the laser jack. This tiny laser emitter/receiver module is used to establish a direct connection between devices and requires line-of-sight. Both devices must have a laser jack in order to connect. Normal noise levels do not apply. Any break in line-of-sight will completely sever the connection, but fog, rain, and other atmospheric particulates can degrade it. Light rain or smog generates 1 noise per 50 meters of distance; heavy rain or light fog increases this to 1 noise every 20 meters, and a thick fog adds 1 noise per 10 meters of distance. No noise reduction of any kind has any effect on reducing noise from this source. On a clear day, atmospheric interference limits the effective range to approximately 2 kilometers. These devices establish communication through a direct laser beam, so unless someone directly intercepts the laser with their own emitter, it impossible to detect or access the devices wirelessly. The laser is faintly visible to IR sensors (including characters with thermographic vision). Spotting it requires an observe in detail action, with a threshold of 3. 
+
+The main drawback to this unhackable tech is that it’s not capable of providing the bandwidth required for VR. Only wireless device functions and AR mode can be used if you are solely relying on laser jacks. For this reason, these rarely see regular use except when stealth or discretion is required.
+[/spoiler]
+
+[size=12pt][b]链接手套[/b][/size]
+
+这些手套显然已经用所需的芯片和电缆进行了改造，以产生一种特殊的电磁场，可以与它们接触的任何设备建立直接连接。这种手套不可能伪装成普通服装，尽管一些聪明的设计师已经让它们看起来更时尚而不是实用。通过链接手套建立的连接带宽有限，不能用于VR模式。链接手套与活体化身不兼容。
+
+[spoiler]
+[size=12pt][b]LINK GLOVES[/b][/size]
+
+These gloves have been obviously modified with the required chips and cables to generate a special electromagnetic field that can create a direct connection to any devices they touch. The gloves are impossible to disguise as normal clothing, though some clever designers have been known to make them seem fashionable rather than functional. The connection established through link gloves is of limited bandwidth, incapable of VR mode. Link gloves are not compatible with a living persona.
+[/spoiler]
+
+[size=12pt][b]隐匿阀[/b][/size]
+
+标准的数据阀不是为了隐蔽而设计的。它们体积庞大，容纳了各种各样的连接线和适配器。而隐匿型数据阀会丢弃所有非必要的东西，形成一个大约只有小口径子弹大小并带有几个触点的设备。由于缺少附带的连接线和数据端口，你需要一个电子学工具箱才能安装它。安装隐匿数据阀的过程与安装标准数据阀的过程相同。如果没有特意隐藏它，通过侦察检定检测到隐匿阀的阈值是2。任何作为隐藏隐匿阀门的隐匿(手上功夫)+敏捷检定的一部分而使用的极限增益或极限动作只需要消耗一半的极限点(向下取整)。
+
+[spoiler]
+[size=12pt][b]STEALTH TAP[/b][/size]
+
+Standard data taps are not designed for concealment. They are bulky and include a wide variety of connection cables and dapters. A stealth data tap discards everything non-essential, resulting in a device roughly the size of a small-caliber bullet with several contact points. Due to a lack of included cables and dataports, you’ll need an electronics toolkit to install one. The process for attaching a stealth data tap is the same as for a standard one. The threshold to detect a stealth tap with a Perception test is 2 if no special attempts are made to conceal it. Any Edge boosts or actions taken as part of a Stealth (Palming) + Agility test to conceal a stealth tap cost half as many Edge points (round down).
+[/spoiler]
+
+[size=12pt][b]泰瑟阀[/b][/size]
+
+蔑视·EX电击枪发射有线电击飞镖，成功命中后可以检测目标的医疗状况。好吧，一些邪恶的(有人会说是聪明的)黑客设法利用这项技术来协助对付那些讨厌的街头武士，他们关闭了所有的无线功能以避免他们的殖装被骇入。泰瑟阀是专门为蔑视·EX电击泰瑟枪设计的泰瑟镖，它们提供了某种短期导电纳米粒子的有效载荷，可以直连到目标的所有殖装和相关设备。即使他们处于离线状态或使用内部路由器。甚至是他们关掉了的殖装。当然，你必须电击某人才能做到这一点，所以这算不上秘密袭击。大多数黑客还没有疯狂到使用这些。一旦建立了连接，目标可以花费一个主要动作来移除它们(不需要检定)。如果不受干扰，连接仍将在一分钟后断开。你可以选择是否让电击枪发出电击或是只建立连接。如果你想用它连接摄像机或磁锁而不把东西弄坏，这就很有用了。无论你是否施以电击，泰瑟阀都不可重复使用。
+
+[spoiler]
+[size=12pt][b]TASER TAP[/b][/size]
+
+The Defiance Super Shock taser fires wired taser darts, and a successful hit allows you to detect your target’s medical status. Well, some nefarious (some would say brilliant) hackers managed to adapt this tech to help deal with those pesky street samurai who turn off all of their wireless functions to avoid getting their augmentations hacked. Taser taps are taser darts designed specifically for the Defiance Super Shock taser, and they deliver a payload of short-lived conductive nanites that establish a direct connection to all of the target’s augmentations and linked devices. Even if they’re offline or using an internal router. Even if they’ve switched off their augmentations. Of course, you have to tase someone to do this, so it isn’t exactly a clandestine assault. Most hackers aren’t crazy enough to use these. Once the connection is established, the target can take a Major Action to remove them (no test required). If left undisturbed, the connection will still be lost after one minute. You can choose whether or not to have the taser deliver its shock or only establish a connection. This is useful if you want to use it to connect to a camera or maglock without frying the thing. Whether or not you apply the shock, a taser tap is not reusable.
+[/spoiler]
+
+---
+
+[size=14pt][b]矩阵中继[/b][/size]
+
+矩阵中继是一种可以帮助你扩展无线网络范围的设备，允许你在更大的范围内或在停电区域内操作。它们有各种各样的形状和大小，从小型的手持个人设备到需要半挂车才能移动的大型系统。黑客们发现，它们还可以很好地作为信号助推器，使它们能够穿透干扰和距离引起的噪声。以下是它的工作原理:连接到PAN的矩阵继电器基本上允许你同时在两个(或更多)地方，就矩阵而言。设置一个需要一个主要的动作。不需要技能检定，除非你想用潜行(手掌)+敏捷检定来隐藏它。如果你远离矩阵继电器，请确定你和无线继电器之间是否有由于距离、干扰或任何其他影响而直接产生的噪声。如果那个噪音超过了矩阵继电器的额定值，你就超出了范围。如果你不在中继范围的极限，你就会从更强的信号中受益。如果继电器的额定值超过了影响你连接到它的噪声，那么就减少所有进一步的噪声惩罚。
+
+如果你在矩阵继电器的100米范围内，它的最大额定值可以增强你的信号。当继电器处于活动状态时，通过继电器的额定值降低你的噪声水平。
+
+矩阵继电器可以由其所有者限制为个人使用。如果允许访问，那么可以连接到一个用户的数量等于其评级x 3。
+
+矩阵中继器是一种帮助你扩大无线网络范围的设备，使你能够在更大的范围内或在停电区操作。它们有各种各样的形状和尺寸，从不超过一根棍子的小型手持式个人设备到需要一辆半拖车才能移动的大型系统。黑客们发现，这些东西作为信号增强器也非常好用，使他们能够穿过由干扰和距离造成的噪音。它是如何工作的：一个连接到你的PAN上的矩阵中继器基本上可以让你同时出现在两个（或更多）地方，就矩阵而言是如此。设置一个需要一个主要行动。不需要技能测试，除非你想用隐身术（掌中宝）+敏捷测试来隐藏它。如果你远离你的矩阵中继器，确定在你和你的无线中继器之间是否有任何由于距离、干扰或任何其他影响而直接产生的噪音。如果该噪音曾经超过Matrix中继的额定值，你就超出了范围。如果你不在中继器范围的边缘，你会从更强的信号中受益。如果继电器的额定值超过了影响你与它的连接的噪声，那么就把所有进一步的噪声惩罚减少到这个数量。
+
+如果你在Matrix继电器的100米范围内，它的全部额定值可用于提高你的信号。当它处于活动状态时，按继电器的额定值减少你的噪音水平。
+
+一个Matrix中继器可以由其所有者限制个人使用。如果允许访问，相当于其额定值×3的用户数量可以连接到一个。
+
+[spoiler]
+[size=14pt][b]MATRIX RELAY[/b][/size]
+
+A Matrix relay is a device that helps you extend the range of your wireless network, allowing you to operate at greater ranges or within a blackout zone. They come in a variety of shapes and sizes, from small handheld personal devices no larger than a credstick to massive systems that require a semi trailer to move. Hackers have discovered that these also work really well as signal boosters, allowing them to cut through noise caused by jamming and distance. Here’s how it works: a Matrix relay that is connected to your PAN essentially allows you to be in two (or more) places at once, as far as the Matrix is concerned. Setting one up requires a Major Action. No skill test is required unless you would like to conceal it with a Stealth (Palming) + Agility test. If you move away from your Matrix relay, determine if there is any noise directly between you and your wireless relay due to distance, jamming, or any other effect. If that noise ever exceeds the Matrix relay’s rating, you are out of range. You benefit from a stronger signal if you’re not at the edge of the relay’s range. If the relay’s rating exceeds the noise affecting your connection to it, reduce all further noise penalties by that amount. 
+
+If you’re within 100 meters of your Matrix relay, its full rating is available to boost your signal. Reduce your noise level by the relay’s rating while it is active.
+
+A Matrix relay can be restricted by its owner for personal use. If access is allowed, a number of users equal to its rating x 3 may connect to one.
+[/spoiler]
+
+[color=purple][b]范例1：[/b][/color]
+
+Shade设置了一个4级矩阵继电器并激活了它。后来，当他需要使用它时，他在2公里外，噪音水平为3。他想黑进距离他的接力点150米远的一个摄像头。如果他没有继电器，由于距离太远，他必须处理3的噪声水平，但继电器到目标的噪声水平只有1。因为中继还有一个额定值，它进一步降低这个噪声水平为零。
+
+[spoiler]
+[color=purple][b]FOR EXAMPLE:[/b][/color]
+
+Shade sets up a rating 4 Matrix relay and activates it. Later, when he needs to use it, he’s 2 kilometers away for a noise level of 3. He wants to hack a camera that happens to be 150 meters away from his relay. If he didn’t have the relay, he’d have to deal with a noise level of 3 due to the distance, but the noise level from the relay to the target is only 1. Because the relay has one point of rating left, it further reduces this noise level down to zero.
+[/spoiler]
+
+[color=purple][b]范例2：[/b][/color]
+
+谢德正准备黑进摄像机时有人开始干扰他周围的区域，产生了3级的噪音。正常情况下这没什么大不了的。如果他能访问他的中继，干扰就不会起作用了。然而，干扰确实影响了他连接中继的能力。除非他有其他方法来减轻噪声，否则由于距离加上干扰噪声3的噪声水平高于中继的额定值。即使中继没有受到干扰，Shade也无法访问它，除非他能将噪声降低到4或更少。所以他启动了他的信号清洗网络程序把噪音降到1。现在他可以通过只有1点噪声的中继攻击目标，除非有人开始干扰那里的信号……
+
+矩阵继电器越强大，它就越笨重。降低感知测试根据其额定值注意或检测矩阵继电器的阈值。额定值高于6的矩阵继电器通常需要载具才能携带。等级高于9的矩阵继电器需要更多的空间和设备，例如半挂车，并且通常仅由矩阵服务技术人员使用。
+
+[spoiler]
+[color=purple][b]ANOTHER EXAMPLE:[/b][/color]
+
+Shade is just about ready to hack that camera when someone starts jamming the area around him, generating a noise level of 3. Normally this wouldn’t be such a big deal. If he could access his relay, the jamming would have no effect. However, the jamming does affect his ability to connect to his relay. Unless he has some other way to mitigate the noise, the noise level of 3 due to distance plus the noise from jamming is higher than the relay’s rating. Even though the relay is not under jamming, Shade can’t access it unless he can reduce the noise to 4 or less. So he fires up his Signal Scrub cyberprogram and reduces the noise to 1. Now he can hack his target from the relay with only 1 point of noise, unless someone starts jamming signals over there … 
+
+The more powerful a Matrix relay is, the bulkier it must be. Reduce the threshold for Perception tests to notice or detect a Matrix relay by its rating. A Matrix relay with a rating higher than 6 normally requires a vehicle in order to be portable. Matrix relays with ratings higher than 9 require much more space and equipment, such as a semi trailer, and are usually used only by Matrix service techs.
+[/spoiler]
+
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]TAG ABUSE[/b][/size]
+
+RFID tags are everywhere in the Sixth World, gathering and transmitting marketing data, monitoring you via sensors, delivering advertisements, and generally invading everyone’s privacy. Of course, hackers have discovered, or in some cases developed, a few new tricks that can be done with them.
+[/spoiler]
+
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]GOD BOMB[/b][/size]
+ 
+A batch of software tags loaded with the most obnoxious but ultimately harmless viruses and other illegal software. Once activated, the tags start breaking the law with incredible speed and abandon. When activated, begin tracking an Overwatch Score for the GOD bomb. At the start of every combat round after activation, increase the GOD bomb’s Overwatch Score by its rating x 1D6. When it reaches 40, a small explosive designed to utterly destroy all of the tags is detonated, leaving GOD with the impression that a persona has just been converged upon and dumped from the Matrix. This will undoubtedly cause an escalating security response, initially calling in demiGOD (decker/technomancer cops) in the Matrix, but a physical security response team will also show up. Obviously it’s a bad idea to set one of these off where you’re going to be, but they work great for distractions and practical jokes that go too far.
+[/spoiler]
+
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]SCREAMER TAG BOMBS[/b][/size]
+
+Screamer tags are the opposite of stealth tags. They don’t run silent, they go loud, usually with obnoxious AR audio and images. These are actually just nefariously modified standard RFID tags with some malicious code that makes them immune to common spam filters. Individually, these serve no purpose beyond harassment, marketing, vandalism, or a very simple distraction. However, some hackers had the big idea to use them in clusters. Despite the lack of a physical explosion, these devices have been dubbed “Screamer Bombs.” Dozens of them at once, all tied to activate from one trigger, can create a stunning effect in the Matrix. A screamer tag bomb’s rating is based on how many tags are tied together. Each point of rating represents about a dozen tags. When they are activated, they have an effect similar to a jammer, increasing the noise level by half the rating (round down) out to a radius of 100 meters. This is also illegal and alerts Matrix security forces that begin shutting the tags down one at a time (represented by the 1D6 minute burnout time). It also makes Matrix Perception tests much more difficult. Within range of an active screamer tag bomb, no Edge may be gained or used on any Matrix Perception tests. Furthermore, the dice pool of any Matrix Perception tests is reduced by the rating of the screamer tag bomb. Unlike jammers, these area-effect devices are not capable of screening their effects from individual users. They affect everyone. Anyone foolish enough to fire off a screamer tag bomb that is still connected to their own PAN gains 2D6 overwatch every combat round.
+[/spoiler]
+
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]SOFTWARE TAGS[/b][/size]
+
+A software tag is slightly larger than your average datachip and contains the memory storage and processing power required to host and run a single piece of software. For more complex tasks, multiple software tags can be connected together to run several programs simultaneously. They are not powerful enough to run agent programs but can handle commlink apps, cyberprograms, and autosofts.
+[/spoiler]
+
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]SPY TAGS[/b][/size]
+
+Instead of merely running silent, spy tags are programmed to stay offline to avoid any chance of Matrix detection, and only occasionally turn on to send a burst of data before deactivating for a time. These can be programmed to activate on a specific schedule, but the default is a randomized pattern to avoid accidental detection. Unless someone is actively searching for signals during the three seconds or so that the tag comes online, it is highly unlikely to be detected except by visual scans. This is standard operating procedure for a regular stealth tag (p. 269, SR6), which is only capable of reporting its position as location coordinates and a time stamp. Spy tags are stealth tags modified to pair with one or more sensor tags in order to gather more detailed information. In this case, the sensor tags operate in offline mode (no wireless), and only send their data to the stealth tag. Connecting a sensor tag to a stealth tag makes the tag a little bulkier, but they’re still pretty small.
+[/spoiler]
+
+[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+
+
+
+[spoiler]
+[size=12pt][b]WHISPER TAG BOMB[/b][/size]
+
+Less noisy than a screamer tag bomb, this device comes from the same concept but uses many stealth tags to make it harder to pick out individual silent-running icons. These stealth tags are modified with illegal software to appear to have a larger device footprint on the Matrix, so that they might be mistaken for a larger device until identified. When you are running silent and activate a whisper tag bomb, the whisper tag bomb begins to generate an Overwatch Score of its own at a rate of 1D6 per minute. If this score ever reaches 40, it is converged upon and destroyed, and a security team will be sent to its location. When you are using a whisper tag bomb, if anyone successfully spots you using a Matrix perception test, roll 2D6. Unless you roll doubles, they spotted a stealth tag instead. Permanently reduce the whisper tag bomb’s rating by 1 every time this happens. Unless converged upon, you can deactivate and reuse a whisper tag bomb, but any rating reductions are permanent. Assume that they burn out or are bricked by Matrix security forces.
+[/spoiler]
