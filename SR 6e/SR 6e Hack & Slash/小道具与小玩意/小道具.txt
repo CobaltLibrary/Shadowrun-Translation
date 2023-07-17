@@ -14,7 +14,7 @@ Data taps are small, handheld devices with a variety of connectors designed to a
 
 [size=12pt][b]标准数据阀[/b][/size]
 
-标准数据阀是合法且易于获取的。除非你用它来连接你不应该连接的东西，否则没有人会因为你有一个数据阀而来打扰你。安装标准数据阀需要你足够接近你要连接的设备足够近，这样你才能触碰到它。如果没有暴露的电线或数据端口，你可能需要撬开机箱或其他东西，而某些安保系统被设计用于检测这种破坏行为。一旦你有一个准备好的数据阀和对设备的访问，连接它需要一个主要动作并通过电子学+逻辑(2)检定。这将创建一个连接，但不授予访问权限。一旦成功连接，数据阀可以通过通用数据端口直连访问或启用无线连接。除非你花费动作来隐藏它，否则侦察检定发现数据阀的阈值是1。你可以做一个隐匿(手上功夫)+敏捷检定来隐藏数据阀，在这种情况下，你的成功数将被设置为发现它的阈值。
+标准数据阀是合法且易于获取的。除非你用它来连接你不应该连接的东西，否则没有人会因为你有一个数据阀而来打扰你。安装标准数据阀需要你足够接近你要连接的设备足够近，这样你才能触碰到它。如果没有暴露的数据线或数据端口，那你可能需要撬开机箱或其他东西，而某些安保系统被设计用于检测这种破坏行为。一旦你有一个准备好的数据阀和对设备的访问，连接它需要花费一个主要动作并通过电子学+逻辑(2)检定。这将创建一个连接，但不授予访问权限。一旦成功连接，数据阀可以通过通用数据端口直连访问或启用无线连接。除非你花费动作来隐藏它，否则侦察检定发现数据阀的阈值是1。你可以进行一个隐匿(手上功夫)+敏捷检定来隐藏数据阀，在这种情况下，你的成功数将被设置为发现它的阈值。
 
 [spoiler]
 [size=12pt][b]STANDARD DATA TAP[/b][/size]
@@ -24,13 +24,13 @@ The standard data tap is legal and widely available. Unless you’re using it to
 
 [size=12pt][b]箭型阀[/b][/size]
 
-如果你不能靠近设备安装数据阀，为什么不把它绑在箭头或弩箭上呢？嗯，事情没那么简单。为了使这些东西发挥作用，已经进行了相当多的创新。这些神奇的弹丸将一个微型无人机改造成用于数据阀的传输装置，并将其全部装入超大的箭头中。使用这些东西需要相当的准确性。它需要一个主要动作来使箭型阀连接矩阵，并指定你希望连接到的设备。然后，你必须在攻击检定中取得至少3个净成功才能命中目标。如果成功，箭头会刺穿机箱或刺入旁边的墙壁(实际上不会造成任何伤害)，然后因化学反应而溶解，这种化学反应类似于隐匿抓钩线所使用的技术。随后微型无人机将被激活，连接数据阀(不需要进一步掷骰)，然后自行砖化。只要没有人看到或听到你射击目标，该数据阀就不会比标准数据阀更明显。然而，不允许进行使它更难被发现的隐藏检定。
+如果你不能靠近设备安装数据阀，为什么不把它绑在箭头或弩箭上呢？嗯，事情没那么简单。为了使这些东西发挥作用，我们进行了大量创新。这些神奇的弹丸将一个微型无人机改造成用于数据阀的传输装置，并将其全部装入超大的箭头中。使用这些东西需要相当高的精确度。它需要一个主要动作来使箭型阀连接矩阵，并指定你希望连接到的设备。然后，你必须在攻击检定中取得至少3个净成功才能命中目标。如果成功，箭头会刺穿机箱或刺入旁边的墙壁(实际上不会造成任何伤害)，然后因化学反应而溶解，这种化学反应类似于隐匿射钩线所使用的技术。随后微型无人机将被激活，连接数据阀(不需要进一步掷骰)，然后自行砖化。只要没有人看到或听到你射击目标，该数据阀就不会比标准数据阀更明显。然而，不允许进行隐藏检定以增加它被发现的难度。
 
 箭型阀可以作为弩螺栓、箭头、手里剑、飞刀或飞镖弹。如果用作武器，减少其基础伤害1P。
 
 箭型阀是一次性使用的道具。如果发射失败，弹丸就会溶解，微型无人机自毁。
 
-箭型阀的内部电池非常有限，由于隐形的要求，它不能无线充电。一旦激活，箭型阀只能持续运行5分钟。还有一款价格更高、电池续航时间更长的版本，可以持续运行30分钟。
+箭型阀的内部电池非常有限，由于隐匿性的要求，它不能无线充电。一旦激活，箭型阀只能持续运行5分钟。还有一款价格更高、电池续航时间更长的版本，可以持续运行30分钟。
 
 [spoiler]
 [size=12pt][b]ARROW TAP[/b][/size]
@@ -44,11 +44,11 @@ Arrow taps are one-use items. If you fire one and miss, the projectile will diss
 An arrow tap has a very limited internal battery, and due to the requirements of stealth is not designed to be able to recharge wirelessly. Once activated, an arrow tap will only function for five minutes. A more expensive version with longer battery life is available, which lasts for thirty minutes.
 [/spoiler]
 
-[size=12pt][b]抓钩阀[/b][/size]
+[size=12pt][b]射钩阀[/b][/size]
 
-有人注意到了射钩枪的概念，并产生了使用它来建立直接有线连接的灵感。这些射钩枪是在原始基础上完全重新设计的，而且要小得多。大致上是一把大型左轮手枪的大小，用数据线轴代替装有弹丸的弹膛，末端以金属吊舱封口。
+有人注意到了射钩枪的概念，并产生了使用它来建立直接有线连接的灵感。这些射钩枪是在原始基础上完全重新设计的，体积要小得多。其大小与一把大型左轮手枪差不多，用数据缆线轴代替装有弹丸的弹膛，末端盖有金属吊舱。
 
-为了使用抓钩阀，首先要花费一个次要动作来激活金属吊舱。为了连接到目标，进行运动(弓)+敏捷(3)检定。如果你的目标是载具或无人机，自驾可以对你的攻击进行防御检定，你需要3个净成功才能建立连接。发射后，吊舱会射出它的抓钩并抓住目标，然后分泌出某种导电凝胶，用来为数据阀建立粗略的数据连接。如果攻击成功，连接就会通过射勾枪的缆线自动建立。这就建立了一个直接有线连接。移除抓钩需要花费一个主要动作，不需要检定。如果缆线被切断，连接就会被切断。缆线在使用后可以收回，但该数据阀是一次性物品，不可回收。
+为了使用射钩阀，首先要花费一个次要动作来激活金属吊舱。为了连接到目标，进行运动(弓)+敏捷(3)检定。如果你的目标是载具或无人机，自驾可以对你的攻击进行防御检定，你需要3个净成功才能建立连接。发射后，吊舱会射出它的射钩并抓住目标，然后分泌出某种导电凝胶，用来为数据阀建立粗略的数据连接。如果攻击成功，连接就会通过射钩枪的缆线自动建立。这就建立了一个直接有线连接。移除射钩需要花费一个主要动作，不需要检定。如果缆线被切断，连接就会被切断。缆线在使用后可以收回，但该数据阀是一次性物品，不可回收。
 
 值得注意的是，虽然数据阀本身没有无线连接，但射钩枪的无线功能可以被启用，以便无线访问它所连接的任何设备。
 
@@ -64,9 +64,9 @@ It’s worth noting that while the data tap has no wireless connection of its ow
 
 [size=12pt][b]激光接口[/b][/size]
 
-对于那些需要足够安全、不可骇入的无线连接的人来说，激光接口是个不错的选择。这种微小的激光发射器/接收器模块用于在视线可及的设备之间建立直接连接。两个设备都必须有激光接口才能进行连接。通常的杂讯等级不适用。视线的任意中断都会完全切断连接，但雾、雨或其他大气微粒都会使其效果减弱。小雨或烟尘每50米距离增加1点杂讯；大雨或轻雾每20米增加1点杂讯，而浓雾每10米增加1点杂讯。任何形式的降噪对减少来自这一来源的杂讯都没有任何效果。在晴朗的天气，大气干扰将有效范围限制在大约2公里。这些设备通过直接的激光束建立通信，所以除非有人用自己的发射器直接拦截激光束，否则不可能检测到或以无线方式访问这些设备。激光对红外传感器(包括具有热感视觉的角色)是隐约可见的。发现它需要仔细观察动作，阈值为3。
+对于那些需要足够安全、不可骇入的无线连接的人来说，激光接口是个不错的选择。这种微小的激光发射器/接收器模块用于在视线可及的设备之间建立直接连接。两个设备都必须有激光接口才能进行连接。通常的杂讯等级不适用。视线的任意中断都会完全切断连接，但雾、雨或其他大气微粒都会使其效果减弱。小雨或烟尘每50米距离增加1点杂讯；大雨或轻雾每20米增加1点杂讯，而浓雾每10米增加1点杂讯。任何形式的降噪对减少来自这一来源的杂讯都没有任何效果。在晴朗的天气，大气干扰将有效范围限制在大约2公里。这些设备通过直接的激光束建立通信，所以除非有人用自己的激光发射器直接拦截激光束，否则不可能检测到或以无线方式访问这些设备。激光对红外传感器(包括具有热感视觉的角色)是隐约可见的。发现它需要仔细观察动作，阈值为3。
 
-这种无法破解的技术的主要缺点是，它无法提供VR模式所需的带宽。如果单纯依靠激光接口，则只能使用无线设备功能和AR模式。出于这个原因该技术很少被规律使用，除非是需要隐匿行动或慎重行事。
+这种无法破解的技术的主要缺点是，它无法提供VR模式所需的带宽。如果单纯依靠激光接口，则只能使用无线设备功能和AR模式。出于这个原因该技术很少被频繁使用，除非是需要隐匿行动或慎重行事。
 
 [spoiler]
 [size=12pt][b]LASER JACK[/b][/size]
@@ -78,7 +78,7 @@ The main drawback to this unhackable tech is that it’s not capable of providin
 
 [size=12pt][b]链接手套[/b][/size]
 
-这些手套显然已经用所需的芯片和电缆进行了改造，以产生一种特殊的电磁场，可以与它们接触的任何设备建立直接连接。这种手套不可能伪装成普通服装，尽管一些聪明的设计师已经让它们看起来更时尚而不是实用。通过链接手套建立的连接带宽有限，不能用于VR模式。链接手套与活体化身不兼容。
+这些手套使用所需的芯片和线缆进行了显眼的改造，以产生一种特殊的电磁场，可以与它们接触的任何设备建立直接连接。这种手套不可能伪装成普通服装，尽管一些聪明的设计师已经让它们看起来更时尚而不是实用。通过链接手套建立的连接带宽有限，不能用于VR模式。链接手套与活体化身不兼容。
 
 [spoiler]
 [size=12pt][b]LINK GLOVES[/b][/size]
@@ -88,7 +88,7 @@ These gloves have been obviously modified with the required chips and cables to 
 
 [size=12pt][b]隐匿阀[/b][/size]
 
-标准的数据阀不是为了隐蔽而设计的。它们体积庞大，容纳了各种各样的连接线和适配器。而隐匿型数据阀会丢弃所有非必要的东西，形成一个大约只有小口径子弹大小并带有几个触点的设备。由于缺少附带的连接线和数据端口，你需要一个电子学工具箱才能安装它。安装隐匿数据阀的过程与安装标准数据阀的过程相同。如果没有特意隐藏它，通过侦察检定检测到隐匿阀的阈值是2。任何作为隐藏隐匿阀门的隐匿(手上功夫)+敏捷检定的一部分而使用的极限增益或极限动作只需要消耗一半的极限点(向下取整)。
+标准数据阀不是为了隐蔽而设计的。它们体积庞大，容纳了各种各样的连接线和适配器。而隐匿型数据阀会舍弃所有非必要的东西，组成一个约有小口径子弹大小并带有多个触点的设备。由于缺少附带的连接线和数据端口，你需要一个电子学工具箱才能安装它。安装隐匿数据阀的过程与安装标准数据阀的过程相同。如果没有特意隐藏它，通过侦察检定检测到隐匿阀的阈值是2。任何作为隐藏该隐匿阀的隐匿(手上功夫)+敏捷检定的一部分而使用的极限增益或极限动作只需消耗一半的极限点(向下取整)。
 
 [spoiler]
 [size=12pt][b]STEALTH TAP[/b][/size]
@@ -108,19 +108,13 @@ The Defiance Super Shock taser fires wired taser darts, and a successful hit all
 
 ---
 
-[size=14pt][b]矩阵中继[/b][/size]
+[size=14pt][b]矩阵中继器[/b][/size]
 
-矩阵中继是一种可以帮助你扩展无线网络范围的设备，允许你在更大的范围内或在停电区域内操作。它们有各种各样的形状和大小，从小型的手持个人设备到需要半挂车才能移动的大型系统。黑客们发现，它们还可以很好地作为信号助推器，使它们能够穿透干扰和距离引起的噪声。以下是它的工作原理:连接到PAN的矩阵继电器基本上允许你同时在两个(或更多)地方，就矩阵而言。设置一个需要一个主要的动作。不需要技能检定，除非你想用潜行(手掌)+敏捷检定来隐藏它。如果你远离矩阵继电器，请确定你和无线继电器之间是否有由于距离、干扰或任何其他影响而直接产生的噪声。如果那个噪音超过了矩阵继电器的额定值，你就超出了范围。如果你不在中继范围的极限，你就会从更强的信号中受益。如果继电器的额定值超过了影响你连接到它的噪声，那么就减少所有进一步的噪声惩罚。
+矩阵中继器是一种可以帮助你扩展无线网络范围的设备，使你能够在更大的范围内或停电区内操作。它们有各种各样的形状和尺寸，包含了从不大于一根信用棒大小的的小型手持个人设备到需要半挂车才能移动的大型系统。黑客们发现，这些东西作为信号增幅器也非常好用，使他们能够穿透干扰和距离引发的杂讯。以下是它的工作原理：就矩阵而言，连接到PAN的矩阵中继器大体上允许你同时出现在两个(或更多)地方。设置矩阵中继器需要花费一个主要动作。不需要技能检定，除非你想用隐匿(手上功夫)+敏捷检定来隐藏它。如果你远离矩阵中继器，请确定你和矩阵中继器之间是否有由于距离、干扰或任何其他影响而直接产生的杂讯。如果该杂讯等级超过了矩阵中继器的等级，你就超出了范围。如果你没有超出中继器范围的极限，你就会从更强的信号中受益。如果中继器的等级超过了影响你连接到它的杂讯，则降低所有等同于该差值的杂讯惩罚。
 
-如果你在矩阵继电器的100米范围内，它的最大额定值可以增强你的信号。当继电器处于活动状态时，通过继电器的额定值降低你的噪声水平。
+如果你在矩阵中继器的100米范围内，它的全部等级可用于增幅你的信号。当中继器处于激活状态时，降低等同于中继器等级的你的杂讯等级。
 
-矩阵继电器可以由其所有者限制为个人使用。如果允许访问，那么可以连接到一个用户的数量等于其评级x 3。
-
-矩阵中继器是一种帮助你扩大无线网络范围的设备，使你能够在更大的范围内或在停电区操作。它们有各种各样的形状和尺寸，从不超过一根棍子的小型手持式个人设备到需要一辆半拖车才能移动的大型系统。黑客们发现，这些东西作为信号增强器也非常好用，使他们能够穿过由干扰和距离造成的噪音。它是如何工作的：一个连接到你的PAN上的矩阵中继器基本上可以让你同时出现在两个（或更多）地方，就矩阵而言是如此。设置一个需要一个主要行动。不需要技能测试，除非你想用隐身术（掌中宝）+敏捷测试来隐藏它。如果你远离你的矩阵中继器，确定在你和你的无线中继器之间是否有任何由于距离、干扰或任何其他影响而直接产生的噪音。如果该噪音曾经超过Matrix中继的额定值，你就超出了范围。如果你不在中继器范围的边缘，你会从更强的信号中受益。如果继电器的额定值超过了影响你与它的连接的噪声，那么就把所有进一步的噪声惩罚减少到这个数量。
-
-如果你在Matrix继电器的100米范围内，它的全部额定值可用于提高你的信号。当它处于活动状态时，按继电器的额定值减少你的噪音水平。
-
-一个Matrix中继器可以由其所有者限制个人使用。如果允许访问，相当于其额定值×3的用户数量可以连接到一个。
+矩阵中继器可以由其所有者限制为个人使用。如果允许其他用户访问，那么可以连接到一个中继器的用户数量等于其等级x3。
 
 [spoiler]
 [size=14pt][b]MATRIX RELAY[/b][/size]
@@ -134,7 +128,7 @@ A Matrix relay can be restricted by its owner for personal use. If access is all
 
 [color=purple][b]范例1：[/b][/color]
 
-Shade设置了一个4级矩阵继电器并激活了它。后来，当他需要使用它时，他在2公里外，噪音水平为3。他想黑进距离他的接力点150米远的一个摄像头。如果他没有继电器，由于距离太远，他必须处理3的噪声水平，但继电器到目标的噪声水平只有1。因为中继还有一个额定值，它进一步降低这个噪声水平为零。
+Shade设置了一个4级矩阵中继器并激活了它。之后，当他需要使用它时，他在2公里外，杂讯等级为3。他想骇入距离他的中继器150米远的一个摄像头。如果他没有中继器，由于距离太远，他必须处理3杂讯等级，但中继器到目标的杂讯等级只有1。因为中继器还有剩余的等级1，它进一步降低该杂讯等级到0。
 
 [spoiler]
 [color=purple][b]FOR EXAMPLE:[/b][/color]
@@ -144,9 +138,9 @@ Shade sets up a rating 4 Matrix relay and activates it. Later, when he needs to 
 
 [color=purple][b]范例2：[/b][/color]
 
-谢德正准备黑进摄像机时有人开始干扰他周围的区域，产生了3级的噪音。正常情况下这没什么大不了的。如果他能访问他的中继，干扰就不会起作用了。然而，干扰确实影响了他连接中继的能力。除非他有其他方法来减轻噪声，否则由于距离加上干扰噪声3的噪声水平高于中继的额定值。即使中继没有受到干扰，Shade也无法访问它，除非他能将噪声降低到4或更少。所以他启动了他的信号清洗网络程序把噪音降到1。现在他可以通过只有1点噪声的中继攻击目标，除非有人开始干扰那里的信号……
+Shade正准备骇入摄像头时有人开始干扰他周围的区域，产生了3级杂讯。正常情况下这没什么大不了的。如果他能访问他的中继器，干扰就不会起作用了。然而，干扰确实影响了他连接中继器的能力。除非他有其他方法来减轻杂讯，否则来自距离的3杂讯等级加上干扰高于中继器的设备等级。即使中继器没有受到干扰，Shade也无法访问它，除非他能将杂讯降低到4或更少。所以他启动了他的信号清理赛博程序把杂讯等级降到1。现在他可以通过只有1点杂讯的中继器骇入目标，除非有人开始干扰那里的信号……
 
-矩阵继电器越强大，它就越笨重。降低感知测试根据其额定值注意或检测矩阵继电器的阈值。额定值高于6的矩阵继电器通常需要载具才能携带。等级高于9的矩阵继电器需要更多的空间和设备，例如半挂车，并且通常仅由矩阵服务技术人员使用。
+矩阵中继器越强大，它就越笨重。降低等同于中继器等级的侦察检定发现或检测该矩阵中继器的阈值。等级高于6的矩阵中继器通常需要载具才能携带。等级高于9的矩阵中继器需要更多的空间和设备，例如半挂车，并且通常仅由矩阵服务技术人员使用。
 
 [spoiler]
 [color=purple][b]ANOTHER EXAMPLE:[/b][/color]
@@ -156,9 +150,9 @@ Shade is just about ready to hack that camera when someone starts jamming the ar
 The more powerful a Matrix relay is, the bulkier it must be. Reduce the threshold for Perception tests to notice or detect a Matrix relay by its rating. A Matrix relay with a rating higher than 6 normally requires a vehicle in order to be portable. Matrix relays with ratings higher than 9 require much more space and equipment, such as a semi trailer, and are usually used only by Matrix service techs.
 [/spoiler]
 
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]标签滥用[/b][/size]
 
-
+RFID标签在第六纪无处不在，它收集和传输营销数据，通过传感器监视你们，发送广告，频繁侵犯每个人的隐私。当然，黑客们已经发现了，或者在某些情况下开发了一些可以用它们来完成的新技巧。
 
 [spoiler]
 [size=12pt][b]TAG ABUSE[/b][/size]
@@ -166,9 +160,9 @@ The more powerful a Matrix relay is, the bulkier it must be. Reduce the threshol
 RFID tags are everywhere in the Sixth World, gathering and transmitting marketing data, monitoring you via sensors, delivering advertisements, and generally invading everyone’s privacy. Of course, hackers have discovered, or in some cases developed, a few new tricks that can be done with them.
 [/spoiler]
 
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]GOD炸弹[/b][/size]
 
-
+一批软件标签装载了最令人讨厌但最终无害的病毒和其他非法软件。一旦被激活，这些标签就会开始以难以置信的速度违反法规。激活后，开始追踪GOD炸弹的OS(监视指数)。在激活后的每个战斗轮开始时，将GOD炸弹的OS提高其等级×1D6。当它达到40时，一个旨在彻底摧毁所有标签的小型爆炸物将被引爆，给GOD留下的印象是一个化身刚刚被合围并被从矩阵中甩出。这无疑会导致安保响应的不断升级，最初会在矩阵中引来次级GOD (碟客/超链者警察)，但物理安保响应小组也会出现。很明显，在你要去的地方放一个这样的东西不是个好主意，但它们在分散注意力和恶作剧时非常有效。
 
 [spoiler]
 [size=12pt][b]GOD BOMB[/b][/size]
@@ -176,9 +170,9 @@ RFID tags are everywhere in the Sixth World, gathering and transmitting marketin
 A batch of software tags loaded with the most obnoxious but ultimately harmless viruses and other illegal software. Once activated, the tags start breaking the law with incredible speed and abandon. When activated, begin tracking an Overwatch Score for the GOD bomb. At the start of every combat round after activation, increase the GOD bomb’s Overwatch Score by its rating x 1D6. When it reaches 40, a small explosive designed to utterly destroy all of the tags is detonated, leaving GOD with the impression that a persona has just been converged upon and dumped from the Matrix. This will undoubtedly cause an escalating security response, initially calling in demiGOD (decker/technomancer cops) in the Matrix, but a physical security response team will also show up. Obviously it’s a bad idea to set one of these off where you’re going to be, but they work great for distractions and practical jokes that go too far.
 [/spoiler]
 
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]尖啸标签炸弹[/b][/size]
 
-
+尖啸标签是隐形标签的对立面。它们并非无声运作，而是大吵大闹，通常带有令人厌恶的AR音频和图像。实际上，这些标签只是经过恶意修改的标准RFID标签，并添加了一些恶意代码，使其对常见的垃圾邮件过滤器免疫。就个体而言，这些标签除了骚扰、营销、破坏或非常单纯地分散注意力之外没有任何其他目的。然而，一些黑客想出了将它们集群使用的好主意。尽管没有物理爆炸，但这些设备被称为“尖啸炸弹”。几十个炸弹同时触发，可以在矩阵中产生惊人的效果。尖啸标签炸弹的等级基于被捆绑在一起的标签数量。每个等级代表大约一打标签。当它们被激活时，会产生类似干扰器的效果，将半径100米范围内的杂讯等级提高其等级的一半(向下取整)。这是非法的，并会惊动矩阵安保部队，他们会开始逐个关闭标签(表现为1D6分钟的烧毁时间)。这也使得矩阵侦察检定更加困难。在激活的尖啸标签炸弹的范围内，任何矩阵侦察检定均不能获得或使用极限。此外，任何矩阵侦察检定的骰池都会减少等同于尖啸标签炸弹的等级。与干扰器不同的是，这些区域效应设备无法屏蔽其对个人用户的影响。它们影响每个人。任何愚蠢到激活仍与自己的PAN相连的尖啸标签炸弹的人都会获得每战斗轮2D6的OS。
 
 [spoiler]
 [size=12pt][b]SCREAMER TAG BOMBS[/b][/size]
@@ -186,9 +180,9 @@ A batch of software tags loaded with the most obnoxious but ultimately harmless 
 Screamer tags are the opposite of stealth tags. They don’t run silent, they go loud, usually with obnoxious AR audio and images. These are actually just nefariously modified standard RFID tags with some malicious code that makes them immune to common spam filters. Individually, these serve no purpose beyond harassment, marketing, vandalism, or a very simple distraction. However, some hackers had the big idea to use them in clusters. Despite the lack of a physical explosion, these devices have been dubbed “Screamer Bombs.” Dozens of them at once, all tied to activate from one trigger, can create a stunning effect in the Matrix. A screamer tag bomb’s rating is based on how many tags are tied together. Each point of rating represents about a dozen tags. When they are activated, they have an effect similar to a jammer, increasing the noise level by half the rating (round down) out to a radius of 100 meters. This is also illegal and alerts Matrix security forces that begin shutting the tags down one at a time (represented by the 1D6 minute burnout time). It also makes Matrix Perception tests much more difficult. Within range of an active screamer tag bomb, no Edge may be gained or used on any Matrix Perception tests. Furthermore, the dice pool of any Matrix Perception tests is reduced by the rating of the screamer tag bomb. Unlike jammers, these area-effect devices are not capable of screening their effects from individual users. They affect everyone. Anyone foolish enough to fire off a screamer tag bomb that is still connected to their own PAN gains 2D6 overwatch every combat round.
 [/spoiler]
 
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]软件标签[/b][/size]
 
-
+软件标签比一般的数据芯片稍大，包含装载和运行单个软件所需的内置存储空间和处理能力。对于更复杂的任务，可以将多个软件标签连接在一起以同时运行多个程序。它们的功能不够强大，无法运行代理程序，但可以处理通讯链应用程序、赛博程序和自动软件。
 
 [spoiler]
 [size=12pt][b]SOFTWARE TAGS[/b][/size]
@@ -196,9 +190,9 @@ Screamer tags are the opposite of stealth tags. They don’t run silent, they go
 A software tag is slightly larger than your average datachip and contains the memory storage and processing power required to host and run a single piece of software. For more complex tasks, multiple software tags can be connected together to run several programs simultaneously. They are not powerful enough to run agent programs but can handle commlink apps, cyberprograms, and autosofts.
 [/spoiler]
 
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]间谍标签[/b][/size]
 
-
+间谍标签并不只是静默运行，而是被编程为保持离线状态，以避免任何被矩阵检测的危险，只会偶尔开启发送大量数据，然后关闭一段时间。它们可以被编程为按特定的时间表激活，但默认情况下是随机模式，以避免意外检测。除非有人在标签激活的3秒左右的时间内积极搜索信号，否则除目视扫描外，其被检测到的可能性很低。这是普通隐形标签的标准操作程序(第269页，SR6)，它只能以位置坐标和时间戳的形式报告其位置。间谍标签是经过改造的隐形标签，它可与一个或多个传感标签组合，以收集更详细的信息。在这种情况下，传感标签以脱机模式(非无线)运行，只将它们的数据发送给隐形标签。将传感标签和隐形标签连接起来会使标签变得有点笨重，但它们仍然非常小巧。
 
 [spoiler]
 [size=12pt][b]SPY TAGS[/b][/size]
@@ -206,12 +200,172 @@ A software tag is slightly larger than your average datachip and contains the me
 Instead of merely running silent, spy tags are programmed to stay offline to avoid any chance of Matrix detection, and only occasionally turn on to send a burst of data before deactivating for a time. These can be programmed to activate on a specific schedule, but the default is a randomized pattern to avoid accidental detection. Unless someone is actively searching for signals during the three seconds or so that the tag comes online, it is highly unlikely to be detected except by visual scans. This is standard operating procedure for a regular stealth tag (p. 269, SR6), which is only capable of reporting its position as location coordinates and a time stamp. Spy tags are stealth tags modified to pair with one or more sensor tags in order to gather more detailed information. In this case, the sensor tags operate in offline mode (no wireless), and only send their data to the stealth tag. Connecting a sensor tag to a stealth tag makes the tag a little bulkier, but they’re still pretty small.
 [/spoiler]
 
-[size=12pt][b]XXXXXXXXXXXXX[/b][/size]
+[size=12pt][b]耳语标签炸弹[/b][/size]
 
-
+这种设备的吵闹程度比尖啸标签炸弹要小，它产生自同一个概念，但使用了许多隐形标签，使得找出静默运行的单个图标难度更高。这些隐形标签通过非法软件进行改造，使其在矩阵上看起来有更大的设备痕迹，所以它们在被识别之前可能会被误认为是一个更大的设备。当你静默运行并激活耳语标签炸弹时，耳语标签炸弹会开始以每分钟1D6的速度产生自己的OS。如果OS达到40，它就会被合围并被摧毁，一个安保小组将被派往它的位置。当你使用耳语标签炸弹时，如果有人通过矩阵侦察检定成功发现了你，掷2D6。除非你掷出偶数，否则他们会发现一个隐形标签。每当发生这种情况时，耳语标签炸弹的等级永久降低1级。除非被合围，否则你可以停用耳语标签炸弹并重新使用它，但任何等级降低都是永久性的。假定它们被烧毁或被矩阵安保部队砖化。
 
 [spoiler]
 [size=12pt][b]WHISPER TAG BOMB[/b][/size]
 
 Less noisy than a screamer tag bomb, this device comes from the same concept but uses many stealth tags to make it harder to pick out individual silent-running icons. These stealth tags are modified with illegal software to appear to have a larger device footprint on the Matrix, so that they might be mistaken for a larger device until identified. When you are running silent and activate a whisper tag bomb, the whisper tag bomb begins to generate an Overwatch Score of its own at a rate of 1D6 per minute. If this score ever reaches 40, it is converged upon and destroyed, and a security team will be sent to its location. When you are using a whisper tag bomb, if anyone successfully spots you using a Matrix perception test, roll 2D6. Unless you roll doubles, they spotted a stealth tag instead. Permanently reduce the whisper tag bomb’s rating by 1 every time this happens. Unless converged upon, you can deactivate and reuse a whisper tag bomb, but any rating reductions are permanent. Assume that they burn out or are bricked by Matrix security forces.
 [/spoiler]
+
+---
+
+[size=14pt][b]通讯链改装[/b][/size]
+
+通讯链是当下用于生成化身和PAN的最常见的矩阵设备。大多数人使用它们作为电话、口袋秘书、个人电脑、便携式娱乐系统，并在防火墙下保护他们的数据和设备。黑客们已经找到了其他方法，通过软件和硬件改装的结合来让它们发挥作用。装甲链，安保链与隐匿链升级的目的是改进通讯链，使其具有新的功能。你可以在同一通讯链上组合多个升级。另一种情况，黑客将通讯链完全改装成新设备。这些不可逆转的改变以新目的取代了通讯链的全部功能。这些改装不能在同一通讯链上组合，每次改装都会重新利用整个通讯链。
+
+[spoiler]
+[size=14pt][b]COMMLINK HACKS[/b][/size]
+
+Commlinks are by far the most common Matrix devices used to generate a persona and PAN. Most people use them as a phone, pocket secretary, personal computer, portable entertainment system, and to protect their data and devices under a firewall. Hackers have found other ways to make them useful with a combination of software and hardware hacks. The armorlink, securelink, and stealthlink upgrades are designed to improve a commlink with a new function. You can combine multiple upgrades on the same commlink. Hacks, on the other hand, completely repurpose a commlink into a new device. These irreversible modifications replace the commlink’s entire functionality with a new purpose. These can’t be combined on the same commlink each hack repurposes an entire commlink.
+[/spoiler]
+
+[size=12pt][b]代理盒改装[/b][/size]
+
+代理软件在赛博碟板上运行时效果最佳，但是改装后的通讯链可被设计为用来独立于承载代理的赛博碟板来存储和运行代理程序的设备。将通讯链改装为代理盒需要进行电子学(硬件)+逻辑延续检定，其阈值等于通讯链设备等级的两倍，间隔时间为一小时。一旦转换完成，通讯链就变成了一个代理盒，其等级等于原始通讯链的设备等级。代理箱充当代理的外部程序载体，该代理的等级不能高于代理箱的等级。有关代理的详细规则，包括代理箱的具体用途，请参阅“数字工具箱”一章(第55页)。
+
+[spoiler]
+[size=12pt][b]AGENT BOX HACK[/b][/size]
+
+Agent software runs best on a cyberdeck, but a hacked commlink can be designed for use as a separate device made to host and run an agent program independently of its host cyberdeck. Hacking a commlink into an agent box requires an Electronics (Hardware) + Logic Extended test with a threshold equal to double the commlink’s device rating and an interval of one hour. Once transformed, the commlink becomes an agent box with a rating equal to the original commlink’s device rating. An agent box acts as an external program carrier for an agent with a rating no higher than the rating of the agent box. Detailed rules for agents, including specific uses for agent boxes, are in the Digital Toolbox chapter (p. 55).
+[/spoiler]
+
+[size=12pt][b]装甲链升级[/b][/size]
+
+带有装甲链升级的通讯链在保护自身和PAN内的设备免受矩阵攻击方面更有效。在抵抗矩阵伤害的任何检定中添加数目等于装甲链升级等级的奖励骰，这一效果作用于该通讯链及连接到PAN的任何设备。装甲链升级的最大等级等于通讯链的设备等级。
+
+[spoiler]
+[size=12pt][b]ARMORLINK UPGRADE[/b][/size]
+
+A commlink with an armorlink upgrade is more effective at protecting itself and the devices within its PAN against Matrix attacks. Add bonus dice equal to the armorlink upgrade rating to any test made to resist Matrix damage, which benefits the commlink as well as any devices connected to its PAN. The maximum rating for an armorlink upgrade is equal to the commlink’s device rating.
+[/spoiler]
+
+[size=12pt][b]诱饵舱改装[/b][/size]
+
+诱饵舱是一种大型手持设备，由一个改装通讯链、一个干扰器和一个接线混乱的框架组成，该框架将数量多到离谱的隐形标签连接在一起。当连接到赛博碟板并激活时，它会混淆安保协议并将注意力从你的化身上转移开。当你积攒OS时，它将计入诱饵舱而不是你的化身。一旦诱饵舱获得了相当于其等级x2的OS，它就会过热并爆炸，在地面零点造成4P的火焰伤害。出于显而易见的原因，大多数碟客都在无线模式下使用它们。你一次只能使用一个诱饵舱。由于需要仔细校准，激活诱饵舱需要花费一个主要动作。它可以通过一个次要动作立即停用。如果一个诱饵舱在它被摧毁之前就被停用，它重新启动时不带有OS。已爆炸的诱饵舱无法恢复。
+
+[spoiler]
+[size=12pt][b]DECOY POD HACK[/b][/size]
+
+A decoy pod is a large handheld device built from a repurposed commlink, a jammer, and a confusingly wired frame that ties together a ridiculous number of stealth tags. When connected to a cyberdeck and activated, it confuses security protocols and draws attention away from your persona. When you accrue overwatch, it goes to the decoy pod instead of your persona. Once a decoy pod has gained a number of points of overwatch equal to its rating x 2, it overheats and explodes, dealing 4P fire damage at ground zero. For obvious reasons, most deckers use these in wireless mode. You can only use one decoy pod at a time. Activating a decoy pod requires a Major Action due to the careful calibration required. It can be deactivated immediately with a Minor Action. If a decoy pod is deactivated before it is destroyed, it reboots with no Overwatch Score. An exploded decoy pod is not recoverable.
+[/spoiler]
+
+[size=12pt][b]化身增幅器改装[/b][/size]
+
+化身增幅器是一个已超频的通讯链，它的操作系统被清除并替换为非法软件，它的整个目的都被改变用于提高化身的处理能力。它们被设计用于连接赛博碟板，但也可用于RCC或通讯链。不幸的是，对于超链者们来说，这些东西并不适合他们。破解通讯链以将其转换为化身增幅器需要一个电子学工具箱和电子学(硬件)+逻辑延续检定，其阈值等于通讯链设备等级的两倍，间隔时间为一小时。一旦完成，该设备将不再是通讯链，而是成为一个化身增幅器，这一过程不可逆转，其等级等于原始通讯链设备等级的一半(向上取整)。当化身增幅器通过数据线直接连接(无论是到你的设备还是到数据插口)时，它可以用于增幅任何矩阵动作。启动化身增幅器需要花费一个次要动作，之后在你下一个矩阵动作的骰池中加入一定数量的狂野骰。[color=green](此处应为"加入等于其等级数量的狂野骰")[/color]如果你有多个化身增幅器，你可以使用任意数量的增幅器来强化你的矩阵动作，但你必须花费次要动作来激活每一个增幅器。化身增幅器可以在无线模式下使用，但它们只能提供直连模式下一半数量的狂野骰(向上取整)。你会问，这有什么好处?首先，这些设备可能非常不可预测。狂野骰会带来好处，也会带来坏处，尽管它们更有可能带来帮助而非阻碍。其次，这些设备运行时温度高、噪声大，并且很快就会烧毁。每次使用后，化身增幅器的等级会永久降低1级。此外，你的OS会增加等于从化身增幅器中获得的所有狂野骰的面值总和。GOD很讨厌这些东西。
+
+[spoiler]
+[size=12pt][b]PERSONA BOOSTER HACK[/b][/size]
+
+A persona booster is a commlink that has been overclocked, its operating system wiped and replaced with illegal software, and its entire purpose altered in order to add to the processing power of a persona. They’re designed to interface with cyberdecks but can also be used with an RCC or commlinks. Unfortunately for technomancers, these things don’t work for them. Hacking a commlink to transform it into a persona booster requires an Electronics toolkit and an extended Electronics (Hardware) + Logic test with a threshold equal to double the commlink’s device rating and an interval of one hour. Once complete, the device irreversibly ceases to be a commlink and is now a persona booster, with a rating equal to half the original commlink’s device rating (round up). When a persona booster is connected directly via a data cable (either to your device or to a datajack), it can be engaged to enhance any Matrix Action. Engaging the persona booster requires a Minor Action, after which you add a number of wild dice to the dice pool for your next Matrix Action. If you have multiple persona boosters, you may use as many of them as you like to boost your Matrix Action, but you must spend a Minor Action to activate each one of them. Persona boosters may be used in wireless mode, but they only provide half as many wild dice (round up) as when they’re plugged in. What’s the catch, you ask? First of all, these devices can be very unpredictable. The wild dice giveth and the wild dice taketh away, though they are more likely to help than hinder. Second, these devices run hot and loud, and burn out quickly. After each use, permanently reduce a persona booster’s rating by 1. Furthermore, your Overwatch Score is increased by the total amount rolled on all wild dice gained from persona boosters. GOD hates these things.
+[/spoiler]
+
+[size=12pt][b]安保链升级[/b][/size]
+
+通讯链的防火墙增加等同于其安保链升级的等级，但只生效于抵抗骇入动作时。安保链升级的最大等级等于通讯链未改装时的防火墙属性。
+
+[spoiler]
+[size=12pt][b]SECURELINK UPGRADE[/b][/size]
+
+A commlink’s Firewall is increased by the rating of its securelink upgrade, but only when resisting Hack actions. The maximum rating for a securelink upgrade is equal to the commlink’s unmodified Firewall attribute.
+[/spoiler]
+
+[size=12pt][b]隐匿链升级[/b][/size]
+
+通讯链获得等于其隐匿链升级的等级的隐匿性属性。该隐匿性仅限于矩阵隐匿，并只生效于抵抗矩阵侦察动作。这使得通讯链在静默运行时更加有效，但不允许进行其他需要赛博碟板或活体化身的矩阵动作。隐匿链升级的最大等级等于通讯链未改装时的数据处理属性。
+
+[spoiler]
+[size=12pt][b]STEALTHLINK UPGRADE[/b][/size]
+
+A commlink gains a Sleaze attribute equal to its stealthlink upgrade rating. This Sleaze attribute is limited to Matrix stealth, and only applies when resisting a Matrix Perception action. This makes the commlink much more effective at running silent but does not allow for other Matrix Actions that would require a cyberdeck or living persona. The maximum rating for a stealthlink upgrade is equal to the commlink’s unmodified Data Processing attribute.
+[/spoiler]
+
+---
+
+[quote]
+[size=14pt][b]小道具[/b][/size]
+
+[table]
+[tr][td][b]数据阀[/b][/td][td][b]可获得性[/b][/td][td][b]成本[/b][/td][/tr]
+[tr][td]箭型阀[/td][td]4(I)[/td][td]2,000¥[/td][/tr]
+[tr][td]射钩阀[/td][td]4(I)[/td][td]750¥[/td][/tr]
+[tr][td]50m缆线轴[/td][td]2[/td][td]50¥[/td][/tr]
+[tr][td]射钩吊舱[/td][td]4(I)[/td][td]350¥[/td][/tr]
+[tr][td]激光接口[/td][td]4[/td][td]100¥/对[/td][/tr]
+[tr][td]链接手套[/td][td]5(L)[/td][td]500¥/副[/td][/tr]
+[tr][td]隐匿阀[/td][td]2(I)[/td][td]500¥[/td][/tr]
+[tr][td]泰瑟阀[/td][td]5(I)[/td][td]400¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]矩阵中继器[/b][/td][td][b]可获得性[/b][/td][td][b]成本[/b][/td][/tr]
+[tr][td]等级1–3[/td][td]2[/td][td]等级x1,000¥[/td][/tr]
+[tr][td]等级4–6[/td][td]4(L)[/td][td]等级x5,000¥[/td][/tr]
+[tr][td]等级7–9[/td][td]6(L)[/td][td]等级x20,000¥[/td][/tr]
+[tr][td]等级10+[/td][td]等级(L)[/td][td]等级x50,000¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]标签滥用[/b][/td][td][b]等级[/b][/td][td][b]可获得性[/b][/td][td][b]成本[/b][/td][/tr]
+[tr][td]GOD炸弹[/td][td]1–6[/td][td]4(I)[/td][td]等级x500¥[/td][/tr]
+[tr][td]尖啸标签炸弹[/td][td]1–6[/td][td]2(I)[/td][td]等级x100¥[/td][/tr]
+[tr][td]软件标签[/td][td]1[/td][td]4(L)[/td][td]100¥[/td][/tr]
+[tr][td]间谍标签[/td][td]2[/td][td]2(L)[/td][td]250¥每传感器种类[/td][/tr]
+[tr][td]耳语标签炸弹[/td][td]1–6[/td][td]2(I)[/td][td]等级x200¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]通讯链改装[/b][/td][td][b]等级[/b][/td][td][b]可获得性[/b][/td][td][b]成本[/b][/td][/tr]
+[tr][td]代理盒[/td][td]1-6[/td][td]3(I)[/td][td]通讯链成本+等级x100¥[/td][/tr]
+[tr][td]装甲链[/td][td]1-6[/td][td]4(L)[/td][td]等级x250¥[/td][/tr]
+[tr][td]诱饵舱[/td][td]1-6[/td][td]4(I)[/td][td]通讯链成本+等级x100¥[/td][/tr]
+[tr][td]化身增幅器[/td][td]1-3[/td][td]3(I)[/td][td]通讯链成本+等级x100¥[/td][/tr]
+[tr][td]隐匿链[/td][td]1-3[/td][td]4(I)[/td][td]等级x1,000¥[/td][/tr]
+[tr][td]安保链[/td][td]1-3[/td][td]4(L)[/td][td]等级x500¥[/td][/tr]
+[/table]
+
+[spoiler]
+[size=14pt][b]GIZMOS[/b][/size]
+
+[table]
+[tr][td][b]DATA TAP[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Arrow Tap[/td][td]4(I)[/td][td]2,000¥[/td][/tr]
+[tr][td]Grapple Tapper[/td][td]4(I)[/td][td]750¥[/td][/tr]
+[tr][td]50m Cable Spool[/td][td]2[/td][td]50¥[/td][/tr]
+[tr][td]Grappler Tap Pod[/td][td]4(I)[/td][td]350¥[/td][/tr]
+[tr][td]Laser Jack[/td][td]4[/td][td]100¥/pair[/td][/tr]
+[tr][td]Link Glove[/td][td]5(L)[/td][td]500¥/glove[/td][/tr]
+[tr][td]Stealth Tap[/td][td]2(I)[/td][td]500¥[/td][/tr]
+[tr][td]Taser Tap[/td][td]5(I)[/td][td]400¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]MATRIX RELAY[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Rating 1–3[/td][td]2[/td][td]Rating x 1,000¥[/td][/tr]
+[tr][td]Rating 4–6[/td][td]4(L)[/td][td]Rating x 5,000¥[/td][/tr]
+[tr][td]Rating 7–9[/td][td]6(L)[/td][td]Rating x 20,000¥[/td][/tr]
+[tr][td]Rating 10+[/td][td]Rating(L)[/td][td]Rating x 50,000¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]TAG ABUSE[/b][/td][td][b]RATING[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]GOD Bomb[/td][td]1–6[/td][td]4(I)[/td][td]Rating x 500¥[/td][/tr]
+[tr][td]Screamer Tag Bomb[/td][td]1–6[/td][td]2(I)[/td][td]Rating x 100¥[/td][/tr]
+[tr][td]Software Tag[/td][td]1[/td][td]4(L)[/td][td]100¥[/td][/tr]
+[tr][td]Spy Tag[/td][td]2[/td][td]2(L)[/td][td]250¥ per sensor type[/td][/tr]
+[tr][td]Whisper Tag Bomb[/td][td]1–6[/td][td]2(I)[/td][td]Rating x 200¥[/td][/tr]
+[/table]
+
+[table]
+[tr][td][b]COMMLINK HACKS[/b][/td][td][b]RATING[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Agent Box[/td][td]1-6[/td][td]3(I)[/td][td]Commlink cost plus rating x 100¥[/td][/tr]
+[tr][td]Armorlink[/td][td]1-6[/td][td]4(L)[/td][td]Rating x 250¥[/td][/tr]
+[tr][td]Decoy Pod[/td][td]1-6[/td][td]4(I)[/td][td]Commlink cost plus rating x 100¥[/td][/tr]
+[tr][td]Persona Booster[/td][td]1-3[/td][td]3(I)[/td][td]Commlink cost plus rating x 100¥[/td][/tr]
+[tr][td]Stealthlink[/td][td]1-3[/td][td]4(I)[/td][td]Rating x 1,000¥[/td][/tr]
+[tr][td]Securelink[/td][td]1-3[/td][td]4(L)[/td][td]Rating x 500¥[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
