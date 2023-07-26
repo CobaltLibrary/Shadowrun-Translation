@@ -29,8 +29,6 @@
 
 [size=12pt][b]数字工具箱 P.55[/b][/size]
 编写代码 P.55
-编程检定 P.55
-编程工具 P.56
 通讯链应用 P.56
 新赛博程序 P.57
 代理 P.59
@@ -55,7 +53,7 @@
 [url=https://www.goddessfantasy.net/bbs/index.php?topic=138907.0]创建特质历程 P.88[/url]
 
 [size=12pt][b]联盟永存 P.89[/b][/size]
-人多势众 P.89
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=141707.0]人多势众 P.89[/url]
 幸存的老兵 P.90
 新兵与初创者 P.94
 游戏机制 P.100
@@ -116,8 +114,6 @@ Game Information P.47
 
 [size=12pt][b]DICITAL TOOL BOX P.55[/b][/size]
 Writing Code P.55
-Programming Test P.55
-Programming Tools P.56
 Commlink Apps P.56
 New Cyberprograms P.57
 Agents P.59
