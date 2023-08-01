@@ -1,0 +1,31 @@
+[color=brown][size=16pt][b]矩阵拓扑 章首故事[/b][/size][/color]
+
+Hex正在地球上空大约500公里处飞行。在远处，他可以看到漂浮在大气层上空的太空港-会议点空间站(Treffpunkt Raumhafen, 对应英文为Meeting-place Spaceport)。他并不孤单。两百公里外一只狗正在和一个水晶机器人交谈。Hex将镜头拉近，他可以看到机器的闪耀水晶上狗毛的倒影。Hex在等待。
+
+突然，他的左手食指跳动起来。他看了看漂浮在他面前的一台半透明显示器——只有他能看到的显示器。视频画面显示，一名身穿黑色西装、戴着镜面眼镜的男子正走出一栋大楼。该走了。
+
+黑客的速度快得像一团模糊的光，他接近了北美，转移到UCAS的区域电信网络上，没有一纳秒的停顿。他继续向前飞奔，直到他站在西雅图矩阵，面前是一辆闪烁着翡翠般的火焰、闪闪发光的出租车。这辆出租车会把他带到他的目的地，一个私人网络。他进入出租车，飞快地穿过一条数据高速公路，一直到达远处一片夕阳西下的田野。一个农夫走了过来，要求交易货物。Hex从口袋里拿出一辆干草车递给了他。农夫点了点头，然后回到田里拾掇庄稼。
+
+Hex大步朝农场走去。它由一间谷仓、一栋主楼和一间小屋组成。他在心里飞快地默念了一串简短指令，建筑物旁边出现了一些小描述。一个穿着蓝色工作服的人从谷仓里走了出来。Hex把手伸进口袋，掏出一个小放大镜。他透过放大镜观察着这个工人，阅读着在空中浮现出的长长的数据。那个穿蓝衣服的人只是另一个化身。
+
+随着另一个精神指令的下达，眼前的景色瞬间发生了变化。建筑物变成了灰色的小块，中间夹杂着黑色的细线，随着数据流量的闪光而跳动。他周围的领域缩小成了一个只有一扇门的大房间，而来时的路就在那里。Hex的现实过滤器剥离了所有的无用和荒谬，将网络的外观转换为他喜欢的纯粹信息内容。
+
+黑客分析了他所在的房间，这个节点是网络中枢。几秒钟后，他破解了进入中枢的方法，阅读了为安保用户留下的节点说明，并在网络节点的标签上添加了更多的信息。以前的谷仓，现在只是一个灰色块，变成了红色，以表明它是一个安保节点。一个小型指纹扫描仪标记了入口。
+
+Hex笑了。有时候，一切都太容易了。他掏出一把枪，朝扫描仪开了一枪。区块开始发出红光。警报激活。带着那未抵达到他身体的笑容，Hex注销了节点。
+
+[spoiler]
+Hex was flying some five hundred kilometers above the Earth. In the distance he could see the space station Treffpunkt Raumhafen, floating above the atmosphere. He was not alone. Two hundred kilometers away a dog was talking to a crystal robot. Hex zoomed in, and he could see the reflections of the dog’s fur in the sparkling crystals of the machine. Hex was waiting. 
+
+Suddenly his left index finger was throbbing. He looked at one of the semi-opaque monitors floating in front of him—the ones only he could see. The video feed showed a man in a black suit with mirrored glasses walking out of a building. It was time to go. 
+
+The hacker, a bright blur of speed, approached North America, shifting to the regional telecommunication grid of the UCAS without a nanosecond’s pause. Further on he sped until he stood in the Seattle Matrix in front of a shining cab gleaming with emerald fire. This cab would take him to his destination, a private network. He entered the taxi and darted through a data highway until he reached a distant field with a setting sun. A farmer approached, asking for goods to trade. Hex produced a hay cart from his pockets and offered it. The farmer nodded and went to work on the crops in the field. 
+
+Hex strode on towards the farm. It consisted of a barn, a main building, and a small cottage. He mentally ran through a short series of instructions, and small descriptions appeared next to the buildings. A man in blue working clothes came out of the barn. Hex reached into his pockets and drew out a small magnifying glass. He watched the worker through the glass and read the long lines of data materializing in the air. The man in blue was just another persona. 
+
+With another mental command, the scenery instantly transformed. The buildings turned into small gray blocks with fine black lines in between, pulsing with the light of data traffic. The fields around him shrank to a large room with only one door where the road had been. Hex’s reality filter had stripped away the useless and the nonsensical, translating the look of the network to the bare information-content he preferred. 
+
+The hacker analyzed the room he was in, the node acting as network hub. Seconds later he had cracked his way into the hub, reading the node descriptions reserved for security users and adding further information to the labels of the network’s nodes. The former barn, now just a gray block, turned red, showing it to be a security node. A small plate fingerprint scanner marked the entrance. 
+
+Hex smiled. Sometimes it was just too easy. He pulled out a gun and fired at the scanner. The block started to glow in red light. Active alert. With a grin that never reached his physical body Hex logged off the node.
+[/spoiler]

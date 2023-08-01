@@ -29,8 +29,8 @@
 章首故事 P.40
 在矩阵利用你之前利用它 P.42-46
 
-[size=12pt][b]矩阵的拓扑结构[/b][/size]
-章首故事 P.47
+[size=12pt][b]矩阵拓扑[/b][/size]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=141891.0]章首故事 P.47[/url]
 硬件 P.48-51
 软件和数据 P.51-52
 协议 P.52-55
