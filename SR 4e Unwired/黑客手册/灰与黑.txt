@@ -258,7 +258,7 @@ While odd, each of these services helps out someone else in the network—by pro
 
 ---
 
-[size=14pt][b]有价值数据[/b][/size]
+[size=14pt][b]值钱数据[/b][/size]
 
 在第六纪，信息是一种商品，这是一个黑客和暗影狂奔者比大多数人更清楚的事实。在许多场狂奔中，首要目标是不惜一切代价获取数据，而在更多的狂奔中，在系统中进行一些明智的浏览就能在将数据文件卖给当地中间人或数据经纪人时大赚一笔。
 

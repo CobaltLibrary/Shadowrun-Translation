@@ -204,9 +204,9 @@ Rarely, a virtual private network may make use of a node to facilitate real-time
 
 ---
 
-[size=14pt][b]有价值数据[/b][/size]
+[size=14pt][b]值钱数据[/b][/size]
 
-转手有价值数据的一般规则见SR4第303页。可以在有价值数据街头成本表中找到适用于有价值数据的其他修正。
+转手值钱数据的一般规则见SR4第303页。可以在值钱数据街头成本表中找到适用于值钱数据的其他修正。
 
 [spoiler]
 [size=14pt][b]PAYDATA[/b][/size]
@@ -216,7 +216,7 @@ General rules for fencing paydata are found on p. 303 of SR4. Additional modifie
 
 [quote]
 [table]
-[tr][td][b]有价值数据街头成本[/b][/td][/tr]
+[tr][td][b]值钱数据街头成本[/b][/td][/tr]
 [tr][td][b]状况[/b][/td][td][b]成本调整[/b][/td][/tr]
 [tr][td]数据损坏了，但大部分可以挽救[/td][td]–20%到–50%[/td][/tr]
 [tr][td]数据只能在过时的介质上读取[/td][td]–20%[/td][/tr]
