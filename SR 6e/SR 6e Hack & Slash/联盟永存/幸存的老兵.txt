@@ -1,0 +1,279 @@
+[color=brown][size=16pt][b]幸存的老兵[/b][/size][/color]
+
+这些组织已经存在很长一段时间了。其中一些甚至可以追溯到前结构层矩阵时期。下面列出的这些组织仍然存在，仍在做他们的事情——有几个甚至还提供了一两项有价值的服务。
+
+[spoiler]
+[color=brown][size=16pt][b]SURVIVING VETERANS[/b][/size][/color]
+
+These groups have been around for quite a while. A few of them even have roots in the pre-Foundation Matrix. Those listed below are still around, still doing their thing—and a few of them even offer a valuable service or two.
+[/spoiler]
+
+---
+
+[size=14pt][b]丹佛联合体[/b][/size]
+
+[color=purple]发帖人：Perri[/color]
+
+丹佛联合体由一群坚韧而高洁的人组成，他们决心保卫弗兰特山自由区(Front Range Free Zone，FRFZ，即丹佛及其周边地区)及其既存要素免受暗影侵蚀，并竭力使其远离白色巨龙的魔爪。与过去几年相比，这个严密组织的大部分目标都没有改变。最近发生在这座一英里高城市(丹佛)的事件使他们总体的关注焦点发生了一些变化。该组织的核心是它的领导层，而Perri则担任中央发言人一职。
+
+> 致那些没有跟上丹佛最新事件的人：82年2月，幽魂行者被转移注意力时发生了一些诡异的事情，其中包括了Nexus被针对并遭到袭击。由MCT运作的某个秘密公司项目以灾难性的失败告终，引发了一场魔法风暴并导致城内许多居民受害。更令人担忧的是，这次实验还引发了矩阵中设备的大规模故障，主要集中在科罗拉多国家银行。我怀疑丹佛联合体仍在调查后一事件。
+
+> Sim-Eon
+
+虽然在过去，他们首先也最重要地是作为一个主要数据港的管理者，但现在的丹佛联合体更多关注于支持FRFZ的暗影活动，并协助将重要与敏感的数据转移到其他安全位置，同时保持其自身的藏身处完好。
+
+> DC(丹佛联合体)并不等同于Nexus或丹佛数据港，我想帮Perri澄清这一点。Nexus的规模比DC更大，拥有比联合体那小而紧密的家庭更多的成员。Nexus的全体员工不仅仅是联合体成员，还包括了像Sparrow和Nix这样的个人，他们作为全权员工，没有任何一人是浮现者，但所有人都能充分施展自身的技能以求生存。多年以来，联合体和Nexus经历了许多挫折，Perri正在竭尽全力使事情顺利运转。最近发生的一系列事件险些导致他们的一座住有几名重要人物的安全屋被炸毁。
+
+> Bull
+
+[spoiler]
+[size=14pt][b]DENVER COLLECTIVE[/b][/size]
+
+Posted by: Perri
+
+The Denver Collective is a tough and tidy group of people determined to keep the Front Range Free Zone and all its containing elements well informed from the shadows, and keep it outside the vice-like grip of the White Wyrm. The goals of this tight group remain, for the most part, unchanged from years past. Recent events in the Mile-High City caused some shift in their overall focus. The core of the group is its leadership, with Perri serving as the central spokesperson.
+
+> For those of you who have not kept up with the latest events in Denver: There were some shenanigans back in February ’82, while Ghostwalker was distracted, including the Nexus being targeted and attacked. Some weird, secret corporate project, run by MCT, catastrophically failed and led to a manastorm that hurt a lot of people in the city. Even more concerning, this experiment also triggered a massive failure of devices in the Matrix, focused on the Colorado National Bank. I suspect the latter event is still under investigation by the Denver Collective.
+
+> Sim-Eon
+
+Although in the past, they were first and foremost the administrators of a major data haven, now the Denver Collective focuses more on supporting the FRFZ shadows and helping move important and sensitive data to other secure locations, as well as just keeping their own hides intact.
+
+> The DC is not the same thing as the Nexus, or Denver Datahaven, and I want to help Perri clarify this. The Nexus has a larger body than just the DC and has more people than the Collective’s own small and tight-knit family. The full staff of the Nexus is not just the Collective members and includes individuals such as Sparrow and Nix, who serve as fully empowered staff, none of whom are Emergent but all of whom are capable of laying down the skills to keep surviving. The Collective and the Nexus have been put through a drekload of crap over the years, and Perri’s doing her damnedest to keep things working smoothly. This is all a lot tougher after recent events, which included one of their safehouses nearly getting blown up with several important individuals within.
+
+> Bull
+[/spoiler]
+
+[quote]
+[size=14pt][b]丹佛联合体[/b][/size]
+
+[b]成员数：[/b]8
+
+[b]种类：[/b]浮现团体
+
+[b]团体关系等级：[/b]7 (范围[蔓城区级]，资源[有限]，觉醒[无成员]，矩阵[显著]，良好连接)
+
+[b]主机等级：[/b]7 (8/9/7/10) (结构层)
+
+[b]限制：[/b]社区(兄弟会)，不隶属于幽魂行者
+
+[b]待遇：[/b]DC是21世纪最受尊敬、最受关注的矩阵团体之一。因此，在极度需要的时候，该团体中信誉良好的成员在寻求任何类别的商品或服务的帮助时，可将其团体关系等级视为比实际高出两点。在进行与团体关系等级相关的检定时，他们还可获得一点极限奖励。
+
+[b]资助：[/b]所有成员都致力于本团体及其资源谋取利益。DC在Nexus的整体结构内运作，由Perri担任Nexus的首席管理员。联合体能够从Nexus中获取资源，每月发放相当于500新元的小额津贴用于其成员的开支。这是对Nexus主机访问权限的补充，因为Nexus可以负担得起这些相关的暗影资源，而不会危及其安保情况或运营目标。
+
+[b]GM注解：[/b]这些数据反映了丹佛联合体，一个由超链者组成的浮现团体，他们是Nexus数据港的运营核心。他们并不反映Nexus的情况，后者的详细信息可以在《第六世界伴侣》第176页中找到。本数据中包括了DC井，这是他们独立于Nexus的自己所有的主机。
+
+[spoiler]
+[size=14pt][b]THE DENVER COLLECTIVE[/b][/size]
+
+[b]Members:[/b] 8 
+
+[b]Type:[/b] Emergent 
+
+[b]Group Connection Rating:[/b] 7 (sprawl-wide scope, limited resources, no Awakened, significant Matrix, well-connected)
+
+[b]Host Rating:[/b] 7 (8/9/7/10) (Foundation) 
+
+[b]Restrictions:[/b] Community (Fraternity), cannot be a vassal of Ghostwalker. 
+
+[b]Perks:[/b] The DC is one of the most respected and talked-about Matrix groups of the twenty-first century. As such, in times of great need, a member of this group in good standing while searching for assistance with any category of goods or services may do so as if the Group Connection Rating is two points higher than it actually is. They also gain a bonus point of Edge when performing tests related to the Connection rating. 
+
+[b]Patronage:[/b] All members work to benefit the organization and its resources. The DC operates within the overall structure of the Nexus, with Perri serving as the lead administrator to the Nexus. The Collective is able to pull resources from the Nexus in the form of a small stipend equaling 500 nuyen a month to go toward expenses of its members. This is in addition to access to the Nexus hosts, as the Nexus can afford those related shadow resources without risking its security or operational goals. 
+
+[b]Gamemaster Note:[/b] These statistics are for the Denver Collective, which is the Emergent group of technomancers who are central to the operation of the Nexus Datahaven. They are not a reflection of the Nexus, which can be found highlighted on p. 176 of the Sixth World Companion. These statistics include the DC Well, which is their own host separate from the Nexus.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]黑客之家[/b][/size]
+
+黑客之家是崩溃2.0前的一个软件工程网站，许多人都要感谢它提供的定制编程。该网站最初由“三人组”创建，当时的二十多名员工并没有表现出任何宅客能力。黑客之家被认为在尤蒙刚德(Jormungand)病毒爆发后就消失了，事实上，在那段时间里，他们近一半的主机工作人员都被成功撤出。残余的数据港重新上线时也没有留下任何关于定制者或其主机的踪迹。当然，关于他们还活着的传言一直存在，事实上，一些来自黑客之家的人幸存了下来，并在他们力所能及的地方工作着。在整个60年代，残余的程序员们将他们的工作进一步深入到新兴矩阵计划的底层，做他们想做的事情，远离丹妮尔·德·拉·马尔不断扩张的矩阵变革。
+
+这个团体和他们的资源在基于结构层的矩阵不断扩展的迷失域中悄然重建，但他们也在基于硬件的矩阵的更深角落里开展工作。在一片寂静之中，他们的人数恢复了，他们找到了新的地方继续他们的工作。要成为该团体的实际成员，必须展示掌握的技能，了解旧协议和软件以及当前的地址，并且必须随时了解不断进步的技术和趋势。
+
+现在，他们在一个重组的迷失主机内协调他们的活动，而全球矩阵计划则鞭长莫及。如果你遇到了这个主机，它会像是一条双向盘绕的大蛇，由无数种颜色包围着其内部结构。访问“双头蛇之门”(Wyrmgate)会像其名称一样考验你的能力和技巧，确保如果你能进入，你就能理解其中的内容，并为之做出贡献。这些测试并不容易，失败意味着你会发现自己被立即转移到矩阵的其他地方。目前还不知道最后一部分是如何完成的。如果您只想与该团体的成员交流，你可以在双头蛇之门上提出请求，并将请求转达给你要找的人。
+
+该团体仍提供软件和编码专家等服务，但仅限于那些不隶属于任何公司机构的人。任何拥有企业SIN的人且试图接近他们的人都会发现，他们的态度往好里说是冷淡，往坏里说是只有敌意。
+
+> 嘿，又到了酷知识的时间了。在他们的迷失主机内。它就像一个不断移动的图书馆，有书桌和角落，允许合法访问者使用。如果你能找到它，那么确实存在一个包含他们所有内容的索引，但仅供成员直接使用。我曾被允许研究一些我不相信在大公司及其黑网站之外存在的内容。他们现在很固执，也很保守，但如果你和他们平等交流，他们拥有丰富的编码信息。
+
+> Beaker
+
+> 进入并不容易。这些挑战非常艰巨，而且是由我见过的最深沉、最闪亮的龙型面孔向你发出的。这让我想起了倒影池或事件视界的挑战，但更有针对性。如果你没有通过测试，那东西就会向你眨眼，而你就会……去别的地方。第二次尝试时，我发现自己来到了斯宾拉德国际开罗办公室的入口。
+
+> Facet
+
+[spoiler]
+[size=14pt][b]HACKER HOUSE[/b][/size]
+
+Hacker House is a pre-Crash 2.0 software and engineering site to which many owe thanks for custom programming. The site was originally founded by the Three, and the first twenty or so staff did not exhibit any otaku-like capabilities. Hacker House was believed lost in the aftermath of the Jormungand virus, and in truth, nearly half of their host staff was taken down during that time. When the surviving data havens came back online, there remained no sign of the customizers or their hosts. Of course, rumors of their survival persisted, and in truth, some of the people from HH were alive and working where they could. Through the entirety of the ’60s, the remaining cabal of programmers took their work further into the underbelly of the emerging wireless initiative, doing what they wanted well away from Danielle de la Mar’s widening Matrix reforms.
+
+The group and their resources re-established quietly in the growing wilds of the Foundation-based Matrix, but they were also mirroring their work in deeper recesses of the older places of the hardware-based Matrix. In silence, their numbers returned, and they found newer places to continue their work. To be an actual member of the organization, one must display the skills and understanding of older protocols and software, along with current addressing, and they must stay apprised of advancing technologies and trends. 
+
+They now coordinate their activities within a restructured wild host, beyond the reach of the Global Matrix Initiative. If you encounter the host at all, it will appear as a bi-directional coiling serpent of myriad colors encircling a structure within. Accessing the Wyrmgate, as it is called, will test your abilities and skills, ensuring that if you can enter, you can understand what is within and contribute to it as well. The tests are not easy, and failure means you will find yourself immediately relocated somewhere else within the Matrix. How this last part is done is unknown at this time. If you merely wish to speak with a member of the group, you can make an appeal at the Wyrmgate, with said appeal relayed to the party you are seeking. 
+
+The group still offers services such as software and coding specialists, but only to those unaffiliated with any corporate agency. Anyone seeking to approach them who has a corporate SIN will find their demeanor cold at best, hostile at worst.
+
+> Hey, time for cool knowledge. Within their host, it’s wild. It’s like an ever-moving library with desks and nooks allowing legit access. If you can find it, an index of everything they have does exist, but using it directly is for members only. I’ve been allowed to research content I didn’t believe existed outside of the megas and their black sites. They are sticklers now, and defensive too, but if you play fair with them, they possess a wealth of coding information.
+
+> Beaker
+
+> Entry is not easy. Those challenges are tough, and delivered to you by the deepest, most scintillant, dragon-type visages I’ve seen. It kind of reminds me of the challenges at the Reflecting Pool or Event Horizon, but much more focused. But if you don’t pass the test, the thing winks at ya, and you’re just … elsewhere. The second time I tried, I found myself at the entry host to the SpIn Cairo offices.
+
+> Facet
+[/spoiler]
+
+黑客之家的成员资格只授予那些表现出强烈的编码和破解兴趣的人。这不仅仅是指给你的街头小妹编写一个可以陪她玩弹球游戏的漂亮代理。赛博殖装的更新软件，新进入特定主机的骇入手法，可以在某人热模接入时扫描他表层思想的程式——这些都是成为这里的一员所需要的。在其他方面，成员资格是不受限制的——你可以是黑客、机师、超链者、AI、EI等等，这并不重要。加入限制似乎只限于追随失谐范式或拥有超企公民身份的人。
+
+> 顺便说一下他们的主机。有过一些非常现实的，甚至是成功的使它崩溃的尝试。但它不会像其他主机那样把人甩出去。恰恰相反，如果它崩溃了，当时连接到它的所有人都会被吸入奇点，而奇点总是在它崩溃时出现。该主机会在矩阵迷失域的其他地方重新初始化，连同当时连接的所有人和所有东西。没人知道这是怎么发生的，在它发生了两次之后，一次是在79年，一次是在81年，这仍然令人感到费解，但我想，这也多少让人感到安心。
+
+> Gramius
+
+> 他们曾经有一个目录主机，在那里你可以浏览和购买他们的产品。那些日子已经一去不复返了。现在的一切都是通过人脉。如果你不认识黑客之家的人，那么你需要认识一个。当然，有些掮客有人脉——所有最好的掮客都有人脉。普通物品的价格通常是市场价格，但任何定制的东西往往意味着他们想要一些非常不寻常的东西作为报酬，而不仅仅是很多信用点。有趣的是，在黑客之家，从来没有人接触或向他们索要过鬼火代码(Kechibi Code)的实例副本。
+
+> Rikki
+
+[spoiler]
+
+Membership into Hacker House is granted only to those who show strong proclivity for coding and cracking. This is about more than just coding a nice little agent for your street sammie to play Pong with. Upgrading software for cyberware, new custom hacks to get into special hosts, forms that can scan a person’s surface thoughts while hot-jacked in—those are the kinds of things required to be a member here. Membership is otherwise unrestricted—you can be a hacker, rigger, techno, AI, EI, whatever, it doesn’t matter. Restrictions only seem to be limited to anyone following a Dissonant paragon or anyone with megacorp citizenship.
+
+> A word about their host, while we’re at it. There have been some very real, and even successful, attempts at crashing it. But it doesn’t dump folks out like others do. No, instead, if it crashes, everyone connected to it at the time is taken with it when they are sucked down into the Singularity that always manifests when it crashes. The host re-initializes somewhere else in the wilds of the Foundations, along with everyone and everything that was connected at the time. No one understands how this happens, and after it happened twice, once in ’79 and again in ’81, it remains baffling—but somewhat reassuring, too, I suppose.
+
+> Gramius
+
+> They once had a catalog host back in the day, where you could browse and purchase their stuff. Those days are long gone. Everything now is through a connection. If you don’t know someone in HH, then you need to. Some fixers have connections, of course—all the best ones do. Prices for more common stuff are usually market, but anything and everything custom often means they want something very uncommon as payment, and not just lots of cred. It’s been interesting that no one in HH has ever reached out or requested a copy of Kechibi for instance.
+
+> Rikki
+[/spoiler]
+
+[quote]
+[size=14pt][b]黑客之家[/b][/size]
+
+[b]成员数：[/b]80+
+
+[b]团体关系等级：[/b]10 (范围[世界级]，资源[大量]，觉醒[部分成员]，矩阵[广为人知])
+
+[b]主机等级：[/b]10 (10/14/12/13) (结构层技术主机，不隶属于全球矩阵)
+
+[b]限制：[/b]电子学(5+)且专精软件；破解(5+)且专精骇入或电子战。具备软件、拟感技术、主机架构、赛博殖装编程等领域的三种或以上的知识技能。禁止公司注册者。禁止失谐超链超链者。
+
+[b]待遇：[/b]访问黑客之家的资源。在黑客之家的主机中超链者学习新复合程式，AI编程自身，碟客编写新软件(任意种类)的检定均添加忠诚等级的奖励骰。通过共鸣裂缝(第155页)后门可访问无尽档案(第150页)。对于深潜超链者，该软件库中有一个共鸣井，它总是由其他成员或盟约实体守卫。它是成员或特别嘉宾提供帮助的渠道。
+
+[b]资助：[/b]所有成员需为本组织及其资源的利益而工作。成员通常每月向该组织提供价值300至700新元的商品和服务。花时间编写代码、担任导师或担任软件库管理员(向外部进行销售的人)都是对组织做出贡献的选项。这些是作为成员团体忠诚的一部分而提供的服务(第175页，Sixth World Companion)。
+
+[b]GM注解：[/b]如果黑客之家的主机被崩溃主机动作或破坏主机动作成功崩溃，那么除了试图崩溃主机的人之外，主机与所有当时与主机相连的人都会被集体转移到深结构层的另一个地方。目前还不清楚实现这一举措的具体方法，甚至连驱离派超链者[color=green](Akyromantic Technomancer，CN书中可驱散复合程式/网精的超链者)[/color]的一次尝试也未能成功(第19页，Collapsing Now)。
+
+黑客之家成员不得拥有或使用企业SIN。允许在执行任务时使用临时/一次性SIN，例如参与对抗公司的狂奔，但其等级不得高于角色的团体人脉忠诚等级。
+
+[spoiler]
+[size=14pt][b]HACKER HOUSE[/b][/size]
+
+[b]Members:[/b] 80+
+
+[b]Group Connection Rating:[/b] 10 (worldwide scope, extensive resources, some Awakened, pervasive Matrix)
+
+[b]Host Rating:[/b] 10 (10/14/12/13) (Foundation-tech host, not part of the global Matrix)
+
+[b]Restrictions:[/b] Electronics (5+) with a specialization in Software, Cracking (5+) with a specialization in Hacking or Electronic Warfare. Three or more Knowledge skills in fields such as Software, Simsense Technologies, Host Architecture, Cyberware Programming, etc. No Corporate SINs. No Dissonant technomancers.
+
+[b]Perks:[/b] Access to HH resources. Add Loyalty rating as bonus dice toward learning new complex forms as a technomancer, programs as an AI, programming new software (any type) while in HH host. Access to the Endless Archive (p. 150) by way of a backdoor Resonant Rift (p. 155). For submerging technomancers, there is a Resonance well found within the library that is always guarded by other members or allied entities. It acts as a conduit available for members or special guests to aid in advancement.
+
+[b]Patronage:[/b] All members also work for the benefit of the organization and its resources. Members typically give 300 to 700 nuyen worth of goods and services to the organization monthly. Time spent generating code, serving as a mentor, or functioning as a librarian (the people who transact sales to outsiders) are all options for contributions to the organization. These are in addition to services that might be offered as part of a member’s Group Loyalty (p. 175, Sixth World Companion).
+
+[b]Gamemaster Note:[/b] Should the Hacker House host ever be successfully crashed using a Crash Host or Destroy Host, the entirety of the host and all those connected to it at the time, except for those attempting to crash it, are moved en masse to another location in the Deep Foundation. The exact method of how this is accomplished is uncertain at this time and has even survived an attempt performed by an Akyromantic technomancer (p. 19, Collapsing Now). 
+
+No member of Hacker House may have a corporate SIN or utilize one. Throwaway/one-time-use SINs are permitted for performing a task, such as taking part in a run against a corporation, but it cannot be of a rating greater than the individual’s Loyalty rating with the group.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]行者[/b][/size]
+
+仍有一些人记得“行者”的前身是被称为“导路者”的宅客部落。也有一些警惕的人注意到了行者的新安主义氛围。在德意志联邦国，他们是一个被称为“蔓城区游击队”的更大实体的一部分，这是一个由新安那其主义者、赛博朋克、矩阵恐怖分子和超企眼中那些不招人喜欢的人组成的大型社区。顾名思义，他们的成员流动性很强，不会在一个地方停留很长时间，经常从一个区迁到另一个区，或者在全世界的大型蔓城区间迁移。
+
+> 下面让我列举一些激进黑客团体的例子以展示这种所谓蔓城区游击队的多样性。E-Wall的主要目标是解放或帮助AI。Hackbirds最初是一个以小偷小摸为生的黑客团伙，但如今在Sphynx的领导下，他们在柏林的暗影中获得了良好的声誉。据我所知(其实也不算多)，Letzte Front是UVX的残余组织，而作为恐怖组织的UVX是72年袭击事件的罪魁祸首，那次袭击导致柏林被公司(强行)“统一”。这个后来衍生出的团体与之前一样暴力，他们是唯一真正值得被归类为恐怖组织的团体。当然，大多数公司和新闻网站都认为“蔓城区游击队”的任何成员都是恐怖分子。
+
+> Sim-Eon
+
+[spoiler]
+[size=14pt][b]THE WALKING PEOPLE[/b][/size]
+
+There are still some who remember the Walking People from their beginnings as the otaku tribe known as the Routers. There are some watchful individuals who are also aware of the Walking People’s neo-anarchist vibe. In the Allied German States, they are a part of a larger entity known as Sprawlguerilla, a large community made up of neo-anarchists, cyberpunks, Matrix terrorists, and generally unsavory folks as far as the megacorporations are concerned. Highly mobile, as their name implies, their members do not remain in any one place for very long, often relocating from one district to another within or between the larger sprawls throughout the world.
+
+> Here are a few examples of those hacktivists groups to show the diversity of this so-called Sprawlguerilla. E-Wall’s main focus is to free or help AIs. The Hackbirds were initially a hacker gang, big on petty theft, but nowadays they have acquired a good rep in Berlin’s shadows under the leadership of the Sphynx. From what I know (which is not that much), Letzte Front is the remnants of UVX, a terrorist organization that was behind the attacks of ’72 that caused the city to be “reunited” (forcefully) by the corporations. This late iteration is as violent as the previous one, but they are the only group that really deserves to be categorized as a terror group. Of course, most corps and newsnets consider any member of the Sprawlguerilla to be a terrorist.
+
+> Sim-Eon
+[/spoiler]
+
+鉴于其起源，行者为浮现者提供庇护与帮助，最初是超链者，现在则包括浮现动物, AI和网精。该团体保护人们的安全，使他们不受傀儡国家、超企走狗和GOD永不停歇之眼等压迫势力的影响。随着CCMA的持续要求，越来越多的系统和主机被纳入结构层体系的管辖范围，后者[color=green](指GOD)[/color]已成为更紧迫的问题。行者成员的普遍信念仍然是，中心监管的矩阵权力过于集中，并且掌握在错误的人手中。
+
+近年来，他们的人数有了显著增长，但除了矩阵偷袭、偶尔针对较小目标的人肉搜索袭击和其他形式的企业破坏行为外，他们仍旧无力对抗大多数政府或企业财产。他们的大多数成员仍然在AGS境内，其中有一百多人找到并留在柏林蔓城区避难。然而，他们的许多成员并没有加快袭击速度，而是选择了远走他乡，其中一些躲在特诺奇蒂特兰、大都会、孟买和香港等地。他们的浮现成员数量一度减少到只有30%(少于25人)，但现在已增加到近50%(近100人)，增长速度超过了整体成员数量的增长速度。
+
+一些成员(尤其是柏林地区的成员)常采用并较为擅长的一种团体收入方式是创建小型的结构层主机。这些主机大多提供给较小的团体，包括社区夫妻店所有和经营的小型企业，或协调活动并筹集赞助的当地社区公社。在那些不倾向结构层主机的地区，该团体保留了与基于架构的主机相关的技能，并能够同等利用新与旧的资源以完成任务。在柏林，他们是在结构层体系之外开展工作的首选资源之一，随着超企的绞索不断收紧，他们发现对其知识的需求也在变得越来越大。
+
+虽然团体内部没有真正的领导层，但其中一位重要人物是一位名叫Sim-Eon的老巨魔碟客。他一直是行者的领头人，带领着他们不断搜寻着矩阵中所有数据，尤其是在许多欧洲国家及蔓城区范围内。他的行动使他成为欧洲大陆上矩阵专业知识的最佳来源之一。作为一个老派的新安那其主义者，Sim-Eon把这个组织推向了同样的观点。有些人会把Sim-Eon称为老手或遗老碟客，因为他早在混沌船长时代就在暗影之地BBS上混迹了，这一点从他的行事风格中就能看出来。
+
+> 出生在西雅图的Sim-Eon今年50岁出头，曾是混沌组织的一员。他在彗星年，也就是哈雷彗星年离开暗影，加入了地平线。有些人觉得他有点天真，但他确实相信公司“不伤害”的座右铭。拉斯维加斯的超链者大屠杀让他的幻想破灭了，他在2075年初又回到了阴影中。不久之后他搬到了柏林并搜寻有关CFD的信息。时至今日，多亏了他，行者才拥有了关于这种流行病和单子的最佳知识库之一。
+
+> Butch
+
+> 由该团体管理的私人主机已经镜像到柏林的有线或架构式矩阵中(是的，柏林的人们仍然在利用旧有的基于有线的矩阵残余)。这使得摧毁它的任务变得更加困难，因为人们需要找到并破坏所有镜像地址的备份才能阻止它的运行。到了2081年晚期，一系列谋杀案的受害者都被认为是行者的成员。截至此次发帖时，还没有确凿的线索，而且许多该团体的成员甚至比以前更加隐匿了。
+
+> Ricki
+
+[spoiler]
+
+Given their origins, the Walking People offer sanctuary and help to the Emergent, once originating with technomancers and now including e-fauna, AIs, and sprites. The group keeps people safe and unseen from oppressive forces such as puppet nations, megacorporate flunkies, and the ever-diligent eyes of GOD. The latter has become a more pressing issue with the wider organization, especially as the continued pursuits of the CCMA place more and more systems and hosts within the purview of the Foundation structure. The general belief within the Walking People remains that the centrally controlled Matrix is too much power in one place and is in the hands of the wrong people. 
+
+Their numbers have seen a notable growth in recent years, but they remain incapable of opposing most political or corporate holdings aside from Matrix raids, occasional doxing attacks against smaller targets, and other forms of corporate vandalism. Most of their members are still found within the AGS, with more than a hundred of them finding and remaining in refuge in the Berlin sprawl. In lieu of increasing the pace of their attacks, however, many of their members have taken to traveling farther abroad, with some hiding in the sprawls of Tenochtitlán, Metrópole, Mumbai, and Hong Kong. Their Emergent membership had at one point dwindled to just thirty percent (fewer than twenty-five individuals) but has now swelled back to almost fifty percent (nearly one hundred beings), growing faster than the membership as a whole.
+
+One method of group income that some of the members, especially those in the Berlin area, have taken to and excel at is the creation of smaller Foundation-based hosts. Most of these hosts are for smaller groups, including small businesses owned and operated by neighborhood momand-pop shops, or local neighborhood communes coordinating their efforts and performing fundraising. In areas where the consideration for Foundation-based hosts is not preferable, the group retains skills related to Framework-based hosts and will utilize newer and older resources equally in order to complete a task. In Berlin, they are one of the go-to resources for working outside of the Foundation-based structures, finding their knowledge in growing demand as the noose of the megacorporations continues to tighten. 
+
+While there is no real leadership within, one of the prominent figures of the organization is an old troll decker named Sim-Eon. He has been spearheading the Walking People’s constant quest for data on everything Matrix, especially within the many Euro-nations and sprawls. His actions make him one of the best sources of Matrix expertise on the continent. An old-style neo-anarchist, Sim-Eon has pushed the group toward the same kind of outlook. Some would refer to Sim-Eon as a veteran or legacy decker, as he used to hang on the Shadowland BBSs back in the time of Captain Chaos, and this certainly shows in his touch.
+
+> Born in Seattle, Sim-Eon is in his early fifties and was one of the Chaos groupies back in the day. He left the shadows during the year of the comet, Halley’s that is, to join Horizon. Some feel he was a bit naïve, but he truly believed in the “do no harm” motto of the corp. Disillusioned by the technomancer massacre in Las Vegas, he came back to the shadows early 2075. He moved to Berlin soon after while hunting for information on CFD. To this day, thanks to him, the Walking People have one of the best knowledge bases on the epidemic and the monads.
+
+> Butch
+
+> The private host managed by the group has been mirrored into the wired, or Framework, Matrix of Berlin (yes, people in Berlin still leverage the remnants of the old, cable-based Matrix). This makes the task of destroying it more difficult, as one would need to find and crash all backups that mirrored locations in order to stop it from operating. Late in 2081, a series of murder victims were believed to be members of the Walking People. As of the time of this upload, there are no solid leads, and many members of the group have gone even more underground than they previously were.
+
+> Ricki
+[/spoiler]
+
+[quote]
+[size=14pt][b]行者[/b][/size]
+
+[b]成员数：[/b]200+
+
+[b]种类：[/b]混合用户团体
+
+[b]团体关系等级：[/b] 9 (范围[世界级]，资源[有限]，觉醒[部分成员]，矩阵[显著])
+
+[b]主机等级：[/b] 7 (8/9/9/8) (架构式主机)
+
+[b]限制：[/b]需付年费。
+
+[b]资助：[/b]该团体没有正式或非正式的大型机构或个人赞助。它依靠成员的会费和捐款维持生计，会费定为每年50新元。该组织的镜像主机地址是一个严格保守的秘密，他们也没有物理的聚会地点。该团体的发言人只有在该团体或其中一部分人选择与外界进行任何正式接触时才会出现。只要不直接煽动暴力，该团体成员可以自由地追求个人目标。行者仍坚持许多新安主义信条，在逆境中茁壮成长。
+
+[b]GM注解：[/b]作为一个总体上有着松散关联的新无政府主义团体的一部分，行者主要是在其自身的权威下运作，虽然其权威有限。随着其成员分布在全球范围内的不断扩散，该团体外部的许多人都在等待着该团体分裂或分化为类似细胞结构的形式，尽管目前该团体没有显示出这种迹象。
+
+[spoiler]
+[size=14pt][b]THE WALKING PEOPLE[/b][/size]
+
+[b]Members:[/b] 200+
+
+[b]Type:[/b] MUG
+
+[b]Group Connection Rating:[/b] 9 (worldwide scope, limited finances, some Awakened, significant Matrix)
+
+[b]Host:[/b] 7 (8/9/9/8) (Framework host)
+
+[b]Restrictions:[/b] Annual dues.
+
+[b]Patronage:[/b] The group is not officially, or unofficially, sponsored by a larger agency or individual. It subsists on the dues and donations of its members, which are set at fifty nuyen a year. The location of the group’s mirrored host is a closely guarded secret, and they do not maintain physical meeting places. Spokesbeings for the group only surface when the body, or a sizable portion thereof, chooses to make any official contact with the outside world. The members of the group are free to pursue their own personal goals, insofar as those goals do not directly incite violence. Still holding on to many neo-a tenets, the Walking People thrive on adversity.
+
+[b]Gamemasters Note:[/b] As part of an overarching but loosely affiliated neo-anarchist group, the Walking People function primarily under their own authority, such as it is. With the widening treks their members take around the world, many outside the organization are waiting for the group to splinter or divide into a cell-like structure, although the group shows no signs of this currently.
+[/spoiler]
+[/quote]
