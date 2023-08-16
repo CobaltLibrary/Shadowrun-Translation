@@ -33,7 +33,7 @@ Connected to < ERROR: NODE UNKNOWN >
 [quote]
 [size=18pt][b][color=maroon]接入点 JackPoint[/color][/b][/size]
 
-[b]欢迎回到接入点，小子；[/b]
+[b]欢迎回到接入点，伙计；[/b]
 
 [b]你上一次切断链接是在16小时23分钟42秒前。[/b]
 
@@ -45,7 +45,7 @@ Connected to < ERROR: NODE UNKNOWN >
 
 * <置顶> 这个私人p2p MoSoSo网络仍在beta测试中，所以请原谅混乱并向我报告任何故障。——FastJack
 
-* <080670> 本周，我与一些值得信赖的超链者朋友共同进行了一次安全审计，以了解该网络如何抵御超链者/网精攻击。请记录你遇到的任何错误并发给我。——FastJack
+* <080670> 本周，我与一些值得信赖的超链者朋友共同进行了一次安保审计，以了解该网络如何抵御超链者/网精攻击。请记录你遇到的任何错误并发给我。——FastJack
 
 [b]个人通知：[/b]
 

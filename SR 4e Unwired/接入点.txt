@@ -33,7 +33,7 @@ Connected to < ERROR: NODE UNKNOWN >
 [quote]
 [size=18pt][b][color=maroon]接入点 JackPoint[/color][/b][/size]
 
-[b]欢迎回到接入点，小子；[/b]
+[b]欢迎回到接入点，伙计；[/b]
 
 [b]你上一次切断链接是在1小时50分钟1秒前。[/b]
 
