@@ -1,0 +1,344 @@
+[color=brown][size=16pt][b]低语[/b][/size][/color]
+
+>>>> 开放主题帖/下级节点221.322.1
+>>>> 主题帖访问限制：<是/[b]否[/b]>
+>>>> 格式：<[b]开放发帖[/b]/仅评论/只读>
+>>>> 附件：<[b]是[/b]/否>
+>>>> 帖子主题描述：[b]系统异常[/b]
+>>>> 发帖人：Sunshine
+
+[spoiler]
+[color=brown][size=16pt][b]WHISPERS[/b][/size][/color]
+
+>>>> Open Thread/SubNode221.322.1
+>>>> Thread Access Restrictions:: <Yes/[b]No[/b]>
+>>>> Format:: <[b]Open Post[/b]/Comment Only/Read Only>
+>>>> File Attachment:: <[b]Yes[/b]/No>
+>>>> Thread Descriptor:: [b]System Anomalies[/b]
+>>>> Thread Posted By User:: Sunshine
+[/spoiler]
+
+> 今天的新闻编辑部工作进展缓慢，并且我们的本地新闻编辑对昨晚糟糕的收视率非常生气。糟糕的组合。他没有责怪实习生，而是把目光投向了我，给我安排了另一个我认为很无聊的人情味故事：一个离家出走的小孩开着一辆骇入的网域出租车在兜风时被抓。这些是我挖到的东西：周一，西雅图网域出租车公司的一名会计注意到，213号出租车的自动软件上周末没有收取新的车费。他进一步查看后发现，213号出租在一周前就已经在营业了，但没有登记任何车费。计费员猜测出了故障，就给值班主管打了电话，值班主管向出租车发出了召回指令。当召回指令不起作用时，网域出租车公司就怀疑有人在搞鬼了，于是他们呼叫了孤星。孤星很快找到了那辆出租车，巡逻车将它包围了起来。出租车没有响应停车指令，所以他们不得不切断了它的网域链连接来使它停机。当他们终于打开副驾驶室时，他们发现了蜷缩在里面的Theo Henriquez。原来10岁的Theo受到父母的虐待，已经在出租车里住了至少一周了。现在你可能在想：为什么这个该死的报道会出现在接入点上？请听我慢慢道来。
+
+据《星报》报道，这名男孩入侵了该公司的网络，所以213号出租车显示正在营业。他还骇入了网域出租车公司的自动软件，让他可以随心所欲地用出租载着他在城里转来转去。早熟吧？好吧，关键来了。这个孩子身上没有通讯链，出租车的系统也没有热接线或硬件被篡改的迹象——尽管网域出租车的代表向我保证，自动软件被直接覆写了，并且留有多条乘客指示记录。在对这孩子的住所和他过去的骇入活动进行检索后，也没有发现受限软件或过往骇入活动的迹象。《星报》无法解释发生了什么事情，而Theo还被关押着，他不肯开口，而我需要结束这个故事。那么还有谁能比接入点上的那些思想扭曲的人更能提供理论依据呢?
+
+> Sunshine
+
+> 哦，一个不知道包裹在什么中的谜团中的谜题。说真的，出租车公司肯定漏掉了什么，或者这孩子把通讯链藏在了什么地方。
+
+> Fianchetto
+
+> 我搭乘过网域出租车，我能想到几种通过网域链从外部骇入自动软件的方法，但一个10岁的孩子无论多么早熟，都不可能突破这种安保系统。也许我们错过了第三方？
+
+> Pistons
+
+> 这让我想起了我年少轻狂时的特技表演。不过我从没被抓过。
+
+> Slamm–0!
+
+> 我刚采访完James Lynch回来，他是Theo的法庭指定律师，怪事越来越多了。Lynch说这孩子还差点火候。当Lynch终于让他开口时，Theo坚称他没有对出租车做任何事情，是他朋友Squinky开的车。我在《星报》的线人说他们没有发现任何外部干扰或第二个人存在的迹象。但他们发现有证据表明，Theo还设法骇入了市中心的十几台自动贩卖机，在他的恶作剧期间给他提供食物和饮料!
+
+> Sunshine
+
+> Theo看起来很年轻。如果这是几年前的事，我会说这孩子有宅客的所有迹象。不过，即使是他们也需要一种来接入系统的方法…他有插口吗？
+
+> Glitch
+
+> 据我在《星报》的线人，他没有数据插口，没有植入体。
+
+> Sunshine
+
+> 对于我们这些初来乍到的人，介意给我们介绍一下这些“宅客”吗？你们中有些人谈论他们时把他们说得好像真的一样，但在我的家乡，他们只是都市传说。第二次崩溃事件后，我当然听说过这些传言。我甚至听说宅客和冬夜有一腿，但我从来没听到过完整的故事，近几年人们对这个话题异乎寻常地讳莫如深。
+
+> Goat Foot
+
+> 我们不谈那个怎么样？
+
+> Puck
+
+> 为什么不呢？Puck装傻是因为他以前跟错了人。如果我听说的没错的话，他自己以前就是个宅客。失去联系了，是吧？用传统办法对付矩阵一定很痛苦吧。
+
+> Clockwork
+
+> 滚开，Clockwork。让老鬼歇一下吧。
+
+> Puck
+
+> “宅客”(Otaku)是一个术语，用来称呼那些拥有无法解释的直接与矩阵交互能力的孩子。他们不需要碟板技术或拟感技术。他们只需要用数据插口接入，剩下的工作就交给他们的大脑了。据我所知，一些发生在他们身上的生物化学的重要变化与神经系统重连在发挥效用。他们都很年轻，而且这种能力显然会随着年龄的增长而减弱。宅客崇拜某种机械中的精魂，他们称之为“深层共鸣”，而这是相当罕见的。有些人认为深层共鸣是一个AI，它以某种方式赋予了宅客们能力。宅客们往往以部落为单位聚集在一起，有时部落之间会发生冲突。有些人在丹佛的Nexus周边提供帮助。另一些则站在西雅图生态建筑关闭事件的幕后黑手一边。一些可靠的消息来源认为他们与冬夜是一伙的，并将最近的崩溃事件部分归咎于他们。我敢打赌，这还不到故事的一半。我从没见过他们，但我听说他们中的很多人在第二次崩溃之前和崩溃期间就死了。坊间流传着整个部落的孩子都被杀死的故事。还有一些在崩溃2.0中燃尽了。似乎没有一个主要团体或部落能挺过那一关。当然也有传言说有些宅客活了下来，但他们中的大多数现在肯定已经老得失去能力了。有新的宅客出现吗？嗯，是有一些传言……但我不想去证实什么。
+
+> Glitch
+
+> 你是对的，这还不到故事的一半。许多人都以为他们了解宅客。他们中大多数都错了。
+
+> Puck
+
+> 我隐约记得在崩溃事件之后，关于新一波矩阵奇才的讨论甚嚣尘上，而且不只是孩子们。来自各行各业的人都声称他们在灾难之后开发出了奇异的能力。这个新闻持续了一个星期，然后就渐渐平息了……
+
+> Haze
+
+> 我记得那个新闻，但很多崩溃事件的受害者后来都被诊断出患有精神相关疾病。不止几个人被关了起来。现在全国各地的病房里仍然住满了AIPS精神疾病患者。这是64年较少被提及的后果之一。我去年写过一篇关于这个主题的文章，无论政府和军方如何粉饰，现实都是相当令人沮丧的。
+
+> Sunshine
+
+> 拜托，各位，别犯傻了，我相信你们这些有消息渠道的人一定听说过。关于新一代宅客的报道至少从65年就开始陆续出现了。
+
+> Plan 9
+
+> 没错，但据我所知这些都是无稽之谈。到现在已经持续5年了，依然没有任何确凿证据。但不可否认的是，崩溃事件后，我在生物技术研发领域的一些消息来源就变得沉默寡言了。
+
+> The Smiling Bandit
+
+> 只是巧合？我不这么认为。
+
+> Plan 9
+
+> 在我们得到一些确凿事实之前，先尽量暂时减少胡乱猜测。
+
+> Sunshine
+
+> 如果根本不是那孩子的问题呢？也许是别的什么原因。矩阵里有什么东西。那东西劫持了出租车的控制权。拜托，你一定听说过那些谣言。有些人甚至还记得上次的事。外面有些东西，我一直都能收到目击情报。"系统异常"是公司常用的委婉说法，但我觉得我们看到的是矩阵里的精魂或者AI。
+
+> Axis Mundi
+
+> 其中一个名叫“Squinky”的实体突然浮出水面，对一个10岁孩子产生了兴趣。很好。如果我是你，我会仔细检查我的药物日期。
+
+> Butch
+
+> 在这一点上我不会排除这个可能性。天地万物，无奇不有。在几个封闭的系统中都曾出现过身份不明的化身，而且他们没有留下任何数据踪迹。相信我，外面有我们从未见过的东西。
+
+> Netcat
+
+> 胡说八道。这只是黑客们想树立作为无法被追踪的机械之中的幽灵的声誉，或者是那些害怕矩阵崩溃会再次降临到他们头上的人们的胡言乱语。
+
+> Baka Dabora
+
+> 在大家冲昏了头脑之前，我想和大家分享一些我去年从联络安保节点上获得的东西。来自过去的爆炸，如果你明白我意思的话。
+
+> Slamm-0!
+
+[spoiler]
+> It’s been a slow day in the newsroom and our city editor’s pissed at last night’s bum ratings. Bad combo. Instead of dumping on the interns, he set his sights on me and saddled me with what I thought was another dull human interest story: a runaway that was caught joyriding a hacked GridCab. This is what I dug up: Last Monday, an accountant at GridCab Seattle noticed no new fares filed by taxi 213’s autosoft over the weekend. He looked further and found 213 had been on duty for a full week prior without registering any fares. Assuming a glitch, the beancounter called the shift supervisor who sent the cab a recall command. When that didn’t work, suspecting foul play, GridCab called in the Star. Lone Star quickly tracked down the cab and patrol cars boxed it in. When the cab didn’t respond to orders to stop, they had to cut its Gridlink power to shut it down. When they fi nally popped the passenger compartment they found one Theo Henriquez, cowering inside. Turns out 10 year-old Theo was fl eeing abusive parents and had been living out of the cab for at least a week. By now you’re wondering: why the hell is this on Jackpoint? Bear with me. 
+
+According to the Star, the boy hacked the company’s network so that cab 213 showed as on-duty. He also hacked the GridCab’s autosoft to drive him about town as he pleased. Precocious, huh? Well, here comes the kicker. The kid didn’t have a commlink on him and the taxi’s system had no sign of hotwiring or hardware tampering—though the GridCab rep assures me the autosoft was overridden directly and has multiple records of passenger directions. A search of the kid’s house and past Matrix activities show no sign of restricted software or past hacker activity. The Star can’t explain what happened, Theo, who’s still being held, ain’t talking and I need to wrap this story. So who better to pump for theories than the twisted minds on Jackpoint? 
+
+> Sunshine
+
+> Ooh, a riddle wrapped in an enigma inside a whatever. Seriously, the cab company must have missed something, or the kid just stashed his link somewhere. 
+
+> Fianchetto
+
+> I’ve ridden in a GridCab and I can think of a couple of ways of hacking the autosoft externally through Gridlink, but there’s no way a 10-year old is going to run that security no matter how precocious he is. Maybe we’re missing a third party?
+
+> Pistons
+
+> Reminds me of the stunts I used to pull back in my reckless youth. Never got nailed, though. 
+
+> Slamm–0!
+
+> Just got back from an interview with James Lynch, Theo’s Courtappointed attorney, and weird has just got weirder. Lynch says the kid is a couple of screws short of a full set. When he fi nally got him to talk, Theo insisted he had done nothing to the cab and that it was his friend Squinky who had done all the driving. My source at the Star says they have no indication of external tampering or the presence of a second individual. But they have turned up evidence that Theo also somehow managed to hack more than a dozen vending machines all over Downtown to give him food and drink during his escapade!
+
+> Sunshine
+
+> Theo seems on the young side. If this were a few years back, I’d say the kid had all the telltales of an otaku. Even they needed a way to plug into the system though … Does he have a jack? 
+
+> Glitch
+
+> No datajack, no implants according to my source at the Star. 
+
+> Sunshine
+
+> For those of us new to the circuit, care to fi ll us in on these “otaku?” Some of you talk about them as if they’re real, but in my corner of the woods they were urban legends. Sure I heard the rumors after the second Crash. I even heard the otaku were in bed with Winternight. But I never got the full story, and in recent years people have been unusually tight-lipped on the subject.
+
+> Goat Foot
+
+> How about we don’t go there? 
+
+> Puck
+
+> And why the hell not? Puck’s playing coy because back in the day he ran with the wrong crowd. Used to be an otaku himself if I heard right. Lost the touch, huh? Must be a bitch to have to work the Matrix the old-fashioned way.
+
+> Clockwork
+
+> Fuck off, Clockwork. Let old ghosts lie.
+
+> Puck
+
+> Otaku was the term coined to label kids with the inexplicable ability to interface directly with the Matrix. No need for decktech or simsense. They just plugged in with their datajacks and their minds did the rest. There were some serious biochemistry changes and neurological rewiring at work, from what I hear. All were pretty young and apparently the ability waned when they aged. The otaku worshipped a spirit in the machine they called the Deep Resonance and were pretty rare. Some think the Deep Resonance was an AI, and it somehow gave the otaku their abilities. They tended to gather in tribes, and sometimes had tribal spats with each other. Some helped out around the Denver Nexus. Others sided with the rogue program that was behind the Renraku Arcology shutdown in Seattle. And some credible sources put them in league with Winternight, partly blaming them for the recent Crash. I’m willing to bet that’s not even half the story. I never met any, but I hear a lot of them died before and during the second Crash. There were stories making the rounds of whole tribes of kids being slaugh-tered. Others burned out during the Crash 2.0. None of the major groupings or tribes seemed to make it past that point. Of course there are rumors that some survive, but most of them must have aged out of their abilities by now. Have any new ones come along? Well, there are rumors … but nothing I care to substantiate.
+
+> Glitch
+
+> You’re right, that’s not even half the story. Lots of people think they know something about otaku. Most of them are wrong. 
+
+> Puck
+
+> I seem to remember a lot of buzz after the Crash about a new wave of Matrix wizzes, and not just kids either. People from all walks of life that claimed to have developing strange abilities in the wake of the disaster. It was big news for all of a week and then petered out …
+
+> Haze
+
+> I remember that, but a lot of Crash victims were later diagnosed as having psychotropic-related disorders. More than a few were locked up. There are still wards full of AIPS mental cases across the country. It’s one of the lesser-mentioned consequences of ’64. I did a piece on the subject last year and the reality is pretty depressing no matter how the government and the corps try to paint over it.
+
+> Sunshine
+
+> Come on people, don’t be obtuse, I’m sure those of you with an ear to the grapevine have heard. Reports on a whole a new generation of otaku have been trickling in since at least ’65.
+
+> Plan 9
+
+> True, but as I remember it they’ve all been tall-tales and rumors. No hide nor hair of substantiating evidence and its going on five years now. Though admittedly, since the Crash, some of my sources dipping into that end of biotech R&D have been running silent.
+
+> The Smiling Bandit
+
+> Coincidence? I think not.
+
+> Plan 9
+
+> Let’s keep left-field speculation to a minimum for now until we get some hard facts.
+
+> Sunshine
+
+> What if it wasn’t the kid at all? Maybe it was something else. Something in the Matrix. Something that jacked control of the cab. Come on, you must have heard the rumors. Some of us even remember the last time. There are things out there, I keep getting sightings. “System anomalies” is the euphemism the corps use, but I think we’re looking at spirits in the Matrix or maybe AIs.
+
+> Axis Mundi
+
+> And one of these entities under the unlikely name of Squinky suddenly surfaced and took an interest in a 10-year old. Right. I’d double check the dates on my medication if I were you.
+
+> Butch
+
+> I wouldn’t rule it out at this point. More things in heaven and earth, and all that. There’ve been sightings of unidentifi ed personas that left no datatrail at all in several closed systems. Believe me, there’s something out there we’ve never seen before.
+
+> Netcat
+
+> Bullshit. It’s just hackers trying to build their rep as untraceable ghosts in the machine, or histrionics from people who are afraid the Matrix is going to come crashing down on their head again.
+
+> Baka Dabora
+
+> Before people get carried away, I’m going to share something I picked up last year from a Renraku security node. Blast from the past, if you get my meaning.
+
+> Slamm-0!
+[/spoiler]
+
+---
+
+// [b]上传邮件[/b] :: [b]用户 Slamm-0![/b] :: [b]01/19/70[/b] //
+
+[b]机密级别 X4——联络国际安保报告[/b]
+
+[b]联络国际网域安保部门 WKA658-05-23-69[/b]
+
+[b]寄件人：[/b] Kyoko Otonashi 海军少校 <IGS-CUnit12>
+
+[b]收件人：[/b] Nidhish Mudaliar 主任 <RenAsia MD1>，Hoshiro Tanaka 中校 <IGS Dir>
+
+[b]主题：[/b] 首要监视协议的最新情况
+
+Mudaliar大人，我怀着复杂的心情向您报告，过去六个月里对首要监视目标的观察并没有取得比前三年更多的结果。我必须报告，我们没有发现实验体M-Prime或D-Prime这两个目标继续活动或在逃的任何迹象、活动或证据。我坚信我们的发现验证了“分析”提出的2B-1方案(例如，目标在崩溃事件期间被摧毁或永久丧失能力)。在这种情况下，我建议将直接协议降至3级，辅以专家系统并重新分配国际网域安保资源，以调查我们在研究中发现的日益增多的系统异常情况。虽然没有迹象表明这些异常情况与实验体M-Prime或D-Prime有任何关联，但我们不能再冒与SCIRE事件同样错误判断的风险。
+
+报告显示了广泛的异常现象，我们无法将其与M-Prime或D-Prime两名实验体联系起来，也无法将它们归因于虚拟脑动现象——尽管我们目前的理解仍然非常有限，但Karlov中校认为很难确保资金和进一步的资源。我认为这是一个错误，并强烈呼吁您重新考虑我们解除这一潜在新威胁的保证。
+
+回到发现的异常情况，我建议对此问题进行专门研究，因为一些代码片段分析显示出类似于首要目标的α和ζ光谱图案，尽管我必须重申，仔细检查后发现该图案与任何已知实验体都没有任何关系。我谦卑地自愿接受这项任务，因为我认为我目前的任务已经结束。- KO IGS中校
+
+// [b]附件结束[/b] //
+
+[spoiler]
+// [b]upload email[/b]  ::  [b]user Slamm-0![/b]  ::  [b]01/19/70[/b] //
+
+[b]Classified X4—Renraku Global Security Report[/b]
+
+[b]Renraku Global IntGrid Sec. WKA658-05-23-69[/b]
+
+[b]From:[/b] Lt. Cmdr. Kyoko Otonashi <IGS-CUnit12>
+
+[b]To:[/b] Dir. Nidhish Mudaliar <RenAsia MD1>, Cmdr. Hoshiro Tanaka <IGS Dir>
+
+[b]Subject:[/b] Prime Watch Protocols status update
+
+Mudaliar-sama, it is with mixed feelings that I report that the past six months of intensive Prime surveillance have yielded no more results than the preceding three years. I must report that we have found no trace activity, or evidence, that either subject M-Prime or D-Prime remain active and at large. It is my conviction that our fi ndings validate scenario 2B-1 proposed by Analysis (e.g. the targets were destroyed or permanently incapacitated during the Crash event). Th is being the case, I would like to suggest standing down direct protocols to level 3 supplemented with expert systems and reassignment of IntGrid Sec resources to investigate the growing number of system anomalies we have detected in our research. While there are no indications that these anomalies are linked in any way to subjects M-Prime or D-Prime, we cannot risk another misjudgment on par with the SCIRE debacle. 
+
+Reports indicate a broad spectrum of anomalies that we could not relate to either subjects M-Prime or D-Prime, nor do they appear attributable to the virtuakinetic phenomenon—though our current understanding is still very limited and Cmdr. Karlov is finding it difficult to ensure funding and further resources. I believe this to be a mistake, and strongly urge you to reconsider our commitment to disarming this potential new threat. 
+
+Returning to the detected anomalies, I advise dedicated research into the matter, as some fragments of the analyzed code showed patterns similar to the Prime targets in the alpha and zeta spectrums, though I must reiterate, closer scrutiny revealed no relation whatsoever with any of the known subjects. I humbly volunteer for this assignment as I believe my current mission to be concluded. – Cmdr. KO IGS
+
+// [b]end attachment[/b] //
+[/spoiler]
+
+> 所以，没有AI，没有Deus。让我们都忘掉它继续吧！
+
+> Slamm-0!
+
+> 我们都知道，联络之前也出过差错
+
+> The Smiling Bandit
+
+> 老实说，我一直在留意小道消息，但除了常见的胡乱传言之外，我并没有发现Deus或他的同类。
+
+> FastJack
+
+> 事实上，我觉得你错过了有趣的部分，伙计——这些“虚拟脑动”是什么东西?
+
+> Marco
+
+> 我以前听说过这个词，但我不知道具体在哪里——也许Bandit能帮上忙。给我几个小时，让我查一下档案，看看能找到什么。
+
+> Glitch
+
+> 我会调查一下，如果有相关发现再通知你。
+
+> The Smiling Bandit
+
+> 何苦呢？这可能和Sunshine的故事完全无关。
+
+> Netcat
+
+> 感谢大家的头脑风暴。Theo的心理评估表明他可能患有“人工诱发精神分裂症”，他应该被送进精神病院，而不是少管所。我想我已经为这个故事找到了足够多的视角。
+
+> Sunshine
+
+// [b]帖子归档[/b] :: [b]不活跃[/b] :: [b]02/15/70[/b] //
+
+// [b]帖子解锁[/b] :: [b]用户 Sunshine[/b] :: [b]02/25/70[/b] //
+
+> 我想我应该重新唤起这个帖子，它已经沉寂了一段时间了，但我一直无法把Theo从我的脑海中抹去。前几天晚上，我偶然发现了Emil Dacheroi的这段话。是的，“超越理念”的Dacheroi博士——我知道这不是最可信的消息来源。他正在西雅图做一系列现场表演，我从节目主持人那里摘录了以下内容。我并没有把他的话太当真，但这些话和我们在这个帖子上发布的内容惊人地接近。
+
+> Sunshine
+
+[spoiler]
+
+> So, no more AIs, no more Deus. Let’s all get over it and move on!
+
+> Slamm-0!
+
+> As we both know, Renraku has been wrong before.
+
+> The Smiling Bandit
+
+> Truth be told, I’ve kept my ear to the grapevine and there have been no sightings of Deus or any of his kind beyond the usual wild rumors.
+
+> FastJack
+
+> Actually, I think you missed the interesting bit, omae—what’s all this “virtuakinetic” stuff?
+
+> Marco
+
+> I’ve heard the term before, but I can’t grep exactly where— maybe Bandit can help. Give me a few hours to do some digging in my archives and I’ll see what I can dredge up.
+
+> Glitch
+
+> I’ll look into it and get back to you if I fi nd anything relevant.
+
+> The Smiling Bandit
+
+> Why bother? It’s probably not related to Sunshine’s story anyway.
+
+> Netcat
+
+> Thanks all for the food for thought. Theo’s psych evaluation suggests he may have the “apes” and that he should be remanded to psychiatric care rather than juvie. I think I’ve got enough angles for this story.
+
+> Sunshine
+
+// [b]thread archived[/b] :: [b]lack of activity[/b] :: [b]02/15/70[/b] //
+
+// [b]thread unlocked[/b] :: [b]user Sunshine[/b] :: [b]02/25/70[/b] //
+
+> Thought I’d revive this thread, it’s been dead a while but I haven’t been able to get Theo out of my head. The other night I stumbled on this segment by Emil Dacheroi. Yes, Dr. “Beyond Belief” Dacheroi— not the most credible of sources, I know. He’s doing a series of live shows in Seattle and I ripped the following excerpt from the show’s host. I’m not taking his words too seriously, but they’re surprisingly close to what we’ve been posting on this thread.
+
+> Sunshine
+[/spoiler]
