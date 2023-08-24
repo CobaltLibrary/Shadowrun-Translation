@@ -7,7 +7,7 @@
 
 [color=brown][size=12pt][b]私活 P.6[/b][/size][/color]
 
-[color=brown][size=12pt][b]荒野与自由 P.10[/b][/size][/color]
+[color=brown][size=12pt][b]迷失与自由 P.10[/b][/size][/color]
 
 [b]观点 P.11[/b]
 对浮现者和AI的管控 P.11
@@ -19,7 +19,7 @@
 旧盒子 p.15
 沿着边缘前行 P.16
 找出错误 P.17
-矩阵荒野（盒子之外） P.18
+矩阵迷失域（盒子之外） P.18
 这一面向上（A面） P.19
 小心处理（B面） P.19
 
@@ -44,7 +44,7 @@
 
 [color=brown][size=12pt][b]小道具与小玩意 P.33[/b][/size][/color]
 
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136574][b]赛博骇入器 P.33[/b][/url]
+[b]赛博骇入器 P.33[/b]
 
 [b]定制赛博碟板 P.34[/b]
 获取定制赛博碟板 P.34
@@ -99,10 +99,10 @@
 
 [color=brown][size=12pt][b]超链手段 P.62[/b][/size][/color]
 
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136549][b]新复合程式 P.62-67[/b][/url]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136549.msg1200581#msg1200581]新衰褪值 P.62[/url]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136582.0]新回声 P.67-69[/url]
-[url=https://www.goddessfantasy.net/bbs/index.php?topic=136981.0]数据结构 P.69-71[/url]
+[b]新复合程式 P.62-67[/b]
+新衰褪值 P.62
+新回声 P.67-69
+数据结构 P.69-71
 
 [color=brown][size=12pt][b]网精时刻 P.72[/b][/size][/color]
 
