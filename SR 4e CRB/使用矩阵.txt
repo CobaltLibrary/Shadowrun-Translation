@@ -96,12 +96,13 @@ The Hardware skill rarely comes into play when in the Matrix, but it affects eve
 
 [size=14pt][b]使用软件技能[/b][/size]
 
-在使用矩阵时，对这个技能的需求不大，除非你是一个使用线程化规则的超链者，第240页。按照今天的标准，矩阵程序是巨大而复杂的，但你可以用这个技能和软件编码表从头开始编写自己的程序。
+在使用矩阵时，对这个技能的需求不大，除非你是一个使用编制规则(第240页)的超链者。按照今天的标准，矩阵程序是巨大而复杂的，但你可以用这个技能和软件编码表从头开始编写自己的程序。
 
 这项技能还有许多高级用途，可以在矩阵核心规则书《Unwired》中找到。
 
 [spoiler]
 [size=14pt][b]USING SOFTWARE[/b][/size]
+
 There is not much call for this skill while using the Matrix, unless you are a technomancer using the rules for Threading, p. 240. Matrix programs are huge and complex by today’s standards, but you can write your own from scratch using this skill and the Coding Software Table. 
 
 There are also numerous advanced uses of this skill that can be found in the core Matrix rulebook, Unwired.

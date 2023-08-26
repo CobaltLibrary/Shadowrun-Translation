@@ -52,9 +52,9 @@ These new powers can come from the following:
 • A unique power available only to free sprites, chosen from those listed under Free Sprite Powers, p. 159.
 [/spoiler]
 
-[size=12pt][b]线程化[/b][/size]
+[size=12pt][b]编制[/b][/size]
 
-学习了软件技能的自由网精可以使用线程化能力(234页，SR4)，使用它们的能级代替共鸣属性。
+学习了软件技能的自由网精可以使用编制能力(234页，SR4)，使用它们的能级代替共鸣属性。
 
 [spoiler]
 [size=12pt][b]THREADING[/b][/size]

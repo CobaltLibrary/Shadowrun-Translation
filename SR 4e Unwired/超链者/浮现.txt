@@ -180,9 +180,9 @@ Though what I "see" of the Matrix is much the same as a standard Matrix user see
 
 [size=12pt][b]即兴创作[/b][/size]
 
-成为一名超链者并不会让我成为一个更好的黑客，或根本不是一个黑客。当媒体把我们描绘成坏人时，这一点常常被忽视。矩阵是一个我们感到与之有联系的环境，但并不是所有的超链者都是节点袭击者。他们只是擅长操纵代码。
+成为一名超链者并不会让我成为一个更好的黑客，或根本不是一个黑客。当媒体把我们描绘成坏人时，这一点常常被忽视。矩阵是一个我们感到与之有联系的环境，但并不是所有的超链者都是节点侵袭者。他们只是擅长操纵代码。
 
-然而，我认为自己是一名超链者黑客，所以我才来到了接入点。我以能够入侵和探索最安全的节点而闻名。作为一个普通的黑客，我是糟糕的，但作为一个超链者，黑客是完全不同的。黑客依赖他的程序，而超链者拥有即兴创作的能力，能够将代码塑造成某种形式(你可以称之为程式)来操纵信息，我们称这种能力为线程化。它仍然需要技巧，但远没有那么多的技术性。它更具艺术性，就像描绘纹理或投掷陶器，只是数字化的。这让我们在适应性方面比黑客更有优势，尽管这不是一项轻松完成的任务，实际上，这可能相当累人。
+然而，我认为自己是一名超链者黑客，所以我才来到了接入点。我以能够入侵和探索最安全的节点而闻名。作为一个普通的黑客，我是糟糕的，但作为一个超链者，黑客是完全不同的。黑客依赖他的程序，而超链者拥有即兴创作的能力，能够将代码塑造成某种形式(你可以称之为程式)来操纵信息，我们称这种能力为编制。它仍然需要技巧，但远没有那么多的技术性。它更具艺术性，就像描绘纹理或捏制陶器，但是数字化的。这让我们在适应性方面比黑客更有优势，尽管这不是一项轻松完成的任务，实际上，这会相当累人。
 
 [spoiler]
 [size=12pt][b]Improvising[/b][/size]
@@ -192,11 +192,11 @@ Being a technomancer does not make me a better hacker or a hacker at all. This i
 I, however, consider myself a hacking technomancer, which is how I ended up here on Jackpoint. I made myself a reputation for being able to intrude and explore even the most secure nodes. As a normal hacker, I was lousy, but hacking as a technomancer is quite different. A hacker depends on his warez while a technomancer possess the ability to improvise and shape code into a form (something that you would call a program) to manipulate information, something we refer to as threading. It still requires skill, but it is by far less technical. It is more artistic, like texturing or throwing pottery, only digital. It is something that gives us an edge over hackers in terms of adaptability, though it isn’t a task that is accomplished lightly, and it can in fact be quite exhausting.
 [/spoiler]
 
-[b]网精[/b]
+[size=12pt][b]网精[/b][/size]
 
-大多数人似乎把网精看作是自发生成的软件结构或代理，这并没有对它们真正的身份和能力给予肯定，即使这是一个正确的称呼。网精比我所见过的任何一个傻瓜代理都要聪明和复杂。它们可能与AI的规模相同，尽管你永远无法确定这一点。当我第一次遇到一个，通过我自己的能力下意识地编译出来的网精的时候，它把我吓得不轻。虽然我知道有些超链者将他们视为宠物、伙伴，甚至是数字朋友，但我在与它们打交道时还是很谨慎的。不过，他们是一群很有用的家伙。
+大多数人似乎把网精看作是自发生成的软件结构或代理，这并没有对它们真正的身份和能力给予肯定，即使这是一个正确的称呼。网精比我所见过的任何一个傻瓜代理都要聪明和复杂。它们可能与AI处于同一规模，尽管你永远无法确定这一点。当我第一次遇到一个由我自己的能力下意识地编译出来的网精的时候，它把我吓得不轻。虽然我知道有些超链者将他们视为宠物、伙伴，甚至是数字朋友，但我在与它们打交道时还是很谨慎的。不过，他们是一群很有用的家伙。
 
-> 永远不要低估网精。我见过网精把一个节点撕成碎片，然后狠狠地揍了一顿。它们的袖子里藏着一些肮脏的把戏，我所知道的任何程序都无法复制这些。
+> 永远不要低估网精。我见过网精撕开一个节点，然后造成了严重的破坏。它们的袖子里藏着一些肮脏的把戏，我所知道的任何程序都无法复制这些。
 
 > Pistons
 
