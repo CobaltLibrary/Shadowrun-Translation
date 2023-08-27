@@ -140,7 +140,7 @@ Once per combat round, Monads can use a Minor Action to make a Willpower + Nanit
 
 [size=14pt][b]快速治疗[/b][/size]
 
-monad可以花费次要或主要动作来进行治疗。对于次要动作，进行NV属性检定，并通过获得的净成功数减少对CM的伤害。花费主要动作为检定提供一个情景极限点，并治疗双倍的净成功数。
+单子可以花费次要或主要动作来进行治疗。对于次要动作，进行NV属性检定，并通过获得的净成功数减少对CM的伤害。花费主要动作会为检定提供一点情景极限，并治疗双倍的净成功数。
 
 [spoiler]
 [size=14pt][b]RAPID HEALING[/b][/size]
@@ -226,6 +226,7 @@ Monads are able to use their nanites to take over and use simple tech like toast
 The NV is used make an NV x 2 vs. Firewall x 2 (Extended, 1 Combat Round) test to gain User access, and another such roll is used to gain Admin access. This series of rolls is similar to a Probe hack against the device. Once the nanites have Admin access, the device can be controlled by the Monad.
 [/spoiler]
 
+[quote]
 [table]
 [tr][td][b]道具[/b][/td][td][b]可获得性[/b][/td][td][b]花费[/b][/td][/tr]
 [tr][td]纳米体[/td][td]5I[/td][td]1500新元/NV[/td][/tr]
@@ -236,6 +237,7 @@ The NV is used make an NV x 2 vs. Firewall x 2 (Extended, 1 Combat Round) test t
 [tr][td][b]ITEM[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
 [tr][td]Nanites[/td][td]5I[/td][td]1,500¥/NV[/td][/tr]
 [/table]
+[/quote]
 [/spoiler]
 
 * 摘自SR6e战役书 Whisper Nets
