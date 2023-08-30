@@ -250,8 +250,9 @@ Most people seem to view sprites as spontaneously generated software constructs 
 > Sunshine
 [/spoiler]
 
-[b]// 附件 //[/b]
-[b]摘自“虚拟脑动现象的多样性”，UNIDS(报告草稿)[/b]
+// [b]附件开始[/b] //
+
+[b]摘自“虚拟脑动者现象的多样性”，UNIDS(报告草稿)[/b]
 
 测试证实这四名志愿者是真正的超链者。虽然他们似乎拥有相同的一般能力，但在如何看待自己的能力、能力的来源以及如何利用这些能力方面，似乎存在着惊人的差异。
 
@@ -264,6 +265,8 @@ Most people seem to view sprites as spontaneously generated software constructs 
 4号志愿者是一位40岁的女性非裔美国侏儒。她的心理轮廓显示她严重缺乏情绪反应，几乎到了压抑的地步。她的思维很有条理。逻辑支配着她对所有情况的反应，甚至是处理创伤类的伤害或令人震惊的输入。在这四个样本中，她似乎是最理性的，她认为自己的能力是一种不同寻常的技能，使她能够处理她在当地一家发电厂担任工程师时所进行的技术操作背后的源代码。她拒绝认为她的超链者能力有什么特别的，声称她只是能够“非常快地即时编写代码”。尽管她是在崩溃2.0中浮现的，但她的天赋直到最近才被发现。志愿者4表现出惊人的认知能力，在所有测试中都取得了优异的成绩。
 
 基于我们对法师流派的了解，可以得出这样的结论：这些超链者所表现出的不同的哲学可能是那些流派的一个类比。如果是这样的话，我们所面对的不仅仅是一种超链者，而是多种多样的虚拟脑动流派。
+
+// [b]附件结束[/b] //
 
 [spoiler]
 [b]// begin attachment //[/b]
@@ -281,7 +284,8 @@ Volunteer 3 is a 35-year-old male Caucasian elf. He was arrested for tampering w
 Volunteer 4 is a 40-year-old female Afro-American dwarf. Her psychological profile shows a severe lack of emotional responses, almost to the point of suppression. Her mind is strictly organized. Logic governs her responses to all situations, even dealing with trauma-like injury or shocking input. Of all four subjects, she seems the most rational, viewing her abilities as an unusual skill that enables her to deal with the source code underlying the technical operations she conducted in her role as an engineer at a local power plant. She refuses to think of her technomantic abilities as something special, claiming she was just able to “program code on the fly real fast.” Even though she Emerged during the Crash 2.0, her gift was not discovered until very recently. Volunteer 4 shows amazing cognitive ability and scored excellent results in all tests.
 
 Based on our knowledge on the traditions of magicians, it can be concluded that the different philosophies displayed by these technomancers are possibly an analogy to those traditons. If that is case, we are not only dealing with one class of technomancer, but with a diversity of virtuakinetic traditions.
-// end attachment //
+
+// [b]end attachment[/b] //
 [/spoiler]
 
 > 尽管我认为他们提出了一个有趣的观点——魔法流派和超链者的实践都受到从业者世界观的影响甚至塑造——但我不确定我是否同意它们是一样的。大多数魔法流派都是从长期的文化习俗和宗教实践中发展而来的，经过了几个世纪。有些人甚至声称这些流派可以追溯到以前的魔法时代！另一方面，超链者似乎缺乏这种文化基础。
