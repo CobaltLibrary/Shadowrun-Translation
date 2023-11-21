@@ -143,7 +143,7 @@ You give a short list of commands to an agent, drone, or device that accepts you
 
 [size=14pt][b]跳入无人机/载具/设备(系统)[/b][/size]
 
-你在VR中跳入无人机、车辆或设备。这个动作在《跳入》中详细描述，第245页。
+你在VR中跳入无人机、载具或设备。这个动作在《跳入》中详细描述，第245页。
 
 [spoiler]
 [size=14pt][b]JUMP INTO A DRONE/VEHICLE/DEVICE (SYSTEM)[/b][/size]

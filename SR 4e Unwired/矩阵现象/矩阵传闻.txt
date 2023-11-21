@@ -17,13 +17,13 @@
 >>>> Thread Posted By User: FastJack
 [/spoiler]
 
-> 好了，伙计们，自从超链者现象开始，全世界变得疯狂这一切以来已经有一段时间了。AI突然冒了出来，宣称在泛人类中占据了一席之地。企业和我们大多数人开始更仔细地审视矩阵，我们的世界。突然之间，系统异常看起来不再像异常了: 在比特和字节之间隐藏着什么“东西”。事实是，我们仍然不完全了解矩阵里到底发生了什么，但我们大多数人都看过他们称之为童话的东西。如今，童话故事有一个坏习惯，就是变成现实——而且其中不少是危险的。所以我认为是时候开始收集和交流关于那些令人毛骨悚然的事情的笔记并做好准备了。欢迎来到矩阵。欢迎来到未知的领域。
+> 好了，伙计们，自从超链者现象开始，全世界都变得疯狂这一切以来已经有一段时间了。AI突然冒了出来，宣称要在泛人中占据一席之地。企业和我们大多数人开始更仔细地审视矩阵，我们的世界。突然之间，系统异常看起来不再像异常了：在比特和字节之间隐藏着什么“东西”。事实是，我们仍然不完全了解矩阵里到底发生了什么，但我们大多数人都看过他们称之为童话的东西。如今，童话故事有一个坏习惯，就是变成现实——而且其中不少是危险的。所以我认为是时候开始收集和交流关于那些令人毛骨悚然的事情的笔记并做好准备了。欢迎来到矩阵。欢迎来到未知领域。
 
 > FastJack
 
 > 我将开始。四周前，我跟踪了几个节点的数据。当我进入一个相对无害的档案节点时，我遇到了某种……数字动物。我扫描了它的图标，一个巨大的蠕虫，但结果与我之前看到过的任何东西都不相符。它不具有我所期待的网精代码的对称或优雅，它当然也不是一个代理或化身。它似乎不喜欢我的行为，扫了我一眼。然后它突然消失了——我找不到任何痕迹，甚至是在我彻底搜索了档案节点的访问日志之后。
 
-> 在接下来的几天里，我有一种奇怪的感觉，觉得有人在矩阵里跟踪我，但我认为这只是我平常的妄想。一周前，它在我毫无准备地情况下把我抓住了。虫子不知道从哪里冒出来并攻击了我。几秒钟之内，它就摧毁了我的化身，把我踢出了矩阵。这是我经历过的最沉重的一击，把我直接送到了我的街头医生那里。当我恢复过来，看了看我的通讯链后，我发现我的整个化身都被这个……东西消耗掉了。就好像, 吃掉。没有剩下足够的代码去做任何事情; 我不得不重新安装。这让我起了一身鸡皮疙瘩。
+> 在接下来的几天里，我有一种奇怪的感觉，总觉得有人在矩阵里跟踪我，但我认为这只是我平常的妄想。一周前，它在我毫无准备地情况下把我抓住了。虫子不知道从哪里冒出来并攻击了我。几秒钟之内，它就摧毁了我的化身，把我踢出了矩阵。这是我经历过的最沉重的一击，把我直接送到了我的街头医生那里。当我恢复过来，看了看我的通讯链后，我发现我的整个化身都被这个……东西消耗掉了。就好像, 吃掉。没有剩下足够的代码去做任何事情; 我不得不重新安装。这让我起了一身鸡皮疙瘩。
 
 > Glitch
 
@@ -43,31 +43,55 @@
 [size=12pt][b]矩阵传说TOP 10[/b][/size]
 
 [i]KSAF 民意调查:[/i]
+
 2071年的一般民众对矩阵最担心的是什么？
-10) 崩溃3.0即将到来!
-9) AI监视着我们做的每一件事——他们接管并奴役我们只是时间问题了!
-8) 存在一些恐怖节点，如果你进入这些节点，它们就会杀死你!
-7) 死者的鬼魂在矩阵出没!
-6) 某些东西还会在网上抓住人们，然后把他们变成超链者!
-5) 有一种新的病毒会抹去你的记忆!
-4) 政府有一种甚至可以杀死冷模用户的黑IC程序!
-3) 超链者可以侵入你的大脑，读取你的想法!
-2) 龙在矩阵中漫游，为他们接管人类并将我们作为食物储备的那一天做着准备。
-1) 矩阵是一个外星人的阴谋——每次你访问它，你的大脑就会被下载并存储，以供外星人使用。
+
+10.崩溃3.0即将到来！
+
+9.AI监视着我们做的每一件事——他们接管并奴役我们只是时间问题了！
+
+8.存在一些恐怖节点，如果你进入这些节点，它们就会杀死你！
+
+7.死者的鬼魂在矩阵出没！
+
+6.某些东西还会在网上抓住人们，然后把他们变成超链者！
+
+5.有一种新病毒会抹去你的记忆！
+
+4.政府有一种甚至可以杀死冷模用户的黑IC程序！
+
+3.超链者可以侵入你的大脑，读取你的想法！
+
+2.龙在矩阵中漫游，为他们控制并将全人类作为食物储备的那一天做准备。
+
+1.矩阵是一个外星人的阴谋——每次你访问它，你的大脑就会被拷贝、下载并存储，以供外星人使用。
+
 [spoiler]
 [b]TOP 10 MATRIX LEGENDS[/b]
+
 [i]KSAF Opinion Poll:[/i]
+
 What does Joe Average 2071 fear about the Matrix? 
-10) Crash 3.0 is coming soon! 
-9) AIs are watching everything we do—it’s only a matter of time until they take over and enslave us all!
-8) There are horror nodes that can kill you if you enter them! 
-7) The ghosts of dead people haunt the Matrix! 
-6) Something is still trapping people online and turning them into technomancers!
-5) There’s a new virus out there that will wipe your memories! 
-4) The government has Black IC programs that can kill even cold sim users!
-3) Technomancers can hack your brain and read your thoughts! 
-2) Dragons roam the Matrix, preparing for the day when they will take over and make us their food stock.
-1) The Matrix is an alien plot—each time you access it, a copy of your brain is downloaded and stored for alien purposes.
+
+10.Crash 3.0 is coming soon! 
+
+9.AIs are watching everything we do—it’s only a matter of time until they take over and enslave us all!
+
+8.There are horror nodes that can kill you if you enter them! 
+
+7.The ghosts of dead people haunt the Matrix! 
+
+6.Something is still trapping people online and turning them into technomancers!
+
+5.There’s a new virus out there that will wipe your memories! 
+
+4.The government has Black IC programs that can kill even cold sim users!
+
+3.Technomancers can hack your brain and read your thoughts! 
+
+2.Dragons roam the Matrix, preparing for the day when they will take over and make us their food stock.
+
+1.The Matrix is an alien plot—each time you access it, a copy of your brain is downloaded and stored for alien purposes.
 [/spoiler]
 [/quote]
 
@@ -161,7 +185,7 @@ There was indeed an Alex O’Keefe who worked as a system administrator for Nova
 
 > Hannibelle
 
-> Ex Pacis是一群…也许我能描述他们的最好方式是称他们为有毒超链者。他们那时候是御宅族，车祸之前。我不知道他们的目的是什么，但肯定不是什么好事。一些谣言暗示，他们与“冬夜”勾结，导致了崩盘。他们的领袖是Pax，一个曾为疯狂的AI Deus服务的反社会分子，如果这能让你知道他们的忠诚在哪的话。帕克斯，你觉得帕克斯是老大吗?
+> Ex Pacis是一群…也许我能描述他们的最好方式是称他们为毒超链者。他们那时候是御宅族，车祸之前。我不知道他们的目的是什么，但肯定不是什么好事。一些谣言暗示，他们与“冬夜”勾结，导致了崩盘。他们的领袖是Pax，一个曾为疯狂的AI Deus服务的反社会分子，如果这能让你知道他们的忠诚在哪的话。帕克斯，你觉得帕克斯是老大吗?
 
 > The Smiling Bandit
 

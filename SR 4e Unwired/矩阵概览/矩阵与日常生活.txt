@@ -357,20 +357,21 @@ For the average Joe, the entire system is convenient and practically invisible. 
 
 [b]黑色芯片杀手：[/b] 一个神秘的黑色芯片，在用户之间流通。当你插入它时，你没有看到什么东西。但是，在你没有意识到的情况下，芯片中捕获的连环杀手的灵魂上传到了你的大脑。当你当晚睡觉时，这个杀手从你的梦中醒来，接管了你的身体，并继续杀害更多的受害者。他继续杀人，直到被抓或被杀，但无论如何，他把自己下载到另一个芯片中并消失了……让你不知道你的身体做了什么，醒来后，你会因为你不记得的谋杀而面临被关进监狱甚至被处决的噩梦
 
-[b]机器中的幽灵：[/b]那些在连接到矩阵时死亡的人，他们的思维被困在线上。他们可能只活了几分钟，也可能是永恒的。有时你可以听到失落之人在无休止地寻找他们的身体时所发出的尖啸。
+[b]电子幽灵：[/b]那些在连接到矩阵时死亡的人，他们的思维被困在线上。他们可能只活了几分钟，也可能是永恒的。有时你可以听到失落之人在无休止地寻找他们的身体时所发出的尖啸。
 
 [b]人格分裂：[/b]当你在进行植入数据插口手术时，你的外科医生在你不知情的情况下植入了一个睡眠调节器。他还下载了另一个人的记忆，这个人贿赂医生为他找到一个新的身体。当你睡着时，睡眠调节器就会启动，另一个人就会醒来，控制你的身体。奇怪的线索困扰着你，比如发现你的东西被重新摆放，或者在街上遇到叫你另一个名字的人，直到有一天你意识到你并不孤单……。
 
-[b]劫车：[/b]当你开车时，你看到一辆迎面而来的车辆向你闪烁大灯。你很恼火，就把大灯闪了回去，没想到这是黑客团伙的一次行动。新的黑客必须骇入他们能得到回应的第一辆车，并使其撞毁或迫使它开到镇上的一个区域，在那里黑客们等待着对被困的乘客进行仪式性的屠杀(然后开着他们的新车去兜风)。
+[b]劫车：[/b]当你开车时，你看到一辆迎面而来的载具向你闪烁大灯。你很恼火，就把大灯闪了回去，没想到这是黑客团伙的一次行动。新黑客必须骇入他们得到回应的第一辆车，并使其撞毁或迫使它开到镇上的一个区域，在那里黑客们等待着对被困的乘客进行仪式性的屠杀(然后开着他们的新车去兜风)。
 
 [b]黑客复仇：[/b]一个自负的男人撞上了一个瘦弱的小家伙，他非常粗鲁，霸凌这个孩子，侮辱这个孩子的种族(取决于故事)。一周后，这个人的通讯链开始出现问题。他的银行账户不能认证资金，他的房子不能为他开门，甚至他的汽车也拒绝用他的生物识别钥匙启动。然后他的SIN在UCAS登记处消失了……最后警察发现他在街上闲逛，穿着明显是“偷来的”衣服。当他们检查他的指纹时，发现他有很长的犯罪历史，有几个未执行的逮捕令。当这个人被粗暴地推入警车时，他看到了那个瘦小的孩子注视着他。那孩子看着他的眼睛，向他翻了个白眼。
 
-[b]脑癌：[/b]无线信号会导致脑癌。幸运的是，你可以把你的记忆和灵魂下载到一个芯片上，然后再上传到一个健康的克隆大脑中。没有犯规，没有伤害。 
+[b]脑癌：[/b]无线信号会导致脑癌。幸运的是，你可以把你的记忆和灵魂下载到一个芯片上，然后再上传到一个健康的克隆大脑中。这无伤大雅。 
 
 [b]交易所：[/b]这个神秘的社交网络通过无法追踪的通讯链将全球各地的暗影狂奔者联系在一起，他们通常在没有任何警告的情况下在自己的财物中发现这些通讯链。那些服从通讯链所发出的要求的狂奔者(从一场狂奔到送一个棚户区的人到某个地方，甚至是更无意义的事情，比如在某个时间把手电筒放在公园的长椅上)会发现自己得到了奖励；那些不服从的人则会受到惩罚。传说中，交易所实际上是由一个AI运营的，但没有人知道它的目的是什么。
 
 [spoiler]
 [size=14pt][b]MATRIX URBAN LEGENDS[/b][/size]
+
 [b]The Black Chip Killer:[/b] A mysterious black chip that circulates from user to user. When you slot it, you don’t see much of anything. Without you realizing it, though, the soul of a serial killer captured on the chip uploads into your brain. While you sleep that night, the killer rises from your dreams, takes over your body, and goes on to kill more victims. He continues killing until he’s caught, or killed, but either way, he downloads himself into another chip and disappears … leaving you unaware of anything your body has done, waking up to a nightmare of prison, or even death, for murders you don’t remember. 
 
 [b]Ghosts in the Machine:[/b] People who die while connected to the Matrix have their minds trapped online. They may only live for a few minutes or for eternity. Sometimes you can hear lost ones screaming as they search endlessly for their body. 

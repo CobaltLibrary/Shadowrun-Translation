@@ -81,7 +81,7 @@ Escrow services, also offered by shadow Matrix banks, act as a secure middle-man
 [tr][td]建立隐藏账户[/td][td]16F[/td][td]骇入技能 x 1000¥[/td][/tr]
 [tr][td]复制经认证的信用棒[/td][td]24F[/td][td]一半金额(真实新元)[/td][/tr]
 [tr][td]欺骗生活方式[/td][td]16F[/td][td]一个月生活方式花费的一半[/td][/tr]
-[tr][td]劫持车辆或无人机[/td][td]8R[/td][td]骇入技能 x 200¥[/td][/tr]
+[tr][td]劫持载具或无人机[/td][td]8R[/td][td]骇入技能 x 200¥[/td][/tr]
 [tr][td]对个人DOS攻击(1小时)[/td][td]8F[/td][td]骇入技能 x 200¥[/td][/tr]
 [tr][td]追踪数据踪迹[/td][td]6R[/td][td]骇入技能 x 100¥[/td][/tr]
 [tr][td]租用僵尸网络[/td][td]10F[/td][td]僵尸机数量 x 机器成本 x 0.5¥ 每小时[/td][/tr]
