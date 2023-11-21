@@ -55,7 +55,7 @@ If a data structure provides bonus dice on multiple tests (such as on a complex 
 [quote]
 [size=14pt][b]数据结构种类[/b][/size]
 
-[b]谏言：[/b]你的解码网精与其衰褪抵抗检定获得奖励骰。如果你获得成功，你将获得一点极限。
+[b]谏言：[/b]你的解码网精动作与其衰褪抵抗检定获得奖励骰。如果你获得成功，你将获得一点极限。
 
 [b]幻想猛兽：[/b]你的伪造指令动作与人偶操师复合程式获得奖励骰。如果你在编制人偶操师复合程式时使用幻想猛兽，你也会在其衰褪抵抗检定中获得奖励骰。
 
@@ -162,7 +162,7 @@ These rules assume that you are creating a data structure that provides a bonus.
 
 [size=14pt][b]购买数据结构[/b][/size]
 
-数据结构的市场价通常是它的能级x5,000新元，但寻找一个在售的数据结构非常困难。你必须拥有一个矩阵与共鸣类型的联络人，其关系能级与忠诚能级大于等于你想要购买的数据结构能级。为了整合数据结构，你也必须支付业力成本。
+数据结构的市场价通常是它的能级x5,000新元，但寻找一个在售的数据结构非常困难。你必须拥有一个矩阵与共鸣类型的联络人，其关系等级与忠诚等级大于等于你想要购买的数据结构能级。为了整合数据结构，你也必须支付其业力成本。
 
 [spoiler]
 [size=14pt][b]PURCHASING A DATA STRUCTURE[/b][/size]
