@@ -1,0 +1,63 @@
+[color=brown][size=16pt][b]数字工具箱[/b][/size][/color]
+
+[size=16pt][b]编写代码[/b][/size]
+
+有许多程序可供暗影狂奔的黑客使用，但很多时候黑客们更想要使用他们自己编写的程序，即使它们的功能最终与现成版本相同。以下规则有助于指导黑客编写自己的程序。
+
+黑客需要拥有电子学技能，并能够访问编程工坊来创建他们自己的软件。这需要进行一个编程延续检定，间隔为8小时，阈值为程序等级的两倍(如果没有等级，则为其可获得性的两倍)。这允许你使用业力而非新元来购买软件。以这种方式创建软件的成本为每4000新元花费1业力(向上取整)，每个程序的最低成本为1业力。如果你想创建一个技能软件、自动软件、知识软件或语言软件，你必须要么自己拥有这些技能，要么与拥有这些技能的人合作。在任何一种情况下，软件的等级都被限制为不得高于你的技能等级。对于具有等级的其他软件，等级仅限制为不得高于你的电子学技能等级，并且你必须具有软件专精或精通。当你创建自己的软件时将没有拷贝保护。假定你始终有一个离线备份副本，以便在软件被删除时始终可以找回该软件。你可以随心所欲地复制它，并与任何你喜欢的人分享，但你不能出售它们。除非是编写代码的黑客本人，否则很少有人会信任自制代码。
+
+[spoiler]
+[color=brown][size=16pt][b]DIGITAL TOOLBOX[/b][/size][/color]
+
+[size=16pt][b]WRITING CODE[/b][/size]
+
+Many programs are available to Shadowrun hackers, but a lot of the time hackers want programs they made themselves, even if their functionality ends up being the same as an off-the-shelf version. These rules help guide hackers through the process of coding their own programs.
+
+Hackers need the Electronics skill and access to a coding shop to create their own software. This requires a programming Extended test with an interval of eight hours and a threshold of double the program’s rating (or double its Availability if it has no rating). This allows you to purchase software using Karma instead of nuyen. Creating software in this way costs 1 Karma per 4,000 nuyen of the software’s value (round up), with a minimum cost of 1 Karma per program. If you wish to create a skillsoft, autosoft, knowsoft, or linguasoft, you must either possess the skill yourself or have the cooperation of someone else who does. In either case, the rating of the software is limited to your ranks in the skill. For other software with a rating, the rating is limited to your ranks in Electronics, and you must have the Software specialization or expertise. When you create your own software, there is no copy protection. It is assumed that you always have an offline backup copy, so that you can always retrieve the software if it is deleted. You can make as many copies as you like and share them with whoever you like, but you are not able to sell them. Few people trust homemade code, except perhaps the hacker who wrote it.
+[/spoiler]
+
+---
+
+[size=14pt][b]编程检定[/b][/size]
+
+在本章节中，我们将经常提到编程检定。这是一个使用电子学(软件)+逻辑的延续检定，需要赛博碟板、通讯链、RCC等设备或可访问主机。编程检定的阈值和间隔取决于上下文。
+
+[spoiler]
+[size=14pt][b]PROGRAMMING TEST[/b][/size]
+
+In this chapter we will often refer to a programming test. This is an extended test using Electronics (Software) + Logic, and requires a device such as a cyberdeck, commlink, RCC, or host access. The threshold and interval for the programming test varies depending on the context.
+[/spoiler]
+
+---
+
+[size=14pt][b]编程工具[/b][/size]
+
+虽然从技术上讲，只使用文本编辑器应用程序就可以编写代码，但有了软件工具，编写代码会变得更便捷。编程库是软件世界的工具箱。为了高效地编写代码，你需要编程工具。如果你没有编程工具包，那么你将无法在任何编程检定中获得或花费极限。如果你拥有编程工坊，就可以将所有编程检定的间隔时间减少为所列时间的一半。编程设施需要等级为6的设备或可访问主机。除了将间隔时间缩短一半之外，编程设施还为编程检定提供了一点可用极限。如果奖励极限没有用于编程检定，它就会丢失。为了创建编程工具包或编程工坊，你需要访问编程工坊。为了创建编程设施，你需要访问编程设施。
+
+[spoiler]
+[size=14pt][b]PROGRAMMING TOOLS[/b][/size]
+
+While it’s technically possible to write code with just a text editor app, it helps to have software tools to make it easier and faster. Coding libraries are the toolkits of the software world. In order to write code with anything resembling efficiency, you need coding tools. If you don’t have access to a coding kit, you may not gain or spend Edge on any programming tests. If you have a coding shop, reduce the interval of all programming tests to half the listed time. A coding facility requires a rating 6 device or host access. In addition to reducing the interval by half, a coding facility provides a point of Edge for the programming test. If the bonus Edge is not spent on a programming test, it is lost. In order to create a coding kit or shop, you require access to a coding shop. In order to create a coding facility, you require access to a coding facility.
+[/spoiler]
+
+[quote]
+[size=14pt][b]编程工具[/b][/size]
+
+[table]
+[tr][td][b]编程库[/b][/td][td][b]可获得性[/b][/td][td][b]成本[/b][/td][/tr]
+[tr][td]编程工具包[/td][td]2[/td][td]50¥[/td][/tr]
+[tr][td]编程工坊[/td][td]4(L)[/td][td]500¥[/td][/tr]
+[tr][td]编程设施[/td][td]8(L)[/td][td]5,000¥[/td][/tr]
+[/table]
+
+[spoiler]
+[size=14pt][b]TOOLS[/b][/size]
+
+[table]
+[tr][td][b]CODING LIBRARY[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Coding Kit[/td][td]2[/td][td]50¥[/td][/tr]
+[tr][td]Coding Shop[/td][td]4(L)[/td][td]500¥[/td][/tr]
+[tr][td]Coding Facility[/td][td]8(L)[/td][td]5,000¥[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
