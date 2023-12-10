@@ -28,8 +28,8 @@
 游戏信息 P.47
 
 [size=12pt][b]数字工具箱 P.55[/b][/size]
-编写代码 P.55
-通讯链应用 P.56
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=144403.0]编写代码 P.55[/url]
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=144412.0]通讯链APP P.56[/url]
 新赛博程序 P.57
 代理 P.59
 
@@ -39,7 +39,7 @@
 [url=https://www.goddessfantasy.net/bbs/index.php?topic=136981.0]数据结构 P.69[/url]
 
 [size=12pt][b]网精时刻 P.72[/b][/size]
-新网精种类 P.72
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=144554.0]新网精类型 P.72[/url]
 新网精能力 P.73
 新网精指令 P.74
 网精声誉 P.75

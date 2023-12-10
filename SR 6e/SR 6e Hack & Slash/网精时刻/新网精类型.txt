@@ -1,0 +1,180 @@
+[color=brown][size=16pt][b]网精时刻[/b][/size][/color]
+
+本章节为网精提供了更多的选择，我们将从新网精类型开始。
+
+[size=14pt][b]新网精类型[/b][/size]
+
+在矩阵居民中已经观察到更多的变化，网精们也不例外。有些人可能认为这些个体只是已知网精类型的变种，但更有可能的是随着网精更多地出现，我们将看到更多新类型的网精。为了编译或注册这些新类型的网精，超链者必须已获得新网精类型的回声。
+
+[spoiler]
+[color=brown][size=16pt][b]POINTS OF SPRITE[/b][/size][/color]
+
+This chapter provides more options for sprites, starting with new types of sprites.
+
+[size=14pt][b]NEW SPRITE TYPES[/b][/size]
+
+More variety has been observed among the denizens of the Matrix, and sprites are no exception. Some may believe that these are simply variants of known sprite types, but it seems much more likely that we will be seeing greater variety among sprites as more of them come into being. In order to compile or register any of these new sprite types, a technomancer must take the New Sprite Type echo.
+[/spoiler]
+
+[quote]
+[size=14pt][b]刺客网精[/b][/size]
+
+那些最具报复心的超链者们已经学会了编制符合他们性格的网精。这些网精是隐蔽且暴力的，它们能够对化身造成生物反馈伤害，而不仅仅是摧毁他们。
+
+[table]
+[tr][td][b]攻击性[/b][/td][td][b]隐匿性[/b][/td][td][b]数据处理[/b][/td][td][b]防火墙[/b][/td][td][b]主动性[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td]L+3[/td][td]L+2[/td][td]L+1[/td][td]L[/td][td](Lx2)+1+4D6[/td][td]L[/td][/tr]
+[/table]
+
+[b]• 技能：[/b]电子学，破解
+
+[b]• 能力：[/b]死亡标记，电子幻影
+
+[spoiler]
+[size=14pt][b]ASSASSIN SPRITE[/b][/size]
+
+Assassin Sprite Some of the most vindictive technomancers have learned to compile sprites that match their disposition. These sprites are stealthy and violent, capable of dealing biofeedback damage to personas instead of merely crashing them.
+
+[table]
+[tr][td][b]A[/b][/td][td][b]S[/b][/td][td][b]D[/b][/td][td][b]F[/b][/td][td][b]INIT[/b][/td][td][b]RES[/b][/td][/tr]
+[tr][td]L+3[/td][td]L+2[/td][td]L+1[/td][td]L[/td][td](Lx2)+1+4D6[/td][td]L[/td][/tr]
+[/table]
+
+[b]• Skills:[/b] Electronics, Cracking
+
+[b]• Powers:[/b] Death Mark, Phantom
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]守卫网精[/b][/size]
+
+守卫网精是矩阵监护的完美角色。它们是非常有用的保镖，能够保护他人免受矩阵的威胁。
+
+[table]
+[tr][td][b]攻击性[/b][/td][td][b]隐匿性[/b][/td][td][b]数据处理[/b][/td][td][b]防火墙[/b][/td][td][b]主动性[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td]L[/td][td]L+1[/td][td]L+2[/td][td]L+3[/td][td](Lx2)+1+4D6[/td][td]L[/td][/tr]
+[/table]
+
+[b]• 技能：[/b]电子学，破解
+
+[b]• 能力：[/b]电子护盾，稳定维持
+
+[spoiler]
+[size=14pt][b]DEFENDER SPRITE[/b][/size]
+
+Defender sprites are the perfect fit for the role of Matrix overwatch. They make highly effective bodyguards, capable of shielding others from Matrix threats.
+
+[table]
+[tr][td][b]A[/b][/td][td][b]S[/b][/td][td][b]D[/b][/td][td][b]F[/b][/td][td][b]INIT[/b][/td][td][b]RES[/b][/td][/tr]
+[tr][td]L[/td][td]L+1[/td][td]L+2[/td][td]L+3[/td][td](Lx2)+1+4D6[/td][td]L[/td][/tr]
+[/table]
+
+[b]• Skills:[/b] Electronics, Cracking
+
+[b]• Powers:[/b] Shield, Stability
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]模块网精[/b][/size]
+
+模块化网精是高度通用的，能够适应任何需要的任务。
+
+[table]
+[tr][td][b]攻击性[/b][/td][td][b]隐匿性[/b][/td][td][b]数据处理[/b][/td][td][b]防火墙[/b][/td][td][b]主动性[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td]L+1[/td][td]L+2[/td][td]L+1[/td][td]L+2[/td][td](Lx2)+1+4D6[/td][td]L[/td][/tr]
+[/table]
+
+[b]• 技能：[/b]电子学，工程学，破解
+
+[b]• 能力：[/b]选择任意一种网精能力。你可以以1个任务为代价将其能力更改为另一个能力。更换为不同的能力需要网精执行一个主要动作。你可以根据需要随时切换其能力，但每次这样做都会消耗一个任务。该任务并不包括实际使用该能力，但如果网精已经处于执行命令的过程中，则不需要花费额外的任务来命令它在当前指令的背景下使用其新能力。
+
+[spoiler]
+[size=14pt][b]MODULAR SPRITE[/b][/size]
+
+Modular sprites are extremely versatile, capable of adapting to any required task.
+
+[table]
+[tr][td][b]A[/b][/td][td][b]S[/b][/td][td][b]D[/b][/td][td][b]F[/b][/td][td][b]INIT[/b][/td][td][b]RES[/b][/td][/tr]
+[tr][td]L+1[/td][td]L+2[/td][td]L+1[/td][td]L+2[/td][td](Lx2)+1+4D6[/td][td]L[/td][/tr]
+[/table]
+
+[b]• Skills:[/b] Electronics, Engineering, Cracking
+
+[b]• Powers:[/b] Choose any one sprite power. You may change the power to a different one at the cost of 1 task. Swapping out for a different power requires the sprite to take a Major Action. You can swap powers as often as needed, but doing so uses up a task each time. The task does not cover actually using the power, but if the sprite is already in the process of following orders, it does not require an extra task to command it to use its new power within the context of its current instructions.
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]音乐网精[/b][/size]
+
+有些超链者们认为共鸣是某种和谐的事物，他们使用音乐和艺术的概念来理解其中的奥秘。音乐网精具有艺术性和创造性的表现力，反映了他们所遇到的环境和实体的经验与观点。
+
+[table]
+[tr][td][b]攻击性[/b][/td][td][b]隐匿性[/b][/td][td][b]数据处理[/b][/td][td][b]防火墙[/b][/td][td][b]主动性[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td]L[/td][td]L[/td][td]L+4[/td][td]L[/td][td](Lx2)+4+4D6[/td][td]L[/td][/tr]
+[/table]
+
+[b]• 技能：[/b]电子学，唬骗(仅表演)
+
+[b]• 能力：[/b]引人注目，共鸣调谐
+
+[spoiler]
+[size=14pt][b]MUSIC SPRITE[/b][/size]
+
+Some technomancers consider the Resonance to be a thing of harmony, and they use concepts of music and art to relate to its mysteries. Music sprites are artistic and creatively expressive, reflecting the experiences and perspectives of the environment and entities they encounter.
+
+[table]
+[tr][td][b]A[/b][/td][td][b]S[/b][/td][td][b]D[/b][/td][td][b]F[/b][/td][td][b]INIT[/b][/td][td][b]RES[/b][/td][/tr]
+[tr][td]L[/td][td]L[/td][td]L+4[/td][td]L[/td][td](Lx2)+4+4D6[/td][td]L[/td][/tr]
+[/table]
+
+[b]• Skills:[/b] Electronics, Con(Performance only)
+
+[b]• Powers:[/b] Captivate Audience, Harmonize
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]原初网精[/b][/size]
+
+原初网精是由那些通过训练自身思维以几乎不在编制的网精上留下自己任何痕迹的超链者所编制的混沌而神秘的实体。这是为了避免用泛人类的期望"污染"矩阵迷失域。这类网精往往拥有难以长时间观察的奇异形式，并使用不寻常的非语言(或非文本)手段进行交流。经典的电话拨号音([color=green]modem screams，拨接调制解调器的噪音，即电话拨号音[/color])似乎是它们颇为欢迎的选择。由于它们依赖于不明确的沟通技巧，原初网精难以驾驭。众所周知，他们似乎完全无视任务，而是以自己的奇怪方式行事——它们是在尝试遵循命令但失败了还是固执己见则尚不明确。除了思想形态的原因之外，还有其他一些原因来编制它们。原初网精往往非常强大，所以当它们真的去遵循指令时，事情就轻而易举了。
+
+[table]
+[tr][td][b]攻击性[/b][/td][td][b]隐匿性[/b][/td][td][b]数据处理[/b][/td][td][b]防火墙[/b][/td][td][b]主动性[/b][/td][td][b]共鸣[/b][/td][/tr]
+[tr][td]L+3[/td][td]L+1[/td][td]L+3[/td][td]L+1[/td][td](Lx2)+3+4D6[/td][td]L+1[/td][/tr]
+[/table]
+
+[b]• 技能：[/b]电子学，破解
+
+[b]• 能力：[/b]数字尖啸，分形之梦
+
+特殊规则：每当原初网精进行任何检定时，向其骰池中添加一个狂野骰。如果掷出的该狂野骰结果为1，该网精就会停止执行指令并随机行动。它不会对编译它的超链者进行任何直接动作，但我们已知这些东西会破坏友军设备并攻击队友的网精和化身。不过，他们通常只是漫无目的地闲逛，做些别的事情。让一个分心的原初网精回到正轨需要两个任务——一个是取消当前的任务状态，另一个是给它一个新指令。如果你试图给原初网精下达复杂的指令，网精就必须进行理解检定。使用能级×2进行掷骰，将阈值设置为3(如果GM认为指令非常复杂，则可设置为更高)，并向骰池中添加一个狂野骰。如果掷出的该狂野骰结果是1，网精就会误解指令并开始随机行事。
+
+原初网精与网精亲和特质或其他任何以网精亲和为前提的特质都不兼容。但原初网精适用于网精灾星特质。
+
+[spoiler]
+[size=14pt][b]PRIMAL SPRITE[/b][/size]
+
+Primal sprites are chaotic and mysterious entities compiled by technomancers who have trained their minds to imprint almost none of their own selves onto their compiled sprites in an effort to avoid “corrupting” the wild Matrix with metahuman expectations. Such sprites tend to take bizarre forms that are difficult to look at for long, and they communicate using unusual non-verbal (or non-text) means. Classic modem screams seem to be a popular choice for them. With their reliance on unclear communication techniques, primal sprites can be difficult to command. They’ve been known to seem to completely ignore instructions and go about things in their own strange ways— whether they’re actually trying to follow orders and failing or just being obstinate is impossible to discern. There are reasons other than ideological ones for compiling them, though. Primal sprites tend to be quite powerful and capable, so drek gets done—when they actually do follow orders.
+
+[table]
+[tr][td][b]A[/b][/td][td][b]S[/b][/td][td][b]D[/b][/td][td][b]F[/b][/td][td][b]INIT[/b][/td][td][b]RES[/b][/td][/tr]
+[tr][td]L+3[/td][td]L+1[/td][td]L+3[/td][td]L+1[/td][td](Lx2)+3+4D6[/td][td]L+1[/td][/tr]
+[/table]
+
+[b]• Skills:[/b] Electronics, Cracking
+
+[b]• Powers:[/b] Digital Scream, Fractal Dream
+
+Special Rules: Whenever a primal sprite makes any test, add a wild die to its dice pool. If the wild die rolls a 1, the sprite will stop following orders and apparently act at random. It will not take direct actions against the technomancer who compiled it, but these things have been known to start bricking friendly devices and crashing allied sprites and personas. They usually just wander off and do something else, though. Getting a distracted primal sprite back on track requires two tasks—one to cancel the current state of affairs and another to give it a new command. If you ever try to give complicated orders to a primal sprite, the sprite must make a comprehension test. Roll its level x 2 with a threshold of 3 (or more, if the gamemaster decides that the orders are incredibly complex) add a wild die. If the wild die rolls a 1, the sprite misinterprets orders and behaves randomly.
+
+Primal sprites are incompatible with the Sprite Affinity quality or any other quality for which Sprite Affinity is a prerequisite. They are an eligible choice for the Sprite Bane quality, however.
+
+[/spoiler]
+[/quote]
