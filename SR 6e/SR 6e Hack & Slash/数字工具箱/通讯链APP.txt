@@ -1,0 +1,87 @@
+[color=brown][size=16pt][b]通讯链APP[/b][/size][/color]
+
+[b]编程伙伴(Code Buddy)：[/b]编程伙伴是一款通讯链APP(应用程序)，旨在通过不断地检查错误并提供解决方案建议来帮助你更快地创建软件，甚至可以基于启发式算法为你自动编写一些更繁琐的代码。这个APP可以为你节省很多时间，但并非总是如此——我们都嘲笑过自动纠错导致的错误。在编程伙伴APP的协助下进行编程检定时，将一颗骰子添加到你的骰池中，但将其视为狂野骰。
+
+[b]易跑酷(eParkour)：[/b]分析周遭物体并根据用户的技能档案规划可能的跑酷动作。如果你有DNI或图像链，该程序将为任意运动检定提供一点极限，它必须在本次检定中花费，否则就会丢失。该程序不会为攻击或防御检定提供极限，即使是通过闪避动作受益于运动技能的检定也不例外。
+
+[b]文件库(File Vault)：[/b]存储在文件库APP中的任何文件都受到加密保护，其等级等于你通讯链的防火墙属性。如果检测到解密尝试，该APP的默认响应是向通讯链所有者发出警示并删除文件。默认响应可以进行更改——其中一个更巧妙的应用方式是让该文件被编辑或替换，这样黑客就会在不知情的情况下下载虚假信息。
+
+[b]拟感分享(SimShare)：[/b]这个APP允许你与其他用户分享你的拟感信息。除最常被用于一同体验媒体或共享私人拟感环境以外，它还允许用户共享订阅通讯链的拟感反馈。订阅者的拟感体验与通讯链的所有者相同，包括任何甩致休克或生物反馈伤害。订阅者可以选择自己的界面模式来限制这种危险。使用AR模式可以完全阻隔任何伤害，而冷模VR意味着你只会受到生物反馈的眩晕伤害。只有生物反馈伤害是共享的，矩阵伤害则不会共享。拟感分享APP的用户可使用的矩阵动作仅包括发送消息、切换界面模式和弹出，但如果你具有匹配的技能，你可以通过团队协作检定协助其他矩阵动作。虽然使用拟感分享APP要比赛博程序"顺风车"安全得多，但它不能将乘客带入结构层或共鸣域。顺风车乘客(即该APP用户)作为附属于主机化身的图标出现，不能被矩阵动作、复合程式或网精能力单独作为目标。
+
+[b]MeFeed：[/b]社交媒体在第六世界无处不在，它是快速收集信息的有效方式。即使没有MeFeed账户的人也会被引用和追踪，所以如果你知道去哪里查找，你就可以侵犯任何人的隐私。运行MeFeed APP可以在任何关于个人、公司、流行文化话题或时事的矩阵搜索中提供一点极限。这条极限必须用于矩阵搜索，否则就会丢失。这个检定中的失误会引入一条错误信息，而严重失误会破坏整个搜索。该APP通常与用于捕捉生活中点滴和自拍的小型飞行无人机搭配使用。许多暗影狂奔者利用这一点来掩饰自己持有的秘密侦察装置。
+
+[b]替身假人(Mannequin)：[/b]黑客有时需要让他们的设备看起来像是正在运行一个活跃化身，也许是因为他们正忙于使用另一台设备或只是试图混入某个地方。替身假人APP需要先运行个人助理APP才能运行。有了替身假人APP和个人助理APP同时运行，你的通讯链对任何矩阵观察者来说都似乎正在生成一个活跃化身。检测这是虚假化身需要对等于通讯链设备等级的阈值进行矩阵侦察检定。
+
+[b]个人助理(Personal Assistant)：[/b]个人助理是最常见和最受欢迎的通讯链APP之一。它的功能就像一个软件仆人，其主要功能是追踪你的日程安排，监控你的网络，并自动控制连接的设备。它们通常具有独特图标和人工智能，但与真正拥有意识的AI相去甚远。这些APP本质上是高度复杂的通讯链自动化工具。除非配备额外的软件(参见下面的P-ICE)，否则它仅限于使用以下的矩阵动作：更改图标、控制设备(仅限所有者设备)、编辑文件(仅限所有者文件)、进入/退出主机、格式化设备(仅限自身)、矩阵全防御、弹出、矩阵侦察、矩阵搜索、重启设备(仅限自身)和发送消息。向你的个人助理发出一个简单命令需要花费一个次要动作。更复杂的自动化则需要花费更多的时间和精力。特别复杂的自动化指令可能需要进行编程检定，间隔时间为一分钟，由GM决定。可以进行任何顺序、条件和组合的可用矩阵动作。你的个人助理只会按照指示执行动作。它没有自己的主动性，而是在每个战斗轮中你的回合使用单个矩阵动作。对于所有矩阵动作，个人助理的骰池均为其等级x2。然而，个人助理必须计算成功数而非掷骰(每四个骰子一个成功，向下取整)，并且它自身不能花费或获得极限。在默认设置下，个人助理会通过不断使用矩阵全防御动作来提高你的整体矩阵防御。这会将其等级添加到你的骰池以抵抗任何敌对矩阵动作。注：等级为1的个人助理为零成功，等级为2-3的个人助理为1成功，等级为4-5的个人助理为2成功，等级为6的个人助理为3成功。
+
+[b]P-ICE：[/b]个人入侵对策程序，简称P-ICE，是一款新型通讯链APP，旨在让人们在使用矩阵时感到更安全。虽然没有真正的IC那么强大，但它仍然足以把黑客的一天搞得一团糟。通讯链一次只能运行一个P-ICE，并且必须与个人助理APP同时运行。
+
+[b]Nope!：[/b]这种类型的P-ICE会使个人助理APP在每个战斗轮都花费其动作来搜索针对通讯链及其连接设备的敌对矩阵活动的迹象。如果检测到敌对活动的迹象，个人助理APP会立即执行一系列操作。默认响应是提醒其所有者和当局有关攻击或入侵的信息，然后关闭所有连接设备的无线功能，随后重启通讯链。它可以被设置为仅警示特定的号码，或者调整某些设备的设置而不调整其他设备。这必须是预先决定的，但好处是通讯链所有者无需花费动作来关闭每个设备的无线模式从而保护它们免受黑客攻击——所有这些操作都会在检测到入侵时迅速发生。即使没有检测到非法活动，你也可以使用次要动作来触发该APP。
+
+[b]棘刺(Spines)：[/b]棘刺APP为你的私人助理提供了额外的对黑客防御。你的个人助理会在每个战斗轮继续使用其动作进行全防御。每当黑客执行矩阵动作与你通讯链的防火墙属性进行对抗，他们就会受到矩阵伤害。如果针对你的矩阵动作成功，他们会受到1点矩阵伤害。如果失败，他们会受到每净成功1点伤害(至少1点伤害)。这种矩阵伤害只能通过棘刺护盾赛博程序来防御。
+
+[b]看门狗：[/b]看门狗P-ICE会使个人助理在每个战斗轮都花费动作来搜索任何正在静默运行的图标。如果发现隐藏的图标，它会警示其所有者和任何其他预先设定的联系号码。无需进一步的检定或动作即可识别这些图标，但它能提供的信息仅限于图标或设备的类型。如果图标被伪装或以其他方式更改，看门狗APP将会报告伪造后的信息，就像它是真实信息一样。
+
+[spoiler]
+[color=brown][size=16pt][b]COMMLINK APPS[/b][/size][/color]
+
+[b]Code Buddy:[/b] A Code Buddy is an app designed to help you create software faster by constantly checking for errors and providing suggestions for solutions, and even writing some of the more tedious code for you based on heuristic algorithms. This app can save you a lot of time, but not always—we’ve all laughed at autocorrect fails. When making a programming test with the assistance of a Code Buddy app, add one die to your dice pool, but make it a wild die.
+
+[b]eParkour:[/b] Analyzes local objects and projects possible parkour moves based on the user’s skill profile. Provided you have a DNI or image link, it provides a point of Edge on any Athletics test, which must be spent on the test or is lost. This does not provide Edge on attack or defense tests, even ones that benefit from Athletics via the Dodge action.
+
+[b]File Vault:[/b] Any files stored away in a file vault app are protected by encryption with a rating equal to your commlink’s Firewall attribute. If a decryption attempt is detected, the app’s default response is to alert the commlink’s owner and delete the files. The default response can be altered—one of the more clever applications is to cause the files to be edited or replaced, so that the hacker downloads false information unknowingly.
+
+[b]SimShare:[/b] This app allows you to share your simsense feed with other users. Most commonly used to experience media together or share a private simsense environment, it also allows users to subscribe to the commlink’s simsense feed as a passenger in the Matrix. A subscribed user experiences all the same simsense as the commlink’s owner, including any dumpshock or biofeedback damage. Subscribers can choose their own interface mode to limit this danger. Using AR completely prevents any damage, and cold sim VR means you only take Stun damage from biofeedback. Only biofeedback damage is shared, not Matrix damage. The only Matrix Actions a SimShare subscriber can use are send message, switch interface mode, and jack out, but you can assist other Matrix Actions with a Teamwork test if you have the matching skill. While much safer to use than the hacker program Hitchhiker, SimShare is not able to carry passengers into Foundations or the Resonance realms. A hitchhiker shows up as an icon attached to the host persona, and cannot be targeted separately via Matrix Actions, complex forms, or sprite powers.
+
+[b]MeFeed:[/b] Social media is ubiquitous in the Sixth World, and it can be a useful way to gather information quickly. Even people without MeFeed accounts are referenced and tracked, so if you know where to look, you can invade anyone’s privacy. Having the MeFeed app running provides a point of Edge on any Matrix search about a person, company, pop culture topic, or current event. This Edge must be spent on the Matrix search, or it is lost. A glitch on this test introduces a piece of misinformation, while a critical glich corrupts the entire search. These are commonly accessorized with a small flying drone for capturing life on the go and taking selfies. Many shadowrunners take advantage of this to excuse the presence of a surreptitious reconnaissance device.
+
+[b]Mannequin:[/b] Hackers sometimes need to make it look like one of their devices is running an active persona, perhaps while they are busy using a different device or just trying to blend in somewhere. The Mannequin app requires a personal assistant app to be running in order to function. With both Mannequin and a personal assistant running, your commlink appears to any Matrix observer to be generating an active persona. Detecting that this is a false persona requires a Matrix Perception test against a threshold equal to the commlink’s device rating.
+
+[b]Personal Assistant:[/b] The personal assistant is one of the most common and popular commlink apps. It functions as a software servant, with the primary functions of keeping track of your schedule, monitoring your network, and automating control of connected devices. They are often programmed with artificial personalities and distinctive icons but are nowhere near being true sentient AI. These are essentially just highly sophisticated commlink automation tools. Unless equipped with additional software (see P-ICE below), it is limited to the following Matrix actions: Change Icon, Control Device (owned devices only), Edit File (owned files only), Enter/Exit Host, Format Device (self-only), Full Matrix Defense, Jack Out, Matrix Perception, Matrix Search, Reboot Device (self-only), and Send Message. Issuing your PA a simple command requires a Minor Action. More complex automations requires a bit more time and focus. Especially elaborate and complex automations may require a programming test with an interval of one minute, per the gamemaster’s discretion. Any sequence, contingency, and combination of the available Matrix Actions is possible. Your PA will only take actions as directed. It has no initiative of its own and is capable of taking a single Matrix Action each combat round on your turn. For all actions, a PA’s dice pool is its rating x 2. However, a PA must buy hits instead of rolling (one hit for every full four dice, rounded down), and no Edge may be gained or spent on its behalf. On its default setting, a PA improves your overall Matrix defense by constantly taking the Full Defense Matrix action on your behalf. This adds its rating to your dice pool to resist any hostile Matrix actions. Note: A rating 1 PA scores zero hits, rating 2–3 scores 1 hit, rating 4–5 scores 2 hits, and rating 6 scores 3 hits.
+
+[b]P-ICE:[/b] Personal ICE, or P-ICE, is a new line of commlink app designed to make people feel safer about using the Matrix. Not as powerful as true IC, it can still mess up a hacker’s day. A commlink can only run one at a time, and it must run along with a personal assistant app.
+
+[b]Nope!:[/b] This type of P-ICE causes the PA to spend its action every combat round searching for signs of hostile Matrix activity against the commlink and its connected devices. If signs of hostile activity are detected, the PA carries out a batch of actions immediately. The default response is to alert its owner and the authorities of the attack or intrusion, then turn wireless off for all connected devices, then reboot the commlink. It can instead be set to alert only certain numbers, or to adjust the settings of some devices but not others. This must be predetermined, but the advantage is that the owner doesn’t have to spend actions turning each device’s wireless mode off to protect them against hacking—it all just happens quickly in response to a detected intrusion. You can also trigger the app using a Minor Action, even if no illegal activity is detected.
+
+[b]Spines:[/b] The Spines program arms your PA with some extra defense against hackers. Your PA continues to use its action on Full Defense every combat round. Any time a hacker takes a Matrix action that is opposed by your commlink’s Firewall attribute, they take Matrix damage. If the Matrix Action against you succeeds, they take one Matrix damage. If it fails, they take one damage for every net hit against them (minimum one damage). This Matrix damage can only be prevented by the Spineshield cyberprogram.
+
+[b]Watchdog:[/b] The watchdog P-ICE causes the PA to spend its action every combat round to search for any icons that are running silent. If hidden icons are discovered, it alerts its owner and any other numbers it has been pre-programmed to contact. No further test or action is required to identify the icons, but the only information provided is the type of icon or device. If the icon is disguised or otherwise altered, the watchdog app reports the falsified information as if it were true.
+[/spoiler]
+
+[quote]
+[size=14pt][b]通讯链APP[/b][/size]
+
+[table]
+[tr][td][b]APP[/b][/td][td][b]可获得性[/b][/td][td][b]成本[/b][/td][/tr]
+[tr][td]编码伙伴[/td][td]2[/td][td]30¥[/td][/tr]
+[tr][td]易跑酷[/td][td]2[/td][td]100¥[/td][/tr]
+[tr][td]文件库[/td][td]3[/td][td]100¥[/td][/tr]
+[tr][td]替身假人[/td][td]2[/td][td]100¥[/td][/tr]
+[tr][td]MeFeed[/td][td]1[/td][td]免费*(存在应用内付费)[/td][/tr]
+[tr][td]个人助理(等级1–6)[/td][td]2[/td][td]等级x100¥[/td][/tr]
+[tr][td]P-ICE: Nope![/td][td]3[/td][td]250¥[/td][/tr]
+[tr][td]P-ICE: 棘刺[/td][td]3(L)[/td][td]500¥[/td][/tr]
+[tr][td]P-ICE: 看门狗[/td][td]3[/td][td]250¥[/td][/tr]
+[tr][td]拟感分享[/td][td]2[/td][td]100¥[/td][/tr]
+[/table]
+
+[color=green]*该表格已根据德文扩展书补充遗漏内容[/color]
+
+[spoiler]
+[size=14pt][b]COMMLINK APPS[/b][/size]
+
+[table]
+[tr][td][b]APP[/b][/td][td][b]AVAIL[/b][/td][td][b]COST[/b][/td][/tr]
+[tr][td]Code Buddy[/td][td]2[/td][td]30¥[/td][/tr]
+[tr][td]eParkour[/td][td]2[/td][td]100¥[/td][/tr]
+[tr][td]File Vault[/td][td]3[/td][td]100¥[/td][/tr]
+[tr][td]Mannequin[/td][td]2[/td][td]100¥[/td][/tr]
+[tr][td]MeFeed[/td][td]1[/td][td]Free* (in-app purchases available!)[/td][/tr]
+[tr][td]Personal Assistant (Rating 1–6)[/td][td]2[/td][td]Rating x 100¥[/td][/tr]
+[tr][td]P-ICE: Nope![/td][td]3[/td][td]250¥[/td][/tr]
+[tr][td]P-ICE: Spines[/td][td]3(L)[/td][td]500¥[/td][/tr]
+[tr][td]P-ICE: Watchdog[/td][td]3[/td][td]250¥[/td][/tr]
+[tr][td]SimShare[/td][td]2[/td][td]100¥[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
