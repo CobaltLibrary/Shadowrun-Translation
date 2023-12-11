@@ -11,7 +11,7 @@ Every shadowrunner possesses basic computer and electronics skills (barring the 
 
 [size=16pt][b]技能[/b][/size]
 
-在矩阵中工作的基础是你的技能组。对任何矩阵专家来说，无论是黑客、超链者还是机师，最重要的技能都在破解技能组和电子技能组中。这些技能和它们所包含的行动和程序如下。
+在矩阵中工作的基础是你的技能组。对任何矩阵专家来说，无论是黑客、超链者还是机师，最重要的技能都在破解技能组和电子技能组中。这些技能和它们所包含的动作和程序如下。
 
 [spoiler]
 [size=16pt][b]SKILL[/b][/size]
