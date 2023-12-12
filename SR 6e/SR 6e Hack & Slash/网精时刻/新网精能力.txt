@@ -1,0 +1,75 @@
+[color=brown][size=16pt][b]新网精能力[/b][/size][/color]
+
+[quote]
+[size=14pt][b]引人瞩目[/b][/size]
+
+网精身周环绕着复杂、美丽、愉悦而令人难以抗拒的拟感信号。网精进行唬骗(表演)+共鸣检定并记录总成功数。在网精100m范围内使用VR模式的化身可以通过直觉+防火墙的检定来尝试独自抵抗。拥有与艺术或音乐相关知识技能的角色更容易受到影响，他们无法获得或使用极限来抵抗这一能力。代理、IC和个人助理APP完全不受此能力影响，任何不运行化身的设备也不会受到影响，但网精会像拥有艺术知识技能的角色一样脆弱。任何未能完全抵抗该网精的角色都必须为其所有的极限增益和极限动作支付双倍极限点数，持续战斗轮数等于网精的净成功数。这适用于所有动作，而非仅矩阵动作。弹出或切换至AR模式会立即结束该效果。在矩阵中静默运行时不能使用该能力。
+
+[spoiler]
+[color=brown][size=16pt][b]NEW SPRITE POWERS[/b][/size][/color]
+
+[size=14pt][b]CAPTIVATE AUDIENCE[/b][/size]
+
+Complex, overwhelming, yet beautiful and entertaining simsense signals surround the sprite. The sprite makes a Con (Performance) + Resonance test and records the total hits. Personas using VR mode within 100 meters of the sprite may attempt to resist independently using Intuition + Firewall. Characters who have a knowledge skill related to art or music are more vulnerable and cannot gain or spend Edge to resist this power. Agents, IC, and personal assistant commlink apps are entirely unaffected, as are any devices that are not running a persona, but sprites are just as vulnerable as characters with artistic knowledge skills. Anyone who does not fully resist the sprite must pay twice the number of points of Edge for all Edge Boosts and Actions for a number of combat rounds equal to the sprite’s net hits. This applies to all actions, not just Matrix Actions. Jacking out or switching to AR ends the effect immediately. This power can not be used while running silently on the Matrix.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]死亡印记[/b][/size]
+
+死亡印记能力表示了网精谋害某人的意图。网精选择某个使用VR模式的化身，进行破解+共鸣vs直觉+防火墙的对抗检定。如果网精获得成功，目标的化身上就会出现令人不安的神秘肿块、疼痛或伤口。他们会被链接锁定，无法使用切换界面模式或隐藏矩阵动作，并且需要成功进行对抗检定才能弹出(SR6，第182页)。更糟糕的是，如果目标受到来自任何来源的矩阵伤害，他们也会遭受同等数量的生物反馈伤害，如果使用热模VR则为物理伤害，如果使用冷模VR则为眩晕伤害。如果网精对目标造成直接伤害，它将对目标造成等同于最初破解检定净成功数的额外伤害。死亡印记能力将在网精停止维持、目标弹出或重启时消失。
+
+[spoiler]
+[size=14pt][b]DEATH MARK[/b][/size]
+
+The Death Mark power signals a sprite’s intention to murder somebody. The sprite targets a persona that is using VR mode and makes a Cracking + Resonance vs. Intuition + Firewall Opposed test. If the sprite succeeds, the target gains a disconcerting and mysterious bulge, sore, or wound on their persona. They become link-locked, unable to use the Switch Interface Mode or Hide Matrix Actions, and they require an Opposed test to Jack Out (p. 182, SR6). It gets worse. If the target takes Matrix damage from any source, they also suffer an equal number of boxes of biofeedback damage—Physical damage if using hot-sim VR, Stun damage if using cold-sim. If the sprite directly damages the target, it deals a number of extra boxes equal to the net hits scored on the initial Cracking test. The Death Mark disappears when the sprite stops sustaining it or the target jacks out or reboots.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]数字尖啸[/b][/size]
+
+网精爆发出一阵广域杂讯，100米范围内所有连接到矩阵的设备都会受到影响。网精进行电子学+共鸣检定，该区域受到等于成功数的杂讯影响。这将在下个战斗轮开始时消褪，一旦结束，所有感知到尖啸的设备都会接收到一份文件。该文件必须由命令网精的超链者提供，作为命令它所需花费的次要动作的一部分，根据需要，这份文件可能包含加密和/或数据炸弹。在矩阵中静默运行时不能使用该能力。
+
+[spoiler]
+[size=14pt][b]DIGITAL SCREAM[/b][/size]
+
+The sprite sends out a wide burst of complex noise that is perceived by everything connected to the Matrix within 100 meters. The sprite makes an Electronics + Resonance test, and the area becomes affected by noise equal to the number of hits rolled. This fades at the beginning of the next combat round, and once it ends, everything that perceived the scream receives a single file. This file must be provided by the technomancer that commands the sprite as part of the Minor Action required to command it, and it may include encryption and/or a data bomb if desired. This power cannot be used while running silently on the Matrix.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]分形之梦[/b][/size]
+
+网精以某个化身或IC为目标，进行破解+共鸣vs直觉+数据处理的对抗检定。如果网精取得任意净成功，目标将会从矩阵中消失，在共鸣中陷入某种奇异的热模体验，每个净成功维持一战斗轮——即使他们的设备没有热模能力。这会导致IC崩溃，但除了浪费他们的时间外，该能力并不会伤害化身。一些有过这种经历的人描述这是一种宗教般的体验，一些潜在超链者也通过这种方式触发了他们的浮现，但大多数人都难以描述且难以理解这种奇异感觉。如果有人在陷入分形之梦时在物理上断开了与矩阵的连接，他们将遭受到严重的甩致休克，承受8点生物反馈伤害，并在接下来等同于受到伤害数的分钟内获得电颤与眩晕状态。
+
+[spoiler]
+[size=14pt][b]FRACTAL DREAM[/b][/size]
+
+The sprite targets a persona or IC and makes a Cracking + Resonance test vs. Intuition + Data Processing. If the sprite scores any net hits, the target vanishes from the Matrix, trapped within a bizarre hot sim experience in the Resonance for one combat round for each net hit—even if their device has no hot sim capability. This causes IC to crash, but other than wasting their time, it doesn’t harm personas. Some who have experienced this describe having a religious experience, and some latent technomancers have had their Emergence triggered in this way, but most have no words or understanding of the indescribable strangeness. If someone is physically disconnected from the Matrix while trapped in the fractal dream, they will suffer severe dumpshock, taking 8 boxes of biofeedback damage as well as receiving the Zapped and Dazed conditions for one minute per box of damage taken.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]共鸣调谐[/b][/size]
+
+网精从共鸣和其周围的矩阵中创造出音调、图像和感觉，与周遭环境和实体达到完美调谐。网精进行唬骗(表演)+共鸣检定。网精周围100米范围内的杂讯将减少等同于该检定成功数。即使杂讯的来源有规则要求不能以任何方式减少或消除，该网精能力克服了这一限制。任何在100米范围内，无论是通过AR还是VR，甚至是通过扬声器或三维全息投影体验到网精表演的人都会受到积极影响。任何治疗受影响角色的检定都将获得等于该表演检定中网精成功数的奖励骰。这包括了自然愈合、急救、医疗包、治疗魔法甚至复合程式。进行维修的任何角色在修复矩阵或物理伤害的工程学或电子学检定上也将获得相同数量的奖励骰。网精、AI和其他矩阵生物更容易受到影响，每个战斗轮结束时都会自动治愈1点伤害。
+
+[spoiler]
+[size=14pt][b]HARMONIZE[/b][/size]
+
+The sprite generates tones, images, and sensations drawn from the Resonance and surrounding Matrix, perfectly harmonizing with the environment and entities there. The sprite makes a Con (Performance) + Resonance test. Matrix noise within 100 meters of the sprite is reduced by the sprite’s hits. Even if the source of noise has a rule that it can’t be reduced or negated by any means, this sprite power overcomes that limitation. Anyone within 100 meters who can experience the sprite’s performance, whether through AR or VR, or even on speakers and trid projectors, is positively affected. Any test made to heal an affected character gains bonus dice equal to the sprite’s hits on the performance test. This includes natural healing, first aid, medkits, healing magic, and even complex forms. Any character making repairs gains the same number of bonus dice on their Engineering or Electronics tests to fix Matrix or Physical damage. Sprites, AI, and other Matrix fauna are even more strongly affected, automatically healing one box of damage at the end of every combat round.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]电子护盾[/b][/size]
+
+网精将它所有的注意力和精力都集中在定位和拦截矩阵中的危险上。对于一项任务，该能力可以守护最多等同于其共鸣属性数量的图标、人物化身或设备。网精同时只能维持一个电子护盾能力。任何被电子护盾守护的事物都将在所有矩阵防御检定及对抗复合程式和网精能力的对抗检定中中获得等同于该网精共鸣属性的额外骰子。如果一个目标在电子护盾能力的守护效果下受到矩阵伤害，那么该伤害会由网精代为承受。如果网精因维持电子护盾而受到伤害，你的网精声誉会降低1点，除非它是一个守卫网精。
+
+[spoiler]
+[size=14pt][b]SHIELD[/b][/size]
+
+The sprite focuses all of its attention and effort toward locating and intercepting Matrix hazards. For one task, this power protects a number of icons, personas, or devices up to its Resonance attribute. A sprite can only maintain one instance of the shield power. Anything under the shield’s protection gains the sprite’s Resonance attribute in bonus dice to all Matrix defense tests, as well as Opposed tests against complex forms and sprite powers. If a target takes Matrix damage while under the effects of the Shield power, that Matrix damage is suffered by the sprite instead. If a sprite takes damage due to sustaining Shield, your Sprite Rep goes down by 1 unless it is a Defender sprite.
+[/spoiler]
+[/quote]
