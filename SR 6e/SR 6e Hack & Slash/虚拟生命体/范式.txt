@@ -1,0 +1,155 @@
+[color=brown][size=16pt][b]范式[/b][/size][/color]
+
+如果祂们确实存在的话，这个由范式组成的实体类别十分广泛，每位范式都是独立的个体，有着自己的外貌、兴趣和动机。据说祂们实力强大，但描述祂们能力的报告和关于祂们真实本质的理论一样五花八门。每个范式似乎都专注于单独某个领域的影响，而这种专注也反映在祂们的追随者身上。有些范式正在积极招揽浮现者，使个体与祂们的理念相调谐(即达成一致)，而其他范式似乎对祂们的追随者视而不见。无论范式是真实存在的实体或只是一个共享的观点，都无法否认祂们对浮现者社群结构产生的影响。
+
+任何寻求指导或对矩阵更深层次理解的超链者或EI都可以向共鸣开放他们的思想，带着专注的意图伸出双手。通过这样做，他们就可以联系(或可能创建)一位范式。在超链者或EI与其中一位实体取得联系后，他们可以决定是否愿意将他们的目标与范式调谐。如果他们决定遵循这种协调，他们之后就可以从范式的建议或指导中受益。没有人能确切地说出范式是如何与他们的追随者进行交流的——也许是某种非常深层次的共鸣通道——但任何与范式调谐的人都会坚称这是真正的交流。
+
+与特定范式保持一致的超链者和EI在之后使用共鸣时会采取一种明显不同的方法。遵循特定范式的教导为个人启蒙提供了一条独特的道路。这条道路可能增强某些能力，同时对追随者的行为施加其他限制。那些与范式调谐随后违背该范式准则或意愿的追随者会失去其导师的青睐，直到他们执行了某些赎罪行为来重新获得祂。
+
+下面是一些范式传闻及祂们的理念、影响领域以及祂们对追随者的影响效果。
+
+[spoiler]
+[color=brown][size=16pt][b]PARAGON[/b][/size][/color]
+
+The class of entities made up of paragons, if they exist, is extremely broad, each a unique individual with their own appearance, interests, and motivations. They are said to be immensely powerful, but reports describing their abilities are as varied as the theories on their true nature. Each paragon seems focused on a singular sphere of influence, and that focus is reflected in their followers. Some are actively recruiting the Emergent, aligning individuals to their own beliefs, while other paragons appear oblivious to their devotees. Regardless of whether paragons are actual entities or a shared idea, there is no denying their effect on the social structures of the Emergent community.
+
+Any technomancer or EI looking for guidance or a deeper understanding of the Matrix can open their mind to the Resonance, reaching out with a focused intent. By doing, this they can contact (or possibly create) a paragon. After a technomancer or EI has contacted one of these entities, they can decide if they want to align their goals to the paragon. If they follow through with the alignment, they can benefit from that paragon’s advice and instruction in the future. No one can say for sure how paragons communicate with their followers—perhaps some very deep channel of the Resonance—but anyone who has aligned with a paragon will insist that there is real communication.
+
+Technomancers and EIs that have aligned with a particular paragon will have a distinctly different approach to using Resonance afterwards. Following the teaching of a particular paragon offers a unique path to personal enlightenment. This path may enhance some abilities while imposing other restrictions on the follower’s behavior. Those aligned with a paragon who then act against the paragon’s tenants or wishes may fall out of favor with their mentor until some atonement is performed to regain it.
+
+Here is a sample of reported paragons with a summary of their beliefs, spheres of influence, and the effects they have on their followers.
+[/spoiler]
+
+[quote]
+[size=14pt][b]范式调谐[/b][/size]
+
+不需要什么仪式才能让你与一位范式调谐；在矩阵中单独呆上几分钟就足以召唤祂并与之结盟。这样做将为角色提供某些动作的奖励和对其他动作的惩罚，如范式描述中所列。一位超链者或EI同时只能拥有一位范式。通过矩阵侦察无法察觉到某人是否与某个范式调谐，但通过特定的调谐动作和态度可以轻松分辨。
+
+[b]范式(正面特质)[/b]
+
+你相信除了你自身之外还有其他东西可以协助指引和传导你的共鸣，而那个东西也愿意支持你。无论是建构师还是黑帽子，你都可以利用你的理念来更轻松地塑造和聚焦你的能力。
+
+• 成本：10业力
+
+• 游戏机制；你将获得在你选择的范式描述中列出的奖励。如果你未能遵循范式的某条信条，你就会失去你范式的青睐和所有相关奖励。
+
+[spoiler]
+[size=14pt][b]PARAGON ALIGNMENT[/b][/size]
+
+There is no ritual to align oneself to a paragon; a few minutes alone on the Matrix is enough to call and align to one. Doing so will give the character bonuses to some actions and penalties to others, as listed in the paragon descriptions. A technomancer or EI may only have one paragon at a given time. It’s not possible to detect someone’s alignment with a paragon through Matrix Perception, but it may be obvious through the actions and attitude of the aligned.
+
+[b]Paragon (Positive Quality)[/b]
+
+You believe in something other than yourself to help guide and channel your resonance, and that something believes in you, too. Whether it be the Architect or the Black Hat, you utilize your beliefs to shape and focus your abilities more easily.
+
+• Cost:[/b] 10 Karma
+
+• Game Effect:[/b] You gain the benefits listed with the description of your paragon. If you fail to stay aligned with one of those tenets, you lose favor with your paragon and all associated bonuses.
+[/spoiler]
+[/quote]
+
+---
+
+[size=16pt][b]范式样例[/b][/size]
+
+[quote]
+[size=14pt][b]01(世界树)[/b][/size]
+
+0-1是矩阵的基石。有时也被称为世界树，祂将深层领域与基于数据的标准矩阵联系起来。作为最古老和最受推崇的范式之一，祂似乎追求和谐并保持矩阵信息的流动，祂通过在正确的时间将信息传达给合适的人来实现这一点。这是唯一一位似乎希望其追随者联合起来的范式，有许多虚拟部落将01视为其庇护主。
+
+[b]优势：[/b]当进行检定以获取权限访问某个网络或设备时，极限增益的花费降低1点
+
+[b]缺陷：[/b]仅在AR中行动时不能获得或花费极限。如果超链者故意与另一个追随01的组织对抗，则会失去其青睐，但可以通过协助同一个组织来重新获得其青睐。
+
+[spoiler]
+[size=16pt][b]SAMPLE PARAGONS[/b][/size]
+
+[size=14pt][b]01(The World Tree)[/b][/size]
+
+Zero-One is the very foundation of the Matrix. Sometimes called the World Tree, it links the Deep Realms with the standard data-based Matrix. One of the oldest and most followed of the paragons, it seems to want harmony and to maintain the flow of Matrix information, and it does this by feeding information to the right people at the right time. This is the only paragon that seems to want its followers to group up, and there are many virtual tribes who have 01 as a patron.
+
+[b]Advantage:[/b] Edge Boosts cost 1 less when making a test to gain access to a network or device.
+
+[b]Disadvantage:[/b] Cannot gain or spend Edge when acting only in AR. Favor is lost if the technomancer knowingly works against another group that follows 01, and favor can be regained by advancing that same group.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]建构师(建筑者)[/b][/size]
+
+建构师对他们建造东西的结果并不感兴趣，祂更专注于创造的行为。一旦精心设计并整合的代码或基础设施完成，建构师就会失去兴趣，转而投身于下一个重大项目。
+
+[b]优势：[/b]文件编辑动作的极限增益花费降低1点。
+
+[b]缺陷：[/b]窥探动作不能获得或花费极限。如果超链者有一段时间没有创建软件，就会失去其青睐，如果最后创建的软件不是一个具有挑战性的项目，就会失去其青睐。可以通过大型编程项目重新获得青睐。
+
+[spoiler]
+[size=14pt][b]ARCHITECT(THE BUILDER)[/b][/size]
+
+Not as interested in the result of what they build, the Architect is invested in the act of creation. Once the well-designed and integrated code or infrastructure is complete, the architect loses interest and moves on to their next big project.
+
+[b]Advantage:[/b] Edge Boosts cost 1 less for Edit actions.
+
+[b]Disadvantage:[/b] Cannot gain or spend Edge for Snoop actions. Favor is lost if the technomancer has not created software for a while, and it is lost faster if the last software created was not a challenging project. Favor can be regained with a large coding project.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]黑帽子(代码破解者)[/b][/size]
+
+与建构师相反，黑帽子对创造新事物不感兴趣；祂更喜欢拿走别人创造的东西。数据、程序、无人机以及任何可能被盗的东西似乎都是黑帽子感兴趣的。奇怪的是，祂并不囤积东西。祂更感兴趣的是盗窃过程，而非之后的结果。
+
+[b]优势：[/b]破解检定的极限增益花费降低1点
+
+[b]缺陷：[/b]设置数据炸弹时不能获得或花费极限。如果超链者建立了一个没有后门的安保系统，就会失去其青睐，但可以通过在矩阵战斗中击败安保蜘蛛而重新获得其青睐。
+
+[spoiler]
+[size=14pt][b]BLACK HAT(THE CODE-CRACKER)[/b][/size]
+
+The opposite of the Architect, Black Hat has little interest in creating new things; it prefers to take things made by someone else. Data, programs, drones, and anything that can be stolen is what the Black Hat seems interested in. Oddly, it doesn’t hoard things. It’s more interested in the theft than what happens afterwards.
+
+[b]Advantage:[/b] Edge Boosts cost 1 less for Cracking tests.
+
+[b]Disadvantage:[/b] Cannot gain or spend Edge when setting a Data Bomb. Favor is lost if the technomancer builds a secure system with no back doors, and may be regained by defeating a security spider in cybercombat.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]德尔斐(神谕)[/b][/size]
+
+被称为神谕的范式是一位实验者。通过整理大量的数据源，祂挑选模式和趋势，并利用这些趋势预测未来。在有大量数据可供其处理时，祂的表现非常出色；但当试图处理刚刚出现或经历了巨大变化的事物时，其可靠性会大大降低。神谕使用的算法与超企应用于股票市场的算法相同，用于整理从自动售货机维护指标到全国电力使用量的各种数据。这位范式是一位出色的朋友，祂会在麻烦来临时提醒你。
+
+[b]优势：[/b]编制复合程式的极限增幅花费降低1点
+
+[b]缺陷：[/b]超链者的矩阵主动性值得到-2修正。当超链者破坏了已建立的数据模式(例如，在未被要求的情况下窃取了原型)时，就会失去其青睐，但如果超链者揭示出他们这样做的原因以及之后发生的事情，就可以重新获得其青睐。
+
+[spoiler]
+[size=14pt][b]Delphi(The Oracle)[/b][/size]
+
+The paragon known as the Oracle is an experimenter. By collating large numbers of data feeds, it picks patterns and trends, and uses those trends to predict the future. It’s very good when it has lots of data to work with; it is much less reliable when trying to work with things that have just sprung up, or which have undergone a large change. The Oracle uses the same algorithms that megacorps apply to the stock market to collate everything from vending machine maintenance figures to national electricity usage. This paragon is an excellent friend who can give you a heads-up when there is trouble on the way.
+
+[b]Advantage:[/b] Edge Boosts cost 1 less when threading complex forms.
+
+[b]Disadvantage:[/b] –2 modifier to the technomancer’s Matrix Initiative Score. Favor is lost when the technomancer disrupts established data patterns (by stealing a prototype without being asked to, for example), but can be regained if the technomancer reveals why they did it, and what’s happened since.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=14pt][b]射手(士兵)[/b][/size]
+
+早在矩阵出现之前，战斗模拟和战术突袭游戏就已经是矩阵的一部分了。射手热衷于在游戏中展现力量和战斗能力，而且无论在现实世界和《矩阵》中均是如此。也许我们就是射手的化身和图标，他享受肉界游戏的方式和我们享受矩阵游戏的方式相同。无论情况如何，无论战斗如何进行，射手都渴求着战斗。
+
+[b]优势：[/b]矩阵战斗的极限增益花费降低1点
+
+[b]缺陷：[/b]编译网精时不能获得或花费极限。当超链者输掉一场战斗时就会失去其青睐，但如果超链者赢得另一场战斗，则可重新获得其青睐。
+
+[spoiler]
+[size=14pt][b]SHOOTER(THE SOLDIER)[/b][/size]
+
+Combat simulations and tactical attack games have been part of the Matrix since before the Matrix was a thing. Shooter revels in contests of strength and combat prowess in games, but also in the meatworld and the Matrix. Perhaps we are the avatars and icons of Shooter, who is playing meatworld games the same way we play Matrix connected games. Whatever the case may be, Shooter thirsts for battle, however it may be fought.
+
+[b]Advantage:[/b] Edge Boosts cost 1 less in cybercombat.
+
+[b]Disadvantage:[/b] Cannot gain or spend Edge when compiling sprites. Favor is lost when the technomancer loses a fight, but can be regained if the technomancer wins another one.
+[/spoiler]
+[/quote]
