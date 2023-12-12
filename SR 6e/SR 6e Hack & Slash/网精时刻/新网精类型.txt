@@ -28,7 +28,7 @@ More variety has been observed among the denizens of the Matrix, and sprites are
 
 [b]• 技能：[/b]电子学，破解
 
-[b]• 能力：[/b]死亡标记，电子幻影
+[b]• 能力：[/b]死亡印记，电子幻影
 
 [spoiler]
 [size=14pt][b]ASSASSIN SPRITE[/b][/size]
@@ -121,7 +121,7 @@ Modular sprites are extremely versatile, capable of adapting to any required tas
 
 [b]• 技能：[/b]电子学，唬骗(仅表演)
 
-[b]• 能力：[/b]引人注目，共鸣调谐
+[b]• 能力：[/b]引人瞩目，共鸣调谐
 
 [spoiler]
 [size=14pt][b]MUSIC SPRITE[/b][/size]
