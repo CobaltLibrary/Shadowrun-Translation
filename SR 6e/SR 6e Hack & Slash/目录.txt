@@ -16,6 +16,7 @@
 [size=12pt][b]黑客实战指南 P.23[/b][/size]
 论坛体 P.23
 游戏信息 P.26
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=144574.0]边栏：矩阵术语释义 P.29[/url]
 
 [size=12pt][b]小道具与小玩意 P.33[/b][/size]
 [url=https://www.goddessfantasy.net/bbs/index.php?topic=136574.0]赛博骇入器 P.33[/url]
@@ -58,7 +59,7 @@
 新兵与初创者 P.94
 游戏机制 P.100
 
-[size=12pt][b]虚拟生命 P.102[/b][/size]
+[size=12pt][b]虚拟生命体 P.102[/b][/size]
 初智能 P.103
 超智能 P.109
 浮现生物 P.112
