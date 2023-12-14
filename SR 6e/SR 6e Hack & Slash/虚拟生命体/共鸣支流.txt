@@ -1,0 +1,188 @@
+[color=brown][size=16pt][b]新超链者特质：共鸣支流[/b][/size][/color]
+
+共鸣不断变化的性质使它难以预测而又可塑。所有试图操纵和掌控共鸣的超链者都必须遵循这种趋势。有些超链者们发现，决定一条发展其能力的道路能帮助他们更加专注。这些道路就被称作支流。下面是几条所有超链者都必须遵守的基本规则：
+
+• 一名超链者不能同时追随两条支流。
+
+• 玩家可以修改他们之前创造的角色，追溯性地选择一条支流。
+
+• 支流特质会消耗20点业力，但在角色创建之后购买时花费不会翻倍。
+
+后台进程是一种新类型的奖励。这是一些全自动的进程，超链者在学会它们之后就会一直保持运行。从游戏机制的角度说，这是一种影响角色特定方面的被动加成，给予他们新能力或对现有能力进行改进。每个支流都会有一个相关的后台进程，以及一些能让这个支流变得更有意思的其他奖励。与支流中一同列出的复合程式可供该流中的超链者们购买，但不会自动提供给他们。
+
+[spoiler]
+[color=brown][size=16pt][b]NEW TECHNOMANCER QUALITIES: RESONANT STREAMS[/b][/size][/color]
+
+The Resonance’s constantly shifting nature makes it unpredictable and malleable. This flow must be followed by any technomancer seeking to manipulate and control the Resonance. Some technomancers have found that identifying a path to power helps them to focus their abilities. These paths are called streams. For all technomancers, there are several fundamental rules to streams that must be followed:
+
+• A technomancer cannot follow two streams simultaneously.
+
+• Players may amend previously created characters and retroactively purchase a stream.
+
+• Streams cost 20 Karma to purchase and are not subject to the double cost of qualities after creation.
+
+Aspect peripherals are a new type of bonus. These are autonomous processes that the technomancer learns to keep running at all times. Mechanically speaking, these are passive bonuses that affect a specific aspect of the character, giving them either a new power or an improvement to an existing power. Every stream has an associated aspect peripheral, along with other benefits that provide the stream with flavor. The complex form listed with the stream becomes available for purchase by technomancers in that stream, but it is not automatically given to them.
+[/spoiler]
+
+---
+
+[size=14pt][b]心灵机师[/b][/size]
+
+选择成为心灵机师的超链者能够与任何类型的机械设备调谐。他们和齿轮，运动部件还有其他机械零件打交道的方式就连街上那些蒸汽朋克发烧友都相形见绌。
+
+[spoiler]
+[size=14pt][b]MACHINISTS[/b][/size]
+
+Technomancers who identify as machinists are in tune with machines of all types. They identify with gears, moving parts, and other machine properties in ways that make an average steampunk aficionado seem restrained.
+[/spoiler]
+
+[quote]
+[color=purple][b]优势[/b][/color]
+
+• 所有以设备为目标的复合程式带来的衰褪减少2点。
+
+• 在编译和反编译机械网精时享受+2骰池加值。
+
+[spoiler]
+[color=purple][b]BENEFITS[/b][/color]
+
+• All complex forms that affect devices reduce Fade Value by 2.
+
+• +2 dice pool bonus to Compiling and Decompiling tests involving Machine sprites.
+
+[/spoiler]
+[/quote]
+
+[quote]
+[color=purple][b]后台进程[/b][/color]
+
+心灵机师跟机器们十分的亲密，以至于一次只能指挥一台这种想法对他们简直是个诅咒。他们学会了如何将共鸣转化为一种能让他们的活体化身发挥RCC的功用(除了加入或者组成WAN的能力。这需要活体网络回声，第195页，SR6)的东西。他们在通常的矩阵属性之外，得到了新的矩阵属性。心灵机师得到等同于其意志的降噪等级，以及等同于其魅力的共享等级。
+
+[spoiler]
+[color=purple][b]ASPECT PERIPHERAL[/b][/color]
+
+Machinists have such an affinity for machines that the very thought of controlling only one at a time is anathema. They have learned to twist the Resonance in such a way that their living persona can function as an RCC, emulating all the abilities available to anyone using an RCC (minus the ability to form or join a network; that requires Echo Living Network, p. 195, SR6). The new attributes are gained in addition to their normal Matrix attributes. The noise reduction rating is equal to the machinist’s Willpower, and the Sharing rating is equal to the machinist’s Charisma.
+[/spoiler]
+[/quote]
+
+[quote]
+[color=purple][b]复合程式：拉闸断电[/b][/color]
+
+[b]目标：设备[/b] [b]衰褪值：4[/b] [b]持续: I[/b]
+
+使用这个能力，心灵机师可以阻断进出某个机械的信号，将它和它的控制者分离开来。这个能力可以用在任何设备上。当使用该复合程式时，心灵机师进行电子学+共鸣vs意志+防火墙的对抗检定。目标设备会被完全停用净成功个战斗轮。如果目标是某种有着自驾等级的东西，自驾也会被一并停用。
+
+[spoiler]
+[color=purple][b]COMPLEX FORM: LOTO[/b][/color]
+
+[b]Target: Device[/b] [b]Fade Value: 4[/b] [b]Duration: I[/b]
+
+Using this ability, a machinist can disrupt the signals going to and from a machine, separating it from its overlords. This power can be used on any device. When using it, the machinist rolls an Electronics + Resonance vs. Willpower + Firewall Opposed test. The device is completely disabled for a number of Combat Turns equal to the net hits on the test. In the case of something that has a Pilot rating, the Pilot loses functionality as well.
+[/spoiler]
+[/quote]
+
+[size=14pt][b]源码术士[/b][/size]
+
+对于有些超链者而言，光是看着别人干活可远远不够。他们喜欢亲手去创造或者操作源代码。源码术士对共鸣的理解能让他们编制出甚至能让别的超链者看着头大的复合程式。
+
+[spoiler]
+[size=14pt][b]SOURCERORS[/b][/size]
+
+Some technomancers can’t let others do the job for them. They like to get involved in the process of creating and manipulating raw source code. Sourcerors weave the Resonance to make complex forms that baffle even other technomancers.
+[/spoiler]
+
+[quote]
+[color=purple][b]优势[/b][/color]
+
+• 源码术士编制的所有复合程式减少2点衰褪。
+
+[spoiler]
+[color=purple][b]BENEFITS[/b][/color]
+
+• All complex form Threading tests reduce Fade Value by 2.
+[/spoiler]
+[/quote]
+
+[quote]
+[color=purple][b]后台进程[/b][/color]
+
+源码术士在熟悉他们的复合程式上投入了巨量的时间和精力，所以他们能很轻松的编制它们。它们可以维持最多等于他们深潜等级一半（向下取整）的复合程式而不受惩罚。在这之上的任何复合程式被正常看待。
+
+[spoiler]
+[color=purple][b]ASPECT PERIPHERAL[/b][/color]
+
+Sourcerors spend so much time and energy getting familiar with their complex forms that they can thread them with relative ease. They can sustain up to half of their Submersion Grade (rounded down) in complex forms without taking a penalty. Any complex forms sustained beyond this level are treated as normal.
+[/spoiler]
+[/quote]
+
+[quote]
+[color=purple][b]复合程式：超线程[/b][/color]
+
+[b]目标：复合程式[/b] [b]衰褪值：可变[/b] [b]持续：可变[/b]
+
+源码术士能把好几个复合程式合并成一个，从而提供在单个动作中得到复数个结果的机会。虽然这么做有其限制：用于超线程的复合程式必须有着相同的目标和能级。进行一个软件+共鸣检定，将检定结果用于所有被融合的复合程式。衰褪值是通过取所有被融合复合程式的最高衰褪值决定，第一个复合程式之后的每个被融合的复合程式都会让衰褪额外增加1点，源码术士的编制检定衰褪减少2点的能力在最后被计算。
+
+[spoiler]
+[color=purple][b]COMPLEX FORM: HYPERTHREADING[/b][/color]
+
+[b]Target: Complex Form[/b] [b]Fade Value: Varies[/b] [b]Duration: Varies[/b]
+
+The Sourceror can merge multiple complex forms into a single form, providing the chance to generate multiple results in a single action. Doing so has its limits; the target and level for the Hyperthreaded Form must be the same for all merged complex forms. Resolve effects with a single Software + Resonance test, and use the results for all merged complex forms. The Fade Value is determined by taking the highest Fade Value of all merged complex forms, then adding 1 point for each complex form added after the first. The –2 bonus to Threading tests is applied at the end.
+[/spoiler]
+[/quote]
+
+---
+
+[quote]
+[size=14pt][b]技术萨满[/b][/size]
+
+技术萨满结合了他们的精神与能力。他们是网精的专家，十分擅长应付共鸣生物，还有不少甚至显露出与浮现生物打交道的卓越天赋。。
+
+[spoiler]
+[size=14pt][b]TECHNOSHAMAN[/b][/size]
+
+Technoshamans integrate the spiritual with their abilities. They are experts on sprites, phenomenal at interacting with Resonance creatures, and many even show a penchant for dealing with technocritters.
+[/spoiler]
+[/quote]
+
+[quote]
+[color=purple][b]优势[/b][/color]
+
+• 所有编码网精和解码网精的动作衰褪减少2点。
+
+[spoiler]
+[color=purple][b]BENEFITS[/b][/color]
+
+• All Compiling and Decompiling acts reduce Fade Value by 2.
+[/spoiler]
+[/quote]
+
+[quote]
+[color=purple][b]后台进程[/b][/color]
+
+技术萨满学会了发挥出他们的网精的最大潜能的办法。由此，他们获得了编译杂糅网精的能力(参见第67页)，并且只要他们在编译检定中获得1净成功，就可以获得1个额外服务。
+
+[spoiler]
+[color=purple][b]ASPECT PERIPHERAL[/b][/color]
+
+Technoshamans learn to eke the most power from their sprites. Thus, they gain the ability to compile hybrid sprites (see p. 67), and gain 1 additional service as long as they earn 1 on the Compiling test.
+[/spoiler]
+[/quote]
+
+[quote]
+[color=purple][b]复合程式：虚拟生命体[/b][/color]
+
+[b]目标：见描述[/b] [b]衰褪值：5[/b] [b]持续：S[/b]
+
+这个复合程式允许超链者控制他们遇到的虚拟生命体(网精、初智能、泛智能、构造体和浮现动物)的动作。他们进行电子学+共鸣vs防火墙+意志的对抗检定。净成功数等于技术萨满可以控制目标的最大战斗轮数。目标和它的控制者(如果有的话)会意识到发生在它们身上的事情，但对此无能为力。技术萨满使用相同的动作来指挥目标，这意味着让目标移动是一个次要动作，但让目标攻击是一个主要动作。
+
+[color=green](此复合程式目标原文为网精，根据德文扩展改为见描述)[/color]
+
+[spoiler]
+[color=purple][b]COMPLEX FORM: VIRTUAL LIFE[/b][/color]
+
+[b]Target: SPRITE[/b] [b]Fade Value: 5[/b] [b]Duration: S[/b]
+
+This complex form allows a technomancer to control the actions of the virtual life (sprites, protosapients, xenosapients, constructs, and technocritters) they encounter. They make an Electronics + Resonance vs. Firewall + Willpower Opposed test. Net hits equal the maximum number of turns the technoshaman can control the target. The target and its overlord, if there is one, is aware of what is happening to them but can do little about it. The technoshaman uses the same actions to command the target as the action they are telling them to take, which means that having them move is a Minor Action, but having them attack is a Major Action.
+[/spoiler]
+[/quote]
