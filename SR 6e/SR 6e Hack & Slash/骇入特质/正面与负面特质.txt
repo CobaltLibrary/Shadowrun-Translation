@@ -194,7 +194,7 @@ You’ve practiced a sequence of actions in the Matrix to the point that they fe
 [quote]
 [size=12pt][b]守住大门[/b][/size]
 
-你已经学会了如何把非法矩阵访问权限分享给其他化身。
+你已经学会了如何把非法的矩阵访问权分享给其他化身。
 
 花费：9业力
 
