@@ -179,23 +179,26 @@ Technomancers receive an inherent +2 dice pool bonus on all Matrix Perception Te
 [quote]
 [b]矩阵侦察数据表[/b]
 
-这是一个当你使用矩阵侦察时可能的信息列表，你可以询问关于图标和节点的信息。它是一个有代表性的列表，但不是一个详尽的列表。
-- 用户或独立代理的访问ID 
-- 节点的警报状态
-- 文件的编辑日期
-- 一个控制图标的功能
-- 对另一个节点的隐藏访问 
-- 图标受到的矩阵伤害
-- 数据炸弹的存在
-- 角色或代理运行的程序
-- 一个矩阵属性的等级
-- 类型(文件、用户、代理、程序类型等) 
-- 一个文件或节点是否被加密
-- 追踪程序是否正在运行
+这是一个当你使用矩阵侦察时可能的信息列表，你可以询问关于图标和节点的信息。这是一份代表性的列表，而不是一份详尽无遗的列表。
+
+• 用户或独立代理的访问ID 
+• 节点的警报状态
+• 文件的编辑日期
+• 一个控制图标的功能
+• 对另一个节点的隐藏访问
+• 图标受到的矩阵伤害
+• 数据炸弹的存在
+• 角色或代理运行的程序
+• 一个矩阵属性的等级
+• 类型(文件、用户、代理、程序类型等) 
+• 一个文件或节点是否被加密
+• 追踪程序是否正在运行
 
 [spoiler]
 [b]MATRIX PERCEPTION DATA[/b]
+
 This is a list of possible pieces of information you can ask about icons and nodes when you use Matrix Perception. It is a representative list, but not an exhaustive one.
+
 • Access ID of a user or independent agent 
 • Alert status of node 
 • Edit date of a file 
