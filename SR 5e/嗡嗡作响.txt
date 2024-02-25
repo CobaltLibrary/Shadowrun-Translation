@@ -1,6 +1,6 @@
 [color=brown][size=16pt][b]嗡嗡作响[/b][/size][/color]
 
-> 了解一家公司不仅仅是了解其领导层。这有助于你了解公司的文化，但在一个大公司中，有着数以百万计的员工，分布在数千个地点，划分为数百个部门和子公司，而身处顶层的人数却很有限。你会更频繁地遇到日常工作的普通员工而非领导层。当你闯入阿瑞斯的研究设施时达米安·奈特(Damien Knight)可不会坐在那里迎接你。当你潜入地平线的公关公司时，加里·克莱恩(Gary Cline)也不会负责那里的安保。因此，我们真正需要首先了解的是一线工人，也就是那些超企为了不断增长的利润而剥削的人，而这些人不知何故地说服自己接受了这一切。所以让我们深入了解一下超企工蜂的生活，看看是什么让他们运转。作为我们的指南，我们将使用《普吉特海湾》(Puget Sounds!)的一篇文章，这是一家数字报纸，出于某种原因，它模仿了上个世纪印刷报纸的风格。我们还将邀请一些了解卡尔(Karl)的嘉宾，正如你将看到的。阅读并享受吧！
+> 了解一家公司不仅仅是了解其领导层。这有助于你了解公司的文化，但在一个大公司中，有着数以百万计的员工，分布在数千个地点，划分为数百个部门和子公司，而身处顶层的人数却很有限。你会更频繁地遇到日常工作的普通员工而非领导层。当你闯入阿瑞斯的研究设施时达米安·奈特(Damien Knight)可不会坐在那里迎接你。当你潜入地平线的公关公司时，加里·克莱恩(Gary Cline)也不会负责那里的安保。因此，我们真正需要首先了解的是一线员工，也就是那些超企为了不断增长的利润而剥削的人，而这些人不知何故地说服自己接受了这一切。所以让我们深入了解一下超企工蜂的生活，看看是什么让他们运转。作为我们的指南，我们将使用《普吉特海湾》(Puget Sounds!)的一篇文章，这是一家数字报纸，出于某种原因，它模仿了上个世纪印刷报纸的风格。我们还将邀请一些了解卡尔(Karl)的嘉宾，正如你将看到的。阅读并享受吧！
 
 > Glitch
 
@@ -55,7 +55,7 @@
 
 “阿拉斯泰尔(Alastair)，”他告诉公寓AI，“请给我来一杯豆咖。”
 
-他的AI以令人担忧的平静与冷嘲热讽的语气回答说：“这个月你没能进入俱乐部，卡尔。一名新租户在投票中击败了你。”卡尔所在的大楼加入了一个名为“哥伦比亚香味”的私人豆咖俱乐部，据说味道比你通常在豆巴克购买到的更像真正的咖啡。每个月，该共管公寓的租户都会匿名投票，决定谁能够获得这种咖啡。这些豆咖俱乐部只发放有限的会员资格，以保证它们的高档。
+他的AI以令人担忧的平静与冷嘲热讽的语气回答说：“这个月你没能进入俱乐部，卡尔。一名新租户在投票中击败了你。”卡尔所在的大楼加入了一个名为“哥伦比亚醇香”的私人豆咖俱乐部，据说味道比你通常在豆巴克购买到的更像真正的咖啡。每个月，该共管公寓的租户都会匿名投票，决定谁能够获得这种咖啡。这些豆咖俱乐部只发放有限的会员资格，以保证它们的高档。
 
 “他们为什么投我出局？”卡尔问，更多是对虚空发问而非对阿拉斯泰尔。
 
@@ -137,10 +137,28 @@ Several fashion designers cater to corporate dress codes, each designer trying t
 
 ---
 
-[size=14pt][b]通勤[/b][/size]
+[color=brown][size=14pt][b]通勤[/b][/size][/color]
+
+任何住在生态建筑外的工蜂都是通勤上班的。广告大力称赞西雅图的公共交通系统，但现实情况有些不同。卡尔的一天就是个很好的例子，充分说明了没提炒作和实际体验之间的认知失调。你有见过无SIN者精灵对着巴士后面的广告牌吐口水吗?
+
+今天是《泛人类/人类工作权利法案》到期的第一天。该法案于昨日到期，市政府尚未对其进行更新。
+
+罢工当然是非法的，但一些公交雇员已经鼓起勇气，在同一天使用了他们宝贵的病假。由于缺少司机，公交系统的运行速度有点慢，再加上今天似乎有很多行动缓慢的行人，他们在公交车前散步，让车辆无法完成它们的巡回路线。聪明的人认为，这些慢吞吞的行人中有些是请病假的公交雇员，在这个不允许实际抗议的地方进行某种形式的抗议，但没有证据能证明这一点。卡尔等了十分钟才等到一辆公交车。当公交车抵达时，一名兽人从车前穿过，然后停了下来，做出一副喘不过气的样子。那名兽人发现卡尔朝他这边看，瞪了他一眼。
+
+“你有事吗？”兽人发问。
+
+卡尔眨了眨眼睛。"并没有，老兄。" 他露出一丝微笑，正对着那名兽人，展现出他销售员的魅力。我看到了这一幕。卡尔和我本该十分钟前在地铁站台见面，但当他没有露面时，小瓶妖就告诉了我他的位置。一切都很顺利，我就是因为这个才在该死的白天起床。
+
+那名兽人看起来已经准备好要打一架了。我给了他另一名记者的电话号码，告诉他如果想谈点什么就给她打电话。他不情愿地耷拉着脑袋离开了，他的LED在清晨的蒙蒙细雨中闪烁着。
+
+卡尔为自己对新闻周期的疏忽表示歉意，然后我们走进了地铁。我让小瓶妖停留在我的肩膀上；如果卡尔想私下谈谈，它可能会派上用场。毕竟，我们已经获得了全部授权。为了你们，我打算充分利用这一点，我忠诚的读者们。
+
+> 对对，“全部授权”，只要他们的老板在文章上签字就行。如果文章里有他们不希望出现的内容，你觉得它还能被刊登吗？不管你觉得自己看到了多少“工蜂的生活”，我向你保证，你看到的都是经过消毒的。
+
+> Aufheben
 
 [spoiler]
-[size=14pt][b]THE COMMUTE[/b][/size]
+[color=brown][size=14pt][b]THE COMMUTE[/b][/size][/color]
 
 Any drone living outside an arc commutes to work. Advertising lauds Seattle’s public transportation system, but the reality is somewhat different. Karl’s day is a good example of the cognitive dissonance between the hype and the actual experience. You ever see a SINless elf puking in the back of a bus on the billboards?
 
@@ -177,23 +195,278 @@ For those of you old enough to remember, a similar movement took place early in 
 [/spoiler]
 [/quote]
 
+“地铁的嗡鸣声与人体内分子的精确振动相同步。”卡尔告诉我：“在这里，你会感觉自己是这座城市的一部分，与这座城市共生共存。”他的每一句话都是对另外某种生活的渴求，尽管我认为他自己并没有意识到这一点。我们都会欺骗自己，就像公司欺骗我们一样。
+
+“我想要一杯豆咖，”他说。当然，也有一些事实会渗透出来。
+
+今早的通勤人潮仍然沉浸在他们的私人世界中。卡尔已经两次掏出了他的通讯链，但都在道歉后羞怯地将它收了回去。我告诉他要假装我不存在。“我们想要捕捉最原始的体验。”
+
+“什么体验？”
+
+“成为你。”
+
+他不知道该作何反应，他的目光落在了地铁车窗上，上面挤满了广告和新闻。他的视线锁定了一个窗格，上面展示着关于塔科马解放阵线的故事。一名戴着黑色面具的精灵正通过变音器发言："在塔科马成为像丹佛一样的自由城市前，我们绝不罢休"。主播评论了上周在同一缔约城市发生的一起爆炸案。解放阵线宣称对此负责。世界上其他地方的新闻也在滚动播出，呈现出一连串多样化的琐事和恐慌。
+
+我问卡尔是否对政治感兴趣，他摇了摇头，但算法很少犯错。然而，对像解放阵线这样的恐怖组织过于明显的兴趣可能会让一名工蜂被解雇。工蜂的生活致力于保持在一个狭窄的正常条形图内。异常会引人注目，并被要求进行绩效评估。
+
 [spoiler]
 
 “The thrum of the subway is something that synchs with the precise vibration of one’s own molecules. You feel symbiotic down here, a part of the city like you never do above,” Karl tells me. His every sentence is a plea to some other life, though I don’t think he realizes this. We lie to ourselves as much as the corps lie to us.
 
 “I want kaf,” he says. Some truths, of course, seep through.
 
-This morning’s commuter tide remains locked in the private world of their feeds. Twice now, Karl pulled out his commlink only to apologize and sheepishly put it away. I tell him to pretend I’m not here. “We want to capture the raw experience.” “Of what?” “Being you.” He doesn’t know what to make of that, and his eyes
-find the subway windows crawling with adverts and news. His gaze causes one pane to lock, showcasing a story about the Tacoma Liberation Front. An elf in a black mask speaks through a voice baffler, “We won’t rest un-
-til Tacoma is a Free City, like Denver.” The anchor com-ments about a bombing last week in that same treaty city. The TLF claimed responsibility. The rest of the world scrolls by in the ticker, a multifarious litany of fluff and dread.
-I ask if Karl is interested in politics and he shakes his
-head, but it’s rare the algorithms make a mistake. Yet, too overt an interest in a terrorist organization such as TLF could get a drone fired. The drone’s life is dedicated to staying within a narrow bar graph of normality. Anomalies stand out and are called up for performance reviews. Karl takes a deep sigh after looking at his phone.
-“What?” “Nothing. Just my brother.” Karl’s brother was, like Karl, on track for a corporate
-life until he dropped out of Washington State University two years ago and all but disappeared. Karl gets cryptic, and sporadic, texts from him. His father constantly worries. “Never mind,” he says, putting the phone away as the
-train stops and two leatherboys from a go-gang get on. Both of their red leather jackets shine under the
-train’s incandescents. They prowl the car like lions, eyes crawling over each of us. They settle on a smaller woman sitting across from us and start to hassle her. Karl starts blinking rapidly, like some kind of allergic
-reaction. His hands twitch, but he doesn’t do anything. Karl, clearly, plays too many games. We’ve all seen this
-before, haven’t we, loyal readers?
+This morning’s commuter tide remains locked in the private world of their feeds. Twice now, Karl pulled out his commlink only to apologize and sheepishly put it away. I tell him to pretend I’m not here. “We want to capture the raw experience.”
+
+“Of what?”
+
+“Being you.”
+
+He doesn’t know what to make of that, and his eyes find the subway windows crawling with adverts and news. His gaze causes one pane to lock, showcasing a story about the Tacoma Liberation Front. An elf in a black mask speaks through a voice baffler, “We won’t rest until Tacoma is a Free City, like Denver.” The anchor com-ments about a bombing last week in that same treaty city. The TLF claimed responsibility. The rest of the world scrolls by in the ticker, a multifarious litany of fluff and dread.
+
+I ask if Karl is interested in politics and he shakes his head, but it’s rare the algorithms make a mistake. Yet, too overt an interest in a terrorist organization such as TLF could get a drone fired. The drone’s life is dedicated to staying within a narrow bar graph of normality. Anomalies stand out and are called up for performance reviews.
 [/spoiler]
 
+[quote]
+[size=14pt][b]目标市场营销[/b][/size]
+
+典型的工蜂与暗影狂奔者截然不同。其中最关键的差异之一就是工蜂在其行走世界的过程中所留下的数据踪迹。
+
+暗影狂奔者会竭尽全力地远离网络或巧妙地加以处理，而工蜂则依赖于这种无所不在的监控。地铁车窗扫描了卡尔的SIN，随后立即调出了一份与他兴趣相关的信息源。广告也是根据他的消费档案直接定制的。
+
+数据公司不遗余力地追踪工蜂生活的细枝末节。企业不仅依赖于工蜂工作，还依赖他们购买商品。工蜂占据了百分之七十的消费市场。毕竟，有多少无SIN者能负担得起豆咖的订购费用？
+
+每名工蜂都选择了为一家公司工作，并采用这种生活方式。有些人甚至花钱购买更好的个性化服务，这样他们就可以随时看到与自己相关的事物。工蜂从醒来到入睡的每一刻都受到追踪。先进的算法通过微调过滤器整合数据，筛选出一天中积累的无意义信息，以某种方式推断其目的并预测其未来行为。
+
+尽管无所不在的监控是人们踏入暗影的众多原因之一，但这种追踪为狂奔者如何操纵工蜂提供了宝贵的线索。毕竟，在对某些体味除臭剂、电影类型、餐饮选择和暴食屋(Stuffer Shack)特价的偏好之下，隐藏着每名工蜂的全方位心理素描。一名碟客如果得到了这些信息，就拥有了许多马基雅维利式的对该主体内心的切入点。
+
+[spoiler]
+[size=14pt][b]MARKETING TARGETS[/b][/size]
+
+The typical drone is very different from a shadowrunner. Key among these differences are the data trails a drone leaves behind in their passage through the world.
+
+Where a shadowrunner makes every effort to stay off of the grid or manipulate it when they go on, drones rely on such ubiquitous monitoring. The subway windowpane scanned Karl’s SIN and immediately called up a feed tailored to his interests. The advertising featured on this feed is likewise tied directly to his consumer profile.
+
+Data companies go to great lengths to track the minutiae of a drone’s life. Corporations rely on drones not only to work but to buy. Drones make up seventy percent of the consumer market. After all, how many SINless can afford the nuyen for soykaf subscriptions?
+
+Every drone opts in merely by working for a company and adopting that lifestyle. Some even pay for better profiling services so that they can always see things relevant to them. Drones are tracked from the moment they wake until the moment they go to bed. Advanced algorithms collate the data with fine-tuned filters, sifting through strata of accumulated meaninglessness of a day and somehow construing purpose and predicting future behavior.
+
+While ubiquitous observation is among the myriad reasons people step into the shadows, this tracking provides valuable clues as to how a runner can manipulate a drone. After all, beneath the preferences for certain deodorants, film genres, dining choices and Stuffer Shack Specials lays a comprehensive psychological profile of every drone. A decker who gets their hands on these has a wealth of Machiavellian points of entry into that subject’s psyche.
+[/spoiler]
+[/quote]
+
+卡尔看了看他的通讯链后深深地叹了口气。
+
+“怎么了？”
+
+“没什么。只是我哥。”
+
+卡尔的哥哥和卡尔一样，本来是要过上公司生活的，直到两年前他从华盛顿州立大学退学，随后几乎彻底消失。卡尔时常能收到他那神秘且断断续续的短信。他的父亲总是担心。
+
+“别在意，”他这样说，把通讯链放了回去，这时列车停下，两名来自某支街头帮派的皮衣小子上了车。
+
+他们穿着的红色皮夹克在火车的白炽灯下闪闪发光。他们二人像狮子一样在车厢里游荡，视线在我们每个人身上扫过。随后他们盯上了坐在我们对面的一位小个子女性，开始骚扰她。
+
+卡尔开始快速地眨眼，就像出现了某种过敏反应。他的手抽搐了一下，但什么也没做。卡尔显然玩了太多的游戏。我们都见过这种情况，不是吗，忠实的读者们？
+
+[spoiler]
+
+Karl takes a deep sigh after looking at his phone.
+
+“What?”
+
+“Nothing. Just my brother.”
+
+Karl’s brother was, like Karl, on track for a corporate life until he dropped out of Washington State University two years ago and all but disappeared. Karl gets cryptic, and sporadic, texts from him. His father constantly worries.
+
+“Never mind,” he says, putting the phone away as the train stops and two leatherboys from a go-gang get on.
+
+Both of their red leather jackets shine under the train’s incandescents. They prowl the car like lions, eyes crawling over each of us. They settle on a smaller woman sitting across from us and start to hassle her.
+
+Karl starts blinking rapidly, like some kind of allergic reaction. His hands twitch, but he doesn’t do anything. Karl, clearly, plays too many games. We’ve all seen this before, haven’t we, loyal readers?
+[/spoiler]
+
+[quote]
+[size=14pt][b]虚拟创伤障碍[/b][/size]
+
+虚拟创伤障碍(VTD)是一种罕见的后天性疾病，类似于创伤后应激障碍(PTSD)，但完全是由虚拟体验引发的。尤其是游戏体验，会刺激大脑的某些区域，形成神经模式——就像在麦田里耕作的路径——这些路径在现实生活中会循环往复，而其中的一小部分被认为是“创伤性”的。
+
+研究表明，退伍军人和VTD患者的大脑之间存在相似性。拉斯维加斯大学的梅尔-霍尔姆(Mel Holme)博士认为，这种障碍最常见于那些易于表现出战斗般行为或姿态的人。通俗地说，这位博士在理论上推断，少数VTD患者可能会成为出色的士兵。
+
+> “可能会成为”？加美国已经研究这方面十年了。见鬼，他们发行了一些战斗游戏，正是为了招募士兵。你可以把这些游戏放到盖恩斯维尔的一些移动住宅、西雅图的贫民窟里，随后你就会找到一些潜在的精锐部队，他们的未来只有领取失业救济金……这还要看救济金是否已经满员了。超企也在关注这方面，尽管他们可以更挑剔一点。他们在较低级别的专业人员中招募人才。S&K公司专门制作了可以刺激文章中提到的大脑区域的游戏。可悲的是，只有大约百分之五的VTD患者能成为合格的企业部队和特工。这就意味着百分之九十五的人没有接受治疗就被抛弃了。S&K可不会为他们不计划雇佣和培训的人支付VTD的治疗费用。瞧瞧这个，狂奔者们。
+
+> Dr. Spin
+
+[spoiler]
+[size=14pt][b]VIRTUAL TRAUMA DISORDER[/b][/size]
+
+Virtual trauma disorder (VTD) is a rare acquired condition similar to PTSD but produced entirely by virtual experiences. Gaming experiences, in particular, excite certain regions of the brain that form neural patterns—like paths plowed in wheat fields—that loop back on themselves in real life situations. Some small numbers of these paths are considered “traumatic.”
+
+Studies have shown a similarity between the brains of combat veterans and VTD sufferers. Dr. Mel Holme of Las Vegas University believes the disorder most commonly manifests in those prone to combat-like behavior or stances. In layman’s terms, the doctor theorizes that a small number of VTD sufferers might have made excellent soldiers.
+
+> “Might have made?” UCAS has been on this for a decade. Hell, they put out some of those Brothers in Arms games precisely to find soldiers. You get yourself these games in some of the double-wides out of Gainesville, the slums of Seattle, and you find some potential crack troops with no future but the dole … and that’s if the dole isn’t full up. Corps are on to it, too, though they can afford to be a bit choosier. They recruit out of the ranks of the pros at the lower levels. S&K has a whole program devoted to making games that’ll specifically excite regions of the brain mentioned in the article. Sad thing is, only, like, five percent of the people who get VTD would make good corp troops and agents. That leaves ninety-five percent fragged without treatment. S&K isn’t going to pay to fix VTD for someone they don’t plan to hire and train. Scope that, chummers.
+
+> Dr. Spin
+[/spoiler]
+[/quote]
+
+---
+
+[color=brown][size=14pt][b]工作日开始[/b][/size][/color]
+
+卡尔所在部门的高级主管凯伦·奥尔布赖特(Karen Albright)在公司赞美歌刚唱到一半的时候，看到他带着我走了进来。首席执行官(CEO)从新加坡通过全息图像，带领团队唱起了朗朗上口的歌词。
+
+[spoiler]
+[color=brown][size=14pt][b]THE WORK DAY BEGINS[/b][/size][/color]
+
+Karen Albright, the senior manager of Karl’s department, eyes him as he comes in with me in tow right in the middle of the corporate hymn. The CEO, direct from Singapore via hologram, leads the team in the catchy lyrics.
+[/spoiler]
+
+[quote]
+[size=14pt][b]企业合唱[/b][/size]
+
+一些公司有自己的赞美歌，在企业用语中通常被称为“主题曲”。这些歌曲不可避免地是由某个落魄的B级作曲家编曲的。大多数员工对此不屑一顾，但企业文化中的这种特殊习俗却像虱子一样根深蒂固。
+
+主题曲的整体意义可能微乎其微，但它却是企业操纵员工心理的冰山一角。公司希望他们的员工在工作时感到快乐，或至少认为自己很快乐。员工越快乐，工作效率就越高，而心理工程学在保证工蜂快乐方面很有一套。
+
+[spoiler]
+[size=14pt][b]CORPORATE SING-ALONGS[/b][/size]
+
+Some corporations have hymns, more commonly called “theme songs” in most corpspeak. These are inevitably arranged by some B-list composer fallen on hard times. Most employees roll their eyes at such things, but the corporate culture has this particular custom ingrained like a tick.
+
+The overall significance of the theme song is likely minimal, but it’s the tip of a vast iceberg of corporate psychological manipulation of their employees. The corps want their employees happy—or at least thinking they are—while at work. A happier employee is a more productive one, and psychological engineering is very good at keeping drones happy.
+[/spoiler]
+[/quote]
+
+卡尔是"过着平静但绝望生活"的工蜂的例子，但他不应被视为典型。虽然许多工蜂无疑是不满意的，但更多工蜂享受着公司提供的安全保障。工作时间可能很长，但公司提供了各种福利——旅游和酒店优惠券或真正的假期、儿童日托、娱乐室、“娱乐时间”和许多其他进步性创新。这并不是说任何一个AAA公司不会在有机会的情况下割掉竞争对手的喉咙，只是说，排名靠前的公司往往拥有最先进的手段，即使不能让员工感到非常快乐，也能让他们心满意足。
+
+奥尔布赖特是一名在企业阶梯上快速晋升的薪奴。她比卡尔年轻两岁，而且已经把这个部门——销售与客户维系部门——看成了自己的后花园。卡尔上一次的绩效评估并不差，他在部门里排在中等偏下的位置，但奥尔布赖特却特别不喜欢他，他是这么说的。在这一天的过程中，我发现他是对的。
+
+赞美歌结束了，每个人都朝着他们分配到的公司地产的小隔间走去。卡尔试图随着人群一同散去，这让我想起了动物纪录片里的情节：羊群奔跑，狮子只能追到其中一只。今天卡尔就是那头不幸的羚羊。
+
+“又迟到了，卡尔。”这不是提问。
+
+“公交因罢工停运了。”他的声音非常微弱，有些心不在焉。
+
+“每个人都知道罢工要来了。你应该早点出发。我给你的AI发了消息，他叫什么来着，阿尔伯特，因为我就知道你会忘记的。”
+
+"你说什么？"
+
+“我会在你的屁股上下咒，杰尼索维奇，让你的私处萎缩变小。”
+
+“我的前任已经这么做了。”
+
+她的眼睛眯了起来。她会找卡尔算账的，但不是今天。
+
+卡尔又深深地叹了一口气——我已经习惯了——然后在他的新加坡产自动升降椅上坐了下来。他所在的公司——伟大美国产品公司——上个月被一家AAA公司收购了，虽然只是一次较小的收购，但对这家小公司来说却是一次重大变革。
+
+母公司已经安装了这种刻有脉轮，灌注业力的新型按摩椅。他们找来了十几个法师，在东亚的丛林里挥舞鸡骨头和野猪肠子。至少扫描条形码时是这么说的。
+
+“这把椅子，”卡尔告诉我，“是一系列变革的第一步。像我们这样的小公司被收购后，所有者不会一下子改变所有东西。在过去他们经常这样做。而这让员工们适应起来非常困难，他们称之为‘企业文化冲击’。这家历史悠久的公司曾让心理医生来处理一位员工的问题，他完全失去了理智，在休息室里裸露身体并自杀了。”
+
+[spoiler]
+
+Karl is an example of a drone living “a life of quiet desperation,” but he should not be thought of as typical. While many drones are no doubt dissatisfied, a great many more enjoy the security blanket a corporation provides. Hours may be long, but the company offers benefits— travel and hotel vouchers or real vacations, daycare for children, recreation rooms, “play time,” and many other progressive innovations. This is not to say any given AAA wouldn’t cut their competitor’s throat given the chance, only that the corporations on top tend to have the most advanced means of keeping their employees content if not happy.
+
+Albright is a wagemage fast-tracked to promotion on the corporate ladder. She’s two years younger than Karl and already looking at this department—sales and client retention—in the rearview. Karl’s last performance review wasn’t abysmal—he ranked in the lower middle in his department—but Albright takes a special dislike to him, or so he claims. Over the course of the day, I’ll come to know he’s right.
+
+The hymn ends, everyone trailing off to their given cubic meter of corporate real estate. Karl tries to scatter with the crowd, and I’m reminded of animal documentaries where the herd runs, and the lion only gets one of them. Karl is that unfortunate wildebeest today.
+
+“Late again, Karl.” Not a question.
+
+“The buses were shut down due to a strike,” his voice weak, his heart not in it.
+
+“Everyone knew the strike was coming. You should have left early. I messaged your AI, what’s his name, Albert, because I knew you’d forget.”
+
+“Sorry?”
+
+“I’ll throw a hex on your ass, Denisovich, so your privates shrivel and shrink.”
+
+“My ex beat you to it.”
+
+Her eyes narrow. She’ll have her reckoning with Karl, but not today.
+
+Karl takes another of his deep sighs—I’m getting used to them—and sits down in his Singaporean self-articulating chair. The company he works for—Great American Products—was bought last month by one of the triple-As, a minor acquisition, but a major change for the smaller corp.
+
+The parent company already installed these new, massaging, chakra charmed, karma-infused chairs. They get mages by the dozen to wave chicken bones and boar intestines over them somewhere in the jungles of East Asia. At least that’s what it says when you scan the bar code.
+
+“This chair,” Karl tells me, “is the first step in a host of changes. A smaller corp like mine gets bought, the owners don’t change everything at once. They used to, back in olden times. Got so bad for employees trying to adjust they called it ‘corporate culture shock.’ This ancient company had therapists come in to deal with an employee that totally lost it, exposed himself and committed suicide in the break room.”
+[/spoiler]
+
+[quote]
+[size=14pt][b]错配员工[/b][/size]
+
+公司不仅会根据员工个人的需求，也会根据算法和法师的预测，为他们量身定制最合适的岗位。但有一小部分人，比如卡尔，会从缝隙中溜走，就像上层管理者所说的“错配”。
+
+> 我们就是这样认识卡尔的——他是个“错配者”。其中一位招聘人员保存了一篇她认为是秘密的博客，我们找到了它。我用了一些混沌数学，筛选出了六个左右的候选人。
+
+> Louis 3.14
+
+错配员工可能会不开心，或者至少更有可能是不开心的。因此，如果你在调查一个部门，寻找一个可转化为资产的薄弱环节，那么不妨看看你是否能找到标有“错配者”这个人性化昵称的档案，或者你正在调查的公司使用的类似标签。
+
+[spoiler]
+[size=14pt][b]MISFILED EMPLOYEES[/b][/size]
+
+A corp fits a person not only to what they want, but to what their algorithms and mages predict is the best position for them. A small number, like Karl, slip through the cracks and get, as upper management calls it “misfiled.”
+
+> That’s how we first got on to Karl—he was a “misfile.” One of the recruiters keeps a blog she thinks is secret, and we sussed it out. I used some chaos math and filtered down to six or so candidates.
+
+> Louis 3.14
+
+Misfiles are likely to be unhappy, or at least more likely, so if you’re scoping a department for a weak link to turn into an asset, see if you can find files tagged with that humanizing little moniker “misfile,” or whatever similar label the corp your’re
+investigating uses.
+[/spoiler]
+[/quote]
+
+卡尔知道很多事情，即使我不是企业文化专家，也能看出他的才能可能被浪费了在销售与客户维系部门。然而，他应该在入职时就已经被筛选过了。他为什么会来到这里呢？
+
+当被问及他在公司的目标时，卡尔说：“我曾经有雄心壮志，但最近我在想，这有什么意义呢？我想要奥尔布赖特的工作吗？我是说，那是怎么回事？对着人大喊大叫？我不想那样。”
+
+卡尔是大学毕业后从戏剧专业深造中应聘来的，这不是典型的企业职业生涯轨迹。然而，2060年代的许多公司开始转向人文学科，试图改变陈旧的企业团队。人性化公司成为新的流行趋势，而卡尔是成千上万被这种新举措吸引的人之一。
+
+这份背景为他赢得了一个实习机会，并最终在销售部门找到了一份工作。曾几何时，他的前途一片光明——他善于与人打交道，深受同事喜爱，并且超额完成了他的销售指标。在过去的几个月里，他的绩效评估开始下滑，直到卡尔的“员工图表”看起来就像强化奥运会的跳台滑雪一样——陡然向下倾斜。
+
+他突然意识到自己可能说得太多了，但我向他保证，他所说的一切都会得到公司的批准。他不会受到惩罚。
+
+“他们有其他办法制裁你。”又是一声惯用的叹息。“我需要一杯豆咖。”
+
+我不知道他是否还记得那个小瓶妖今早全程收看了他的豆咖灾难。
+
+[spoiler]
+
+Karl knows many things, and even I, no expert in corporate culture, can see his talents are likely being wasted in Sales and Client Retention. Yet he would have been screened upon hiring. Why did he end up here?
+
+When asked about his goals with the company, Karl says, “I used to have ambitions, but lately I think, what’s the point? Do I want Albright’s job? I mean, what’s that about? Yelling at people? I don’t want that.”
+
+Karl was recruited out of college and from depths of a drama program—not your typical corporate trajectory. Yet many companies in the 2060s began turning to the humanities in an attempt to shake up stale corporate bands. Humanizing the corporation became the new fad, and Karl was one of thousands scooped up in this new initiative.
+
+That background landed him an internship and, eventually, a job in sales. Once upon a time, his path looked clear—he was good with people, liked by coworkers, and exceeded his quotas. Over the last months, his performance reviews began to slip until Karl’s “employee graph” looked like the run up to a ski jump at the Enhanced Olympics—steeply angled downward.
+
+He catches himself then, realizing he’s perhaps said too much, but I reassure him that everything he says is cleared by the company. He cannot be punished.
+
+“They have other ways of getting you.” Another patented sigh. “I need a soykaf.”
+
+I wonder if he remembers the bottle imp was watching his soykaf debacle this morning.
+[/spoiler]
+
+[quote]
+[size=14pt][b]图表化进步[/b][/size]
+
+员工图表是可视化任何给定员工数据的内部方法。图表的大方向(向上或向下)以及倾斜或下降的程度，可以让管理者快速了解员工的过去表现和预期表现。
+
+正处于上升期的员工不太可能屈服于暗影狂奔者的贿赂或威胁。然而，正在走下坡路的人则可以成为首要目标。卡尔·杰尼索维奇的档案将他标记为被淘汰者，但他仍然拥有公司权限。这一点值得利用。
+
+作为一种冗余措施，许多公司开始限制那些图表不理想的员工的访问权限。因此，在狂奔者可以最佳化利用那些看似即将跌入谷底的员工之间存在一个小窗口时间。
+
+[spoiler]
+[size=14pt][b]CHARTING PROGRESS[/b][/size]
+
+Employee graphs are an internal way of visualizing data on any given worker. The general direction of the graph, up or down, coupled with the degree of inclination or declination, gives managers a quick précis of an employee’s past performance and projected performance.
+
+Someone on their way up is less likely to succumb to the bribes or threats of a shadowrunner. Someone on their way down, however, can make a prime target. Karl Denisovich’s file marked him as a dead-ender, but he still has corporate access. That is worth exploiting.
+
+As a redundancy, many corporations began to restrict access for employees with less-than-optimal looking graphs. There is therefore a small window of time during which runners can best exploit an employee seemingly on their way to the bottom.
+[/spoiler]
+[/quote]
+
+---
 
