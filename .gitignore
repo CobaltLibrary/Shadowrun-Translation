@@ -1,2 +1,4 @@
-Tools/
-Plan/
+/Tools/*
+!/Tools/译名对照表.xlsx
+!/Tools/果园格式.txt
+/Plan/
