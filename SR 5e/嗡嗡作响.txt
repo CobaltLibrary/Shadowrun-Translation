@@ -891,7 +891,7 @@ Squatter camps provide a good, neutral location to meet a drone. Corporate prese
 
 “见鬼，我没时间吃一顿真正的午餐。” 卡尔啜饮着摊贩自制的豆咖，步履匆匆地赶回办公室。他指了指街对面的一家暴食屋，我们走了进去。
 
-在这里，回到了舒适且熟悉的无情品牌环境中，卡尔在营地中的微笑已经远在几公里之外了。他走入便携午餐货架，拿起了一个“商业午餐包”，准备回到办公室加热。我没有跟过去。在门口停住了脚步。
+在这里，回到了舒适且熟悉的无情品牌环境中，卡尔在营地中的微笑已经远在几公里之外了。他走入便携午餐货架，拿起了一个“活力午餐包”，准备回到办公室加热。我没有跟过去。在门口停住了脚步。
 
 这是因为这家暴食屋正在被抢劫。
 
@@ -899,7 +899,7 @@ Squatter camps provide a good, neutral location to meet a drone. Corporate prese
 
 “进来。” 他转向卡尔，卡尔现在才意识到了情况。“你，打领带的，站到那个女士旁边，让我能看到你。”
 
-卡尔慢慢地走向我，双手举在空中，右手仍然拿着他的商业午餐包。他没有像今早在列车上那样颤抖，相反，他表现出一种怪异的平静。他的脸就像全息影片中的英雄一样，我不知道卡尔的脑海中是否正在播放这样的场景。求你了，别做傻事，我这么想。该死的，两周前我还写了一篇文章，关于在办公室枪击事件中试图扮演狙击手斯莱德的公司工蜂。为了那篇报道，我去了很多次太平间。
+卡尔慢慢地走向我，双手举在空中，右手仍然拿着他的活力午餐包。他没有像今早在列车上那样颤抖，相反，他表现出一种怪异的平静。他的脸就像全息影片中的英雄一样，我不知道卡尔的脑海中是否正在播放这样的场景。求你了，别做傻事，我这么想。该死的，两周前我还写了一篇文章，关于在办公室枪击事件中试图扮演狙击手斯莱德的公司工蜂。为了那篇报道，我去了很多次太平间。
 
 这次他没有那么紧张。他脸上惯有的表情突然变得冷漠，就像一个反社会分子觉得你没有在看他时的表情。这是我今天中第一次不同情卡尔。我说不出自己的感受。也许是恐惧吧。
 
@@ -935,15 +935,15 @@ Karl isn’t here; I see that now. I don’t know where he is. Maybe in a game.
 [quote]
 [size=14pt][b]工蜂的犯罪白日梦[/b][/size]
 
-与VITAS相关的是一种尚未命名的"综合症"，即市民试图干预危险情况。尽管游侠骑士与该市签订了合同，但像暴食屋这样的抢劫案并不罕见(尤其是因为位于中低收入社区的暴食屋并不是游侠骑士的首要保护对象)。
+与VITAS相关的是一种尚未命名的"综合症"，即市民试图干预危险情况。尽管游侠骑士与该市签订了合同，但像暴食屋这样的抢劫案并不罕见(尤其是因为位于中低收入社区的暴食屋并非游侠骑士的首要保护对象)。
 
 全息影片与游戏美化了普通人在遇到这种情况时的反应，从而催生了被媒体称作“米堤事件”的情况。这是指一个普通人(通常与公司有关系)将全息影片与现实混淆，并试图扮演英雄的时刻。这些事件总是以悲剧收场。
 
-心理学家将这些失败的干预归因于工蜂和类似人群在被严格限制的生活中积压的愤怒和挫败感。该理论认为，在刻板的循规蹈矩中度过的生活，容易使人产生一时的纯粹冲动。在媒体塑造的孤胆英雄神话的支撑下，在“要么战斗，要么逃跑”的肾上腺素的巨大作用下，个人会突然爆发，试图阻止暴力行为。
+心理学家将这些失败的干预归因于工蜂和类似人群在被严格限制的生活中积压的愤怒和挫败感。该理论认为，在刻板的循规蹈矩中度过的生活，容易使人产生一时的纯粹冲动。在媒体塑造的孤胆英雄神话的支撑下，在“战或逃”的肾上腺素的巨大作用下，个人会突然爆发，试图阻止暴力行为。
 
 仅去年在西雅图就有12人因试图扮演英雄而丧生。
 
-> 这是真的，但他们没有告诉你的是这也是一名工蜂会与像我这样的狂奔者合作的原因。他们中的一些人渴望着我们拥有的生活。他们梦想在暗影中狂奔，拿着一把H&K，开着跳线反射，使用个人战斗程序评估情况并选择目标向量。问题是，他们没有跳线反射，他们唯一一支开过火的H&K是在《狂奔者》游戏中。
+> 这是真的，但他们没有告诉你的是这也是一名工蜂会与像我这样的狂奔者合作的原因。他们中的一些人渴望着我们拥有的生活。他们梦想在暗影中狂奔，拿着一把H&K，开着跳线反射，使用个人战斗程序评估情况并选择目标向量。问题是，他们没有跳线反射，他们唯一一支开过火的H&K是在《狂奔吧，狂奔者》游戏中。
 
   这是一种妄想，但这是一种我们可以利用的妄想，你知道吗？给某人一个机会来实现这样的幻想，哪怕只是一点点，你也会惊讶地发现，他们陷入街头黑暗一面的速度如此之快。
 
@@ -971,3 +971,93 @@ Twelve people died in Seattle alone last year trying to play the hero.
 > Pistons
 [/spoiler]
 [/quote]
+
+---
+
+[color=brown][size=14pt][b]不满的原因[/b][/size][/color]
+
+如果我身边的卡尔即将失去理智，让我们花一分钟来探讨一下原因。毕竟，纵观整个人类历史，他的生活水平是绝大多数人所羡慕的。他拥有无穷无尽、令人惊叹的娱乐选择。他衣食无忧。那么，他为什么不快乐呢？为什么他会对自己的生活如此不满，以至于不惜牺牲自己的一切？很高兴你这么问。以下是一些常见的不满来源，以及操控者可以利用这些不满情绪的方法。狂奔者请注意：当竞争对手公司试图使另一家公司的员工叛变时，也会使用与这些相同的清单，这绝非偶然。当你在试图策反其他公司的员工时很可能会遇到来自另一家公司的企业间谍。而企业间谍活动无疑是错综复杂的。
+
+[spoiler]
+[color=brown][size=14pt][b]CAUSES OF DISCONTENT[/b][/size][/color]
+
+If Karl, right next to me, is about to lose his head, let’s take a minute to explore why. After all, if we look at the whole of humanity throughout the history of the world, he has a standard of living that the majority of people who have lived would envy. He has entertainment options that are infinite and amazing. He is sheltered and fed. So why is he not happy? Why would he have so much discontent with his life that he might put everything he has at risk? Glad you asked. Here is a list of some common sources of discontent and ways operatives can use them to their advantage. Note to runners: It is no accident that rival corporations use the same list as these when getting a rival corp’s employees to defect. You may very well run up against a corporate agent while trying to turn someone in another company. Corporate espionage is nothing if not Byzantine.
+[/spoiler]
+
+[size=12pt][b]停滞不前的事业[/b][/size]
+
+工蜂的职业生涯往往是他们世界的生命力所在。虽然暗影狂奔者可能很难理解，但这些人生来就是为了在公司的阶梯上向上攀爬。当他们的晋升势头停滞不前时，他们就会变得焦躁不安。
+
+在这种情况下，狂奔者最好的办法就是提供叛逃选择。如果叛逃者为竞争对手公司工作，他们或许可以通过谈判为工蜂在新公司谋得更好的职位。当然，任何接受叛逃者的公司都会在之后密切关注他们，但这不是你的问题，对吧，伙计？
+
+[spoiler]
+[size=12pt][b]STAGNANT CAREER[/b][/size]
+
+A drone’s career is often the very elan vital of their world. While it might be hard for a shadowrunner to understand, these folk live to move up the corporate ladder. When their upward mobility stalls, they become restless.
+
+In a case such as this, the best route for a runner is to offer defection. Assuming the runner works for a rival corporation, they might be able to negotiate a better position for the drone in the new corporation. Of course, any corporation accepting a defector keeps a close eye on them afterwards, but that isn’t your problem, is it, chummer?
+[/spoiler]
+
+[size=12pt][b]金钱[/b][/size]
+
+和其他人一样，工蜂也有金钱问题。他们借贷过多，过着入不敷出的生活，渴望享受高管们拥有的那种财富。机敏的狂奔者可以从街头巷尾的任何人身上嗅出贪婪的味道，工蜂也不例外。这是一种直接的贿赂行为，狂奔者提供金钱以换取信息或服务。这种手段可以是临时的，也可以是长期的。
+
+[spoiler]
+[size=12pt][b]MONEY[/b][/size]
+
+Drones have money issues like everyone else. They take out too much credit, they live beyond their means and they long for the kind of money their executives enjoy. A smart runner can smell greed on anyone streetside, and drones are no different. This is straight-up bribery, as the runner offers money in exchange for information or services. This can be a temporary or permanent arrangement.
+[/spoiler]
+
+[size=12pt][b]成瘾[/b][/size]
+
+工蜂是否比无SIN者更不容易成瘾，还是说他们只是隐藏得更好？BTL芯片、老式街头毒品、赌博、怪异的性癖——工蜂就像我们其他人一样有着自我毁灭的倾向。
+
+利用这些嗜好往往很容易。工蜂可能是需要戒毒，或是欠了首尔派的债，亦或是与孤星有矛盾。如果狂奔者能让这些问题消失，他们就上钩了。嘿，操纵别人的疾病可能不道德，但话又说回来，你又不是要从事道德方面的职业，对吧？
+
+[spoiler]
+[size=12pt][b]ADDICTION[/b][/size]
+
+Are drones less prone to addiction than the SINless, or do they just hide it better? BTL chips, old street drugs, gambling, bizarre sexual practices—drones have self-destructive proclivities the same as the rest of us.
+
+Exploiting these is often easy. The drone might need a fix, be in debt to a Seoulpa Ring, or in trouble with Lone Star. If the runner can make these problems go away, they have the fish on the hook. Hey, it might not be moral to manipulate someone’s illness, but then again, you didn’t sign up for a career in ethics, did you?
+[/spoiler]
+
+[size=12pt][b]家庭[/b][/size]
+
+我们每个人都有家庭。我们中的许多人与他们相处并不融洽，但我们不会不帮助他们。工蜂也有家庭(顺便说一句，《工蜂也有家庭2》是2050年代的一场短暂的政治运动，旨在要求公司为员工的家庭提供福利)。狂奔者可以通过街头或矩阵了解工蜂的家庭情况。
+
+只要有足够大的家庭，就总能找到可以利用的东西。只需要找到那个东西，并对其施加压力。当然，如果有人这样对待你，你也不会高兴，但你足够聪明，可以过上离群索居的生活。
+
+[spoiler]
+[size=12pt][b]FAMILY[/b][/size]
+
+We all have one. Many of us don’t get along with them, but there’s little we wouldn’t do to help them. Drones have families too (incidentally, Drones Have Families 2 was a short-lived political movement in the 2050s seeking corporations to provide benefit to extended families of employees). A runner can get the skinny on a drone’s family on the street or in the Matrix.
+
+Given a big enough family, there’s always something there to exploit. Just find that thing and lean on it, hard. Sure, you wouldn’t like it if someone did it to you, but you’re smart enough to live off the grid.
+[/spoiler]
+
+[quote]
+[size=14pt][b]渗流[/b][/size]
+
+“渗流”是2070年代的一种特殊现象，与多种BTL的心理交互作用有着密切关系。在这种情况下，假想人格的要素会“渗入”用户的心理。从而产生了一种精神分裂状态，在高压情况下，这会导致假想人格显现于用户的自然心智之上。
+
+这种情况会让人陷入迷惑、疏远他人，但很少会造成危险。只有0.01%的人在经历渗流现象后会产生暴力反应。2060年代中期发生的“狙击手斯莱德”谋杀案就是这种罕见事件的一个被过度使用的例子。然而，对这起事件和其他事件的宣传却让公众相信它们远比实际情况常见。
+
+在暴食屋中，卡尔经历了一次渗流事件。他在《觉醒：1948》中扮演的角色是一名在另一场第二次世界大战中作战的老练的美国士兵。这名角色对战斗已经习以为常，并且有一种冷酷的、近乎反社会的心理。
+
+这款游戏大受欢迎，竞争对手指控平行控制工作室(Parity Control Studios)在游戏中采用了BTL技术，导致玩家成瘾。这一点尚未得到证实。
+
+[spoiler]
+[size=14pt][b]SEEPAGE[/b][/size]
+
+Seepage is a particularly 2070s phenomenon related to various psychological interactions with any number of better-than-life chips. In this case, elements of the assumed personality “seep” into the user’s psyche. This creates a schizoid state which, under high-pressure circumstances, can cause the fake persona to manifest over the natural psyche of the user.
+
+The event is disorienting and alienating, but rarely dangerous. Only 0.01 percent of those who experience seepage react in a violent manner. The “Slade the Sniper” murders of the mid 2060s are an overused example of such rare events. However, the publicity afforded that and other incidents causes the public to believe they are far more common.
+
+At the Stuffer Shack, Karl experienced an incident of seepage. The character he plays in Awakening: 1948 is a grizzled American GI fighting in an alternate World War Two. The character is inured to combat and has a cold—almost sociopathic—psychology.
+
+The game is immensely popular, and rival studios have accused Parity Control Studios of incorporating BTL technology in the game to cause addiction. This has yet to be proven.
+[/spoiler]
+[/quote]
+
+---
