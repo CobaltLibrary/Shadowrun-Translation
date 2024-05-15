@@ -1,0 +1,491 @@
+[color=brown][size=16pt][b]游戏信息[/b][/size][/color]
+
+[size=14pt][b]物理位置与侦察[/b][/size]
+
+矩阵是广阔的，虽然并不存在真正的距离。用技术术语来说，问题在于化身(记住，它只是一个程序)是否能够访问和解密其他程序的数据空间或系统中硬件元素的控制器。这些信息由个人的矩阵界面处理。矩阵协议优先处理设备物理上接近的对象，然后是虚拟上接近的对象。这样以来，距离就与人们筛选海量数据所需的时间相对应了。
+
+以下规则用于扩展矩阵侦察规则(第178页，SR6)以侦测矩阵上的设备。GM可以提前投掷意志+隐匿性或为静默设备四取一计算成功数来设定矩阵侦察阈值。如果设备没有隐藏，则基础阈值为0。基础阈值会根据矩阵侦察的阈值修正进行调整。如果成功数达到或超过阈值，则发现该设备。该设备将保持可见状态12+(超过阈值的成功数)小时，或直到目标执行成功的隐藏动作，或者直到设备被重新启动或关机——以先发生者为准。
+
+例如，Pointdexter正试图在太空针塔外的广场上找到敌对团队。敌对团队正在静默运行，而GM已经执行了防御掷骰，并获得了2个成功。由于西雅图中心有大量的设备，阈值增加了8，但Pointdexter已经做过研究并已知晓用于保护PAN的特定设备，因此阈值减少了2。这意味着，Pointdexter需要获得8个成功才能发现隐藏的团队。
+
+再举一个例子，在主机上，巡逻IC会试图确保化身和设备拥有合法的访问权限。如果黑客在中午黑入公司主机，当前有1500名员工登录。这使得巡逻IC更难侦察到黑客的存在。巡逻IC掷骰等级x2与黑客的意志+隐匿性进行对抗。如果黑客取得成功，IC将继续巡逻主机。一个单独的巡逻IC每轮可以进行两次矩阵侦察(这是一个主要动作)，这意味着该IC不会在750轮内再次回到该特定区域检查，除非触发了警报或黑客移动到新区域。这意味着如果你在一个有数千个化身和图标的主机上，单独一个巡逻IC实际上需要很长时间才能追踪到你。如果黑客在夜间黑入，那时只有二十个活跃化身，巡逻IC将每十轮检查一次他们的位置。
+
+如果熟练的观察者获得超过阈值2或更多成功，则可以获得关于PAN或主机的额外信息。GM可以向玩家提供主机或设备等级的估计值，或PAN中图标的相关信息。
+
+跨越边界从主机向到更宽广的矩阵或反之可以看到什么？从主机朝更宽广的矩阵观察是一个受限的通道。当从主机朝更宽广的矩阵观察时，你可以进行矩阵搜索，但无法看到附近其他不在主机上的设备。当你在矩阵中观察主机时，除非主机特别广播，否则你无法看到主机内的任何东西——摄像机和磁锁等远程设备除外，它们依然需要进行矩阵侦察动作才能看到。一些主机通常会广播其内部结构的总体布局，但不包括秘密或机密主机。例如，购物中心可能会广播大型购物中心主机内部各个商店主机的存在。对于锁、摄像头和其他具有物理存在的矩阵设备，观察者必须成功进行矩阵侦察(2)检定才能发现它们。
+
+[spoiler]
+[color=brown][size=16pt][b]GAME INFORMATION[/b][/size][/color]
+
+[size=14pt][b]PHYSICAL LOCATION AND PERCEPTION[/b][/size]
+
+The Matrix is vast, although there is no real distance involved. In technical terms, the question is whether the persona (remember, it’s only a program) is able to access and decipher the data space of other programs or the controllers for hardware elements in a system. This information is processed by a person’s Matrix interface. The Matrix protocols prioritize objects that are physically close and then virtually close to the device. In this way, distance is relative to the amount of time that it will take someone to sift through the enormous amount of data.
+
+The following rules are used to expand the Matrix Perceptions rules (p. 178, SR6) for detecting devices on the Matrix. Gamemasters can pre-roll Willpower + Sleaze or buy hits for silent devices to set the Matrix Perception threshold. If a device is not hiding, the base threshold is 0. The base threshold has Matrix Perception threshold modifiers applied to them. If the threshold is met or exceeded, the device is spotted. The device will remain visible for 12 + (number of hits above threshold) hours, or until the target performs a successful Hide action, or until the device is rebooted or shut off—whichever comes first.
+
+For example, Pointdexter is trying to find an opposing team in the plaza outside the Space Needle. The opposing team is running silent, and the gamemaster has rolled their defense roll and received 2 hits. Because the Seattle Center is busy with tons of devices, the threshold is increased by 8, but is reduced by 2 because Pointdexter has done their research and knows the specific device being used to protect the PAN. This means that Pointdexter needs to get 8 hits in order to spot the hidden team.
+
+For another example, on a host, the Patrol IC attempts to ensure personas and devices have valid access. If the decker hacks the corporate host during midday, there are 1,500 employees currently logged in. This makes it more difficult for the Patrol IC to perceive the decker. The Patrol IC rolls Rating x 2 versus the decker’s Willpower + Sleaze. If the decker is successful, the IC moves on and continues its patrol through the host. A single Patrol IC can run Matrix Perception twice per turn (it’s a Major Action), meaning that the IC won’t return to that specific area to check again for 750 turns, unless an alarm has been triggered or the decker moves to a new area. That means if you are on a host with thousands of personas and icons, it should take a single patrol IC a long time to actually track you down. If the decker had gone in at night when there were only twenty active personas, the Patrol IC would check their location every ten turns.
+
+A skilled observer may gain additional information about a PAN or host if they exceed the threshold by 2 or more. The GM may provide the player with an estimate of the host or device rating, or information about the icons in a PAN.
+
+What can be seen across the borders from a host to the wider Matrix or vice-versa? Seeing across the event horizon of a host is a limited channel. When looking from a host out to the wider Matrix, you are able to run Matrix searches, but otherwise cannot see other nearby devices that are not on the host. When you’re out in the Matrix and you observe a host, you can’t see anything inside unless the host specifically broadcasts it—except for remote devices such as cameras and locks, which still require a Matrix Perception action to see. It’s common for some hosts to broadcast the general layout of their internal structure, excluding secret or classified hosts. For instance, a shopping center might broadcast the presence of individual store hosts within the larger mall host. For locks, cameras, and other Matrix devices that have a physical presence, the observer must succeed at a Matrix Perception (2) test in order to spot them.
+[/spoiler]
+
+[quote]
+[size=14pt][b]矩阵侦察阈值修正表[/b][/size]
+
+[table]
+[tr][td][b]阈值[/b][/td][td][b]影响[/b][/td][/tr]
+[tr][td]+0[/td][td]特定搜索区域(单独房间, 小于10平方米)[/td][/tr]
+[tr][td]+1[/td][td]小型搜索区域(小型建筑, 小于250平方米)[/td][/tr]
+[tr][td]+2[/td][td]标准搜索区域(街区)[/td][/tr]
+[tr][td]+4[/td][td]中等搜索区域(城区)[/td][/tr]
+[tr][td]+6[/td][td]大型搜索区域(城市)[/td][/tr]
+[tr][td]+8[/td][td]极大搜索区域(国家)[/td][/tr]
+[tr][td]0[/td][td]开阔(搜索区域内仅有少数用户与设备)[/td][/tr]
+[tr][td]+1[/td][td]轻松(公司设施下班时间)[/td][/tr]
+[tr][td]+2[/td][td]繁忙(大量矩阵用户或设备，零售中心)[/td][/tr]
+[tr][td]+4[/td][td]堵塞(非常拥挤，企业设施繁忙时间)[/td][/tr]
+[tr][td]–1[/td][td]目标已知且可视[/td][/tr]
+[tr][td]–1[/td][td]搜寻一般种类的图标(搜寻特定种类的物品，如武器或通讯链)[/td][/tr]
+[tr][td]–2[/td][td]搜寻特定种类的图标；这与上文的一般图标修正不叠加(例如阿瑞斯·掠食者, 艾瑞卡·精英通讯链)[/td][/tr]
+[tr][td]-4[/td][td]搜寻特定图标；这与特定的或一般的图标修正不叠加(例如隐形标签、特定通讯码的通讯链、拥有已知标识的载具或无人机)[/td][/tr]
+[tr][td]0[/td][td]无线设备[/td][/tr]
+[tr][td]+2[/td][td]有线设备[/td][/tr]
+[tr][td]+(按通常规则计算)[/td][td]杂讯[/td][/tr]
+[/table]
+
+[spoiler]
+[size=14pt][b]MATRIX PERCEPTION THRESHOLD MODIFIERS[/b][/size]
+
+[table]
+[tr][td][b]THRESHOLD[/b][/td][td][b]EFFECT[/b][/td][/tr]
+[tr][td]+0[/td][td]Specific search area (single room, < 10 square meters)[/td][/tr]
+[tr][td]+1[/td][td]Small search area (small building, <250 square meters)[/td][/tr]
+[tr][td]+2[/td][td]Standard search area (city block)[/td][/tr]
+[tr][td]+4[/td][td]Moderate search area (section of a city)[/td][/tr]
+[tr][td]+6[/td][td]Large search area (city)[/td][/tr]
+[tr][td]+8[/td][td]Extreme search area (state)[/td][/tr]
+[tr][td]0[/td][td]Open (very few users or devices in the search area)[/td][/tr]
+[tr][td]+1[/td][td]Light (corporate facility off hours)[/td][/tr]
+[tr][td]+2[/td][td]Heavy (lots of Matrix users and devices, retail center)[/td][/tr]
+[tr][td]+4[/td][td]Congested (very crowded, corporate facility peak hours)[/td][/tr]
+[tr][td]–1[/td][td]Target is known and visible[/td][/tr]
+[tr][td]–1[/td][td]Looking for a general type of icon (looking for specific category item such as firearm or commlink)[/td][/tr]
+[tr][td]–2[/td][td]Looking for a specific type of icon; this does not stack with general type of icon above (examples include Ares Predator, Erika Elite commlink)[/td][/tr]
+[tr][td]-4[/td][td]Looking for a unique icon; this does not stack with specific or general icon modifiers (examples include stealth tags, commlink with a specific number, vehicle or drone with known identification)[/td][/tr]
+[tr][td]0[/td][td]Wireless device[/td][/tr]
+[tr][td]+2[/td][td]Wired device[/td][/tr]
+[tr][td]+(as normal rules)[/td][td]Noise[/td][/tr]
+[/table]
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]远程矩阵监控[/b][/size]
+
+渗透专家可以做到的一件有用事情就是将一个矩阵设备偷偷带到某个地点，以降低矩阵侦察的阈值。这个设备的唯一要求是具有数据处理属性，比如通讯链或RCC。其他能够运行矩阵侦察的设备包括无人机和载具。虽然你不能把你的福特·美利车停在阿瑞斯公司的大堂中央，但你可以使用一个小型通讯链或一架MCT·Gnat。
+
+[spoiler]
+[size=14pt][b]REMOTE MATRIX OBSERVATION[/b][/size]
+
+One of the useful things an infiltration specialist can do is sneak a Matrix device into a location in order to reduce the Matrix Perception thresholds. The only requirement of the device is that it has Data Processing, such as commlink or RCC. Other devices capable of running Matrix Perception are drones and vehicles. While you probably wouldn’t park your Ford Americar in the middle of an Ares corporate lobby, you might use a small commlink or maybe an MCT Gnat.
+[/spoiler]
+
+---
+
+[size=14pt][b]所有权[/b][/size]
+
+当你购买一件电子设备时，该设备的内部ID芯片就会注册登记你的SIN，使你可以在矩阵中与之互动。这种注册将设备的内部ID与你的SIN进行关联。在没有合法拥有者合作的情况下要改变其所有权，就必须更换ID芯片(或更改一系列主机上的记录)。更换设备上的ID芯片需要进行电子学(硬件)+逻辑(24，1小时)延续检定。设备必须与矩阵保持连接，如果出现失误，警方将被通知有人企图进行非法更改。
+
+[spoiler]
+[size=14pt][b]OWNERSHIP[/b][/size]
+
+When you buy a piece of electronic gear, the device’s internal ID chip becomes registered to your SIN, allowing you to interact with it in the Matrix. This registration hooks the internal ID of the device to your SIN. Changing ownership without the cooperation of the legitimate owner involves replacing the ID chip (that, or altering records on a series of hosts). Changing the ID chip on the device requires an Electronics (Hardware) + Logic (24, 1 Hour) Extended test. The device must remain connected to the Matrix, and if a glitch occurs, the police are notified of the attempted illegal change.
+[/spoiler]
+
+---
+
+[size=14pt][b]团队协作成就梦想[/b][/size]
+
+团队可以使用团队协作检定执行探查矩阵动作。团队领队可以接受最高等于其技能等级的骰池奖励。如果成功创建了后门，则只有参与创建的人才能使用它。后门登录、暴力破解和新矩阵动作“已知漏洞后门登录”也可以使用团队协作检定，如果取得成功，他们就能够获得访问权限。使用团队协作检定进入设备或主机的团队不会拥有独立的完整化身。相反，他们会作为顺风客出现在领队的化身上。
+
+[spoiler]
+[size=14pt][b]TEAMWORK MAKES THE DREAM WORK[/b][/size]
+
+Teams can perform the Probe Matrix Action as a teamwork test. There is a single leader who can accept up to their skill rank as a dice pool bonus. If a backdoor is created, it’s only usable by those who helped make it. Backdoor Entry, Brute Force, and the new Known Exploit Backdoor Entry also can take advantage of a teamwork test where the leader is able to gain access if they are successful. Teams entering into the device or host when using teamwork do not have a separate full persona. Instead, they appear as hitchhikers on the leader’s persona.
+[/spoiler]
+
+---
+
+[size=14pt][b]社会工程与网络钓鱼[/b][/size]
+
+针对特定目标精心设计一个足以令人信服的骗局，需要出色的社交技巧和对骇入系统的基本知识。制作调查问卷、短信或技术交流时需要针对单一目标进行唬骗+逻辑 vs 逻辑+意志的对抗检定。当狂奔者希望使用调查问卷或短信大规模影响更广泛的人群时，他们可以将该检定的净成功用于协助某人致电特定人员或通过电话系统获得凭证。在建立沟通时，如果构建骗局的狂奔者没有骇入知识技能、与骇入相关的领域知识或破解主动技能，他们将无法在检定中花费极限。
+
+如果团队成员前去收集凭证，他们可以使用影响或唬骗技能来尝试从凭证所有者那里获取必要的信息。如果进行引诱、恐吓或欺骗的狂奔者没有骇入知识技能、与骇入相关的领域知识或破解主动技能，他们将无法在检定中花费极限。
+
+寻找特定生物特征标记的团队则有多种选择，例如尾随目标前往酒吧收集唾液、声纹、指纹或所需的其他生物特征。他们甚至可以搜寻垃圾桶。生成凭证所需的生物特征标记可由GM针对他们试图访问的特定系统确定。
+
+[spoiler]
+[size=14pt][b]SOCIAL ENGINEERING AND PHISHING[/b][/size]
+
+Crafting a convincing confidence game against your targets requires both excellent social skills and a basic knowledge of hacking systems. Creating the survey, message, or tech communication requires a Con + Logic vs. Logic + Willpower Opposed test for a single target. For hitting a wider population with a survey or message blast, when runners make a Con + Logic test, they can apply net hits toward helping someone who wishes to call into a specific person or work through the phone system to gain credentials. When creating the communication, if the runner doing the crafting doesn’t have a knowledge skill in hacking, a hacker-related area, or an active skill in Cracking, they are unable to spend Edge on their test.
+
+If members of a team head off to collect credentials, they are able to use either Influence or Con to attempt to gain the requisite information from its owners. If the runners who are seducing, intimidating, or conning the mark don’t have a knowledge skill in hacking, a hacker-related area, or an active skill in Cracking, they are unable to spend Edge on their test.
+
+Teams looking for specific biometric markers have options, such as tailing the mark to a bar to collect saliva, voiceprint, fingerprints, or whatever is necessary. They can even go dumpster diving. The required biological markers necessary to generate the credentials can be determined by the GM for the particular system they are trying to access.
+[/spoiler]
+
+---
+
+[size=14pt][b]矩阵调查[/b][/size]
+
+在使用得当的情况下，矩阵搜索是一个强大的工具，但即便如此，它也有其局限性。在开展调查工作时，通过快速搜索协议来获取特定主题的简短摘要比通过人脉查找要容易得多，有时甚至更快。但该摘要只包括公共网域上的信息，即任何花时间搜索的人都可以找到的信息。这意味着你是在从他们的社交媒体动态、公共记录和新闻报道中获取信息。如果你真的想知道目标的秘密，那么你需要访问一个数据港(见第81页)，利用你的人脉，或者入侵正确的网络。
+
+[spoiler]
+[size=14pt][b]MATRIX LEGWORK[/b][/size]
+
+Matrix Search is a powerful tool when used properly, but even then, there are limits to what it can do. When doing legwork, it is far easier and oftentimes faster to run a quick search protocol to pull off a quick precis on a subject than it is to work through your contacts. However, that precis will only include information that is on the public grid and available to anyone spending the time to look for it. That means you’re going to pull information from their social media feeds, public records, and news articles. If you really want to know your target’s secrets, you need to access one of the Data Havens (see p. 81), work your contacts, or hack the right network.
+[/spoiler]
+
+---
+
+[size=14pt][b]增强现实对象[/b][/size]
+
+增强现实对象(ARO)是非常有用的工具。它们是显示在AR视图中并提供有用信息的特定项目。例如，阿瑞斯·深林求生刀提供了带有所在地地图和你当前GPS位置的ARO。另一个常见例子是枪支，它会在HUD中显示弹药数量，以便你知道何时需要更换弹夹。其他时候它只是当地暴食屋外的广告，或是环绕着你那辆炫富座驾的花哨装饰。
+
+ARO由两部分组成。首先你需要一个矩阵设备来附加程序。这可以是枪支、通讯链、安保标签或其他设备。其次，你需要创建附加到矩阵设备上的程序。创建静态元素程序需要进行电子学(软件)+逻辑(4，1 小时)的延续检定。创建动画装饰或涂鸦的阈值增加4。如果你创建的软件需要从系统中读取数据或具有更复杂功能，则阈值从12开始，也可以根据GM设定的难度进一步提高。
+
+篡改或破坏ARO需要首先通过骇入手段获取ARO所连接的矩阵设备的访问权限，然后进行电子学(软件)+逻辑延续检定，检定阈值为创建时阈值的两倍。删除ARO通常是一项较为简单的任务，仅需破坏所连接的设备或进入设备并成功执行编辑文件矩阵动作即可删除对象。
+
+[spoiler]
+[size=14pt][b]AUGMENTED REALITY OBJECTS[/b][/size]
+
+Augmented reality objects (AROs) are useful tools. These are specific items that show up in your augmented reality view and provide useful information. For example, the Ares Deep Woods survival knife provides an ARO with local maps and your current GPS location. Another favorite is the firearm that provides ammo count in your HUD so you know when you need to change out the magazine. Other times it’s just the advertisements that are outside the local Stuffer Shack or a garish piece of art that circles your yerzed-out ride.
+
+An ARO is made up of two components. The first thing you need is a Matrix device to attach the program to. This could be a firearm, a commlink, a security tag, or other device. The second thing you need to do is create that program that you attach to the Matrix device. Creating the program requires an Electronics (Software) + Logic (4, 1 hour) Extended test for static elements. The threshold for animated art or graffiti increases by 4. If you are creating software that reads from systems or has more complicated functions, the threshold starts at 12, but can be higher based on the degree of difficulty set by the gamemaster.
+
+Defacing or corrupting an ARO requires that you first gain access to the Matrix device that the ARO is attached to through hacking, and then performing an Electronics (Software) + Logic Extended test at double the threshold used to create it. Deleting an ARO is often a simpler task that requires either destroying the attached device or gaining access to the device and successfully performing an Edit File Matrix Action to delete the object.
+[/spoiler]
+
+---
+
+[size=14pt][b]热模，冷模，还是AR？[/b][/size]
+
+碟客选择热模而非冷模或AR最简单的原因就是额外的主动性骰和相应的额外次要动作。但这并非唯一的理由。以更快的速度狂奔，减少你与原始矩阵信号之间的阻碍，会让你比目标更具优势。当你执行矩阵动作时，如果目标处于较慢的界面模式，你就会获得一点极限，该极限必须在本次检定中花费，否则就会丢失。如果你正在使用热模，而对方正在使用AR，你就会获得2点必须用在当前动作上的极限。反之亦然。如果对方使用冷模，而你正在使用热模，则对方会获得一点必须用在当前动作上的极限。
+
+[spoiler]
+[size=14pt][b]HOT-SIM, COLD-SIM, OR AR?[/b][/size]
+
+The simplest reason for a decker to select hotsim over cold-sim or AR is the additional Initiative Dice and the associated extra Minor Actions. But that isn’t the only reason to do so. Running at a faster speed with less between you and the raw Matrix signal gives you a meaningful edge over your target. When you use a Matrix action where the target is at a slower interface, you gain an Edge that must be used on that action or it disappears. If you are using hot-sim while they are using AR, you gain 2 Edge that must be spent on the current action. The reverse is also true. If the opponent is running in cold-sim while you are in AR, they gain a point of Edge they must use on that Matrix action.
+[/spoiler]
+
+---
+
+[size=14pt][b]矩阵动作[/b][/size]
+
+[quote]
+[size=12pt][b]校准[/b][/size]
+
+[color=purple][b](合法) 破解+逻辑 (主要)[/b][/color]
+
+[color=purple][b]用户/管理员[/b][/color]
+
+你将自己的处理能力借给团队并提高他们的速度。每获得2个成功，你和你团队的当前主动性值就增加1点。单个化身获得的主动性增加总量不能超过你的数据处理属性，并且同时只能激活一个校准效果。随后每战斗轮主动性减少1点，直到恢复到正常主动性值。此加成适用于任何共享黑客PAN内AR馈送的角色。黑客只能与不超过其设备等级的用户共享其馈送。
+
+[spoiler]
+[size=12pt][b]Calibration[/b][/size]
+
+[color=purple][b](Legal) Cracking + Logic (Major)[/b][/color]
+
+[color=purple][b]User/Admin[/b][/color]
+
+You lend your team your own processing power and boost their speed. You can increase the current Initiative Score of you and your team by 1 for every 2 hits. The total amount of Initiative Score increase granted to a persona cannot be greater than your Data Processing, and only one Calibration effect can be active at a time. The Initiative Score then decreases by 1 each Combat Turn until it returns to the normal initiative score. This bonus applies to anyone with an AR feed that shares the decker’s PAN. The hacker can only share their feed with a number of users equal to or less than their device rating.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]延时指令[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 数据处理 或 自驾+防火墙 (主要)[/b][/color]
+
+[color=purple][b]访客/用户/管理员[/b][/color]
+
+你向设备发送包含指令和时间延迟的有效载荷，目标设备会将其视为来自其所有者的指令。时间延迟过后，设备就会自动尝试执行该指令。如果成功，即使主机关闭了无线功能，该指令也会执行。如果在指令执行前设备被重启，延时指令将会丢失。
+
+[spoiler]
+[size=12pt][b]Delayed Command [/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Data Processing or Pilot + Firewall (Major)[/b][/color]
+
+[color=purple][b]Outsider/User/Admin[/b][/color]
+
+You send a payload to a device that contains a command and time delay that the target perceives as coming from its owner. The device then automatically attempts to perform the action when the time delay is passed. On success, the command will execute even if the host turns off their wireless functionality. If the device is rebooted before the command executes, the delayed command is lost.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]拒绝服务(DOS攻击)[/b][/size]
+
+[color=purple][b](非法) 电子学+逻辑 vs. 意志+防火墙 (主要)[/b][/color]
+
+[color=purple][b]访客[/b][/color]
+
+当你使用杂讯污染无线设备的数据流时，它们几乎变得彻底不可用。碟客或超链者可以针对激活无线的设备或化身进行操作。进行电子学+逻辑 vs 意志+防火墙的对抗检定，将净成功数x2作为负面骰池修正添加到所有使用该设备进行的检定中，效果持续到下一个战斗轮结束。
+
+[spoiler]
+[size=12pt][b]DENIAL OF SERVICE[/b][/size]
+
+[color=purple][b](Illegal) Electronics + Logic vs. Willpower + Firewall (Major)[/b][/color]
+
+[color=purple][b]Outsider[/b][/color]
+
+Wireless devices become nearly unusable when you pollute their data streams with noise. A decker or technomancer may target a wirelessly active device or persona. Make an Electronics + Logic vs. Willpower + Firewall Opposed test and apply the number of net hits x 2 as a negative dice pool modifier to all tests made with that device until the end of the next combat round.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]设备锁定[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 意志+防火墙 (主要)[/b][/color]
+
+[color=purple][b]访客/用户/管理员[/b][/color]
+
+有时摆脱黑客攻击的最简单方法就是关闭无线功能。该攻击以设备为目标，一旦成功就会在等于净成功数的战斗轮内阻止设备离线。如果超过净成功数个战斗轮，碟客或超链者可以花费一个次要动作将设备锁定延长一轮。这种延长操作只能进行一次。
+
+[spoiler]
+[size=12pt][b]DEVICE LOCK[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Willpower + Firewall (Major)[/b][/color]
+
+[color=purple][b]Outsider/User/Admin[/b][/color]
+
+Sometimes the easiest way to get away from a hack is to just turn off your wireless. The attack targets a device, and on success prevents the device from going offline for a number of rounds equal to net hits. Once the number of rounds has expired, the decker or technomancer can spend a Minor Action to extend the device lock by a round. This extension can only be done once.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]无用输入/输出[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 意志+防火墙 (主要)[/b][/color]
+
+[color=purple][b]用户/管理员[/b][/color]
+
+该指令允许碟客把单个设备“搭错线”，混淆系统的部分输入和输出。单个输入可以改为执行不同的指令。例如可以将通讯链的呼叫功能更改为自动删除用户意图呼叫的联系人信息。也可以将摄像机的倒带与快进功能进行切换。该指令不能覆写设备或系统的基础安全协议，GM对指令的执行有最终决定权。
+
+[spoiler]
+[size=12pt][b]GARBAGE IN/GARBAGE OUT[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Willpower + Firewall (Major)[/b][/color]
+
+[color=purple][b]User/Admin[/b][/color]
+
+This command allows the decker to “cross the wires” of a single device, confusing some of the inputs and outputs of the system. A single input can be rerouted to execute a different command. For example, a commlink could have its call function altered to automatically delete the contact information of the person that its user intended to call. A camera could switch the rewind function with that of the fast forward function. The command can’t override the basic safety features of the device or system, and the gamemaster has final say in what can be accomplished with the command.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]已知漏洞后门登录[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 意志+防火墙 或 防火墙x2 (主要)[/b][/color]
+
+[color=purple][b]访客[/b][/color]
+
+该动作与隐匿性属性相关联。你尝试利用先前已知的漏洞来非法访问主机、设备或其他矩阵区域。这个动作不需要预先成功执行探查动作，但针对已打补丁的主机的成功概率较低。执行此操作的狂奔者无法获得或花费极限。此外，主机或设备获得一点极限，该极限必须在本次检定中花费，否则就会丢失。如果检定成功，你将获得对目标的管理员访问权限，并且不会被算作非法管理员访问权限(尽管执行非法的矩阵动作仍会增加你的OS)。如果检定失败不会立即触发警报，但角色的OS会如常增加。
+
+[spoiler]
+[size=12pt][b]KNOWN EXPLOIT BACKDOOR ENTRY[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Willpower + Firewall or Firewall x 2 (Major)[/b][/color]
+
+[color=purple][b]Outsider[/b][/color]
+
+This action is linked to the Sleaze Attribute. You attempt to run through a set of previously known exploits in order to gain illicit entry into a host, device, or other Matrix area. This action does not require a previously successful Probe, but against a fully patched host is going to be less likely to be successful. Runners performing this action are unable to gain or spend Edge. In addition, the host or device gains a point of Edge that is either spent immediately on that action or disappears. If the test is successful, you gain Admin access to the target, and it does not count as illegal Admin access (though taking illegal Matrix Actions will still increase your Overwatch Score). Failing this test does not immediately set off alarms, but the character’s OS increases as normal.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]化身伪装[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 直觉+数据处理 (主要)[/b][/color]
+
+[color=purple][b]访客[/b][/color]
+
+该动作允许黑客伪装成矩阵上的某个化身。由于化身数据是实时更新的，因此这一动作很难成功执行。在破解+逻辑 vs 直觉+数据处理的对抗检定中每获得一个净成功，你就可以说服矩阵系统和普通观察者相信你是目标持续一分钟。这可以用来在网络上伪装成某人，拦截他们的电话，使用他们的社交媒体，翻阅他们的邮件历史，或以其他方式制造混乱，但像更换设备所有者或执行重要金融动作(如银行转账)这样的过程有着太多的双向检查，因此伪装无法奏效。如果你伪装的化身下线，伪装就会失效。当伪装时，你永远不会被当做被伪装者的设备的所有者。
+
+[spoiler]
+[size=12pt][b]MASQUERADE[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Intuition + Data Processing (Major)[/b][/color]
+
+[color=purple][b]Outsider[/b][/color]
+
+This action allows a hacker to impersonate a persona on the Matrix. Since persona data is updated in real time, this action is difficult to execute successfully. For every net hit scored on a Cracking + Logic vs. Data Processing + Intuition, you convince Matrix systems and casual observers that you are the target for one minute. This can be used to impersonate someone online, intercept their calls, use their social media, rummage through their email history, or otherwise create mischief, but processes like changing device owners or performing major financial actions (like bank transfers) have too many double-checks for Masquerade to work. If the persona you’re impersonating logs off, the disguise drops. While masquerading, you are never considered the owner with regard to any of the impersonated persona’s devices.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]中间泛人攻击[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 直觉+数据处理 (主要)[/b][/color]
+
+[color=purple][b]访客[/b][/color]
+
+该指令会将你插入到进出设备的任何通话或矩阵动作之间。检定成功后，所有通信都会在你的设备上进行跳转，该效果将持续净成功数分钟。
+
+[spoiler]
+[size=12pt][b]METAHUMAN IN THE MIDDLE[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Intuition + Data Processing (Major)[/b][/color]
+
+[color=purple][b]Outsider[/b][/color]
+
+This command inserts you in between any calls or Matrix actions that go into or out of a device. On a successful test, all communications bounce through your device for minutes equal to net hits.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]图标修改[/b][/size]
+
+[color=purple][b](非法) 电子学+逻辑 vs. 直觉+数据处理 或 数据处理+隐匿性 (主要)[/b][/color]
+
+[color=purple][b]管理员[/b][/color]
+
+有时你希望让你的阿瑞斯·掠食者Ⅵ的矩阵图标看起来不那么具有威胁性。这个动作允许黑客将一个矩阵图标修改成看起来像另外的图标。每当你的图标被扫描时，你都需要成功进行电子学+逻辑 vs 扫描设备的数据处理+隐匿性或设备操作者的直觉+数据处理的对抗检定才能不被发现。
+
+[spoiler]
+[size=12pt][b]MODIFY ICON[/b][/size]
+
+[color=purple][b](Illegal) Electronics + Logic vs. Intuition + Data Processing or Data Processing + Sleaze (Major)[/b][/color]
+
+[color=purple][b]Admin[/b][/color]
+
+Sometimes you want your Ares Predator VI’s Matrix icon to look a little less threatening. This action allows a hacker to change a Matrix icon to look like a different icon. Each time your icon is scanned, you need to make an Electronics + Logic vs. the scanning device’s Data Processing + Sleaze or device operator’s Intuition + Data Processing to not be detected.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]弹窗广告[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 直觉+数据处理 (主要)[/b][/color]
+
+[color=purple][b]访客[/b][/color]
+
+当你的整个显示屏或视图都被弹出的ARO或窗口完全挡住，阻止你进行预期的操作时，你就会感到非常恼火。碟客或超链者可以对目标设备或化身进行破解+逻辑 vs 直觉+数据处理的对抗检定。目标设备或化身在等于净成功数的战斗轮内无法花费极限。
+
+[spoiler]
+[size=12pt][b]POPUP[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Intuition + Data Processing (Major)[/b][/color]
+
+[color=purple][b]Outsider[/b][/color]
+
+It’s so irritating when your entire display or view is completely blocked by popup AROs or windows that prevent you from doing what you intended. The decker or technomancer attempts a Cracking + Logic versus Intuition + Data Processing Opposed test against a target device or persona. The targeted device or persona is unable to spend Edge for a number of combat rounds equal to net hits.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]噪音压制[/b][/size]
+
+[color=purple][b](非法) 电子学+逻辑 vs. 直觉+隐匿性 或 2x隐匿性 (主要)[/b][/color]
+
+[color=purple][b]访客[/b][/color]
+
+一个成功的噪音压制检定能够阻止目标设备进行通讯和发送讯息，持续净成功分钟。
+
+[spoiler]
+[size=12pt][b]SQUELCH[/b][/size]
+
+[color=purple][b](Illegal) Electronics + Logic vs. Intuition + Sleaze or 2 x Sleaze (Minor)[/b][/color]
+
+[color=purple][b]Outsider[/b][/color]
+
+A successful Squelch test prevents the target device from calling or sending messages for a number of minutes equal to the net hits scored.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]基建颠覆[/b][/size]
+
+[color=purple][b](非法) 电子学+逻辑 vs. 直觉+防火墙 (主要)[/b][/color]
+
+[color=purple][b]管理员[/b][/color]
+
+基建颠覆允许碟客或者超链者轻微地改变多个物理设备的运作，让它们响应黑客的指令。如果黑客在主机上至少拥有管理员权限，通过一个成功的电子学+直觉 vs 直觉+防火墙或隐匿性+防火墙检定，每个净成功可以让他们控制一组从属于该主机的类似的简单设备(交通灯，自动售货机，家用电器，台灯等，由GM自由裁量)。此动作不能用于攻击。黑客可以在每个战斗轮使用一个主要动作来维持控制这些设备。
+
+[color=green](注：此动作已根据德文扩展修改对抗属性)[/color]
+
+[spoiler]
+[size=12pt][b]SUBVERT INFRASTRUCTURE[/b][/size]
+
+[color=purple][b](Illegal) Electronics + Logic vs. Willpower + Firewall (Major)[/b][/color]
+
+[color=purple][b]Admin[/b][/color]
+
+This action allows a decker or technomancer to slightly alter the operation of multiple physical devices so they respond to the hacker’s commands. If the hacker has at least Admin access on the host, a successful Electronics + Intuition vs. Intuition + Firewall or 2 x Firewall test allows them to control one group of similar simple devices (traffic lights, vending machines, home appliances, desk lamps, etc., at gamemaster discretion) slaved to that host for every net hit. This action cannot be used to make an attack. The hacker can sustain controlling these devices as a Major Action each combat round.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]威胁分析[/b][/size]
+
+[color=purple][b](合法) 电子学+逻辑 (主要)[/b][/color]
+
+[color=purple][b]访客/用户/管理员[/b][/color]
+
+黑客可以选择不进行攻击，而是通过威胁高亮软件为队友提供防御优势。威胁分析动作允许黑客为所有拥有AR馈送访问权限的队友提供防御检定奖励。奖励骰数量等于电子学+逻辑检定的成功数。该奖励持续到黑客的下一战斗轮开始。该奖励适用于任何共享黑客PAN内AR馈送的用户。黑客只能与不超过其数据处理属性的用户共享其馈送。
+
+[spoiler]
+[size=12pt][b]THREAT ANALYSIS[/b][/size]
+
+[color=purple][b](Legal) Electronics + Logic (Major)[/b][/color]
+
+[color=purple][b]Outsider/User/Admin[/b][/color]
+
+Instead of attacking, the hacker engages threat-highlighting software, giving allies an edge to their defenses. Threat Analysis allows the hacker to give a Defense test bonus to all allies with access to an AR feed. The number of bonus dice equals the number of hits on an Electronics + Logic test. This bonus lasts until the beginning of the hacker’s next turn. This bonus applies to anyone with an AR feed that shares the decker’s PAN. The hacker can only share their feed with a number of users equal to or less than their Data Processing.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]虚拟瞄准[/b][/size]
+
+[color=purple][b](合法) (次要)[/b][/color]
+
+[color=purple][b]访客[/b][/color]
+
+黑客或超链者可以通过使用该动作研究目标的防御而获得+1骰池奖励。该动作每个战斗轮只能执行一次，如果未使用，奖励将延续到下一轮，直到他们在当前回合使用虚拟瞄准动作失败或进行攻击为止。通过该动作获得的最大骰池奖励等于角色的意志属性。该奖励可应用于诸如数据棘刺、焦油陷阱或共鸣棘刺等任何矩阵攻击动作。
+
+[spoiler]
+[size=12pt][b]VIRTUAL AIM[/b][/size]
+
+[color=purple][b](Legal) (Minor)[/b][/color]
+
+[color=purple][b]Outsider[/b][/color]
+
+A decker or technomancer gains +1 dice pool bonus with the use of this action from studying their target’s defenses. The action can only be taken once per combat round, and the bonus is carried over to the next round if unused until they fail to use a Virtual Aim action on that round or if they attack. The maximum dice pool bonus from the use of this action equals the character’s Willpower. The bonus can be applied to any Matrix attack action such as Data Spike, Tarpit, or Resonance Spike.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]看门狗[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 意志+防火墙 (次要)[/b][/color]
+
+[color=purple][b]用户/管理员[/b][/color]
+
+目标必须是化身或设备。净成功数即程序保持激活状态的战斗轮数。如果检定成功，玩家就能看到目标正在其设备上做什么。现在，用户可以在目标使用矩阵动作之前就察觉到，并可以尝试阻止它。针对来自目标的攻击时，看门狗允许黑客以次要动作使用威胁分析。
+
+[spoiler]
+[size=12pt][b]WATCHDOG[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Willpower + Firewall (Minor)[/b][/color]
+
+[color=purple][b]User/Admin[/b][/color]
+
+Target must be a persona or device. The number of net hits is how many combat rounds the program stays active. If successful, the player can see what the target is doing on their devices. The user is now aware of the Matrix Actions the target is going to use before they use them, and they may attempt to stop them. Watchdog allows the hacker to use Threat Analysis as a minor action if the attack originates from the target.
+[/spoiler]
+[/quote]
+
+---
