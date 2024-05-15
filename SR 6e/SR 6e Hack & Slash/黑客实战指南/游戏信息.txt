@@ -196,6 +196,8 @@ The simplest reason for a decker to select hotsim over cold-sim or AR is the add
 你将自己的处理能力借给团队并提高他们的速度。每获得2个成功，你和你团队的当前主动性值就增加1点。单个化身获得的主动性增加总量不能超过你的数据处理属性，并且同时只能激活一个校准效果。随后每战斗轮主动性减少1点，直到恢复到正常主动性值。此加成适用于任何共享黑客PAN内AR馈送的角色。黑客只能与不超过其设备等级的用户共享其馈送。
 
 [spoiler]
+[size=14pt][b]MATRIX ACTION[/b][/size]
+
 [size=12pt][b]Calibration[/b][/size]
 
 [color=purple][b](Legal) Cracking + Logic (Major)[/b][/color]
@@ -489,3 +491,199 @@ Target must be a persona or device. The number of net hits is how many combat ro
 [/quote]
 
 ---
+
+[size=14pt][b]极限动作[/b][/size]
+
+[quote]
+[color=purple][size=12pt][b]批量执行 (1极限)[/b][/size][/color]
+
+该动作允许黑客更换其碟板上正在运行的所有程序。只需使用该极限动作，你就可以快速降低你的OS，或准备好摧毁一些垃圾。
+
+[spoiler]
+[size=14pt][b]EDGE ACTION[/b][/size]
+
+[color=purple][size=12pt][b]BATCH EXECUTION (1 EDGE)[/b][/size][/color]
+
+This allows the decker to switch out all the programs actively running on their deck. Just use the Edge action and you can quickly reduce your OS accrual or go in ready to wreck some drek.
+[/spoiler]
+[/quote]
+
+[quote]
+[color=purple][size=12pt][b]紧急干涉 (2极限)[/b][/size][/color]
+
+该动作允许黑客立即为从属于他PAN中设备的所有者提供防御加值。只有在进行攻击的设备启用了无线功能且黑客意识到这一点的情况下才能执行此动作。投掷电子学+逻辑，将成功数添加到盟友的骰池中。此加值只适用于当前防御检定。它不能持续到其他战斗轮或动作。
+
+[spoiler]
+[color=purple][size=12pt][b]INTERVENE (2 EDGE)[/b][/size][/color]
+
+This allows the hacker to give an immediate defense bonus to the owner of a device slaved to the hacker’s PAN. This action can be taken only if the device making the attack is wirelessly enabled and the hacker is aware of it. Roll your Electronics + Logic, adding the number of hits to your ally’s dice pool. This bonus applies only to the current Defense test. It cannot be carried over to any other turn or action.
+[/spoiler]
+[/quote]
+
+[quote]
+[color=purple][size=12pt][b]绘制目标 (1极限)[/b][/size][/color]
+
+在团队的AR界面中绘制目标，让他们知道目标的位置。清除来自掩体或烟雾弹的致盲状态。
+
+[spoiler]
+[color=purple][size=12pt][b]PAINT TARGET (1 EDGE)[/b][/size][/color]
+
+Paints a target in the team’s AR, allowing them to know where the target is located. Removes Blinded status coming from Cover or Smoke grenades.[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]电影风矩阵魔法！[/b][/size]
+
+作为GM，如果你想在游戏中加入一点电影风格，这些可选的规则和动作可供你使用。虽然《暗影狂奔》可以为玩家带来超越性的、行动导向的游戏体验，但总有机会让它更上一层楼。
+
+[spoiler]
+[size=14pt][b]MOVIE MATRIX MAGIC![/b][/size]
+
+These optional rules and moves are at your disposal as a GM if you want to add in a little bit of cinematic flair to the game. While Shadowrun can impart an over-the-top, action-oriented experience, there is always a chance to turn it up just one more notch.
+[/spoiler]
+
+[quote]
+[size=12pt][b]电脑病毒[/b][/size]
+
+[color=purple][b](非法) 电子学+逻辑 vs. 数据处理+防火墙 (主要)[/b][/color]
+
+[color=purple][b]访客/用户/管理员[/b][/color]
+
+外星人要毁灭地球，而我们成功阻止他们的唯一办法就是将这个电脑病毒装入他们的系统。狂奔者可对设备或主机发动此攻击，阻止目标在等于该检定获得的净成功数分钟内执行任何动作。这可以用于防止主机摄像机录制或封锁建筑物，因为所有的安保锁都不会解除。
+
+[spoiler]
+[size=12pt][b]COMPUTER VIRUS[/b][/size]
+
+[color=purple][b](Illegal) Electronics + Logic vs. Data Processing + Firewall (Major)[/b][/color]
+
+[color=purple][b]Outsider/User/Admin[/b][/color]
+
+The aliens are going to destroy the Earth, and the only way we can successfully stop them is by loading this computer virus into their system. The runner who deploys this attack against a device or host prevents the target from taking any actions for minutes equal to net hits on the test. This can be used to prevent the host from recording footage from cameras or for locking a building as none of the security locks will disengage.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]强化感知[/b][/size]
+
+[color=purple][b](合法) 电子学+逻辑 (次要)[/b][/color]
+
+[color=purple][b]用户/管理员[/b][/color]
+
+有时全息影像的画面模糊，或者音频含糊不清，这时只需立刻启用强化感知，突然间一切都变得清晰起来！该矩阵动作可以在进行矩阵侦察检定的同一轮或紧随其后的战斗轮中执行。强化感知动作的成功数将添加到之前的矩阵侦察动作中。
+
+[spoiler]
+[size=12pt][b]ENHANCE[/b][/size]
+
+[color=purple][b](Legal) Electronics + Logic (Minor)[/b][/color]
+
+[color=purple][b]User/Admin[/b][/color]
+
+Sometimes the trid footage is unclear or maybe the audio is coming through garbled, but a quick shot of Enhance, and suddenly everything becomes clear! This Matrix action can be taken on the same turn or the turn immediately after performing a Matrix Perception test. Hits on the Enhance Matrix action are added to the previous Matrix Perception action.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]IC裁切[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 数据处理+防火墙 (主要)[/b][/color]
+
+[color=purple][b]用户/管理员[/b][/color]
+
+你精通于击倒守卫数据的IC，并擅长对你所瞄准的任何IC造成伤害。你的攻击具有与你的攻击性相等的DV，每个净成功还会额外增加一点伤害。
+
+此动作与攻击性相关联。
+
+[spoiler]
+[size=12pt][b]IC SLICER[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Data Processing + Firewall (Major)[/b][/color]
+
+[color=purple][b]User/Admin[/b][/color]
+
+You are a master of taking down IC guarding the data that you are after and causing damage to any IC you target. Your attack has a Damage Value equal to your Attack attribute with one additional box of damage per net hit.
+
+This action is linked to the Attack attribute.
+
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]键盘突击[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 防火墙x2 (主要)[/b][/color]
+
+[color=purple][b]访客[/b][/color]
+
+你是这个星球上速度最快的黑客，没有任何IC能在你行动时抓住你。你能以极快的速度突破网络防御，在一个战斗轮内就能骇进骇出。获得一个净成功，你就能获得用户权限；获得四个净成功，你就能获得管理员权限。除此之外，每额外获得一个净成功，你就能操作一个设备或文件。执行此动作后，你将立即退出网络。
+
+[spoiler]
+[size=12pt][b]KEYBOARD COMMANDO[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Firewall x 2 (Major)[/b][/color]
+
+[color=purple][b]Outsider[/b][/color]
+
+You’re the fastest hacker on the planet, and there isn’t an IC program out there that can catch you in the act. You can slice through a network’s defense so fast that you can hack your way in and out in a single turn. With a single net hit, you gain User access; with four additional net hits, you gain Admin access. With each additional net hit beyond that, you can manipulate one device or file. You immediately exit the network after executing this action.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]密码定序[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 隐匿性+防火墙 (次要)[/b][/color]
+
+[color=purple][b]访客[/b][/color]
+
+主机或设备设置了一个极为复杂的密码，只有最坚韧的计算器才能解决。每次检定成功后，你的解密程序就能对密码中的下一个元素进行排序。密码中的元素数量等于主机等级。
+
+[spoiler]
+[size=12pt][b]PASSWORD SEQUENCER[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs Sleaze + Firewall (Minor)[/b][/color]
+
+[color=purple][b]Outsider[/b][/color]
+
+The host or device has a complex password that only the toughest number crunchers can handle. On each successful test, your decking process is able to sequence the next element in the password. The number of elements in the password is equal to the host’s rating.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]骷髅旗袭击[/b][/size]
+
+[color=purple][b](非法) 破解+逻辑 vs. 直觉+防火墙 (主要)[/b][/color]
+
+[color=purple][b]访客/用户/管理员[/b][/color]
+
+你是阻止对手行动的大师。检定成功后，对手的屏幕或视野完全被一个巨大ASCII动画的骷髅头与交叉骨头完全遮挡。目标在成功通过电子学+逻辑检定之前无法执行任何动作，检定阈值等于骷髅旗袭击动作的净成功数。
+
+[spoiler]
+[size=12pt][b]SKULL AND CROSSBONES ATTACK[/b][/size]
+
+[color=purple][b](Illegal) Cracking + Logic vs. Intuition + Firewall (Major)[/b][/color]
+
+[color=purple][b]Outsider/User/Admin[/b][/color]
+
+You are a master of preventing your opposition from taking actions. On a successful test, the opposition’s screen or view is completely occluded by a giant animated ASCII skull and crossbones. The target cannot take any action until they have successfully completed an Electronics + Logic test where the threshold is equal to the number of net hits from the Skull and Crossbones Attack action.
+[/spoiler]
+[/quote]
+
+[quote]
+[size=12pt][b]我们来了！[/b][/size]
+
+[color=purple][b](非法) 电子学+魅力 vs. 数据处理+隐匿性 (主要)[/b][/color]
+
+[color=purple][b]用户/管理员[/b][/color]
+
+在成功入侵主机或设备后，用一声胜利的呐喊告诉你的团队，你是这个星球上最棒的碟客。检定成功后，将你的极限池重置为你的极限属性。如果你当前的极限值超过了你的极限属性，则不会重置。
+
+[spoiler]
+[size=12pt][b]WE’RE IN![/b][/size]
+
+[color=purple][b](Illegal) Electronics + Charisma vs. Data Processing + Sleaze (Major)[/b][/color]
+
+[color=purple][b]User/Admin[/b][/color]
+
+Upon successfully hacking into a host or device, a triumphant yell tells your team that you are the best fragging decker on the planet. On success, reset your Edge pool back to your Edge rating. If you are currently over your Edge rating, then you do not reset.
+[/spoiler]
+[/quote]
