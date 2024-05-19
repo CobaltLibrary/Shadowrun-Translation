@@ -8,7 +8,7 @@ DAZ的研究人员分析了其他研究人员提出的分类，并提出了一�
 
 还有一类数字生命：被称为范式的神秘实体。因为还没有掌握确切证据，目前尚不清楚它们是否真实存在。一些研究人员认为它们只不过是超链者潜意识中形成的概念，是他们理念和欲望的反映。一些人认为它们代表了数字生命的一个未被发现的分支：超智能。其他人则推测它们是来自深层共鸣的实体，也许是共鸣域的领主或已进化为具有神般力量的网精。迄今为止，还没有一个范式被研究和证实，因此所有这些观点和理论都同样有效——同样未经证实。
 
-如何将某物定义为生命而非软件的一部分与新的通用信息理论(UnITy)有关。该理论适用于对那些涉及心智能(Nous)和研究人员根据他们所定义的火花(Spark)的AI进行分类——火花并非真正的共鸣能力，但仍然与其有着明确的联系。他们将火花称为"数字生命的精华"。我无法理解他们如何测量1和0与心智层的连接程度，但他们有一个生物目录，其中列出了他们在矩阵中找到的一些生物，并根据他们的定义确定为有生命的东西。但简单地说，数字生命具有火花。
+如何将某物定义为生命而非软件的一部分与新的通用信息理论(UnITy)有关。该理论适用于对那些涉及心智(Nous)和研究人员根据他们所定义的火花(Spark)的AI进行分类——火花并非真正的共鸣能力，但仍然与其有着明确的联系。他们将火花称为"数字生命的精华"。我无法理解他们如何测量1和0与心智层的连接程度，但他们有一个生物目录，其中列出了他们在矩阵中找到的一些生物，并根据他们的定义确定为有生命的东西。但简单地说，数字生命具有火花。
 
 至于那些并非生命的东西，则有程序、代理、数据、IC和构造体。网精是一个灰色地带；虽然许多迷途网精居住在共鸣域并拥有不可否认的火花，但它们也可以由超链者们和EI编译。这些编译出来的版本与共鸣有着很强的联系，但问题在于它们是编译者的延申还是独立的生命体。同样值得怀疑的是我们最近在矩阵中看到的一个大麻烦：NULL构造体。它们被认为是以类似网精的方式被编译出来的，但它们既没有与共鸣的联系也没有火花，所以争论已经解决了。但是，尽管不是"活的"，这些东西依然极其智能且极具威胁。
 
@@ -39,7 +39,7 @@ Within the xenosapient category, which has generally been pretty small, we have 
 [quote]
 [size=14pt][b]虚拟生命体与矩阵极限动作[/b][/size]
 
-作为矩阵的本土居民，所有虚拟生命体都可以执行所有矩阵极限动作，而不需要任何特殊的装备或属性，如赛博插口或共鸣。
+作为矩阵的原生居民，所有虚拟生命体都可以执行所有矩阵极限动作，而不需要任何特殊的装备或属性，如赛博插口或共鸣。
 
 [spoiler]
 [size=14pt][b]VIRTUAL LIFE AND MATRIX EDGE ACTIONS[/b][/size]
@@ -51,6 +51,7 @@ As native inhabitants of the Matrix, all virtual life forms have access to all M
 ---
 
 [size=16pt][b]初智能[/b][/size]
+
 
 Protosapients are the basic virtual life form found in the Matrix. Some seem to have evolved there while others have migrated from the Resonance Realms. Many of these creatures have been around for decades, but the wide use of Foundation hosts has given protosapients greater access to our information mega-highways. They have been a gateway to populating our hosts, host Foundations, and the open Matrix. The Matrix is still a frontier in many ways, and while we know about some of the protosapients out there, many more are waiting to be discovered and possibly munge you.
 
