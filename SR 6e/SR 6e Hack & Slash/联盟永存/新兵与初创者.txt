@@ -1,0 +1,206 @@
+[color=brown][size=16pt][b]新兵与初创者[/b][/size][/color]
+
+[size=14pt][b]811(埃弗雷特)[/b][/size]
+
+这个组织在矩阵中仍然相对较新，但他们已不再独一无二。它是第一个全三合会分部（现在对类似三合会组织的称呼），或者说是完全由三合会成员组成的超链者部落。在街头，他们通常被称为“八·十一(Eight-Elevens)”，是西雅图北部埃弗雷特地区三合会88堂口的一部分，由龙头瑞克·吴和他的香主儒柏·董统治。瑞克·吴的手下最初专注于参与所有类型的矩阵犯罪，但他们已被批准协助北美以及东南亚地区的其他三合会组织组建其他全成员分部，重点关注香港、青岛和天津，这些地方已确认存在规模较大的超链者社区。
+
+> 观察这种组织性援助非常有教育意义。它不仅展示出了适应能力，也展现了强大的团体在大型三合会网络中的力量。
+
+> Rikki
+
+[spoiler]
+[color=brown][size=16pt][b]Neobytes and Startups[/b][/size][/color]
+
+[size=14pt][b]The (Everett) 811s[/b][/size]
+
+This organization is still relatively new in the Matrix, but they are no longer unique. It was the first all-Triad sector (a name now given to similar Triad groups), or technomancer tribe, made up entirely of Triad members. Commonly referred to on the street as the Eight-Elevens, they operate as part of the Triad operations for the 88s in Everett, up in the northern Seattle sprawl, under the rule of Boss Rick Wu and his Incense Master, Rubai Dong. They originally focused on all the Matrix crime perpetrated by Boss Wu’s people, but they have been given the green light to aid in the formation of other full membership sectors for other Triad organizations in North America, as well as southeast Asia, with attention to Hong Kong, Qingdao, and Tianjin, where larger technomancer communities have been confirmed.
+
+> Watching this organizational aid has been very educational. Not only is it showing adaptation, it also shows the strength in the stronger alliances for these portions of the greater Triad networks.
+
+> Rikki
+[/spoiler]
+
+该分部的领导层由其成员自行决定，并根据任务任务的不同而变化。他们是伪造身份、身份盗窃、财务管理与滴定(洗钱)、贷款监督和交易安全方面的专家，他们一直很忙，并且似乎也乐于保持这种状态。埃弗雷特分部的具体成员数量不确定，但据信总数不超过二十人。他们没有自己的专属主机，而是使用88分部运营的主机和三合会自身维护的那些业务主机。
+
+> 我不相信这点。他们这个组织似乎很有实力，不可能没有自己的主机。
+
+> LPSD
+
+> 他们或许拥有一台主机，但很可能只能通过他们管理的其他主机访问。既然他们可以随心所欲地进行选择并以合法经营为掩护，为什么还要把某些东西放在前台展示呢？
+
+> Jimmy No
+
+> 他们还在使用浮现动物充当信使。
+
+> Plan 9
+
+[spoiler]
+
+The sector’s leadership is determined by their own membership, and it changes from task to task. Experts in false ID generation, identity theft, financial management and titration (money laundering), loan oversight, and transaction security, they are kept busy and seem to thrive on staying that way. The exact number of members in the Everett sector is uncertain, but it is believed to be no more than twenty in all. They are not known to have a host entirely their own, but instead use those hosts that are operated by the 88s and those businesses that the Triad itself maintains.
+
+> I don’t believe this. Their organization seems too capable not to have their own host someplace.
+
+> LPSD
+
+> They could have a host, but would likely only have access to it by way of the other hosts they manage. Why put something up front when they can pick and choose as they wish and cover it with legitimate operations?
+
+> Jimmy No
+
+> They also use e-fauna to serve as couriers.
+
+> Plan 9
+[/spoiler]
+
+[quote]
+[size=14pt][b]811(埃弗雷特地区)[/b][/size]
+
+[b]成员数：[/b]20
+
+[b]种类：[/b]浮现团体
+
+[b]团体关系等级：[/b]7 (范围[蔓城区级]，资源[大量]，矩阵[广为人知]，全超链者)
+
+[b]主机等级：[/b]6 (7/6/9/8) (结构层)
+
+[b]限制：[/b]仅超链者、仅三合会成员
+
+[b]待遇：[/b]提供中端生活方式，需要时可向其他三合会成员寻求帮助。
+
+[b]资助：[/b]全额赞助(三合会88分部，埃弗雷特地区，西雅图自由市)；NPC成员可以召集一些三合会成员来保护他们或协助他们进行特殊的商业行动。
+
+[b]GM注解：[/b]这里介绍的811分部旨在作为更大型组织(如黑帮)内其他类似团体的范例。若PC希望加入此类分部，则必须满足所有相关限制条件，包括加入三合会的任何仪式。关于该团体对PC的忠诚等级应按照正常规则管理，而非上述规则。
+
+[spoiler]
+[size=14pt][b]THE (EVERETT) 811[/b][/size]
+
+[b]Members:[/b] 20 
+
+[b]Type:[/b] Emergent 
+
+[b]Group Connection Rating:[/b] 7 (sprawl-wide scope, extensive finances, extensive Matrix, all technomancers)
+
+[b]Host Rating:[/b] 6 (7/6/9/8) (Foundation)
+
+[b]Restrictions:[/b] Technomancers only, Triad members only.
+
+[b]Perks:[/b] Middle Lifestyle provided. May call upon other Triad members for aid.
+
+[b]Patronage:[/b] Fully sponsored (88 Triad, Everett, Free Seattle); NPC members can call upon a number of Triad members for protection or to help them in special business operations.
+
+[b]Gamemaster Note:[/b] These statistics are for the Denver Collective, which is the Emergent group of technomancers who are central to the operation of the Nexus Datahaven. They are not a reflection of the Nexus, which can be found highlighted on p. 176 of the Sixth World Companion. These statistics include the DC Well, which is their own host separate from the Nexus.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]自由海盗[/b][/size]
+
+他们公开信奉开源精神和网络中立原则，期望建立一个不被企业割据的矩阵。他们的成员中有许多MeFeeds和Pito网红，他们会举行抗议活动，用AR标签在企业办公室进行宣传，并通过盗版渠道发布有关企业及其腐败项目的“真相”。他们有成百上千的自由海盗成员和支持者，尽管其成员大多都像是疯子或对矩阵一无所知的普通人。该组织的目标是迫使企业法庭修改CCMA的法规，并实施自由海盗的理念，尽管这通常只是企业公关部门的一些小麻烦，即使该组织的少数几位全息明星已经占据了虚拟演说台也是如此。
+
+当然，这大部分时候都只是一个舞台，是对其更重要成员行动的掩护。虽然大多数自由海盗相信他们能够实现自己的目标，但小部分的核心成员已经意识到这永远不会发生，因此他们开始依靠自身力量来拆散公司，将收集到的有价值数据回馈给公众。这些成员会像上一代的全息海盗一样劫持全息电视台，让网络媒体播放他们自己的新闻。他们会破解软件以制作免费软件，通常避免选择更有利可图的敲诈或勒索软件，这样他们就不会冒被调查他们的GOD或次级GOD直接干预的风险。他们的大众声誉为他们提供了脆弱的“公众盾牌”，有助于他们避免实施那些真正具有威胁性的恐怖分子或极端分子会选择的更具决定性的行动。
+
+> 不要认为这些人不愿造成伤害——他们只是更喜欢避免真正的麻烦，他们完全有能力实施白帽袭击，包括使用绦虫或数据炸弹来提取或干扰信息流，从而为自己谋求利益。
+
+> LPSD
+
+[spoiler]
+[size=14pt][b]FREEBOOTERS[/b][/size]
+
+Publicly, they believe in open source and wireless neutrality, a Matrix that isn’t divided by corporations. They have many MeFeeds and Pito influencers who stage protests, they AR-tag corporate offices with propaganda, and they distribute “the Truth” on corporations and their corrupt projects through pirate channels. There are hundreds, if not thousands, of Freebooters and sympathizers out there, with most of their member streams coming off like crackpots or a face who knows nothing about the Matrix. The group’s goal is getting the Corporate Court to revise the CCMA’s rules and implement the Freebooter ideals, which is usually nothing more than a nuisance to a corporation’s PR department, even when one of the group’s handful of trid-stars grabs the virtual soapbox.
+
+Of course, most of this is just a stage, a smokescreen for the actions of its more serious members. While most Freebooters believe they can realize their goals, a smaller core realize this will never occur, so they have taken it upon themselves to dismantle the corporations and give back to the public, one paydata job at a time. These members will spoof trid stations like the trid pirates of earlier generations and get network media to broadcast their own news. They’ll crack software in order to create freeware, usually avoiding the more lucrative options of extortion or ransomware so they do not risk the direct intervention of the GODs or demi-GODs investigating them. The tenuous “public shield” their general reputation grants them helps them avoid the more decisive actions that a truly threatening terrorist or extremist operative might choose.
+
+> Do not think these people are against doing damage—they just prefer to avoid real heat, and are more than capable of implementing white-hat-related assaults involving tapeworms or data bombs to extract or disrupt the flows of information to their benefit.
+
+> LPSD
+[/spoiler]
+
+他们的成员中有一些知名影响者，比如拟感明星、音乐家和其他娱乐界人士，他们正试图获得某种形式的街头信誉，以提升自身的存在感。这些人经常在各种自由海盗关注者的媒体上进行捐赠或露面。
+
+> 哈利·金(Harry Kim)和布郎迪·李(Brandy Lee)，又名乔尔特(Jolt)和米迪(Midi)，作为拟感戏剧演员，他们制作的节目和音乐剧在他们的MeFeeds上播出。康卡斯特公司(Comcast Corporation)会处理他们有时产生的公关失误，但他们用订阅MeFeeds的用户群弥补了这一损失。他们仍然是该组织更大规模行动的忠实支持者，他并拥有一系列账户来区分公开合法的活动，作为筹款的前台。
+
+[spoiler]
+
+Among their members are a few high-profile influencers like simstars, musicians, and others in the entertainment industry who are trying to get some form of street cred to elevate their presence. It’s not uncommon for these individuals to give donations or make appearances on various Freebooter subscriber feeds.
+
+> Harry Kim and Brandy Lee, also known as Jolt and Midi, are simsense theater actors who produce shows and musicals streamed on their MeFeeds. Comcast Corporation handles PR mishaps they sometimes generate, but they make up for it with the subscriber base that sources their MeFeeds. They remain great supporters of the larger group’s actions, with a chain of accounts to separate publicly legal activities that serve as a fundraising front.
+
+> Mika
+[/spoiler]
+
+大多数人认为，阿玛迪斯·巴德鲁克(Amadeus Badruk)是这个组织的领导人，他是一名加利福尼亚自由州的兽人，大约在十年前将无线中立运动推到了聚光灯下。他拥有媒体高管所有的魅力和礼仪，创建了一个由名声和财富构成的网络，并据信为整个组织提供了资金。多年来，阿玛迪斯曾数次被“猎头”，无论是字面意义上(挖角)还是比喻意义上(追杀)。他目前的总部位于洛杉矶，不过他经常在黑森林度假，显然他收入不菲。他将大部分矩阵工作委派给了地方组织，但他仍然在利用自己累积的Pito评分和相关的名气寻找其他媒体盟友。
+
+> 巴德鲁克先生并不只有一张漂亮的脸蛋，他也有自己的矩阵技能，这对发起运动起到了推动作用。我听说Perianwyr早期曾试图招募他担任经理，但被Badruk婉言谢绝了。我的一个消息来源称，他们时不时还会一起喝酒。他通常穿得很时髦，这对他的形象很有帮助。
+
+> WuPing
+
+[spoiler]
+
+Most point to Amadeus Badruk, a Cal-Free ork who pushed the wireless neutrality movement into the spotlight about a decade ago, as being a leader of this organization. He has all the charisma and etiquette of a media executive, creating a network of fame and fortune that supposedly funds the whole organization. Amadeus has been headhunted, both literally and figuratively, a few times over the years. His current headquarters are in Los Angeles, though he vacations in the Black Forest, so he evidently makes good cred. Delegating much of the Matrix work to local groups, he still uses his accrued Pito score and associated fame to find other media allies.
+
+> Mr. Badruk is not just a pretty face; he has his own Matrix skills, which helped start the movement. I heard that Perianwyr tried to recruit him as manager in the early days, but Badruk gracefully declined. One of my sources claims they still have drinks from time to time. He usually dresses stylishly, so it helps his image.
+
+> WuPing
+[/spoiler]
+
+找到自由海盗很容易，因为他们利用的是极为公开的舞台。许多MeFeed都能引导你找到支持自由海盗理念的艺人。而当你关注名人时，会有半打黑客和崇拜者在幕后检查你的合法性并评估你可能代表的威胁。如果你想加入自由海盗，最简单的方法是发送一份MeFeed简历，这样你就会收到一份Pito邀请，然后他们会在现场直播的观众面前测试你的技能和道德品质。通过测试，你就可以与当地的自由海盗组织会面。要见到巴德鲁克先生则需要一些真才实学或重要数据。
+
+> 自由海盗喜欢用Pito来对新成员施压。观众的反馈有助于淘汰那些偶尔混进来的公司走狗或冒牌黑客。带上爆米花！
+
+> /dev/grrl
+
+[spoiler]
+
+It’s easy to find Freebooters, since they utilize very public stages. Many a MeFeed will lead to an actor supporting the Freebooter message. And while you are looking at the celebrity, you’ll have half a dozen deckers and wannabes behind the curtain, checking your legitimacy and sizing up the threat you may represent. If you wanted to join the Freebooters, the easiest way is to send in a MeFeed résumé, which’ll get you a Pito invite, from which they will test your skills and moral character before an often-live audience. Pass the test, and you get an audience with one of the local Freebooter groups. Getting an audience with Mr. Badruk would take some serious talent or paydata retrieved.
+
+> Freebooters love to put the Pito screws to new recruits. The audience feedback helps weed out the occasional corporate stooge or hacker wannabe. Bring popcorn!
+
+> /dev/grrl
+[/spoiler]
+
+[quote]
+[size=14pt][b]自由海盗[/b][/size]
+
+[b]成员数：[/b]10,000+
+
+[b]种类：[/b]混合用户团体
+
+[b]团体关系等级：[/b]10 (范围[世界级]，资源[大量]，觉醒[部分成员]，矩阵[广为人知])
+
+[b]主机等级：[/b]6 (7/8/7/8) (框架式)
+
+[b]限制：[/b]Pito用户。具备一项或多项矩阵/公司相关知识技能。年会费100新元。必须通过有关CCMA、GOD或类似矩阵管理机构的最新新闻或信息的知识测试，由GM决定。
+
+[b]待遇：[/b]可提升涉及CCMA的矩阵相关决策的关注度。不利之处是，这将使所有被记录者的热度得分+2，持续时间长达一周。 每月可以进行一次唬骗+影响(3)检定，为最多四人获得一次性的用于矩阵娱乐活动的免费门票或通行证。
+
+[b]资助：[/b]该组织拥有多位二三线的拟感和全息娱乐明星，另外每年还有一笔可观的会费收入，如订阅MeFeed。这些会费不包含在PC的生活方式费用中，必须作为额外支出处理。
+
+[b]GM注解：[/b]不论喜欢与否，类似于自由海盗的组织可能有成千上万个，但聪明的出面人或碟客可以利用这些人来获取有关CCMA或公司法庭对任何矩阵或娱乐相关信息的行动的各种情报。
+
+[spoiler]
+[size=14pt][b]FREEBOOTERS[/b][/size]
+
+[b]Members:[/b] 10,000+ 
+
+[b]Type:[/b] MUG 
+
+[b]Group Connection Rating:[/b] 10 (worldwide scope, extensive finances, some Awakened, pervasive Matrix)
+
+[b]Host Rating:[/b] 6 (7/8/7/8) (Framework)
+
+[b]Restrictions:[/b] Pito subscriber. Have one or more Matrix/corporate-related Knowledge skills. 100 nuyen annual dues. Must pass a Knowledge test regarding latest news or information about the CCMA, GOD, or similar Matrix authorities, at the gamemaster’s discretion.
+
+[b]Perks:[/b] Can elevate the attention on Matrix-related decisions involving the CCMA. On the downside, it will generate +2 to the Heat score of all those recorded for up to one week afterward. Can get free tickets or passes to Matrix entertainment events for up to four people with a Con + Influence (3) test one time per month.
+
+[b]Patronage:[/b] Fully sponsored (88 Triad, Everett, Free Seattle); NPC members can call upon a number of Triad members for protection or to help them in special business operations.
+
+[b]Gamemaster Note:[/b] These statistics are for the Denver Collective, which is the Emergent group of technomancers who are central to the operation of the Nexus Datahaven. They are not a reflection of the Nexus, which can be found highlighted on p. 176 of the Sixth World Companion. These statistics include the DC Well, which is their own host separate from the Nexus.
+[/spoiler]
+[/quote]
+
+---
+
+
+
+---
+
