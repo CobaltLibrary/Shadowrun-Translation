@@ -1,4 +1,4 @@
-[color=brown][size=16pt][b]矩阵拓扑 章首故事[/b][/size][/color]
+[center][b][color=maroon][size=16pt]矩阵拓扑 章首故事[/size][/color][/b][/center]
 
 Hex在距地球五百公里的高空中飞行。在远处，他可以看到漂浮在大气层上空的太空港-会议点空间站(Treffpunkt Raumhafen)。他并不孤单。在两百公里外，一只狗正在和一个水晶机器人交谈。Hex放大视野，他可以看到狗毛在那台机器人闪闪发光的表面折射出的倒影。Hex在等待。
 
