@@ -65,7 +65,7 @@
 [tr][td]拟感分享[/td][td]2[/td][td]100¥[/td][/tr]
 [/table]
 
-[color=green]*该表格已根据德文扩展书补充遗漏内容[/color]
+[color=green]译注：该表格已根据德文扩展补充遗漏内容[/color]
 
 [spoiler]
 [size=14pt][b]COMMLINK APPS[/b][/size]

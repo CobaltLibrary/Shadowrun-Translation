@@ -133,7 +133,6 @@ The Sourceror can merge multiple complex forms into a single form, providing the
 
 ---
 
-[quote]
 [size=14pt][b]技术萨满[/b][/size]
 
 技术萨满结合了他们的精神与能力。他们是网精的专家，十分擅长应付共鸣生物，还有不少甚至显露出与浮现生物打交道的卓越天赋。。
@@ -143,7 +142,6 @@ The Sourceror can merge multiple complex forms into a single form, providing the
 
 Technoshamans integrate the spiritual with their abilities. They are experts on sprites, phenomenal at interacting with Resonance creatures, and many even show a penchant for dealing with technocritters.
 [/spoiler]
-[/quote]
 
 [quote]
 [color=purple][b]优势[/b][/color]
@@ -176,7 +174,7 @@ Technoshamans learn to eke the most power from their sprites. Thus, they gain th
 
 这个复合程式允许超链者控制他们遇到的虚拟生命体(网精、初智能、泛智能、构造体和浮现动物)的动作。他们进行电子学+共鸣vs防火墙+意志的对抗检定。净成功数等于技术萨满可以控制目标的最大战斗轮数。目标和它的控制者(如果有的话)会意识到发生在它们身上的事情，但对此无能为力。技术萨满使用相同的动作来指挥目标，这意味着让目标移动是一个次要动作，但让目标攻击是一个主要动作。
 
-[color=green](此复合程式目标原文为网精，根据德文扩展改为见描述)[/color]
+[color=green](译注：此复合程式目标原文为网精，根据德文扩展改为见描述)[/color]
 
 [spoiler]
 [color=purple][b]COMPLEX FORM: VIRTUAL LIFE[/b][/color]

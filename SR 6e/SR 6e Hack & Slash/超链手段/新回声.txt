@@ -86,7 +86,7 @@
 
 [quote]
 [b]新网精类型：[/b]你获得编译与注册刺客网精、守卫网精、模块网精、音乐网精和原初网精（新网精类型，第72页）的能力。
-[color=green]注：根据德文书，此处补充音乐网精(催化剂写漏了)[/color]
+[color=green](译注：已根据德版扩展补充音乐网精)[/color]
 
 [spoiler]
 [b]New Sprite Type:[/b]You gain the ability to compile and register Assassin, Defender, Modular, and Primal sprites (see New Sprite Types, p. 72).
@@ -135,7 +135,7 @@
 
 [quote]
 [b]诱错抗争：[/b]你已经学会了如何对抗与化解复合程式和网精能力的秘密。当你意识到某个矩阵动作以你同样所意识到的某个图标为目标时，你可以使用一个次要任意动作在目标的防御检定中为其提供额外的骰子。奖励骰数量等同于你的深潜阶层。如果你意识到一个复合程式或网精能力正在被维持，你可以尝试减少或消除它。进行一个电子学+共鸣的检定，加上等同于你深潜阶层的奖励骰，对抗目标的逻辑+共鸣。如果你获得成功，你的每个净成功将减少该复合程式或网精能力的一个净成功。如果这将净成功削减至0，维持的复合程式或网精能力将立即结束。这需要花费你的一个主要动作，并且你将在每次尝试后遭受等同于对抗检定中对方的成功数（总成功数，而不是净成功数）的衰褪。
-[color=green]注：该回声直译名为“语法错误”，实质是指编程中最常见的错误类型，故此处意译[/color]
+[color=green](译注：该回声直译名为“语法错误”，实质是指编程中最常见的错误类型，故此处意译)[/color]
 
 [spoiler]
 [b]Syntax Error:[/b]You’ve learned the secrets of countering and unraveling complex forms and sprite powers. When you are aware of a Matrix action that targets any icon that you are also aware of, you may spend a Minor Anytime Action to provide the target with bonus dice on their defense test. The number of bonus dice is equal to your submersion grade. If you are aware of a complex form or sprite power that is being sustained, you may attempt to reduce or cancel it. Make an Electronics + Resonance test with bonus dice equal to your submersion grade vs. Logic + Resonance. Reduce the net hits from the complex form or sprite power by one per net hit if you succeed. If this reduces the net hits to zero or less, the sustained form or power ends immediately. This requires you to take a Major Action, and you suffer fading damage equal to the number of hits scored against you (total hits, not net hits) on the opposed test after each attempt.

@@ -26,7 +26,7 @@ Being a Monad is not a turmoil-filled punishment, but a gift that comes with its
 
 [b]业力建卡花费：[/b]在可选的业力建卡系统中，单子需要花费45业力。单子开始时的NV等于1。
 
-[color=green]注：此处根据德文扩展补充业力建卡花费[/color]
+[color=green](译注：此处根据德文扩展补充业力建卡花费)[/color]
 
 [spoiler]
 [size=14pt][b]BUILD COSTS[/b][/size]
@@ -48,7 +48,7 @@ Being a Monad is not a turmoil-filled punishment, but a gift that comes with its
 
 在某些情况下，角色可能希望比正常情况下更快地弥补NV值的减少。这时可以注射纳米体，在注射后的一个战斗轮内补充NV(见表格)。
 
-[color=green]注：此处根据德文扩展补充纳米体恢复规则[/color]
+[color=green](译注：此处根据德文扩展补充纳米体恢复规则)[/color]
 
 [quote]
 [table]

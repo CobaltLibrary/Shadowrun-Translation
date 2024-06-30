@@ -417,7 +417,7 @@ A successful Squelch test prevents the target device from calling or sending mes
 
 基建颠覆允许碟客或者超链者轻微地改变多个物理设备的运作，让它们响应黑客的指令。如果黑客在主机上至少拥有管理员权限，通过一个成功的电子学+直觉 vs 直觉+防火墙或隐匿性+防火墙检定，每个净成功可以让他们控制一组从属于该主机的类似的简单设备(交通灯，自动售货机，家用电器，台灯等，由GM自由裁量)。此动作不能用于攻击。黑客可以在每个战斗轮使用一个主要动作来维持控制这些设备。
 
-[color=green](注：此动作已根据德文扩展修改对抗属性)[/color]
+[color=green](译注：此动作已根据德文扩展修改对抗属性)[/color]
 
 [spoiler]
 [size=12pt][b]SUBVERT INFRASTRUCTURE[/b][/size]
