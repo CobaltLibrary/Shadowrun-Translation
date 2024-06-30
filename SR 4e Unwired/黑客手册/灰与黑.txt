@@ -287,7 +287,7 @@ Information is a commodity in the Sixth World, and that’s a fact that hackers 
 
 > Kay St. Irregular
 
-有一件事会让数据经纪人坐立不安，那就是这些数据是否带有属于某个名声显赫的人的标记。已经有不止一个黑客手握数据芯片却发现城里没有任何一个数据经纪人敢直接触碰这些来自亲分[color=green](注：oyabun，山口组的领袖)[/color]节点上的热门情报，因为一旦山口组发现了这件事，他们就会对这些经纪人做些什么。这种有益健康的恐惧/迷信在一个有统治集团或企业的城市中最为强烈，而不是巨龙; 在西雅图，你可以任意挑选山口组的敌人，然后卖给他们。见鬼，你可以试着推销它很多次——只是不要被抓住。
+有一件事会让数据经纪人坐立不安，那就是这些数据是否带有属于某个名声显赫的人的标记。已经有不止一个黑客手握数据芯片却发现城里没有任何一个数据经纪人敢直接触碰这些来自亲分[color=green](译注：oyabun，山口组的领袖)[/color]节点上的热门情报，因为一旦山口组发现了这件事，他们就会对这些经纪人做些什么。这种有益健康的恐惧/迷信在一个由犯罪集团或企业统治的城市中最为强烈，而非巨龙; 在西雅图，你可以任意挑选山口组的敌人，然后卖给他们。见鬼，你可以试着推销它很多次——只是不要被抓住。
 
 [spoiler]
 Data brokers are a distinct breed of fixers that specialize in buying and selling information. Some are backed by syndicates, others by corps or governments, but most are independent and prefer it that way. They deal mostly with incarcerated criminals, paparazzi, hackers, spies, and industrial saboteurs—but also with stock brokers, fixers, police, government officials, and even members of the intelligence community. Most data brokers have some background or interest that informs their preferences; a talismonger-turned-data broker (often called a loremonger) is probably more interested (and will therefore pay more) for thaumaturgical research, magical formulae, and metamagical theses than for the schematics to Ares’s latest assault rifle. 

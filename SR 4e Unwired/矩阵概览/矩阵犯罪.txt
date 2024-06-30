@@ -203,7 +203,7 @@ Let’s say you want Xiao-Renraku’s newest search assistant, Fetch. Assuming y
 
 > Puck
 
-> Puck, 你听说过一个关于锅和水壶的故事吗？ [color=green](注：此处意思为五十步笑百步)[/color]
+> Puck, 你听说过一个关于锅和水壶的故事吗？ [color=green](译注：此处意思为五十步笑百步)[/color]
 
 > Netcat
 
@@ -344,7 +344,7 @@ Data havens work along the same lines. Some charge a fee to access data. As a ru
 
 > FastJack
 
-大多数数据港已经向最大的数据港Nexus(崩溃前后均是)发送旧的和过时的数据。当系统试图在崩溃后重建时，人们普遍认为，为了防止另一次这样的攻击，暗影中的数据港必须建立一个更可靠的网络。这就是暗影网络形成的原因，它允许成员数据港相互镜像内容。大多数避难所也仍然定期向Nexus发送备份。
+大多数数据港曾向最大的数据港Nexus(崩溃前后均是)发送老旧和过时的数据。当系统试图在崩溃后重建时，人们普遍认为，为了防止另一次这样的攻击，暗影数据港必须建立一个更可靠的网络。这就是暗影网络形成的原因，它允许成员数据港相互镜像内容。大多数数据港也仍然定期与Nexus分享备份。
 
 [spoiler]
 Many of the data havens existing today are part of a shadow network, a loose agreement to provide data-sharing and backups among the network members. After the Crash took down Shadowland and many other data havens, sysops realized just how vulnerable they were.
