@@ -1,0 +1,422 @@
+[color=brown][size=16pt][b]在根基处[/b][/size][/color]
+
+[color=purple]发帖人：/dev/grrl[/color]
+
+> 《Data Trails》的帖子发表至今已经有五年了，因此我邀请了其中一位原作者来总结一下在这段时间内的结构层工作发生了哪些变化。
+
+> Slamm-0!
+
+[spoiler]
+[color=brown][size=16pt][b]AT THE BASE[/b][/size][/color]
+
+Posted by: /dev/grrl
+
+> It’s been about five years since the Data Trails post, so I’ve asked one of the original writers to summarize what’s changed about working with the Foundation during that time.
+
+> Slamm-0!
+[/spoiler]
+
+---
+
+[size=16pt][b]美丽新世界[/b][/size]
+
+自从全世界接触到最新的矩阵——结构层技术的化身，即由新矩阵协议创建或发现的版本，已经过去七年了。那么，我们对它真正了解多少？事实是，即使过了七年，我们依然知之甚少。我们知道丹妮尔·德·拉·马尔在74年向企业法庭介绍的无需设备的矩阵故事纯属无稽之谈。我们知道新矩阵的整个基础是建立在一种没人真正理解的技术之上的，包括GOD和公司法庭。我们知道它在诞生之初就被对超链者的痛苦折磨所玷污。而现在，看起来整个系统都开始崩溃了。
+
+起初，结构层技术承诺提供免费的无限处理能力和免费的无限数据存储，这让全世界都为之心动。他们还承诺，通过黑客无法接触、无法攻破的数据存档系统，这种存储是完全安全的。当然，这一切都好得令人难以置信，世界开始意识到“免费”真正的代价有多高。在过去的七年里，黑客们发现了漏洞和解决方法，使得新矩阵协议远没有承诺的那么安全。新的实体不断出现在矩阵中，据说是来自结构深层。而且，最近出现了主机突然不稳定的现象，有几个主机彻底崩溃。最后，关于结构层科技真正来源的传言正慢慢从黑客论坛传播到普罗大众间。这就不难理解为什么会有人讨论要回到基于设备的矩阵，但精灵已经从瓶子里溜出来了。现在改变方向可能已经太晚了。
+
+> 你知道谁不用结构层技术吗？就是GOD和企业法庭。他们一直在轨道平台上拥有自己的物理服务器网络，从未改用过结构层的主机。我想不出还有什么比新矩阵协议的创造者不在自己系统中使用新矩阵协议更好的控诉了。
+
+> Orbital DK
+
+[spoiler]
+[size=16pt][b]A BRAVE NEW WORLD[/b][/size]
+
+It’s been seven years since the world was introduced to the newest incarnation of the Matrix, the Foundation, the one created—or discovered—by the new Matrix protocols. And what do we really know about it? The truth is, not a lot, even after seven years. We know that Danielle de la Mar’s story about a deviceless Matrix presented to the Corporate Court in ’74 was pure drek. We know that the entire foundation of the new Matrix is built with a technology that no one truly understands, including GOD and the CC. We know it’s tainted by the torture of technomancers at its inception. And now it looks like the entire thing is starting to crumble.
+
+At first, the world was seduced by Foundation-tech’s promise of free unlimited processing power and free unlimited data storage. That storage was promised to be completely secure through a data archive system unassailable and unreachable by hackers. Of course, it was all too good to be true, and the world is starting to realize just how expensive “free” really is. Hackers have discovered exploits and workarounds over the last seven years that make the new Matrix protocols far less secure than promised. New entities have been appearing throughout the Matrix, rumored to be from the Deep Foundation. And there’s the latest phenomenon of sudden host instability, with the total failures of a few hosts. Lastly, rumors are slowly filtering from hacker boards to the general public about the true origins of Foundation-tech. It’s easy to see why there is talk of moving back to a device-based Matrix, but the genie may already be out of the bottle. It could already be too late to change course.
+
+> You know who doesn’t use Foundation-tech, and never has? GOD and the Corporate Court, that’s who. They’ve always had their own physical server networks on orbital platforms and have never switched over to Foundation-based hosts. I can’t think of a better indictment of the new Matrix protocols than the fact that its creators do not use it for their own systems.
+
+> Orbital DK
+[/spoiler]
+
+---
+
+[size=14pt][b]新矩阵的可怕秘密[/b][/size]
+
+我猜对阅读这篇文章的每个人来说，这实际上是一个公开的秘密，但世界上其他地方的人现在才开始听到有关新矩阵及那一百名超链者的真相。到现在我们都知道，丹妮尔·德·拉·马尔并没有自己开发出新矩阵协议背后的技术；她是从一个叫亨格斯特(Hengester)的组织那里得到的研究成果，这个组织早在71年就开始对超链者进行实验。据我所知，他们基本上是一个邪教组织，认为浮现者是实现了某个关于“种子”的预言或其他类似的无稽之谈。我还没找到一个古老预言如何与矩阵扯上任何关系的答案。不论这群人的动机是什么，德·拉·马尔拿到了他们的“研究”并继续推进。她延续了对最初实验对象的折磨性共感心灵链接实验，不断增加试验对象的数量，直到彼此链接的超链者达到一百人，并利用他们创建了第一个虚拟主机结构。最终，她提取出了使结构层技术成为可能的数字造物。有了虚拟主机的原型，再加上一个技术噱头的故事幌子，她将这个想法卖给了企业法庭，然后将新矩阵协议打包并进行大规模分发。
+
+> 一些超链者部落以那一百人的名义发誓要对亨格斯特复仇。据我所知，亨格斯特的初创成员中只有一半左右还活着，他们正在远离矩阵服务的偏远地区躲藏。
+
+> Perri
+
+> 为什么没人去找德·拉·马尔算账？她听起来才是真正的罪魁祸首。
+
+> Rikki
+
+> 许多人试过了，但她有GOD提供的24小时矩阵安保。你可以放心，一旦法庭决定她不值得花费这么多开销来保护，她也会和那些初创成员一样，在躲藏中度过突然缩短的余生。
+
+> Perri
+
+[spoiler]
+[size=14pt][b]THE GRIM SECRET OF THE NEW MATRIX[/b][/size]
+
+I guess this is really more of an open secret to everyone reading this, but the rest of the world is just now starting to hear the truth about the creation of the new Matrix and the one hundred technomancers. By now we all know that de la Mar didn’t come up with the tech behind the new Matrix protocols; she received the research from a group called Hengester who started experimenting on technomancers back in ’71. From what I can find, they were basically a cult who believed the Emergent were the fulfillment of some prophecy about a seed or some other such nonsense. How an ancient prophecy can have anything to do with the Matrix is a mystery I haven’t found an answer to. Regardless of the group’s motivation, de la Mar took their “research” and ran with it. She continued the tortuous gestalt mind-linking of the original test subjects, increased that group until it reached one hundred linked technomancers, and used them to create the first virtual host structures. Eventually, she extracted the digital artifact that makes Foundation-tech possible. With the prototype hosts in hand and a techno-babble cover story, she sold the idea to the Corporate Court, then packaged the new Matrix protocols for mass distribution.
+
+> A few technomancer tribes have sworn revenge on Hengester in the name of the one hundred. Last I heard, only about half of the original Hengester membership is left alive, and they are staying off the grid, hiding in remote areas without Matrix service.
+
+> Perri
+
+> Why hasn’t anyone gone after de la Mar herself? She sounds like the real culprit.
+
+> Rikki
+
+> Plenty have tried, but she has twenty-four-hour Matrix security provided by GOD itself. You can be assured that as soon as the Court decides she isn’t worth the expense of constant protection, she will be spending the remainder of her suddenly shortened life in hiding, too.
+
+> Perri
+[/spoiler]
+
+[quote]
+[size=14pt][b]百脑汇[/b][/size]
+
+在2071年至2076年间，一群超链者被绑架并拘禁。他们被一个名为亨格斯特的组织进行实验、折磨，并被强迫进行共感心灵链接。亨格斯特将这些研究成果和实验对象转交给了丹妮尔·德·拉·马尔。这一百人创造了形成首批结构层主机的数字造物。研究人员最终复制了这一过程，开发出了用于形成新主机的传输管道程序。2076年4月，德·拉·马尔下令将一些超链者从共感集体中分离出来，以研究他们被移除对原型主机的影响。当第一名成员被断开链接时，一百人同时心跳停止。他们创造的主机，以及随后那些由提取知识创建的主机，在没有他们的情况下继续存在。
+
+[spoiler]
+[size=14pt][b]THE ONE HUNDRED[/b][/size]
+
+A group of technomancers who were kidnapped and held from 2071 to 2076. They were experimented on, tortured, and forced into a gestalt mind-link by a group known as Hengester, who passed the research, with the test subjects, on to Danielle de la Mar. The one hundred were the creators of the digital artifact that formed the first Foundation hosts. Researchers eventually duplicated the process, leading to the transfer circuit program used to form new hosts. In April 2076, de la Mar ordered a few of the technomancers disconnected from the gestalt collective to study the effect of their removal on the original hosts. As the first member was disconnected, the entire one hundred flatlined simultaneously. The hosts they had created, and the ones that followed, made with the extracted knowledge, continued to exist without them.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]意外后果[/b][/size]
+
+那么，这个几乎不被理解的结构层技术在全球范围内的实验结果是什么呢？也就是说，除了广告中所说的“免费”无限处理能力和无限——据称是安全的——存储之外？在过去的七年里，出现了许多新现象。有些现象可以直接追溯到新的矩阵协议；其他的则是随着结构层技术的使用率同步增长。虽然不能直接证明因果关系，但这种相关性是不可否认的。
+
+首先，新的共鸣井和失谐井的出现速度与新结构层主机的创建速度大致相同。随着新发现的井的增加，野生主机的被发现数量也在以同样的速度增加。许多这些野生主机是各种泛智能、电子幽灵和AI的栖息地。这些实体的种类繁多，从热爱和平甚至乐善好施到盲目攻击性和极度恶意都有。其中一些实体是矩阵的新成员，似乎与结构层技术有关。第一个被发现的实体是Null构造体，它们是在矩阵采用新协议三年后的78年被发现的。据推测，他们来自结构深层内部的某个地方，并利用结构层主机作为进入上层矩阵的通道。在Null构造体出现几年后，一种新型的AI也开始出现，我的意思是“浮现”，大写的"E"。这些新型AI自称为“浮现智能”，或“EI”。他们使用共鸣，就像超链者一样，并且据我所知，他们直接从结构深层中汲取能量。
+
+接下来，让我们来谈谈结构层技术的最新问题：主机突然变得不稳定。几个月前，服务于香港圣玛丽医院的主机彻底崩溃了。虽然任何结构层主机都有可能被摧毁，但这种情况并不常见。据报道，问题最初表现为主机内出现类似杂讯的信号丢失。然后，主机开始出现延迟、图标卡顿、部分内容时隐时现。问题出现后，有关小组被派往主机结构层进行调查，但没有发现任何异常。尽管人们试图修复主机，但整个结构在不到一周的时间内就崩溃了，自此不复存在。自那次故障后，又有两台主机以同样的方式崩溃，它们都是MCT的矩阵研究主机。
+
+在前三次故障之后，有报告称又发现了那些宕机主机的早期症状，但进展速度较慢。这种情况先在香港和MCT的网络中出现，然后迅速蔓延到其他主机。有报告称，这些问题现在已不仅仅是一种烦恼，而且这种现象似乎正在以越来越快的速度扩散蔓延。
+
+> 我一直在关注这个问题的发展，并注意到它似乎只影响结构层主机。的确，在现有的框架式系统中似乎都没有这个问题。
+
+> Rikki
+
+> 我们都知道2070年在圣玛丽医院发生了什么，另外两台宕机的主机都有MCT保存其超链者实验结果的数据库。这些可怕的实验包括了对受试者的活体解剖，MCT的研究人员在他们还活着且有意识的情况下研究他们的大脑，试图找出他们的运作机制。如果让我选几个主机烧成灰烬的话，这三个主机一定会名列前茅。
+
+> Respec
+
+> 我听说有一群超链者在共鸣域挖出了一个代号为撕毁者(Discidium)的旧军事武器项目，他们想用这个武器来报复三津滨在过去12年里的所作所为。
+
+> 网猫
+
+> 我见过一份撕毁者的副本，我认为这个状况可能是它造成的。我不知道谁会愚蠢到使用它，也不知道他们是如何获得它的副本的。也许他们在共鸣域找到了一个副本。最初发现它的人——如果我告诉你是从哪里发现的，你肯定不会相信——正在寻找一种可以用来对付Null构造体的武器。最终，他们认为撕毁者过于危险，不能使用，并且据我所知，所有的副本都被销毁了。
+
+> Perri
+
+[spoiler]
+[size=14pt][b]UNINTENDED CONSEQUENCES[/b][/size]
+
+So, what are the results of this worldwide experiment with barely understood Foundation technology? That is, beyond the advertised benefits of “free” unlimited processing power and unlimited—supposedly secure—storage? A lot of new phenomena have appeared over the last seven years. Some are directly traceable back to the new Matrix protocols; others have just increased at the same rate as Foundation-tech usage. The correlation is undeniable, even if it’s not directly provable as causation.
+
+To start, the appearance of new Resonance and Dissonance wells is increasing at about the same rate as the creation of new Foundation hosts. Along with this increase of newly discovered wells, sightings of wild hosts have increased at the same rate over the same time span. Many of these wild hosts are homes for all manner of protosapients, e-ghosts, and AIs. Entities that run the gamut from peaceful, or even benevolent, to mindlessly aggressive and terrifyingly malevolent. Some of these entities are new to the Matrix and seem to be connected to Foundation-tech. The first of these was the Null Sect, discovered in ’78, three years after the adoption of the new Matrix protocols. Speculation was that they came from somewhere inside the Deep Foundation and were using the Foundation hosts as a pathway into the upper Matrix. A few years after the Null Sect appeared, a new type of AI also started to Emerge, and I do mean Emerge, with a capital “E.” These new AIs referred to themselves as Emerged intelligence, or EIs. They use Resonance just like a technomancer, and from what I have heard, they draw their energy straight from the Deep Foundation.
+
+Then we get to the newest problem to crop up with Foundation-tech: sudden host instability. It started a few months ago with the complete collapse of the host serving St. Mary’s Hospital in Hong Kong. While it’s true that any Foundation host can be destroyed, it doesn’t happen like this. According to reports, it started as a noise-like signal loss within the host. Then the host started to lag, iconography stuttered, and sections flickered in and out of existence. When the problems started, teams were sent into the host Foundation to investigate, but found nothing out of place. Despite the attempts to repair the host, the entire structure crumbled into non-existence in less than a week. Since that initial failure, two more have gone down in the same way, both MCT Matrix research hosts.
+
+After the first three failures, there have been reports of the early symptoms found in those downed hosts, but progressing much slower. This started in the Hong Kong and MCT grids, then spread rapidly to other hosts. Reports are that the problems have now become more than an annoyance, and the phenomenon seems to be spreading at an increasing rate.
+
+> I’ve been watching this unfold and have noticed that it only seems to affect Foundation hosts. It’s true that it doesn’t seem to be a problem in any of the framework systems out there.
+
+> Rikki
+
+> We all know what really happened at St. Mary’s Hospital back in 2070, and the other two hosts that went down had databases where MCT kept the results of their technomancer experiments. Gruesome stuff like the vivisections of live subjects with MCT researchers digging through people’s brains while they were alive and conscious, trying to figure out what makes us tick. If I had to pick a few hosts to burn to the ground, those three would top the list.
+
+> Respec
+
+> I’ve heard some stories that a group of technomancers dug up an old military weapon program code-named Discidium in the Resonance Realms, and they are using it to dish out some payback to Mitsuhama for what they’ve done over the last twelve years.
+
+> Netcat
+
+> I’ve seen a copy of the Discidium and I think it could be causing this. What I don’t know is who would be foolish enough to use it, or how they acquired a copy of it. Maybe they located a copy in the Realms. The runners who originally found it—and you wouldn’t believe me if I told you from where—were searching for a weapon to use against the Null Sect. Eventually it was decided that the Discidium was too dangerous to use, and all of the copies were destroyed—as far as I know.
+
+> Perri
+[/spoiler]
+
+---
+
+[size=14pt][b]未来即是过去[/b][/size]
+
+面对这些问题，结构层技术的未来将何去何从？虽然这些问题确实让许多主机所有者对这项技术感到不满，但在过去的七年里，已经有数万亿新元的资金投入到这项技术中，除非发生重大变故，否则结构层技术将继续存在下去。最大的用户将继续尝试修补安全问题并减少其他危险。例如，MCT一直在努力遏制或引导Null构造体的威胁，这已经是众所周知的秘密。
+
+结构层主机的唯一真正替代品是框架式主机。框架式主机基于较老的技术，不与结构深层连接，因此可以避免大部分问题。它们也没有结构层档案，但最新版本已经可以很好地复制结构层档案。缺点是，框架式系统耗电量很大，虽然初始成本对某些主机来说可能较低，但每年的运营成本会把节省下来的费用消耗殆尽。一些公司已经在改造为混合结构，以同时利用两种类型主机的最佳特性。具有高性能、面向公众的大型结构层主机仍然保留，而敏感数据和操作则转移到嵌套在结构层主机内部的更小、更安全的框架式主机上。
+
+[spoiler]
+[size=14pt][b]THE FUTURE IS THE PAST[/b][/size]
+
+With all these problems, where does the future of Foundation-tech go from here? While it’s true the problems have left many host owners unhappy with the technology, trillions of nuyen have been invested in it over the last seven years, and unless something drastic happens, Foundation-tech is here to stay. The largest users will continue trying to patch the security issues and mitigate the other dangers. For example, it’s an open secret that MCT has been working to contain or redirect the threat of the Null Sect.
+
+The only other real alternative to Foundation hosts are Framework hosts. Based on an older technology, they do not connect to the Deep Foundation, so they avoid most of the problems. They also don’t have a Foundation archive, but the newest versions do a fairly good job of duplicating it. On the downside, Frameworks use a lot of power, and while the initial cost may be lower for some hosts, the yearly operating cost can eat that savings up. Some corporations are already retrofitting to a hybrid structure that takes advantage of the best features of both types. The large public-facing Foundation host with a high resolution remains in place, while sensitive data and operations are moved to smaller, more secure Framework hosts nested inside the Foundation host.
+[/spoiler]
+
+---
+
+[size=14pt][b]什么是结构层技术？[/b][/size]
+
+尽管有很多理由让我们放弃使用它，但结构层技术仍然是目前最主要的矩阵技术，而且可能在可预见的未来也会如此。那么，它究竟是什么，又是如何运作的呢？要回答这些问题并不容易，因为根据经典物理学原理，结构层主机是不可能存在的。任何曾经研究过德·拉·马尔在2074年提出的新矩阵协议提案并愿意诚实回答的人都会告诉你，这纯属无稽之谈。但不知何故，它却行得通。在过去的七年里，它已经成为了现实，所以很明显，这里面一定有什么事情发生了——只是与法庭和GOD告诉大家的并不相同。
+
+那么，结构层技术背后的真实故事是什么？是否有一些超出我们物理学理解的东西，比如魔法？所有人都同意，结构层技术——以及关于超链者和共鸣的一切——并不是魔法。尽管如此，它确实具有某些相同的特性，因此可能是某种平行的力量。有一些研究人员正在对其进行深入研究，试图将结构层技术与其他不应存在的事物联系起来。目前还没有人公开进行这些研究，因为当权者不希望存在任何与“官方”版本的无设备矩阵相抵触的东西，但如果你知道找谁问，就可以找到答案。
+
+关于结构层技术运作方式的主要解释(至少是有意义的解释)是来自Nexus和奇瓦网合作开发的新的通用信息理论的一部分，该理论被称为UnITy(Universal Information Theory)。我不会详细解释，主要是因为我自己也不完全理解全部内容，如果你想了解整个理论，可以点击这个[color=brown]>链接<[/color]。但如果你只想了解与结构层技术相关的基本概念，这里是我所理解的内容。
+
+首先，让我们介绍一些最基本的基础知识。根据UnITy的理论，所有的信息传输和存储都会产生二次能量或粒子场。该理论用希腊词nous(意为“心智”)来形容这种能量。这种能量形成了目前的科学手段无法探测或计量的心智粒子场，但超链者的头脑对它们非常敏感。我认为这与法师对法力的敏感类似；他们可以利用这种能量作为媒介，与现实世界的数据进行交互。共鸣和失谐可以被认为是这种能量的相反“两极”，分别与其增长和衰退相对应。这些心智粒子场结构覆盖并镜像了现实世界的数据结构，创建出一个被称为心智层的矩阵镜像。超链者可以操纵心智层内的心智粒子场，就像法师在星界中操纵法力一样。这个行为会改变心智层的结构，并在现实世界的数据中产生镜像变化。
+
+因此，对于结构层主机：心智层覆盖了整个矩阵，不仅代表了它的当前状态，还包括了其所有历史状态的总和，因为信息将更新并移动旧有的心智结构至结构深层并最终进入共鸣域。这代表了巨大的，被表达为“心智能”的能量储备，而这通常是无法获取的。结构层主机是通过在结构深层中插入一个传输管道(Hengester在百脑汇实验中开发的数字造物)来创建的。这形成了一个人造的共鸣/失谐井，带来了来自结构深层的能量。人工井内的力相互抵消，但它产生了一个空隙，在那里主机的壳将沿着预先设置的模式生成，就像珍珠围绕着牡蛎内的一粒沙子生成那样。这个传输管道将引导这种增长并成为空节点，构建主机结构层的其余部分，最终形成主机的构架。它将被永久留存在主机结构层中，从结构深层中汲取并为上层主机提供能量。
+
+> 这是一种荒谬的过度简化，但我想实际上并没有什么不正确的。
+
+> Perri
+
+> 所以，如果传输管道"程序"创造了一个人工共鸣/失谐井来建造一个结构层壳，这似乎就是新的共鸣与失谐井以及新的野生主机的成因。这就说得通了。
+
+> Rikki
+
+> 我们不能完全肯定，但正如/dev/grrl早些时候指出的那样，越来越多地使用传输管道来创建结构层壳与越来越多地出现新的共鸣/失谐井和新的野生主机之间存在关联。
+
+> Perri
+
+[spoiler]
+[size=14pt][b]WHAT IS FOUNDATION-TECH?[/b][/size]
+
+Even though there are numerous reasons to quit using it, Foundation-tech is still the dominant Matrix technology out there, and probably will be for the foreseeable future. But what exactly is it, and how does it work? Well, those are not easy questions to answer, since according to classical physics, a Foundation host shouldn’t be possible. Anyone who has ever studied de la Mar’s 2074 proposal outlining the new Matrix protocols and is willing to be honest will tell you it’s nonsense. But somehow it works. It’s been a reality for the last seven years, so obviously something is going on—just not what the Court and GOD are telling everyone.
+
+So, what’s the real story behind Foundation-tech? Something beyond our understanding of physics, something like magic? Everyone agrees that the Foundation—and by extension, everything else about technomancers and Resonance—is not magic. It has some of the same properties, though, so it may be some type of parallel force. There are a few researchers digging into it, trying to tie the Foundation together with the rest of what shouldn’t work. No one is doing it publicly at the moment, since the powers that be don’t want anything that contradicts the “official” version of the deviceless Matrix, but it’s out there if you know who to ask. 
+
+The leading explanation for how the Foundation works (that makes sense, anyway) is part of the new universal information theory, called UnITy, that’s coming out of a partnership between the Nexus and KivaNet. I won’t get into the details, mainly because I don’t exactly understand all of it myself, so if you want to see the whole theory, follow this >link<. But if you just want a rundown of the basics that relate to Foundation-tech, here it is, as I understand it.
+
+First, let’s cover some of the basic basics. According to UnITy, all information transmission and storage create a secondary energy or particle field. The theory uses the Greek word nous (meaning “intellect”) for this energy. This energy forms into nous-particle fields that can’t be detected or measured with current scientific tools, but the minds of technomancers are sensitive to them. I believe it’s similar to the way mages are sensitive to mana; they can use this energy as a medium to interact with real-world data. Resonance and Dissonance can be thought of as the opposite “poles” of this energy, aligned to growth and decay respectively. These nous-particle field constructs overlay and mirror the data structures of the real world, creating a mirror of the Matrix called the noosphere. Technomancers can manipulate the nous-particle fields within the noosphere much like a mage manipulates mana in the astral. This changes the structures of the noosphere and creates mirrored changes in real-world data.
+
+So, regarding Foundation hosts: the noosphere overlays the entire Matrix and represents not just its current state, but the sum of all historic states as information updates and moves the older nous structures into the Deep Foundation and eventually into the Resonance Realms. This represents enormous reserves of energy, expressed as “nous” and not normally accessible. Foundation hosts are created by inserting a transfer circuit (a digital artifact developed by Hengester from experiments on the one hundred) into the Deep Foundation. This forms an artificial Resonance/Dissonance well, bringing up energy from the Deep Foundation. Forces within the artificial well cancel each other out, but it creates a void where the host shell forms along a set pattern, much like pearls form around a grain of sand inside an oyster. The transfer circuit guides this growth and becomes the null node, building out the rest of the host Foundation and eventually forming the host scaffolding. It stays in place permanently within the host Foundation, drawing energy from the Deep Foundation to power the upper host.
+
+> That is a ridiculous over-simplification, but I guess there is nothing actually incorrect about it.
+
+> Perri
+
+> So—if the transfer circuit “program” creates an artificial Resonance/Dissonance well to build a Foundation shell, it seems like that could be the cause of the new Resonance and Dissonance wells and the new wild hosts. That would make a lot of sense.
+
+> Rikki
+
+> We can’t say that with certainty, but as /dev/grrl pointed out earlier, there is a correlation between the increased use of the transfer circuit to create Foundation shells and the increasing appearance of new Resonance/Dissonance wells and new wild hosts.
+
+> Perri
+[/spoiler]
+
+理论中没有明确说明，但我可以推断出一些其他的东西。由于传输管道直接连接着主机结构层和结构深层，因此形成了结构深层和上层矩阵之间的旅行通道——这条通道将矩阵开放给了任何可能存在于结构深层的东西。当然，我指的是Null构造体，但我想这也可能是新的浮现AI(确切地说是EI)的来源。
+
+> 既然所有的空节点都直接连接到结构深层，那么有没有可能在没有锚点的情况下通过结构深层直接从一个主机结构层移动到另一个主机结构层？这就是Null构造体在主机之间移动的方式吗？
+
+> Sim-Eon
+
+> 这是可能的，但很难实现。至于Null构造体是如何在矩阵中移动的，你的猜测和我的一样。
+
+> Perri
+
+> 所以，我知道所有的主机结构层都是通过结构深层相互连接的，但它是如何连接到真正的矩阵上的呢？如果结构深层是共鸣域的一部分，那么碟客该怎么访问它呢？
+
+> Sim-Eon
+
+> 要理解这一点，关键在于将心智层想象成分层的。一切都始于顶层，包括现实世界设备中的数据和所有输入到结构层主机的数据，因为这些输入都来自物理世界。这是大多数人与之交互的一层。在这一层下方与之平行的是一个由心智粒子场组成的副本，类似于星界与现实世界的交汇。这就是超链者与之互动的层面。当相互交织的心智粒子场发生变化时，现实世界的数据也会随之改变。当数据发生变化时，就会创建一个新的场。
+
+  在这孪生双层的正下方是结构深层，有人称之为倒影池。这是共鸣域和物理世界交汇的边界层。虽然它既有共鸣域和主机结构层的某些特性，但它作为整个矩阵的的结构层运作。这也是结构层技术主机所接入的层面。矩阵中所有数据的心智能都积聚在这里，当传输管道插入其中时，管道就会抽走部分能量，为结构层主机提供动力。
+    
+  虽然深潜超链者可以通过视界线直接进入倒影池，但非超链者也可以像访问主机结构层一样访问它。非浮现者的碟客可以通过主机的空节点，或在矩阵中的任何地方，通过搜索与主机结构层入口类似的入口，就能进入倒影池。
+
+  倒影池本身的运作方式与主机结构层类似，但其预设范式更像共鸣域。它始终是现实世界的一个不完美副本，充满了进入者记忆中的人们。他们中的大多数都是结构层范式的组成部分，但当你仔细观察时，就会发现其中少数是结构深层的居民——迷途网精、AI、电子幽灵、泛智能，甚至是像Null构造体这样的超智能。
+  
+  在结构深层的边界层下是真正的共鸣域，非浮现者通常无法访问。最接近的共鸣域是真实世界的映像，但随着你逐步深入，它们会变得更加抽象和陌生。
+
+> Perri
+
+[spoiler]
+
+It’s not spelled out explicitly in the theory, but I can infer something else. Since the transfer circuit connects a host Foundation directly to the Deep Foundation, it forms a pathway for travel between the Deep Foundation and the upper Matrix—a pathway that opens the Matrix to anything that may be residing in the Deep Foundation. Of course, I’m talking about the Null Sect, but I suppose this may also be the source of the new emergent AIs, rather EIs.
+
+> Since all null nodes connect directly to the Deep Foundation, is it possible to move directly from one host Foundation to another through the Deep Foundation without an anchor? Is this how the Null Sect is moving between hosts?
+
+> Sim-Eon
+
+> That’s possible, but it’s a hard trick to pull off. And as far as how the Nulls move around the Matrix, your guess is as good as mine.
+
+> Perri
+
+> So, I get that all the host Foundations are connected to each other through the Deep Foundation, but how does it connect to the actual Matrix? And if the Deep Foundation is part of the Resonance Realms, how do deckers have any access to it?
+
+> Sim-Eon
+
+> The key to understanding it is to think of the noosphere in layers. Everything starts in the top layer, which includes the data in real-world devices and all the data entered into Foundation hosts, since that input is from the physical world. This is the layer that most people interact with. Running parallel beneath this is an exact copy composed of nous-particle fields, similar to how the astral and the real world intersect. This is the layer technomancers interact with. The real-world data changes when the intertwined nous-particle field is altered. When the data changes, a new field is created.
+
+  Directly under these two twinned layers is the Deep Foundation, which some call the Reflecting Pool. This is a boundary layer where the Resonance Realms and physical world meet. While it has some aspects of both a Resonance Realm and a host Foundation, it functions as the base of the entire Matrix. This is the layer that Foundation-tech hosts tap into. Nous energy from all the data in the Matrix accumulates here, and when a transfer circuit is inserted into it, the circuit siphons off some of that energy to power the Foundation host.
+  
+  While a submerged technomancer can use the Event Horizon to get directly to the Reflecting Pool, it’s also accessible to non-technomancers just like a host Foundation. A non-Emerged decker can get to it through a host’s null node or even just by searching for a portal similar to a host’s Foundation portal, from just about anywhere in the Matrix.
+  
+  The Reflecting Pool itself operates like a host Foundation, but has a preset paradigm more like a Resonance Realm. It is always represented as an imperfect copy of the real world, populated by people from the memory of whoever enters. Most of them will be Foundation paradigm constructs, but when you take a closer look, a few will be revealed as the residents of the Deep Foundation—wild sprites, AIs, e-ghosts, protosapients, and even xenosapients like the Null Sect.
+  
+  Under the boundary layer of the Deep Foundation are the true Resonance Realms, still normally inaccessible to the nonEmerged. The closest Realms are reflections of the real world, but as you move deeper into them, they become more abstract and alien.
+
+> Perri
+[/spoiler]
+
+---
+
+[size=12pt][b]深入主机结构层[/b][/size]
+
+我们已经花了七年时间研究如何在主机结构层中工作，虽然它仍然很危险，但只要你足够聪明且小心，危险是可控的。大多数经验丰富的黑客现在已经至少进行过几次主机结构层狂奔了——或者称之为深层狂奔，但对于那些还没有这种经历的黑客，我将概述一下你可能会遇到的情况。
+
+为了进入主机结构层，你需要对你的设备进行一些改装。前提是，如果你有设备的话；超链者们本身就可以进入，并且如果他们能模拟顺风车程序的话，他们的朋友也可以随之进入。而在结构层内工作的碟客则需要尽可能宽的热模管道，并以类似REM睡眠的PGO波格式发送信号。标准规格的赛博碟板无法处理这种类型的感官信号。它需要一个改装到符合这些规格的拟感接口[color=brown]>链接<[/color]。接下来，一旦你的装备准备就绪，你就需要找到主机的传送门节点。那是进入结构层的通道。传送门总是会被塑模成门廊、闸门或某种入口。我不知道为什么会这样，但我听说过的所有传送门都是这样。检查图标会告诉你确切的情况，但你也可以通过守卫它的IC来判断，因为传送门几乎总是受到严密保护。开启它只需要一个简单的指令，但首先你需要获得传送门本身的管理员权限，这与主机有所区分。
+
+一旦你穿过传送门，就会发生几件事。首先，你会与矩阵的其他部分切断联系，可能需要过一段时间才能找到回去的路。从好的方面看，切断连接也意味着你在结构层内时不会增加你的监视指数，但也不要太激动——结构层也有自己的防御系统。其次，你会生成一个结构层化身，这个化身形象可能完全不同于你常规的矩阵图标。这个化身形象是你现实世界身体的潜意识诠释，装备与你记忆中的相同。与现实的一个区别是你有多强壮、多快、多坚韧。这取决于你的碟板配置(或活体化身)。例如，攻击性配置决定了你的化身有多强壮。顺便说一句，进入结构层后，你就无法更改你的碟板配置了，所以在进入结构层前要做好选择。
+
+结构层内热模信号犹如梦境，超越现实的体验类似于BTL芯片或UV主机。这种体验会让人上瘾，甚至产生危险，但最危险的通常是你带进去的东西。主机结构层的原始感官馈送有太多泛人大脑无法理解的数据。它必须在潜意识中进行处理，形成可理解的形式，然后才会进入有意识的心灵。
+
+这种过程创造了所谓的范式。它是从潜意识中抽象出来的梦境状态，可以是任何你能想象到的东西。想象你做过的最疯狂的幻梦或最可怕的噩梦，它们都在范式的可能范围之内。每次进入主机结构层，无论是对新结构层的第一次访问还是对相同结构层的另一次访问，它都会有所不同。范式是由第一个进入者的心灵设定的，任何随后的人，无论是通过顺风车程序还是自行进入，都将共享相同的范式。这就像处于共享的梦境或幻觉中，直到所有人离开之前，这种范式都将保持不变。但有一个例外情况，那就是使用锚点，这是一种特定于每个结构层的即时编写的代码结构，它能将范式固定下来。更重要的是，它可以作为后门，让你可以从另一个锚点回到主机结构层，而无需通过上层主机。
+
+进入后，所有主机结构层都有相同的结构。总是有七个部分或节点，以相同的配置排列并具有相同的连接方式。由于你进入的节点是随机的，所以有时你很难弄清楚自己实际上处于结构层的哪个部分，直到你走了一圈之后才能明白。对于主机来说，无论它们在特定范式中是什么样子，每个节点都有其特定的功能。诀窍在于发现该范式对特定功能使用的隐喻。一旦你弄明白了，节点的功能和它的外在表现之间总会存在某种关联，但那种梦境逻辑可能极其难以理解。
+
+另一个线索是：总会存在数据轨迹，表现为某种用于来回移动、连接各个节点的构造物。数据轨迹的梦境隐喻通常比其他范式更明显一些；它们可以是电缆、走廊、管道、小路径或传送带。数据轨迹的处理也很棘手。大多数时候，它们是稳定的双向通道，但有时也会切换为单向通道，而且不一定是你想要的方向。节点之间也会随机出现临时的数据轨迹，这些轨迹超出了稳定的数据轨迹的正常模式。
+
+我将按照连接的顺序介绍每个节点，从传送门节点开始。这是你返回主机的出口，但不一定是你进入结构层的地方，因为那总是随机的。而且你不能从结构层中弹出，你只能从传送门节点安全地离开结构层。如果你想离开结构层，这里也是你创建锚点的地方。在这里找到的数据轨迹通常会通向档案节点和空节点。返回现实世界的真正的传送门节点就在这里，但并不总是像进入的通道那么明显，可能要花些功夫才能找到它。
+
+紧挨着传送门的是档案节点。所有通常无法访问的文件都存储在这个节点上，因此这个节点是最常见的深层狂奔目标。通常会有四条数据轨迹通向档案：一条回到传送门，另外三条分别通向主机操作节点：安保、设备和构架。
+
+三个密切相关的节点负责维护和控制上层主机。安保节点负责控制主机的IC。设备节点负责维护主机与其LAN或WAN中所有设备的连接。构架节点控制主机结构本身。每个节点通常有四条数据轨迹。一条通向档案节点，两条通向另外两个主机操作节点，一条通向主控节点。
+
+控制主机结构层本身的节点是主控节点。在这里，你可以改变范式，让它忘记你(比如取消警报)，甚至摧毁主机。主控节点有四条数据轨迹通向外部：三条通向操作节点(安保、设备和构架)，一条通向空节点。
+
+黑客们对空节点的真正功能仍无定论，但许多人认为它是主机的动力源。有一点可以肯定的是，空节点通常包含给定范式最危险的表现形式。它还包含一个直接通往结构深层的隐藏入口，并且和其他结构层入口一样难以找到。在这里发现的两条数据轨迹分别通向传送门和主控。
+
+[spoiler]
+[size=12pt][b]INSIDE THE HOST FOUNDATION[/b][/size]
+
+We’ve had seven years to figure out how to work with host Foundations, and while it’s still dangerous, the danger can be managed, if you’re smart and careful. Most experienced hackers have taken at least a few host Foundation runs—or deep runs—by now, but for those who still haven’t, I’ll run down what you can expect.
+
+To get into a host Foundation, you need to make some modifications to your gear. That is, if you have gear; technomancers are good to go as they are, and their friends too, if they can emulate the hitchhiker program. Deckers operating inside the Foundation need the widest hot-sim pipe possible, with the signal sent in a PGO wave format like REM sleep. Standard cyberdecks can’t handle that type of sensory feed. It takes a sim interface modified to these specs >link<. Next, once you have your gear in order, you need to find the host’s portal. That’s the way into its Foundation. The portal will always be sculpted as a doorway, gate, or entryway of some type. I don’t know why that is, but it’s been true for every portal I’ve ever heard about. Examining the icon will tell you what it is for sure, but you can also tell it’s the right spot by the IC guarding it, as portals will almost always be heavily defended. Opening it only takes a simple command, but first you’ll need to get admin access on the portal itself, separate from the host.
+
+Once you move through the portal, a few things happen. First, you’re cut off from the rest of the Matrix, and it may be a while before you can find a way back out. On the upside, being cut off also means that you don’t increase your Overwatch Score while you are in the Foundation, but don’t get too excited—the Foundation has its own defenses. Second, you generate a Foundation avatar that may be totally unlike your regular Matrix icon. Avatars are a subconscious interpretation of your real-world body with equipment equal to what you remember carrying. One difference from reality is how strong, fast, and tough you are. This is a function of your deck settings (or living persona). For example, the Attack setting determines how strong your avatar is. And by the way, you can’t change your deck’s settings after you enter the Foundation, so make good choices before you go in.
+
+The hot-sim signal inside the Foundation is dreamlike and hyper-realistic, an experience like a BTL chip or a UV host. That can be addictive and even dangerous on its own, but the most dangerous thing is usually what you take in there with you. The raw sensory feed of a host Foundation has too much data for the metahuman mind to make sense of. It has to be processed in the subconscious, shaped into an understandable form before it moves into the conscious mind.
+
+This process creates something called the paradigm. It’s a dream state drawn from the subconscious, and it can be literally anything imaginable. Take the wildest dream or worst nightmare you’ve ever had, and it’s within the possibilities of the paradigm. It will be different each time a host Foundation is entered, either a new one or the same Foundation at another time. A paradigm is set by the first mind that enters, and anyone following, either with a hitchhiker program or on their own, will share the same paradigm. It’s like being in a shared dream or hallucination, and it stays set in place until everyone has left. An exception to this is by using an anchor, a written-on-the-fly code construct specific to each Foundation that holds the paradigm in place. More importantly, it functions as a back door, letting you come back into a host Foundation from another anchor without going through the upper host.
+
+All host Foundations have the same structures once you get in. There are always seven sections, or nodes, arranged in the same configuration and with the same connections between them. Since you enter at a random node, sometimes it’s hard to figure out what part of the Foundation you are actually in until you move around some. Each node has its own set function for the host, regardless of what they look like in a particular paradigm. The trick is discovering what metaphor the paradigm is using for a particular function. Once you figure it out, there will always be some type of association between what a node does and what it expresses as, but that dream logic may be extremely difficult to understand.
+
+One other clue: there will always be data trails, appearing as some construct for moving something back and forth, connecting the nodes. The dream metaphor for data trails is usually a little more obvious than the rest of the paradigm; they could be cables, hallways, pipes, trails, or conveyors. The data trails can be tricky to work with, too. Most of the time they are stable and two-way, but occasionally, they will switch to one-way, and not always the way you want to go. Temporary trails can also randomly appear between nodes that are outside of the normal pattern of the stable data-trails.
+
+I’ll go over each node in the order they’re connected, starting with the Portal node. This is your exit point back to the host, but not necessarily where you enter the Foundation, since that’s always random. And you can’t just jack out of a Foundation; you can only exit it safely from a Portal. This is also where you will build an anchor if you want to leave one. The data trails you find here will usually lead to the Archive and the Null node. The actual Portal opening back to reality will be here, but it isn’t always as obvious as the way in, and it may take some work to find it.
+
+Next to the Portal is the Archive. This node is where all the normally inaccessible files are stored, and that makes this node the most common target of deep runs. There will usually be four data trails leading out of the Archive: one back to the Portal, and one to each of the host operation nodes: Security, Device, and Scaffolding.
+
+Three closely associated nodes maintain and control the upper host. The Security node has control of the host’s IC. The Device node maintains the connections to all devices in the host’s LAN or WAN. The Scaffolding node controls the host structure itself. Each of these nodes normally has four data trails. One to the Archive, two that lead to the other two host operation nodes, and one that leads to the Primary Control.
+
+The node that controls the host Foundation itself is the Primary Control. From here, you can alter the paradigm, make it forget you (as in cancel an alert), or even destroy the host. There are four data trails leading out of the Primary Control node: three to the operation nodes (Security, Device, and Scaffolding) and one to the Null node.
+
+Some hackers are still undecided about the true function of the Null node, but many believe it’s the power source for the host. One thing that’s known for certain is that the Null node usually contains the most dangerous expression of a given paradigm. It also contains a hidden portal leading directly to the Deep Foundation, and it can be as difficult to find as any other Foundation portal. The two data trails found here lead to the Portal and to the Primary Control.
+[/spoiler]
+
+---
+
+[size=12pt][b]驾驭范式[/b][/size]
+
+你可能会认为这些都是废话，听起来一切都很简单，但危险的部分在于范式本身。范式是完成结构层中任务的关键，但它也是能杀死你的东西，当然，作为一个梦境，事情不会永远完全按照你的预期进行。你的潜意识在解释来自主机结构层的数据，将其组织成勉强可以理解的梦境，但这也是向结构层发出指令的方法。常规指令不起作用，它必须以结构层能理解的形式发出，这就意味着必须符合范式。无论现实的表现形式是什么，你都要跟从。如果范式表现为一个巨大的图书馆，那就保持安静，不要大声喧哗。如果是海底王国，就假装自己是个美人鱼。如果是十八世纪的盛大舞会，那你最好一直跳舞。
+
+你越快理解范式，就越有可能活着离开结构层。与范式不符的行为方式会产生与结构层期望不符的偏差，而偏差越大，结构层就越早察觉到异常。违背范式的行动或尝试执行它不期望的指令最终都会让结构层拉响警报。把它想象成某种合围，但不是GOD，而是结构层的主控节点在监视你。一旦警报响起，结构层将开始消除偏差和任何不属于那里的东西。这意味着你，伙计。结构层中的一切都会开始试图杀死你——不仅仅是范式中的“居民”，环境本身也会成为威胁。柱子和墙壁会倒塌，试图压碎你，雷电会从突然下起暴风雨的天空中落下，地震会在你脚下打开锯齿状的裂缝。
+
+那么你要如何搞清楚这一切？你怎么知道范式的期望是什么？事实上，你自己的潜意识才是关键。意图和专注也很重要。按照你认为符合范式的方式行事，让你的潜意识去做好工作。骇入结构层仍然是骇入，只是通过范式转换意图而已。你可能在爬墙，殴打酒保，或驾驶快艇，但你的注意力必须集中在你想要完成的事情上。你的思维会从你的黑客技能中获取灵感，并将范式中的行动作为隐喻。在上面的图书馆例子中，向图书管理员询问一本书实际上就是在进行矩阵搜索；浏览书架上的书相当于详细查看矩阵图标。翻阅书页并写下笔记就等同于复制文件。
+
+还有一点要记住，我们在结构层中对时间的感知与现实世界中的时间流速不同。在梦境中，行走数英里可能只是眨眼间的事，而搜索一个房间可能感觉花费了几个小时。而实际上，从结构层外部看，整个深层狂奔可能只持续了几分钟，甚至可能只有几秒钟。
+
+> 幸运的是，在我有限的经验中，范式通常很容易理解。比如，我曾经遇到过的一个范式是对55年芝加哥虫精魂爆发的惨烈重现。天啊，我们甚至醒在了瑟马克爆炸区域，就在核弹爆炸几小时后。我们的化身是一群试图求生的街头孩童，甚至因为辐射而患上了疾病。
+
+  范式本身很简单易懂。表现得像幸存者，躲避虫子，寻找避难所，并且一直担惊受怕。识别节点才是困难的部分。不用说，这并不是一次有趣的深层狂奔。尤其是对于小时候在芝加哥经历过这一切的队友来说。
+
+> Sim-Eon
+
+[color=green](译注：瑟马克发电站是芝加哥隔离区中的核弹原爆点)[/color]
+
+[spoiler]
+[size=12pt][b]WORKING WITH THE PARADIGM[/b][/size]
+
+You may be thinking this is all null sheen, that it all sounds easy enough, but the dangerous part is the paradigm itself. It’s the key to getting things done in a Foundation, but it’s also what can kill you, and of course as a dreamscape, things never seem to work exactly as you expect. Your subconscious is interpreting the data from the host Foundation, organizing it into a barely understandable dreamscape, but it is also the method for issuing commands back to the Foundation. Regular commands don’t work; it must be in a form the Foundation understands, and that means conforming to the paradigm. You go along with whatever the representation of reality is. If it’s expressed as a giant library, stay quiet and don’t raise your voice. If it’s an undersea kingdom, pretend you’re a mermaid. If it’s an eighteenth-century grand ball, you’d better keep dancing.
+
+The faster you figure out the paradigm, the more likely it is that you will get out of the Foundation alive. Acting in a way that does not fit with the paradigm will create a variance from what the Foundation expects. The greater the variance, the faster the Foundation will realize that something is wrong. Acting against how the paradigm plays things out or trying to run commands it doesn’t expect will eventually send the Foundation into alert. Think of it as being a little like convergence, but instead of GOD, it’s the Foundation’s Primary Control node watching you. Once it’s alerted, it will start trying to eliminate the variance and anything that doesn’t belong there. That means you, chummer. Literally everything in the Foundation will start trying to kill you—that includes not just the “residents” of the paradigm, but the environment itself. Columns and walls will topple over attempting to crush you, lightning bolts may shoot down from suddenly stormy skies, and earthquakes can open jagged chasms under your feet.
+
+So how do you figure it all out? How do you know what the paradigm expects? The truth is, your own subconscious is the key. Intent and focus are important, too. Act however you think you’ll fit in with the paradigm and let your subconscious mind do the work. Hacking the Foundation is still hacking; the intent is just translated through the paradigm. You may be climbing a wall, punching a bartender, or piloting a speedboat, but your focus needs to be on what you want to accomplish. Your mind will draw on your hacking skills and use the actions within the paradigm as a metaphor. In the library example above, asking the librarian about a book is actually running a Matrix search; looking through the books on the shelves is the same as examining a Matrix icon in detail. Flipping through the pages of a book and writing down notes is the same as copying a file.
+
+One more thing to keep in mind is that our perception of time in the Foundation does not flow at the same speed as it does in the real world. It’s dreamtime, so walking miles may happen in the blink of an eye, or searching a room may feel like it takes hours. In reality, an entire deep run will probably only last a few minutes, or maybe even just seconds, when measured from outside the Foundation.
+
+> Fortunately, in my limited experience, the paradigms are often easy to understand. For instance, one I faced was a gruesome recreation of Chicago, just after the insect spirit outbreak of ’55. Hell, we even woke up next to the Cermak blast zone, a few hours after the nuclear bomb detonated. Our avatars, a bunch of street kids trying to survive, were even sick from the radiation. 
+
+  The paradigm itself was simple to understand. Act like survivors, dodge the bugs, seek shelter, and be scared all the time. Identifying what the nodes were was the difficult part. Needless to say, it was not a fun deep run. Especially for the teammate who went through all of this in Chicago as a child.
+
+> Sim-Eon
+[/spoiler]
+
+---
+
+[size=12pt][b]顺风客[/b][/size]
+
+曾几何时，顺风车程序只是一个公司培训工具，一种通过赛博碟板分享拟感馈送和向新用户展示矩阵的方法。在黑客们开始了解结构层技术的秘密之后，它很快就变得不简单了。任何拥有真实思维的人，包括AI或泛智慧种族(但不包括代理)，进入结构层后都会生成自己的化身。他们不会像主要用户那样强大，也没有高超的黑客技术，但有一些额外的帮助来理解范式，甚至只是有人在背后照看你，就足以让你跨过惨死与成功之间的巨大差异。
+
+有时候，骇入技能并不那么重要。有时候你可以诱使结构层按你的意愿行事。我见过没有骇入技能的顺风客仅凭意图、专注、自信，以及比结构层本身更多的对特定范式的深入了解，就完成了看似不可能的任务。
+
+[spoiler]
+[size=12pt][b]Hitchhikers[/b][/size]
+
+At one time, the hitchhiker program was just a corporate training tool, a way to share the sim feed from a cyberdeck and show a new user around the Matrix. After hackers started to learn the secrets of Foundation-tech, it quickly became something more. Anyone with an actual mind, including an AI or metasapient (but not agents), who enters a Foundation will generate their own Foundation avatar. They won’t be as powerful as the primary user, and they may not have great hacking skills, but having some extra help figuring out the paradigm or even just someone to watch your back can make the difference between success and a gruesome death.
+
+And sometimes, hacking skills are not even that important. Sometimes you can trick the Foundation into doing what you want. I have seen hitchhikers with no hacking skills accomplish the impossible with just intent, focus, confidence, and more knowledge about a particular paradigm than the Foundation itself has.
+[/spoiler]
+
+[quote]
+[size=14pt][b]新赛博程序：顺风车[/b][/size]
+
+该程序允许数量相当于2x赛博碟板设备等级的乘客在矩阵狂奔时同行，包括前往结构层和共鸣域(详见第156页)。这些乘客共享碟板的拟感输出，并且容易受到甩致休克和攻击。他们对碟板没有任何控制权，也无法对碟客的动作施加影响。
+
+[spoiler]
+[size=14pt][b]NEW HACKING PROGRAM: HITCHHIKER[/b][/size]
+
+This program allows a number of passengers equal to 2 x the cyberdeck’s device rating to travel along on a Matrix run, including to the Foundations and Resonance Realms (see p. 156 for more details). These passengers share the sim output of the deck and are vulnerable to dumpshock and attacks. They do not have any control over the deck or any effect on actions that the decker takes.
+[/spoiler]
+[/quote]
+
+---
+
+[size=14pt][b]关于魔法的笔记[/b][/size]
+
+关于“顺风客”的话题：魔法在结构层中不起作用，哪怕是以魔法为主题的范式。大多数范式都允许使用类似法术的东西，尤其是战斗法术，但任何一个真正的法师，只要他能生成一个结构层化身，都会告诉你，这就像在演戏——只是走个过场，施个咒语或做个仪式而已。当然，精魂是无法进入结构层的。任何看起来像精魂的东西都是结构层的构造体。
+
+[spoiler]
+[size=14pt][b]A NOTE ABOUT MAGIC[/b][/size]
+
+On the topic of hitchhikers: magic does not work in the Foundation, even if it’s a paradigm with a magical theme. Most paradigms allow for something that acts like magic, especially combat magic, but any real mage along for the ride and generating a Foundation avatar will tell you that it’s like play acting—just going through the motions of casting a spell or working a ritual. And of course, there is no way for spirits to get into the Foundation. Anything that looks like a spirit will be a Foundation construct.
+[/spoiler]
+
+---
+
+[size=14pt][b]NEXUS协议开发动态[/b][/size]
+
+另一个与结构层中的顺风客有关的项目是丹佛数据港推出的新程序，它很快就被称为“Nexus协议”。该程序需要大量的处理能力，对于赛博碟板来说实在是太多了。它必须在一块专用于该程序的砖上运行——一块用于甲板，另一块用于每个顺风客。超链者也可以使用它，但仅限于顺风客。该程序将热模信号升级为实际的UV类型格式，并消除了结构层的一些梦幻色彩，使范式与现实无异。使用Nexus协议进行的操作更加逼真，而且不依赖编程知识。程序将现实世界中的技能转化为结构层能理解的指令。无论你的现实能力是什么，你的结构层化身都能做到。当然，黑客仍然可以通过潜意识操纵范式背后的代码来打破规则。
+
+> 只是想让大家知道，这不是你可以在当地黑客商店买到的商业程序。也不是我们在Nexus编写的它。它是在某种特殊情况下获得的。我想说的是，我不能保证它对你的工作有多大的作用，所以……就把它当作是处于测试阶段吧。
+
+> Perri
+
+[spoiler]
+[size=14pt][b]THE NEXUS PROTOCOL DEVELOPMENT[/b][/size]
+
+Another item related to the hitchhikers in the Foundation is the new program out of Denver that’s quickly becoming known as the Nexus Protocol. The program requires a massive amount of processing power, too much for a cyberdeck. It must be run on a brick dedicated to that single program—one for the decker and another for each hitchhiker going along. A technomancer can use it, too, but only for the hitchhikers. The program upgrades the hot-sim feed to an actual UV-type format and takes away some of the dreamlike aspects of the Foundation, making the paradigms indistinguishable from reality. Actions using the Nexus Protocol are more realistic and do not depend on programming knowledge. The program takes real-world skills and translates them into commands the Foundation understands. Whatever your real abilities are, that’s what your Foundation avatar can do. Of course, hackers can still break the rules by subconsciously manipulating the code behind the paradigm.
+
+> Just to let everyone know, this is not a commercial program available at your local hacker shack. And we didn’t write it at the Nexus. It was acquired under some unique circumstances. What I’m saying is that I can’t guarantee how well it will work for you, so … just think of it as being in the test phase.
+
+> Perri
+[/spoiler]
