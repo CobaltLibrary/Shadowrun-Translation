@@ -14,7 +14,7 @@
 
 ---
 
-[color=brown][size=16pt][b]极限快讯：[/b][/size][/color]
+[color=brown][size=16pt][b]边缘快讯：[/b][/size][/color]
 
 [size=14pt][b]卡尔·杰尼索维奇的一天[/b][/size]
 
@@ -31,7 +31,7 @@
 
 [color=brown][size=14pt][b]苏醒[/b][/size][/color]
 
-像往常一样，早上六点，卡尔·杰尼索维奇的公寓AI愉快地把他叫醒。但在这之后他们发生了争论。卡尔·杰尼索维奇睁开眼睛，直视着我们的编辑分配给他的小瓶妖(bottled imp)。您忠诚的记者将在一个小时内与他会面，但《普吉特海湾》想为您提供第一手资料。
+像往常一样，早上六点，卡尔·杰尼索维奇的公寓AI愉快地把他叫醒。但在这之后他们发生了争论。卡尔·杰尼索维奇睁开眼睛，直视着我们的编辑分配给他的小瓶妖(bottled imp)。您忠实的记者将在一个小时内与他会面，但《普吉特海湾》想为您提供第一手资料。
 
 卡尔住在皮阿拉普的一幢四十层公寓中，这是一套昂贵的500平方英尺的租赁公寓，专门为企业“工蜂”提供服务。卡尔是一名企业工蜂，尽管关于这个词是否符合政治正确还存在争议。一些AAA超企已经发起运动，试图阻止媒体使用这个词，但《普吉特海湾》是一份独立报纸。他们不喜欢什么对我们来说并不重要。
 
@@ -1156,7 +1156,7 @@ Double and triple agents aren’t the first thing that comes to mind when seekin
 
 “你从哪儿听来的？” 卡尔没有错过机会，但我注意到他脸上闪过一丝惊讶。这是他第一次听说这个消息。
 
-“一只小鸟告诉我的。”
+“只是一些小道消息。”
 
 “我哪儿也不去，卡尔。”
 
@@ -1422,13 +1422,13 @@ Curiouser and curiouser.
 
 [color=brown][size=14pt][b]打卡下班[/b][/size][/color]
 
-“我们都要去王钟家(Wang Chung’s)，你要一起来吗？” 亚历克斯的眼睛明亮而欢快，几乎带着恳求的意味。
+“我们都要去王钟家(Wang Chung’s)，你要一起来吗？” 艾丽克丝的眼睛明亮而欢快，几乎带着恳求的意味。
 
 “我需要去喝杯豆咖。”卡尔说。
 
 “那里有卖的。”
 
-乔治和多蒂，还有其他几个人也走了过来。"是啊，卡尔，你应该来的。”
+乔治和多蒂，还有其他几个人也走了过来。"是啊，卡尔，你应该一起来的。”
 
 “也许明晚吧。”
 
@@ -1529,7 +1529,7 @@ I remind him we had an agreement. He nods. “We’ll talk about it outside.”
 
 通过这份档案，她可以通过面部识别程序查看卡尔的照片——就像在他的员工证上看到的那样——从而进一步追踪他。不过，这需要进入一家安保公司的网络。这是一种危险的黑客行为。要想更简单地确认卡尔的行踪，可以查看他回家时建筑物的访问记录。或者，我们的黑客也可以在附近的快餐店查找他的“如你所愿”订单。由于工蜂接入了网域，而且他们的档案非常特定，因此黑客可以避免使用一些在城市中追踪人员的难度更高的特殊方法。如果你能悄无声息地潜入蒙戈的甜甜圈世界的收银应用程序，为什么还要去对抗黑IC呢？
 
-所有这些标签对卡尔来说都是一种便利，是他世界中几乎不曾纳入思考的被动部分。但对于狂奔者来说，这却是个人安保的一个巨大漏洞。一个人的三层加美国风格糖浆熊爪蛋糕对黑客来说就是一个不断跳动着乞求被利用的追踪符号。
+所有这些标签对卡尔来说都是一种便利，是他世界中几乎不曾纳入思考的被动部分。但对于狂奔者来说，这却是个人安保的一个巨大漏洞。某人的加美国风格三层糖浆熊爪蛋糕对黑客来说就是一个不断跳动着乞求被利用的追踪符号。
 
 [spoiler]
 [size=14pt][b]SYNCING WITH THE GRID[/b][/size]
@@ -1543,3 +1543,295 @@ All of these tags are a convenience to Karl, a passive part of his world he hard
 [/quote]
 
 ---
+
+[color=brown][size=14pt][b]晚间外出[/b][/size][/color]
+
+卡尔一路上不断让我保持安静，直到我们离开了公司园区，朝地铁走去。我脑中闪烁着无数问题，就像游戏节目板在第一声抢答前亮起的灯光一样。到底发生了什么让多布失灵？卡尔为什么对那个在我看来十分普通的数据多次被请求感兴趣？这才是真正的调查工作。
+
+我们沿着地铁的水泥台阶往下走，每一级台阶上都点亮了生物发光的指示文字，引导着人们前往各自的列车。楼梯知道卡尔想去哪。
+
+上了车后，卡尔终于打开了话匣子。他说数据本身很普通，他不明白为什么每个人都对它如此感兴趣，除非这预示着他的部门金鸡奖关闭。但即便如此，为什么他如此紧张呢？
+
+“如果他们要关闭我们的部门，他们就会拿走我们部门中那些他们还未出售的东西。这将是让我们变得多余的第一步。然后，他们就会把我们独有的产品，比如再生胚胎，交给他们的人。该死的，我要失业了。” 他看起来真的很担心，而我不得不提醒自己，这对他来说是生活，对我来说不过是个任务。亲爱的记者们，不要和你的采访对象走得太近。
+
+“多布呢？”我问道，“他为什么突然变得那么呆滞？”
+
+他捏着下巴，思索着。“有人在访问他。”你几乎可以看到他头顶冒出的灯泡，就像那些老动画片里一样。“但他只停顿了几秒钟。见鬼，那是外部的人做的。一个黑客！”他的兴奋之情溢于言表。
+
+我还没来得及思考这个问题，卡尔就在下一站把我拽下了车。“你离家还远着呢。”我说。
+
+他改变主意了，觉得去俱乐部和同事们会面是个好主意。“侦察，”他这样说，显然是在试图模仿他玩游戏时的样子。
+
+[spoiler]
+[color=brown][size=14pt][b]AN EVENING OUT[/b][/size][/color]
+
+Karl keeps shushing me until we’re out of the corporate park and headed toward the subway. My mind is alight with questions, like a game show board before the first buzz in. What was it that happened to Dob? Why is Karl interested in the multiple requests for data on an item that, to me, is pretty mundane? This is the real investigative work.
+
+Down the concrete metro steps, each one lighting with bioluminescent ideograms directing people toward their trains. The stairs know where Karl wants to go.
+
+Aboard the train, Karl finally opens up. The data is mundane, and he doesn’t know why everyone would want it unless it signals a closure of his department. Even then, why get so excited over it?
+
+“If they were going to close us down, they’d strip our department for the things they don’t already sell. This would be the first step in making us redundant. Then they’d give our unique products, like rembryos, to one of their people. Dammit, I’m going to be out of a job.” He looks worried, genuinely, and I have to remind myself that this is his life but just my assignment. Don’t get too close to your subject, dear aspiring journalists.
+
+“What about Dob,” I say. “Why did he go slack like that?”
+
+He works his jaw, thinking. “Someone was accessing him.” You can almost see the light bulb over his head, like in those old cartoons. “But he went down for few seconds. Drek, it was someone outside doing it. A decker!” The excitement is palpable.
+
+I don’t have time to ponder that, because Karl drags me off at the next stop “You aren’t anywhere near home,” I say.
+
+He changed his mind. Going out to the club to meet his coworkers is a good idea. “Recon,” he says, no doubt trying to sound like one of his games.
+[/spoiler]
+
+[quote]
+[size=14pt][b]工蜂类型[/b][/size]
+
+《普吉特海湾》收集了大量数据，编制了以下简介。所有数据均来自 2066-2075 年。
+
+[quote]
+[size=12pt][b]专家[/b][/size]
+
+这种工蜂是办公室里的八卦来源。他们通常专注于某一特定领域，一般都是技术性的，他们对自己的专业领域了如指掌，而且总喜欢向别人展示自己的知识。“专家”往往会被吸引到行政工作中，在那里他们对细节的关注得以展现。有时，他们会晋升为部门经理，但更多时候他们能做到的最高职位是经理助理。毕竟管理他人并非他们的强项。
+
+多蒂·波特就是这种类型工蜂的典型案例。
+
+> 你想操纵一个专家？那就给他们一些比办公室八卦更劲爆的消息吧，孩子们。我们都是狂奔者，我们掌握的秘密可比会计部的戴夫干的那些事劲爆得多。让专家觉得：A.你需要他们的专业知识；B.你让他们知道了让人垂涎的秘密，这样他们就会被你掌控了。
+
+> Dr. Spin
+[/quote]
+
+[quote]
+[size=12pt][b]攀登者[/b][/size]
+
+赤裸裸的野心是“攀登者”的标志性特征。他们将工蜂的职场生活视为通往巅峰的第一步，他们中的一些人甚至真的取得了成功。
+
+攀登者知道，要想爬到公司金字塔的顶端，就必须踩着别人往上爬，他们通常对此没有什么顾虑。毕竟，道德不会让你得到晋升。
+
+凯伦·奥尔布赖特正是这种典型的攀登者。
+[/quote]
+
+[quote]
+[size=12pt][b]倦怠者[/b][/size]
+
+他为公司工作至少十年了，或许他当初是个阳光青年，但已经有段时间不再有那种感觉了。他可能厌恶工蜂的职场生活，或者只是感到不满。耗尽热情的“倦怠者”要么在寻求另一家公司的新职位，要么在重新审视自己的生活。
+
+毫不意外，卡尔·杰尼索维奇正是这种“倦怠者”。
+[/quote]
+
+[quote]
+[size=12pt][b]阳光青年[/b][/size]
+
+她刚从学校毕业，活泼又开朗。这个“阳光青年”甚至可能真的相信公司怀有善意。她可能有潜在的野心，但依然是一个团队合作者。她为公司工作的时间不超过几年。
+
+艾丽克丝·金正是这样一个“阳光青年”。
+
+> 天真是狂奔者所没有而阳光青年拥有的东西。他们的轻信是你最大的资产。
+
+> Dr. Spin
+[/quote]
+
+[quote]
+[size=12pt][b]元老[/b][/size]
+
+他为公司工作了二十多年。在这段时间里，他经历了无数风风雨雨。他之所以坚持下去，是为了退休后的安稳生活。公司对他还算不错，虽然他不是公司的狂热拥护者，但他知道自己的饭碗靠谁来填满。
+
+“元老”往往是优秀的管理者，他们偶尔也会晋升到高层。
+
+> 要想让这类人转变立场，最好有一个足以令人信服的理由。否则，你最好手头有些把柄。元老终其一生都在为退休而努力。
+
+> Dr. Spin
+[/quote]
+
+[spoiler]
+[size=14pt][b]DRONE TYPES[/b][/size]
+
+Puget Sounds! gathered a considerable amount of data to compile the following profiles. All data comes from the years 2066-2075.
+
+[size=12pt][b]THE MAVEN[/b][/size]
+
+This drone is the gossip of the office. Usually specializing in one particular, and generally technical, field, the Maven knows all there is to know about their area of expertise and lets you know it. Mavens gravitate to administration work, where their attention to detail shines. Sometimes they rise to the position of department manager, but more often top out as assistant manager. Managing people is not at the top of their skillset.
+
+Dotty Port embodies this drone archetype.
+
+> You want to manipulate a Maven, give them gossip way better than what they find at work, kids. We’re all runners here, privy to secrets that blow anything Dave in Accounting did out of the water. Make a Maven feel like A) you need their expertise and B) you’re letting them in on delicious secrets, and they’re yours.
+
+> Dr. Spin
+
+[size=12pt][b]THE LADDER CLIMBER[/b][/size]
+
+Naked ambition is the hallmark of the Ladder Climber. They see drone life as the first step on their way to the top. Some of them even succeed.
+
+Ladder Climbers know you have to step on people to get to the apex of the corporate pyramid. They generally have few qualms about this. Morality doesn’t get you a promotion.
+
+Karen Albright is a classic Ladder Climber.
+
+[size=12pt][b]THE BURN OUT[/b][/size]
+
+He’s worked for the corporation for at least ten years and may have started as a Bright Young Thing, but it’s been awhile since he felt that way. He may loathe drone life or merely feel dissatisfaction. Burn Outs are either looking for a new position at another corporation or reevaluating their lives.
+
+Unsurprisingly, Karl Denisovich typifies the Burn Out.
+
+[size=12pt][b]THE BRIGHT YOUNG THING[/b][/size]
+
+She’s fresh out of school, full of spunk and cheerful. The Bright Young Thing probably even believes in the good intentions of the corporation. She’s potentially ambitious but still a team player. She hasn’t worked for the corporation for more than a few years.
+
+Alex Kim is a Bright Young Thing.
+
+> Innocence is what a runner doesn’t have and a Bright Young Thing does. Their gullibility is your biggest asset.
+
+> Dr. Spin
+
+[size=12pt][b]THE ELDER STATESMAN[/b][/size]
+
+He’s worked for the corporation for twenty or more years. In that time, he’s seen it all. He is in it for the long haul and looking forward to retirement. The company has been relatively good to him, and while he isn’t a gung-ho company booster, he knows on which side his bread is buttered.
+
+Elder Statesmen make good managers and, very occasionally they become executives.
+
+> Better have a compelling reason for this type to turn. Either that, or you better have blackmail. The Elder Statesman worked all his life to get to retirement.
+
+> Dr. Spin
+[/spoiler]
+[/quote]
+
+王钟家的氛围宛如上世纪银幕电影里的夜总会——铬质装潢和镜面效果都在极力试图还原那个被遗忘的年代。我的手机告诉我，音乐也出自那个时代——新秩序乐团、快乐分裂乐队、迈克尔·杰克逊，这些名字从无人经历的过去被唤起。
+
+乔治、艾丽克丝、多蒂和除奥尔布赖特之外的部门其他人都围坐在一个高脚酒桌旁。艾丽克丝随着她出生前一个多世纪的音乐节拍而翩翩起舞。我的手机不停地闪烁每首歌的信息，但我把它关掉了。
+
+卡尔点了一杯酒，艾丽克丝朝他抛了个媚眼。不出所料，每个人都在抱怨工作。这帮人是典型的“工蜂”群体。如果你想要一个非药物的安眠助剂，可以听几个工蜂抱怨工作几个小时。他们使用的企业术语之浓厚甚至让人觉得自己开始“跳出框架”来思考自己的“附加值”。
+
+就在我听着这些无聊的对话时，我看到卡尔那销售员的一面开始展现。他巧妙地操纵着对话，打听着每个人的想法，试图从中探知他们是不是面临被解雇的风险。
+
+乔治对此不以为然。他说每次发生并购或者风吹草动时，每个工蜂都信誓旦旦地宣称明天的太阳不会再升起。而事实上，它总会升起。
+
+多蒂听说货运部有人与科曼奇黑手党有联系，他们会在发货前在某些条形码上做记号。卡尔特别注意到了这一点。
+
+艾丽克丝整晚都围着卡尔打转。她相信一切都会顺利解决的。随着夜晚的深入，她越靠越近，但卡尔却沉浸在对被解雇的恐惧中。我忍不住怀疑卡尔是否真心享受过他生活中的任何时刻。
+
+这也是许多工蜂面对的生存困境。他们每周工作七十小时，靠逃离这种生活的方式来支撑生活——全息影像、游戏、运动、BTL模拟体验。
+
+卡尔礼貌地笑了笑，付了艾丽克丝的酒钱，然后说他得回家了。
+
+我们打车回到了他住的大楼，他向我道了晚安，并告诉我这段时间过得很愉快，但我提醒他，小瓶妖会陪着他直到凌晨，然后让出租车载我回家，在那里还有一个探视镜在等着我。
+
+[spoiler]
+Wang Chung’s is the way a club looks in flatscreen movies from last century—all chrome and mirrors trying too hard to evoke that forgotten era. The music, my phone tells me, is likewise of the era—New Order, Joy Division Michael Jackson, names invoked from a past no one here ever lived in.
+
+George, Alex, Dotty and the rest of the department, excluding Albright, sit at a high cocktail round. Alex dances to a beat composed more than a century before she was born. My phone keeps flashing info about each song, but I shut it off.
+
+Karl orders a drink. Alex makes eyes at him. As expected, everyone is complaining about work. The gang is a fair representation of drone archetypes.If you want a non-pharmacological soporific, listen to a group of drones whine about work for a couple of hours. The corpspeak is so thick I’m starting to think “outside the box” and wonder what my “value added” might be.
+
+While listening to the inane conversation, I see Karl’s salesman come out. Maneuvering the conversation, he picks everyone’s brains trying to figure out if they are all about to be fired.
+
+George saw all this before. Every time there’s a merger or buyout or the forecast calls for rain, every drone swears the sun won’t rise the next morning. It always does.
+
+Dotty heard from someone in shipping has connections to the Comanche Mafia and highlights certain bar codes before they go out. Karl takes particular note of that.
+
+Alex moons over Karl all night. She’s sure everything will work out. She slides ever closer to Karl over the course of the evening, but he’s mired in his fear of termination. I wonder if Karl really enjoys any moments in his life.
+
+It’s an existential conundrum a lot of drones face. They work seventy hours a week for a lifestyle propped up by means of escaping that exact life—trids, games, sports, BTLs.
+
+Karl smiles politely, pays for Alex’s drinks, and says he needs to get home.
+
+We cab it back to his building where he says goodnight and tells me it’s been pleasant, but I remind him the bottle imp still has him through the wee hours and let the cab take me back home where a looking-glass awaits.
+[/spoiler]
+
+[quote]
+[size=14pt][b]2077年最受工蜂欢迎的十大电子游戏[/b][/size]
+
+1.《狂奔吧，狂奔者》(暗影狂奔MMO)
+
+2.《星辰幻梦：天空传说》(三津滨RPG)
+
+3.《喜乐王廷》(泛位面MMO)
+
+4.《银河Ⅹ》(即时战略与文明建设)
+
+5.《觉醒：1949》(另一个觉醒发生在1937年的二战背景)
+
+6.《黑色机密》(动作RPG，背景设定在重建的未来复古风洛杉矶)
+
+7.《费马最后的神秘方程》(益智手机游戏)
+
+8.《奇迹射手》(AR战斗)
+
+9.《打败市场》(苏黎世轨道交易模拟)
+
+10.《生活一团糟》(生活管理模拟，目标是让你的模拟家庭发疯)
+
+[spoiler]
+[size=14pt][b]TOP TEN VIDEO GAMES FOR DRONES, 2077[/b][/size]
+
+1. Run, Run Runner (Shadowrunning MMO)
+
+2. Astral Dreams: Legend of Tenku (Mitsuhama RPG)
+
+3. The Seelie Court (MMO in alternate dimension)
+
+4. Galaxy Ten (Real-time strategy and civilization building)
+
+5. Awakening: 1949 (Alt WWII setting where Awakening happened in 1937)
+
+6. Noir Confidential (Action RPG set in a rebuilt, retro future Los Angeles)
+
+7. Fermat’s Last Hermetic Equation (Mobile puzzle game)
+
+8. Miracle Shooter (AR combat)
+
+9. Beat The Market (Zurich Orbital trade sim)
+
+10. Life’s A Bitch (Life management sim where goal is driving your sim family insane)
+[/spoiler]
+[/quote]
+
+卡尔一回到家就换上了T恤和运动裤。他拿着啤酒在公寓里走来走去，我猜他是在翻阅白天收集的数据，或者说是他所谓的“情报”。
+
+过了一会儿，他又拿了一瓶啤酒，瘫坐在沙发上，戴上游戏眼镜和触觉手套。他接入矩阵，我花了几分钟才看明白他的那些看似无意义的手势——原来他是在加载游戏。
+
+很快，他就开始和他的团队聊天了——其他玩家也各自半裸着坐在他们的沙发或蒲团上，假装他们的生活很有趣。我了解到，他们正在巴黎参加一场从德军手中收复城市的战斗。卡尔(或者严格来说，他在游戏中的角色)的任务是拯救一群不幸被龙的空中支援烤焦的兽人突击队。
+
+卡尔的双手握着一把隐形枪。“接招吧，德国佬！”他一边喊着，一边击退着我只能想象的党卫军巨魔。然后他猛地抽搐了一下，触觉手套向他的大脑神经发送了伪造的疼痛信号。他中枪了，但他仍在继续。旁观别人玩游戏无疑很无聊——他们看起来就像是在和幻想朋友聊天、对着幻想敌人开火的疯子。
+
+正当我准备去拿一瓶啤酒时，卡尔猛地坐直了。“你到底是谁？你不在游戏里？”他大声喊到，显然，情况有变。
+
+“当然，这是游戏，绝对是。”他停顿了一下。“你说什么？它不一定非得是游戏？”
+
+“对啊，小瓶妖——嘿，你怎么知道的？你在监视我？”
+
+这时，公寓里响起了一个声音，不再是游戏中的声音。一开始是阿拉斯泰尔的声音，但很快就变成了几世纪前的老式黑胶唱片的声音。那声音很诡异，但这正是发声者想要表达的。“那么，卡尔，”那个不真正属于任何人的声音说道，“你愿意真正成为一个暗影狂奔者吗？”
+
+探视镜瞬间变暗，我的观察被一道魔法结界阻断了。对方很专业，但在那短暂的几秒里，我仍能听到那个声音。“那么，卡尔，”它说，“准备好真正地活一次了吗？”
+
+卡尔当晚就失踪了。我去他的公寓查过。据大楼的AI所说，他从未住在那里。他的公司也没有任何他的记录——至少我打电话时他们是这么告诉我的。我试图找凯伦·奥尔布赖特，但被告知：“她不再为公司工作了。”
+
+我又找了部门里的其他人，但只有艾丽克丝愿意跟我说话。她压低声音，仿佛这样可以避开窃听设备。“今天早上我收到了他的一条信息。只有一条短信，直接出现在我家的信息馈送里。他是怎么做到的？他说他很好。他说他正在暗影中狂奔。哦，天啊，新老板来了。我得挂了。拜托你找到他，好吗？”她匆忙挂断了。
+
+在暗影中狂奔，亲爱的读者们。看来是时候让你们忠实的记者深入调查了。祝我好运吧，那片阴影中可是藏着龙。
+
+——您忠实的记者，朗达·恩兹，报道自边缘某处。
+
+[spoiler]
+First thing Karl does is get into a t-s“hirt and sweat pants. He paces around the apartment with a beer in hand, and I assume he’s rolling over the collected data from the day or, as he called it, “intel.”
+
+Eventually, he grabs another beer, plops on the couch, and applies his game goggles and haptics. He jacks in, and it takes me a few minutes to figure out his seemingly pointless hand gestures are him loading the game.
+
+Soon enough, he’s talking to his team—other players, also sitting half naked on their couches or futons, pretending their lives are interesting. I glean that they are in Paris during a battle to retake the city from the Germans. Karl (or, technically, his character in game) is tasked with saving a group of ork rangers who had the misfortune of being toasted by a dragon—air support.
+
+Karl’s hands hold an invisible gun. “Take that, Jerry,” he shouts, while mowing down what I can only imagine are SS trolls. Then he jerks violently, the haptics sending faux pain signals to his brain. He’s been shot, but he keeps going. It’s boring to watch someone else play a game—they simply look like a crazy person talking to imaginary friends and shooting imaginary enemies.
+
+I’m about to get myself a beer when Karl sits bolt upright. “Who the hell are you? You aren’t in the game?” he says. Clearly, something has changed.
+
+“Yes it is. It’s most definitely a game.” Pause. “What do you mean it doesn’t have to be?”
+
+“Yeah, the bottle imp I— Hey, how do you know that? Are you spying on me?”
+
+Then a voice fills the apartment, no longer in game. It starts as Alastair but quickly becomes that of a tinny, old-time vinyl record centuries gone. Eerie, but that’s what the speaker is going for. “So, Karl,” the not-voice says, “How would you like to be a shadowrunner for real?”
+
+The scrying glass goes dark as a magical ward cuts my access. Professional, but for a few seconds I can still hear the not-voice. “Well, Karl,” it says, “You ready to start living?”
+
+Karl disappeared that night. I checked for him at his building. According to the building AI, he never lived there. His corporation has no record of him either—at least that’s what they told me when I called. I ask for Karen Albright but am told, “She is no longer with the company.”
+
+I try the rest of the department, but Alex is the only one who will talk to me. She whispers, as if she believes speaking quietly enough will foil the bugs. “I got a message from him this morning. Text only, right across my feed at home. How could he get into my feed? He said he was okay. He said his was running the shadows. Oh, drek. New boss is here. I have to go. Please find him?” She hangs up.
+
+Running the shadows, dear reader. Time for your faithful reporter to go deeper. Wish me good karma; there be dragon out there.
+
+Your faithful reporter, Rhonda Ehnds, reporting from somewhere near the edge.
+[/spoiler]
