@@ -267,7 +267,7 @@ Similar to open source programs, gamemasters may further limit these programs by
 
 [size=16pt][b]自主程序[/b][/size]
 
-与其他软件不同的是，在矩阵中，代理具有独立于控制化身的独特能力。这种自主运作产生了几个问题，这里要解决这些问题。虽然我们在大多数情况下指的是代理，但除非另有说明，否则这些规则也适用于其他自主实体，如网精、AI(第165页)和电子幽灵(第170页)。
+与其他软件不同的是，在矩阵中，代理具有独立于其控制化身的独特能力。这种自主运作产生了几个问题，这里要解决这些问题。虽然我们在大多数情况下指的是代理，但除非另有说明，否则这些规则也适用于其他自主实体，如网精、AI(第165页)和电子幽灵(第170页)。
 
 [spoiler]
 [size=16pt][b]AUTONOMOUS PROGRAMS[/b][/size]
@@ -311,7 +311,7 @@ An agent’s access ID may be spoofed (see Spoofing the Datatrail, p. 224, SR4),
 
 请注意，当复制代理程序时，内置到代理中的访问ID也会被复制。这意味着代理的任何副本都将具有相同的访问ID。当黑客从他的化身同时运行这样的副本时(因为在这种情况下使用了他的访问ID)，或者副本在独立节点中自主操作时，这都不是问题。但是，如果副本试图访问一个节点，而该节点上已经运行了具有相同访问ID的代理，则该节点将自动拒绝访问(即使代理试图以骇入方式访问，尝试也将自动失败)。这种安保特性既可以阻止盗版，也可以防止傻瓜代理的大规模入侵(即所谓的“代理史密斯”场景)。
 
-复制的代理可以通过进行逻辑+软件(评级x 3,1周)延续检定来打补丁，以便给它一个单独的唯一访问ID。
+复制的代理可以通过进行逻辑+软件(等级x3, 1周)延续检定来打补丁，以便给它一个单独的唯一访问ID。
 
 [spoiler]
 [size=14pt][b]COPIED AGENTS AND IDS[/b][/size]
@@ -320,3 +320,29 @@ Note that when an agent program is copied, the access ID built into the agent is
 
 A copied agent may be patched in order to give it a separate unique access ID with a Logic + Software (Rating x 3, 1 week) Extended Test.
 [/spoiler]
+
+[quote]
+[size=14pt][b]代理的能力[/b][/size]
+
+代理虽然能够独立运作，但这并不意味着它们的能力与黑客角色相当。事实上，尽管它们在许多方面都表现得十分聪明，代理仍有一些缺陷，使其在整体表现上逊于泛人类。
+
+引导自主代理运作的自驾程序是一种高度复杂的软件，其逻辑与分析能力可以媲美任何泛人类。但这并不表示代理具备与泛人类等同的决策能力。它们不仅缺乏支撑判断所需的毕生经验，往往也缺乏理解全局情境的能力。例如，虽然代理可能理解某些图标正在进行矩阵战斗并被视为敌人，甚至掌握一些基本战术要点，但它可能不会意识到这些图标之间的个人关系或社交暗示，因此无法理解，例如，攻击某个图标可能会激怒另一个、某个图标正在投降或试图倒戈、或是某个图标只是在戏耍对手，还没动真格。
+
+当代理通过传感器、安保系统或无人机等方式与物理世界互动时，它在掌握情境信息方面就更为欠缺，因为代理的自驾程序是为矩阵环境而设计的，而非为现实世界互动而设(这点在无人机自驾程序中不成立，因为后者本就是为了现实任务而设计的，不过它们通常也只适用于其所在的特定无人机型号；参见Arsenal，第103页，自驾程序能力)。
+
+代理在“创意思维”方面也存在局限。它们倾向于严格执行命令，根据程序化的决策树做出纯逻辑选择(参见《代理脚本》，第100页)——这未必总是最优的选择。当面临程序外的障碍或选项时，它们倾向于后退并重新评估，而非尝试即兴应变。这是一种比起冒险而言更安全的策略。需要指出的是，代理确实具备“模糊逻辑”模块，使其能对模糊的概念和条件做出判断并采取行动，但基于概率的判断行动本身也存在弱点。
+
+如有疑问，GM可以私下进行一次自驾+响应能力检定，并设置适当的难度阈值，以决定代理在面对复杂情境、根据所接收命令时的反应表现(参见《暗影狂奔 第四版》第214页，发布指令)。
+
+[spoiler]
+[size=14pt][b]AGENT COMPETENCY[/b][/size]
+
+Agents may be capable of operating independently, but this does not mean that they are just as capable as hacker characters. In fact, while they are very smart in many ways, agents possess a number of drawbacks that make them inferior to metahumans.
+
+The Pilot program that guides an autonomous agent is an incredibly sophisticated software with logical and analytic capabilities on par with any metahuman. This does not mean, however, that the agent has decision-making capabilities equal to metahuman. Not only do they lack a lifetime of experience to base their judgements on, they often lack the context that would enable them to fully understanding a situation. For example, while the agent may understand that certain icons engaged in cybercombat with others are considered enemies, and might even grasp some of the finer tactical points, it would not necessarily understand the personal relationships or social cues between them, and so would not realize that, say, attacking one icon might enrage another, or recognize that one icon is attempting to surrender or switch sides, or comprehend that one icon is simply toying with its opposition and hasn’t unleashed the big guns yet. Contextual information is even more lacking when the agent interacts with the physical world in some way (via sensor, security system, or drone, for example), as agent Pilots are programmed for Matrix activities, not for interfacing with meatspace. (This is less true of drone Pilots, which are programmed for real-world activity, but are specifically tailored for the drone model they occupy; see Pilot Capabilities, p. 103, Arsenal.)
+
+Pilots are also limited in their capacity for creative thought. They tend to stick to their orders, making strictly logical choices according to programmed decision trees (see Agent Scripting, p. 100)—which may not always be the best course of action. When faced with an unexpected obstacle or set of choices that don’t fit their programming, they tend to fall back and regroup—a safer choice over improvisation. Note that agents due have “fuzzy logic” routines that allow them to judge and act on imprecise concepts and conditions, but taking action based on generalized probabilities also has its drawbacks.
+
+When in doubt, gamemasters can secretly roll a Pilot + Response Test against an appropriate difficulty threshold to determine how agents respond to difficult situations based on their orders (see Issuing Commands, p. 214, SR4).
+[/spoiler]
+[/quote]
