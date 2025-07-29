@@ -1,6 +1,107 @@
 [center][color=brown][size=16pt][b]战前会议[/b][/size][/color][/center]
 
+<<<开启转录记录 #0401-21 数据已编辑>>>
 
+> 啊，科尔先生。很高兴见到你。当然，你并不是我原本预期会见到的人。
+> Silk
+
+> 你知道我是谁，即使你不知道我会来。
+> Ringmaster
+
+> 这就是情报的本质——永远不完整，永远在增长。我们总是在拼图，一块又一块。有时会有几块拼图聚在一起，整体图像也就变得更清晰了。
+> Silk
+
+> 所以，你知道我来是为了什么？
+> Ringmaster
+
+> 我了解巨龙间的事务。我知道你我其实在同一个圈子活动。我们的道路早该交汇了。
+> Silk
+
+> 迪斯正在逼近。这可不只是巨龙们的问题。
+> Ringmaster
+
+> 巨龙们倒是也这么想，虽然有些不太谦逊。我敢肯定阿勒什有时也和我的主人们一样难以理解。
+> Silk
+
+> 我不会称她为我的主人，或者女主人。
+> Ringmaster
+
+> 我也敢肯定她从未用那种语言与你交流过。邓凯尔赞在我面前也从未这么做过。
+> Silk
+
+> 虽然我对此非常感激，但我今天是为了正事而来。
+> Ringmaster
+
+> 是的，迪斯。我猜你是来索取我手上为数不多的东西了。
+> Silk
+
+> 或许没你想得那么少，不过我很乐意听听。
+> Ringmaster
+
+> 给。我已经把我们掌握的资料整理好了。
+> Silk
+
+> 我以为你没预料到我会来？
+> Ringmaster
+
+> 如果不是你，那也会是别人。说实话，我很高兴是你。你愿意听个简要概况吗？要不要喝一杯？
+> Silk
+
+> 只听概况吧，谢谢。
+> Ringmaster
+
+> 希望你不介意我自己喝点。请随意。目前，巨龙基金会对迪斯所构成的威胁并没有正式立场。
+> Silk
+
+> 迪斯自己都不够“正式”，不足以让任何机构给出正式立场。
+> Ringmaster
+
+> 好吧，科尔先生，公众归公众，内部默许则是另一回事。基金会内部其实存在分歧。你必须明白，我们过去所遵循的命令和默认的优先级已经……越来越模糊了。邓凯尔赞的遗嘱并不是永恒的神谕。这就留下了解读未来目标和行动方向的空间。
+> Silk
+
+> 内部冲突？
+> Ringmaster
+
+> 几乎没有。也许这让人意外，毕竟巨龙基金会在形式上已基本成为一家公司，唯一的问题是：在业务多样化的同时，如何忠于我们的创始原则。考虑到我们仍在为某些觉醒威胁设立悬赏，我们既需要为初期投资之外的长期运作创造收入来源，也要想办法处理我们所接收到的某些“东西”。
+> Silk
+
+> 所以是实验？研究？
+> Ringmaster
+
+> 都有。还有更多。例如，我们有充分理由相信，血魔法本身并非天生危险，而只是被过早地投入使用。而关于HMHVV，甚至伊瓦依[color=green](Invae, 虫精魂的神秘学称呼)[/color]，在医疗领域的潜力也很明显，更不用说那些用于抑制它们威胁的手段了。
+> Silk
+
+> 虽然你后面那些说法让我有点不安，但这留待以后再谈——如果我们这次能熬过去的话。说到这，我听说你们雇佣过的不少暗影资产现在都在逃，头上还被挂了赏金。
+> Ringmaster
+
+> 的确。这极大地拖慢了我们的运作。甚至在极少数情况下，迫使我们动用自己的赏金。这并不是我们理想中的局面，但我正在想办法补救。我欠其中一些人不少情，比如你们的麦考德上校。他为基金会效力多年，表现非常出色。
+> Silk
+
+> 的确如此。但我们还是回到主题。你提到对迪斯缺乏立场……
+> Ringmaster
+
+> 是的。我们现有的资源并没有直接投入到对抗迪斯人及其“浮士德信徒”上。我一直尽我所能通过悬赏系统处理此事，通常是伪装成我们常规任务目标的方式。我很确定基金会内部有人知道我在做什么，但几乎没人提出反对。
+> Silk
+
+> 这说明你手里有明确的打击目标。
+> Ringmaster
+
+> 没错。我们用来识别其他威胁的方法在这方面也相当有效。当然，还有信息网络，以及我们从被俘目标身上提取出的情报。你知道吗？这个世界上的怪物们已经察觉到某些事情正在发生，尽管它们可能说不出名字来。
+> Silk
+
+> 你觉得你能把这些力量整合起来？重组它们？
+> Ringmaster
+
+> 去召集那些根本不存在的雇佣兵？
+> Silk
+
+> 要求太高了吗？
+> Ringmaster
+
+> 我只是一直在等待有人提出这个要求。
+> Silk
+
+<<<转录记录结束>>>
 
 [spoiler]
 <<<Open Transcript #0401-21 ***DATA REDACTED***>>>
@@ -63,8 +164,7 @@
 > Ringmaster
 > Indeed. The same methodology we apply to finding other threats works fairly well. And of course, there’s the inevitable networks of information and what we extract from apprehended targets. You realize the monsters of the world have gotten wise to what’s happening, even if they can’t put a name to it?
 > Silk
-> Do you think you could bring these forces to bear? Reorganize
-them?
+> Do you think you could bring these forces to bear? Reorganize them?
 > Ringmaster
 > Rallying mercenaries that don’t even exist?
 > Silk
@@ -78,172 +178,193 @@ them?
 
 ---
 
+<<<开启转录记录 #0401-25 数据已编辑>>>
+
+出席者：肯德拉·德·桑托斯（人类，女性，巨龙阿勒什之声），埃德温·罗斯瑟（人类，男性，巨龙塞勒迪尔之声）
+
+> 感谢你在这么短的时间内与我见面，埃德温。我明白这对你来说一定很麻烦。
+> KDS
+
+> 无论是风雨交加，还是末日审判的威胁，都无法阻止我履行我主的事务。但在我们继续之前，我的主人希望你的女主人能尽快从她在汽车城所受的伤中恢复。他对她目前的状况感到非常不安，对事件发生的经过同样感到忧虑。
+> Rosser
+
+> 谢谢。她曾对科尔局长说过：“当时看起来是个好主意。” 不过，她一方面会对你们的关心感到欣慰，另一方面也会因你主得知她虚弱的状况而感到恼火。她一直非常努力地保密此事，甚至对她的同类也是如此。
+> KDS
+
+> 我明白。但情报终归是我主的事务。不过她可以放心，我的主人是她的同类中唯一知情者，并且会对该情报保密到极致。这类情报即便是在盟友之间也可能引发不稳定的影响。如果还需要额外的医疗协助，我的主人是唯一有能力提供帮助的。
+> Rosser
+
+> 同意，也感谢你。但我们还是回到正题上来，也就是这次会面的真正原因。你们关于迪斯语的项目进展如何？
+> KDS
+
+> 借助超统神经网络开发的新译码器，我们正在翻译和解密积压的大量旧数据和记录。不幸的是，我们面对的是多达1.2gp的数据积压。
+> Rosser
+
+> (清晰可辨的叹息声)我原本希望听到更好的消息，但至少我们有了一个开始。
+> KDS
+
+> 恐怕我还有更糟的消息要带来。我的主人优先处理了几份他确信包含重要信息的文件，结果证明他是对的。信息涉及迪斯收割机网络的建立。看来时间表已经加速。我们原本可能还有数年时间，现在可能只剩几个月，网络就会启动。一旦启动，我们就无法在不摧毁物质界的情况下阻止它。所以，我们要么等死，要么自毁家园。
+> Rosser
+
+> (无法翻译的语言)抱歉，我学了一些我女主人的语言。在我极度愤怒时它就会脱口而出。
+> KDS
+
+> 无需道歉，但我得夸你发音非常准确。不过我还有一条关键信息必须告知。尽管正在建造的是一个中央网络，但我们获得的计划中也表明还有几个辅助网络，或者至少是一些分支网络也在建设中。就像一个矩阵系统一样，一旦主网络被关闭或摧毁，这些辅助网络会立即接管其功能。
+> Rosser
+
+> 那我们显然一刻也不能耽搁。我会立刻通知我的女主人以及科尔局长。我们必须立即组织反击。
+> KDS
+
+> 的确。我会向我的主人汇报，也会联系科尔局长，在即将发生的事件中尽我们的一份力。
+> Rosser
+
+> 每次我都会感到惊讶，我们的主人和女主人要是能直接对话，能够节省多少时间。
+> KDS
+
+> 或许吧，但这不是我们能决定的事。我们已向他们效命，我们的职责不是去质疑，而是去执行，并在力所能及的范围内提供协助。
+> Rosser.
+
+<<<转录记录结束>>>
+
+[spoiler]
 <<<Open Transcript #0401-25 ***DATA REDACTED***>>>
-<<<Open Transcript #0401-25 ***DATA REDACTED***>>>
+
 Present: Kendra de Santos (human, female, voice of great dragon Arleesh), Edwin Rosser (human, male, voice of great dragon Celedyr)
-Present: Kendra de Santos (human, female, voice of great dragon Arleesh), Edwin Rosser (human, male, voice of great dragon Celedyr)
-> Thank you for meeting with me on such short notice, Edwin. I
-understand the inconvenience this must be for you.
+
+> Thank you for meeting with me on such short notice, Edwin. I understand the inconvenience this must be for you.
 > KDS
-> Thank you for meeting with me on such short notice, Edwin. I
-understand the inconvenience this must be for you.
-> KDS
-> Neither rain nor snow, nor threat of universal Armageddon
-will keep me from facilitating my master’s business. But before we continue, my master wishes your mistress a speedy recovery from her injuries sustained in Motor City. He was most distressed to learn of her current condition as much as he was how it occurred.
+> Neither rain nor snow, nor threat of universal Armageddon will keep me from facilitating my master’s business. But before we continue, my master wishes your mistress a speedy recovery from her injuries sustained in Motor City. He was most distressed to learn of her current condition as much as he was how it occurred.
 > Rosser
-> Neither rain nor snow, nor threat of universal Armageddon
-will keep me from facilitating my master’s business. But before we continue, my master wishes your mistress a speedy recovery from her injuries sustained in Motor City. He was most distressed to learn of her current condition as much as he was how it occurred.
+> Thank you. As she once told Director Cole, “It seemed like a good idea at the time.” Still, she will be equal parts pleased at your concern and irritated that your master knows of her weakened condition. She has worked extremely hard to keep such information secret, even among her peers.
+> KDS
+> I understand. But information is, after all, his business. Still, she can trust that my master is the only one among her peers who knows this and will hold that information in the strictest of confidence. Such information would be a destabilizing influence, even among allies. But if any additional medical assistance is required, my master is uniquely qualified to assist.
 > Rosser
-> Thank you. As she once told Director Cole, “It seemed like a
-good idea at the time.” Still, she will be equal parts pleased at your concern and irritated that your master knows of her weakened condition. She has worked extremely hard to keep such information secret, even among her peers.
+> Agreed and thank you. But let us stay on topic, the real reason for this meeting. How far along is your project concerning the Disian language?
 > KDS
-> Thank you. As she once told Director Cole, “It seemed like a
-good idea at the time.” Still, she will be equal parts pleased at your concern and irritated that your master knows of her weakened condition. She has worked extremely hard to keep such information secret, even among her peers.
-> KDS
-> I understand. But information is, after all, his business. Still,
-she can trust that my master is the only one among her peers who knows this and will hold that information in the strictest of confidence. Such information would be a destabilizing influence, even among allies. But if any additional medical assistance is required, my master is uniquely qualified to assist.
+> With the new cypher Transys-Neuronet has created, we’re in the process of translating and decrypting the backlog of old data and transcripts. Unfortunately, we’re working on a backlog of 1.2 giga-pulses of data.
 > Rosser
-> I understand. But information is, after all, his business. Still,
-she can trust that my master is the only one among her peers who knows this and will hold that information in the strictest of confidence. Such information would be a destabilizing influence, even among allies. But if any additional medical assistance is required, my master is uniquely qualified to assist.
+> *audible sigh* I was hoping for better news, but at least we have a start.
+> KDS
+> I’m afraid I also have worse news to bear. My master prioritized several files he was sure contained vital information, and as it turns out he was correct. The information regards the establishment of the Disian Harvester Network. It seems that the timetable has been accelerated. Where we once may have had years, we now may only have months before it comes online. And once the process starts, we cannot stop it without destroying the material plane. So, we either die or we scorch our own earth.
 > Rosser
-> Agreed and thank you. But let us stay on topic, the real reason
-for this meeting. How far along is your project concerning the Disian language?
+> *unable to translate, language not recognized* Apologies, I’ve learned some of my mistress’ language. It tends to arise when I’m most angered.
 > KDS
-> Agreed and thank you. But let us stay on topic, the real reason
-for this meeting. How far along is your project concerning the Disian language?
-> KDS
-> With the new cypher Transys-Neuronet has created, we’re in the
-process of translating and decrypting the backlog of old data and transcripts. Unfortunately, we’re working on a backlog of 1.2 giga-pulses of data.
+> No apologies needed, but I compliment you on getting the accent right. But I have one more necessary bit of critical information. While there is one central network being constructed, the plans we’ve obtained also indicate that several auxiliary networks or at least offshoot branches are also being completed. Much like a Matrix system, should the main networks be taken offline or destroyed, the auxiliary ones will immediately take up the slack.
 > Rosser
-> With the new cypher Transys-Neuronet has created, we’re in the
-process of translating and decrypting the backlog of old data and transcripts. Unfortunately, we’re working on a backlog of 1.2 giga-pulses of data.
+> Then we obviously have no time to lose. I will inform my mistress and Director Cole at once. We need to form a counteroffensive immediately.
+> KDS
+> Indeed. I will update my Master and be in touch with Director Cole as well to do our part in the upcoming events.
 > Rosser
-> *audible sigh* I was hoping for better news, but at least we
-have a start.
-> KDS
-> *audible sigh* I was hoping for better news, but at least we
-have a start.
-> KDS
-> I’m afraid I also have worse news to bear. My master prioritized
-several files he was sure contained vital information, and
-as it turns out he was correct. The information regards the establishment of the Disian Harvester Network. It seems that the timetable has been accelerated. Where we once may have had years, we now may only have months before it comes online. And once the process starts, we cannot stop it without destroying the material plane. So, we either die or we scorch our own earth. > Rosser
-> I’m afraid I also have worse news to bear. My master prioritized
-several files he was sure contained vital information, and
-as it turns out he was correct. The information regards the establishment of the Disian Harvester Network. It seems that the timetable has been accelerated. Where we once may have had years, we now may only have months before it comes online. And once the process starts, we cannot stop it without destroying the material plane. So, we either die or we scorch our own earth. > Rosser
-> *unable to translate, language not recognized* Apologies,
-I’ve learned some of my mistress’ language. It tends to arise when I’m most angered.
-> KDS
-> *unable to translate, language not recognized* Apologies,
-I’ve learned some of my mistress’ language. It tends to arise when I’m most angered.
-> KDS
-> No apologies needed, but I compliment you on getting the accent
-right. But I have one more necessary bit of critical information. While there is one central network being constructed, the plans we’ve obtained also indicate that several auxiliary networks or at least offshoot branches are also being completed. Much like a Matrix system, should the main networks be taken offline or destroyed, the auxiliary ones will immediately take up the slack. > Rosser
-> No apologies needed, but I compliment you on getting the accent
-right. But I have one more necessary bit of critical information. While there is one central network being constructed, the plans we’ve obtained also indicate that several auxiliary networks or at least offshoot branches are also being completed. Much like a Matrix system, should the main networks be taken offline or destroyed, the auxiliary ones will immediately take up the slack. > Rosser
-> Then we obviously have no time to lose. I will inform my
-mistress and Director Cole at once. We need to form a counteroffensive immediately.
-> KDS
-> Then we obviously have no time to lose. I will inform my
-mistress and Director Cole at once. We need to form a counteroffensive immediately.
-> KDS
-> Indeed. I will update my Master and be in touch with Director
-Cole as well to do our part in the upcoming events.
-> Rosser
-> Indeed. I will update my Master and be in touch with Director
-Cole as well to do our part in the upcoming events.
-> Rosser
-> It never ceases to amaze me how much time could be saved
-if our respective masters and mistresses would simply speak directly to each other.
-> KDS
-> It never ceases to amaze me how much time could be saved
-if our respective masters and mistresses would simply speak directly to each other.
+> It never ceases to amaze me how much time could be saved if our respective masters and mistresses would simply speak directly to each other.
 > KDS
 > Perhaps, but that is not for us to decide. We pledged our services to them, and it is not for us to question why, but merely to do as we are asked. And do what we can to assist in our own ways.
 > Rosser.
-> Perhaps, but that is not for us to decide. We pledged our services to them, and it is not for us to question why, but merely to do as we are asked. And do what we can to assist in our own ways.
-> Rosser.
+
 <<<End Transcript>>>
+[/spoiler]
 
 ---
 
+<<<开启转录记录 #0401-27 数据已编辑>>>
+
+> 下午好，Mr. Dowd。虽然我对这次会面的时机颇感好奇。我几乎就在五分钟前准备给您发出邀请，结果一打开收件箱，就先发现了您的来信。
+> Ringmaster
+
+> 如果这让您感到不安，那我表示歉意。我并无此意。
+> Mr. Dowd
+
+> 无需道歉。我在这行干得够久了，不会因每个古怪的事件或晦涩的讯息就惊讶或不安。我把它们都看作是另一种形式的沟通。说到这个，我干得也够久了，知道什么时候有人在……找不到更好的词，就说是“试镜”吧。
+> Ringmaster
+
+> 哦？您觉得我想加入你们的“剧团”？
+> Mr. Dowd
+
+> 请吧，Mr. Dowd，我们大可不必像业界同仁那样玩弄那些众所周知的文字游戏。今天不妨直截了当点说。不过为了回应您的问题，是的，我的确如此认为。我知道，最近上任的道金斯集团主管不会无缘无故地做任何事。顺便说一句，恭喜您。
+> Ringmaster
+
+> 一语破的，谢谢您。您说得没错。
+> Mr. Dowd
+
+> 很高兴听您这么说，不过您也能理解我为什么要问原因。
+> Ringmaster
+
+> 当然，如果我是您，我也会这么做。说我们的动机完全是出于无私，这话大致是真的，但也包裹着谎言。世界末日当然令人担忧，但说到底，我的上级们早就厌倦了被人视作“十大”中最弱的那个。迪斯人甚至根本没有主动接触地平线。我们后来得知，他们认为我们不值一提，引用原话就是：“一无可取”。而我们对此感到非常不爽。而且，有机会狠狠恶心一下阿兹特科技，这永远是件好事。
+> Mr. Dowd
+
+> 所以地平线是因为没能在末日审判的桌上占有一席之地而恼火了？
+> Ringmaster
+
+> 我更喜欢“诸神黄昏”这个说法——北欧诸神更有风格，也更有市场号召力。而且，迪斯人更让我想起尘世巨蛇耶梦加得，而我们的魔力场则像是世界树尤克特拉希尔。
+> Mr. Dowd
+
+> 有道理。
+> Ringmaster
+
+> 不过在继续之前，容我献上一份小小的和平礼。鉴于迪斯人通过阿兹特科技公司以及其他代理人，靠纯粹的公关手段对你们的部队横行霸道，让我呈上一份我业余时间筹备的东西。我刚发给您的文件应当说明了一切。
+> Mr. Dowd
+
+> 嗯，有意思。你这些都是在业余时间做的？
+> Ringmaster
+
+> 当然。我喜欢让脑子忙着——我从来就不适合睡觉。
+> Mr. Dowd
+
+> 的确如此。“计划：弗洛基”？这名字也太直白了点吧？
+> Ringmaster
+
+> 我说过了，北欧神话确实有一套风格。但这个计划不仅能帮你们争取一点喘息空间，还能摇动象征性的“果树”，让我们收获其果实。
+> Mr. Dowd
+
+> 听起来倒更像犹太—基督教传统，不过我觉得我们可以合作一下。
+> Ringmaster
+
+> 听您这么说我真是太高兴了，先生。
+> Mr. Dowd
+
+<<<转录记录结束>>>
+
+[spoiler]
 <<<Open Transcript #0401-27 ***DATA REDACTED***>>>
-> Good afternoon, Mr. Dowd. Although I am somewhat curious
-about the timing of this meeting. I was quite literally five minutes from sending you an invitation to talk and yet, what do I see in my inbox?
+
+> Good afternoon, Mr. Dowd. Although I am somewhat curious about the timing of this meeting. I was quite literally five minutes from sending you an invitation to talk and yet, what do I see in my inbox?
 > Ringmaster
-> Good afternoon, Mr. Dowd. Although I am somewhat curious
-about the timing of this meeting. I was quite literally five minutes from sending you an invitation to talk and yet, what do I see in my inbox?
-> Ringmaster
-> Apologies if that unnerved you in any way. That was not my
-intention.
+> Apologies if that unnerved you in any way. That was not my intention.
 > Mr. Dowd
-> Apologies if that unnerved you in any way. That was not my
-intention.
+> None are necessary. I’ve been in the game long enough to not be surprised or unnerved over every odd occurrence or cryptic message that finds its way to me. I see them all as simply another form of communication. Speaking of, I’ve also been in long enough to know when someone is, for the lack of a better term, auditioning.
+> Ringmaster
+> Oh? You think I want to be a part of your little production?
 > Mr. Dowd
-> None are necessary. I’ve been in the game long enough to not
-be surprised or unnerved over every odd occurrence or cryptic message that finds its way to me. I see them all as simply another form of communication. Speaking of, I’ve also been in long enough to know when someone is, for the lack of a better term, auditioning.
-> Ringmaster
-> None are necessary. I’ve been in the game long enough to not
-be surprised or unnerved over every odd occurrence or cryptic message that finds its way to me. I see them all as simply another form of communication. Speaking of, I’ve also been in long enough to know when someone is, for the lack of a better term, auditioning.
-> Ringmaster
-> Oh? You think I want to be a part of your little production? > Mr. Dowd
-> Oh? You think I want to be a part of your little production? > Mr. Dowd
 > Please, Mr. Dowd, we don’t need to engage in the typical wordplay those of our profession are so well known for. Let’s for once speak plainly. But to answer your question, yes, I do. I know that the recently installed head of the Dawkins Group doesn’t do anything without reason. Congratulations on that, by the way.
 > Ringmaster
-> Please, Mr. Dowd, we don’t need to engage in the typical wordplay those of our profession are so well known for. Let’s for once speak plainly. But to answer your question, yes, I do. I know that the recently installed head of the Dawkins Group doesn’t do anything without reason. Congratulations on that, by the way.
+> Touché, and thank you. And you are correct.
+> Mr. Dowd
+> I’m glad to hear that, but you’ll understand if I ask why.
 > Ringmaster
-> Touché, and thank you. And you are correct. > Mr. Dowd
-> Touché, and thank you. And you are correct. > Mr. Dowd
-> I’m glad to hear that, but you’ll understand if I ask why. > Ringmaster
-> I’m glad to hear that, but you’ll understand if I ask why. > Ringmaster
-> Of course, I would do the same in your position. To say that our
-reasoning is purely altruistic would be mostly true but wrapped in a lie. The end of the world is certainly concerning, but at the end of the day my superiors are sick of being thought of as “the weakest” of the Big Ten. Horizon wasn’t even approached by the Disians. We’ve since learned that they consider us beneath them, with, and I quote, “nothing to offer.” And as the old saying goes, we took that personally. That, and a chance to stick it to Aztechnology is never a bad thing.
+> Of course, I would do the same in your position. To say that our reasoning is purely altruistic would be mostly true but wrapped in a lie. The end of the world is certainly concerning, but at the end of the day my superiors are sick of being thought of as “the weakest” of the Big Ten. Horizon wasn’t even approached by the Disians. We’ve since learned that they consider us beneath them, with, and I quote, “nothing to offer.” And as the old saying goes, we took that personally. That, and a chance to stick it to Aztechnology is never a bad thing.
 > Mr. Dowd
-> Of course, I would do the same in your position. To say that our
-reasoning is purely altruistic would be mostly true but wrapped in a lie. The end of the world is certainly concerning, but at the end of the day my superiors are sick of being thought of as “the weakest” of the Big Ten. Horizon wasn’t even approached by the Disians. We’ve since learned that they consider us beneath them, with, and I quote, “nothing to offer.” And as the old saying goes, we took that personally. That, and a chance to stick it to Aztechnology is never a bad thing.
-> Mr. Dowd
-> So Horizon is upset at not having a seat at the table of
-Armageddon?
+> So Horizon is upset at not having a seat at the table of Armageddon?
 > Ringmaster
-> So Horizon is upset at not having a seat at the table of
-Armageddon?
+> I prefer Ragnarök—the Norse Gods have a certain style, and they’re more marketable. Also, the Disians remind me more of Jormungand with our own manasphere being Yggdrasil.
+> Mr. Dowd
+> Point taken.
 > Ringmaster
-> I prefer Ragnarök—the Norse Gods have a certain style, and
-they’re more marketable. Also, the Disians remind me more of Jormungand with our own manasphere being Yggdrasil. > Mr. Dowd
-> I prefer Ragnarök—the Norse Gods have a certain style, and
-they’re more marketable. Also, the Disians remind me more of Jormungand with our own manasphere being Yggdrasil. > Mr. Dowd
-> Point taken. > Ringmaster
-> Point taken. > Ringmaster
-> But before we go any further, allow me to make a small peace
-offering. Given the how the Disians through Aztechnology and others are running roughshod on your forces through sheer PR, let me present you with something I’ve been working on in my spare time. The file I just sent you should say it all.
+> But before we go any further, allow me to make a small peace offering. Given the how the Disians through Aztechnology and others are running roughshod on your forces through sheer PR, let me present you with something I’ve been working on in my spare time. The file I just sent you should say it all.
 > Mr. Dowd
-> But before we go any further, allow me to make a small peace
-offering. Given the how the Disians through Aztechnology and others are running roughshod on your forces through sheer PR, let me present you with something I’ve been working on in my spare time. The file I just sent you should say it all.
-> Mr. Dowd
-> Hmm. Interesting. All this on your free time? > Ringmaster
-> Hmm. Interesting. All this on your free time? > Ringmaster
-> Of course. I prefer to keep my mind occupied—sleep never suited
-me anyway.
-> Mr. Dowd
-> Of course. I prefer to keep my mind occupied—sleep never suited
-me anyway.
-> Mr. Dowd
-> Indeed. Project: Floki? Bit on the nose, isn’t it? > Ringmaster
-> Indeed. Project: Floki? Bit on the nose, isn’t it? > Ringmaster
-> Like I said, the Norse have a certain style. But this plan should
-not only help give your people some breathing room but shake the proverbial trees allowing us to gather the fruit.
-> Mr. Dowd
-> Like I said, the Norse have a certain style. But this plan should
-not only help give your people some breathing room but shake the proverbial trees allowing us to gather the fruit.
-> Mr. Dowd
-> Sounds a bit more Judeo-Christian, but I think it’s something we
-can work with.
+> Hmm. Interesting. All this on your free time?
 > Ringmaster
-> Sounds a bit more Judeo-Christian, but I think it’s something we
-can work with.
+> Of course. I prefer to keep my mind occupied—sleep never suited me anyway.
+> Mr. Dowd
+> Indeed. Project: Floki? Bit on the nose, isn’t it?
 > Ringmaster
-> It pleases me to no end to hear you say that, good sir. > Mr. Dowd
-> It pleases me to no end to hear you say that, good sir. > Mr. Dowd
+> Like I said, the Norse have a certain style. But this plan should not only help give your people some breathing room but shake the proverbial trees allowing us to gather the fruit.
+> Mr. Dowd
+> Sounds a bit more Judeo-Christian, but I think it’s something we can work with.
+> Ringmaster
+> It pleases me to no end to hear you say that, good sir.
+> Mr. Dowd
+
 <<<End Transcript>>>
+[/spoiler]
 
 ---
 
