@@ -1,0 +1,191 @@
+[color=brown][size=16pt][b]新程序与动作[/b][/size][/color]
+
+本节介绍了若干新程序工具，并描述了它们在《暗影狂奔》第四版中的使用方式。
+
+---
+
+[size=14pt][b]新软件[/b][/size]
+
+程序是黑客的命脉，对非黑客角色同样极为有用。
+
+[quote]
+[size=12pt][b]腐化(骇入)[/b][/size]
+
+腐化程序是编辑与浏览子程序的混合体，被设计用于在不删除存储文件的前提下，追踪并破坏节点中的特定信息(参见第112页的“腐化数据”矩阵动作)。其理念是：由于已删除的文件可从备份中恢复，腐化程序会编辑文件，将目标信息覆盖掉，同时保持文件本身不变，也不留下任何被篡改的痕迹，从而使被腐化的文件最终也会被备份，使原始信息的检测与恢复更加困难。
+
+此外，腐化程序可像数据炸弹(参见数据炸弹，第226页，SR4)一样绑定于特定文件上。如果被触发，该腐化程序将在文件被访问前摧毁其中的数据。以这种方式使用时，腐化程序可以与拆除数据炸弹的方式相同地拆除(参见第223页的“拆除数据炸弹”矩阵动作，SR4)。
+[/quote]
+
+[quote]
+[size=12pt][b]缴械(骇入)[/b][/size]
+
+缴械用于削弱程序功能而非令其崩溃。该程序通过腐化目标软件，使之无法对黑客(且仅对黑客)产生作用，从而有效中和其效果。操作系统、化身、IC、代理、网精与恶意软件不可被缴械，但此工具可有效对抗多数通用程序、骇入程序与自动软件。
+[/quote]
+
+[quote]
+[size=12pt][b]瘫痪(骇入)[/b][/size]
+
+瘫痪是一种作战用程序，不造成矩阵伤害，但通过大量占用系统资源来尝试冻结目标用户。瘫痪攻击的伤害处理方式类似攻击程序造成的矩阵伤害。然而，每点瘫痪伤害都会从节点的响应能力或系统等级/自驾(分别用于代理或网精)中相应扣除一点。攻击者可为每一点瘫痪伤害选择其影响哪一个属性。这些属性的下降会影响矩阵主动性、处理器限制以及订阅限制。如果瘫痪程序将两项矩阵属性皆降至0，则目标的化身被冻结。此时用户或代理将无法在矩阵中执行任何矩阵动作，直到其重启(参见第221页，SR4)。同样，若响应能力因瘫痪攻击降为0，则必须重启才能恢复。
+
+由于活体化身的独特、活体性质，超链者对瘫痪攻击免疫；而依赖所在节点资源的网精或其他自主实体(非由超链者直接供能者)则不对其免疫。
+[/quote]
+
+[quote]
+[size=12pt][b]清除(通用)[/b][/size]
+
+清除程序的唯一功能是通过消毒检定扫描被病毒程序感染的节点，识别并根除其中的有害代码(参见第112页)。以此方式清除后，受感染程序可被完全恢复至其正常功能与当前等级。
+[/quote]
+
+[spoiler]
+[color=brown][size=16pt][b]NEW PROGRAMS AND ACTIONS[/b][/size][/color]
+
+This section introduces a number of new utilities and describes the use of these programs in SR4.
+
+[size=14pt][b]NEW SOFTWARE[/b][/size]
+
+Programs are the lifeblood of hackers and are often quite useful to non-hackers as well.
+
+[quote]
+[size=12pt][b]CORRUPT (HACKING)[/b][/size]
+
+A mixture of Edit and Browse subroutines, Corrupt programs are designed to track down and demolish specific information in a node without actually deleting the files in which they are saved (see the Corrupt Data action, p. 112). The idea is that, since deleted files can be restored from back-ups, Corrupt edits the files to overwrite the targeted information while leaving the file intact, without making any indication of the alteration, so that the corrupted file is eventually backed up as well, making detection and recovery of the original more difficult.
+
+Additionally, Corrupt programs can be attached to a particular file in the same manner as Data Bombs (p. 226, SR4). If triggered, the Corrupt program demolishes the data before it can be accessed. Corrupt programs used in this way can be deactivated in same manner a Data Bomb is defused (see Disarm Data Bomb, p. 223, SR4).
+[/quote]
+
+[quote]
+[size=12pt][b]DISARM (HACKING)[/b][/size]
+
+Disarm is used to undermine programs without crashing them. It is used to corrupt targeted software so that the disarmed program cannot act against the hacker (and only the hacker), effectively neutralizing its use. Operating systems, personas, IC, agents, sprites, and malware may not be disarmed, but this utility is effective against most Common Use programs, Hacking programs, and autosofts.
+[/quote]
+
+[quote]
+[size=12pt][b]NUKE (HACKING)[/b][/size]
+
+Nuke is a combat utility that does not inflict Matrix damage, but instead hogs up system resources in an attempt to freeze the target user. Treat damage from a Nuke attack similar to Matrix damage from an Attack program. However, each box of Nuke damage instead deducts one point from either the node’s Response or System/Pilot (in case of agents or sprites) with the appropriate effects on Matrix Initiative, processor limit, and subscription limits. The attacker determines which attribute is affected by each point of Nuke damage. If Nuke reduces both values to zero, the target’s persona freezes. The user or agent can take no action within the Matrix until he reboots (p. 221, SR4). Likewise, Response reduced by a Nuke attack cannot be restored without a reboot.
+
+Due to the unique and organic nature of the living persona, technomancers are immune to Nuke attacks, while sprites and other autonomous entities that depend on the resources of the node they are on (rather than the technomancer), are not.
+[/quote]
+
+[quote]
+[size=12pt][b]PURGE (COMMON USE)[/b][/size]
+
+The sole purpose of Purge programs is to search through nodes infected with virus programs to find the virulent code and eradicate it with a Disinfect Test (see p. 112). Purging software in this manner restores the program completely to its normal use and present rating.
+[/quote]
+[/spoiler]
+
+---
+
+[size=14pt][b]新矩阵动作[/b][/size]
+
+矩阵动作是一组命令或指令，由矩阵用户通过特定程序发出给节点，以执行某项特定任务。请注意，若角色使用具备特定账户权限的账户登录节点(参见第216页，SR4)，其在权限允许范围内可自动成功执行特定系统操作。以下系统动作遵循《暗影狂奔》第四版所述的通用规则。
+
+[quote]
+[size=12pt][b]腐化数据[/b][/size]
+
+该矩阵动作会在特定节点或设备上启动一个腐化程序。类似浏览程序，该程序被设定为追踪并摧毁特定信息，需进行一次骇入＋腐化延续检定，间隔为1个战斗轮。由GM根据数据的复杂程度、节点规模与目标数据的稀有程度，设定检定阈值(参见“腐化阈值表”，第112页)。GM也可根据其他因素调整骰池或阈值，如数据的加密强度或受保护程度等。
+
+请注意，操作系统或节点整体结构无法被腐化程序破坏。
+[/quote]
+
+[quote]
+[size=12pt][b]腐化阈值表[/b][/size]
+
+[table]
+[tr][td][b]阈值[/b][/td][td][b]腐化数据任务[/b][/td][/tr]
+[tr][td]2[/td][td]腐化简易通讯链上的某些特定信息[/td][/tr]
+[tr][td]4[/td][td]破坏警方数据库中的犯罪档案[/td][/tr]
+[tr][td]8[/td][td]破坏公司枢纽中的所有文件副本[/td][/tr]
+[tr][td]15[/td][td]破坏接入点中所有提及阿兹特科技秘密董事会的内容[/td][/tr]
+[tr][td]20+[/td][td]破坏全球SIN登记处枢纽中所有具有相同生物特征数据的SIN[/td][/tr]
+[/table]
+[/quote]
+
+[quote]
+[size=12pt][b]解除程序[/b][/size]
+
+要解除某个程序，黑客需进行一次骇入＋缴械(防火墙＋系统等级，1个主动性阶段)延续检定。达到阈值后，目标程序将无法再对黑客发挥作用(例如，分析程序不会侦测黑客，攻击程序无法锁定黑客等)，但对其他用户仍可正常运作。同样，黑客仍可能被其他来源的相似程序所影响。解除效果将一直持续，直到该程序被重新加载，或黑客登出该节点为止。
+
+防火墙也可以被解除，但其内置了编码反制机制，使得解除尝试很容易触发警报。每当执行解除检定时，节点会进行一次分析＋防火墙(隐匿性)的延续检定。如果节点先达成其阈值，则会立刻触发警报，且防火墙会立即重新配置，令黑客必须从头开始解除尝试。
+
+请注意，解除程序不能用于对抗数据炸弹；拆除数据炸弹需使用拆除矩阵动作。
+[/quote]
+
+[quote]
+[size=12pt][b]消毒[/b][/size]
+
+要对病毒进行消毒，首先必须成功侦测该病毒(参见病毒，第120页)。一旦病毒被侦测到，即可通过一个复杂动作进行一次对抗检定：计算机＋清除vs病毒等级×2。如果检定成功，该节点内所有感染此病毒的程序将被彻底清除。
+
+如果节点被多个病毒感染，必须对每种病毒分别进行一次检定(这些检定均属于同一个复杂动作的一部分)。
+[/quote]
+
+[spoiler]
+[size=14pt][b]NEW MATRIX ACTIONS[/b][/size]
+
+Matrix actions are sets of commands or instructions a Matrix user issues to a node via a certain program to perform a specific task. Note that a character logged onto a node using an account with certain account privileges (see p. 216, SR4) may automatically succeed at specific system operations, according to the limits of their account. The following system actions follow the same guidelines and rules as described in Shadowrun, Fourth Edition.
+
+[quote]
+[size=12pt][b]CORRUPT DATA[/b][/size]
+
+The Corrupt Data action unleashes a Corrupt program on a particular node or device. Similar to Browse, the program is set to seek out and destroy a particular piece of information with an Extended Hacking + Corrupt Test with an interval of 1 Combat Turn. The gamemaster sets the threshold based on the complexity of the data, the size of the node, and the abundance of the data, as suggested on the Corruption Table (p. 112). The gamemaster may also modify the dice pool or threshold to account for addition factors, like encryption and protection of data.
+
+The OS or the integrity of a node cannot be comprised by the use of the Corrupt program.
+[/quote]
+
+[quote]
+[size=12pt][b]CORRUPTION TABLE[/b][/size]
+
+[table]
+[tr][td][b]Threshold[/b][/td][td][b]CORRUPTED DATA TASK[/b][/td][/tr]
+[tr][td]2[/td][td]Corrupt some specific information on a basic commlink[/td][/tr]
+[tr][td]4[/td][td]Compromise a criminal dossier in a police database[/td][/tr]
+[tr][td]8[/td][td]Impair all copies of a file in a corporate nexus[/td][/tr]
+[tr][td]15[/td][td]Corrupt every mention of Aztechnology’s secretive board of directors from Jackpoint[/td][/tr]
+[tr][td]20+[/td][td]Scramble all SINs with the same biometric data in the Global SIN Registry nexus[/td][/tr]
+[/table]
+[/quote]
+
+[quote]
+[size=12pt][b]DISARM PROGRAM[/b][/size]
+
+To disarm a program, the hacker must make a Hacking + Disarm (Firewall + System, 1 Initiative Pass) Extended Test. When the threshold is reached, the targeted software can no longer be used against the hacker (i.e., Analyze will not detect the hacker, Attack will not target the hacker, and so on). The disarmed software still functions normally against others. Likewise, the hacker is still vulnerable to similar software wielded by others. Disarmed software will remain neutralized until it has been reloaded or until the hacker logs off the node.
+
+Firewalls may also be disarmed, but they feature coded countermeasures that make such attempts likely to trigger an alert. The node makes an Analyze + Firewall (Stealth) Extended Test each time a Disarm Test is made. If it meets its threshold before the Disarm Extended Test succeeds, an alert is triggered, and the Firewall immediately reconfigures itself so that the Disarm attempt must be restarted.
+
+Note that Disarm may not be used against Data BombsDefuse is required for that.
+[/quote]
+
+[quote]
+[size=12pt][b]DISINFECT[/b][/size]
+
+In order to disinfect a virus, you must first have detected the virus (see Viruses, p. 120). Once detected, the virus can be purged with a Complex Action and an Opposed Test pitting Computer + Purge vs. the Virus Rating x 2. If successful, the virus and all copies of it residing in different programs in that node are removed.
+
+If a node is infected by more than one virus, a test must be made for each separate virus (this is considered part of the same Complex Action, however).
+[/quote]
+[/spoiler]
+
+---
+
+[quote]
+[size=14pt][b]尖端技术：军用规格软件[/b][/size]
+
+尽管普通程序的商业销售版本最高等级仅为6，但等级7或更高的尖端软件确实存在。这类被称为“军规级”或“原型级”的程序，通常只在政府和军队蜘蛛、特种部队黑客(如GOD或ARM特工)或开发该程序的超企特工之间使用和分发。
+
+为了防止这类军事级程序流入暗影或黑市，这些程序的副本受到严密监控。其使用或载入通常需通过生物识别身份验证，或依赖如限制或计时器等程序选项来加以控制。
+
+据传，一些机构与企业故意在这些程序中植入特殊病毒，这些病毒在程序被转移至不同通讯链或计算机系统后会从休眠状态激活，继而破坏系统、删除程序本体，并/或将其当前位置回传给原始持有者。
+
+GM应自行决定何时、何地将此类强力程序引入战役中。它们应当极为稀有，而“发现、窃取或获取”这类软件可能本身就是一个完整的冒险——更不用说如何保住它了。
+
+[spoiler]
+[size=14pt][b]THE CUTTING EDGE: MILITARY GRADE SOFTWARE[/b][/size]
+
+Although normal programs are only commercially available to a maximum rating of 6, cutting edge software with a rating of 7 or higher does exist. Socalled military-grade or prototype software is usually used and distributed only among governmental and military spiders, special unit hackers (like GOD or ARM agents), or the operatives of the megacorporations that develop these programs.
+
+To prevent military programs from leaking into the shadows and black markets, copies of these programs are closely monitored. Use or loading of these programs is often restricted by biometric identification or the use of Limitation or Timer program options.
+
+It is rumored that some agencies and corporations purposely infect these programs with special viruses that leave dormancy as soon as the software is transferred to a different commlink or computer system in order to wreak havoc on those systems, delete the software, and/or report its location to its originators.
+
+The gamemaster designs exactly when and where to include such potent programs in his campaign. They should be rare at best, and finding, stealing, or otherwise acquiring such software could be an adventure unto itself—not to mention keeping it.
+[/spoiler]
+[/quote]
