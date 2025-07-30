@@ -126,7 +126,7 @@ Sleuth sprites are excellent trackers, rumored to be able to find anyone in the 
 
 [table]
 [tr][td][b]技能：[/b]矩阵战斗[/td][/tr]
-[tr][td][b]复合程式：[/b]攻击(AP-2)、攻击(锈蚀)、断片、核打击[/td][/tr]
+[tr][td][b]复合程式：[/b]攻击(AP-2)、攻击(锈蚀)、断片、瘫痪[/td][/tr]
 [tr][td][b]能力：[/b]强力猛袭[/td][/tr]
 [tr][td][b]可选复合程式：[/b]矩阵护甲、黑锤头、级联(网精能级÷2，最高3级)、医疗、护盾[/td][/tr]
 [/table]

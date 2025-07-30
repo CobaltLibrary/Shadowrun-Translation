@@ -275,9 +275,9 @@ Under this rule, the normal routines and tricks that make software vulnerable to
 For the same reasons, A Data Bomb created by complex form cannot be disarmed by a normal Defuse program, though it may be disarmed by a Defuse complex form.
 [/spoiler]
 
-[size=12pt][b]免疫核打击[/b][/size]
+[size=12pt][b]免疫瘫痪[/b][/size]
 
-普通的核打击程序所瞄准的系统资源对超链者和网精来说并不存在，所以他们对其效果免疫。
+普通的瘫痪程序所瞄准的系统资源对超链者和网精来说并不存在，所以他们对其效果免疫。
 
 [spoiler]
 [size=12pt][b]IMMUNITY TO NUKE[/b][/size]
