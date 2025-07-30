@@ -1,0 +1,196 @@
+[color=brown][size=16pt][b]新自动软件[/b][/size][/color]
+
+自动软件是专用于扩展自驾程序的选项和功能的程序。自动软件提供特定的技能或新能力，超越了无人机狗脑或代理程序框架的常规编程范围。
+
+[spoiler]
+[color=brown][size=16pt][b]NEW AUTOSOFTS[/b][/size][/color]
+
+Autosofts are specialized programs that expand the options and capabilities of Pilot programs. Autosofts provide a specific skill or new ability that goes beyond the normal programming of either the drone’s dog brain or an agent’s frame programming.
+[/spoiler]
+
+---
+
+[size=14pt][b]代理自动软件[/b][/size]
+
+代理自动软件是一类专门设计用于强化矩阵代理与IC的专家程序，它们不兼容无人机的自驾程序。由于其程序结构复杂，这些子程序主要由矩阵安保公司编写，作为自适应的附加程序，用于让IC能与入侵的黑客或恶意软件(如蠕虫)一较高下。为了与对手匹敌，黑客也常将自动软件整合进自己的代理或蠕虫程序中。
+
+代理自动软件的花费和编程规则与无人机自动软件相同。
+
+[quote]
+[size=12pt][b]适应性 (等级1–3)[/b][/size]
+
+该自动软件扩展了代理在模糊逻辑与演绎推理方面的能力，整合了更高效的决策算法。在理解指令和自主决策时，可获得等同于该软件等级的额外DP(参见代理能力，第111页与发布指令，第214页, SR4)。
+[/quote]
+
+[quote]
+[size=12pt][b]级联 (等级1–3)[/b][/size]
+
+具备级联自动软件的代理可以分析目标防御、识别弱点，并调整其攻击策略以加以利用。当携带级联自动软件的代理在矩阵战斗中未击中目标，或命中但未造成伤害时，该智能软件会分析对方防御并优化攻击参数。每次攻击失败后，该代理的攻击骰池会增加等于“级联”等级的DP。这个加值具有累加性——每次攻击未果，该加值都会再次增加。不过，通过此方式获得的总加值不得超过该节点的响应能力×2。
+
+一旦矩阵战斗结束或代理离开该节点，级联所带来的骰池加值将被清除。
+[/quote]
+
+[quote]
+[size=12pt][b]专家防御 (等级1–3)[/b][/size]
+
+具备“专家防御”选项的代理在防御上非常出色。每一等级专家防御为该代理的防御检定增加1DP，最大加值为3。
+
+专家防御与专家攻击不可同时使用。
+[/quote]
+
+[quote]
+[size=12pt][b]专家攻击 (等级1–3)[/b][/size]
+
+具备“专家攻击”选项的代理在发动攻击时更为致命。每一点等级为其矩阵攻击检定增加1DP，最大加值为3。
+
+专家攻击与专家防御不可同时使用。
+[/quote]
+
+[quote]
+[size=12pt][b]主场优势 (等级)[/b][/size]
+
+内置了主场优势自动软件的代理被优化为只在特定节点内运行。由于其与该节点的特性高度同步，它能更容易发现异常或安保漏洞。在其“主场节点”内进行的所有矩阵侦察检定中，获得等同主场优势自动软件等级的骰池加值。
+[/quote]
+
+[quote]
+[size=12pt][b]自我复制 (等级)[/b][/size]
+
+自我复制是一种恶意自动软件，常被整合进蠕虫类代理程序中，使其能自行复制并传播至其他设备或节点(参见节点移动与账户，第110页)。在游戏规则中，具备该自动软件的蠕虫代理可借助系统资源将自身(包含其所加载的程序)复制至其可访问的其他节点，前提是这些程序可被复制(即不含“拷贝保护”程序选项，参见第114页)。
+
+自我复制操作使用自驾+自我复制(自驾x4，1个战斗轮)的延续检定以决定所需时间。
+[/quote]
+
+[spoiler]
+[size=14pt][b]AGENT AUTOSOFTS[/b][/size]
+
+Agent autosofts are expert programs designed to augment Matrix agents and IC; they are not compatible with drone Pilots. Programmed mainly by Matrix security companies (because of the complexity of an autosoft’s programming), these subroutines are adaptive add-ons designed to put IC on par with intruding hackers or malware agents (like worms). To match the opposition, however, hackers also integrate autosofts into their agents and worms.
+
+Agent autosofts follow the same rules for cost and programming as drone autosofts.
+
+[quote]
+[size=12pt][b]ADAPTABILITY (1–3)[/b][/size]
+
+This autosoft expands the agent’s capabilities for fuzzy logic and deductive reasoning, factoring in more efficient decisionmaking algorithms. This adds additional dice equal to the rating for comprehending orders and making autonomous decisions (see Agent Competency, p. 111, and Issuing Commands, p. 214, SR4).
+[/quote]
+
+[quote]
+[size=12pt][b]CASCADING (RATING 1–3)[/b][/size]
+
+Agents with the cascading autosoft are able to analyze a target’s defenses, pinpoint weaknesses, and improve its attacks to better exploit those vulnerabilities. When a cascading agent misses a target in cybercombat or fails to damage a target when it scores a hit, the cascading smartsoft analyzes the defenses and optimizes its attack parameters. As a result, after each failed attack, the agent’s attack dice pool increases by a number of dice equal to the Cascading rating. This increase is cumulative—each time the agents misses or the target neutralizes an attack, the dice pool is increased again. The maximum number of dice gained in this manner cannot exceed the node’s Response x 2.
+
+The dice pool bonus gained by Cascading is cleared as soon as cybercombat ends or the combatant leaves the node.
+[/quote]
+
+[quote]
+[size=12pt][b]EXPERT DEFENSE (RATING 1–3)[/b][/size]
+
+An agent programmed with the Expert Defense option is quite good at defending itself. Each point of Expert Defense adds an additional die to defense rolls made by the agent, up to a maximum bonus of 3. Expert Defense is incompatible with Expert Offense.
+[/quote]
+
+[quote]
+[size=12pt][b]EXPERT OFFENSE (RATING 1–3)[/b][/size]
+
+Agents programmed with the Expert Offense option make more effective attacks. Each point of Expert Offense adds an additional die to Matrix Attack Tests, to a maximum bonus of 3. Expert Offense is incompatible with Expert Defense.
+[/quote]
+
+[quote]
+[size=12pt][b]HOMEGROUND (RATING)[/b][/size]
+
+Agents that carry the Homeground autosoft are optimized to function in a specific node on which they are run. Attuned to the node’s particular characteristics, they will spot any anomalies or peculiarities like a breach of security more easily. Apply a dice pool modifier equal to the Homeground rating for all Matrix Perception Tests undertaken in their home node.
+[/quote]
+
+[quote]
+[size=12pt][b]REPLICATE (RATING)[/b][/size]
+
+Replicate is a malware autosoft usually integrated into worms so that they can multiply themselves and spawn to other devices and nodes (see Node Movement and Accounts p. 110). In game terms, a worm-like agent equipped with this autosoft draws on the system’s resources to reproduce itself onto another node to which it has access, including all the programs it has loaded, as long as these can be copied (i.e. they don’t carry the Copy Protection program option, p. 114). The worm makes a Pilot + Replicate (Pilot x 4, 1 Combat Turn) Extended Test to determine how long replication takes.
+[/quote]
+[/spoiler]
+
+---
+
+[size=14pt][b]无人机自动软件[/b][/size]
+
+随着无人机在安保、工厂、家庭乃至战区等不同领域中的广泛应用，对于将通用无人机设计模块化并适应专业任务的需求也日益增长。自动软件可以方便地在无人机上加载或卸载，使无人机在不受机师控制的情况下具备更强的自主性与功能性。
+
+[quote]
+[size=12pt][b]适应性 等级(1–3)[/b][/size]
+
+与第113页所述的代理自动软件相同。
+[/quote]
+
+[quote]
+[size=12pt][b]追踪者[/b][/size]
+
+该程序使无人机能够依靠基于传感器的目标定位与规避模式，在不被察觉的情况下尾随某人。无人机还会分析地图软件和其他信息，以预测目标可能的行进路线。无人机在尾随某人时使用追踪者+自驾进行跟踪检定。
+[/quote]
+
+[quote]
+[size=12pt][b]隐秘行动[/b][/size]
+
+该程序使无人机能适应当前环境以规避侦测、不引人注意，或主动潜行绕过守卫。配备隐秘行动自动软件的无人机可使用隐秘行动+自驾进行渗透检定，以避免被发现或通过电子传感器。
+[/quote]
+
+[quote]
+[size=12pt][b]【专业技能】[/b][/size]
+
+专业技能自动软件相当于单一的某项技术技能或知识技能。它允许具备相应设备与规格(如工具或操作臂)的无人机执行该任务，在检定中使用自驾 +【专业技能】。
+[/quote]
+
+[quote]
+[size=12pt][b]开路者[/b][/size]
+
+该自动软件常用于边境巡逻无人机，为其提供追踪和追捕野外泛人目标所需的信息。它可借由痕迹侦查、环境传感器扫描与地图软件计算路径，执行概率运算。在游戏中，它允许无人机以开路者+自驾进行追踪检定。
+[/quote]
+
+[spoiler]
+[size=14pt][b]DRONE AUTOSOFTS[/b][/size]
+
+With the integration of drones in different areas of operations like security, factories, households, or even war zones, the demand for adaptability and modular enhancement of general drone designs to specialized tasks is high. Autosofts, which can be easily loaded and unloaded from a drone, allow the expansion of drone abilities when not controlled by a rigger, providing them with greater autonomy and functionality.
+
+[quote]
+[size=12pt][b]ADAPTABILITY (1–3)[/b][/size]
+
+Same as the agent autosoft on p. 113.
+[/quote]
+
+[quote]
+[size=12pt][b]CHASER[/b][/size]
+
+This program enables the drone to shadow someone without being noticed, using sensor-based targeting and evasion patterns. The drone will also analyze mapsofts and other information to predict possible routes the targeted individual is likely to take. The drone rolls Chaser + Pilot while following someone (Shadowing Tests).
+[/quote]
+
+[quote]
+[size=12pt][b]COVERT OPS[/b][/size]
+
+This program enables the drone to adapt to the present environment to evade detection, go unnoticed, or actively sneak past guards. A drone equipped with a Covert Ops autosoft can make Infiltration Tests using Covert Ops + Pilot to avoid being spotted or pass electronic sensors.
+[/quote]
+[quote]
+[size=12pt][b][PROFESSION][/b][/size]
+
+Profession autosofts are the equivalent of a single Technical or Knowledge skill. It allows a drone with the proper equipment and specs (tools or working arms) to perform the task, rolling Pilot + [Profession] for the test.
+[/quote]
+
+[quote]
+[size=12pt][b]TRAILBLAZER[/b][/size]
+
+This autosoft is often employed by border patrol drones. It provides the drone with the necessary information to pursue and track down metahuman targets in the wilderness by detecting and following trails and calculating paths based on probability functions, environmental sensor scans, and mapsofts. In game terms, it enables the drone to make Tracking Tests rolling Trailblazer + Pilot.
+[/quote]
+[/spoiler]
+
+---
+
+[quote]
+[size=14pt][b]自动软件与日常生活[/b][/size]
+
+无人机的普及使用催生出大量不同种类且较为专门化的自动软件，这些软件适用于配备了相应机械工具、能够实际执行其所控制任务的无人机。最常见的自动软件套件是为家政事务而设计，如烹饪、清洁、园艺与家庭维护，使无人机能熟练地完成家务劳动，而无需持续监督。其他主流自动软件包还包括交通管理、建筑施工、消防、害虫清除以及农业/作物维护。
+
+一种有趣的新型自动软件使无人机能够根据来自传感器软件(共情软件，Arsenal，第60页)的输入，更有效地对泛人类行为模式作出反应。许多无人机受益于这一自动软件编程的最新进展，包括能以拟真动物行为回应主人情绪状态的宠物型生物无人机、照顾婴儿需求的机器人保姆，当然还有拟人型性爱机器人。
+
+[spoiler]
+[size=14pt][b]AUTOSOFTS AND DAILY LIFE[/b][/size]
+
+The ubiquitous use of drones has lead to the development of a plethora of different and often very specialized autosofts for drones equipped with the proper mechanical tools to actually execute the task governed by the software. The most common autosoft suites are designed for housekeeping tasks such as cooking, cleaning, groundskeeping, and home maintenance, allowing drones to skillfully complete household chores without constant supervision. Other mainstream autosoft packages include traffic management, construction, firefighting, pest removal, and farming/crop maintenance.
+
+One interesting new type of autosofts helps a drone to respond more effectively to human behavioral patterns based on the input the drone receives from sensor software (particularly Empathy software, p. 60, Arsenal). Many drones have benefited from this new advance in autosoft programming, including creature-like pet drones that respond to their owner’ emotional states with realistic animal patterns, robo-nannies that take care of an infant’s needs, and, of course, anthroform sex bots.
+[/spoiler]
+[/quote]
