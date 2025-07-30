@@ -60,7 +60,7 @@ PAN的拓扑结构 P.58-59
 [size=12pt][b]软件[/b][/size]
 [url=https://www.goddessfantasy.net/bbs/index.php?topic=139372.0]章首故事 P.106 [/url]
 [url=https://www.goddessfantasy.net/bbs/index.php?topic=140806.0]进阶软件规则 P.108-111[/url]
-新程序与动作 P.111-112
+[url=https://www.goddessfantasy.net/bbs/index.php?topic=160442.0]新程序与动作 P.111-112[/url]
 新自动软件 P.112-114
 程序选项 P.114-118
 软件编程 P.118-120
